@@ -1,0 +1,349 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8413,12246,,,3298-09-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3298-9-6**]       Discharge Date:  [**3298-9-9**]
+
+Date of Birth:   [**3215-1-28**]       Sex:  M
+
+Service:  Medicine
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname **] is an 83 year old
+gentleman with a history of coronary artery disease, type 2
+diabetes mellitus and osteomyelitis of his right foot in [**3297**]
+with Methicillin resistant Staphylococcus aureus
+Staphylococcus aureus, who was transferred from [**Hospital3 11659**] on [**3298-9-6**] to [**First Name4 (NamePattern1) 1294**] [**Last Name (NamePattern1) 5**] [**First Name (Titles) 6**]
+[**Last Name (Titles) 7**] for an elevated white blood cell count, fever and
+hypotension.  Previously that afternoon at [**Hospital3 11659**], Mr. [**Known patient lastname **] was found to be hypotensive with a blood
+pressure of 70/40 with a white blood cell count of 31,000 and
+right lower extremity cellulitis.
+
+On arrival to [**First Name4 (NamePattern1) 1294**] [**Last Name (NamePattern1) 5**] [**First Name (Titles) 6**] [**Last Name (Titles) 7**], the
+patient was afebrile with a temperature of 99.1, blood
+pressure 112/49 on Dopamine, a pulse of 80, breathing at 20
+and saturating at 97% in room air.  His physical examination
+at that time was remarkable for conjunctival exudates, clear
+lungs, sinus tachycardia and right lower extremity edema,
+erythema and induration.
+
+Admission white blood cell count was 28,100, hematocrit 31,
+platelet count 164,000 with 83% polycytes and 10% bands.
+Partial thromboplastin time was 42.1 and an INR of 4.2 on
+admission.  Sodium was 132, potassium 5.2, chloride 100,
+bicarbonate 27, BUN 39 and creatinine 1.9.  In the Emergency
+Room, an electrocardiogram showed sinus rhythm of 90 beats
+per minute, first degree A-V block, T wave inversion in I and
+AVL and T wave flattening in III and AVF.
+
+The patient was admitted directly to the Medical Intensive
+Care Unit at [**First Name4 (NamePattern1) 1294**] [**Last Name (NamePattern1) 5**] [**First Name (Titles) 6**] [**Last Name (Titles) 7**] for
+circulatory support with a Dopamine drip, with intravenous
+antibiotics for presumed sepsis.  At that point, he was
+treated with cefazolin.  In addition, the patient received a
+total of five liters of intravenous fluid for cardiovascular
+resuscitation.  His Coumadin was held at that time for an INR
+of 4.2.  He was ruled out for a myocardial infarction by
+cardiac enzymes.
+
+In addition, the patient had lower extremity noninvasive
+ultrasounds which were negative for deep vein thrombosis.  In
+the Medical Intensive Care Unit at [**First Name4 (NamePattern1) 1294**] [**Last Name (NamePattern1) 5**]
+[**First Name (Titles) 6**] [**Last Name (Titles) 7**], the patient's blood pressure rapidly resolved
+and he was successfully weaned from the Dopamine drip within
+12 hours.  With a stable blood pressure, he was transferred
+to the floor for further management of his infection,
+diabetes mellitus and blood pressure.
+
+PHYSICAL EXAMINATION:  On arrival to the floor, Mr. [**Known patient lastname **] was
+afebrile with a temperature of 98.6, blood pressure 116/60,
+heart rate 82, respiratory rate 18 and oxygen saturation 94%
+in room air.  General:  Pleasant, elderly appearing male
+sitting upright in a chair, speaking with a visitor, in no
+acute distress, appearing very comfortable.  Head, eyes,
+ears, nose and throat:  Normocephalic, atraumatic, pupils
+equal, round, and reactive to light and accommodation,
+exotropia of both eyelids, left greater than right and
+bilateral conjunctivitis, oropharynx moist and clear.  Neck:
+No jugular venous distention appreciated, supple without
+lymphadenopathy, no bruits.  Cardiovascular:  Regular rate
+and rhythm, pronounced S1, soft S2 and no mechanical click
+appreciated, no murmur, rub or gallop.  Lungs:  Bilateral
+bibasilar crackles but no wheezes or rhonchi.  Abdomen:
+Soft, obese, nontender, nondistended, positive bowel sounds,
+no costovertebral angle tenderness.  Extremities:  3+ pitting
+edema, erythema and warmth of right lower extremity
+two-thirds of the way up the calf but no crepitus or
+discoloration appreciated, no tenderness to palpation; both
+feet were cool and there was good capillary refill in both
+lower extremities.  Neurologic examination:  Alert and
+oriented times three, moving all extremities symmetrically,
+sensation grossly intact.
+
+LABORATORY DATA:  On admission to the medicine floor, white
+blood cell count was 13.2, hematocrit 28.2, platelet count
+131,000, INR 3, sodium 137, potassium 4.4, chloride 104,
+bicarbonate 26, BUN 30, creatinine 1.3 and glucose 147.
+Calcium, magnesium and phosphorous were normal.  Creatinine
+kinase was 604.  Chest x-ray on [**3298-9-6**] showed a
+subtle opacity in the right middle lobe without air
+bronchograms, mild cardiomegaly but no congestive heart
+failure; the right middle lobe opacity was of uncertain
+significance.  A repeat PA and lateral film was obtained,
+however, was not available for final read at the time of
+discharge.
+
+Urine culture on [**3298-9-6**] was negative.  Blood
+cultures on the same day grew one out of four bottles of
+group B streptococcus, the sensitivities of which were
+pending at the time of discharge.
+
+HOSPITAL COURSE:  1.  Infectious disease:  The patient was
+switched to intravenous vancomycin 1 gram every 12 hours for
+a history of Methicillin resistant Staphylococcus aureus in
+the past of the same right lower extremity.  He received
+approximately six doses of vancomycin, with improvement in
+the erythema and edema of his right lower extremity.  As
+mentioned earlier, the patient's blood cultures grew one out
+of four bottles from [**3298-9-6**], group B streptococcus,
+sensitivities of which were pending at the time of discharge.
+In addition, the patient was continued to be treated with
+erythromycin ointment for his conjunctivitis and he had a
+follow-up chest x-ray for a questionable right middle lobe
+infiltrate, the final read of which was not available by the
+time of discharge.
+
+2.  Cardiovascular:  The patient's blood pressure was stable,
+running between 110 and 120/50 to 70 his entire time on the
+floor.  He required no Dopamine or pressors.  He was
+restarted on his Zestril and Coreg.  In addition, he was
+continued on aspirin.
+
+3.  Hematologic:  The patient has a history of a mitral valve
+replacement with a mechanical valve, per the patient.  He was
+being anticoagulated.  However, on the floor, his last INR
+was 1.4 and his target should be 3.  At that point, he was
+started on a heparin drip and, to bridge him to therapeutic
+anticoagulation, warfarin.  This heparin drip was continued
+at the time of transfer to [**Hospital1 **].
+
+The patient, throughout his first day, was continued on a
+warfarin dose of 5 mg at bedtime and, on the day of
+discharge, was increased to 7.5 mg at bedtime every other day
+alternating with 5 mg every other day, the dose that he
+originally came in on.  In addition, during the interim, the
+patient was treated with subcutaneous heparin for deep vein
+thrombosis and pulmonary embolism prophylaxis.
+
+4.  Endocrine:  The patient has type 2 diabetes mellitus.  He
+was covered with a regular insulin sliding scale on the floor
+and restarted on his preadmission insulin dose of NPH 22
+units in the morning and 6 units in the evening, and regular
+insulin 8 units in the morning.  His blood sugars generally
+ran between 150 and 320.
+
+CONDITION AT DISCHARGE:  Good.
+
+DISCHARGE DIAGNOSES:
+1.  Sepsis and bacteremia with group B streptococcus.
+2.  Coronary artery disease, status post coronary artery
+bypass grafting and mitral valve replacement with mechanical
+valve in [**3295**].
+3.  Right lower extremity cellulitis, questionable
+osteomyelitis.
+4.  Diabetes mellitus.
+5.  Anemia.
+
+DISCHARGE MEDICATIONS:
+Aspirin 325 mg p.o.q.d.
+Coreg 12.5 mg p.o.b.i.d.
+Colace 100 mg p.o.b.i.d.
+Erythromycin 0.5% ophthalmic ointment one application
+o.u.q.i.d.
+Eucerin cream.
+Heparin drip dosed to a partial thromboplastin time of 60 to
+80 as bridge to an INR of 3.
+Insulin NPH 22 units q.a.m. and 6 units q.p.m.
+Regular insulin 8 units q.a.m.
+Zestril 5 mg p.o.q.d.
+Warfarin 5 mg p.o.q.o.d.
+Warfarin 7.5 mg p.o.q.o.d.
+Protonix 40 mg p.o.q.d.
+Vancomycin 1 gm i.v.q.12h.
+
+FOLLOW-UP PLAN:  Mr. [**Known patient lastname **] is to be transferred back to
+[**Hospital3 **].  There, he requires the following
+interventions:
+
+1.  Anticoagulation with a heparin drip for a target partial
+thromboplastin time of 60 to 80 until INR can be brought up
+to the target of 3 with his warfarin.
+2.  Echocardiogram given group B streptococcus bacteremia and
+history of mitral valve replacement with a mechanical valve
+to rule out thrombus.
+3.  Plain films and magnetic resonance imaging scan of right
+foot in addition to an erythrocyte sedimentation rate to rule
+out osteomyelitis of that foot.
+4.  Prolonged antibiotics for the group B streptococcus
+bacteremia and possible osteomyelitis.
+
+
+
+                            [**First Name11 (Name Pattern1) 335**] [**Last Name (NamePattern4) 336**], M.D.  [**MD Number 337**]
+
+Dictated By:[**Last Name (NamePattern1) 7181**]
+MEDQUIST36
+
+D:  [**3298-9-9**]  14:07
+T:  [**3298-9-9**]  15:10
+JOB#:  [**Job Number 11660**]
+
+cc:[**9-11**]
+
+",,
+8413,12246,,,3298-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3298-9-6**] 4:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7592**]
+     Reason: please assess for infiltrate                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with sepsis                                                     
+     REASON FOR THIS EXAMINATION:
+      please assess for infiltrate                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  83 y/o man with sepsis. Evaluate for infiltrate.
+     
+     A single AP upright portable chest radiograph was obtained without priors for
+     comparison.
+     
+     The overall heart size is mildly enlarged and the patient is status post
+     median sternotomy, CABG, and prosthestic valve replacement.  The pulmonary
+     vascularity is within normal limits with no evidence of left heart failure.
+     There is a slight density overlying the right middle lobe without evidence of
+     air bronchograms.  There is linear atelectasis at the left lower lobe.  No
+     pleural effusions are seen.  There is a question of bony deformity of the
+     anterior rib cage on the right.
+     
+     IMPRESSION:
+     1. Subtle opacity in the right middle lobe without definite air bronchograms.
+     Follow up radiographs are recommended to confirm or exclude developing
+     infiltrate in this region.
+     2. Cardiomegaly without evidence of left heart failure.
+
+",,
+8413,12246,10455,0,3298-09-06 15:02:00 EST,3298-09-06 15:30:00 EST,-1,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+S- "" I feel better today!""
+
+O- see flowsheet for all objective data.
+
+cv- Tele: 1st degree AVB- HR 84-93 no cardiac c/o- B/P 94/41- 121/45 off dopamine gtt since early am- K 4 Hct 29.4 - SBP 90's @ 2p- reported to HO- 250cc fld bolus given with effect- CPK's up MB's low-
+troponin < .3 PT 24.6 Ptt 43.8 INR 4.2- takes coumadin daily for Hx CABG with MVR.
+
+resp- O2 3l via NC- lung sounds with bibasilar crackles- resp even, non-labored- Sa02 92-99%.
+
+gi- abd soft, non-tender (+) bowel sounds- ate light lunch- no N/V- taking po flds well.
+
+gu- foley draining clear yellow colored urine qs- (+) 5L @ present-
+BUN 30 Crea 1.1
+
+id- T 100.9 @ 10a & 99.6 po @ 2p-  R leg > L- cellulitis noted RLE- hot to touch- on Ancef 1g IV q 6hr- no tylenol given this shift- blood culture X 1 done this am.
+
+endo- IDDM- NPH 10u sc given this am- glu @ noon 166- reg insulin 2u sc given as per sliding scale.
+
+A- sepsis secondary to RLE cellulitis
+
+P- monitor hemodynamics- give fluids as needed - follow lab results-
+assess lung sounds & I&O- con't antibiotics as ordered- offer Pt emotional support & keep Pt & family updated.
+
+",,
+8413,12246,10455,0,3298-09-06 17:23:00 EST,3298-09-06 17:26:00 EST,-1,"N",1,"Nursing/Other",,"
+
+Addendum: Temp 101.3 po @ 6p- tylenol tabs 2 po given- fingerstick glucose 196- reg insulin 2u SC given- B/P 120/51 @ present- IV flds @ KVO- con't on Ancef 1gm IV q6hrs.
+",,
+8413,12246,10455,0,3298-09-06 18:46:00 EST,3298-09-06 18:52:00 EST,-1,"N",1,"Nursing/Other",,"
+
+pt assessment 2000 (for 7p-7a)
+nuero---a+ox4 denies ha,dizziness,cp and sob.+ext mvt x4, no deficits all senation and mvt=.hoh.perrla.conjunctivitis tx ertyhtomycin oint.sm tan drainage.
+cv--sr1 degree av block no ectopy.bp wnl after fl resusitation today.+5l last 24hr.dopa off.+pulses x4 all confirmed lower ext w/ dopplers.
+resp----fine rales lower lobes.no sob on 3l n/c.+air exchange all lobes
+gi---slight nausia,zofran given prn w/ + effect.tol po well.last bm 48hr.abd large dist + bsx4
+gu---good u/o clear yellow.
+skin---r le +cellulitis dx.reddened to mid thigh,warm +[**2-9**] edema.doppler -dvt.
+iv---r/l iv sites inatact.+blood return
+[**Hospital 5739**] transfer to med floor
+",,
+8413,12246,,,3298-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3298-9-8**] 4:39 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7593**]
+     Reason: PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Pain.
+     
+     COMPARISON: [**3298-9-6**]
+     
+     FINDINGS: Bilateral effusions are present especially evident on the lateral
+     view, posteriorly. This was not as apparent at the left lateral costophrenic
+     focus on the prior exam. In addition, the pulmonary vessels appear slightly
+     more distended and this suggests exaccerbation of fluid overload. No definite
+     infiltrate is seen. Fluid accumulates in the right major fissure. A congenital
+     rib abnormality is incidentally seen on the right.
+     
+     The cardiac silhouette is enlarged but no different than prior. Prosthetic
+     cadiac valve is noted. CABG changes are evident. Upper lungs are clear and
+     there is no pneumothorax.
+     
+     IMPRESSION:
+     Fluid overload slightly worse than prior. Subtle increase in density on the
+     frontal view in the region of the right lower lobe but not well localized on
+     the lateral view. Follow up recommended to see if this is an evolving process
+     of manifestation of slight increase in pulmonary vascular markings.
+
+",,
+8413,12246,,,3298-09-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3298-9-9**] 12:55 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 7594**]
+     Reason: PICC placement                                              
+     ********************************* CPT Codes ********************************
+     * 36489 CVL/PICC                       76942 UD GUID FOR NEEDLE PLACMENT   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old man with septicemia requiring prolonged Abx. Single lumen.          
+     REASON FOR THIS EXAMINATION:
+      PICC placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Patient requires long-term antibiotics for bacteremia and right leg
+     cellulitis.  IV was not possible to advance a PICC line.
+     
+     PROCEDURE:  The procedure was performed by Dr[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 752**] and [**First Name4 (NamePattern1) 89**] [**Last Name (NamePattern1) 90**], with Dr.
+     [**Last Name (STitle) 6**], attending radiologist, being present and supervising the entire
+     procedure. The left upper arm was prepped in a sterile fashion.  Since no
+     suitable superficial veins were visible ultrasound was used for localization
+     of a suitable vein. The basilic vein was of small caliber and the brachial
+     vein was therefore visualized.  The brachial vein was patent and compressible.
+     After local anesthesia with 2 ml of 1% Lidocaine, the brachial vein was
+     entered under ultrasonographic guidance with a 21 g. needle.  A .018 guidewire
+     was advanced under fluoroscopy into the superior vena cava.  Based on the
+     markers on the guidewire it was determined that a length of 41 cm would be
+     suitable. The PICC line was trimmed to the length and advanced over a 4 French
+     introducer sheath under fluoroscopic guidance into the superior vena cava.
+     The sheath was removed.  The catheter was flushed.  A final chest x-ray was
+     obtained. The film demonstrates the tip to be in the superior vena cava just
+     above the atrium.  The line is ready for use.
+     
+     A stat-lock was applied and the line was hep-locked.
+     
+     IMPRESSION:  Successful placement of a 41 cm total length 4 French double
+     lumen PICC line with tip in the superior vena cava, ready for use.
+
+",,

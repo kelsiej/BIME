@@ -1,0 +1,545 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8171,4994,,,2737-04-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2737-4-17**]       Discharge Date:  [**2737-4-21**]
+
+Date of Birth:   [**2656-5-4**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 80-year-old
+man with a history of chronic obstructive pulmonary disease,
+congestive heart failure, atrial fibrillation and
+hypothyroidism who was initially transferred from [**Hospital 934**]
+hospital after an episode of hemoptysis on [**2737-4-16**].  The
+patient developed respiratory distress and coughed up 300 to
+400 cc of blood.  Bronchoscopy at the outside hospital
+revealed a large exophytic tumor in the right mainstem.  The
+patient was transferred to [**Hospital1 47**] on [**2737-4-17**] for rigid bronchoscopy.
+
+PAST MEDICAL HISTORY:  1. Chronic obstructive pulmonary
+disease.  2. Congestive heart failure with ejection fraction
+of 30%.  3. Chronic atrial fibrillation.  4. Hypothyroidism.
+5. Right upper lobe lung mass consistent with adenocarcinoma
+diagnosed with outside hospital thoracentesis (stage IIIb).  6.
+Prior hemothorax/hemorrhagic effusion, patient failed pleurodesis
+x 2. 7. Upper GI bleed/peptic ulcer disease; EGD on [**2737-3-20**],
+[**2737-4-3**].  8. Delirium.
+
+MEDICATIONS ON ADMISSION:  1. Synthroid 0.15 mcg p.o. q.d.
+2. Digoxin 0.125 mg p.o. q.d.  3. Potassium 20 mEq p.o.
+b.i.d.  4. Prednisone 12 mg p.o. b.i.d.  5. Lasix 40 mg p.o.
+q.d.  6. Zyprexa 2.5 mg p.o. q.d.  7. Protonix 40 mg p.o.
+q.d.  8. Nitroglycerin paste.
+
+PHYSICAL EXAMINATION:  On admission his temperature was 99.8,
+blood pressure 116/45, pulse 63.  The patient was intubated
+and sedated.  HEENT:  Pupils were equal, round, and reactive
+to light, extraocular movements intact, sclerae anicteric.
+Neck:  Supple.  Chest:  Diffuse faint expiratory wheezes
+bilaterally.  Cardiovascular:  Irregularly irregular with a
+2/5 systolic ejection murmur at the base.  Abdomen:  Soft,
+nontender, nondistended, no pedal edema.  Neurologic:  The
+patient was sedated.
+
+LABORATORY DATA:  On admission the white count was 14.0,
+hematocrit 29.6, INR 1.3.
+
+OUTSIDE HOSPITAL STUDIES:
+1. Chest x-ray demonstrated a left pleural effusion and right
+hilar fullness.
+2. Chest and abdomen CT from [**2737-3-23**] demonstrated bibasilar
+atelectasis and porcelain gallbladder.
+3. EKG demonstrated normal sinus rhythm at a rate of 90,
+normal axis, left ventricular hypertrophy, ST depression 1 mm
+in V2 through V6, T wave inversions in leads 1 and 2.
+4. Echocardiogram on [**2737-3-19**] showed an ejection fraction of
+35-40%, anterior hypokinesis, apical hypokinesis, moderate
+tricuspid regurgitation, pulmonary artery systolic pressure
+of 34.
+
+HOSPITAL COURSE:  The patient was taken to bronchoscopy where
+an exophytic tumor emanating from the anterior right upper
+lobe was destroyed with argon plasma coagulation and debrided
+with forceps. The pathology is pending at the time of this
+dictation.  The patient was extubated without difficulty and had
+no further hemoptysis.
+
+The patient was set up with the multidisciplinary oncology
+clinic.  His appointment is at 10:30 AM on Thursday, [**2737-4-22**] on
+[**Hospital Ward Name **] 9 of the West Campus of [**Hospital1 47**].  The patient and his family wished to pursue further
+options.  The patient is DNR but would elect to be intubated if
+it were deemed necessary by the medical team.  The patient's son
+is [**First Name8 (NamePattern2) **] [**Known patient lastname **] ([**Telephone/Fax (1) 11269**].
+
+DISCHARGE MEDICATIONS:
+1. Combivent inhaler 2 puffs inhaled q. 4 hours.
+2. Levothyroxine 150 mcg p.o. q.d.
+3. Olanzapine 2.5 mg p.o. q.d.
+4. Digoxin 0.125 mg p.o. q.d.
+5. Prednisone 20 mg p.o. b.i.d.
+6. Furosemide 40 mg p.o. q.d.
+7. Pantoprazole 40 mg p.o. q. 24 hours.
+8. Metoprolol 25 mg p.o. b.i.d.
+9. Tylenol 650 mg p.o. q. 4-6 hours p.r.n. pain.
+
+
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Name8 (MD) **], M.D.  [**MD Number 4355**]
+
+Dictated By:[**Last Name (NamePattern1) 11270**]
+MEDQUIST36
+
+D:  [**2737-4-21**]  10:46
+T:  [**2737-4-21**]  11:03
+JOB#:  [**Job Number 11271**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: WED [**2737-4-21**] 1:14 PM
+(End of Report)
+
+
+",,
+8171,4994,,,2737-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2737-4-17**] 4:18 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5412**]
+     Reason: Please eval for pneumonia                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with COPD, CHF, lung ca presents with endobronchial lesion, 
+      hemoptysis.
+     REASON FOR THIS EXAMINATION:
+      Please eval for pneumonia                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Patient with lung cancer, hemoptysis.
+     
+     There are no prior films available for comparison. The heart is slightly
+     enlarged. Extensive chronic changes are present bilaterally. Considerable
+     opacification at the left base is present which may reflect pleural fluid or
+     consolidation in the left lower lobe. An endotracheal tube is present
+     terminating approximately 4 cm above the carina.
+     
+     There are a few faint calcifications in the upper lobes indicative of prior
+     granulomatous disease.
+     
+     The density of left hilum is somewhat increased raising the question of hilar
+     adenopathy.
+     
+     IMPRESSION:
+     
+     1. Cardiomegaly with proximal parenchymal changes at the left base.
+     
+     2. Question left hilar adenopathy.
+
+",,
+8171,4994,10166,0,2737-04-17 15:49:00 EST,2737-04-17 15:51:00 EST,2070,"N",69,"Nursing/Other",,"
+
+Resp. Care Note
+Pt adm. from OR s/p rigid bronch/argon laser. Intubated and vented on current settings AC 600x 14x 50% peep 5 with ABG- 105/44/7.42/30/+3. Plan is to allow to wake and attempt to wean.
+",,
+8171,4994,10166,0,2737-04-18 04:23:00 EST,2737-04-18 04:26:00 EST,2452,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Able to wean PSV from 18 down to 15 cmh20. Pt tolerated these settings for the majority of the shift. This morning A/0 x3 asking for water. RSBI done successfully, SBT initiated @0525.
+BS: essentially clear, sxn'd x1 for white loose
+Send abg in 1 hr and if acceptable extubate
+",,
+8171,4994,10166,0,2737-04-18 05:27:00 EST,2737-04-18 05:42:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Neuro: Pt. remains A/A/O with pt. able to deny pain by nodding his head appro. to questions. Pt remains afebrile. Pt moves all extremities, follows commands. 
+CV: HR NSR, occ pvc's. Had episode of juctional escape beats for 5secs. pt remained asymptomatic, vss. pulses weak, easily palpable bil. 1unit prbc's overnight. 
+Resp: pt remains on same settings. ls clear. Plan is for extubation upon rounds. RSBI 37 this am. suctioned for small amt thin clear sputum. 02 stast 96-99%. 
+GI: pt remains npo, abd soft, +bs. no bm. 
+GU: foley intact draining lg amts pale yellow clear urine. pt received 40mg iv lasix post transfusion w/ good out put. 
+Dispo: plan to be extubated today, re evaluate code status. Pt is a full code at this time. family called in overnight, will be in this am. 
+",,
+8171,4994,10166,0,2737-04-18 15:50:00 EST,2737-04-18 15:55:00 EST,1831,"N",69,"Nursing/Other","MICU RN/TRANSFER NOTE","
+MICU RN/TRANSFER NOTE
+PLEASE SEE ICU ADMIT NOTE FOR DETAILS OF ADMISSION ON [**4-17**] (YESTERDAY). 
+TODAY WAS EXTUBATED AT 0800. AND IS CURRENTLY ON 70%FACE TENT YIELDING SATS>94%. HE HAS AN EXCELLENT COUGH, PRODUCTIVE FOR COPIOUS AMTS TAN SPUTUM-->YANKAUER.
+
+CV: REMAINS IN CHRONIC AFIB. RATE 55-70. FREQUENT ECTOPT, TRIGEMINY, PAIRS PVC--THIS AM, THIS HAS TAPERED TO INFREQUENT EPISODES OF PVC'S. 
+
+GI/GU: FOLEY. TOL PO'S WELL...JELLO, ICE AND WATER. 
+
+PLAN: TRANFER TO CC701. REPORT GIVEN TO RN-[**Doctor First Name **]. 
+",,
+8171,4994,,,2737-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8171,4994,,,2737-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2737-4-20**] 8:22 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 5413**]
+     Reason: ADENOCARDINOMA OF LUNG/NEW DELERIUM/ EVAL FOR METS
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with adenocarcinoma of the lung now eith delerium. r/o mets     
+     REASON FOR THIS EXAMINATION:
+      r/o mets                                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Adenocarcinoma of the lungs, now with delerium.
+     
+     CT SCAN OF THE HEAD BEFORE AND AFTER ADMINISTRATION OF CONTRAST MATERIAL:
+     
+     FINDINGS:  There is no mass effect or hemorrhage. There is no abnormal
+     contrast enhancement to suggest the presence of metastatic disease.
+     Ventricles and sulci are minimally prominent consistent with mild brain
+     atrophy.  There is no evidence of an extraaxial lesion. There is no
+     displacement of normally midline structures.  The visualized paranasal sinuses
+     are clear.
+     
+     IMPRESSION: Mild brain atrophy.  No evidence of metastatic disease.
+
+",,
+8171,4994,,,2737-04-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2737-4-21**] 5:42 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5414**]
+     Reason: Adenocarcinoma. Continues to wheeze. Eval for any infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      Adenocarcinoma. Continues to wheeze. Eval for any infiltrate                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEWS CHEST:
+     
+     CLINICAL INDICATION:  Adenocarcinoma.  Wheezing.
+     
+     Comparison is made to recent study of [**2737-4-17**].
+     
+     The patient is markedly rotated towards the right, limiting assessment of the
+     cardiac and mediastinal contours.  Even allowing for this factor, the heart
+     appears enlarged.  The pulmonary vascularity is engorged and there is
+     perihilar haziness and peribronchial cuffing.  There is also an asymmetric
+     interstitial pattern affecting the left lung to a greater degree than the
+     right which has progressed in the interval.  Small pleural effusions are seen
+     bilaterally.
+     
+     Cystic changes are noted in the upper lobes suggesting underlying emphysema.
+     A few small granulomas are present in the left lung.
+     
+     IMPRESSION:
+     1)  Findings most suggestive of congestive heart failure superimposed on
+     underlying emphysema.  Known adenocarcinoma is not well demonstrated on this
+     portable CXR in the setting of CHF. Correlative CT may be helpful.
+     2)  Small bilateral pleural effusions.
+
+",,
+8171,4994,,,2737-04-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 5415**]
+     Reason: 80 Y/O MAN WITH RECENTLY DIAGNOSED ADENOCARCINOMA OF LUNG. EVALUATE FOR METASTASES.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Eighty-year-old man with recently diagnosed adenocarcinoma of the  
+     lung.  Evaluate for metastases.
+     
+     INTERPRETATION:  Whole body views of the skeleton show a subtle focus of mildly
+     increased tracer activity located at the right-[**Hospital1 786**] aspect of the T10 vertebral
+     body.  No other abnormal foci are identified. 
+     
+     The kidneys and urinary bladder are visualized, the normal route of tracer
+     excretion.
+     
+     IMPRESSION:  Subtle focus of increased tracer activity at the T10 vertebral body
+     level.  The differential diagnosis for this appearance includes focal
+     degenerative change vs a solitary metastasis.  The patient subsequently
+     underwent CT of the torso which will be reported separately. /nkg
+                                                                           
+
+             [**First Name8 (NamePattern2) 3370**] [**Last Name (NamePattern1) 3371**], M.D.
+             [**First Name11 (Name Pattern1) 485**] [**Last Name (NamePattern1) 486**], M.D.        Approved: MON [**2737-4-26**] 9:06 AM
+
+
+             Date Mailed: [**2737-4-27**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8171,4994,,,2737-04-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2737-4-22**] 4:20 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 5416**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lung mets                                   
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with adeno CA of lung                                           
+     REASON FOR THIS EXAMINATION:
+      please eval for lung mets                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Adenocarcinoma of the lung.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung apices to the pubic symphysis after the administration of 150 cc of
+     Optiray contrast intravenously.  Pre contrast and early phase imaging was
+     obtained through the liver.
+     
+     COMPARISON:  None.
+     
+     CT CHEST WITH INTRAVENOUS CONTRAST:  There is cardiomegaly with four chamber
+     enlargement.  There is no pericardial effusion.  The great vessels are
+     unremarkable.  There are small lymph nodes identified in the AP window,
+     pretracheal and subcarinal regions as well as anterior to the right main stem
+     bronchus, the latter is the largest measuring approximately 1.5 x 2.2 cm.
+     There is no axillary lymphadenopathy.  There are small bilateral pleural
+     effusions.  The lung parenchyma is notable for extensive emphysematous changes
+     predominantly at the lung apices where there is associated scarring.  There is
+     no definite mass in the pulmonary parenchyma.  There is increased
+     opacification at the left lung base with a nodular component in the
+     posteromedial area which all appears chronic in nature.
+     
+     CT ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  The liver is notable for an
+     area of low attenuation adjacent to the falciform ligament consistent with
+     focal fatty infiltration.  The gallbladder is grossly abnormal with a
+     calcified thickened wall as well as either internal septations or gallstones.
+     There is no definite mass associated with the gallbladder.  Multiple punctate
+     calcifications are seen within the spleen, consistent with prior granulomatous
+     disease.  The pancreas is normal.  The left adrenal gland appears prominent
+     and rounded.  The right adrenal gland is normal.  The left kidney is notable
+     for a simple cyst in the midpole.  The right kidney is normal.  The kidneys
+     enhance and excrete contrast symmetrically and the ureters are normal.  The
+     visualized loops of contrast opacified bowel are normal.  The abdominal aorta
+     is extensively calcified.  There is no lymphadenopathy or free fluid.  A
+     moderate hiatal hernia is noted.
+     
+     CT PELVIS WITH INTRAVENOUS CONTRAST:  Sigmoid diverticula are present.  The
+     rectum is normal.  The prostate gland is enlarged.  The distal ureters and
+     urinary bladder are normal.  There is no free fluid or lymphadenopathy.
+     
+     BONE WINDOWS:  Degenerative changes are noted in the lumbar spine.  In
+                                                                 (Over)
+
+     DATE: [**2737-4-22**] 4:20 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 5416**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lung mets                                   
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     addition, there is a fracture of the right transverse process of the L1
+     vertebral body.
+     
+     IMPRESSION:
+     1.  Mediastinal and right hilar lymphadenopathy with no definite pulmonary
+     mass seen.  There is rounded fullness to the left adrenal gland and a
+     metastasis cannot be excluded.
+     2.  Chronic changes in the left lower lobe with small bilateral pleural
+     effusions.
+     3.  Emphysematous changes, particularly extensive at the lung apices.
+     4.  Cardiomegaly.
+     5.  Thickened gallbladder wall with calcifications consistent with porcelain
+     gallbladder with possible internal septations of the gallbladder.  Neoplastic
+     process cannot be excluded.
+     6.  Punctate calcifications in the spleen consistent with prior granulomatous
+     disease.
+     7.  Hiatal hernia.
+     8.  Diverticulosis.
+     9.  Enlarged prostate gland.
+     10. Minimally displaced fracture of the right transverse process of the L1
+     vertebral body.
+     
+
+",,
+8171,4994,,,2737-04-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2737-4-22**] 4:20 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 5416**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lung mets                                   
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with adeno CA of lung                                           
+     REASON FOR THIS EXAMINATION:
+      please eval for lung mets                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Adenocarcinoma of the lung.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung apices to the pubic symphysis after the administration of 150 cc of
+     Optiray contrast intravenously.  Pre contrast and early phase imaging was
+     obtained through the liver.
+     
+     COMPARISON:  None.
+     
+     CT CHEST WITH INTRAVENOUS CONTRAST:  There is cardiomegaly with four chamber
+     enlargement.  There is no pericardial effusion.  The great vessels are
+     unremarkable.  There are small lymph nodes identified in the AP window,
+     pretracheal and subcarinal regions as well as anterior to the right main stem
+     bronchus, the latter is the largest measuring approximately 1.5 x 2.2 cm.
+     There is no axillary lymphadenopathy.  There are small bilateral pleural
+     effusions.  The lung parenchyma is notable for extensive emphysematous changes
+     predominantly at the lung apices where there is associated scarring.  There is
+     no definite mass in the pulmonary parenchyma.  There is increased
+     opacification at the left lung base with a nodular component in the
+     posteromedial area which all appears chronic in nature.
+     
+     CT ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  The liver is notable for an
+     area of low attenuation adjacent to the falciform ligament consistent with
+     focal fatty infiltration.  The gallbladder is grossly abnormal with a
+     calcified thickened wall as well as either internal septations or gallstones.
+     There is no definite mass associated with the gallbladder.  Multiple punctate
+     calcifications are seen within the spleen, consistent with prior granulomatous
+     disease.  The pancreas is normal.  The left adrenal gland appears prominent
+     and rounded.  The right adrenal gland is normal.  The left kidney is notable
+     for a simple cyst in the midpole.  The right kidney is normal.  The kidneys
+     enhance and excrete contrast symmetrically and the ureters are normal.  The
+     visualized loops of contrast opacified bowel are normal.  The abdominal aorta
+     is extensively calcified.  There is no lymphadenopathy or free fluid.  A
+     moderate hiatal hernia is noted.
+     
+     CT PELVIS WITH INTRAVENOUS CONTRAST:  Sigmoid diverticula are present.  The
+     rectum is normal.  The prostate gland is enlarged.  The distal ureters and
+     urinary bladder are normal.  There is no free fluid or lymphadenopathy.
+     
+     BONE WINDOWS:  Degenerative changes are noted in the lumbar spine.  In
+                                                                 (Over)
+
+     DATE: [**2737-4-22**] 4:20 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 5416**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lung mets                                   
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     addition, there is a fracture of the right transverse process of the L1
+     vertebral body.
+     
+     IMPRESSION:
+     1.  Mediastinal and right hilar lymphadenopathy with no definite pulmonary
+     mass seen.  There is rounded fullness to the left adrenal gland and a
+     metastasis cannot be excluded.
+     2.  Chronic changes in the left lower lobe with small bilateral pleural
+     effusions.
+     3.  Emphysematous changes, particularly extensive at the lung apices.
+     4.  Cardiomegaly.
+     5.  Thickened gallbladder wall with calcifications consistent with porcelain
+     gallbladder with possible internal septations of the gallbladder.  Neoplastic
+     process cannot be excluded.
+     6.  Punctate calcifications in the spleen consistent with prior granulomatous
+     disease.
+     7.  Hiatal hernia.
+     8.  Diverticulosis.
+     9.  Enlarged prostate gland.
+     10. Minimally displaced fracture of the right transverse process of the L1
+     vertebral body.
+     
+
+",,
+8171,4994,,,2737-04-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2737-4-22**] 4:20 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 5416**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lung mets                                   
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with adeno CA of lung                                           
+     REASON FOR THIS EXAMINATION:
+      please eval for lung mets                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Adenocarcinoma of the lung.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung apices to the pubic symphysis after the administration of 150 cc of
+     Optiray contrast intravenously.  Pre contrast and early phase imaging was
+     obtained through the liver.
+     
+     COMPARISON:  None.
+     
+     CT CHEST WITH INTRAVENOUS CONTRAST:  There is cardiomegaly with four chamber
+     enlargement.  There is no pericardial effusion.  The great vessels are
+     unremarkable.  There are small lymph nodes identified in the AP window,
+     pretracheal and subcarinal regions as well as anterior to the right main stem
+     bronchus, the latter is the largest measuring approximately 1.5 x 2.2 cm.
+     There is no axillary lymphadenopathy.  There are small bilateral pleural
+     effusions.  The lung parenchyma is notable for extensive emphysematous changes
+     predominantly at the lung apices where there is associated scarring.  There is
+     no definite mass in the pulmonary parenchyma.  There is increased
+     opacification at the left lung base with a nodular component in the
+     posteromedial area which all appears chronic in nature.
+     
+     CT ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  The liver is notable for an
+     area of low attenuation adjacent to the falciform ligament consistent with
+     focal fatty infiltration.  The gallbladder is grossly abnormal with a
+     calcified thickened wall as well as either internal septations or gallstones.
+     There is no definite mass associated with the gallbladder.  Multiple punctate
+     calcifications are seen within the spleen, consistent with prior granulomatous
+     disease.  The pancreas is normal.  The left adrenal gland appears prominent
+     and rounded.  The right adrenal gland is normal.  The left kidney is notable
+     for a simple cyst in the midpole.  The right kidney is normal.  The kidneys
+     enhance and excrete contrast symmetrically and the ureters are normal.  The
+     visualized loops of contrast opacified bowel are normal.  The abdominal aorta
+     is extensively calcified.  There is no lymphadenopathy or free fluid.  A
+     moderate hiatal hernia is noted.
+     
+     CT PELVIS WITH INTRAVENOUS CONTRAST:  Sigmoid diverticula are present.  The
+     rectum is normal.  The prostate gland is enlarged.  The distal ureters and
+     urinary bladder are normal.  There is no free fluid or lymphadenopathy.
+     
+     BONE WINDOWS:  Degenerative changes are noted in the lumbar spine.  In
+                                                                 (Over)
+
+     DATE: [**2737-4-22**] 4:20 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 5416**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lung mets                                   
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     addition, there is a fracture of the right transverse process of the L1
+     vertebral body.
+     
+     IMPRESSION:
+     1.  Mediastinal and right hilar lymphadenopathy with no definite pulmonary
+     mass seen.  There is rounded fullness to the left adrenal gland and a
+     metastasis cannot be excluded.
+     2.  Chronic changes in the left lower lobe with small bilateral pleural
+     effusions.
+     3.  Emphysematous changes, particularly extensive at the lung apices.
+     4.  Cardiomegaly.
+     5.  Thickened gallbladder wall with calcifications consistent with porcelain
+     gallbladder with possible internal septations of the gallbladder.  Neoplastic
+     process cannot be excluded.
+     6.  Punctate calcifications in the spleen consistent with prior granulomatous
+     disease.
+     7.  Hiatal hernia.
+     8.  Diverticulosis.
+     9.  Enlarged prostate gland.
+     10. Minimally displaced fracture of the right transverse process of the L1
+     vertebral body.
+     
+
+",,

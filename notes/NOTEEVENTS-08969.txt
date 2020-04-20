@@ -1,0 +1,236 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8969,28783,,,3269-03-01 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3269-3-1**]              Discharge Date:   [**3269-3-5**]
+ 
+Date of Birth:  [**3196-12-5**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2380**] 
+Chief Complaint:
+Transferred from Caritas for Ventricular Tachycardia
+ 
+Major Surgical or Invasive Procedure:
+EP study without ablation
+
+ 
+History of Present Illness:
+72 yo woman admitted with chest tightness and having ""funny 
+feeling"" in her chest, found to be in V Tach.  Converted to 
+paced rhythm with Amiodarone 150mg and admitted to the ICU.  
+Started on an amiodarone drip at 9AM [**3269-3-1**] at 0.5mg/min for 18 
+hours.  Medtronics check pt's AICD and found the V Tach rate to 
+be set too low for the AICD to fire.  Pt was also started on a 
+neosynephrine drip for hypotension.  Pt was seen by Dr. [**Last Name (STitle) 12530**] 
+at Caritas, and decision was made to transfer to [**Hospital1 83**] for 
+management because her physicians and records are here.  
+
+Of note, pt has a history of thyroid toxicity d/t amiodarone, 
+which was d/c'd 4 weeks ago, per pt, four months ago, per chart. 
+ Pt has been on tapazole for > 1 year for hyperthyroid.  She 
+recently became hypothyroid but continued the Tapazole.  
+
+ROS neg except pt had some loose stools before admission.
+
+ 
+Past Medical History:
+CHF
+Cardiomyopathy
+COPD
+s/p pacemaker
+defibrillator placement
+manic depression
+ 
+Social History:
+Former smoker
+ 
+Pertinent Results:
+EKG:
+A-V paced rhythm 
+Pacemaker rhythm - no further analysis 
+Since previous tracing, paced rhythm noted 
+  
+CXR:
+No acute lung pathology.
+
+[**3269-3-1**] 05:54PM BLOOD TSH-21*
+[**3269-3-1**] 05:54PM BLOOD T4-3.4* Free T4-0.5*
+
+EP Study:
+Inducible VT upon stimulation of aorta.  No ablation.
+ 
+Brief Hospital Course:
+Ms. [**Known patient lastname 262**] is a 72 yo woman with CHF, COPD, s/p AICD, 
+transferred from OSH with V Tach on amiodarone and neosynephrine 
+drips.  AICD did not fire.  
+
+Rhythm: Pt presented to OSH in V Tach and was converted to SR 
+with an amidarone bolus and maintained on an amiodarone drip for 
+18 hours.  She remained in a paced sinus rhythm without 
+symptoms.  Pt was seen by the EP service who adjusted her ICD to 
+begin anti-tachycardia pacing at 130 beats/min (AVP).  She 
+underwent an EP study on [**3269-3-4**], showing inducible VT upon 
+stimulation of the aorta.  No ablation was done.  Pt was 
+discharged on 25mg Toprol qd, decreased from her outpt dose of 
+50mg, because of hypotension to SBP = 80.
+
+Pump: h/o CHF: Pt is on coumadin for cardiomyopathy with an EF 
+of 20%.  She did not have any symptoms of CHF during admission.  
+Restarted on outpt Lasix 20 qd.
+
+Cor: Pt was hypotensive after conversion and placed on a 
+neosynephrine drip for one day.  Of note, pt has low blood 
+pressure at baseline.  Pt on ASA 81, Zocor, Toprol (decreased to 
+25mg qd).
+
+Endocrine: Pt has h/o thyroid toxicity d/t amiodarone.  She was 
+hyperthyroid for > 1yr, on Tapozole.  Per her records, her 
+amiodarone was discontinued in [**3268-10-26**].  She subsequently 
+developed hypothyroidism on Tapozole, which was discontinued 
+during this admission.  On exam, pt does have a palpable nodule 
+but she is refusing fine needle biopsy at this time.  She will 
+need a biopsy as an out patient, and recheck of her TFT's.  
+
+COPD: Alb/Atrovent inh prn
+
+Manic depression: Lithium (level WNL at 1.1) and Clonazepam.
+
+ 
+Medications on Admission:
+foxamax 40 q week
+toprol 50 qd
+ECASA 325
+protonix 40
+lithium 300 bid
+lasix 20 qd
+clonazepam 0.5 qhs
+coumadin 2.5
+zocor 10
+albuterol/atrovent inhaler prn
+ 
+Discharge Medications:
+1. Aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+2. Lithium Carbonate 300 mg Tablet Sustained Release Sig: One 
+(1) Tablet Sustained Release PO BID (2 times a day).  
+3. Clonazepam 0.5 mg Tablet Sig: One (1) Tablet PO QHS (once a 
+day (at bedtime)).  
+4. Simvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Warfarin Sodium 2.5 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).
+Disp:*30 Tablet(s)* Refills:*2*
+6. Metoprolol Succinate 25 mg Tablet Sustained Release 24HR Sig: 
+One (1) Tablet Sustained Release 24HR PO DAILY (Daily).
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*0*
+7. Outpatient Lab Work
+Free T4 and TSH on Friday Februray 11th, 2005.
+Please send results to Dr. [**Last Name (STitle) **] (phone [**Telephone/Fax (1) 2333**]).  Thank 
+[**Doctor First Name **].
+8. Lasix 20 mg Tablet Sig: One (1) Tablet PO once a day.  
+9. FOSAMAX 40 mg Tablet Sig: One (1) Tablet PO once a week.  
+10. Outpatient Lab Work
+Please check INR on Friday [**3-8**] and send results to Dr. 
+[**First Name8 (NamePattern2) 4279**] [**Last Name (NamePattern1) **]. Thanks. 
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Ventricular Tachycardia 
+Status post EP study without ablation
+Adjustment of pacer (ATP)
+
+ 
+Discharge Condition:
+Pt was in good condition, with stable vital signs (her BP runs 
+asymptomatically low in the 80-90 range).
+ 
+Discharge Instructions:
+Please call your doctor or return to the hospital if [**Doctor First Name **] 
+experience chest pain, shortness of breath, increased sweating, 
+bleeding, increased weakness.
+
+Take all your medications as prescribed below.
+
+Please go to the anticoagulation clinic as [**Doctor First Name **] were prior to 
+admission. We have decreased the dose of Coumadin to 2.5 mg 
+daily, and it may need to be adjusted. 
+
+Get your blood drawn on Friday, [**3-8**], to check your 
+thyroid function.  The results will be sent to Dr. [**Last Name (STitle) **].
+ 
+Followup Instructions:
+1) Follow up with Dr. [**Last Name (STitle) **] at your appointment next week. 
+
+2) [**Doctor First Name 10**] have a scheduled appointment with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] as 
+indicated below in 1 month. It is important that [**Doctor First Name **] go to this 
+appointment. 
+
+Provider: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], MD [**MD Number 105**]: [**Hospital6 106**] CARDIAC 
+SERVICES Phone:[**Telephone/Fax (1) 375**] Date/Time:[**3269-4-10**] 2:00
+
+3) Call the Device Clinic to schedule an appointment in 1 month.
+
+4) Please call your PCP and schedule an appointment to see him 
+within 2 weeks of discharge. 
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1220**] MD [**MD Number 1221**]
+ 
+Completed by: [**Name6 (MD) 2002**] [**Last Name (NamePattern4) 2003**] MD [**MD Number 2004**] [**3269-3-6**] @ 0754
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: FRI [**3269-3-8**] 3:12 PM
+(End of Report)
+
+
+",,
+8969,28783,11153,0,3269-03-01 18:25:00 EST,3269-03-01 18:36:00 EST,5207,"N",1,"Nursing/Other",,"
+
+pt transfered from good [**Hospital 6364**] hospital.   A+ox3. on [**2-28**] patient complained of feeling sweaty, clammy, and diaphoretic, then experienced chest pressure that did not go away so she called EMS.  At the hospital she was found to be in a wide complex tachycardia with hypotension.  She was given an amnioderone bolus and started on amnioderone gtt as well as neosenephrine for her hypotension and transfered to [**Hospital1 22**].  On admission VSS on 0.7 mcg/kg/min of neosenephrine and 0.5 of amnioderone.  Pt denies any allergies, but states in the past when she took amnioderone she developed hyperthyroidism and lost a lot of weight.  Her hypothyroidism resolved when the amnioderone was stoped.  She denies pain or SOB.  O2 sats 98-100% on room air.  LS clear to ascultation a bit diminished in the bases.  Abdomen soft non-tender positive BS.  Voiding clear yellow urine in the bedpan.  labs sent and ekg obtained on admission.  Awaiting further orders.  Continuous telemetry and watch VS closely for any arrythmias and hypotension.  Pt oriented to environment, notified family of where she is, and call bell in reach. Pt instructed to call for nurse if she experiences any SOB, chest pressure/pain or feeling sweaty/diaphoretic. See flowsheet for rest of assessment data and pmhx. 
+",,
+8969,28783,11153,0,3269-03-02 04:20:00 EST,3269-03-02 04:41:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 7p-7a","
+CCU NPN 7p-7a
+S: ""I feel fine, its just that my tachycardia was too slow for my pacemaker to fire""
+O: see carevue for complete assessment data
+NERUO: A&Ox3, calm, seems to have good understanding of events leading up to hospitalization. Sleeping throughout night, MAE, shifts position in bed. Klonopin and lithium @ HS.
+
+CV: HR 55 100% AV paced, no ectopy noted. Amiodarone 0.5mg/min infusion stopped at 0300 after 18hr. Tolerating slow wean of Neo, maintaining MAP>60, currently @ .35mcg/kg/min, 250cc NS bolus for transient hypotension->resolved. No c/o CP/palpitations. Distal pulses palpable. CK 130/MB 6/Tnt 0.03, ECG w/ flipped t's in I,avL, v6. 
+
+RESP: SpO2 >95% on RA, RR 15. LS mildly diminished at bases bilat. No c/o SOB. 
+
+GI/GU: tolerated heart healthy dinner, abd soft, nontender, nondistended, +BS/-BM. Voiding clear yellow urine, using bedpan w/ assist. +100cc since MN, +300cc LOS. BUN/Cr 23/1.2 
+
+ID: afebrile, tmax 98.1 PO. 
+
+ENDO: TSH elevated (21), T4 and free t4 low 3.4/.5
+
+A: 72yo w/ AICD s/p episode VT to which ICD did not fire (rate under set rate of ICD). Converted to NSR after amio bolus and gtt. Hypotensive requiring Neo, tolerating wean. 
+P: follow up am labs. Cont to wean neo as tolerated. Monitor HR and rhythm, EP to interrogate pacer today.   
+",,
+8969,28783,11153,0,3269-03-02 19:21:00 EST,3269-03-02 19:24:00 EST,2143,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s: i feel ok
+o: pls see carevue flowsheet for complete vs/data/events
+weaned off neo. tol well. hr 60s sr w prolonged pr. bp 86-120/50-60. 
+amb to bathroom. oob to ch. tol well.
+no sob. tol diet.
+a/p: cont to follow hemodynamics. safety precautions.
+",,
+8969,28783,11153,0,3269-03-03 00:03:00 EST,3269-03-03 00:16:00 EST,2691,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTES","
+CCU NURSING PROGRESS NOTES
+S""THE BACK OF MY SHOULDER IS SORE""
+O:PT ALERT AND ORIENTED, UP IN CHAIR, C/O SORE SHOULDER AND NECK, PT REFUSED TYLENOL. HOT PACK APPLIED W/ GOOD EFFECT. 
+CV:MHR SR TO A-PACE IN 60-70, 
+RESP: LS CLEAR AND DIMINISHED BILAT. O2 SAT 98% ON RA. 
+GI:TAKING LIQ
+GU:OOB TO BR TO VOID.
+A/P:S/P WCT, HAD ICD INTERROGATION TODAY. OFF AMIODARONE . NO FURTHER EPISODES OF VT. CONTINUE CARDIAC MONITORING. SEE CARE VUE FOR ADDITIONAL INFORMATION. 
+",,

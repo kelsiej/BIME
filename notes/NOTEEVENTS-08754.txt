@@ -1,0 +1,259 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8754,975,,,3309-05-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3309-5-13**]     Discharge Date:  [**3309-5-13**]
+
+Date of Birth:   [**3232-8-8**]     Sex:  F
+
+Service:  CCU
+
+ADMISSION REASON:  Observation, status post perforated ramus.
+
+HISTORY OF PRESENT ILLNESS:  This is a 76-year-old female
+with a cardiac history notable for hypertension and
+hyperlipidemia with chronic intermittent atrial fibrillation
+who was admitted to [**Hospital1 75**]
+earlier days four days status post non-ST-elevation
+myocardial infarction with a peak creatine kinase of 600 and
+a MB of 39 at the [**Hospital 51**] Hospital.  She had no prior
+coronary artery disease history.
+
+The patient was admitted to [**Hospital 51**] Hospital on [**3309-5-9**] with new onset of severe chest pain associated with
+shortness of breath and nausea that resolved with morphine
+and nitroglycerin.  She had been treated for fatigue and
+cough in those two days associated with bronchitis.  There
+was no prior history of dyspnea, or lower extremity edema,
+paroxysmal nocturnal dyspnea, orthopnea, palpitations, or
+dizziness.
+
+At [**Hospital 51**] Hospital, she remained chest pain free and was
+started on nitrates, low-molecular heparin, and Aggrastat.
+Her intervention was delayed due to a INR of 3.6 that was
+eventually treated with vitamin K.  An echocardiogram
+obtained at [**Hospital 51**] Hospital on [**3309-5-10**], showed an
+ejection fraction of 60% with no regional wall motion
+abnormalities, mild mitral regurgitation, a normal right
+ventricle, and normal left atrium and normal right atrium
+dimensions.  The electrocardiogram at the time of admission
+to [**Hospital 51**] Hospital showed normal sinus rhythm at a rate of
+65, with an axis of 90 degrees, QRS with 120 msec, prominent
+persist R waves throughout the precordium,  Q-R in V1, and a
+QRS in V6, T wave inversions in II, III, and F were noted as
+in V1 through V4, 1-mm ST depressions were present in I, V5,
+and V6.  No prior electrocardiograms were available for
+comparison.
+
+On [**3309-5-13**], the patient was transferred to [**Hospital1 74**] for semi-elective cardiac
+catheterization in the post non-ST-elevation myocardial
+infarction period.  The results were as follows:  The
+patient's right atrial pressure was 3, pulmonary artery of
+26/10, wedge of 9, cardiac index of 2.2, pulmonary artery
+saturation of 61.
+
+A left ventriculography showed a ejection fraction of 70%.
+No mitral regurgitation and normal wall motion.  The left
+main was normal.  The left anterior descending artery had a
+50% ostial.  The ramus had a diffuse 80% proximal that was
+stented with 2-mm X 13-mm pixel.  This was complicated by a
+distal wire perforation.  No dissection, and brisk flow was
+noted through the stent.  First obtuse marginal had a 90%
+lesion and was very small.  The second obtuse marginal had a
+70% focal stenosis; this received percutaneous transluminal
+coronary angioplasty which was complicated by mild
+dissection.  Then a 2.5-mm X 9-mm S60 stent was deployed.
+This was complicated by proximal spasm leading to a 2.25-mm X
+8-mm pixel stent being deployed proximal to the original
+stent with 20% residual stenoses in the stent, a 10% residual
+stenosis in the 3-mm region between the stent.  The right
+coronary artery had diffuse 40% proximal disease.
+
+A bedside echocardiogram in the catheterization laboratory,
+after the distal wire perforation of the ramus, showed no
+free-flowing effusion, right atrial or right ventricular
+compression.  Integrilin and heparin were discontinued in the
+laboratory, and the patient was admitted to the Coronary Care
+Unit with pleuritic substernal chest pain status post
+catheterization with no electrocardiogram changes when
+compared to prior catheterization.  Her post catheterization
+electrocardiogram showed the following:  She was in normal
+sinus rhythm at a rate of 66.  Axis of 91, QRS was 114, ST
+depressions and T wave inversions in II, III, F, V1 through
+V6, and a 1-mm to 2-mm ST elevations in I and L.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Hyperlipidemia.
+3.  Low back pain/spinal stenosis.
+4.  Chronic intermittent atrial fibrillation.
+5.  Osteoarthritis.
+
+MEDICATIONS ON ADMISSION:  (Home medications included)
+1.  Coumadin.
+2.  Atenolol 50 mg p.o. q.d.
+3.  Digoxin 0.125 mg p.o. q.d.
+4.  Lipitor 10 mg p.o. q.d.
+5.  Xanax p.r.n.
+
+MEDICATIONS ON TRANSFER:  (Medications on transfer from
+[**Hospital 51**] Hospital included)
+1.  Nitroglycerin paste.
+2.  Lipitor 10 mg p.o. q.d.
+3.  Digoxin 0.25 mg p.o. q.d.
+4.  Atenolol 50 mg p.o. q.d.
+5.  Lovenox 60 mg subcutaneous b.i.d. (held on the a.m. of
+transfer).
+6.  Lasix 20 mg p.o. q.d.
+7.  Aspirin 325 mg p.o. q.d.
+
+SOCIAL HISTORY:  The patient is a 1-pack per day smoker times
+50 years.  She lives alone and does her own activities of
+daily living.  She has the support of her brother and his
+wife in terms of activities of daily living.
+
+FAMILY HISTORY:  The patient's father had coronary artery
+disease in his 70s; otherwise, unremarkable.
+
+PHYSICAL EXAMINATION ON PRESENTATION:   Admission physical
+examination revealed vital signs with a temperature of 93.9
+(axillary), pulse of 60 in normal sinus rhythm with
+occasional premature ventricular contractions, blood pressure
+of 115/74, respiratory rate of 18, oxygen saturation of 99%
+on 4 liters nasal cannula oxygen.  Head, eyes, ears, nose,
+and throat showed pupils were equal, round, and reactive to
+light.  Extraocular movements were intact.  Sclerae were
+anicteric.  The oropharynx was clear.  Neck was supple.
+Jugular venous distention was less than 8 cm.  Chest was
+clear to auscultation on anterior examination.
+Cardiovascular examination was nondisplaced, normal size
+point of maximal impulse, a regular rhythm with normal rate.
+No third heart sound and no fourth heart sound.  No murmurs.
+Pulsus was between 5 mm and 10 mm.  The abdomen was soft,
+nontender, and nondistended, normal active bowel sounds.  No
+hepatosplenomegaly.  Groin revealed arteriovenous sheath was
+in place on the right, dressing was clean, dry, and intact.
+No palpable hematoma, 2+ pulses.  Neurologically, alert and
+oriented times three.  Appropriate attention.  Cranial nerves
+II through XII were intact.  Strength was [**5-26**] in all four
+extremities on limited testing.
+
+HOSPITAL COURSE:   The patient was admitted to the Coronary
+Care Unit for observation status post perforation of the
+ramus.
+
+Over the next several hours, the patient remained
+hemodynamically stable and maintained a rhythm that was
+mostly sinus, though she did have periods of accelerated
+idioventricular rhythm and junctional escape which
+necessitated at least placement of a transcutaneous pacing
+pads.
+
+At roughly 8 p.m. (four hours after being admitted to the
+Coronary Care Unit), the patient rapidly became hypotensive
+with a mean arterial pressure in the 40s and a preserved
+sinus rhythm.  The patient was ramped up to high doses of
+dopamine without good response and then transcutaneous pacing
+was initiated with a subsequent response in the mean arterial
+pressure to the 60s.
+
+A bedside echocardiogram was performed which was remarkable
+for a large effusion.  Right ventricular and right atrial
+collapse could not be observed.  The patient was also noted
+to have a pulseless paradoxus on her atrial blood pressure
+tracing.  The patient soon began decompensating on maximum
+doses on pressors, and so an emergent bedside
+pericardiocentesis was performed; roughly 500 cc of
+nonclotting dark blood was extracted from the pericardial
+space with subsequent restoration of blood pressure.
+
+However, over the next 10 minutes to 15 minutes, the patient
+again dropped her blood pressure and another EMD code
+occurred.  The patient was then found to be expressing clots
+along with fresh blood from her pericardial drain.
+
+Cardiac Surgery was involved at this point, and the patient
+was emergently taken to the operating room for repair of a
+presumed arterial laceration leading to cardiac tamponade.
+The patient was coded on her way down to the operating room
+and was coded throughout much of the case.
+
+At 11:32, the patient was declared dead after roughly one
+hour of coding of fibrillating myocardia.  After roughly a
+half hour of coding of fibrillating myocardia an
+intramyocardial was observed on the posterior wall.
+
+The patient was pronounced dead at 11:32.  The patient's
+family members were contacted, and the decision for a
+postmortem examination was pending at the time of this
+dictation.
+
+
+
+
+
+
+                         DR.[**Last Name (STitle) 906**],[**First Name3 (LF) 246**] 12-661
+
+Dictated By:[**Name8 (MD) 6084**]
+
+MEDQUIST36
+
+D:  [**3309-5-14**]  00:29
+T:  [**3309-5-14**]  12:38
+JOB#:  [**Job Number 12180**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 246**] [**Last Name (NamePattern1) 906**]
+ on: FRI [**3309-6-28**] 4:22 PM
+(End of Report)
+
+
+",,
+8754,975,10890,0,3309-05-13 18:05:00 EST,3309-05-13 18:59:00 EST,-1,"N",1,"Nursing/Other","CCU Admission Note 0700-1900: S/P MI, S/P Stent","
+CCU Admission Note 0700-1900: S/P MI, S/P Stent
+HPI:76 year-old female who was admitted to OSH on [**5-9**]-elevation MI and no c/o CP or CHF with a (+) troponin of 37. Pt then transfered to [**Hospital1 22**] on [**5-12**] for cardiac cath
+
+PMH: Afib, Hypertension, Hypercholesteremia, no known CAD, Arthritis, Bursitis, and spinal stenosis.
+
+SOCIAL: Lives at home alone. Independent with ADL's and drives a car.
+
+ALLERGIES: CODEINE
+
+CATH: Right femoral approach. Induction without difficult. Transiently started on Nitro for hypertension but weaned in lab. LMCA: no dz, LAD: 50% ostial lesion and diffuse 80% proximal, LCX: 90% OM1 and 70% OM2, and RCA: 40% diffuse proximal. Stent times two to Circ OM1.
+Post stent diploy notice dye leaking from site. Emergent cardiac echo showing small pericardial effusion. Integrillin dc'd and given Atropine for loss of atrial kick. Opening pressures: PCWP: 11, PA: 26/10, RV: 27/4. LVEF 70%.
+
+ID: Afebrile. No issues.
+
+MS: Lethargic and confused. Oriented to self but not time or place. In and out of sleeping. Obeying and followin simple commands. Moving upper extremeties.
+
+CV: HR 50s to 60s. NSR with frequent couplets. In and out of junctional rhymthm with loss of P wave in addition to BP dropping with ryhthm. Pacer pads on and Dopa at bedside. SBP 70s to 120s/50s to 60s. Recieved from Cath Lab c/o [**10-31**] CP with inspiration and expiration. No radiation or nausea. EKG done with no changes. Given tylenol due to patient being to sedate from lab. Will state has CP when aroused but shortly falling back to [**Doctor Last Name 5**] in mid-sentenc. Right femoral sheath intact. Arterial sheath to monitor and Venous sheath to monitor PA. 
+PAS mid 20s to 30's with PAD 10s to 15. No hematoma or oozing from site noted. Knee immobilzer in place. Pulses distal are trace palpable with cool extremeties. Post cath IVF: D51/2NS at 200cc/hr times 10 or 12hrs. Intergrillin dc'd in lab and no plans for Heparin at current time.
+
+RESP: LS diminshed due to poor gas exchange. O2Sats 97-100% on 4LNC. Noted irregular pattern when breathing. [**1-23**] period of anpnea about 3 seconds long with a respiratory rate of 18s to 20s. MSO4 held for sedate. 
+
+GU/GI: Foley inserted with intial residual of 150cc. Voiding clear yellow urine. Abd soft and flat with normoactive BSs. Given sip of H20 and tolerated fine. Pt currently NPO.
+
+SKIN: Note quarter size bruises on back of pt thigh bilateral. No hematoma noted. Purple in color. No drainage note. Continue to monitor.
+
+SOCIAL: No phone calls or visits this shift.
+ 
+A/P: 74 year old s/p cardiac cath and pericardial effusion.
+Continue to monitor hemodynamics overnoc
+Team to re-eval in morning.  
+",,
+8754,975,10890,0,3309-05-13 23:58:00 EST,3309-05-14 01:00:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+Neuro:  Initially pt was A&O x3.  Pt cooperative and appropriate, pt depressed, pt claims ""she never wanted the procedure and would rather die"".  Pt able to move self.  Pts status began to deteriorate, pts BP decreased yet pt was still mentating, pts status con't to fall and pt then became unresponsive, yet aggressive in response to procedures.
+
+Cardiac:  Pt initially in an underline sinus rhythm with ST depression rate in the 60's, pt would have frequent rhythm changes to a junctional rhythm in the 50's, pt would have supsequent BP drops into the 80's sys with junctional rhythm.  At 2100 Pt was in a SR and unable to maintain a BP.  Pt started on dopa, EKG done, and pt paced briefly.  BP increased to map of 50's-60's.  Pts HR increased, pt then started on Levo to decrease and turn off dopa due to a rapid HR, unable to maintain a BP due to rapid HR.  Pt able to maintain BP on levo, then it would be weaned off.  Pts resp became aganal and required intubation at 2140, pt cardiac arrested into a PEA rhythm.  CPR initiated.  At 2150 pericardial drain placed immediately 200 cc's removed from the drain.  Pts BP immediatedly rebounded.  CPR stopped.  This entire cycle con't until 2240.  C.O. 2.5 during arrest.  Mult ABG's drawn.  Please refer to code sheet for meds given.  At 2240 pt brought down to OR for exploration.
+
+Resp:  Pt initially on 4L via NC, with O2 sat 100%.  Bs clear in the upper airway bilaterally and decreased in the bases.  Pts resp status decreased and required intubation.  Multiple ABG drawn, please see CCC for results.
+
+GI:  Pt was NPO, -BM, +BS.  With pts deteroriating status pt c/o urge to move bowels and became nauseated, then pt became unresponsive and required intubation.  OGT placed post intubation.
+
+GU:  Pt had poor urine output, 20 cc/hr.  Pt was reciving D5 1/2 NS at 200 cc/hr then pt received 4L of NS boluses for pericardial tamponade.
+
+Social:  Pts sister-in-law called prior to arrest when pt was stable, family was also called shortly after status change.
+
+Dispo:  Pts time of death 2332.  After cardiac arrest for 45 min, then to OR.  Pts code called on OR.
+
+
+",,

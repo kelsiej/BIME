@@ -1,0 +1,536 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8224,25392,,,2773-01-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2773-1-20**]              Discharge Date:   [**2773-1-23**]
+ 
+Date of Birth:  [**2689-12-5**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Clindamycin / Vancomycin
+ 
+Attending:[**First Name3 (LF) 2122**] 
+Chief Complaint:
+Hypoxia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+ Pt is a 83 yo female with history of bilateral PEs, HTN, 
+pulmonary HTN on 2 L home O2 who presents with SOB/vomiting and 
+found to be hypoxic. Pt states that yesterday she felt short of 
+breath and lightheaded (""dizzy""- which was not the room 
+spinning) when standing up. She vomited x 1 and her family 
+called 911. Pt denies recent F/C/N. No cough. No dysuria. Stable 
+2 pillow orthopnea. No PND.
+Pt states that she has been taking her medication and partakes 
+in a low salt diet.  No CP. Of note, per ED note, pt states that 
+she did have chest pain.
+.
+In the ED, VS on arrival were: T: 95.7; HR: 90; BP: 155/79; RR: 
+18; O2: 91 2L NC. She was given 500 mg IV levaquin x 1, 
+prednisone 60 mg po x 1, combivent x 2, sodium bicarb in D5w and 
+furosemide 40 mg IV x 1.
+.
+Now, pt states that she feels much better. She denies CP/SOB/ 
+feeling lightheaded or dizzy.
+.
+Last admission was in August of this year when pt came in with 
+SOB. She was diuresed and it was thought to be [**3-16**] increased BPs 
+leading to pulmonary edema in setting of other pulmonary 
+problems.
+
+ 
+Past Medical History:
+s/p THR 22 years ago complicated by clot in leg 
+s/p cataract surgery 
+Back pain s/p corticosteroid injections 
+PFTs [**9-17**]- FEv1- 52; FVC- 54%, FEV1/FVC 104. 
+  Spirometry is consistent with a restrictive ventilatory defect 
+as 
+  demonstrated by the reduced TLC measured on [**2772-10-3**].  
+Echo [**9-17**]-Left ventricular wall thicknesses and cavity size are 
+
+  normal.  Regional left ventricular wall motion is normal. 
+Overall 
+  left ventricular  systolic function is low normal (LVEF 
+50-55%). 
+  Right ventricular systolic  function is borderline normal. 
+There is 
+  abnormal septal motion/position. The  
+  aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis  
+  is not present. Mild (1+) aortic regurgitation is seen. The 
+mitral 
+  valve leaflets are mildly thickened. There is no mitral valve 
+  prolapse. Mild (1+) mitral regurgitation is seen. The left 
+  ventricular inflow pattern suggests impaired  relaxation. 
+There is 
+  severe pulmonary artery systolic hypertension. There is  no 
+  pericardial effusion.  
+
+ 
+Social History:
+Originally from [**Country 11383**]. Came to the US in 1960s. Widowed, lives 
+by self. Family involved in care. No smoking. No EtOH.
+ 
+Family History:
+No heart or lung disease in family.
+ 
+Physical Exam:
+VS: T: 97.7; BP: 134/117; HR: 121; RR: 17; O2: 94 50% venti 
+mask.
+Gen: SPeaking in full sentences in accent in NAD
+HEENT: Right surgical pupil. Left RRLA. EOMI; sclera anicteric; 
+OP clear without exudate. 
+Neck: JVD difficult to tell. ? 9 cm. No LAD 
+CV: Distant S1S2.  
+Lungs: Scant crackles at right base, otherwise clear with good 
+air movement 
+Abd: NABS. soft, nt, nd 
+Back: No spinal, paraspinal, CVA tenderness 
+Ext: Trace edema b/l. 
+Neuro: CN II-XII tested and intact. MS [**6-16**] throughout. Biceps, 
+brachio, patellar reflexes [**3-16**]. 
+
+ 
+Pertinent Results:
+Admission Labs:
+[**2773-1-20**] 05:16PM URINE  EOS-NEGATIVE  
+[**2773-1-20**] 04:59PM   CREAT-1.6* POTASSIUM-3.8
+[**2773-1-20**] 04:59PM   cTropnT-<0.01
+[**2773-1-20**] 11:06AM   GLUCOSE-210* UREA N-24* CREAT-1.5* SODIUM-136 
+POTASSIUM-3.6 CHLORIDE-93* TOTAL CO2-29 ANION GAP-18
+[**2773-1-20**] 11:06AM   CK(CPK)-76
+[**2773-1-20**] 11:06AM   CK-MB-NotDone cTropnT-<0.01
+[**2773-1-20**] 11:06AM   CALCIUM-9.0 PHOSPHATE-3.0 MAGNESIUM-1.9
+[**2773-1-20**] 11:06AM   WBC-12.1* RBC-3.83* HGB-11.0* HCT-33.4* 
+MCV-87 MCH-28.8 MCHC-32.9 RDW-16.6*
+[**2773-1-20**] 11:06AM   PLT COUNT-263
+[**2773-1-20**] 11:06AM   PT-28.4* PTT-28.9 INR(PT)-2.9*
+[**2773-1-20**] 11:05AM URINE  HOURS-RANDOM UREA N-91 CREAT-9 
+SODIUM-116
+[**2773-1-20**] 11:05AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) **]-1.010
+[**2773-1-20**] 11:05AM URINE  BLOOD-SM  NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0 
+LEUK-NEG
+[**2773-1-20**] 02:25AM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) **]-1.011
+[**2773-1-20**] 02:25AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-TR
+[**2773-1-20**] 02:25AM URINE  HYALINE-0-2
+[**2773-1-20**] 01:07AM   LACTATE-3.5*
+[**2773-1-19**] 11:59PM   K+-5.5*
+[**2773-1-19**] 11:40PM   estGFR-Using this
+[**2773-1-19**] 11:40PM   ALT(SGPT)-30 AST(SGOT)-85* LD(LDH)-675* 
+CK(CPK)-106 ALK PHOS-132* AMYLASE-94 TOT BILI-0.9
+[**2773-1-19**] 11:40PM   LIPASE-72*
+[**2773-1-19**] 11:40PM   CK-MB-3 cTropnT-<0.01
+[**2773-1-19**] 11:40PM   ALBUMIN-4.1
+[**2773-1-19**] 11:40PM   WBC-10.9 RBC-3.94* HGB-11.6* HCT-35.9* MCV-91 
+MCH-29.4 MCHC-32.3 RDW-16.3*
+[**2773-1-19**] 11:40PM   NEUTS-74.5* LYMPHS-21.9 MONOS-2.9 EOS-0.6 
+BASOS-0.2
+[**2773-1-19**] 11:40PM   HYPOCHROM-3+ ANISOCYT-1+ POIKILOCY-1+
+[**2773-1-19**] 11:40PM   PLT COUNT-264
+[**2773-1-19**] 11:40PM   PLT COUNT-264
+[**2773-1-19**] 11:40PM   PT-24.6* PTT-26.5 INR(PT)-2.5*
+.
+Micro:
+Blood culture NGTD
+Urine culture genital contaminated
+
+Radiology:
+CTA [**2773-1-20**]- IMPRESSION: 
+1.  No evidence of pulmonary embolism. 
+2.  Ground-glass opacities in the lung fields with smooth 
+interlobular septal thickening, most likely represents pulmonary 
+vascular congestion as well as pulmonary edema or congestive 
+heart failure.   
+3.  Stable but continued enlargement of mediastinal and hilar 
+lymph[**MD Number 65**] not significantly changed.  The etiology of this 
+lymphadenopathy is unclear, however may be in part due to 
+congestive heart failure.   
+4.  Patchy peribronchial opacities in the right middle lobe may 
+be infectious or inflammatory in etiology. 
+5.  Atherosclerotic calcifications of the thoracic aorta and 
+coronary artery calcifications. 
+.
+CXR AP [**2773-1-20**]
+1.  No evidence for congestive heart failure or infiltrate. 
+2.  Stable right hilar and mediastinal adenopathy, better seen 
+on the chest CT done subsequent to this examination. 
+ 
+Brief Hospital Course:
+Pt is a 83 yo female with severe pulmonary HTN, HTN, history of 
+bilateral PE and recent admissions for CHF and PNA who presents 
+with lightheadedness, found to be hypoxic.  Her hospital course 
+is as follows:
+.
+Hypoxia: Normally on 2 L NC likely [**3-16**] severe pulmonary HTN; 
+PFTs also showed a restrictive pattern.  The patient was given 
+levaquin, prednisone, and lasix in the ED.  Given clinical 
+concern, she was transferred to the MICU for observation.  In 
+the MICU, she was ruled out for MI and PE.  CT did demonstrate 
+findings concerning for possible edema, infectious pneumonia, or 
+COP.  She was diuresed well in the MICU, and started on 
+levaquin.  She improved clinically and was transferred to the 
+floor.  On the floor she achieved her baseline oxygenation on 
+2-3L NC.  Pt worked with her and cleared her for home.  Her 
+outpatient pulmonologist was made aware of her admission.  Given 
+her improvement on lasix and levaquin, we felt her symptoms were 
+related to fluid overload and an underlying CAP.  She was 
+discharged to complete a course of antibiotics, she was 
+maintained on her home oxygen, and she was told to follow up 
+closely with her pulmonologist.
+.
+Dizziness: Was thought to be related to her initial hypoxia.  
+Her old records were reviewed.  Her dizziness resolved with her 
+improvement in symptoms.  She experienced no additional 
+dizziness during her admission.
+.
+Renal failure: Chronic renal failure with cr baseline of 1.0.  
+Her renal failure was thought secondary to pre-renal azotemia.  
+After her CTA she was hydrated with bicarb and her cr 
+subsequently improved during admission and remained stable. 
+.
+HTN: Her beta blocker and ACEI were continued with good effect.
+.
+history of PE: Her coumadin was initially continued.  However, 
+it was held when her INR was supratherapeutic.  Her INR improved 
+to the normal range and she was restarted on a lower dose of 
+coumadin at 3mg PO qHS.  She will need frequent INR checks and 
+adjustment of her coumadin as needed.
+.
+Glaucoma: continued timolol eye drops
+.
+Code: Patient was unable to definitively decide during 
+admission.  This should be addressed as an outpatient for future 
+potential admissions.
+ 
+Medications on Admission:
+Toprol XL 50 mg qday
+Atrovent and albuterol nebs MDI q 6 hours
+Lisinopril 5 mg qday
+Coumadin - 4mg Monday and Friday nights
+Coumadin- 3 mg Tuesday, Wednesday, Thursday, Saturday, and 
+Sundays
+Timolol eye drops
+Atrovent, albuterol MDI prn
+ 
+Discharge Medications:
+1. Toprol XL 50 mg Tablet Sustained Release 24HR Sig: One (1) 
+Tablet Sustained Release 24HR PO once a day.
+Disp:*30 Tablet Sustained Release 24HR(s)* Refills:*0*
+2. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff 
+Inhalation Q6H (every 6 hours).
+Disp:*1 inhaler* Refills:*2*
+3. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2) 
+Puff Inhalation QID (4 times a day).
+Disp:*1 inhaler* Refills:*2*
+4. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.  
+5. Timolol Maleate 0.5 % Drops Sig: One (1) Drop Ophthalmic  BID 
+(2 times a day).
+Disp:*1 vial* Refills:*2*
+6. Warfarin 1 mg Tablet Sig: Three (3) Tablet PO HS (at 
+bedtime): Please have your INR checked on [**1-25**] and adjust your 
+medication according to your PCP.  [**Name10 (NameIs) 11384**] INR is [**3-17**].
+Disp:*90 Tablet(s)* Refills:*0*
+7. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*0*
+8. Levofloxacin 250 mg Tablet Sig: One (1) Tablet PO Q24H (every 
+24 hours) for 6 days.
+Disp:*6 Tablet(s)* Refills:*0*
+9. Home Oxygen
+Patient's oxygen saturation less than 87% on room air.
+
+Home oxygen via nasal cannula at 2.5 Liters
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Pneumonia
+.
+Secondary Diagnoses:
+Restrictive Lung Disease
+Hypertension
+s/p Pulmonary Embolus
+Glaucoma
+
+ 
+Discharge Condition:
+Good, afebrile, hemodynamically stable
+
+ 
+Discharge Instructions:
+Weigh yourself every morning, [**Name8 (MD) **] MD if weight > 3 lbs.
+Adhere to 2 gm sodium diet
+Fluid Restriction: 1.5 liters per day
+.
+Please take all medications as prescribed.  Please keep all 
+follow up appointments.  Please return to the hospital if [**Doctor First Name **] 
+experience chest pain, worsening shortness of breath or any 
+other symptoms that concern [**Doctor First Name **].
+.
+Please have your INR checked in 2 days, and then thereafter 
+according to your primary physician.
+.
+Please follow up with your primary physician and call your 
+pulmonologist Dr. [**Last Name (STitle) **] to schedule a follow up appointment 
+with him.
+ 
+Followup Instructions:
+Please have your INR checked on [**1-25**].  [**Doctor First Name 10**] can go to Dr. [**First Name (STitle) **] 
+office or have your visiting nurse check and send the results to 
+Dr. [**First Name (STitle) **].
+.
+A follow up appointment has been made with Dr. [**First Name (STitle) **] on [**1-30**] at 
+2:45PM.  Please have your INR checked at that time.
+.
+Please schedule a follow up appointment with Dr. [**First Name4 (NamePattern1) 70**] [**Last Name (NamePattern1) **] 
+of pulmonology in 4 weeks. ([**Telephone/Fax (1) 5093**]
+
+ 
+                             [**First Name11 (Name Pattern1) 1715**] [**Last Name (NamePattern1) 1716**] MD [**MD Number 1717**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 2485**] MD [**MD Number 2486**] [**2773-1-25**] @ 1350
+Signed electronically by: DR. [**First Name (STitle) 1715**] [**Doctor Last Name **]
+ on: SUN [**2773-1-28**] 3:27 PM
+(End of Report)
+
+
+",,
+8224,25392,10226,0,2773-01-20 06:50:00 EST,2773-01-20 07:04:00 EST,8067,"N",54,"Nursing/Other",,"
+
+6am to 7am:
+
+This is a 83 y old female with PMH of HTN, chronic back pain, recent pna with bronchitis, chronic SOB with O2 at home and restrictive lung dz. Pt adm with C/O increased SOB and weakness at home. Pt also reported she vomited x I at home. In EW, pt was found to be 79% on RA with blue lips. Pt placed on 40% VM and O2sat increased to 88-96%. CXR showed RML pna and CHF. CTA neg for PE and comfirmed pulm edema. Pt given prednisone, neb tx, lasix 40 mg IV and started on bicarb gtt and sent to MICU D/T persistant hypoxia. 
+
+ROS:
+ 
+Neuro)
+ Pt is awake and alert. Difficult to assess how oriented pt is D/T HOH. Pt pleasant and follows simple commands.
+
+CV)
+ Pt is in NSR with HR 90- 100. SBP 130-140's. Pt denies any CP or any other cardiac problems. First set of CE negative. No edema noted. 
+
+Resp)
+ LS with scatt cx's and with occ wheezes. Pt denies any resp distress. Pt present with a dry non-prod cough.  HOB elevated. Pt 93-96% on 50 % VM.
+
+GI)
+ Abd dist/soft with + BS X4. Pt denies any N/V/D at this time. IVF as noted D/T CTA. 
+
+GU)
+ Foley catheter was placed in EW. U/O clear and in good amounts. 
+
+Skin)
+ SDkin intact.
+
+Soc)
+ Pt is FULL CODE. ? HCP.
+
+
+",,
+8224,25392,10226,0,2773-01-20 18:59:00 EST,2773-01-20 18:59:00 EST,3420,"N",54,"Nursing/Other","7a-7p","
+7a-7p
+see transfer note
+",,
+8224,25392,10226,0,2773-01-20 22:02:00 EST,2773-01-20 22:17:00 EST,3891,"N",54,"Nursing/Other",,"
+
+MICU NPN 1900-2300
+Please see carevue for all objective data.  Pt started on antibiotics for prophylactic PNA coverage.  Pt called back in to MICU to monitor vitals and urine output overnoc.
+Neuro: AA&Ox3. Pleasant and cooperative.  HOH. Hearing Aid sent home with family.  Family at bedside and updated by Dr [**Last Name (STitle) **].
+Resp: LS, crackles at bases. O2 3L via NC. Denies SOB.
+CV: BP responded to earlier fluid bolus. BP 92-104/49-53.  PM dose of lopressor held.    
+GI: Abdomen soft. non tender. BS present.  Eating custard.  FS 187 @ bedtime. Pt refusing s/s insulin dose.  Dr. [**Last Name (STitle) **] notified.  
+GU: u/o adequate.  Monitor closely overnight.
+ID: afebrile. Pt started on antibiotics, ceftriaxone and azithromycin.
+Dispo: Remain in MICU. Full code. ? c/o in am.
+",,
+8224,25392,10226,0,2773-01-21 06:29:00 EST,2773-01-21 06:40:00 EST,8067,"N",54,"Nursing/Other",,"
+
+11pm to 7am:
+
+Pt has had an uneventful night.
+
+Neuro)  Pt is awake, alert and oriented x 3. Pt is very pleasant and coop with care.
+
+CV)  Pt remains in NSR with no ectopy noted. VSS as noted and WNL's. MAP > 60. No edema noted. Inr this am 4.1 and ? hold coumadin tonight. Good pulses to palp. BS now improved at 118.
+
+Resp)  LS clear to upper resp area with fine cx's to bil bases. Pt denies in any resp distress. Pt present with a dry non-prod cough when asked to cough. At 4am O2sat was noted to decrease to 88% for a few seconds. O2sat increased to 96% after DB&C. Pt needs to be inc to DB&C. Pt remains on 3 liters NP. 
+
+GU)  U/O via foley catheter 25-45 cc/hr. 
+
+soc)  ? C/O to floor today [**3-16**] no complications over night.
+",,
+8224,25392,10226,0,2773-01-21 16:51:00 EST,2773-01-21 16:59:00 EST,4247,"N",54,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+RESP: Pt received/maintained on 3LNCO2 c nl sats/RR @ rest.  Pt c fine crackles in RLL, otherwise fairly clear c no wheezes appreciated.   Incentive spirometer provided c instruction/encouragement c good return demonstration noted (moving approx 500 ml).  Pt c very transient dizzyness when getting in/out of bed to chair resolving shortly after transfer.  Antibx cov remains in place 2nd new infiltrate on CXR.  
+
+CV: Hemodynamically stable and afebrile.  MAP's in the 58-88 range today (trends down when napping).  Pt c decreased UO when asleep this afternoon (approx 15ml/hr), pt subsequently given a single 500ml NS bolus this afternoon c improvement in UO.  Renal US today s evidence of new renal pathology.  NSR, no ectopy.  +1 LE edema, weak peripheral pulses.  Holding PM Coumadin dose 2nd supertherapeutic AM INR value of 4.1 for history of PE's/DVT.  New 20# gauge PIV placed in RUE today, good blood return noted.  
+
+MS: Pleasant, cooperative, conversant, MAE to command and AAO times three.  Pt c/o not having anything to do, pts feelings validated, pt encouraged to engage in life when her health improves.  No c/o pain today.  OOB to chair c assist times one/two c fair strength but poor balance.  
+
+GI: Pt c good PO intake for breakfast/lunch today.  One soft medium sized BM today.  Abd is benign.
+
+SOC: Dtr in law called this evening and indicated that the pts son would visit this evening.  The pt remains a Full Code.
+
+OTHER: Please see CareVue for additional pt care data/comments.  Univ isolation precautions remain in place.  
+",,
+8224,26081,10227,0,2773-03-18 06:48:00 EST,2773-03-18 07:29:00 EST,2691,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S:INTUBATED
+O:TRANSFER TO CCU S/P CODE ON [**Hospital Ward Name **] 2, 
+NEURO:SEDATED W/ PROPOFOL. PT DID OPEN EYES AND MOVE ARM TO NOXIOUS STIMULI, +BABINSKI. RIGHT EYE SURGICAL LENS, LEFT PUPIL CONSTRICTED. +GAG,+COUGH. HAD  CT SCAN HEAD. 
+
+CV:MHR SR NO VEA. BP STABLE. , 
+
+RESP:VENT AC/14/450/14/70/8. W/ FAIR ABG, CONTINUES TO HAVE A:a GRADIENT. LS COARSE AND EXPIR WHEEZES BILAT, STARTED ON MDIS, AND STEROIDS. 
+
+GI:VOMITED ON ARRIVE TO UNIT, LARGE AMT OF UNDIGESTED FOOD. OGT INSERTED. 
+",,
+8224,26081,10227,0,2773-03-18 07:05:00 EST,2773-03-18 07:09:00 EST,2999,"N",1,"Nursing/Other",,"
+
+Resp Care note
+
+83 YO woman with hypoxic episode on [**Hospital1 **], intubated and transferred. Hx COPD. She may have aspirated on [**Hospital1 **]. Pt has a lot of wheezing on both sides, ALB Q 1-2 hr PRN, Atrovent Q 6
+",,
+8224,26081,10227,0,2773-03-18 08:02:00 EST,2773-03-18 08:22:00 EST,2691,"N",1,"Nursing/Other",,"
+
+ADDENDUM:
+GU:U/O 30-40, URINE CULTURE SENT. 
+ID:AFEBRILE, ON CEFTRIAXONE AND FLAGYL, BC X2 SENT. WBC TRENDING UP.
+SKIN:INTACT. 
+SOC:FAMILY COME IN AND SPOKE W/ DRS [**Last Name (STitle) 5533**] AND [**Name5 (PTitle) 5534**]. FAMILY BRIEFLY IN TO SEE PT. WHEN SON ASKED TO SET AWAY FROM CENTRAL MONITORS IN UNIT, HE BECAME VERBALY HOSTILE. 
+A/P:FAMILY CONSERNS APPROPRIATE. ELDEST SON NOT COPING WELL W/ MOTHER'S CHANGE OF CONDITION. FAMILY LOST THERE FATHER ONE YR AGO. PLS INVOLVE SOC SVC. CONSIDER INVOLVING RISK MANAGEMENT. CONTINUE TO MONITOR ABGS AND ADJUST ATTEMPT OT WEAN FIO2. CONTINUE ANTIBIOTICS. PROVIDE EMOTIONAL SUPPORT, ENSURE DAILY FAMILY UPDATES AFTER AM ROUNDS. 
+
+",,
+8224,26081,10227,0,2773-03-18 16:13:00 EST,2773-03-18 16:17:00 EST,2235,"N",1,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT INTUBATED LAST NIGHT
+FOR RESPIRATORY FAILURE/ CHF. PMH INCLUDES
+PULMONARY HTN. PULMONARY CONSULT TODAY.
+RSBI 50-60 SO SBT W/ STABLE ABG. SX FOR 
+WHITE SPUTUM. ALBUTEROL/ATROVENT MDI'S
+GIVEN. PT W/ COMPENSATED METABOLIC ACIDOSIS
+AND STABLE OXYGENATION. PLAN TO EXTUBATE 
+IN AM WHEN ACIDOSIS RESOLVED COMPLETELY.
+
+",,
+8224,26081,10227,0,2773-03-18 18:14:00 EST,2773-03-18 18:51:00 EST,7641,"N",1,"Nursing/Other",,"
+
+S:Pt is intubated.
+
+O:please see careview.
+
+CV:NSR, HR 80's, 130/70 via a-line. cpk 28. heparin gtt started ptt at 1600 115.5 heparin decreased to 900units/hr. next ptt 2200. Pt received 1liter of NS for low bp maps in the 50's. boluses had good effect. pt was initiated on dopamine x 2 for bp support. pt received fentanyl and midazolam boluses r/t gagging on ett, bp dropped and dopamine was initiated for a short period for bp support.pt now off dopamine.
+
+RESP:cpap/ps/fio250%/Tv 450/ rr22/peep5 latest abg 7.37/27/106/-[**8-27**]. plan is to extubate [**2773-3-19**].
+
+GI:pt vomited today while giving mouthcare ? aspiration, +BS -BM.
+
+endo:on ss insulin BS max 216 covered.
+
+GU:+891 for last 24hours. clear yellow urin via foley.
+
+neuro:pt responded well to voice. during daily wake up pt was able to nod appropriately when asked a question about pain and comfort.
+
+social:large family very involved md met with pts family this a.m.
+
+skin:no issues at this time.
+
+A:hypoxia
+
+P:continue to keep pt comfortable sedated pt has a very sensitive gag pt vomits with mouth care. sedation boluses decrease bp use caution. keep family up to date with care. plan is to extubate pt tommorrow.
+
+
+",,
+8224,26081,10227,0,2773-03-19 07:20:00 EST,2773-03-19 07:36:00 EST,2691,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S:INTUBATED
+O:PT SEDATED W/ PROPOFOL, NOW AT 10MCG/KG/MIN. PT OPENED HER EYES WHEN NAME CALLED. MOVING EXTREMITIES IN BED. PT NOT NODDING TO QUESTIONS. 
+
+RESP:LS CLR W/ DEPENDANT CRACKLES. VENT ON PSV THIS AM WEANED TO [**6-16**] W/ ABG 7.45/32/161/23. SX FOR THICK YELL SECRETIONS. SATS 98 ON 
+
+CV:MHRS SR 80-100S, BRIEF RUNS OF ATRIAL TACH. +MUR AT APEX, +S4.DP PALP. RIGHT FEM TLC. R RADIAL ALINE. BP 90-160S. 
+
+GI:+BS, NO STOOL, 
+GU:DIURESED W/ LASIX. 
+ID:AFEBRILE, CETRIAXONE AND FLAGYL
+ENDO.GLU 180 THIS AM, COV'D AS PER SS.
+SKIN:INTACT.
+SOC:DAUGTHER-IN-LAW UPDATED LAST NOC ON PT'S STATUS. 
+A:PT S/P CODE BLUE, UNRESPONSIVE ON [**Hospital Ward Name **] 2, INTUBATED. 
+P:CON'T TO WEAN AND ATTEMPT TO EXTUBATE. CONTINUE ANTIBIOTICS. UPDATE FAMILY AFTER ROUNDS.   
+",,
+8224,26081,10227,0,2773-03-19 15:51:00 EST,2773-03-19 16:08:00 EST,1710,"N",1,"Nursing/Other",,"
+
+83 YR OLD FOUND HYPOIC,AND HYPOTENSIVE .INTUBATED,ON DOPAMINE .HX PE,ON COUMADIN,MULTIPLE PNEUMONIAS,HIP REPLACEMENT C DVT .
+
+EXTUBATED TODAY.FACE MASK WEANED TO 50% C SATS 92 TO 95.USES HOME O2.BS DIMINISHED .C/R THICK YELLOW BLOODY SECRETIONS ,SX ORALLY
+
+SR C RARE RUNS SVT.HYPERTENSIVE ,HAS NOT BEEN RESTARTED ON ANTIHYPERTENSIVES .ON COUMADIN,HEPARIN DRIP DC .L FEM LINE DC 
+
+NPO FOR NOW,WILL TRY CL LIQS WHEN ABLE TO SIT UP,POS BS.
+
+FOLEY DRAINING CYU
+
+PT RESPONDING APPROPRIATE TO FAMILY,BUT SPEECH IS SLUREED ,PUPILS UNEQUAL,HAS HAD SX IN EYE.CT SCAN NEG [**3-18**] .MAE .
+
+PT TOL EXTUBATION ,HYPERTENSIVE .
+
+MONITOR NEURO STATUS
+PULMONARY HYGIENE
+START PO CAUTIOUSLY 
+MONITOR BP.
+",,
+8224,26081,10227,0,2773-03-19 18:43:00 EST,2773-03-19 18:45:00 EST,2235,"N",1,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT EXTUBATED TODAY AND DOING WELL ON 
+4 LPM NASAL O2. RR 20-24 BPM AND SPO2 95 %. WILL C/W MDI'S
+ALBUTEROL/ ATROVENT MDI'S W/SPACER.
+",,
+8224,26081,10227,0,2773-03-20 04:56:00 EST,2773-03-20 05:09:00 EST,2800,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+O: Please see flow sheet for objective data. Tele sinus rhythm. Beta Blockers remain on hold d/t lung disease. Restarted on Captopril and dose titrated up. SBP dropping down into the 90's transient by aline.
+IV Heparin remains off and conts on Coumadin 3mg Qhs.
+
+Resp: Lungs diminshed in bases. Coughing up tan sputum. O2 sats > 94% on 4l. Pt denies shortness of breath. Conts on Ceftriaxone for likely PNA. Conts on steriod taper. Pt is on home O2.
+
+Neuro: Pt is alert responding appropriately in conversation. Able to MAE. Speech at times is difficult to understand, primary language is Russian.
+
+GU/GI: Appettie is fair since extubation. Abd is soft with bowel sounds present. Foley draining CYU. No diuresis overnight. creat 1.6.
+
+Social: Son in briefly to visit early in shift.
+
+A&P: Cont to titrate cardiac meds as BP allows. Advance diet and activity as tolerated. ? transfer to floor. 
+",,
+8224,26081,10227,0,2773-03-20 13:01:00 EST,2773-03-20 13:23:00 EST,2143,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+pls see transfer summary for details of admit
+
+s: I'm so tired
+o: pls see carevue flowsheet for complete vs/data/events
+id: afeb. remains on flagyl, ceftriaxone for ?asp pna.
+cv: hr 80-100sr w occ pvcs. k and ca repleted today. bp 110-140/60-80, tol captopril at 37.5mg. lopressor on hold d/t pulm dz.
+resp: on 3l nc w sats >95%. sob w activity and occ desats. bs scatt crackles. nonprod cough. underwent cta of chest.
+gi: tol diet, needs assistance w set up and some feeding. no evidence of difficulty swallowing, takes pills whole w sips of water. no bm since ccu admit. refuses colace.
+heme: hct 32 to 29 to 25 this am. repeat hct sent.
+gu: foley to [**Last Name (un) **]. rec'ing mucomyst and bicarb infusion for dye rec'd during cta of chest today.
+ms: sleeping when left alone. occ c/o gen'l discomfort, repositioned w relief. primarily french speaking, understands some english. 
+social: family visiting today. aware of transfer. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] aware of missing hearing aide. 
+a/p: monitor resp exam. follow sats. monitor temp. follow intake and assist/monitor as indicated. advance activity as tol. assess dc needs. support to pt and family. 
+
+
+",,

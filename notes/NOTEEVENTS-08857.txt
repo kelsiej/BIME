@@ -1,0 +1,476 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8857,1202,,,3433-07-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3433-7-16**]              Discharge Date:   [**3433-7-22**]
+ 
+Date of Birth:  [**3355-10-7**]             Sex:   F
+ 
+Service: MED
+ 
+Allergies: 
+Penicillins / Aspirin
+ 
+Attending:[**First Name3 (LF) 628**] 
+Chief Complaint:
+Respiratory Distress
+ 
+Major Surgical or Invasive Procedure:
+Intubation
+ 
+History of Present Illness:
+Patient is a 77 year old female with COPD, ESRD on HD, CAD, MVR, 
+who was tranferred from an outside hospital ED already intubated 
+for respiratory failure. Also with hyperkalemia. She was 
+afebrile ane hemodynamically stable.
+  
+According to family, the patient had progressive SOB 
+yesterday,despite increasing chronic home O2 from 2L to 4+L. No 
+cough/fever/chills/CP. Of note, she has a h/o intubations for 
+COPD flares. She was also due for HD.
+
+Patient was treated for recent bronchitis 4 weeks ago with 
+Z-Pack. She reports being well until November of last year when 
+she was first hospitalized for COPD exacerbation and was 
+intubated. Since then she has been intubated 3 times. She 
+reports that she has been on dialysis since [**1-3**].
+
+Patient was admitted from the ED to the MICU. She received 
+kayexalate, insulin, D5 and calcium carbonate for high 
+potassium. She was kept on solumedrol for 24 hours. She was 
+started on Levofloxacin. She was extubated on [**7-18**]. 
+ 
+Past Medical History:
+1. COPD on chronic O2 (most recent intubation x 1yr ago)
+2. ESRD on HD (T, TH, Sat) thought to be secondary to XRT for 
+uterine ca
+3. Uterine ca x 16 yrs ago s/p chemo/xrt
+4. CAD s/p CABG x 3 [**12-4**]
+5. MVR on coumadin (PCP believes this is porcine and goal INR is 
+1.5-2.5; no valve seen on CXR)
+6. s/p cholecystectomy
+7. anxiety
+8. GERD
+9. restless legs. 
+ 
+Social History:
+Lives with supportive husband. Has 5 children. Ambulatory. Uses 
+2L oxygen at home when active. Quit smoking one year ago. Prior 
+to that smoked 1 pack every two days. Does not drink alcohol. 
+ 
+Family History:
+Non contributory
+ 
+Physical Exam:
+VS: T 97.8  HR 68  BP 151/60-184/77  RR 24
+EDW: 58 kg
+GEN: Elderly female seen at dialysis, in NAD.
+HEENT: Anicteric sclera. EOMI. Moist mucous membranes. No 
+erythema or edema of oropharynx.
+LUNGS: Crackles bilaterally R>L [**2-1**] way up. No wheezes.
+CV: Regular. [**4-6**] holosystolic murmur at apex.
+ABD: Soft, non tender, non distended, active bowel sounds.
+EXT: No clubbing, or edema. Blue discoloration of toes with some 
+healed sores. 1+ posterior tibialis pulses bilaterally. AVF of 
+left arm with palpable thrill and good bruit.
+NEURO: Alert and oriented x 3. CN II-XII intact and symmetric 
+bilaterally. Strength is [**6-5**] in upper and lower extremities 
+bilaterally.
+
+Labs: 8.7>32.1<191  143| 95 | 54
+                    3.2| 30 | 6.3  Glucose 78
+
+Ca 7.9  Mg 2.1  P 8.3 INR 1.5 PTT 69.4
+
+Blood culture negative.
+Sputum gram stain: 3+ gram positive cocci in 
+pairs/chains/cluters
+                   2+ gram negatvie rods
+Sputum culture: moderate orophayngeal flora with sparse 
+pseudomonas
+ 
+Pertinent Results:
+ECG: Normal sinus rhythm. First degree AV block. Probable 
+anterior infarct - age undetermined. Lateral ST-T changes offer 
+additional evidence of ischemia. Repolarization changes may be 
+partly due to rate. Clinical correlation is suggested 
+No previous tracing. Rate: 120. Intervals: PR 0 QRS 72 QT/QTc 
+330/401.42 Axis: P 0 QRS 0 T 113 
+
+CXR: The heart is enlarged. There are increased interstitial 
+markings and perihilar haziness, consistent with congestive 
+heart failure. Small left pleural effusion is also likely 
+present. The patient is post median sternotomy and mitral valve 
+replacement. An endotracheal tube terminates just proximal to 
+the carina. An NG tube is seen coarsing below the diaphragm into 
+the proximal stomach. 
+  
+IMPRESSION: Cardiomegaly with congestive heart failure. Low 
+lying endotracheal 
+tube which could be pulled back several centiimeters. 
+
+CXR: The heart shows slight left ventricular enlargement. 
+There is evidence of a prosthetic valve and prior CABG surgery. 
+The pulmonary 
+vessels are slightly prominent and appear slightly blurred. 
+Slight left heart 
+failure may be present. There is also evidence of patchy 
+atelectasis at the 
+left lung base behind the heart and some minor atelectasis is 
+also noted in 
+the right lower lobe. Interstitial changes are present in both 
+lungs, mainly 
+in the mid and upper zones. The endotracheal tube, the right IJ 
+central line, 
+and the NG line are in good position. 
+  
+IMPRESSION: Findings are consistent with slightly improving left 
+heart 
+failure. Bibasilar atelectasis is noted. Background CABG and 
+prosthetic valve 
+surgery. 
+
+ 
+Brief Hospital Course:
+Assessment and Plan:
+77 year old woman with ESRD, COPD, CAD, MVR admitted with COPD 
+exacerbation/CHF, initially intubated. Now extubated, afebrile 
+and hemodynamically stable.
+
+1. Respiratory failure: Likely COPD flare with possible 
+component of CHF. Patient was extubated with no event after 48 
+hours and maintained on 4L O2. She was given solumedrol for 24 
+hours and then transitioned to prednisone taper, serevent, 
+flovent, albuterol and atrovent. She was started on levofloxacin 
+for COPD flare as she had bronchitis recently and was treated 
+with azithromycin and did not improve. Sputum culture was 
+obtained and showed sparse growth of pseudomonas aeruginosa 
+thought to be a colonizer. As the patient was not febrile and 
+not producing much sputum she was not started on antibiotics. 
+After hemodialysis with fluid removal patient was euvolemic. She 
+was continued on ACE I for afterload reduction.
+
+2. ESRD:  Patient received dialysis Tuesday, Thursday, Saturday 
+and Monday. To have next session Thursday at [**Location (un) 6397**] [**Location (un) 3840**]. She 
+was dialyzed to her 59 kg on day of discharge. On Tuesday 1.9 kg 
+was removed, on Thursday 2.8 kg was removed, on Saturday 3.3 kg 
+was removed adn on Monday 2.9 kg was removed. 
+  
+3. MVR: Patient was maintained on coumadin.   
+
+4. CAD: Patient was contined on lipitor, beta blocker and Ace 
+inhibitor.
+
+5. Hyperkalemia: Resolved with insulin, D5, kayexalate. Now on 
+dialysis. 
+  
+6. FEN: Heart friendly diet, 2 gm sodium, 1 liter fluid 
+restriciton. No elevation of blood glucose while on prednisone.
+
+7. Lines: Right internal jugular central line placed in 
+intensive unit and removed on the floor.
+  
+8. family:  Husband is health care proxy.  
+10. code status: full code.  
+
+ 
+Medications on Admission:
+Coumadin 3 mg PO qhs
+Lisinopril 5 po qd
+Coreg 12.5 po bid
+lipitor 10 po qd
+folate 1 po qd
+zinc 
+advair
+albuterol ativan prn
+2L oxygen via NC
+ 
+Discharge Medications:
+1. Atorvastatin Calcium 10 mg Tablet Sig: One (1) Tablet PO QD 
+(once a day).  
+2. Warfarin Sodium 1 mg Tablet Sig: Three (3) Tablet PO HS (at 
+bedtime).  
+3. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1)  PO BID (2 
+times a day) as needed for constipation.  
+4. Prednisone 10 mg Tablet Sig: as directed Tablet PO once a day 
+for 9 days: 3 tablets PO for 3 days, 2 tablets po for 3 days, 1 
+tablet PO for three days.
+Disp:*18 Tablet(s)* Refills:*0*
+5. Combivent 103-18 mcg/Actuation Aerosol Sig: One (1) inh 
+Inhalation every six (6) hours.
+Disp:*2 cannisters* Refills:*2*
+6. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. Albuterol 90 mcg/Actuation Aerosol Sig: 1-2 Puffs Inhalation 
+Q6H (every 6 hours) as needed.  
+8. Coreg 12.5 mg Tablet Sig: One (1) Tablet PO twice a day.  
+9. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO once a day.  
+10. Advair Diskus 250-50 mcg/DOSE Disk with Device Sig: One (1) 
+inhalation Inhalation twice a day.  
+11. oxygen 2L oxygen by nasal cannula
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Chronic obstructive pulmonary disease exacerbation
+Congestive heart failure
+
+ 
+Discharge Condition:
+Stable with improved oxygen saturation and improved clinical 
+exam. 
+ 
+Discharge Instructions:
+Take your medications as prescribed. Call your primary care 
+physician if [**Doctor First Name **] experience shortness of breath, cough, chest 
+pain or wheezing.
+Take the same medications that [**Doctor First Name **] were taking before this 
+hospitalization. [**Doctor First Name 10**] are also now taking prednisone for the next 
+18 days and combivent four times a day every day.
+ 
+Followup Instructions:
+Follow up with your primary care physician, [**Last Name (NamePattern4) **]. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], 
+in one week. Call [**Telephone/Fax (1) 12346**] for an appointment. Patient will 
+have INR checked by VNA on Tuesday, [**3433-7-23**] and called 
+into [**Location (un) 6397**] [**Location (un) 3840**] Dialysis center at [**Telephone/Fax (1) 12347**].
+
+ 
+                             [**First Name11 (Name Pattern1) 43**] [**Last Name (NamePattern1) 635**] MD [**MD Number 636**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 9951**] MD [**Doctor First Name 9952**] [**3433-7-22**] @ 1446
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 43**] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **]
+ on: MON [**3433-7-22**] 6:08 PM
+(End of Report)
+
+
+",,
+8857,1202,,,3433-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3433-7-16**] 5:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11062**]
+     Reason: please eval ETT, IJ, NGT placements. thanks!                
+     Admitting Diagnosis: RESPIRATORY FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old woman with copd, respiratory failure                               
+       
+     REASON FOR THIS EXAMINATION:
+      please eval ETT, IJ, NGT placements. thanks!                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  COPD with respiratory failure. Evaluate ET tube, IJ and NG lines.
+     
+     COMPARISON:  Four hours earlier.
+     
+     SINGLE AP SUPINE IMAGE: The heart shows slight left ventricular enlargement.
+     There is evidence of a prosthetic valve and prior CABG surgery. The pulmonary
+     vessels are slightly prominent and appear slightly blurred. Slight left heart
+     failure may be present. There is also evidence of patchy atelectasis at the
+     left lung base behind the heart and some minor atelectasis is also noted in
+     the right lower lobe. Interstitial changes are present in both lungs, mainly
+     in the mid and upper zones. The endotracheal tube, the right IJ central line,
+     and the NG line are in good position.
+     
+     IMPRESSION: Findings are consistent with slightly improving left heart
+     failure. Bibasilar atelectasis is noted. Background CABG and prosthetic valve
+     surgery.
+
+",,
+8857,1202,,,3433-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3433-7-16**] 12:40 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11061**]
+     Reason: look for infiltrate                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old woman with copd, respiratory failure                                
+     REASON FOR THIS EXAMINATION:
+      look for infiltrate                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 77 year old with COPD and shortness of breath.
+     
+     COMPARISON: No prior studies.
+     
+     PORTABLE SUPINE FRONTAL RADIOGRAPH: The heart is enlarged. There are increased
+     interstitial markings and perihilar haziness, consistent with congestive heart
+     failure. Small left pleural effusion is also likely present. The patient is
+     post median sternotomy and mitral valve replacement. An endotracheal tube
+     terminates just proximal to the carina. An NG tube is seen coarsing below the
+     diaphragm into the proximal stomach.
+     
+     IMPRESSION: Cardiomegaly with congestive heart failure. Low lying endotracheal
+     tube which could be pulled back several centiimeters.
+
+",,
+8857,1202,11012,0,3433-07-16 03:21:00 EST,3433-07-16 03:24:00 EST,1017,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+78 [**Last Name (un) 2624**] tranferred from OSH s/p intubation for COPD/CHF exacerbation. H/o COPD, CRF, CABG and valve replacement. Placed on ventilator with acceptable abg's however vt lowered from 600cc to 550 d/t pt's size.
+BS:  coarse with few diffuse exp. wheezes
+Plan: maintain support.
+",,
+8857,1202,11012,0,3433-07-16 06:48:00 EST,3433-07-16 07:06:00 EST,5194,"N",1,"Nursing/Other",,"
+
+pt. transfered from [**Hospital 6233**] Hospital with a COPD exacerbation. Intubated and NGT placed at outside hospital, attempt at foley but unable to place due to uterine prolapse.  Transfered from ER to CCU bed 04.
+
+Neuro:  Pt. A+O follows simple commands on transfer.  Equal strength of all extremities. PERRL, tongue midline, + gag reflex
+
+CV: pt in NSR no ectopy noted.  BP stable and slightly elevated, but thought to be related to anxiety and discomfort.  BP decreased with use of propofol for sedation and 1x doses of morphine and Ativan for line placements.  pulses + [**First Name8 (NamePattern2) 34**] [**Last Name (un) 481**].  Skin pale cool dry and intact.
+
+Resp: pt.intubated #7.5 @ 20cm retaped and [**Name6 (MD) 6234**] by MD and Resp. therapy.  Vent weaned to CPAP with pressure support for pt. comfort and to assist in weaning from vent.  ABG's obtained and MD aware of results.  O2 sats >95% at all times.  TV on CPAP 400-500.  Minimal amount of secretions present.  Sputum sent for culture.  
+
+Skin:  Bruising on arms from blood draws, but otherwise intact.  Skin pale cool dry and intatct.   
+
+GI:  Hypoactive BS.  Scant amt. of coffee ground material in NGT. MD irrigted with no frank blood or excessive amts. of coffee ground material noted.  Pt. appeared to vomit X1 bloody material about 50cc.  Abd. soft non tender. not distended.
+
+GU: foley was attempted in ER and at outside hospital. No urine output scant amt. of blood in peri area noted.  
+
+MD placed R IJ TLC and placement confirmed by X-ray.  Sm. amt of bleeding noted at site and small area of bruising. R radial A-line also placed by MD. with minimal amt of bleeding or bruising at site.  Heparin gtt up at 530 am but stopped at 630am due to hct from 36.9 to 30 until MD made aware and further instruction. K of 6.1 on admission Kexalate and insulin given K down to 5.3 at 5am.  BC X2 sent for culture along with sputum.  No evidence of sepsis at this point.  Will continue to monitor for bleeding and continue to wean of ventilatory support as ordered and pt. tolerates.  Provide comfort measures and assist with ADLS.   
+
+
+",,
+8857,1202,11012,0,3433-07-16 15:52:00 EST,3433-07-16 15:54:00 EST,848,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt continues on mechanical ventilation via OETT; maintained on PSV 15/5 with no changes throughout day.  BS=clear t/o, MDI's given as ordered & suctioned for minimal secretions.  Pt received dialysis today.  Plan to ventilate overnight wean to extubate tomorrow.
+",,
+8857,1202,11012,0,3433-07-16 16:35:00 EST,3433-07-16 16:54:00 EST,620,"N",1,"Nursing/Other","ccu nursing progress","
+ccu nursing progress
+s: orally intubated
+o: pls see carevue flowsheet for complete vs/data/events
+id: afeb. cont levo po.
+cv: hr 70s sr. bp 140-180/70 via r rad aline. converted to raf, appeared to be aflutter in the 120s. spon converted to sr. resumed low dose po lopressor and tol well.
+heparin resumed at 1000u/hr at 2:30pm. due for ptt/pt at 8:30pm. 
+resp: remains on ps 15/5. 40%. rr 20s, tv 400-450. sxn'd for sm amt tan secretions. bs scatt coarse. sat: 98%
+gi: npo currently. no bm. abd benign.
+gu: no uop. hd took off 1.5l, less than hoped d/t episodes of raf.
+ms: sedated w propofol. dose ^'d to 30mcg d/t pt becoming restless and hypertensive on 20mcg. remains restrained.
+social: husband visited and updated by rn.
+a: tol ps ventilation. episodes of raf, hemodynamically stable.
+p: follow resp exam, monitor rhythm. med for comfort. support to pt and family.
+
+",,
+8857,1202,11012,0,3433-07-17 03:48:00 EST,3433-07-17 03:54:00 EST,1017,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt. initially on PSV tolerating well until she had no spontaneous respirations following sedation c/ propofol. Placed on AC mode 550x14/5/40%. Changed back to PSV once pt. had lightened up, however sedated again with no spont. respirations, left on AC mode.
+Bs: ess. clear t/o no wheezes noted, secreations minimal.
+ABG: Fully compensated resp. acidosis with normoxia.
+Plan: change back to PS when pt. is awake enough. RSBI/SBT and possible extubation later in the day.
+",,
+8857,1202,11012,0,3433-07-17 04:36:00 EST,3433-07-17 04:47:00 EST,103,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ COPD EXACERBATION","
+CCU NSG PROGRESS NOTE 7P-7A/ COPD EXACERBATION
+
+S- INTUBATED
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA
+
+CV- PT REMAINS IN SR HEMODYNAMICS STABLE
+
+HR- 60-70'S SR, BP- 140-160/60-70- REMAINS ON LOPRESSOR AS ORDERED AS WELL AS HEPARIN 1000U WITH THERAPEUTIC PTT.
+RT RADIAL ALINE IN PLACE. AM LABS PENDING CURRENTLY.
+
+RESP- PT INITIALLY ON 15/5 PS/PEEP WITH 40% AND ADEQUATE ABG/O2 SATS.
+AGITATION AT 2-3 AM REQUIRING INCREASE IN PROPOFOL AND SUBSEQUENT
+APNEA- PT PUT BACK ON A/C MODE WITH GOOD ABG.
+SUCTIONED FOR MINIMAL SECRETIONS/LUNGS RELATIVELY CLEAR
+CHANGING FROM IV SOLUMEDROL TO PO PREDNISONE THIS AM.
+
+ID- AFEBRILE
+
+GU- DIALYSIS- ANURIC
+
+MS- SEE ABOVE- INITIALLY PROPOFOL 30 MCG- INCREASED TO 50 WITH SMALL BOLUSES.CURRENTLY MORE COMFORTABLE
+
+FAMILY CALLED 5A- DAUGHTER AND EARLIER SISTER CALLED
+
+A/P- PT WITH STABLE RESP STATUS- REQUIRING CHANGE TO A/C MODE FOR PROPOFOL BOLUS
+
+CONTINUE TO ATTEMPT TO WEAN OFF VENT
+LIGHTEN UP SEDATION WHEN READY
+KEEP FAMILY AND PT AWARE OF PLAN OF CARE
+",,
+8857,1202,11012,0,3433-07-17 15:37:00 EST,3433-07-17 15:39:00 EST,848,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt placed back on PSV settings this am & eventually extubated.  Pt tolerated well; able to vocalize, has strong cough & showed no signs of respiratory distress.  Neb x 2 given.  Bs=mild bibasilar rales.  Plan to continue nebs as ordered & place back on MDI usage in morning.
+",,
+8857,1202,11012,2,3433-07-17 15:47:00 EST,3433-07-17 18:11:00 EST,615,"Y",1,"Nursing/Other","MICU NPN: Alt in Resp Status","
+MICU NPN: Alt in Resp Status
+Addendum: 
+
+Heparin off. A-line site excessively bleeding, dCV: Pt hypertensive post extubation. Started on Captopril. Lespite pressure being held for 1+h. HO aware. Hemoband appliopressor dose increased. Hydralazine 10mg IV given x1 for HTN. Follow BP.ed. Bleeding stopped at 1845. Pressure dressing applied. Heparin to be restarted at 1930 per HO. PM lytes WNL; K+ 3.6- no repletion per HO. 1800 FS 152; given 2u RHI. 
+",,
+8857,1202,11012,1,3433-07-17 15:47:00 EST,3433-07-17 17:49:00 EST,615,"Y",1,"Nursing/Other","MICU NPN: Alt in Resp Status","
+MICU NPN: Alt in Resp Status
+Addendum: 
+
+Heparin off. A-line site excessively bleeding, dCV: Pt hypertensive post extubation. Started on Captopril. Lespite pressure being held for 1+h. HO aware. Hemoband appliopressor dose increased. Hydralazine 10mg IV given x1 for HTN. Follow BP.ed. Bleeding stopped at 1845. Pressure dressing applied. Heparin to be restarted at 1930 per HO. PM lytes WNL; K+ 3.6- no repletion per HO. 1800 FS 152; given 2u RHI. 
+",,
+8857,1202,11012,0,3433-07-17 15:47:00 EST,3433-07-17 16:09:00 EST,615,"N",1,"Nursing/Other","MICU NPN: Alt in Resp Status","
+MICU NPN: Alt in Resp Status
+S: ""I'm hungry.""
+
+O: PLease see carevue flowsheet for complete details.
+
+CV: HR 60-76 NSR with occ PACs and rare PVCs. Episodes of ST rate 115-120s x2. Resolved with Ativan and at rest. BP 149-189/50-60  
+CVP 8-10. Heparin at 1000units/hr with last therapeutic PTT 67.9 at 1600. Heparin shut off at 1700 for a-line removal, to be restarted at 1800 without bolus. All pulses palpable. K+ 4.1 Mg 1.0 (repleted with 2g IV); PM labs pending. 
+
+RESP: RR 13-26. O2sat 90-97%. Rcvd on A/C this am, weaned to PS, and then extubated at 1000. Pre-extubation gas 7.40/54/107/35. Placed on 35% face mask and currenlty on 2L NC, with Sats >90%. LS: Coarse prior to extubation. Post extubation with bibasilar crackles. Cont on neb tx. 
+
+GI/ENDO: +BS. No BM. Ate small amount for lunch. Hungry for dinner. FS at 12p 91- no coverage required. 
+
+GU: I+O: +700cc since MN. Anuric on HD. Due for HD tomorrow. 
+
+ID: afebrile. WBC 5.4 On Levofloxacin PO. 
+
+A: s/p COPD Exacerbation requiring intubation. Extubated today. 
+
+P: Follow Reso status. Cont on nebs. Follow PM labs. PTT to be restarted at 1800; please draw PTT at 0000. Start Coumadin tonoc. HD tomorrow. ?c/o to floor.
+
+",,
+8857,1202,11012,0,3433-07-18 03:40:00 EST,3433-07-18 03:46:00 EST,103,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P RESP FX","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P RESP FX
+
+S- "" I FEEL SO MUCH BETTER, THANK [**Doctor First Name **]...""
+
+
+O=- SEE FLOWSHEET FOR OBJECTIVE DATA
+
+CV- PT REMAINS HTN- ADDING CAPTOPRIL [**7-17**] AND INCREASING LOPRESSOR DOSE TO 25 BID. CURRENTLY BP 140-160/ AND HR STABLE AT 60-80 ST. NO AFLUTTER NOR SUSTAINED ST. RT RADIAL ALINE D/C WITH MUCH BLEEDING AND NEED FOR HEMOBAND APPLICATION, HEPARIN STOPPED AND RESTARTED WITHOUT BOLUS 8PM 1000U/HOUR. TOLERATED OOB TO CHAIR BY REPORT, BUT ON BEDREST THIS SHIFT.
+REMAINS WITH TLC RT IJ AND PERIPHERAL LINES.
+
+RESP- PT ON INHALERS AS ORDERED AS WELL AS PREDNISONE QD.
+LUNGS SOUNDS RELATIVELY CLEAR, O2 SATS- MID 90'S ON 2 L NP.
+COMFORTABLE, NO COUGH.
+
+ID- AFEBRILE- ON LEVO
+
+GU- DUE FOR HD TODAY. ANURIC
+
+MS- PT PLEASANT AND CHATTING WITH STAFF, GOOD SPIRITS, CALLED HUSBAND AT HOME LAST EVE
+
+A/P- PT S/P COPD EXACERBATION SUCCESSFULLY REMAINS EXTUBATED
+
+PLAN- C/O TO MEDICAL FLOOR THEN TO HOME
+CONTINUE INHALERS/STEROID TX FOR COPD.
+INCREASE ACTIVITY, CONTINUE TO SUPPORT PT AND 
+KEEP AWARE OF PLAN OF CARE.
+INCREASE CV MEDS AS NEEDED TO CONTROL RPP.
+
+",,
+8857,1202,11012,0,3433-07-18 09:00:00 EST,3433-07-18 09:06:00 EST,620,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+pls see carevue flowsheet for complete vs/data/events
+s: i always bring up sputum
+o: id: afeb
+cv: sr 60-80 w occ apcs. bp 120-160/50-60. tol lopressor and captopril at prev doses. heparin at 1000u/hr. ptt 69, inr 1.5. restarted coumadin last noc and rec'd 3mg.
+resp: labored w exertion. no acute wheezes noted. sat 92-97% on 4l nc. w exertion sat drops to mid 80s. prod cough, tan sm amt.
+gi: poor appetite. no n/v. no bm since admit.
+gu: hd today
+ms: ox3. anxious at times. takes prn ativan. transfer w assist. uses walker at home. 
+social: husband helps to manage her health issues at home. likely will need vna upon dc.
+a: s/p extubation yest for copd. 
+p: c/o to med floor. cont to monitor and arrange dc plans.
+",,

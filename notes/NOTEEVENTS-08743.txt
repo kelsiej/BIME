@@ -1,0 +1,291 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8743,10543,,,2989-01-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2989-1-7**]              Discharge Date:   [**2989-1-9**]
+ 
+Date of Birth:  [**2884-11-9**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 3414**] 
+Chief Complaint:
+Lower GI Bleeding
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+104 F c ? hx diverticulosis, hiatal hernia (from previous d/c 
+summary) who presented to ED after health-assistant noticed pt. 
+unusually fatigued, taking less PO, and a large amount of dark 
+blood with clots while moving patient in morning. Blood 
+described as not bright with foul smell. Pt. without complaints 
+at this time; no abdominal pain, light headedness, anal pain, 
+vaginal discomfort. Assistant offered history that similar 
+episode occurred in past after pt. tried to manually disimpact 
+herself which she does daily. Last disimpaction 2 days prior. In 
+ED, pt. hemodynamically stable c BP 150/90, HR 110, 98.9, sat 
+92% RA c HCT 28.1 (down from baseline 36-38) Guiaic + and GYN 
+exam only remarkable for 2 cm vertical abrasion on posterior 
+vagina not bleeding. GI saw pt. and felt that she likely had GIB 
+[**2-6**] hemorrhoids or diverticulosis or AVM; felt that 
+colonoscopy/flex sig. not indicated. As per d/w HCP, goal was to 
+keep pt. comfortable and transfuse as needed. 
+ 
+Past Medical History:
+HTN  
+spinal stenosis  
+Osteoarthritis  
+Diverticulosis 
+Hiatal hernia 
+Increased cholesterol 
+Atrial Fibrillation
+Dementia
+
+ 
+Social History:
+Lives at [**Hospital3 1819**] in Assisted living. Widowed. No EtOH, 
+smoking, or drugs. Patient has her cousins involved: [**Name2 (NI) 5214**] and 
+[**First Name8 (NamePattern2) 8813**] [**Last Name (NamePattern1) **] [**Last Name (NamePattern1) **] [**Telephone/Fax (1) 12167**]; [**Doctor First Name 937**] [**Known patient lastname 12168**] - Granddaughter 
+[**Telephone/Fax (1) 12169**].  
+
+ 
+Family History:
+NC
+ 
+Physical Exam:
+VS- 96.0, 123/108, 78, 98%, 24  
+GEN- elderly female in NAD  
+HEENT- no elevation of JVP, dry mucous membranes, + tenting over 
+sternal skin  
+LUNGS- + crackles b/l  
+HEART- irregular irregular, S1, S2, + [**2-10**] SM at apex  
+ABD- soft, ND, NT, BS+  
+EXT- wwp, no edema. scattered pressure ulcers over shins.  
+NEURO- moving all extremities, can name objects. difficulty with 
+orientation (*1 - name)  
+
+ 
+Pertinent Results:
+[**2989-1-7**] 11:53PM BLOOD calTIBC-263 VitB12-652 Folate-10.6 
+Ferritn-85 TRF-202
+[**2989-1-7**] 11:53PM BLOOD Iron-245*
+[**2989-1-9**] 05:55AM BLOOD Glucose-126* UreaN-41* Creat-1.2* Na-145 
+K-3.5 Cl-107 HCO3-23 AnGap-19
+[**2989-1-7**] 11:00AM BLOOD WBC-7.1 RBC-3.02*# Hgb-9.6* Hct-28.1*# 
+MCV-93 MCH-31.8 MCHC-34.2 RDW-14.9 Plt Ct-244
+[**2989-1-8**] 02:17PM BLOOD WBC-9.1 RBC-3.94* Hgb-12.1 Hct-35.4* 
+MCV-90 MCH-30.7 MCHC-34.2 RDW-15.1 Plt Ct-225
+[**2989-1-9**] 05:55AM BLOOD WBC-7.3 RBC-3.90* Hgb-12.1 Hct-35.0* 
+MCV-90 MCH-31.0 MCHC-34.6 RDW-15.4 Plt Ct-214
+ 
+Brief Hospital Course:
+#Lower GI bleeding, NOS; likely secondary to manual 
+disimpaction: seen by GI and OB/GYN teams who felt bleeding was 
+clearly GI.  GI team consulted and felt etiology of bleed was 
+likely hemmrhoidal vs diverticulae vs trauma from self 
+disimpaction. GI team felt given advanced age and stable HCT 
+(after transfusion of 1U of PRBC), that flex sigmoidoscopy would 
+not be indicated given the patients advanced age.  Morever, the 
+patient was completely asx.  The patient should be given senna, 
+colace daily and would benefit from enemas.  She should not be 
+allowed to mannually self disimpact herself.  Of note, ASA 
+decreased to 81 mg on d/c.
+.
+#2 cm Vaginal abrasion: noted on GYN exam.  Felt to be secondary 
+to trauma from ED speculum exam.  SW consulted; did not find any 
+evidence to support sexual abuse.
+.
+#Afib:  kept on BB.  Of note, ASA decreased as above.
+ 
+Medications on Admission:
+Same (except full dose ASA)
+ 
+Discharge Medications:
+1. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+2. Dorzolamide 2 % Drops Sig: One (1) Drop Ophthalmic TID (3 
+times a day).  
+3. Brimonidine 0.15 % Drops Sig: One (1) Drop Ophthalmic Q8H 
+(every 8 hours).  
+4. Ativan 0.5 mg Tablet Sig: One (1) Tablet PO twice a day as 
+needed for anxiety.  
+5. Calcium 500 500 mg Tablet Sig: One (1) Tablet PO three times 
+a day.  
+6. Haldol
+please resume previous dose
+.75 qhs prn
+7. Atenolol 25 mg Tablet Sig: One (1) Tablet PO once a day.  
+8. Protonix 40 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+9. Aspirin EC 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+10. Fleet Enema 19-7 g/118mL Enema Sig: One (1)  Rectal once a 
+day as needed for constipation.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1.  Lower GI bleeding, NOS; likely secondary to manual 
+disimpaction
+2.  2 cm Vaginal abrasion
+
+Secondary Diagnoses:
+1. Diverticulosis   
+2. Hypertension  
+3. Hiatal hernia  
+4. Increased cholesterol  
+5. Atrial Fibrillation
+6. Dementia
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+Please contact Dr. [**Last Name (STitle) **] should [**Doctor First Name **] have any additional blood 
+in your stools, black stools, abdominal pain, or any other 
+complaints.  DO NOT PUT YOUR FINGER IN YOUR ANUS in attempts to 
+remove stool.
+.
+The patient can be given enemas prn for constipation.
+
+ 
+Followup Instructions:
+Provider: [**First Name11 (Name Pattern1) 2062**] [**Last Name (NamePattern4) 2063**], MD [**MD Number 150**]:[**Telephone/Fax (1) 2453**] 
+Date/Time:[**2989-4-16**] 9:15
+
+ 
+                             [**Name6 (MD) 144**] [**Last Name (NamePattern4) 3415**] MD [**MD Number 3416**]
+ 
+Completed by: [**Name6 (MD) 144**] [**Last Name (NamePattern4) 3415**] MD [**MD Number 3416**] [**2989-1-9**] @ 1646
+Signed electronically by: DR. [**First Name8 (NamePattern2) 144**] [**Name (STitle) **]
+ on: MON [**2989-1-12**] 8:27 PM
+(End of Report)
+
+
+",,
+8743,10543,,,2989-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2989-1-7**] 12:40 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10321**]
+     Reason: eval for PNA                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with rectal bleeding and vaginal bleeding                    
+     REASON FOR THIS EXAMINATION:
+      eval for PNA                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST [**2989-1-7**] AT 12:39 P.M.
+     
+     HISTORY:  Rectal and vaginal bleeding.
+     
+     COMPARISON:  Multiple priors, the most recent dated [**2988-2-10**].
+     
+     FINDINGS:  The patient is again markedly rotated limiting the examination. 
+     There has been mild improvement in the vascular indistinctness previously
+     noted with mild residual remaining.  No focal consolidation is evident.  A
+     large tortuous atherosclerotic aorta is again seen.  The cardiac silhouette is
+     enlarged but stable.  A prominent hiatal hernia is again seen in the
+     retrocardiac region.  The bones are remarkably osteopenic.  Stable chronic
+     superior endplate compression fracture is noted at the thoracolumbar junction.
+     There is exaggerated kyphosis throughout the upper and mid thoracic spine.
+     
+     IMPRESSION:  Improvement in volume status relative to the most recent prior
+     study with mild residual edema persisting.  No focal consolidation seen. 
+     Otherwise stable.
+                                                                           
+
+",,
+8743,10543,10879,0,2989-01-07 20:51:00 EST,2989-01-07 21:08:00 EST,348,"N",69,"Nursing/Other","6-11 pm Nsg Admit Note","
+[**6-15**] pm Nsg Admit Note
+[**Age over 90 **] y.o. female admitted to FICU from EW with GI bleed (rectal bleeding).  pt lives in an assisted living at [**Hospital3 **], has a 24 hour home health aide,  who cares for her, noticed blood coming from rectum or ?vaginal bleeding.  pt manually disimpacts herself every day or every other day.  pt evaluated by OB/GYN - no bleeding visualized,  Anoscope showed blood/stool and hemorrhoids. 
+
+PMH:  HTN, osteoarthritis, spinal stenosis, diverticulosis, s/p left humeral fx, dementia,  TAH,  ?CRI,  diverticulosis, hiatal hernia, increased cholesterol,  cystocele repair/removal of cervix secondary to pelvic organ prolapse. 
+
+ALLERGIES:  NKDA
+
+ROS:
+
+GI:  belly soft, +BS,  no bleeding from rectum, no stool.  pt NPO  bleed ? from AVM, diverticular, or from hemorrhoids?    ?scope in am. 
+
+HEME:  hct 28   pt received one unit PRBC in EW, receiving her 2nd unit in FICU.  repeat Hct to be done after transfusion.
+
+CV/FLUIDS:  bp stable  125/98  HR  80's afib,  no vea,  EKG done.
+no IVF (pt receiving PRBC's currently)
+
+GU: foley intact, draining clear, yellow urine 30 cc/hr  bun~49,  crt 1.3
+
+NEURO:  pt oriented to person only, alert and conversant,   at times ~ appears confused,  following commands,  taking O2 off, and removing her O2 sat,  SR up x 4, bed in low position     pt received .5 mg IV Haldol with good affect. 
+
+RESP:  pt on 2l n/p   RR 20's  O2 sats 96%  lungs with decreased breath sounds.  
+
+ENDO:  FA qid, and cover w/ regular insulin ss.  
+
+SOCIAL:  DNR/DNI   pt lives in assisted living at [**Hospital3 **], has  24 home health aide.  cousin ~ [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 6143**]  spokesperson  #[**Telephone/Fax (1) 6144**]
+
+PLAN:  ?scope in am.  follow serial Hcts,  NPO,  pt is DNR/DNI    safety precautions. 
+",,
+8743,10543,10879,0,2989-01-07 21:19:00 EST,2989-01-07 21:20:00 EST,348,"N",69,"Nursing/Other",,"
+
+addendum:
+
+Skin:   pt with skin tears on lower legs,  and right arm.  cleansed and covered with duoderm.    back looks good, no skin breakdown. 
+",,
+8743,10543,10879,0,2989-01-08 02:41:00 EST,2989-01-08 02:52:00 EST,6176,"N",69,"Nursing/Other",,"
+
+NPN 7P-7A:
+
+NEURO: SHE IS ALERT,HOH, AND CONFUSED WITH TIME OF DAY AND PLACE. HALDOL 1MG WAS GIVEN WITHOUT EFFECT NOTED. SHE DID NOT [**Doctor Last Name **] OVER NIGHT.  SHE HAS A OLD FX OF THE LEFT ARM WHICH WAS REPAIRED. OTHER WISE SHE IS ABLE TO MAE.
+
+RESP: SHE WILL NOT KEEP THE O2 ON. HER SAT >92%. LS COURSE BILAT. NO COUGH NOTED. 
+
+GI/GU: +BS NO BM ON NIGHTS. SHE DID HAVE A ANOSCOPE IN THE ED WHICH SHOW HEMORROIDS AND ? DIVERTICULOSIS. SHE DID GET 2U PRBC. THE HCG WENT FOR 28 TO 35.5.
+
+SKIN: SHE HAS MULTIPLE SKIN TEARS ON THE RIGHT SHIN.
+
+POC: GET AM W/ CBC. QUESTION CALL OUT.
+",,
+8743,10543,,,2989-01-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2989-1-9**] 2:56 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10322**]
+     Reason: r/o CHF                                                     
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with rectal bleeding and vaginal bleeding, s/p IVF 
+      resuscitation, with mild hypoxia                
+     REASON FOR THIS EXAMINATION:
+      r/o CHF                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old woman with rectal bleeding, status post IVF
+     resuscitation, now mildly hypoxic.
+     
+     COMPARISON:  [**2989-1-7**].
+     
+     AP AND LATERAL CHEST:  Since the prior study, there appears to have been some
+     improvement in the volume overload.  The exam remains limited by patient
+     rotation.  Cardiac and mediastinal contours are stable.  No obvious
+     consolidation is identified.  There is marked thoracic kyphosis.  Mild
+     compression deformity of lower thoracic vertebral bodies is unchanged.
+     
+     IMPRESSION:  Likely slight improvement in the mild pulmonary edema. 
+     Otherwise, little change.
+                                                                           
+
+",,

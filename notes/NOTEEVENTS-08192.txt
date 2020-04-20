@@ -1,0 +1,628 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8192,446,,,3166-08-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3166-8-17**]       Discharge Date:  [**3166-8-25**]
+
+Date of Birth:   [**3086-8-28**]       Sex:  F
+
+Service:  Acove
+
+HISTORY OF PRESENT ILLNESS:  This 80-year-old woman was
+recently discharged from the Acove service on [**3166-8-26**] after an admission for respiratory difficulties and a
+pancreatitis layer.  The patient has a long history of severe
+emphysema, chronic pancreatitis with pancreatic
+insufficiency, atrial fibrillation, and mitral valve
+replacement.  At the time of discharge, the patient was
+breathing at her baseline level, requiring 2 liters of oxygen
+at night, but no oxygen requirement during the day.  She was
+tolerating a low fat diet after having experienced nausea
+with food the whole week prior.  She had been treated with a
+fentanyl patch for back and epigastric pain, as well as
+Compazine for nausea.  These medications had been
+discontinued two days prior to discharge.  A physical therapy
+consult had recommended that the patient have a [**Hospital 1058**]
+rehabilitation stay to improve her functional status prior to
+discharge home, but the patient desired to go home and
+declined a rehabilitation facility admission.
+
+One day after being discharged home, the patient's daughter
+noted her to be confused.  Per the daughter, the patient was
+speaking incoherently and not capable of doing tasks that she
+normally could, such as turning on the television with a
+remote.  The patient's daughter brought her back to the [**Hospital6 293**] where she was admitted for
+evaluation of her confusion.
+
+PAST MEDICAL HISTORY:
+1.  Severe emphysema
+2.  Chronic pancreatitis
+3.  Atrial fibrillation
+4.  Heart failure
+5.  Mitral valve replacement
+6.  Osteoporosis
+7.  Right total hip replacement
+8.  Cholecystectomy
+9.  Appendectomy
+10. Partial gastrectomy
+11. Cataract surgery
+[**76**]. Squamous cell skin cancer excised
+
+MEDICATIONS:
+1.  Flovent 330 mcg inhaled qid
+2.  Pancrease 3 caps po tid with meals
+3.  Protonix 40 mg po q day
+4.  Effexor 75 mg po q day
+5.  Coumadin 6 mg po q day
+6.  Digoxin 0.25 mg po q day
+7.  Tilade 2 puffs inhaled qid
+8.  Combivent 3 puffs inhaled tid
+9.  Docusate sodium 100 mg po bid
+10. Multivitamin 1 tablet po q day
+11. Captopril 12.5 mg po tid
+12. Tums 500 mg po tid
+
+ALLERGIES:  CODEINE AND PENICILLIN
+
+SOCIAL HISTORY:  Significant for substantial tobacco history
+of 60 plus pack years; patient quit five years ago.  Also
+significant for former alcohol use.  Patient quit 50 years
+ago.
+
+PHYSICAL EXAMINATION:
+VITAL SIGNS:  Temperature 97.9��, heart rate 82, blood
+pressure 153/70, respirations 18, oxygen saturation 98% on
+room air.
+GENERAL:  The patient was alert in no acute distress and
+pleasant.
+NECK:  No lymphadenopathy.
+HEAD, EARS, EYES, NOSE AND THROAT:  Pupils equal, round and
+reactive to light, extraocular muscles are intact.
+CHEST:  Significant for decreased breath sounds bilaterally,
+no wheezes or rales.
+HEART:  Irregularly irregular rhythm with a regular rate,
+grade 1 out of 6 apical murmur.
+ABDOMEN:  Soft, nontender, nondistended, positive bowel
+sounds.
+BACK:  No costovertebral angle tenderness.
+EXTREMITIES:  No edema.
+SKIN:  Good turgor, no rash.
+NEUROLOGIC:  Alert and oriented x3, cranial nerves II through
+XII intact.  Motor and sensory not formally tested.
+
+ADMISSION LABS:  Sodium 133, potassium 3.5, chloride 95,
+total CO2 28, BUN 11, creatinine 0.8, glucose 111, white
+blood cell count 14, hematocrit 41, platelets 286.
+Urinalysis dip stick negative, INR 1.7.  CT head negative for
+hemorrhage.  Electrocardiogram - atrial fibrillation with old
+ST depressions in V3 and V4.
+
+HOSPITAL COURSE:  Please refer to prior discharge dictation
+for hospital course prior to this admission.  The patient was
+admitted to the floor for further work up of her confusion at
+home.  Throughout her hospital stay, the patient was
+oriented, with good attention and clear thought process.  Her
+confusion at home was attributed to delirium, possibly
+secondary to medications she had received in the hospital
+prior to discharge, including Compazine and fentanyl.
+
+A geriatrics consult was obtained.  Their impression is that
+the patient has evidence of mild cortical dementia and would
+benefit from further work up as an outpatient.  The patient's
+labs during admission included a vitamin B12 level of 1533, a
+folate level of 14.2 and a TSH level of 3.6.
+
+The patient was switched from digoxin to diltiazem for rate
+control of her atrial fibrillation.  Her Coumadin was
+increased to 7 mg po qd until a therapeutic INR of 2.4 was
+obtained.  She was otherwise maintained on her current
+cardiac and pulmonary medications.
+
+The patient complained of mild nausea which was improved
+after the patient was placed on a no fat diet.  She also
+complained of mild lower back and hip pain which she
+attributed to feeling tense.  The patient developed a
+blanchable erythematous rash on her back, possibly secondary
+to a hypersensitivity reaction to the sheets on her bed.  She
+was started on Sarna lotion for pruritus.
+
+DISCHARGE DIAGNOSES:
+1.  Status post delirium
+2.  Mild dementia
+3.  Severe emphysema
+4.  Chronic pancreatitis
+5.  Atrial fibrillation
+6.  Heart failure
+7.  Osteoporosis
+
+DISCHARGE CONDITION:  Fair
+
+DISCHARGE STATUS:  [**Hospital3 5615**] at [**Hospital 5616**] Rehabilitation and
+Nursing Center
+
+DISCHARGE MEDICATIONS:
+1.  Flovent 330 mcg inhaled qid
+2.  Pancrease 3 caps po tid with meals
+3.  Protonix 40 mg po q day
+4.  Effexor 75 mg po q day
+5.  Coumadin 6 mg po q day
+6.  Diltiazem 30 mg po qid, hold for systolic blood pressure
+under 100, heart rate under 55
+7.  Tilade 2 puffs inhaled qid
+8.  Sarna lotion to back tid
+9.  Combivent 3 puffs inhaled tid
+10. Docusate sodium 100 mg po bid
+11. Multivitamin 1 tablet po q day
+12. Captopril 12.5 mg po tid
+13. Tums 500 mg po tid
+
+
+
+
+                            [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], M.D.  [**MD Number 2882**]
+
+Dictated By:[**Last Name (NamePattern1) 11307**]
+MEDQUIST36
+
+D:  [**3166-8-30**]  13:37
+T:  [**3166-8-30**]  13:50
+JOB#:  [**Job Number 11308**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: SUN [**3166-12-11**] 10:24 AM
+(End of Report)
+
+
+",,
+8192,446,,,3166-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3166-8-19**] 1:51 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/CONTRAST                    Clip # [**Clip Number (Radiology) 5623**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 1)pt with suspected RUL nodule on CXR [**8-18**], 2)pt with epigast
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with severe emphysema, afib, chronic pancreatitis
+     REASON FOR THIS EXAMINATION:
+      1)pt with suspected RUL nodule on CXR [**8-18**], 2)pt with epigastric/BUQ abdominal
+      pain and tenderness, possible pancreatitis flare
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     
+     1. History of chronic pancreatitis.
+     
+     2. Possible nodule in right lung identified in recent chest xray.
+     
+     TECHNIQUE: Noncontrast images were acquired through the chest.
+     
+     Axial images were obtained through the abdomen and pelvis after the
+     administration of 150 cc of nonionic contrast medium.
+     
+     COMPARISON: Chest xray of [**3166-8-18**].
+     
+     FINDINGS: The lungs are hyperinflated consistent with emphysema.
+     
+     There is a single 0.6 cm noncalcified nodule in the peripheral aspect of the
+     right upper lobe. There are ill-defined hazy,  wedge shaped opacities in the
+     posterior aspect of the right upper lobe. No consolidation. No pleural
+     effusions. There is a single sub cm precarinal lymph node. No other adenopathy
+     identified. The aorta is heavily calcified.
+     
+     CT OF ABDOMEN WITH CONTRAST: There is extensive fatty infiltration of the
+     liver. There is pneumobilia in the left intrahepatic biliary radicals as has
+     been previously documented.
+     
+     No discrete liver lesion is identified.
+     
+     The common bile duct is not dilated.
+     
+     The pancreas is slightly atrophic. No discrete lesion is identified.
+     
+     Normal spleen, adrenals and left kidney. There are a number of simple cysts in
+     the right kidney. The visualized bowel loops are normal. No adenopathy or
+     ascites.
+     
+     CT OF PELVIS WITH CONTRAST: The bladder outline is normal. No masses. There is
+     a right hip replacement.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**3166-8-19**] 1:51 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/CONTRAST                    Clip # [**Clip Number (Radiology) 5623**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 1)pt with suspected RUL nodule on CXR [**8-18**], 2)pt with epigast
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1. Peripheral nodule right upper lobe. Appearances are worrisome for neoplasm.
+     Suggest correlation with any previous imaging if available.
+     
+     2. Diffuse fatty infiltration and left intrahepatic pneumobilia as has been
+     previously documented. No evidence for acute pancreatitis.
+
+             DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+",,
+8192,446,,,3166-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3166-8-19**] 1:51 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/CONTRAST                    Clip # [**Clip Number (Radiology) 5623**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 1)pt with suspected RUL nodule on CXR [**8-18**], 2)pt with epigast
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with severe emphysema, afib, chronic pancreatitis
+     REASON FOR THIS EXAMINATION:
+      1)pt with suspected RUL nodule on CXR [**8-18**], 2)pt with epigastric/BUQ abdominal
+      pain and tenderness, possible pancreatitis flare
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     
+     1. History of chronic pancreatitis.
+     
+     2. Possible nodule in right lung identified in recent chest xray.
+     
+     TECHNIQUE: Noncontrast images were acquired through the chest.
+     
+     Axial images were obtained through the abdomen and pelvis after the
+     administration of 150 cc of nonionic contrast medium.
+     
+     COMPARISON: Chest xray of [**3166-8-18**].
+     
+     FINDINGS: The lungs are hyperinflated consistent with emphysema.
+     
+     There is a single 0.6 cm noncalcified nodule in the peripheral aspect of the
+     right upper lobe. There are ill-defined hazy,  wedge shaped opacities in the
+     posterior aspect of the right upper lobe. No consolidation. No pleural
+     effusions. There is a single sub cm precarinal lymph node. No other adenopathy
+     identified. The aorta is heavily calcified.
+     
+     CT OF ABDOMEN WITH CONTRAST: There is extensive fatty infiltration of the
+     liver. There is pneumobilia in the left intrahepatic biliary radicals as has
+     been previously documented.
+     
+     No discrete liver lesion is identified.
+     
+     The common bile duct is not dilated.
+     
+     The pancreas is slightly atrophic. No discrete lesion is identified.
+     
+     Normal spleen, adrenals and left kidney. There are a number of simple cysts in
+     the right kidney. The visualized bowel loops are normal. No adenopathy or
+     ascites.
+     
+     CT OF PELVIS WITH CONTRAST: The bladder outline is normal. No masses. There is
+     a right hip replacement.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**3166-8-19**] 1:51 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/CONTRAST                    Clip # [**Clip Number (Radiology) 5623**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 1)pt with suspected RUL nodule on CXR [**8-18**], 2)pt with epigast
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1. Peripheral nodule right upper lobe. Appearances are worrisome for neoplasm.
+     Suggest correlation with any previous imaging if available.
+     
+     2. Diffuse fatty infiltration and left intrahepatic pneumobilia as has been
+     previously documented. No evidence for acute pancreatitis.
+
+             DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+",,
+8192,446,,,3166-08-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3166-8-19**] 1:51 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/CONTRAST                    Clip # [**Clip Number (Radiology) 5623**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 1)pt with suspected RUL nodule on CXR [**8-18**], 2)pt with epigast
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with severe emphysema, afib, chronic pancreatitis
+     REASON FOR THIS EXAMINATION:
+      1)pt with suspected RUL nodule on CXR [**8-18**], 2)pt with epigastric/BUQ abdominal
+      pain and tenderness, possible pancreatitis flare
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     
+     1. History of chronic pancreatitis.
+     
+     2. Possible nodule in right lung identified in recent chest xray.
+     
+     TECHNIQUE: Noncontrast images were acquired through the chest.
+     
+     Axial images were obtained through the abdomen and pelvis after the
+     administration of 150 cc of nonionic contrast medium.
+     
+     COMPARISON: Chest xray of [**3166-8-18**].
+     
+     FINDINGS: The lungs are hyperinflated consistent with emphysema.
+     
+     There is a single 0.6 cm noncalcified nodule in the peripheral aspect of the
+     right upper lobe. There are ill-defined hazy,  wedge shaped opacities in the
+     posterior aspect of the right upper lobe. No consolidation. No pleural
+     effusions. There is a single sub cm precarinal lymph node. No other adenopathy
+     identified. The aorta is heavily calcified.
+     
+     CT OF ABDOMEN WITH CONTRAST: There is extensive fatty infiltration of the
+     liver. There is pneumobilia in the left intrahepatic biliary radicals as has
+     been previously documented.
+     
+     No discrete liver lesion is identified.
+     
+     The common bile duct is not dilated.
+     
+     The pancreas is slightly atrophic. No discrete lesion is identified.
+     
+     Normal spleen, adrenals and left kidney. There are a number of simple cysts in
+     the right kidney. The visualized bowel loops are normal. No adenopathy or
+     ascites.
+     
+     CT OF PELVIS WITH CONTRAST: The bladder outline is normal. No masses. There is
+     a right hip replacement.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**3166-8-19**] 1:51 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/CONTRAST                    Clip # [**Clip Number (Radiology) 5623**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: 1)pt with suspected RUL nodule on CXR [**8-18**], 2)pt with epigast
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1. Peripheral nodule right upper lobe. Appearances are worrisome for neoplasm.
+     Suggest correlation with any previous imaging if available.
+     
+     2. Diffuse fatty infiltration and left intrahepatic pneumobilia as has been
+     previously documented. No evidence for acute pancreatitis.
+
+             DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+",,
+8192,,,,3166-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3166-9-23**] 10:38 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 5624**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: abd distension, RUQ pain and nausea in pt with chronic pancr
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with history of chronic pancreatitis, severe emphysema,
+      atrial fibrillation now with recurrent right upper quadrant pain and INR of 12.
+     REASON FOR THIS EXAMINATION:
+      abd distension, RUQ pain and nausea in pt with chronic pancreatitis and INR=12
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS.
+     
+     CLINICAL INDICATION:  79 year old woman with history of chronic pancreatitis.
+     Now with recurrent right upper quadrant pain.
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis prior to and following the
+     administration of 150 cc of Optiray contrast IV.  Optiray contrast was
+     administered in light of debility.
+     
+     COMPARISONS:  Comparison is made with the patient's next-prior study dated
+     [**3166-8-19**].
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  There are small bilateral
+     pleural effusions, new since the prior study.  There is subsegmental
+     atelectasis at the lung bases.  No pulmonary nodules are identified.  The
+     patient is status post cholecystectomy and there is stable pneumobilia.  The
+     overall appearance of the liver is unchanged since the prior exam.  Multiple
+     surgical clips are present in the region of the GE junction.  There is a trace
+     amount of fluid anterior to the left lobe of the liver, stable since the prior
+     study.  The adrenal glands and spleen are unremarkable.  The pancreas is
+     atrophic.  There is no evidence of inflammatory stranding about the pancreas
+     to suggest acute pancreatitis and no pseudocysts are identified.  The right
+     kidney contains several small cysts, as before.  New since the prior study is
+     a wedge-shaped region of decreased attenuation at the mid pole of the right
+     kidney with associated stranding in the pararenal fat.  There is no
+     hydronephrosis nor evidence of renal masses.  The left kidney is unremarkable.
+      The ureters and normal in caliber throughout their course to the urinary
+     bladder.  Oral contrast has passed freely through the bowel to the level of
+     the transverse colon.  The visualized loops of large and small bowel in the
+     abdomen are within normal limits.  There is no free air identified in the
+     abdomen and no abnormally enlarged lymph nodes are seen in the mesentery or
+     retroperitoneum.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The urinary bladder is distended.  The
+     uterus is atrophic but otherwise unremarkable.  The rectum and sigmoid colon
+     are also normal and no free fluid is seen in the deep pelvis.
+     
+     There are degenerative changes of the osseous structures and the patient is
+                                                                 (Over)
+
+     DATE: [**3166-9-23**] 10:38 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 5624**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: abd distension, RUQ pain and nausea in pt with chronic pancr
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     status post placement of a right hip prosthesis.
+     
+     IMPRESSION:
+     
+     1) Interval development of a wedge-shaped perfusion defect at the mid pole of
+     the right kidney.  Along with pararenal fat stranding, the overall appearance
+     is most suggestive of pyelonephritis.  Less likely, especially given the
+     patient's elevated INR, would be a focal infarction.  If clinically indicated,
+     a follow-up CT scan could be obtained in ten days to two weeks time.
+     
+     2) Stable pneumobilia.
+     
+     3) Small bilateral pleural effusions with bibasilar atelectasis, new since the
+     prior exam.
+
+",,
+8192,,,,3166-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3166-9-23**] 10:38 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 5624**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: abd distension, RUQ pain and nausea in pt with chronic pancr
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with history of chronic pancreatitis, severe emphysema,
+      atrial fibrillation now with recurrent right upper quadrant pain and INR of 12.
+     REASON FOR THIS EXAMINATION:
+      abd distension, RUQ pain and nausea in pt with chronic pancreatitis and INR=12
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS.
+     
+     CLINICAL INDICATION:  79 year old woman with history of chronic pancreatitis.
+     Now with recurrent right upper quadrant pain.
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis prior to and following the
+     administration of 150 cc of Optiray contrast IV.  Optiray contrast was
+     administered in light of debility.
+     
+     COMPARISONS:  Comparison is made with the patient's next-prior study dated
+     [**3166-8-19**].
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  There are small bilateral
+     pleural effusions, new since the prior study.  There is subsegmental
+     atelectasis at the lung bases.  No pulmonary nodules are identified.  The
+     patient is status post cholecystectomy and there is stable pneumobilia.  The
+     overall appearance of the liver is unchanged since the prior exam.  Multiple
+     surgical clips are present in the region of the GE junction.  There is a trace
+     amount of fluid anterior to the left lobe of the liver, stable since the prior
+     study.  The adrenal glands and spleen are unremarkable.  The pancreas is
+     atrophic.  There is no evidence of inflammatory stranding about the pancreas
+     to suggest acute pancreatitis and no pseudocysts are identified.  The right
+     kidney contains several small cysts, as before.  New since the prior study is
+     a wedge-shaped region of decreased attenuation at the mid pole of the right
+     kidney with associated stranding in the pararenal fat.  There is no
+     hydronephrosis nor evidence of renal masses.  The left kidney is unremarkable.
+      The ureters and normal in caliber throughout their course to the urinary
+     bladder.  Oral contrast has passed freely through the bowel to the level of
+     the transverse colon.  The visualized loops of large and small bowel in the
+     abdomen are within normal limits.  There is no free air identified in the
+     abdomen and no abnormally enlarged lymph nodes are seen in the mesentery or
+     retroperitoneum.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The urinary bladder is distended.  The
+     uterus is atrophic but otherwise unremarkable.  The rectum and sigmoid colon
+     are also normal and no free fluid is seen in the deep pelvis.
+     
+     There are degenerative changes of the osseous structures and the patient is
+                                                                 (Over)
+
+     DATE: [**3166-9-23**] 10:38 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 5624**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: abd distension, RUQ pain and nausea in pt with chronic pancr
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     status post placement of a right hip prosthesis.
+     
+     IMPRESSION:
+     
+     1) Interval development of a wedge-shaped perfusion defect at the mid pole of
+     the right kidney.  Along with pararenal fat stranding, the overall appearance
+     is most suggestive of pyelonephritis.  Less likely, especially given the
+     patient's elevated INR, would be a focal infarction.  If clinically indicated,
+     a follow-up CT scan could be obtained in ten days to two weeks time.
+     
+     2) Stable pneumobilia.
+     
+     3) Small bilateral pleural effusions with bibasilar atelectasis, new since the
+     prior exam.
+
+",,
+8192,,,,3166-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3166-9-28**] 9:14 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 5625**]
+     Reason: RUL NODULE
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with right upper lung nodular lesion on ct on [**3166-8-18**] in this
+      former smoker
+     REASON FOR THIS EXAMINATION:
+      f/u of RUL nodule
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Right upper lobe lung nodule seen on CT of [**3166-8-18**]. Former smoker
+     please follow up.
+     
+     COMPARISON STUDY: [**3166-8-19**].
+     
+     TECHNIQUE: Contiguous helical imaging was obtained from the thoracic inlet to
+     the upper abdomen after IV contrast administration.
+     
+     CT SCAN OF THE CHEST W/CONTRAST: There is no significant axillary, mediastinal
+     or hilar lymphadenopathy. The heart is enlarged. Coronary artery calcification
+     is seen. There is no pericardial effusion. Small bilateral pleural effusions
+     are seen. The lung windows demonstrate scattered foci of atelectasis. There is
+     also some smooth prominence of the interlobar septa and scattered foci which
+     could be related to resolving pulmonary edema and atelectasis. The previously
+     identified triangular pulmonary nodule in the inferior aspect of the right
+     upper lobe is again seen. It measures approximately 7 mm and is not
+     significantly changed since the previous exam. No new pulmonary nodules are
+     detected.
+     
+     Within the imaged portion of the upper abdomen, again pneumobilia is
+     identified. Focal decreased perfusion within the right kidney is also again
+     seen of uncertain etiology but could represent an area of focal
+     pyelonephritis. This was identified on the previous CT scan. Multiple
+     bilateral renal cysts are seen. The remainder of the imaged portion of the
+     upper abdomen is normal. Skeletal structures demonstrate no suspicious lytic
+     or sclerotic foci. Incidentally noted is a Schmorl's node.
+     
+     IMPRESSION:
+     
+     1) Stable triangular shaped 7 mm pulmonary nodule in the inferior aspect of
+     the right upper lobe. 3 month follow up may be performed to ensure 6 month
+     stability.
+     
+     2) Small bilateral pleural effusions with some scattered foci of associated
+     atelectasis and interlobular septal thickening which could be related to some
+     mild failure.
+     
+     3) Stable pneumobilia.
+     
+     4) Again seen is a focal perfusion defect within the mid pole of the right
+                                                                 (Over)
+
+     DATE: [**3166-9-28**] 9:14 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 5625**]
+     Reason: RUL NODULE
+      Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     kidney which could be related to sequela from previously identified
+     pyelonephritis.
+
+",,

@@ -1,0 +1,2067 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8612,21781,,,2837-07-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2837-7-29**]     Discharge Date:  [**2837-8-11**]
+
+Date of Birth:   [**2776-1-17**]     Sex:  M
+
+Service:  Surgery
+
+HISTORY OF PRESENT ILLNESS:  This is a 61-year-old male with
+mucinous adenocarcinoma arising from appendix with extensive
+carcinomatosis and tumor involving the small bowel near the
+SMA diagnosed by exploratory laparotomy in [**2836-5-8**].  He
+underwent a palliative bypass procedure at that time.  He was
+readmitted on [**7-29**] with a 2-week history of increasing
+abdominal pain, fever, vomiting, and a temperature of 104.8
+degrees with peritoneal signs on abdominal examination.  CT
+scan revealed worsening of small bowel distention, small
+bowel wall thickening, increased ascites, and extra luminous
+air, and a small collection in the right lower quadrant.
+This collection did not appear amenable to drainage.
+
+HOSPITAL COURSE:  Thus, on [**2837-7-30**], in the early a.m.
+the patient underwent an exploratory laparotomy and a small
+bowel resection.  Preoperative diagnosis was perforated
+viscous.  Postoperative diagnosis was small bowel
+perforation.  The surgeon of record was Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].
+Findings intraoperatively included a closed-loop obstruction,
+bypass small bowel with perforation in the right upper
+quadrant.  The patient was admitted to the Surgical Intensive
+Care Unit for postoperative care.  He was intubated as of
+postoperative day one.  Due to the perforated viscous, the
+patient was kept on Kefzol and Flagyl antibiotics
+postoperatively.  The patient was extubated on [**7-31**].  He
+did remain n.p.o. with nasogastric tube suction at this time
+and remained on Kefzol and Flagyl.  He required transfusion
+of 1 unit of packed red blood cells on [**8-1**] for a
+hematocrit of 27.8.
+
+The patient was transferred to the floor on [**8-2**].  His
+nasogastric tube was discontinued.  The patient was to be
+transferred to the floor, but he still had some hypotension
+issues and was actually kept until [**8-3**].  Enalapril and
+Lopressor were able to keep his blood pressure under control,
+and he was transferred to the floor on [**8-3**].
+
+On [**8-4**], the patient continued to do well, and his
+Kefzol and Flagyl were discontinued.  The Foley catheter was
+discontinued on [**8-5**].  The patient was tolerating clears
+as of [**8-5**].  On [**8-6**], on the patient's abdominal
+examination, there was noted to be an increase in
+serosanguineous drainage from the site of the incision, and
+the patient had a temperature of 101.2 degrees.  A CT scan on
+[**8-6**] revealed a right-sided intra-abdominal fluid
+collection.  This collection was drained by Interventional
+Radiology on [**8-7**] with a #12 French pigtail placed in
+the right lower quadrant; 70 cc of purulent material were
+drained at this time.  At the time of discharge, the culture
+from this fluid had grown out no anaerobes, no enterococcus,
+two colonies of gram-negative rods in moderate quantity.  A
+third gram-negative rod species, sparse, gram-positive
+bacteria, also streptococcus and gram-positive rods in broth
+only.
+
+The patient did very well after this drain was put in.  The
+patient was also put on levofloxacin and Flagyl as of
+[**8-7**].  The patient was advanced to a regular diet as of
+[**2837-8-9**].
+
+DISCHARGE DISPOSITION:  As of [**2837-8-11**], the patient
+was stable for discharge to home with Visiting Nurse
+Association care.
+
+MEDICATIONS ON DISCHARGE:  He was to be discharged on
+Avandia 4 mg p.o. q.d., levofloxacin 500 mg p.o. q.d.,
+Flagyl 500 mg p.o. t.i.d.
+
+DISCHARGE FOLLOWUP:  He was to follow up with Dr. [**Last Name (STitle) **].  The
+patient will also receive Visiting Nurse Association for
+drain care at home, and also b.i.d. dry sterile dressing
+changes to his wound.
+
+
+
+                          [**First Name11 (Name Pattern1) 246**] [**Last Name (NamePattern1) 11976**], M.D.  [**MD Number 11977**]
+
+Dictated By:[**Last Name (NamePattern1) 4095**]
+
+MEDQUIST36
+
+D:  [**2837-8-11**]  13:21
+T:  [**2837-8-13**]  09:05
+JOB#:  [**Job Number 11978**]
+Signed electronically by: DR. [**First Name (STitle) 246**] STEER
+ on: TUE [**2837-8-25**] 11:32 AM
+(End of Report)
+
+
+",,
+8612,21781,,,2837-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-7-29**] 5:55 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9352**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o obstruction, abscess, cancer recurrence
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with met appendiceal ca now with abd pain x 2 weeks and temp
+      101.9
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction, abscess, cancer recurrence
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS [**2837-7-29**].
+     
+     CLINICAL INDICATION:  61 year old man with appendiceal cancer.  Now with
+     abdominal pain x 2 weeks and elevated temperature.  Evaluate for obstruction,
+     abscess, cancer recurrence.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis following the administration of 150 cc
+     of Optiray contrast IV.  Optiray contrast was administered in light of the
+     patient's nausea.  In addition, noncontrast imaging through the liver was
+     performed.
+     
+     COMPARISONS:  Comparison is made to the next prior CT study of [**2837-6-8**].
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  No nodules, opacities or
+     pleural effusions are present at the lung bases.  There is an NG tube passing
+     through the esophagus into the upper stomach.  The liver is within normal
+     limits without focal hepatic lesions.  There is mild prominence of the
+     intrahepatic biliary ducts, stable since the prior study.  No gallbladder is
+     identified, presumably status post cholecystectomy.  The adrenal glands are
+     unremarkable.  There are calcifications present within the head of the
+     pancreas, unchanged since the prior exam and likely related to prior chronic
+     pancreatitis.  The patient is status post splenectomy.  Both right and left
+     kidneys demonstrate prompt symmetric excretion of contrast without
+     hydronephrosis, renal masses or stones.  Again identified is dilatation of the
+     small bowel with fecalization of the small bowel contents.  The overall
+     caliber of the small bowel is stable if not slightly decreased in prominence
+     since the prior exam.  There has been interval development of increasing bowel
+     wall thickness.  This thickening is diffusely involving the small bowel. There
+     is a linear collection of gas along the margin of the small bowel wall (see
+     image 35 of series 3).  This gas appears to be within the lumen of the small
+     bowel rather than pneumatosis.  There has been interval worsening of the
+     intra-abdominal free fluid.  Within the right paracolic gutter and extending
+     into the pelvis, there is a loculated fluid collection which contains several
+     small pockets of air. This appears to represent a loculated fluid collection
+     with extraluminal air. This appearance is concerning for infection of the
+     intra- abdominal fluid versus perforation of the bowel.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The rectum and sigmoid colon are
+     unremarkable as are the prostate gland, seminal vesicles and urinary bladder.
+                                                                 (Over)
+
+     DATE: [**2837-7-29**] 5:55 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9352**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o obstruction, abscess, cancer recurrence
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     The osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1.  Interval increase in loculated free fluid within the abdomen.  Pockets of
+     air appear to be located within this loculated fluid raising the suspicion for
+     infection of the intra-abdominal fluid versus bowel perforation. Small bowel
+     ischemia should be considered.
+     2.  No significant change in dilatation of the small bowel.
+     3.  Interval increase in diffuse bowel wall thickening.  No definite evidence
+     for pneumatosis.
+     
+     The results were conveyed to the housestaff on the evening of this study.
+
+",,
+8612,21781,,,2837-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-7-29**] 5:55 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9352**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o obstruction, abscess, cancer recurrence
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with met appendiceal ca now with abd pain x 2 weeks and temp
+      101.9
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction, abscess, cancer recurrence
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS [**2837-7-29**].
+     
+     CLINICAL INDICATION:  61 year old man with appendiceal cancer.  Now with
+     abdominal pain x 2 weeks and elevated temperature.  Evaluate for obstruction,
+     abscess, cancer recurrence.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis following the administration of 150 cc
+     of Optiray contrast IV.  Optiray contrast was administered in light of the
+     patient's nausea.  In addition, noncontrast imaging through the liver was
+     performed.
+     
+     COMPARISONS:  Comparison is made to the next prior CT study of [**2837-6-8**].
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  No nodules, opacities or
+     pleural effusions are present at the lung bases.  There is an NG tube passing
+     through the esophagus into the upper stomach.  The liver is within normal
+     limits without focal hepatic lesions.  There is mild prominence of the
+     intrahepatic biliary ducts, stable since the prior study.  No gallbladder is
+     identified, presumably status post cholecystectomy.  The adrenal glands are
+     unremarkable.  There are calcifications present within the head of the
+     pancreas, unchanged since the prior exam and likely related to prior chronic
+     pancreatitis.  The patient is status post splenectomy.  Both right and left
+     kidneys demonstrate prompt symmetric excretion of contrast without
+     hydronephrosis, renal masses or stones.  Again identified is dilatation of the
+     small bowel with fecalization of the small bowel contents.  The overall
+     caliber of the small bowel is stable if not slightly decreased in prominence
+     since the prior exam.  There has been interval development of increasing bowel
+     wall thickness.  This thickening is diffusely involving the small bowel. There
+     is a linear collection of gas along the margin of the small bowel wall (see
+     image 35 of series 3).  This gas appears to be within the lumen of the small
+     bowel rather than pneumatosis.  There has been interval worsening of the
+     intra-abdominal free fluid.  Within the right paracolic gutter and extending
+     into the pelvis, there is a loculated fluid collection which contains several
+     small pockets of air. This appears to represent a loculated fluid collection
+     with extraluminal air. This appearance is concerning for infection of the
+     intra- abdominal fluid versus perforation of the bowel.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The rectum and sigmoid colon are
+     unremarkable as are the prostate gland, seminal vesicles and urinary bladder.
+                                                                 (Over)
+
+     DATE: [**2837-7-29**] 5:55 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9352**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o obstruction, abscess, cancer recurrence
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     The osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1.  Interval increase in loculated free fluid within the abdomen.  Pockets of
+     air appear to be located within this loculated fluid raising the suspicion for
+     infection of the intra-abdominal fluid versus bowel perforation. Small bowel
+     ischemia should be considered.
+     2.  No significant change in dilatation of the small bowel.
+     3.  Interval increase in diffuse bowel wall thickening.  No definite evidence
+     for pneumatosis.
+     
+     The results were conveyed to the housestaff on the evening of this study.
+
+",,
+8612,21781,,,2837-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-7-29**] 5:55 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9352**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o obstruction, abscess, cancer recurrence
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with met appendiceal ca now with abd pain x 2 weeks and temp
+      101.9
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction, abscess, cancer recurrence
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS [**2837-7-29**].
+     
+     CLINICAL INDICATION:  61 year old man with appendiceal cancer.  Now with
+     abdominal pain x 2 weeks and elevated temperature.  Evaluate for obstruction,
+     abscess, cancer recurrence.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis following the administration of 150 cc
+     of Optiray contrast IV.  Optiray contrast was administered in light of the
+     patient's nausea.  In addition, noncontrast imaging through the liver was
+     performed.
+     
+     COMPARISONS:  Comparison is made to the next prior CT study of [**2837-6-8**].
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  No nodules, opacities or
+     pleural effusions are present at the lung bases.  There is an NG tube passing
+     through the esophagus into the upper stomach.  The liver is within normal
+     limits without focal hepatic lesions.  There is mild prominence of the
+     intrahepatic biliary ducts, stable since the prior study.  No gallbladder is
+     identified, presumably status post cholecystectomy.  The adrenal glands are
+     unremarkable.  There are calcifications present within the head of the
+     pancreas, unchanged since the prior exam and likely related to prior chronic
+     pancreatitis.  The patient is status post splenectomy.  Both right and left
+     kidneys demonstrate prompt symmetric excretion of contrast without
+     hydronephrosis, renal masses or stones.  Again identified is dilatation of the
+     small bowel with fecalization of the small bowel contents.  The overall
+     caliber of the small bowel is stable if not slightly decreased in prominence
+     since the prior exam.  There has been interval development of increasing bowel
+     wall thickness.  This thickening is diffusely involving the small bowel. There
+     is a linear collection of gas along the margin of the small bowel wall (see
+     image 35 of series 3).  This gas appears to be within the lumen of the small
+     bowel rather than pneumatosis.  There has been interval worsening of the
+     intra-abdominal free fluid.  Within the right paracolic gutter and extending
+     into the pelvis, there is a loculated fluid collection which contains several
+     small pockets of air. This appears to represent a loculated fluid collection
+     with extraluminal air. This appearance is concerning for infection of the
+     intra- abdominal fluid versus perforation of the bowel.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The rectum and sigmoid colon are
+     unremarkable as are the prostate gland, seminal vesicles and urinary bladder.
+                                                                 (Over)
+
+     DATE: [**2837-7-29**] 5:55 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 9352**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: r/o obstruction, abscess, cancer recurrence
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     The osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1.  Interval increase in loculated free fluid within the abdomen.  Pockets of
+     air appear to be located within this loculated fluid raising the suspicion for
+     infection of the intra-abdominal fluid versus bowel perforation. Small bowel
+     ischemia should be considered.
+     2.  No significant change in dilatation of the small bowel.
+     3.  Interval increase in diffuse bowel wall thickening.  No definite evidence
+     for pneumatosis.
+     
+     The results were conveyed to the housestaff on the evening of this study.
+
+",,
+8612,21781,,,2837-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-7-29**] 12:58 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 9351**]
+     Reason: Increasing abdominal pain and distension in patient with met
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with as above
+     REASON FOR THIS EXAMINATION:
+      Increasing abdominal pain and distension in patient with metastatic appendiceal
+      CA, today vomiting r/o SBO 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic and appendiceal carcinoma
+     
+     COMPARISON:  [**2836-5-14**]
+     
+     There are slightly dilated loops of small bowel within the lower abdomen
+     measuring 3.1 cm and several air fluid levels on the upright study.  There is
+     no evidence of free intraperitoneal air.  There are vascular calcifications of
+     the femoral arteries.  Osseous structures are unremarkable.
+     
+     IMPRESSION:  Mildly dilated loops of small bowel with several air fluid levels
+     which is concerning for partial small bowel obstruction.  Clinical
+     correlation is advised.  Follow up imaging should be performed as clinically
+     needed.
+
+",,
+8612,21781,,,2837-07-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-7-30**] 8:49 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9353**]
+     Reason: -location of tube.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man s/p laparotomy due to perforation. Intubated
+     REASON FOR THIS EXAMINATION:
+      -location of tube.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Laparotomy.  Intubation.
+     
+     CHEST, SINGLE VIEW:  Comparison study dated [**2836-4-24**].
+     
+     The patient is intubated and the ET tube terminates 6 cm above the carina.
+     There is a central venous line catheter through a right IJ approach and
+     terminates in the middle SVC.  The NG tube is seen to course to the stomach,
+     its tip is not included on present radiograph.  There is discoid atelectasis
+     at the bases. no focal consolidations are seen.  Note made of residual barium
+     in the large bowel from prior exam.
+     
+     IMPRESSION:  ET tube 6 cm above the carina.  No pneumothorax.
+
+",,
+8612,21781,10722,0,2837-07-30 13:03:00 EST,2837-07-30 13:12:00 EST,3479,"N",53,"Nursing/Other","RSICU NURSING ADMISSION NOTE","
+RSICU NURSING ADMISSION NOTE
+
+PT IS A 61 YEAR OLD ADMITTED FROM HOME WITH RLQ PAIN WORSENING.
+  PAIN X3 WEEKS...RAN OUT OF PERCOCET ONE WEEK AGO.
+  TEMP 104.9   HR 105  BP 152/80  SAT 98%.
+
+IN ER: VOMITED.  GUIAC + STOOL.    GENT/AMP/FLAYL GIVEN.
+       BLOOD CX X2 SENT.  TYLENOL.
+
+ABD CT/KUB: INCREASED ASCITES.  DIFFUSE WALL THICKENING.
+            MULTIPLE AF LEVELS.   5 CM DILATATION.
+            CARCINOMATOSIS.
+
+TO OR: EXPLORATORY LAP.  SMALL BOWEL RESECTION.
+       ( CLOSED LOOP OBSTRUCTION OF BYPASSED SMALL BOWEL
+         WITH PERF. IN RUQ.)
+
+INTROP: HYPOTENSIVE REQUIRING NEO DRIP.
+        10 LITERS IVF.   4 RBC'S.
+
+
+PMH/PSH:
+
+    * ADENOCARCINOMA  OF APPENDIX WITH EXTENSION INTO NEARBY
+      STRUCTURES  AND + NODES.   COLON CA  S/P CHEMO.
+         S/P ILEO TO TRANSVERSE COLONIC SIDE TO SIDE [**Last Name (un) **].)
+         [**2836-5-8**].
+         NUMEROUS ADMITS SBO.
+
+    * PANCREATITIS.
+         S/P PARTIAL PANCREATECTOMY   1993.
+
+    * DM II  ON INSULIN.
+
+    * GERD.
+
+    * ETOH ABUSE.  QUIT 12-14 YEARS AGO.
+
+    * SMOKER:  1PPD.
+
+
+5'9''     180 LBS.
+
+NKDA
+
+MEDS AT HOME: 
+
+
+TO SICU [**7-30**] AT 8 AM.
+",,
+8612,21781,10722,0,2837-07-30 13:18:00 EST,2837-07-30 13:25:00 EST,3479,"N",53,"Nursing/Other","RSICU NURSING PROGRESS NOTE","
+RSICU NURSING PROGRESS NOTE
+
+REVIEW OF SYSTEMS:
+
+NEURO:  SEDATED ON MORPHINE DRIP AT 2MG/HR AND PROPOFOL DRIP
+        AROUSABLE AT TIMES... NOT FOLLOWING COMMANDS.
+
+CV:     HR 80 SR...INITIALLY WITH BIGEMINY/TRIGEMINY, BUT
+        RESOLVED AFTER MG 0.8 REPLETED.  
+        BP LOW DOWN TO 70/'S...RESPONDED TO FLUID BOLUS.
+        FREE CA REPLETED TO 1.11
+
+RESP:   VENTED.  223/31/7.41/20/-3     SCANT SECRETIONS.
+        LACTATE LEVEL 2.1
+
+RENAL:  NA 133 K 4.4 CL 105  CO2 19  BUN 10  CREAT 0.4
+        UO 30-40 CC/HR.       LFTS' WNL..... REPEATS PENDING.
+        AMYLASE 30   LIPASE 3.
+
+GI:     NPO.  IVF AT 125.  NGT WITH SCANT BILIOUS DRAINAGE.
+        ABD DRESSING INTACT... ABD DISTENDED.
+        IV ZANTAC.
+
+HEME:   HCT 32.9  PLT 214   COAGS: 19.8  42.8  2.6
+        REPEAT COAGS PENDING.    PNEUMOBOOTS ON.
+
+ENDO:   BS 188.  NO INSULIN PER SLIDING SCALE.
+
+ID:     TEMP 97..  WARMING BLANKETS ON.   WBC 7.3(8.3)
+        IV KEFZOL AND IV FLAGYL CONTINUE.
+
+CULTURES: [**7-30**] URINE: PENDING.
+          [**7-30**] BLOOD: PENDING.
+
+SKIN:   NO BREAKDOWN NOTED ON BACK/BUTTOCKS.
+
+SOCIAL: NO FAMILY CALLS.
+
+A: STABLE S/P OR.
+P: WEAN FROM VENT.  FOLLOW UO, BP, ABD.
+",,
+8612,21781,10722,0,2837-07-30 22:54:00 EST,2837-07-30 23:06:00 EST,3136,"N",53,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+S/O- NEURO- PT REMAINS ON PROPOFOL GTT DECREASED TO 25MCG/KG/MIN, WITH PT SEDATED BUT AROUSABLE AND ABLE TO FOLLOW WITH ALL 4 EXT. 
+CV- PT HAVING FREQUNT PVC'S , LYTES REPLETED PT IN NSR WITH ADEQUATE B/P, NEO REMAINS OFF. PT RECEIVED 4UFFP FOR INR OF 2.3 REPEAT IS NOW 1.5 HCT 32. 
+RESP- PT REMAINS VENTILATED IMV 800X10 WITH 5 PEEP ON 50% FIO2 WITH ADEQUATE ABG, SUCTIONED FOR MOD AMT OF WHITE THICK SPUTUM
+GI- ABD SOFT AND DISTENDED, DSG INTACT.NG TO SUCTION BILIOUS DRAINAGE
+GU- PT HAS HAD GOOD U/O 
+ENDO- PT BS 180'S,  NO TREATMENT.
+SKIN- PT SKIN INTACT  ON BACK AND BUTTUCKS, FEET ARE COOL 
+A/P - PT TO BE WEANED AND EXTUBATED IN AM, CONT TO SEDATE TO KKEP PT COMFORTABLE DURING THE NIGHT, FOLLOW INR AND HCT. REPLETE LYTES AS NEEDED.  
+
+
+",,
+8612,21781,10722,0,2837-07-31 02:39:00 EST,2837-07-31 02:41:00 EST,3568,"N",53,"Nursing/Other",,"
+
+Resp. Care Note
+Pt remains intubated with 7.5ETT secured at 23cm lip. Ventilation suppported on settings SIMV 800x 10x 50% peep 5 psv5. ABG 7.46/36/206/26/+2. Plan was to keep pt. vented overnight and wean to extubate in AM.
+",,
+8612,21781,10722,0,2837-07-31 04:24:00 EST,2837-07-31 04:36:00 EST,3325,"N",53,"Nursing/Other","TRAUMA/CTIC NURSING PROGRESS NOTE","
+TRAUMA/CTIC NURSING PROGRESS NOTE
+NEURO:  SEDATED ON PROPOFOL AND MS04 GTTS, OPENS EYES TO NAME, MAE'S AND F/C'S.  BOLUSED WITH MS04 PRIOR TO TURNS/SUCTIONING.  
+
+CV:  HR 90'S, SINUS TACH, RARE PVC.  HR UP TO 110-120'S WHEN AWAKE.  BP STABLE 110-120/50'S.  SKIN WARM, FEET SLIGHTLY COOL BUT PALP PULSES.  RIJ TLCL PATENT, 2 PIV'S ALSO PATENT.  
+
+RESP:  BREATH SOUNDS COARSE IN UPPER LOBES, SLIGHTLY DIMINISHED IN THE BASES, SUCTIONED FOR SMALL AMTS OF THICK WHITE SECRETIONS.  ON IMV OVERNOC, IMV RATE DOWN TO 8 THIS AM, PROPOFOL GTT DECREASED, PLAN TO WEAN AND EXTUBATE PT THIS AM.  SATS 100%.  
+
+RENAL:  URINE AMBER IN COLOR, CLEAR.  U/O 30-40CC/HR.  LYTES WNL
+
+GI:  ABD SOFTLY DISTENDED, APPEARS SLIGHTLY MORE DISTENDED AT 4A.  HYPOACTIVE BOWEL SOUNDS, BILIOUS DRAINAGE FROM NGT. 
+
+HEME:  HCT STABLE AT 29.  INR UP TO 1.9, SICU HO AWARE, WILL CONTINUE TO MONITOR AND TRANSFUSE IF >2.  
+
+ID:  T. MAX 99.4, CONTINUES ON TRIPLE ABX.  
+
+SKIN:  ABD INCIS COVERED WITH DSD, DRY AND INTACT.  SKIN OTHERWISE INTACT
+
+ENDO:  BLOOD SUGAR AT 2A 139
+
+SOCIAL:  NO CALLS OVERNOC FROM FAMILY
+
+A:  HEMODYNAMICALLY STABLE OVERNOC S/P EXP LAP
+
+P:  WEAN TO EXTUBATE, MONITOR HCT/COAGS, PAIN CONTROL
+",,
+8612,21781,10722,0,2837-07-31 17:20:00 EST,2837-07-31 17:22:00 EST,3844,"N",53,"Nursing/Other",,"
+
+     Patient extubated at 8:30am and placed on .50 open mask. No abgs at this time, 
+sao2 remain 96%
+",,
+8612,21781,10722,0,2837-07-31 19:59:00 EST,2837-07-31 20:14:00 EST,3274,"N",53,"Nursing/Other","CTIC/SICU NPN","
+CTIC/SICU NPN
+Neuro: Pt is awake and oriented to person, place and time.  Follows commands and MAES.
+
+Resp:  Extubated this morning.  Breathing is even and unlabored w/ rr=16 and SAo2=99%. Strong productive cough for thick white sputum.
+
+CV: Pt has had persistant sinus tachycardia w/ rate up to 130s w/ elevated BP. Rare PVCs also noted which resolved after electrolytes repleted. HR transiently decreased to 90s after lopressor administered.  HCT stable at 31.1 and Pt tachycardic even after pain medication. Started on esmolol which is being titrated to bring HR below <100 and SBP<160.  Please see flowsheet for further data and assessment.
+
+GI:  NGT to LCS draining bilious fluid.  Abdominal incision open and packed w/ NS dressing.  Tissue pink.  IVF at KVO.
+
+GU:  Foley to gravity.  Brisk UO. UO+2044cc 8am to 7pm.
+
+ID:  Temp=99.2.  Pt continues on antibiotics.
+
+Heme:  HCT as noted above.  Vitamin K administered as ordered.
+
+Skin:  Intact.  No pressure sores present.
+
+Comfort:  Morphine PCA started for abdominal discomfort which is worse w/ movement.  Abdomen is tender to touch.  Pt has used 5mg of morphine since it was started, but needs to be reminded to use it. 
+
+A: ? etiology of persistant tachycardia. Stable pulmonary status post extubation.
+
+P: Titrate esmolol infusion to maintain SBP<160 and HR <100.  Recheck electrolytes given Pt is autodiuresing. 
+",,
+8612,21781,10722,,2837-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-8-1**] 10:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9354**]
+     Reason: eval for infiltrate/pneumonia vs. atelectasis
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man s/p laparotomy due to perforation. Now poor inspiratory effort
+      due to pain and increased RR, sats 88% on 5L NC.
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate/pneumonia vs. atelectasis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  S/P laparotomy due to perforation now has low oxygen sats.
+     
+     CHEST AP UPRIGHT:
+     
+     The cardiac size is probably enlarged there is pulmonary plethora and probably
+     bilateral effusions consistent with some failure.  The retrocardiac area is
+     not seen and infiltrate in this area cannot be excluded.  The tip of the
+     nasogastric tube lies at the level of the diaphragm.
+     
+     IMPRESSION:  Evidence of failure.
+
+",,
+8612,21781,10722,0,2837-08-01 04:19:00 EST,2837-08-01 04:40:00 EST,3469,"N",53,"Nursing/Other",":CTIC/SICU NURSING CURRENT REVIEW OF SYSTESM 7P-7A:","
+:CTIC/SICU NURSING CURRENT REVIEW OF SYSTESM 7P-7A:
+
+
+N-> PT A/O X3. MAE WITH STRENGTH AND EQUALITY. PCA MORPHINE 1MG/Q6MIN/LO 10MGHR. USING 1-3XHR, NEEDS REMINDERS AND ENC TO USE. TURNING IN BED WITH ASSIST W/O DIFFICULTY.
+
+CV->GOAL HR<100 SBP <160. ESMOLOL GTT STARTED AFTER WT BASED BOLUS AND TITRATED TO GOAL. CURRENTLY GTT AT 150MCGS/KG/MIN. NO VEA. PALP PEDAL PULSES. CVP 4-6.
+
+RESP->WEANED FROM FM/FT TO NC 4L O2 WITH POX 98%. RR 20-24 LS CTA. STRONG PRODUCTIVE COUGH FOR WHITE/YELLOW THICK SECRETIONS. I/S WITH ENCOURAGEMENT. SPLINTING PILLOW USED.
+
+RENAL-> IVF KVO. LYTES AGGRESSIVELY REPLACED AS  NOTED IN LAB VIEW. U/O 50-70CCHR AUTODIURESING.
+
+GI->NGT TO LWST WITH BILIOUS RETURN. ABD SOFT, TENDER TO TOUCH. HYPOI BS, NO BM. ZANTAC ATC. ABC INCISION ON 4X4 W->D WITH DSD BID. GRANULATING TISSUES WITH SM AMOUNT OF NONODOROUS SEROUS DRAINAGE.
+
+HEME->HCT >27 INR<2.0. PNEUMO BOOTS. VIT K QD. NO ACTIVE S/S BLEEDING
+
+ENDO->FSBS 120-162, NO RISS NEEDED UNLESS FSBS>200. FOLLOW QID.
+
+ID->WBC 9. KEFZOL AND FLAGYL ATC. AFEBRILE, TMAX 99.3. NGTD ON CXS.
+
+SKIN->ABD DSD AS NOTED, BACK INTACT.
+
+LINES->LT PERIPH TL [**7-30**]
+       LT RAD ALINE [**7-30**]
+       FOLEY AND ONE PERIPH IV [**7-30**]
+
+SOC->SUPPORTIVE FAMILY NOTED, NO VISITORS OR CALLS OVERNIGHT.
+
+STATUS->FULL CODE.
+
+**********************************************************
+A:PT HEMODYN STABLE ON ESMOLOL GTT HD #3 CTIC/SICU DAY #2 S/P PERF VISCOUS S/P EXP LAP SB RESECTION.
+
+P:CONTINUE TO MONITOR AND SUPPORT PT AS NOTED. PAIN MGT WITH PCA.WEAN ESMOLOL GTT AS TOLERATED. CONTINUE TO FOLLOW LYTES CLOSELY AND PRN REPLACEMENT. ADDRESS NUTRITION THIS AM ON ROUNDS (TPN VRS TF). DSD BID. FOLLOW TOTAL VOLUME STATUS. F/U PENDING CXS, ANTIBX COURSE AS NOTED. FSBS QID. SUPPORT PT AND FAMILY AT THIS TIME.
+",,
+8612,21781,10722,0,2837-08-01 18:37:00 EST,2837-08-01 19:02:00 EST,-1,"N",53,"Nursing/Other",,"
+
+NPN (0700-1930):
+
+ROS: 
+
+Neuro: Pt AAOx3, PERRLA, +MAE, following commands purposefully.  Pt continues with IV MSO4 PCA, pt having mod amount of pain upon movement, touch, deep breathing and coughing but pt not using PCA. Frequent ecouragement and explanation of the use of PCA given.
+
+CV: Pt with NSR/ST with HR=90-100s with episodes of hr up to 120s. SBP=140-1602 with episodes of SBP=170s.  HTN and tachycardia noted with poor pain control and resp distress. Esmalol at 150mcg/kg.  Once pain management and resp issues resolved.  IV hydralizine and IV lopressor given and IV esmalol weaned to off. Esmalol turned off at 1930.  Pt received 1U PRBCs this am, pm HCT=33.
+
+Resp: LS course and dimished at bases. This am SaO2>95% on 4LNC. At 1000 hrs, SaO2 dropped to 80s. HO aware. O2 increased as needed. ABG showed PaO2=59. CXR obtained which showed incresed atlectasis. Aggressive pulmonary toileting done with frequent encouragement given to pt to cough, deep breath and bring up secretions.  O2 increased to NRB mask with SaO2=88-92%, SaO2 dropped to 80s with removal of mask.  Frequent oral suctioning with yankaur done for mod amount of thick white secretions. RT in for nasotracheal suctioning.  SaO2 increased to >95% with NRB and 5LO2 NC. Once resp distress resolved, O2 weaned to 5LO2 NC.  Continued to give pt much encouragement to cough, deep breath, bring up secretions and continue pain management.
+
+GI: Abd softly distented. +hypoactive BSx4. Pt continues NPO at present with NGT to LCWS draining bilious fluid. Pt reports pain to touch around incision. No BM.  IV Zantac prophylaxis
+
+GU: Indwelling foley inctact and draining clr yellow urine. 20mg lasix given with +diuresis noted. Lytes repleated as needed.
+
+Skin: Abd incision draining sm amount of serous drainige. W-D dsg changed.  Wound pink and granulated.  
+
+ID: Flagyl and kefzol IV continue.
+
+Endo: FBS wnl, no insulin required per SS.
+
+A: Poor pain management with PCA, pt needs frequent encouragement.
+   Acute Resp distress resolved after aggressive pulm toilet and pain     management.
+   Hypertension and tachycardia resolving, esmalol weaned to off.
+
+P:  Continue full support.  Follow VS with d/c of esmalol at 1930. Goal of SBp,160 and hr<100.  Follow HCT and lytes, replete as needed.  Continue pulmonary toilet and pain management. Continue encouragement for use of PCA and incentive spirometry. Increase activity as tolerated.  
+
+
+
+",,
+8612,21781,10722,0,2837-08-02 04:37:00 EST,2837-08-02 05:09:00 EST,3469,"N",53,"Nursing/Other","::CTIC/SICU NURSING REVIEW OF SYSTEMS 7P-7A::","
+::CTIC/SICU NURSING REVIEW OF SYSTEMS 7P-7A::
+ISSUES: PAIN MGT
+        PERSISTENT HTN
+        PERSISTENT TACHYCARDIA
+
+CURRENT REVIEW OF SYSTEMS:
+
+N->PT OX3, STATES HE IS HAVING PERSISTENT ABD PAIN AT REST AND WITH ACTIVITY.  BASAL RATE ADDED TO PCA : 2MG HR, 1MG Q 6 LOCKOUT 12MGHR. PRN MSO4 AS WELL WITH GOOD EFFECT. TOTAL MSO4 46MG IV (BASAL/PCA/PRN) 8P-5A. MOVING BETTER IN BED, AND STATES PAIN IS [**2845-12-9**] AT REST, [**3-17**] WITH ACTIVITY.
+
+CV->PT WEANED OFF ESMOLOL GTT SUCCESSFULLY AFTER ENALAPRIL ATC 1.25MG IV Q6HRS ADDED TO REGIME AND LOPRESSOR INCREASED TO 20MG Q4'IV. BP 120-150/60 HR 80-95 SR. CVP 1-4. 
+
+RESP->NC 4L O2, ENC Q1HR TO C/DB WITH EFFECT. I/S WITH ENC.  LS CTA, DIM BILAT BASE. STRONG COUGH WITH ENC. ABG IMPROVED AFTER CONTINUED PULM TOILET AS NOTED IN CAREVIEW.
+
+RENAL-> IVF KVO. LYTES AGGRESSIVELY REPLACED ALL NIGHT. KCL 2.7-> 4.4 AFTER 80MEQIV, MAG 4GMS TOTAL GIVEN WITH LEVEL TO BE RECHECKED THIS AM. AND ION CALCIUM 0.68->1.31 S/P 4AMPS IV CALCIUM GLUCONATE. U/O 50-90CCHR. PT REMAINS >1LNEGATIVE.
+
+GI->NGT TO LWST, COFFEE GROUND SEC NOTED. ZANTAC ATC. ABD SOFTLY DISTENDED, TENDER TO TOUCH. NO NAUSEA.
+
+HEME->HCT REMAINS >30. NEW CLOT SENT TO BLOOD BANK. INR<2.
+
+ENDO->FSBS 120-170
+
+ID->AFEBRILE, WBC 9. KEFZOL/FLAGYL ATC DAY 4.
+
+SKIN->DSD W->D BID DSG DONE AT 5AM. GRANULATING TISSUE, PINK, SM AMOUNT DRAINAGE NOTED. BACK INTACT.
+
+**************************************************
+A:PT HEMODYN STABLE HD 4 ICUD 4. PAIN MGT PER PT IMPROVED WITH ADDED BASAL AND PRN MSO4. HEMODYN STABLE ON VASOTEC 1.25MG QID IV/LOPRESSOR 20MG IV Q4HRS ATC, OFF ESMOLOL GTT. AFEBRILE. LYTES NORMAL. HCT STABLE
+
+P:PULM TOILET, AGGRESSIVE PAIN MGT, CONTINUE HEMODYN CONTROL WITH LOPRESSOR AND VASOTEC ATC, SUPPORT PT AND ENGAGE AS ABLE. FSBS QID, DSG BID CHANGES. INCREASE ACTIVITY AS TOLERATED. ADDRESS NUTRITION STATUS.
+",,
+8612,21781,10722,0,2837-08-03 14:04:00 EST,2837-08-03 14:44:00 EST,-1,"N",53,"Nursing/Other","TRANSFER NOTE:","
+TRANSFER NOTE:
+61 yo male admitted with c/o worsening RLQ pain x 3 weeks.  T max on arrival 104 HR 105 BP 152/80 Vomiting Guiac + stools gent/amp flagyl given BC x2 sent
+[**Last Name (un) 91**] CT Increased ascites diffuse wall thickening 5 cm dilatation- carcinomatosis
+exp lap small bowel resect closed loop obstruction of bypassed small bowel with perf in RUQ.  Intaop Pt hypotensive req 10L, 4 u prbc, and neo
+
+PMH/PSH: Adenocarcinoma of appendix  with extension into nearby structures and (+) nodes. Colon CA s/p chemo, s/p ileo to transverse coonic side to side [**Last Name (un) **], 6/2000.  numerous SBO, pancreatitis, s/p partial pancreatectomy 1993, DM 2 on insulin, Gerd, ETOH abuse quit 12 yrs ago, smoker 1 ppd
+
+ROS:
+
+Neuro: grossly intact pt is aaox3 MAE pupils are equal and reactive.
+
+CV:  PT remains hypertensive and tachycardic most of shift. Tx with Lopressor IV and Enalapril IV with transient improvement.  Pt switched to po cardiac meds prior to transfer.  Last BP 160/70 HR 90's rec'd po lopressor 75 and captopril 25 at 1500.
+
+Resp:  Pt LS are clear in upper And dim in bases Pt expectorating thick yellow sputum IS to 800 tol well. Enc to tcdb also oob to chair for quite a few hours.
+
+GI/GU:  Foley patent pt putting out large amounts of clear yellow urine. Approx 60-100cc/hr.  + BS noted pt states + flatus. Diet advanced to clear liquids pt tol po's.
+
+Skin: [**Last Name (un) 91**] wound is dry and intact OTA no drainage or OA 's noted.
+
+Endo:  Pt BS < 200 no insulin required.
+
+Social: Family in to visit/call.
+
+A/P Transfer to floor. Enc TCDB/IS BP/HR control maintained with po ace/beta blockers.  All elytes repleted on nights [**8-3**] 
+",,
+8612,21781,,,2837-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-8-6**] 4:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9355**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 64 y/o s/p small bowel resection now with wound drainage and
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with met appendiceal ca now pod 6 s/p small bowel resection
+     REASON FOR THIS EXAMINATION:
+      64 y/o s/p small bowel resection now with wound drainage and separation
+      evaluate for fluid collection or abscess
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post small bowel resection six days ago, with wound
+     drainage and suppuration, evaluate for fluid collection or abscess.
+     
+     COMPARISON:  CT abdomen, [**2837-7-29**].
+     
+     TECHNIQUE:  CT abdomen and pelvis with IV contrast.  Optiray was used for
+     general debilitation.
+     
+     CT ABDOMEN WITH IV CONTRAST:  The lung bases reveal small pleural effusions
+     and associated atelectasis.
+     
+     There is internal development of a wedge-shaped area of increased enhancement
+     in the right hepatic lobe, most likely representing perfusion abnormality. The
+     patient is status post cholecystectomy and splenectomy.  The adrenal glands
+     and kidneys appear unremarkable.  There is diffuse ascites tracking between
+     bowel loops and along the mesentery.  Multiple small pockets of air are noted
+     in the ascites, which could represent postoperative changes.  The ascites
+     demonstrates an enhancing rim, superimposed infection cannot be excluded.
+     There are segments of thickened bowel loops, especially in the right lower
+     quadrant, of no significant interval change since the prior study, and could
+     be caused by a low protein state.  There is also nodularity of the bowel
+     walls, consistent with peritoneal implants.  The anterior midline abdominal
+     wall wound is demonstrated.
+     
+     CT PELVIS WITH IV CONTRAST:  The urinary bladder appears unremarkable.  The
+     left ureter appears unremarkable.  The right ureter appears distended and
+     unopd with contrast, indicative of obstruction.  Again, pelvic nodularity is
+     present, indicative of peritoneal implants.
+     
+     Bone windows reveal no significant abnormality.
+     
+     3D reconstruction images are consistent with the above findings.
+     
+     IMPRESSION:
+     
+     1) Diffuse ascites with rim enhancement and small pockets of air, probably
+     representing postoperative changes.  Superimposed infection cannot be
+     excluded.
+     
+     2) Bowel wall nodularity and peritoneal nodularity, indicative of tumor
+                                                                 (Over)
+
+     DATE: [**2837-8-6**] 4:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9355**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 64 y/o s/p small bowel resection now with wound drainage and
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     implants.
+     
+     3) Bowel wall thickening of no significant interval change since the prior
+     study, which could represent a low protein state.
+     
+     4) Proportional dilatation of small bowel and colon, indicative of adynamic
+     ileus.
+
+",,
+8612,21781,,,2837-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-8-6**] 4:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9355**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 64 y/o s/p small bowel resection now with wound drainage and
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with met appendiceal ca now pod 6 s/p small bowel resection
+     REASON FOR THIS EXAMINATION:
+      64 y/o s/p small bowel resection now with wound drainage and separation
+      evaluate for fluid collection or abscess
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post small bowel resection six days ago, with wound
+     drainage and suppuration, evaluate for fluid collection or abscess.
+     
+     COMPARISON:  CT abdomen, [**2837-7-29**].
+     
+     TECHNIQUE:  CT abdomen and pelvis with IV contrast.  Optiray was used for
+     general debilitation.
+     
+     CT ABDOMEN WITH IV CONTRAST:  The lung bases reveal small pleural effusions
+     and associated atelectasis.
+     
+     There is internal development of a wedge-shaped area of increased enhancement
+     in the right hepatic lobe, most likely representing perfusion abnormality. The
+     patient is status post cholecystectomy and splenectomy.  The adrenal glands
+     and kidneys appear unremarkable.  There is diffuse ascites tracking between
+     bowel loops and along the mesentery.  Multiple small pockets of air are noted
+     in the ascites, which could represent postoperative changes.  The ascites
+     demonstrates an enhancing rim, superimposed infection cannot be excluded.
+     There are segments of thickened bowel loops, especially in the right lower
+     quadrant, of no significant interval change since the prior study, and could
+     be caused by a low protein state.  There is also nodularity of the bowel
+     walls, consistent with peritoneal implants.  The anterior midline abdominal
+     wall wound is demonstrated.
+     
+     CT PELVIS WITH IV CONTRAST:  The urinary bladder appears unremarkable.  The
+     left ureter appears unremarkable.  The right ureter appears distended and
+     unopd with contrast, indicative of obstruction.  Again, pelvic nodularity is
+     present, indicative of peritoneal implants.
+     
+     Bone windows reveal no significant abnormality.
+     
+     3D reconstruction images are consistent with the above findings.
+     
+     IMPRESSION:
+     
+     1) Diffuse ascites with rim enhancement and small pockets of air, probably
+     representing postoperative changes.  Superimposed infection cannot be
+     excluded.
+     
+     2) Bowel wall nodularity and peritoneal nodularity, indicative of tumor
+                                                                 (Over)
+
+     DATE: [**2837-8-6**] 4:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9355**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 64 y/o s/p small bowel resection now with wound drainage and
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     implants.
+     
+     3) Bowel wall thickening of no significant interval change since the prior
+     study, which could represent a low protein state.
+     
+     4) Proportional dilatation of small bowel and colon, indicative of adynamic
+     ileus.
+
+",,
+8612,21781,,,2837-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-8-6**] 4:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9355**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 64 y/o s/p small bowel resection now with wound drainage and
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with met appendiceal ca now pod 6 s/p small bowel resection
+     REASON FOR THIS EXAMINATION:
+      64 y/o s/p small bowel resection now with wound drainage and separation
+      evaluate for fluid collection or abscess
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post small bowel resection six days ago, with wound
+     drainage and suppuration, evaluate for fluid collection or abscess.
+     
+     COMPARISON:  CT abdomen, [**2837-7-29**].
+     
+     TECHNIQUE:  CT abdomen and pelvis with IV contrast.  Optiray was used for
+     general debilitation.
+     
+     CT ABDOMEN WITH IV CONTRAST:  The lung bases reveal small pleural effusions
+     and associated atelectasis.
+     
+     There is internal development of a wedge-shaped area of increased enhancement
+     in the right hepatic lobe, most likely representing perfusion abnormality. The
+     patient is status post cholecystectomy and splenectomy.  The adrenal glands
+     and kidneys appear unremarkable.  There is diffuse ascites tracking between
+     bowel loops and along the mesentery.  Multiple small pockets of air are noted
+     in the ascites, which could represent postoperative changes.  The ascites
+     demonstrates an enhancing rim, superimposed infection cannot be excluded.
+     There are segments of thickened bowel loops, especially in the right lower
+     quadrant, of no significant interval change since the prior study, and could
+     be caused by a low protein state.  There is also nodularity of the bowel
+     walls, consistent with peritoneal implants.  The anterior midline abdominal
+     wall wound is demonstrated.
+     
+     CT PELVIS WITH IV CONTRAST:  The urinary bladder appears unremarkable.  The
+     left ureter appears unremarkable.  The right ureter appears distended and
+     unopd with contrast, indicative of obstruction.  Again, pelvic nodularity is
+     present, indicative of peritoneal implants.
+     
+     Bone windows reveal no significant abnormality.
+     
+     3D reconstruction images are consistent with the above findings.
+     
+     IMPRESSION:
+     
+     1) Diffuse ascites with rim enhancement and small pockets of air, probably
+     representing postoperative changes.  Superimposed infection cannot be
+     excluded.
+     
+     2) Bowel wall nodularity and peritoneal nodularity, indicative of tumor
+                                                                 (Over)
+
+     DATE: [**2837-8-6**] 4:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9355**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 64 y/o s/p small bowel resection now with wound drainage and
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     implants.
+     
+     3) Bowel wall thickening of no significant interval change since the prior
+     study, which could represent a low protein state.
+     
+     4) Proportional dilatation of small bowel and colon, indicative of adynamic
+     ileus.
+
+",,
+8612,21781,,,2837-08-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-8-6**] 4:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9355**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 64 y/o s/p small bowel resection now with wound drainage and
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with met appendiceal ca now pod 6 s/p small bowel resection
+     REASON FOR THIS EXAMINATION:
+      64 y/o s/p small bowel resection now with wound drainage and separation
+      evaluate for fluid collection or abscess
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post small bowel resection six days ago, with wound
+     drainage and suppuration, evaluate for fluid collection or abscess.
+     
+     COMPARISON:  CT abdomen, [**2837-7-29**].
+     
+     TECHNIQUE:  CT abdomen and pelvis with IV contrast.  Optiray was used for
+     general debilitation.
+     
+     CT ABDOMEN WITH IV CONTRAST:  The lung bases reveal small pleural effusions
+     and associated atelectasis.
+     
+     There is internal development of a wedge-shaped area of increased enhancement
+     in the right hepatic lobe, most likely representing perfusion abnormality. The
+     patient is status post cholecystectomy and splenectomy.  The adrenal glands
+     and kidneys appear unremarkable.  There is diffuse ascites tracking between
+     bowel loops and along the mesentery.  Multiple small pockets of air are noted
+     in the ascites, which could represent postoperative changes.  The ascites
+     demonstrates an enhancing rim, superimposed infection cannot be excluded.
+     There are segments of thickened bowel loops, especially in the right lower
+     quadrant, of no significant interval change since the prior study, and could
+     be caused by a low protein state.  There is also nodularity of the bowel
+     walls, consistent with peritoneal implants.  The anterior midline abdominal
+     wall wound is demonstrated.
+     
+     CT PELVIS WITH IV CONTRAST:  The urinary bladder appears unremarkable.  The
+     left ureter appears unremarkable.  The right ureter appears distended and
+     unopd with contrast, indicative of obstruction.  Again, pelvic nodularity is
+     present, indicative of peritoneal implants.
+     
+     Bone windows reveal no significant abnormality.
+     
+     3D reconstruction images are consistent with the above findings.
+     
+     IMPRESSION:
+     
+     1) Diffuse ascites with rim enhancement and small pockets of air, probably
+     representing postoperative changes.  Superimposed infection cannot be
+     excluded.
+     
+     2) Bowel wall nodularity and peritoneal nodularity, indicative of tumor
+                                                                 (Over)
+
+     DATE: [**2837-8-6**] 4:16 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 9355**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 64 y/o s/p small bowel resection now with wound drainage and
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     implants.
+     
+     3) Bowel wall thickening of no significant interval change since the prior
+     study, which could represent a low protein state.
+     
+     4) Proportional dilatation of small bowel and colon, indicative of adynamic
+     ileus.
+
+",,
+8612,21781,,,2837-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-8-7**] 11:13 AM
+     CT PERITONEAL DRAINAGE; CT LOC BX                               Clip # [**Clip Number (Radiology) 9356**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     Reason: 61 male w/ carcinomatosis/mucinous CA of bowel pod 8 s/p sma
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with met appendiceal ca now pod 6 s/p small bowel resection
+     REASON FOR THIS EXAMINATION:
+      61 male w/ carcinomatosis/mucinous CA of bowel pod 8 s/p small bowel resection
+      now with wound drainage and fluid collection in abdomen
+       
+      Please identify and drain fluid collect with pigtail drain left in place and
+      send fluid for culture. please page [**First Name8 (NamePattern2) 9357**] [**Last Name (NamePattern1) 2525**] at [**Pager number 9358**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post small bowel resection, with wound drainage and
+     intraabdominal fluid, please place drainage catheter.
+     
+     Preliminary CT of the abdomen and pelvis with no IV contrast again
+     demonstrates a small fluid collection in the right lower quadrant with
+     thickened patterning and small pockets of air.  The skin was marked under CT-
+     guided localization.  Benefits and risks of the procedure were discussed with
+     the patient in detail and written informed consent was obtained.  The patient
+     was prepped and draped in the usual sterile fashion and local anesthesia was
+     performed with 1% lidocaine.  Under CT-guided localization and CT fluoro
+     guidance, a 12-French pigtail catheter was placed in the right lower quadrant
+     fluid collection.  Approximately 30 cc of purulent thick fluid was aspirated
+     and sterile saline was used to flush the catheter multiple times. The catheter
+     was connected to a drainage bag and secured to the patient's skin.
+     
+     The patient tolerated the procedure with minimal discomfort.  There is no
+     evidence of immediate complication.  The aspirated sample was sent to
+     Microbiology.
+     
+     The Staff Radiologist, Dr. [**Last Name (STitle) 4339**] [**Name (STitle) 4333**], was present and supervised the
+     entire procedure.
+     
+     IMPRESSION:  Successful placement of a pigtail catheter in the peritoneal
+     fluid.
+     
+
+",,
+8612,21781,,,2837-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-8-7**] 11:13 AM
+     CT PERITONEAL DRAINAGE; CT LOC BX                               Clip # [**Clip Number (Radiology) 9356**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     Reason: 61 male w/ carcinomatosis/mucinous CA of bowel pod 8 s/p sma
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with met appendiceal ca now pod 6 s/p small bowel resection
+     REASON FOR THIS EXAMINATION:
+      61 male w/ carcinomatosis/mucinous CA of bowel pod 8 s/p small bowel resection
+      now with wound drainage and fluid collection in abdomen
+       
+      Please identify and drain fluid collect with pigtail drain left in place and
+      send fluid for culture. please page [**First Name8 (NamePattern2) 9357**] [**Last Name (NamePattern1) 2525**] at [**Pager number 9358**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post small bowel resection, with wound drainage and
+     intraabdominal fluid, please place drainage catheter.
+     
+     Preliminary CT of the abdomen and pelvis with no IV contrast again
+     demonstrates a small fluid collection in the right lower quadrant with
+     thickened patterning and small pockets of air.  The skin was marked under CT-
+     guided localization.  Benefits and risks of the procedure were discussed with
+     the patient in detail and written informed consent was obtained.  The patient
+     was prepped and draped in the usual sterile fashion and local anesthesia was
+     performed with 1% lidocaine.  Under CT-guided localization and CT fluoro
+     guidance, a 12-French pigtail catheter was placed in the right lower quadrant
+     fluid collection.  Approximately 30 cc of purulent thick fluid was aspirated
+     and sterile saline was used to flush the catheter multiple times. The catheter
+     was connected to a drainage bag and secured to the patient's skin.
+     
+     The patient tolerated the procedure with minimal discomfort.  There is no
+     evidence of immediate complication.  The aspirated sample was sent to
+     Microbiology.
+     
+     The Staff Radiologist, Dr. [**Last Name (STitle) 4339**] [**Name (STitle) 4333**], was present and supervised the
+     entire procedure.
+     
+     IMPRESSION:  Successful placement of a pigtail catheter in the peritoneal
+     fluid.
+     
+
+",,
+8612,21781,,,2837-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-8-7**] 11:13 AM
+     CT PERITONEAL DRAINAGE; CT LOC BX                               Clip # [**Clip Number (Radiology) 9356**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     Reason: 61 male w/ carcinomatosis/mucinous CA of bowel pod 8 s/p sma
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with met appendiceal ca now pod 6 s/p small bowel resection
+     REASON FOR THIS EXAMINATION:
+      61 male w/ carcinomatosis/mucinous CA of bowel pod 8 s/p small bowel resection
+      now with wound drainage and fluid collection in abdomen
+       
+      Please identify and drain fluid collect with pigtail drain left in place and
+      send fluid for culture. please page [**First Name8 (NamePattern2) 9357**] [**Last Name (NamePattern1) 2525**] at [**Pager number 9358**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post small bowel resection, with wound drainage and
+     intraabdominal fluid, please place drainage catheter.
+     
+     Preliminary CT of the abdomen and pelvis with no IV contrast again
+     demonstrates a small fluid collection in the right lower quadrant with
+     thickened patterning and small pockets of air.  The skin was marked under CT-
+     guided localization.  Benefits and risks of the procedure were discussed with
+     the patient in detail and written informed consent was obtained.  The patient
+     was prepped and draped in the usual sterile fashion and local anesthesia was
+     performed with 1% lidocaine.  Under CT-guided localization and CT fluoro
+     guidance, a 12-French pigtail catheter was placed in the right lower quadrant
+     fluid collection.  Approximately 30 cc of purulent thick fluid was aspirated
+     and sterile saline was used to flush the catheter multiple times. The catheter
+     was connected to a drainage bag and secured to the patient's skin.
+     
+     The patient tolerated the procedure with minimal discomfort.  There is no
+     evidence of immediate complication.  The aspirated sample was sent to
+     Microbiology.
+     
+     The Staff Radiologist, Dr. [**Last Name (STitle) 4339**] [**Name (STitle) 4333**], was present and supervised the
+     entire procedure.
+     
+     IMPRESSION:  Successful placement of a pigtail catheter in the peritoneal
+     fluid.
+     
+
+",,
+8612,21781,,,2837-08-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2837-8-7**] 11:13 AM
+     CT PERITONEAL DRAINAGE; CT LOC BX                               Clip # [**Clip Number (Radiology) 9356**]
+     CT FINE NEEDLE ASP; CT GUIDANCE FOR BX
+     Reason: 61 male w/ carcinomatosis/mucinous CA of bowel pod 8 s/p sma
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with met appendiceal ca now pod 6 s/p small bowel resection
+     REASON FOR THIS EXAMINATION:
+      61 male w/ carcinomatosis/mucinous CA of bowel pod 8 s/p small bowel resection
+      now with wound drainage and fluid collection in abdomen
+       
+      Please identify and drain fluid collect with pigtail drain left in place and
+      send fluid for culture. please page [**First Name8 (NamePattern2) 9357**] [**Last Name (NamePattern1) 2525**] at [**Pager number 9358**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post small bowel resection, with wound drainage and
+     intraabdominal fluid, please place drainage catheter.
+     
+     Preliminary CT of the abdomen and pelvis with no IV contrast again
+     demonstrates a small fluid collection in the right lower quadrant with
+     thickened patterning and small pockets of air.  The skin was marked under CT-
+     guided localization.  Benefits and risks of the procedure were discussed with
+     the patient in detail and written informed consent was obtained.  The patient
+     was prepped and draped in the usual sterile fashion and local anesthesia was
+     performed with 1% lidocaine.  Under CT-guided localization and CT fluoro
+     guidance, a 12-French pigtail catheter was placed in the right lower quadrant
+     fluid collection.  Approximately 30 cc of purulent thick fluid was aspirated
+     and sterile saline was used to flush the catheter multiple times. The catheter
+     was connected to a drainage bag and secured to the patient's skin.
+     
+     The patient tolerated the procedure with minimal discomfort.  There is no
+     evidence of immediate complication.  The aspirated sample was sent to
+     Microbiology.
+     
+     The Staff Radiologist, Dr. [**Last Name (STitle) 4339**] [**Name (STitle) 4333**], was present and supervised the
+     entire procedure.
+     
+     IMPRESSION:  Successful placement of a pigtail catheter in the peritoneal
+     fluid.
+     
+
+",,
+8612,,,,2838-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2838-1-7**] 11:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9359**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? extent of metastases
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with metastatic appendiceal ca
+     REASON FOR THIS EXAMINATION:
+      ? extent of metastases
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Colon and appendix cancer.
+     
+     TECHNIQUE:  Contiguous helical images were obtained from the thoracic inlet to
+     the pubic symphysis after the administration of 150 cc of IV Optiray.  Optiray
+     was used per the patient's history of allergies.  Additionally, images through
+     the liver were obtained prior to administration of IV contrast.
+     
+     COMPARISON:  CT abdomen dated [**2837-8-6**].
+     
+     CT THORAX WITH IV CONTRAST:  There is no significant axillary, hilar, or
+     mediastinal lymphadenopathy.  The heart, pericardium, and great vessels are
+     unremarkable.  There are no pleural effusions.
+     
+     Evaluation of the lungs reveals diffuse centrilobular emphysema.  There are no
+     parenchymal nodules or areas of consolidation.
+     
+     CT ABDOMEN WITH AND WITHOUT IV CONTRAST:  The wedge shaped heterogeneous area
+     of protusion abnormality in the right hepatic lobe is not significantly
+     changed.  The patient is S/P cholecystectomy and splenectomy.  There has been
+     distal pancreatectomy as well.  The head of the pancreas is unremarkable.  The
+     adrenal glands are normal.  The kidneys enhance symmetrically and are without
+     hydronephrosis or stones.  There is bowel wall edema involving much of the
+     small bowel as well as minimal dilatation of a few of the small bowel loops.
+     There is a moderate amount of ascites.  There has been resolution of air that
+     had previously been seen within the ascites.  The degree of bowel thickening
+     and dilatation as well as ascites is not significantly changed in the
+     interval.
+     
+     CT PELVIS WITH IV CONTRAST:  The prostate is enlarged and heterogeneous but
+     not significantly changed.  It indents upon the undersurface of the otherwise
+     normal bladder.  The left ureter is normal.  The right ureter is not
+     visualized but approximately the right ureter is within normal limits.  Again,
+     there is diffuse bowel thickening and ascites.  There is the suggestion of
+     peritoneal nodularity.
+     
+     Bone windows demonstrate no significant abnormality.
+     
+     IMPRESSION:  1)  Diffuse bowel wall thickening and ascites, not significantly
+     changed.  This could be secondary to low albumin state.
+     
+     2)  Several dilated loops of small bowel this appears to be a chronic process
+                                                                 (Over)
+
+     DATE: [**2838-1-7**] 11:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9359**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? extent of metastases
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     and is slightly improved in the interval.
+     
+     3)  Probable peritoneal nodularity secondary to tumor implants, not
+     significantly changed.
+     
+     4)  No evidence of metastatic disease to the chest.
+     
+     
+     
+     
+
+",,
+8612,,,,2838-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2838-1-7**] 11:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9359**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? extent of metastases
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with metastatic appendiceal ca
+     REASON FOR THIS EXAMINATION:
+      ? extent of metastases
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Colon and appendix cancer.
+     
+     TECHNIQUE:  Contiguous helical images were obtained from the thoracic inlet to
+     the pubic symphysis after the administration of 150 cc of IV Optiray.  Optiray
+     was used per the patient's history of allergies.  Additionally, images through
+     the liver were obtained prior to administration of IV contrast.
+     
+     COMPARISON:  CT abdomen dated [**2837-8-6**].
+     
+     CT THORAX WITH IV CONTRAST:  There is no significant axillary, hilar, or
+     mediastinal lymphadenopathy.  The heart, pericardium, and great vessels are
+     unremarkable.  There are no pleural effusions.
+     
+     Evaluation of the lungs reveals diffuse centrilobular emphysema.  There are no
+     parenchymal nodules or areas of consolidation.
+     
+     CT ABDOMEN WITH AND WITHOUT IV CONTRAST:  The wedge shaped heterogeneous area
+     of protusion abnormality in the right hepatic lobe is not significantly
+     changed.  The patient is S/P cholecystectomy and splenectomy.  There has been
+     distal pancreatectomy as well.  The head of the pancreas is unremarkable.  The
+     adrenal glands are normal.  The kidneys enhance symmetrically and are without
+     hydronephrosis or stones.  There is bowel wall edema involving much of the
+     small bowel as well as minimal dilatation of a few of the small bowel loops.
+     There is a moderate amount of ascites.  There has been resolution of air that
+     had previously been seen within the ascites.  The degree of bowel thickening
+     and dilatation as well as ascites is not significantly changed in the
+     interval.
+     
+     CT PELVIS WITH IV CONTRAST:  The prostate is enlarged and heterogeneous but
+     not significantly changed.  It indents upon the undersurface of the otherwise
+     normal bladder.  The left ureter is normal.  The right ureter is not
+     visualized but approximately the right ureter is within normal limits.  Again,
+     there is diffuse bowel thickening and ascites.  There is the suggestion of
+     peritoneal nodularity.
+     
+     Bone windows demonstrate no significant abnormality.
+     
+     IMPRESSION:  1)  Diffuse bowel wall thickening and ascites, not significantly
+     changed.  This could be secondary to low albumin state.
+     
+     2)  Several dilated loops of small bowel this appears to be a chronic process
+                                                                 (Over)
+
+     DATE: [**2838-1-7**] 11:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9359**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? extent of metastases
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     and is slightly improved in the interval.
+     
+     3)  Probable peritoneal nodularity secondary to tumor implants, not
+     significantly changed.
+     
+     4)  No evidence of metastatic disease to the chest.
+     
+     
+     
+     
+
+",,
+8612,,,,2838-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2838-1-7**] 11:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9359**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? extent of metastases
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with metastatic appendiceal ca
+     REASON FOR THIS EXAMINATION:
+      ? extent of metastases
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Colon and appendix cancer.
+     
+     TECHNIQUE:  Contiguous helical images were obtained from the thoracic inlet to
+     the pubic symphysis after the administration of 150 cc of IV Optiray.  Optiray
+     was used per the patient's history of allergies.  Additionally, images through
+     the liver were obtained prior to administration of IV contrast.
+     
+     COMPARISON:  CT abdomen dated [**2837-8-6**].
+     
+     CT THORAX WITH IV CONTRAST:  There is no significant axillary, hilar, or
+     mediastinal lymphadenopathy.  The heart, pericardium, and great vessels are
+     unremarkable.  There are no pleural effusions.
+     
+     Evaluation of the lungs reveals diffuse centrilobular emphysema.  There are no
+     parenchymal nodules or areas of consolidation.
+     
+     CT ABDOMEN WITH AND WITHOUT IV CONTRAST:  The wedge shaped heterogeneous area
+     of protusion abnormality in the right hepatic lobe is not significantly
+     changed.  The patient is S/P cholecystectomy and splenectomy.  There has been
+     distal pancreatectomy as well.  The head of the pancreas is unremarkable.  The
+     adrenal glands are normal.  The kidneys enhance symmetrically and are without
+     hydronephrosis or stones.  There is bowel wall edema involving much of the
+     small bowel as well as minimal dilatation of a few of the small bowel loops.
+     There is a moderate amount of ascites.  There has been resolution of air that
+     had previously been seen within the ascites.  The degree of bowel thickening
+     and dilatation as well as ascites is not significantly changed in the
+     interval.
+     
+     CT PELVIS WITH IV CONTRAST:  The prostate is enlarged and heterogeneous but
+     not significantly changed.  It indents upon the undersurface of the otherwise
+     normal bladder.  The left ureter is normal.  The right ureter is not
+     visualized but approximately the right ureter is within normal limits.  Again,
+     there is diffuse bowel thickening and ascites.  There is the suggestion of
+     peritoneal nodularity.
+     
+     Bone windows demonstrate no significant abnormality.
+     
+     IMPRESSION:  1)  Diffuse bowel wall thickening and ascites, not significantly
+     changed.  This could be secondary to low albumin state.
+     
+     2)  Several dilated loops of small bowel this appears to be a chronic process
+                                                                 (Over)
+
+     DATE: [**2838-1-7**] 11:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9359**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? extent of metastases
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     and is slightly improved in the interval.
+     
+     3)  Probable peritoneal nodularity secondary to tumor implants, not
+     significantly changed.
+     
+     4)  No evidence of metastatic disease to the chest.
+     
+     
+     
+     
+
+",,
+8612,,,,2838-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2838-1-7**] 11:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9359**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? extent of metastases
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with metastatic appendiceal ca
+     REASON FOR THIS EXAMINATION:
+      ? extent of metastases
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Colon and appendix cancer.
+     
+     TECHNIQUE:  Contiguous helical images were obtained from the thoracic inlet to
+     the pubic symphysis after the administration of 150 cc of IV Optiray.  Optiray
+     was used per the patient's history of allergies.  Additionally, images through
+     the liver were obtained prior to administration of IV contrast.
+     
+     COMPARISON:  CT abdomen dated [**2837-8-6**].
+     
+     CT THORAX WITH IV CONTRAST:  There is no significant axillary, hilar, or
+     mediastinal lymphadenopathy.  The heart, pericardium, and great vessels are
+     unremarkable.  There are no pleural effusions.
+     
+     Evaluation of the lungs reveals diffuse centrilobular emphysema.  There are no
+     parenchymal nodules or areas of consolidation.
+     
+     CT ABDOMEN WITH AND WITHOUT IV CONTRAST:  The wedge shaped heterogeneous area
+     of protusion abnormality in the right hepatic lobe is not significantly
+     changed.  The patient is S/P cholecystectomy and splenectomy.  There has been
+     distal pancreatectomy as well.  The head of the pancreas is unremarkable.  The
+     adrenal glands are normal.  The kidneys enhance symmetrically and are without
+     hydronephrosis or stones.  There is bowel wall edema involving much of the
+     small bowel as well as minimal dilatation of a few of the small bowel loops.
+     There is a moderate amount of ascites.  There has been resolution of air that
+     had previously been seen within the ascites.  The degree of bowel thickening
+     and dilatation as well as ascites is not significantly changed in the
+     interval.
+     
+     CT PELVIS WITH IV CONTRAST:  The prostate is enlarged and heterogeneous but
+     not significantly changed.  It indents upon the undersurface of the otherwise
+     normal bladder.  The left ureter is normal.  The right ureter is not
+     visualized but approximately the right ureter is within normal limits.  Again,
+     there is diffuse bowel thickening and ascites.  There is the suggestion of
+     peritoneal nodularity.
+     
+     Bone windows demonstrate no significant abnormality.
+     
+     IMPRESSION:  1)  Diffuse bowel wall thickening and ascites, not significantly
+     changed.  This could be secondary to low albumin state.
+     
+     2)  Several dilated loops of small bowel this appears to be a chronic process
+                                                                 (Over)
+
+     DATE: [**2838-1-7**] 11:47 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9359**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ? extent of metastases
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     and is slightly improved in the interval.
+     
+     3)  Probable peritoneal nodularity secondary to tumor implants, not
+     significantly changed.
+     
+     4)  No evidence of metastatic disease to the chest.
+     
+     
+     
+     
+
+",,
+8612,,,,2838-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2838-2-28**] 2:06 AM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 9360**]
+     Reason: evaluate for sbo
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with met appendiceal carcinoma
+     REASON FOR THIS EXAMINATION:
+      evaluate for sbo
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 62yr old male with metastatic appendiceal cancer, nausea and
+     abdominal pain.
+     
+     COMPARISON: Multiple previous studies including [**2837-7-29**] and [**2836-4-24**] as well as
+     CT scans of [**2838-1-7**] and [**2837-7-29**].
+     
+     ABDOMEN: Supine and upright views of the abdomen demonstrate multiple mildly
+     dilated, gas filled loops of small bowel with air fluid levels.  Gas and stool
+     are seen throughout the large bowel into the rectum.  The stomach is distended
+     with gas.  Surgical clips are seen overlying the L1-2 interspace.  There is no
+     free air beneath the diaphragm.  The lung bases are clear.
+     
+     IMPRESSION: Multiple mildly dilated small bowel loops with air fluid levels
+     could indicate early/partial small bowel obstruction.  This appearance is
+     similar to multiple previous examinations dating back to [**2836-4-7**].
+     
+
+",,
+8612,,,,2838-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2838-3-1**] 5:28 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 9361**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 62 yo M w/ appendiceal CA, known peritoneal carcinomatosis a
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with metastatic appendiceal cancer
+     REASON FOR THIS EXAMINATION:
+      62 yo M w/ appendiceal CA, known peritoneal carcinomatosis and recurrent sbo.
+      pt is s/p multiple abd surgeries; surgeon would like abd ct w/ po contrast to
+      eval for possible inetrvention
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Metastatic appendiceal cancer, peritoneal carcinomatosis and
+     recurrent SBO.
+     
+     TECHNIQUE:  Axial images of the abdomen were obtained after the administration
+     of 150 cc of Optiray per history of allergies.
+     
+     Multiplanar reconstructions were performed.
+     
+     Comparison with prior CT from [**2838-1-7**].
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is an NG tube with the tip in the
+     stomach.  The lung bases are clear.  There is no pericardial or pleural fluid.
+     There is heterogeneous enhancement of the liver consistent with a perfusion
+     abnormality.  This is probably related to fatty liver infiltration or edema.
+     No definite masses are identified. The patient is status post cholecystectomy,
+     cholecystectomy and distal pancreatectomy.  The kidneys are normal without
+     evidence of focal lesions, there is no hydronephrosis.  The adrenal glands are
+     unremarkable.  Again seen is a moderate amount of ascites, not significantly
+     changed compared to prior exam.
+     
+     The stomach is distended, a small amount of contrast is seen in the small
+     bowel.  Loops of small bowel are massively distended, the largest ones measure
+     up to 6.9 cm, previously the largest loops of small bowel measured 5.4 cm.
+     There is fecalization of material in the small bowel.  There is a large amount
+     of stool within the sigmoid and rectum, the transverse and right colon appear
+     non- dilated and contain a small amount of stool. There is an enhancing
+     heterogeneous mass in the right lower quadrant.  Also noted are enhancing
+     peritoneal masses consistent with known carcinomatosis. No free air is
+     identified.  The major aortic branches are patent.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The prostate is enlarged, there is a Foley
+     catheter within the bladder.  There are extensive degenerative changes
+     throughout the spine.
+     
+     IMPRESSION:
+     
+     1) Interval worsening of chronic partial small bowel obstruction.  
+     2) Stable peritoneal carcinomatosis and ascites.
+     3) Perfusion abnormality in the liver probably related to fatty liver
+                                                                 (Over)
+
+     DATE: [**2838-3-1**] 5:28 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 9361**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 62 yo M w/ appendiceal CA, known peritoneal carcinomatosis a
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     infiltration versus edema, no focal masses are identified. Findings were
+     discussed with Dr. [**First Name (STitle) 9362**] at the time of the exam.
+
+",,
+8612,,,,2838-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2838-3-1**] 5:28 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 9361**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 62 yo M w/ appendiceal CA, known peritoneal carcinomatosis a
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with metastatic appendiceal cancer
+     REASON FOR THIS EXAMINATION:
+      62 yo M w/ appendiceal CA, known peritoneal carcinomatosis and recurrent sbo.
+      pt is s/p multiple abd surgeries; surgeon would like abd ct w/ po contrast to
+      eval for possible inetrvention
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Metastatic appendiceal cancer, peritoneal carcinomatosis and
+     recurrent SBO.
+     
+     TECHNIQUE:  Axial images of the abdomen were obtained after the administration
+     of 150 cc of Optiray per history of allergies.
+     
+     Multiplanar reconstructions were performed.
+     
+     Comparison with prior CT from [**2838-1-7**].
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is an NG tube with the tip in the
+     stomach.  The lung bases are clear.  There is no pericardial or pleural fluid.
+     There is heterogeneous enhancement of the liver consistent with a perfusion
+     abnormality.  This is probably related to fatty liver infiltration or edema.
+     No definite masses are identified. The patient is status post cholecystectomy,
+     cholecystectomy and distal pancreatectomy.  The kidneys are normal without
+     evidence of focal lesions, there is no hydronephrosis.  The adrenal glands are
+     unremarkable.  Again seen is a moderate amount of ascites, not significantly
+     changed compared to prior exam.
+     
+     The stomach is distended, a small amount of contrast is seen in the small
+     bowel.  Loops of small bowel are massively distended, the largest ones measure
+     up to 6.9 cm, previously the largest loops of small bowel measured 5.4 cm.
+     There is fecalization of material in the small bowel.  There is a large amount
+     of stool within the sigmoid and rectum, the transverse and right colon appear
+     non- dilated and contain a small amount of stool. There is an enhancing
+     heterogeneous mass in the right lower quadrant.  Also noted are enhancing
+     peritoneal masses consistent with known carcinomatosis. No free air is
+     identified.  The major aortic branches are patent.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The prostate is enlarged, there is a Foley
+     catheter within the bladder.  There are extensive degenerative changes
+     throughout the spine.
+     
+     IMPRESSION:
+     
+     1) Interval worsening of chronic partial small bowel obstruction.  
+     2) Stable peritoneal carcinomatosis and ascites.
+     3) Perfusion abnormality in the liver probably related to fatty liver
+                                                                 (Over)
+
+     DATE: [**2838-3-1**] 5:28 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 9361**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 62 yo M w/ appendiceal CA, known peritoneal carcinomatosis a
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     infiltration versus edema, no focal masses are identified. Findings were
+     discussed with Dr. [**First Name (STitle) 9362**] at the time of the exam.
+
+",,
+8612,,,,2838-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2838-3-1**] 5:28 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 9361**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 62 yo M w/ appendiceal CA, known peritoneal carcinomatosis a
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with metastatic appendiceal cancer
+     REASON FOR THIS EXAMINATION:
+      62 yo M w/ appendiceal CA, known peritoneal carcinomatosis and recurrent sbo.
+      pt is s/p multiple abd surgeries; surgeon would like abd ct w/ po contrast to
+      eval for possible inetrvention
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Metastatic appendiceal cancer, peritoneal carcinomatosis and
+     recurrent SBO.
+     
+     TECHNIQUE:  Axial images of the abdomen were obtained after the administration
+     of 150 cc of Optiray per history of allergies.
+     
+     Multiplanar reconstructions were performed.
+     
+     Comparison with prior CT from [**2838-1-7**].
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is an NG tube with the tip in the
+     stomach.  The lung bases are clear.  There is no pericardial or pleural fluid.
+     There is heterogeneous enhancement of the liver consistent with a perfusion
+     abnormality.  This is probably related to fatty liver infiltration or edema.
+     No definite masses are identified. The patient is status post cholecystectomy,
+     cholecystectomy and distal pancreatectomy.  The kidneys are normal without
+     evidence of focal lesions, there is no hydronephrosis.  The adrenal glands are
+     unremarkable.  Again seen is a moderate amount of ascites, not significantly
+     changed compared to prior exam.
+     
+     The stomach is distended, a small amount of contrast is seen in the small
+     bowel.  Loops of small bowel are massively distended, the largest ones measure
+     up to 6.9 cm, previously the largest loops of small bowel measured 5.4 cm.
+     There is fecalization of material in the small bowel.  There is a large amount
+     of stool within the sigmoid and rectum, the transverse and right colon appear
+     non- dilated and contain a small amount of stool. There is an enhancing
+     heterogeneous mass in the right lower quadrant.  Also noted are enhancing
+     peritoneal masses consistent with known carcinomatosis. No free air is
+     identified.  The major aortic branches are patent.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The prostate is enlarged, there is a Foley
+     catheter within the bladder.  There are extensive degenerative changes
+     throughout the spine.
+     
+     IMPRESSION:
+     
+     1) Interval worsening of chronic partial small bowel obstruction.  
+     2) Stable peritoneal carcinomatosis and ascites.
+     3) Perfusion abnormality in the liver probably related to fatty liver
+                                                                 (Over)
+
+     DATE: [**2838-3-1**] 5:28 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 9361**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 62 yo M w/ appendiceal CA, known peritoneal carcinomatosis a
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     infiltration versus edema, no focal masses are identified. Findings were
+     discussed with Dr. [**First Name (STitle) 9362**] at the time of the exam.
+
+",,
+8612,,,,2838-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2838-3-1**] 5:28 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 9361**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 62 yo M w/ appendiceal CA, known peritoneal carcinomatosis a
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with metastatic appendiceal cancer
+     REASON FOR THIS EXAMINATION:
+      62 yo M w/ appendiceal CA, known peritoneal carcinomatosis and recurrent sbo.
+      pt is s/p multiple abd surgeries; surgeon would like abd ct w/ po contrast to
+      eval for possible inetrvention
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Metastatic appendiceal cancer, peritoneal carcinomatosis and
+     recurrent SBO.
+     
+     TECHNIQUE:  Axial images of the abdomen were obtained after the administration
+     of 150 cc of Optiray per history of allergies.
+     
+     Multiplanar reconstructions were performed.
+     
+     Comparison with prior CT from [**2838-1-7**].
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is an NG tube with the tip in the
+     stomach.  The lung bases are clear.  There is no pericardial or pleural fluid.
+     There is heterogeneous enhancement of the liver consistent with a perfusion
+     abnormality.  This is probably related to fatty liver infiltration or edema.
+     No definite masses are identified. The patient is status post cholecystectomy,
+     cholecystectomy and distal pancreatectomy.  The kidneys are normal without
+     evidence of focal lesions, there is no hydronephrosis.  The adrenal glands are
+     unremarkable.  Again seen is a moderate amount of ascites, not significantly
+     changed compared to prior exam.
+     
+     The stomach is distended, a small amount of contrast is seen in the small
+     bowel.  Loops of small bowel are massively distended, the largest ones measure
+     up to 6.9 cm, previously the largest loops of small bowel measured 5.4 cm.
+     There is fecalization of material in the small bowel.  There is a large amount
+     of stool within the sigmoid and rectum, the transverse and right colon appear
+     non- dilated and contain a small amount of stool. There is an enhancing
+     heterogeneous mass in the right lower quadrant.  Also noted are enhancing
+     peritoneal masses consistent with known carcinomatosis. No free air is
+     identified.  The major aortic branches are patent.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The prostate is enlarged, there is a Foley
+     catheter within the bladder.  There are extensive degenerative changes
+     throughout the spine.
+     
+     IMPRESSION:
+     
+     1) Interval worsening of chronic partial small bowel obstruction.  
+     2) Stable peritoneal carcinomatosis and ascites.
+     3) Perfusion abnormality in the liver probably related to fatty liver
+                                                                 (Over)
+
+     DATE: [**2838-3-1**] 5:28 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 9361**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: 62 yo M w/ appendiceal CA, known peritoneal carcinomatosis a
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     infiltration versus edema, no focal masses are identified. Findings were
+     discussed with Dr. [**First Name (STitle) 9362**] at the time of the exam.
+
+",,
+8612,,,,2838-03-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8612,,,,2838-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2838-3-5**] 9:13 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 9363**]
+     Reason: 62 yo M w/ metastatic appendiceal CA, peritoneal carcinomato
+      Contrast: CONRAY Amt: 30
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * 99141 IV CONSCIOUTIOUS SEDATION PRO                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with 
+     REASON FOR THIS EXAMINATION:
+      62 yo M w/ metastatic appendiceal CA, peritoneal carcinomatosis and recurrent
+      sbo here w/ partial sbo.evaluated by surgery and they felt surgery not an
+      option. would like g tube placed for symptomatic decompression. had abd ct [**3-1**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  62 year old male with metastatic appendiceal carcinoma,
+     peritoneal carcinomatosis, and partial small bowel obstruction.  Please place
+     gastrostomy tube for symptomatic decompression.
+     
+     RADIOLOGISTS:  Drs. [**First Name8 (NamePattern2) **] [**Name (STitle) **], [**Name5 (PTitle) 2366**] [**Doctor Last Name 2367**], and [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 513**].  Dr.
+     [**Last Name (STitle) **], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  30 ml of Conray at 60%; 50 mcg fentanyl and .5 mg
+     Versed in divided doses under continued hemodynamic monitoring for conscious
+     sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was explained to the patient and
+     informed consent obtained.  The stomach was insufflated with air using the
+     pre-existing nasogastric tube, and two T-fasteners were placed under
+     fluoroscopic guidance, securing the body of the stomach to the anterior
+     abdominal wall.  Following local anesthetic infiltration, a skin incision was
+     made between the two T-fasteners, and a 19-gauge single-wall needle was
+     advanced while aspirating until the body of the stomach was encountered.  A
+     small amount of contrast material was then injected, documenting a gastric
+     location.  A 0.035 [**Last Name (un) 223**] wire was then placed through the needle and into
+     the body and fundus of the stomach.  The needle was then removed and exchanged
+     for a 4-French Kumpe catheter.  The wire was then pulled back, and the
+     catheter and wire were manipulated into the pyloric region initially, and
+     eventually through the duodenum and beyond the ligament of Treitz in the
+     jejunum.  The wire was removed, and a small amount of contrast material was
+     injected through the catheter, documenting a jejunal location.  The wire was
+     then reinserted through the catheter, and the catheter removed.  The tract was
+     dilated up to 12 French, and a 12-French Wills-[**Doctor Last Name 8934**] gastrostomy catheter
+     was advance with the metal stylet into the gastric antrum.  The stylet and
+     wire were subsequently removed, the pigtail portion of the gastrostomy
+     catheter was formed in the distal body/antrum of the stomach.  The gastrostomy
+     catheter was then secured to the patient's skin using 0-Prolene suture
+     material and a Flexi-Track dressing.
+     
+     Contrast material was injected following placement of the gastrostomy tube,
+     and contrast flowed freely through the gastric folds, into the fundus of the
+                                                                 (Over)
+
+     DATE: [**2838-3-5**] 9:13 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 9363**]
+     Reason: 62 yo M w/ metastatic appendiceal CA, peritoneal carcinomato
+      Contrast: CONRAY Amt: 30
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     stomach, as well as into the first portion of the duodenum.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful placement of a 12-French Wills-[**Doctor Last Name 8934**] gastrostomy
+     catheter, with locking loop formed in the antrum of the stomach.  No
+     complications.
+
+",,
+8612,,,,2838-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2838-3-5**] 9:13 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 9363**]
+     Reason: 62 yo M w/ metastatic appendiceal CA, peritoneal carcinomato
+      Contrast: CONRAY Amt: 30
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * 99141 IV CONSCIOUTIOUS SEDATION PRO                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with 
+     REASON FOR THIS EXAMINATION:
+      62 yo M w/ metastatic appendiceal CA, peritoneal carcinomatosis and recurrent
+      sbo here w/ partial sbo.evaluated by surgery and they felt surgery not an
+      option. would like g tube placed for symptomatic decompression. had abd ct [**3-1**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  62 year old male with metastatic appendiceal carcinoma,
+     peritoneal carcinomatosis, and partial small bowel obstruction.  Please place
+     gastrostomy tube for symptomatic decompression.
+     
+     RADIOLOGISTS:  Drs. [**First Name8 (NamePattern2) **] [**Name (STitle) **], [**Name5 (PTitle) 2366**] [**Doctor Last Name 2367**], and [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 513**].  Dr.
+     [**Last Name (STitle) **], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  30 ml of Conray at 60%; 50 mcg fentanyl and .5 mg
+     Versed in divided doses under continued hemodynamic monitoring for conscious
+     sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was explained to the patient and
+     informed consent obtained.  The stomach was insufflated with air using the
+     pre-existing nasogastric tube, and two T-fasteners were placed under
+     fluoroscopic guidance, securing the body of the stomach to the anterior
+     abdominal wall.  Following local anesthetic infiltration, a skin incision was
+     made between the two T-fasteners, and a 19-gauge single-wall needle was
+     advanced while aspirating until the body of the stomach was encountered.  A
+     small amount of contrast material was then injected, documenting a gastric
+     location.  A 0.035 [**Last Name (un) 223**] wire was then placed through the needle and into
+     the body and fundus of the stomach.  The needle was then removed and exchanged
+     for a 4-French Kumpe catheter.  The wire was then pulled back, and the
+     catheter and wire were manipulated into the pyloric region initially, and
+     eventually through the duodenum and beyond the ligament of Treitz in the
+     jejunum.  The wire was removed, and a small amount of contrast material was
+     injected through the catheter, documenting a jejunal location.  The wire was
+     then reinserted through the catheter, and the catheter removed.  The tract was
+     dilated up to 12 French, and a 12-French Wills-[**Doctor Last Name 8934**] gastrostomy catheter
+     was advance with the metal stylet into the gastric antrum.  The stylet and
+     wire were subsequently removed, the pigtail portion of the gastrostomy
+     catheter was formed in the distal body/antrum of the stomach.  The gastrostomy
+     catheter was then secured to the patient's skin using 0-Prolene suture
+     material and a Flexi-Track dressing.
+     
+     Contrast material was injected following placement of the gastrostomy tube,
+     and contrast flowed freely through the gastric folds, into the fundus of the
+                                                                 (Over)
+
+     DATE: [**2838-3-5**] 9:13 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 9363**]
+     Reason: 62 yo M w/ metastatic appendiceal CA, peritoneal carcinomato
+      Contrast: CONRAY Amt: 30
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     stomach, as well as into the first portion of the duodenum.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful placement of a 12-French Wills-[**Doctor Last Name 8934**] gastrostomy
+     catheter, with locking loop formed in the antrum of the stomach.  No
+     complications.
+
+",,
+8612,,,,2838-03-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2838-3-5**] 9:13 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 9363**]
+     Reason: 62 yo M w/ metastatic appendiceal CA, peritoneal carcinomato
+      Contrast: CONRAY Amt: 30
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * 99141 IV CONSCIOUTIOUS SEDATION PRO                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with 
+     REASON FOR THIS EXAMINATION:
+      62 yo M w/ metastatic appendiceal CA, peritoneal carcinomatosis and recurrent
+      sbo here w/ partial sbo.evaluated by surgery and they felt surgery not an
+      option. would like g tube placed for symptomatic decompression. had abd ct [**3-1**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  62 year old male with metastatic appendiceal carcinoma,
+     peritoneal carcinomatosis, and partial small bowel obstruction.  Please place
+     gastrostomy tube for symptomatic decompression.
+     
+     RADIOLOGISTS:  Drs. [**First Name8 (NamePattern2) **] [**Name (STitle) **], [**Name5 (PTitle) 2366**] [**Doctor Last Name 2367**], and [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 513**].  Dr.
+     [**Last Name (STitle) **], Staff Radiologist, was present throughout the procedure.
+     
+     CONTRAST/MEDICATIONS:  30 ml of Conray at 60%; 50 mcg fentanyl and .5 mg
+     Versed in divided doses under continued hemodynamic monitoring for conscious
+     sedation.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was explained to the patient and
+     informed consent obtained.  The stomach was insufflated with air using the
+     pre-existing nasogastric tube, and two T-fasteners were placed under
+     fluoroscopic guidance, securing the body of the stomach to the anterior
+     abdominal wall.  Following local anesthetic infiltration, a skin incision was
+     made between the two T-fasteners, and a 19-gauge single-wall needle was
+     advanced while aspirating until the body of the stomach was encountered.  A
+     small amount of contrast material was then injected, documenting a gastric
+     location.  A 0.035 [**Last Name (un) 223**] wire was then placed through the needle and into
+     the body and fundus of the stomach.  The needle was then removed and exchanged
+     for a 4-French Kumpe catheter.  The wire was then pulled back, and the
+     catheter and wire were manipulated into the pyloric region initially, and
+     eventually through the duodenum and beyond the ligament of Treitz in the
+     jejunum.  The wire was removed, and a small amount of contrast material was
+     injected through the catheter, documenting a jejunal location.  The wire was
+     then reinserted through the catheter, and the catheter removed.  The tract was
+     dilated up to 12 French, and a 12-French Wills-[**Doctor Last Name 8934**] gastrostomy catheter
+     was advance with the metal stylet into the gastric antrum.  The stylet and
+     wire were subsequently removed, the pigtail portion of the gastrostomy
+     catheter was formed in the distal body/antrum of the stomach.  The gastrostomy
+     catheter was then secured to the patient's skin using 0-Prolene suture
+     material and a Flexi-Track dressing.
+     
+     Contrast material was injected following placement of the gastrostomy tube,
+     and contrast flowed freely through the gastric folds, into the fundus of the
+                                                                 (Over)
+
+     DATE: [**2838-3-5**] 9:13 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 9363**]
+     Reason: 62 yo M w/ metastatic appendiceal CA, peritoneal carcinomato
+      Contrast: CONRAY Amt: 30
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     stomach, as well as into the first portion of the duodenum.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful placement of a 12-French Wills-[**Doctor Last Name 8934**] gastrostomy
+     catheter, with locking loop formed in the antrum of the stomach.  No
+     complications.
+
+",,
+8612,,,,2838-03-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2838-3-15**] 11:50 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9364**]
+     Reason: failure to thrive and lethergic please evalaute for pneumoni
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with lethergy
+     REASON FOR THIS EXAMINATION:
+      failure to thrive and lethergic please evalaute for pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Failure to thrive and lethargy.
+     
+     COMPARISON: [**2837-8-1**].
+     
+     PA & LATERAL CHEST: The heart is within normal limits. There is slight
+     unfolding of the aorta. The mediastinal and hilar contours are otherwise
+     unremarkable. The pulmonary vascularity is normal. Within the left lower lobe
+     posteriorly, there is an illdefined infiltrate that is most prominent on the
+     lateral projection. There are no pleural effusions. There is no evidence of
+     failure. Osseous structures are unremarkable.
+     
+     IMPRESSION: Left lower lobe infiltrate consistent with pneumonia.
+
+",,

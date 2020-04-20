@@ -1,0 +1,218 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8581,21892,,,2930-08-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2930-8-25**]     Discharge Date:  [**2930-9-7**]
+
+Date of Birth:   [**2854-12-23**]     Sex:  M
+
+Service:
+
+ADDENDUM:  The patient's discharge on [**2930-9-6**] was postponed
+as his creatinine was found to be increased from 1.3 to 2.8.
+A stat repeat creatinine was obtained which showed it to be
+3.0.  As the patient does have a history of benign prostatic
+hyperplasia, it was felt that the patient might have
+postrenal obstructive failure.  Thus, a Foley catheter was
+placed with a return of approximately 1,400 cc of urine.
+Urology was consulted and it was learned that the patient has
+a urologist, Dr. [**Last Name (STitle) **], who has followed the patient
+previously.  His prostate is known to be extremely large and
+the patient is already on Proscar for his benign prostatic
+hypertrophy.
+
+Thus, upon Urology's recommendation, the Foley will be left
+in for approximately two weeks.  He should continue on
+Proscar and Flomax was also added to his medicine regimen.
+The following day a repeat creatinine was checked and it was
+then noted to be 1.6, from his increase of 3.0.  Thus the
+patient's postobstructive renal failure had resolved with
+placement of the Foley and thus now is stable to be
+discharged to the rehabilitation facility.
+
+DISCHARGE INSTRUCTIONS:  The patient's Foley should remain in
+place for approximately two weeks.  The patient should
+follow-up with Dr. [**Last Name (STitle) **], Urology, in approximately two to
+three weeks, for assessment of his prostate.  He should not
+get any elective surgery in the next four to six weeks, after
+his coronary artery bypass graft, and his first surgery
+should be his meningioma excision, after which he recovers,
+he can have his prostate issue explored.  Thus he will be
+discharged to rehabilitation on [**2930-9-7**].
+
+DISCHARGE MEDICATIONS:  Flomax 0.4 mg po q day.
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 574**], M.D.  [**MD Number 575**]
+
+Dictated By:[**Name8 (MD) 6066**]
+
+MEDQUIST36
+
+D:  [**2930-9-7**]  08:43
+T:  [**2930-9-7**]  09:49
+JOB#:  [**Job Number 11819**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: WED [**2930-9-13**] 4:12 PM
+(End of Report)
+
+
+",,
+8581,21892,10688,0,2930-09-01 16:25:00 EST,2930-09-01 16:28:00 EST,3568,"N",54,"Nursing/Other",,"
+
+Resp. Care Note
+Pt adm to CSRU s/p CABGx3 today. Initial vent settings SIMV 850x10x100% peep 5 psv 5, ABG 190/40/7.32/22. Peep ^ to 7.5 and Fio2 titrated down by sats to current level of 50%. Repeat ABG pending. Cont vent support, wean per team as Pt wakes.
+",,
+8581,21892,10688,0,2930-09-01 17:47:00 EST,2930-09-01 18:17:00 EST,3420,"N",54,"Nursing/Other","1330-1900 shift update","
+1330-1900 shift update
+cardiac: hr a-paced at 80, no ectopy, bp labile, neo,ntg,snp gtts off and on, currently all gtts off, on propofol only, 2500 cc total LR iv fluids given for labile bp and drop in ci to 1.8, admission index 2.4, ci back up to 2.4 after fluid, pad 14-18, cvp 7 on admission and up to 16 after fluid, respiratory: pt still intubated and sedated secondary to post op labile bp and ci, admission po2 190 on 100% fio2, peep increased to 7.5 from 5, fio2 weaned to 50% and peep back to 5 by end of shift keepind sats > 95, sats 95-98, breath sounds audible all lobes and clear, sux for sm amt thick white sputum, ct's draining 30-50 cc/hr sang drainage, gi: oral ngt to sux draining sm amt bld tinged green drainage, gu: foley cath patent, uo 240-160 cc/hr, clear urine, neuro: sedated on propofol, perl 1-2 mm, shivering noted- tx with iv demerol x 2 with good effect, plan: plan to tx drop in map < 65 and drop in ci < 2.0 with neo gtt vs crystalloid or colloid, plan to wean to extubate if hemodynamically stable  
+",,
+8581,21892,10688,0,2930-09-02 04:11:00 EST,2930-09-02 04:27:00 EST,3256,"N",54,"Nursing/Other",,"
+
+[**9-2**] 0500 pt did well postop. blood pressure very labile from 170's-80's. pt received 2500cc lact. ring. and 500cc hespan for low ci=<2.  presently hemodynamically stable. minimal chest tube drainage.  pt extubated at 0400 and now on 4lnc. lower pacer rate to 60bpm. pt is nsr without ectopy. pt still very confused and paranoid. does not follow commands 100% and questions every interventions. urine output adequate. potas. lavel 4.3 this am and covered with 20kcl. magnesium covered with 2grams.
+
+plan====pulm. toileting, psych consult. titrate nipride. up in chair. sister needed
+",,
+8581,21892,10688,0,2930-09-02 18:38:00 EST,2930-09-02 18:54:00 EST,3401,"N",54,"Nursing/Other","Update","
+Update
+O: Pod 1 Cabg still req snp for bp management. Captopril & lopressor for htn started earlier today. 
+
+CV status: sr w brief episode of vpaced rhythm subseq to hypo-> hypertensive episodes.Pa line removed for pt safety d/t pt agitation and attempts to get oob w/o assist.Rt radial art line secured w additional tape and pacing wires grnded for pt safety.Distal pulses faint palp checked w doppler.
+
+Resp status: O2 via np 4 lpm bilat brth snds coarse to cl w coughing & raising thick yellow/grn secretions. Diminished at bases.
+Chest tubes dc'd by ho this am.
+
+GI status: hypoactive bowel snds. Pt refusing po's most of the time.
+
+Gu status: huo  qs cl yellow urine.
+
+Neuro status: Alert vaguely oriented this am. Confused w inapprop words ? r/t pain meds. Perl at 2-3mm. Med w mso4.for incisional pain & haldol 1 mg po x1 for mild agitation.Hand grasp and ble equal strength.Family in to visit. Pt recognized family and conversing still having some inapprop words & ? hallucinations. Attempted to get oob this pm. Pa line dc'd and cordis obturator cap in place. Pt oob to chair w maximal assist 2 person. Less agitated in chair and sleeping shortly after transfer to chair. Pt w 1:1 sitter for pt's safety.
+
+a/p: Agitated req constant observation. Haldol as needed for severe agitation.Wean snp to off if bp tolerates.
+
+A/P: 
+",,
+8581,21892,10688,0,2930-09-03 03:46:00 EST,2930-09-03 03:55:00 EST,3233,"N",54,"Nursing/Other","CSRU UPDATE NOTE","
+CSRU UPDATE NOTE
+NEURO: PT AWAKE, CONFUSED TO PLACE AND TIME, WORD SEARCHES AT TIMES. ONE EPISODE OF IMRESPONSIVENESS WITH TREMORING OF UPPER EXTREMITITES WHEN PT'S BP DROPPED FROM 160 SYSTOLIC TO 79 SYSTOLIC.  WITHOUT TREATMENT PT'S BP IMPROVED WITHIN SECONDS AND PT WAS AROUSABLE.  HEAD CT PERFORMED WHICH DID NOT SHOW ANY SIGNS OF BLEEDING OR MIDLINE SHIFT FROM PRE-OP HEAD CT.  PT WITH ONE EPISODE OF AGITATION AROUND 3:30AM, AT THAT TIME PT DEMANDING TO TAKE OUT TLC, PLACED HIS HANDS ON TLC AND ATTEMPTED TO PULL OUT. PT CALMED WITH ONE DOSE OF HALDOL 2.5MG IV.
+SITTER AT BEDSIDE. 
+
+CV: TELE NSR 70'S, BP 141/63, WEANED OFF NIPRIDE, HAS BEEN OF FOR 4HRS. DISTAL PULSES PALPABLE, SKING PINK, WARM AND DRY.
+
+RESP: NC 2L, LS DECREASED AT BASES, RR 20/MIN EVEN AND UNLABORED. 02SATS 98%.
+
+GI: PT TAKING IN JUICE AND H20, NO NAUSEA AND VOMITTING, ABD SOFT, NT, ND. NO BM.
+
+GU: FOLEY PATENT, UO QS.
+
+HEME: HCT 34.0
+
+A. STABLE, TOLERATING WEAN OFF NIPRIDE
+P. CONTINUE TO FOLLOW NEURO EXAM CLOSELY, PULMONARY TOILET, ADVANCE TO REGULAR DIET. 
+",,
+8581,21892,10688,0,2930-09-03 04:48:00 EST,2930-09-03 04:53:00 EST,3233,"N",54,"Nursing/Other","CSRU UPDATE NOTE","
+CSRU UPDATE NOTE
+PT DEMANDING TO GET OUT OF CHAIR, PULLING HIMSELF OUT OF RECLINER, SITTER AT BEDSIDE AND RN ENCOURAGING PT TO SIT BACK IN CHAIR. PT REQUESTING TO GET OUT, ASSISTED BACK TO BED, PT DEMANDING TO SIT IN VISITORS CHAIR. INSTRUCTED PT THAT THIS TYPE OF CHAIR WOULD BE UNSAFE. PT CONTINUED TO DEMAND TO SIT IN THAT CHAIR, COMBATIVE AND WAVING FISTS AT SITTER AND RN. PT OFFERED OPTION TO SIT IN PT'S RECLINER OR IN THE BED.  PT ATTEMPTING TO WALK AWAY, PUSHING RN OUT OF HIS WAY.  PT UNSTABLE ON HIS FEET, WAS LIFTED BACK TO BED WITH 3 PERSONS AND MEDICATED WITH HALDOL 2.5 MG IV X 2 TOTAL DURING AGITATION EPISODE. SIDERAILS UP X 2. SITTER AT BEDSIDE. PT CALMED WITH HALDOL, RESTING COMFORTABLY IN BED.
+",,
+8581,21892,10688,0,2930-09-03 17:30:00 EST,2930-09-03 17:36:00 EST,3100,"N",54,"Nursing/Other",,"
+
+Neuro:  PT remains confused, oriented to self and occasionally knows he is in the hospital.  MAE to command.  PT cooperates with care part of time.  Easily agitated, tries to climb out of bed.  Sitter at bedside and haldol utilized for pt safety.
+
+CV:  A-febrile, NSR, VSS and WNL.  No ectopy.  New PIV started, Cordis and ML to be DC'd tonight.  
+
+Resp:  BS clear, pt sats high 90s on room air.  Strong non-productive cough.  
+
+GI:  +BS, pt denies hunger and refused eating.  No BM.
+
+GU:  Adequate u/o via foley.
+
+Skin:  Sternal incision clean, dry, open to air.  Leg incision ace-wrapped.
+
+Pain:  Pt denies pain.
+
+Soc:  Daughter updated at bedside.  All questions answered.
+",,
+8581,21892,10688,0,2930-09-04 03:16:00 EST,2930-09-04 03:21:00 EST,3233,"N",54,"Nursing/Other","CSRU UPDATE NOTE","
+CSRU UPDATE NOTE
+Neuro: Pt with periods of agitation, despite frequent reorientation and explanation of nursing activities performed,pt with periods of agitation and combativeness.  Attempts to get OOB and pull at IV's, medicated with Haldol for safety. No evidence of seizures.
+
+CV: Tele NSR 70's BP stable on lopressor and Captopril. pacer wires secured. distal pulses palpable.
+
+RESP: Pt is on RA, Ls decreased at bases, RR 18/min even and unlabored. 02Sats 98%.
+
+GI: Abd soft, Nd, bs's present, no BM, taking in clears overnight. Nutrition staus needs to be addressed as pt is POD""# with poor po intake.
+
+GU: Foley d/c'd due to pt pulling on tube. Condom cath applied effective with times of incontinence. Urine bloody. UO adequate.
+
+Lytes: repleted.
+
+heme: HCT 31.0
+A. stable
+P. Transfer to [**Hospital Ward Name 3**] 6
+
+
+",,
+8581,21892,10688,0,2930-09-04 10:15:00 EST,2930-09-04 10:33:00 EST,3760,"N",54,"Nursing/Other",,"
+
+75 y.o. CABG x4 on [**9-1**]. Admitted to hospital for subfrontal meningioma, during cardiac workup foundto require CABG. Hx of paranoid schizophrenic, right arm tremor due to meingioma. Post-op course:BP labile, controlled with gtts. 
+NSR, no ectopy. 2 A and 2 V wires secured to pt. BP stable.
+Lungs clear, room air with good sats. Strong cough. Small amts [**Last Name (un) **] sputum.
+Incontinent. Penial pouch placed on pt. No urine at this point. Pt does not understand he is able to urinate freely.
+Skin intact, incisions CDI, no drainage. PIV placed [**9-3**]. 
+Pt confused, only oriented to self. Attempts to walk around (to weak to do so), attempts to pull off pouch. Pt has not had any paranoid idea this morning. Can become angry after quite a bit of care. Very talkative. Sitter at bedside.
+Plan: Transfer to [**Hospital Ward Name 3**] 6, sitter at bedside.
+",,
+8581,18716,10689,0,2931-05-25 01:06:00 EST,2931-05-25 01:19:00 EST,-1,"N",54,"Nursing/Other",,"
+
+76 yo male presents from [**Hospital Ward Name 3**] 5 s/p bifrontal craniotomy for resection of meningioma secondary to large olfactory groove meningioma. Craniotomy performed on [**5-22**]. On [**5-23**] pt noted to be increasingly agitated, placed in 4 pt restraints, sitter utilized for safety and treated with haldol. On [**5-24**] eves pt was found to be increasingly lethargic with temp to 104 and responding to painful stimuli only. Pt has hemovac drain in head, dssg removed by Dr. [**Last Name (STitle) **] and no drainage around site was noted [**Name8 (MD) 34**] RN. Reportedly pt was noted to have increased congestion and prod cough of white sputum. Pt had received one unit PRBCS on [**5-24**] for Hct 27.  Two sets of blood cults were sent.Pt was sent for head CT and chest x-ray prior to presenting to Neuro ICU. 
+
+Pmhx; CABG x4, DVT, paranoid schizophrenia, uti's, + MRSA urine, BPH.
+Meds; dilantin, zantac, heparin sq, colace, tamsulosin hcl, finastride, lisinopril, metoprolol, olanzapine.
+
+Status: Full Code.
+Pt is a resident of Star of [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) **]. Son is [**Name2 (NI) **]. 
+",,
+8581,18716,10689,0,2931-05-25 04:25:00 EST,2931-05-25 04:44:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Allergies: Norvasc, Sulfa.
+
+Review of Systems:
+
+Neuro - pt initially nonverbal but became increasingly more responsive. Yelled "" get out of here"" when blood draw performed. PERL. MAE. Does not follow commands and will not respond when asked his name.  Pt attempted to climb oob. Soft hand restraints applied. Has sitter at bedside. Dilantin level 5.5 yest. Bolused with 500 mg dilantin this am and daily dose increased to 400 mg total qd. Head CT performed prior to arrival to unit reportedly without acute changes [**Name8 (MD) 34**] md. 
+
+C-V - HR 60s NSR, no ectopy. SBP 132-155. 
+
+Resp - 02 sats 95-98 on RA. Lungs clear. ? results of c-ray. No clear infiltrate [**Name8 (MD) 34**] md. [**First Name (Titles) **] [**Last Name (Titles) **] noted. Needs sputum for c+s. 
+
+GI /F/E - Abd soft. +BS. Passing flatus. IVF NS with 20 kcl infusing at 100cc/hr. Voiding > 30cc/hr clear yellow urine via foley.
+
+ID - Max temp 100.4 axillary since arrival to unit. CSF and Urine cults sent. BC sent previously on floor. Pt treated with 2 gms ceftriaxone iv and 1 gm vanco iv for ? aspir pneum. WBC this am pend. 
++ MRSA urine precautions.
+
+Skin - Craniotomy dssg D+I. J-P drained 8 ccs bloody fluid. No areas of skin breakdown noted.
+
+Access - 2 peripheral ivs ( #20 R wrist, #22 L wrist). 
+
+A+P ? Mental status changes due to infection. Continue to monitor neuro status closely. Follow-up cult results. Antibiotics as ordered.
+
+
+",,
+8581,18716,10689,0,2931-05-25 13:48:00 EST,2931-05-25 13:55:00 EST,3600,"N",54,"Nursing/Other","Neuro","
+Neuro
+D: pt arousable to own name, resisting testing of pupil response. answering yes and no to closed ended questions, moving extremities on own on bed. sleeping most of shift. unable to assess tongue protrusion or for drift. hemovac to self suction. head drsg D+I. T 100.4 (+)
+A: started on Decadron, receiving bolus 10 mg
+con't on dilantin alternating doses
+starting ceftaz
+con't on NS with KCL
+R: neuro status slightly improved with some spontaneous movement of extremities. still arousable when called however sleeping when not stimulated.
+",,
+8581,18716,10689,0,2931-05-26 05:58:00 EST,2931-05-26 06:01:00 EST,3399,"N",54,"Nursing/Other","focus: neuro","
+focus: neuro
+data: vss.  perl =+. moves all extrems, usually to command.  speach varies from garbled to clear, to aphasic to completely understandable. pt usually pleasant; woke once swearing and punching out with arms, agitated and beligerant, uncooperative.  presently pt is cooperative, sometimes aware of why he is in the hospital. 
+",,
+8581,18716,10689,0,2931-05-26 14:08:00 EST,2931-05-26 14:20:00 EST,3683,"N",54,"Nursing/Other","TRANSFER NOTE:  MAY 11, 2002","
+TRANSFER NOTE:  [**2931-5-26**]
+S/O:  75 YO MALE W/ PMH SIGNIFICANT FOR PARANOIA, MIDLINE MENINGIOMA,CABGX4 IN [**8-16**],BPH,PERIPHERAL NEUROPATHY, NEPHROLITHIASIS, HX OF MRSA IN URINE, HTN, HYPERCHOLESTEREMIA, S/P SUBTOTAL GASTRECTOMY, PUD, AND SPINAL STENOSIS. PT HAS ALLERGIES TO SULFA, TRIMETHOPRIM AND NORVASC.  ON [**5-22**] PY UNDERWENT A BIFRONTAL CRANI FOR RESECTION OF AN OLFACTORY GROOVE MENINGIOMA. POST OP PT ON [**Hospital Ward Name **] 5. ON POST OP DAY 2 PT FEBRILE TO 104 (PER DOCUMENTATION) AND UNRESPONSIVE. PT BROUGHT TO NSICU FOR CLOSE NEURO MONITORING.  SICU COURSE UNCOMPLICATED. STARTED ON DECADRON AND ANTIBIOTICS. NEURO STATUS IMPROVED UPON TRANSFER TO UNIT.  
+      PRESENTLY ALERT, CONFUSED, ORIENTED TO PERSON - AT TIMES TO TIME.  MOVES ALL EXTREMITIES W/ EQUAL STRENGTH.  PUPILS EQUAL AND REACTIVE.  FOLLOWING COMMANDS AT TIMES.  LUNGS CLEAR TO DIMINISHED AT BASES.  ABD SOFT.  URINE QS VIA FOLEY.  PT DID HAVE A SUBDURAL DRAIN WHICH WAS D/C'D BY DR. [**Last Name (STitle) **] THIS AM.  MOD AMT OF S/S DRAINAGE AT SITE - DR. [**First Name (STitle) **], NSICU FELLOW AWARE, NO NEW ORDERS.  THIS AM, PT SOMEWHAT AGITATED, ATTEMPTING TO CLIMB OOB.  SITTER ORDERED - NOT ABLE TO OBTAIN ONE TIL 3PM.  IN THE INTERIM PT MUCH LESS AGITATED, DOZING MOST OF THE TIME, BUT EASY TO AWAKEN.  DESPITE LETHARGY, NEURO STATUS UNCHANGED.  DR.  [**Last Name (STitle) 2954**] AWARE OF INCREASED LETHARGY - NO NEW ORDERS.
+A/P:  TRANSFER TO FLOOR WHEN BED AVAILABLE [**Name8 (MD) **] MD'S ORDERS.  REPORT FAXED TO FLOOR.
+",,

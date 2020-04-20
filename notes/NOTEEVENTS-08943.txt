@@ -1,0 +1,537 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8943,17641,,,3484-07-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3484-7-5**]              Discharge Date:   [**3484-7-7**]
+ 
+Date of Birth:  [**3404-10-4**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 340**] 
+Chief Complaint:
+CC: SOB
+
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization on [**3484-7-5**]
+Intubated [**3484-7-5**]
+Extubated [**3484-7-7**]
+ 
+History of Present Illness:
+HPI: 79 yo Haitian female with h/o breast ca and possible lung 
+CA presents with sudden onset of SOB. Daughter states that she 
+thought her O2 (uses home o2) was not working, said she felt SOB 
+and called out for help. She did not note any chest pain at the 
+time. EMS was called and she was intubated in field. She was 
+hypotensive in the ER (btwn 1am -3 am bp 70-118/38-94 and HR 
+66-84). An R IJ line was attempted to be inserted at this time, 
+but caused a hematoma. Pt was still hypotensive so left sc line 
+was put in and caused a second hematoma. She was started on 
+dopamine in the ER and then changed to levophed b/c she got 
+tachycardic. An EKG showed ST elevations in leads I, II AVR and 
+V2-V6. Pt was taken to cath emergently d/t ST changes and 
+hypotension thought to be from cardiogenic shock.  
+
+ 
+Past Medical History:
+PMH: unclear, daughter is a poor historian, has h/o breast ca 
+and possible pulmonary fibrosis, may also have dx of lung ca, 
+HTN 
+ 
+Social History:
+Social hx: pt lives at home with daughter, has been noted to be 
+very depressed lately d/t the loss of two family members. Does 
+not drink or smoke. 
+ 
+Family History:
+Fam hx: father had angina 
+ 
+Physical Exam:
+PE:  
+Tm 97.7 Tc 97.3 BP assisted diastolic 123-145, mean arterial bp 
+73-87 P 64-76 R 18-26 O2 sat 98% I/O 1043/423  
+Gen: awakes to pain  
+HEENT: PERRL, hematoma on right neck covered by bandage, large 
+nodule present on left side of neck, feels somewhat soft  
+Pulm; coars rhonchorous breathe sounds bilaterally  
+Chest: right breast removed s/p mastectomy  
+Cardio; difficult to hear heart with loud breathe sounds  
+Abd: soft, ND, breathe sounds transmitted to abd  
+Ext: feet feel cold, pulses hard to palpate  
+Skin: Where left subclavian line placed there is a large 
+hematoma, that is soft to push on  
+
+ 
+Pertinent Results:
+Cath showed:  
+LMCA, LCX: no significant disease  
+LAD: mild diffuse irregularirties  
+RCA: 50-60% ostial with catheter damping  
+LV: LVEF 20% with apical ballooning  
+--moderately elevated left sided and severely elevated right 
+sided filling pressures; severe pulm htn, severely depressed CO, 
+apical ballooning syndrom vs acute myocarditis.  
+co 2.6  
+ci 1.5  
+MAPs: RA 19 [**MD Number 12487**] 22 AO 64  
+labs at admit:
+pH  
+7.30 pCO2  
+44 pO2  
+229 HCO3  
+23 BaseXS  
+-4  
+
+ 
+na 132 cl 104 bun 14 gluc 89 AGap=11  
+k 4.4 hco3 21 cr 0.9  
+CK: 197 MB: 26 MBI: 13.2 Trop-*T*: 1.46  
+Ca: 7.3 Mg: 1.5 P: 3.7  
+wbc 19.3 (prev was 14.7) hgb 11.2 D plts 245  
+hct 35.6 (previous was 43.8)  
+PT: 14.5 PTT: 38.7 INR: 1.4  
+
+CXR: satisfactory ETT placement, diffuse bilateral alveolar 
+opacities. Differential includes multifolca PNA, ARDS, pulm 
+edema. Large left and probable right sided pleural effusion. 
+Massive gastric distension. 
+.
+Echo [**7-7**]: Conclusions:  
+The left atrium is normal in size. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size and systolic 
+function (LVEF>55%). Due to suboptimal technical quality, a 
+focal wall motion abnormality cannot be fully excluded. Right 
+ventricular chamber size is normal. Right ventricular systolic 
+function appears depressed. There is a prominence of the 
+non-coronary sinus. The ascending aorta is moderately dilated. 
+The aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. Mild (1+) aortic regurgitation is seen. 
+The mitral valve appears structurally normal with trivial mitral 
+regurgitation. The estimated pulmonary artery systolic pressure  
+
+is normal.  
+
+.
+[**3484-7-7**] 05:15AM BLOOD WBC-16.4* RBC-2.83* Hgb-8.2* Hct-23.8* 
+MCV-84 MCH-28.8 MCHC-34.3 RDW-14.7 Plt Ct-119*
+[**3484-7-6**] 08:31PM BLOOD Hct-25.6*
+[**3484-7-6**] 11:42AM BLOOD Hct-28.0*
+[**3484-7-6**] 05:16AM BLOOD WBC-12.8* RBC-3.36* Hgb-9.4* Hct-27.8* 
+MCV-83 MCH-27.9 MCHC-33.7 RDW-14.5 Plt Ct-147*
+[**3484-7-5**] 11:20PM BLOOD Hct-29.5*
+[**3484-7-5**] 04:05PM BLOOD WBC-13.1* RBC-3.93* Hgb-10.8* Hct-32.9* 
+MCV-84 MCH-27.6 MCHC-32.9 RDW-14.3 Plt Ct-184
+[**3484-7-5**] 04:11AM BLOOD WBC-19.3* RBC-4.15* Hgb-11.2*# Hct-35.6* 
+MCV-86 MCH-27.0 MCHC-31.5 RDW-13.9 Plt Ct-245
+[**3484-7-5**] 12:10AM BLOOD WBC-14.7* RBC-5.07 Hgb-14.4 Hct-43.8 
+MCV-87 MCH-28.5 MCHC-32.9 RDW-13.6 Plt Ct-302
+[**3484-7-7**] 05:15AM BLOOD Plt Ct-119*
+[**3484-7-6**] 05:16AM BLOOD Plt Ct-147*
+[**3484-7-5**] 12:10AM BLOOD Plt Ct-302
+[**3484-7-7**] 05:15AM BLOOD Glucose-92 UreaN-20 Creat-1.0 Na-134 
+K-3.8 Cl-105 HCO3-22 AnGap-11
+[**3484-7-6**] 05:16AM BLOOD Glucose-100 UreaN-17 Creat-1.0 Na-134 
+K-3.9 Cl-104 HCO3-21* AnGap-13
+[**3484-7-5**] 12:10AM BLOOD UreaN-14 Creat-1.2*
+[**3484-7-6**] 05:16AM BLOOD CK(CPK)-158*
+[**3484-7-5**] 04:05PM BLOOD CK(CPK)-238*
+[**3484-7-5**] 04:11AM BLOOD CK(CPK)-197*
+[**3484-7-5**] 12:10AM BLOOD Amylase-157*
+[**3484-7-6**] 05:16AM BLOOD CK-MB-9 cTropnT-0.51*
+[**3484-7-5**] 04:05PM BLOOD CK-MB-20* MB Indx-8.4* cTropnT-0.86*
+[**3484-7-5**] 04:11AM BLOOD CK-MB-26* MB Indx-13.2* cTropnT-1.46*
+[**3484-7-5**] 12:10AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-13.1 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**3484-7-7**] 12:22PM BLOOD Type-ART pO2-56* pCO2-47* pH-7.32* 
+calHCO3-25 Base XS--2
+[**3484-7-7**] 05:19AM BLOOD Type-ART pO2-126* pCO2-40 pH-7.39 
+calHCO3-25 Base XS-0
+[**3484-7-5**] 01:58AM BLOOD Type-ART Rates-/16 Tidal V-500 PEEP-5 O2 
+Flow-100 pO2-129* pCO2-55* pH-7.22* calHCO3-24 Base XS--5 
+Intubat-INTUBATED
+[**3484-7-5**] 10:43AM BLOOD Lactate-1.5
+[**3484-7-5**] 04:45AM BLOOD Lactate-1.9
+ 
+Brief Hospital Course:
+*SOB: This 79 yo Haitian female with h/o breast ca and possible 
+lung CA presented with sudden onset of SOB. EMS was called and 
+she was intubated in field. She was hypotensive in the ER (btwn 
+1am -3 am bp 70-118/38-94 and HR 66-84). An R IJ line was 
+attempted to be inserted at this time, but caused a hematoma. Pt 
+was still hypotensive so a left SC line was put in and caused a 
+second hematoma. She was started on dopamine in the ER and then 
+changed to levophed b/c she got tachycardic. An EKG showed ST 
+elevations in leads I, II AVR and V2-V6. Pt was taken to cath 
+emergently d/t ST changes and hypotension thought to be from 
+cardiogenic shock.  
+The cath showed:  
+LMCA, LCX: no significant disease  
+LAD: mild diffuse irregularirties  
+RCA: 50-60% ostial with catheter damping  
+LV: LVEF 20% with apical ballooning  
+--moderately elevated left sided and severely elevated right 
+sided filling pressures; severe pulm htn, severely depressed CO, 
+apical ballooning syndrom vs acute myocarditis.  
+co 2.6  ci 1.5  
+MAPs: RA 19 [**MD Number 12487**] 22 AO 64  
+An echo was done during the cath that showed no evidence of a 
+pericardial effusion.  
+A balloon pump was also placed at the time of cath. Her groin 
+was oozing at the cath site. Pt was given protamine to reverse 
+the heparin. It was decided to hold her heparin drip until the 
+AM and then start at a low dose b/c of hematomas and bleeding. 
+It was thought that the patient had Takotsubo cardiomyopathy 
+secondary to the stress of watching the news related to 
+terrorist activity in [**Location (un) **]. ASA, plavix and beta-blocers were 
+not started because the patient had clean coronaries. One day  
+after admission the balloon pump was pulled. An echo was done 
+two days after admission and showed mild symmetric left 
+ventricular hypertrophy with preserved global systolic function. 
+Right ventricular free wall hypokinesis c/w possible ischemia 
+(given normal PA systolic pressure). Mild aortic regurgitation.
+  Pt's CXR at admission showed possible ARDS, pneumonia or 
+pulmonary edema. Pt could have had fluid overload in lungs 
+secondary to systolic dysfuction. May also have had PNA, 
+especially since WBC was elevated. Pt did not have fevers, 
+however.  There was also a h/o pulmonary fibrosis, breast and 
+lung cancer. She received captopril 6.5 mg to diurese pt and 
+help her CHF. She was also given ipratropium inhalers.  One day 
+after admission the family indicated to the social worker that 
+the patient had been dc'd to home hospice care two weeks prior 
+but the patient refused hospice and did not fill her narctoics 
+for pain.  A palliative care consult was obtained.  Patient was 
+still intubated but her respiratory status was not improving to 
+a great degree.  Patient and patient's family made the decision 
+to extubate the patient knowing that she would most likely die 
+when extubated.  This was per the family consistent with the 
+patient's previous expressed wishes. Of note patient's hct 
+dropped from 43 at admission to 23 on [**7-7**].  Family was informed 
+of the necessity of a transfusion but refused blood 
+transfusions. The patient was made comfort measures only and 
+extubated with family present consistent with the wishes of all. 
+ The patient was extubated on [**3484-7-7**].  She was pronounced dead 
+at 7:0 pm on [**3484-7-7**] with the family at her side.  Family 
+declined to have an autospys performed.
+
+Acute blood loss anemia: Pt's hct has dropped significantly in 
+the past day. This can be explained by two hematomas and oozing 
+from the cath. It is possible that she is bleeding from 
+somewhere else.  
+-will re-check hct in pm to see if pt stable  
+-check stool guiacs  
+.  
+ 
+Medications on Admission:
+MEDS: unknown, may include diovan 
+ 
+Discharge Medications:
+patient expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+patient expired
+ 
+Discharge Condition:
+patient expired
+ 
+Discharge Instructions:
+patient expired
+ 
+Followup Instructions:
+patient expired
+ 
+                             [**First Name11 (Name Pattern1) 190**] [**Last Name (NamePattern4) 352**] MD [**MD Number 353**]
+ 
+Completed by: [**Doctor First Name 10153**] [**First Name8 (NamePattern2) 10154**] [**Name8 (MD) **] MD [**MD Number 10155**] [**3484-10-14**] @ 1827
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 190**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 189**]
+ on: [**Doctor First Name 46**] [**3484-10-16**] 6:52 PM
+(End of Report)
+
+
+",,
+8943,17641,,,3484-07-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-7-5**] 12:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11930**]
+     Reason: S/P CHEST PAIN ETT PLACEMENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain, check endotracheal tube placement.
+     
+     AP PORTABLE SUPINE CHEST:  No priors for comparison.  The patient is rotated
+     to the left.  Thoracic scoliosis.  Endotracheal tube is noted 5.5 cm above the
+     carina.  No definite pneumothorax is seen on this limited supine film.  There
+     is diffuse bilateral alveolar opacity involving the majority of the right
+     hemithorax and the left upper lung zone.  There is a large left-sided pleural
+     effusion, and probably a small right effusion as well.  There is a focal area
+     of aerated lung vs. cyst in the left mid lung zone, the exact etiology of
+     which is unclear. It may represent an emphysematous bleb or normal lung spared
+     form the alveolar process affecting the remaining parenchyma. There is massive
+     distention of the stomach. Surgical clips in the left axilla.
+     
+     IMPRESSION:
+     1) Satisfactory ETT placement.
+     2) Diffuse, bilateral alveolar opacities. Differential for this includes
+     multifocal pneumonia, ARDS, and pulmonary edema; no clinical history or old
+     films were provided.
+     3) Large left and probable small right pleural effusions.
+     4) Spared lung parenchyma vs. cystic cavity in the left midlung. This may
+     represent normal lung spared from the alveolar process affecting the remaining
+     lung parenchyma, or alternatively an emphysematous bullae or cavitary abscess;
+     correlate clinically and with comparison films.
+     5) Massive gastric distention. Portable supine film is not sensitive to assess
+     for free air.
+     
+
+",,
+8943,17641,,,3484-07-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-7-5**] 7:19 PM
+     CHEST U.S. PORT                                                 Clip # [**Clip Number (Radiology) 11931**]
+     Reason: Please evaluate hematoma around left subclavian line and hem
+     Admitting Diagnosis: ACUTE MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79 year old woman with cardiomyopathy and hematomas s/p RIJ placement and left 
+      subclavian placement on heparin
+     REASON FOR THIS EXAMINATION:
+      Please evaluate hematoma around left subclavian line and hematoma around right 
+      IJ line
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Cardiomyopathy.  Hematomas status post placement of right internal
+     jugular and left subclavian central venous lines while on heparin.
+     
+     COMPARISON:  No previous studies.
+     
+     FINDINGS:  Sonographic examination of the area of swelling adjacent to the
+     external portion of the left subclavian central venous line reveals a
+     superficial hematoma measuring 2 cm deep.  No abnormalities are identified
+     adjacent to the external portion of the right internal jugular central venous
+     line.
+     
+     IMPRESSION:  Subcutaneous hematoma adjacent to the left subclavian central
+     venous catheter.
+                                                                           DFDkq
+
+",,
+8943,17641,11119,0,3484-07-05 04:35:00 EST,3484-07-05 04:38:00 EST,6842,"N",1,"Nursing/Other",,"
+
+RESPIRATORY CARE NOTE: Pt admitted from ER via cath lab. Pt R/O MI,COPD,CHF pt had flash pulmonary edema and intubated in ER. Transported pt from cath lab to CCU without complications. Pt has hx of mastectomy. Breath sounds diminished and coarse. Suctioned bloody sputum. Pt had bloody mouth. Vent settings [**Name8 (MD) 34**] MD. Changes made after ABG. Continue
+",,
+8943,17641,11119,0,3484-07-05 05:38:00 EST,3484-07-05 06:12:00 EST,1722,"N",1,"Nursing/Other",,"
+
+NSG ADM NOTE CCU
+
+79 YR OLD FEMALE AT HOME WITH DAUGHTER BECAME ACUTELY SOB. EMS CALLED AND PT INTUBATED IN THE FIELD. PMH PULM FIBROSIS, BREAST CA WITH R MASTECTOMY,? CHF. INITIAL EKG SHOWS STE ANTLAT AND LEAD LL STD AVR. TRANSFERED TO [**Hospital1 22**] CATH LAB. CL C'S ONLY RCA 50-60% DISTAL LESION. MOD R/L SIDES ELEVATED PRESSURES, SEVERE PULM HTN, LV SYSTOLIC DYSFUNCTION, APICAL BALLONING WITH ACUTE MYOCARDITIS. CO 2.61, CI 1.48 PA SATS 56%,PCWP 22,PA 70/34 RA 19. IABP PLACED AND PT TRANSFERED TO CCU.
+
+CV: PT ADM IN NSR WITH HR 60-70 NSR, NO VEA NOTED. LEVOPHED ON 0.036MCG/KG/MIN. PT AGITATED, RESTLESS UNMANAGABLE. VERSED GIVEN WITH GOOD CONTROL,BUT DROPPED SBP 80'S. LEVOPHED TITRATED AND NOW AT 0.1MCG/KG/MIN WITH IMPROVING BP. CK 197,MB 26,TROPONIN 1.46.IABP 1:1 WITH ASSIISTED S 95,AUG DIASOLIC 145.CO 2.7,CI 1.49,SVR 1778, PAD'S 35-36 CVP 19.
+
+RESP: MECH VENT # 7.5 ETT ON L. 20 @ LIP. AC 100%,500X18,5 SUCTIONED FOR THICK BLOODY SECRETIONS. BS VERY COURSE AND DIMINISHED. ABG 7.30,44,229,23,-4,99%  FIO2 DECREASED TO 70%,400X26,5 ABG PENDING. TO START MDI'S. BILAT EQUAL BS NOTED.
+
+GI: OGT TO INTERM SUCTION DRAINING SM BLOODY. + OGT PLACEMENT. ABD SOFT. NO STOOL. + BS
+
+GU: U/O > 50CC/HR BUN 14 CREAT 0.9 YELLOW WITHOUT SED.
+
+SKIN: R GROIN IABP/SWAN SITE C/D. PULSES + BILAT DOPPLER. FT BILAT COOL. L SUBCLAVIAN SITE (TRIPLE LUMEN) + HEMATOMA, OUTLINED AND REVIEWED WITH MD'S GELFOAM APPLIED WITH OCCLUSIVE DSG. ON L SIDE NECK HARDENED AREA ? NODE NOTED. ASSESSED BY MD. [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 6349**] SITE WITH SCARRING NOTED ON MIDLINE. R IJ SITE ? ATTEMPTED STICK OOZING BLOOD. PRESSURE DSG APPLIED.
+
+ACCESS: R GROIN SWAN. R/L ARM PHERP. HAS # 18 IV IN R ANT FT. IABP R GROIN.
+
+ID: CORE BODY TEMP 97.4 WBC 19.3
+
+NEURO: ADM TO CCU AGITATED, ATTEMPTING TO PULL OUT LINES. VERSED 1MG IVP X3 DOSES WITH RELIEF, STARTED ON PROPOFOL GTT TITRATED TO 10MCG/KG/MIN. PUPILS 2MM AND BRISK. STRONG COUGH REFLEX NOTED. UNABLE TO FOLLOW COMMANDS. PLANS ARE TO CHG SEDATION TO VERSED AND FENTANYL.
+
+HEME: HCT 35.6 T/C SENT
+
+LABS: I CA 1.01 2 GM CA GLUC INFUSING
+      MAG 1.5 2 GM MAG SULFATE
+      PT 14.5, PTT 38.7 INR 1.4
+
+SOCIAL: DAUGHTER IN WAITING ROOM
+
+DISPOSITION: FULL CODE
+
+A/P: ECHO PLANEED
+     US TODAY TO ASSESS L SUBCLAVIAN HEMATOMA
+      FOLLOW HEMODYNAMICS PER NSG JUDGEMENT
+",,
+8943,17641,11119,0,3484-07-05 17:03:00 EST,3484-07-05 17:05:00 EST,6862,"N",1,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+Pt remains intubated and on the ventilator. Pt remains on AC, some weaning. Pt suctioned for small amounts of thick bloody sputum. Abg good. Specimen pending. Plan: continue to wean pt's settings as tolerated. See careview for additional vent settings and info.
+",,
+8943,17641,11119,0,3484-07-05 18:29:00 EST,3484-07-05 18:48:00 EST,2750,"N",1,"Nursing/Other","CCU Nursing Progress Note 7am-7pm","
+CCU Nursing Progress Note 7am-7pm
+S:  Orally intubated and sedated
+
+O:  Social - Multiple family members [**Name (NI) **] throughout day.  Daughter (not [**Name2 (NI) 4890**]), questioned why pt was here at [**Hospital1 22**] instead of at the [**Hospital1 3140**] where she usually goes.  Pt was d/c from the [**Hospital1 3140**] 2 weeks ago and was referred to hospice care with Morphine and Ativan d/t cancer.  Pt refused hospice as well as morphine and ativan as she was feeling well.  Pt has health care proxy paperwork, but never filled it out.  Family was explained by Dr. [**Last Name (STitle) 3039**] that we will continue care and attempt to wean vent and IABP as tolerated, as well as treat pt for comfort.  Family understands and is very appreciative of care.
+
+ID - T max 99 core.  WBC had been 19 and is down to 13 tonight.  Urine and sputum sent for culture
+
+Resp - cont orally intubated.   Able to wean vent to 50%/400/22br/5 peep with abg 7.41/36/121.  Pt has coarse bs throughout.  Sx q2-4hrs for blood tinged frothy secretions which have lessened in amt throughout day.  Initally oral secretions were tan and copious, now they are significantly lessened.  Sats maintained at 100% throughout day.
+
+CV - HR 60-70's NSR with rare apc's.  K+ 3.3 this afternoon.  To be replaced with 40meq KCl.  Cont on IABP 1:1. Unloading 20-9 points. Levophed dc'd by 9am.  Map's maintained 90-100'.  CO/CI/SVR 4.3/2.3/1563.  Diuresed with 20mg Lasix with u/o approx 700cc.  PAD's 30 down to 27 with diuresis.  CVP 9 to 5/  Able to administer Captopril at 2pm, but subsequent CO/CI/SVR at 4pm 3.8/2.1/1516.  At this time however pt is very sedated (see below). 
+Heparin started at 7am with Ptt 55.2.  Left  unchanged
+Pulses D/- on r IABP leg. /d on l. All extremities are cool.
+
+GU - foley intact to clear yellow urine initially, which is now light tea colored with sediment.
+
+Gi - OGT patent and has been checked for placement.  Initially to low intermittent sx, now is clamped post captopril.  abd is soft with +bs.  
+
+Sedation - Propofol d/c'd and Fentanyl and Versed started.  Titrated up to 50mcgs Fentanyl and 2mg Versed.  Pt continues to be alert and will nod head appropriately.  Also is quite agitated with any movement, suction or positioning, requiring 2cc bolus'. Increased Fentanyl to 75mcgs/hr, but BP is slightly lower.  Dose back to 50mcgs at 7pm.
+
+Access - R IJ pressure dsg is d/i.  L sc TLC continues to ooze despite gelfoam and frequent dsg changes.  Hct down to 32.9 from 35.6.  To rec ultrasound of neck.  R femoral area with VIP swan and IABP.  l radial aline intact.  R wrist angio patent with Heparin.
+
+A:  79yof with cancer admitted with ECG changes, requiring intubation and IABP.
+
+P:  Cont slow wean of vent as tolerated.  Med for comfort with fentanyl and versed.  Cont diurese as necessary, monitoring lytes, check hct's q8hrs, monitor l neck for hematoma, turn and position for comfort, keep family informed of plan per multidisciplinary rounds.
+
+
+",,
+8943,17641,11119,,3484-07-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-7-6**] 8:17 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 11932**]
+     Reason: eval ETT, LSC placement                                     
+     Admitting Diagnosis: ACUTE MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      79F balloon pump s/p stenting, intubated, LSC in unclear position.              
+     REASON FOR THIS EXAMINATION:
+      eval ETT, LSC placement                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PORTABLE LINE PLACEMENT
+     
+     HISTORY:  79-year-old woman with balloon pump, status post stenting,
+     intubated, left subclavian line in unclear position.  Please evaluate tubes.
+     
+     AP SEMI UPRIGHT CHEST [**3484-7-6**] AT 8:40 A.M.:  Comparison is made to previous
+     portable chest done yesterday morning.  There is a new, left subclavian line
+     in place with its tip probably in the superior vena cava.  There is a
+     pulmonary artery catheter that enters the chest from below, and is in the main
+     pulmonary artery.  There is a new NG tube in place with its tip in the
+     stomach.  An aortic balloon pump is in the descending aorta.  There is better
+     aeration of both lung fields.  Increased interstitial markings are still
+     present bilaterally, and there is a large cystic collection of air at the left
+     mid to lower lung zone whose exact location and etiology is unclear.  No
+     definite pneumothorax is seen.
+     
+     IMPRESSION:  Improved aeration of both lungs.  Support tubing in good
+     position, as above.  Collection of air in the left mid to lower lung zone ?
+     location and etiology.
+                                                                           
+
+",,
+8943,17641,11119,0,3484-07-06 03:09:00 EST,3484-07-06 03:13:00 EST,6842,"N",1,"Nursing/Other",,"
+
+RESPIRATORY CARE NOTE: Pt remains intubated and ventilated.Pt on A/C 22/400/.50/+5 tolerating fairly well. Pt has periods of agitation. Breath sounds few rales LLL and diminished squeeks right. Suctioning small to moderate amount bloody sputum. Pt continues with IABP. Plan to possibly wean and extubate pt later today. Continue.
+",,
+8943,17641,11119,0,3484-07-06 04:49:00 EST,3484-07-06 05:10:00 EST,1807,"N",1,"Nursing/Other","nursing progress note 7p-7a","
+nursing progress note 7p-7a
+S:  INTUBATED AND SEDATED
+
+O:  NEURO:  PT. SEDATED ON FENTANYL AND VERSED.  DOES HAVE BREAKTHROUGH AGITATION REQUIRING MICRO BOLUSES OF FENT.  OPENS EYES SPONTANEOUSLY, FOLLOWS SOME SIMPLE COMMANDS.  QUITE AGITATED WITH STIMULATION, BITING ON ETT AND THRASHING ABOUT BED.  
+
+CV:  HR 70'S SR NO VEA.  BP 94/54: GOOD AUG ON IABP.  NOW SET AT 1:2 FOR POSSIBLE D/C.  WHEN AWAKE AND AGITATED SBP UP TO 160-180'S.  LEVO STARTED AT .023 MCG/KG/MIN WHILE ON SEDATION MEDS.  CAPTOPRIL HELD.  HEPARIN AT 500 UNITS/HR.  PTT PENDING THIS AM.  PA 51/21-62/27 CVP 4-8.  CO/CI 4.3/2.38 SVR 1153.  RIGHT GROIN C&D, R/L DP DOPLERABLE, R/L PT PULSE DOPP/ABSENT.  FEET COOL.  
+
+RESP:  VENTED 40%, RATE 22, PEEP 5, AC.  COARSE BREATH SOUNDS.  SUCTIONING FOR BLOODY FROTHY SECRETIONS.
+
+GU:  URINE OUTPUT POOR.  5-15 CC/HR.  URINE AMBER COLORED WITH SEDIMENT.  
+
+GI:  OGT IN PLACE.  CLAMPED.  ABD FLAT, SOFT.  + BOWEL SOUNDS.  
+
+ACCESS:  LEFT SC MULTILUMEN:  SITE OOZING FROM INSERTION SITE AS WELL AS SUTURE SITE.  ELASTOPLAST PRESSURE DRESSING APPLIED.  NO FURTHER BLEEDING NOTED. LEFT RADIAL ALINE INTACT, RIGHT GROIN IABP, PA LINE INTACT.  
+
+A:  S/P CARDIAC CATH REVEALING 60% RCA LESION, NO INTERVENTION AT THIS TIME.  PULM FIBROSIS, RIGHT BREAST CA WITH ? METS TO LUNG AND RIGHT BREAST.
+
+P:  D/C IABP TODAY THEN WEAN TO EXTUBATE.  SOCIAL SVC CONSULT RE; HOSPICE/PALLIATIVE CARE.  REPLETE LYTES AS NEEDED.  FOLLOW I/O ?LASIX VS FLUID.  UPDATE FAMILY/PT. ON PLAN OF CARE PER CCU TEAM, FAMILY MEETING TO DISCUSS CODE STATUS OF PT.  
+",,
+8943,17641,11119,0,3484-07-06 15:57:00 EST,3484-07-06 16:04:00 EST,5241,"N",1,"Nursing/Other",,"
+
+Resp Care
+
+Pt remains intubated and currently vented on A/C 400x18 peep 5 40% with stable oxygenation. Attempted to wean on PSV 15/5 however pt became tachypnic with RR in the mid 50s and Vt 200-300cc. PS increased to 20 in order to minimize WOB but pt remain agitated despite increase in level of support. BS course anteriorly sxing for mod to large amts of thick bloody secretions. PIPs/Plateaus relatively stable post sxn. Will cont with vent support and reassess for readiness to wean.
+",,
+8943,17641,11119,0,3484-07-06 16:58:00 EST,3484-07-06 17:33:00 EST,2750,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE 7AM-7PM","
+CCU NURSING PROGRESS NOTE 7AM-7PM
+S:  Orally intubated and sedated.  
+
+O:  Neuro - Pt requiring sedation of 100mcgs/hr fentanyl and 2mg/hr versed as well as 2-3cc bolus' fentanyl for agitation.  Pt is biting on ETT and is trying to self extubate.  Pt is uncooperative in her care and will nod in the affirmative that she wants the ETT removed when questioned.  Family says that she is alert.  Requiring bilat wrist restraints for safety.  DSR also up.   6 children vss  today, and met at length with Dr. [**First Name (STitle) **].  He explained the situation that pt is in, and it was decided that the team will attempt to wean the ventilator tonight and hopefully extubate tomorrow [**7-7**].  Pt is now DNR, but will not be electively extubated tonight.  Family meeting is planned with Dr. [**First Name (STitle) **] at 10am tomorrow inorder to update them on pt's progress through night.  
+Copy of Health Care proxy obtained and is in chart.   
+
+ID - T max 100.8 po.  WBC 12.8 today
+
+CV - Rec'd pt on Levophed 0.023mcgs/kg/min as well as IABP 1:2 via r groin.  Able to d/c Levophed maintaining MAP's in the 70-80's.  PT changed to 1:3 and tolerated without change in vs.  Pt given 6.25mg Captopril via ogt with co/ci/svr from 5.3/2.9/860 to 4.4/2.43/1345.  Heparin dc/d at 9am in preparation of iapb removal.  PAD's 30 CVP 6-8.
+R groin IABP and R groin swan removed without incident by cardiac fellow.  Pulses d/- on r and were unchanged pre and post  IABP removal.  L pulses d/d.  Bilat feet remain cool.  
+
+Resp - ls are coarse and pt is frequently sx for frothy bloody secretions, requiring NSS instillation for sx. Pt has strong cough and is able to cough up bloody, tan plugs.  Vent on AC 40%/400/22br/5peep with ABG 7.41-35-143, while pt is quietly sedated.  Attempted to wean sedation as well as change to ps/peep, but pt unable to tolerate, as her hr elevated to 130, BP 200/130 and RR 50's.  Pt is now sedated on fentanyl and versed, but AC to 18breaths.
+
+GI- OGT clamped, but placement is confirmed for med instillation.  +bs with soft abd.
+
+GU - foley draining 10-15cc/hr amber urine with sediment.  
+
+Heme - HCT 27.8 at 5am and 28 at 12noon.  Family has been asked for permission to transfuse pt, but at this point, they have refused (some family members are Jehovah witnesses). 
+
+A:  79yof with breast/lung CA is currently intubated and sedated.  Pt is now DNR after discussion with family.  
+
+P:  Attempt to wean vent tonight, but continuing sedation as required.  Family meeting at 10am tomorrow in order to update family.  Cont aggressive sx and pulmonary toileting, turn and position for comfort.  Cont support pt and family as per multidisciplinary rounds.  
+
+
+",,
+8943,,11119,0,3484-07-07 03:22:00 EST,3484-07-07 03:24:00 EST,6842,"N",1,"Nursing/Other",,"
+
+RESPIRATORY CARE NOTE: Pt remains intubated. Pt weaned throughout the night from A/C to MMV 10/700 with PS 25/5/.40 pt tolerating MMV well with the occassional increase in RR but RN titrating sedation. Breath sounds diminished with Rales in LLL. Suctioning small amt bloody secretions. Will try RSBI and continue and wean as tolerated.
+",,
+8943,,11119,0,3484-07-07 03:30:00 EST,3484-07-07 03:57:00 EST,1722,"N",1,"Nursing/Other",,"
+
+CCU NPN
+
+CV: ADEQUATE BP'S OFF ALL PRESSORS. HR 76-96 NSR NO VEA NOTED. BECOMES HYPERTENSIVE WITH ANY STIMULATION OR AGITATION WITH SBP 160-180. MAPS' OVERNOC 65-99.
+
+NEURO: CON'T ON FENTANYL 200MCG AND VERSED 2MG. ATTEMPTED TO WEAN GTT'S SLOWLY, BUT PT BECOMES VERY AGITATED, TRYING TO SIT UP AND PULL OUT ETT. ADDITIONAL FENTANYL BOLUSES GIVEN TO CALM PT. PUPILS 2MM/BRISK. MAE. SHE WILL OPEN HER EYES TO VOICE AND NAME, BUT IS UNABLE TO FOLLOW COMMANDS.
+
+RESP: MECH VENT. RECEIVED PT ON AC 40%,400X18,5, PLAN IS TO WEAN AS TOL. RATE DECREASED TO 14 WITH ADEQUATE ABG'S, ATTEMPTS MADE TO WEAN RATE TO 10, BUT PT SBP ELEVATED 170 HR 101 WITH AGITATION. VENT SETTINGS CHG TO MMV 40%,PS25,PEEP5. PT MUCH MORE COMFORTABLE ABG'S 7.38,37,124,23,-2,98%. SUCTIONED FREQ FOR THICK BLD TINGED SECRETIONS. PT HAS STRONG COUGH REFLEX. BS VERY COURSE BILAT. EQUAL ANT. BS. ETT #7.5 WHICH IS 20 @ L LIP. MDI'S PER RX
+
+GI: OGT CLAMPED. ABD SOFT WITH + BS. NO STOOL THIS SHIFT.
+
+GU: U/O 15-40CC/HR HOUSE STAFF AWARE. LOS + 511. URINE IS AMBER/W/SEDIMENT
+
+SKIN: R GROIN SITE C/D PULSES + BY DOPPLER BIALT. FT COOL
+
+ID: TEMP MAX 100.4 PR
+
+SOCIAL: PT HAS HCP (DAUGHTER) [**Doctor Last Name **], BUT ALL HER CHILDREN AND DAUGHTER IN LAW HAVE BEEN INTO SUPPORT PT. FAMILY MEETING ON [**7-6**] AND FAMILY MEETING SCHEDULED TODAY @ 10AM TO DISCUSS POC FOR PT. CURRENTLY PT IS DNR. SOCIAL SERVICES HAVE ALSO MEET WITH THE FAMILY OVER THE WEEKEND.
+
+HEME: HCT DOWN TO 25.6 NO ACTIVE BLEED NOTED. HOUSE STAFF AWARE. INTERN DR [**Last Name (STitle) **] [**Name (STitle) 56**] HCP FOR CONSENT TO TRANSFUSE. HCP @ THIS TIME DOES NOT FEEL THAT TRANSFUSION IS BENEFICIAL TO PT. TRANSFUSION DEFERRED.
+
+DISPOSITION: DNR
+
+A/P: 79 YR OLD ADM TO [**Hospital1 22**] ON [**7-6**] PMH: PULM FIBROSIS, ? CHF, R BREAST CA. ADV LUNG CA. S/P CATH ON [**7-6**] SHOWING ONLY RCA 50-60% DISTAL,MOD R/L SIDES PRESSURES ELEVATED,SEVERE PULM HTN,APICAL BALLONING WITH MYOCARDITIS. IABP INSERTED CI 1.48,CO 2.61. [**7-6**] SWAN,IABP D/CD PT WEANED OFF LEVOPHED MAINTAINING ADEQUATE BP'S. ATTEMPTED CAPTOPRIL BUT PT DROPPED CO. FAMILY MEETINGS OVER THE WEEKEND REGARDING POC. FAMILY MEETING THIS AM. CON'T PER NSG JUDGEMENT.
+",,
+8943,,11119,0,3484-07-07 14:58:00 EST,3484-07-07 15:02:00 EST,6692,"N",1,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received on CPAP + PS as noted. BS rhonchi throughout; pt suctioned for thick, bloody secretions; MDI given; BS slight coarseness persists. Pt tachypneic in the mid to high 40's at times. PS weaned. Pt extubated to 100% cool aerosol for CMO purposes. 
+",,
+8943,,11119,0,3484-07-07 17:01:00 EST,3484-07-07 17:30:00 EST,1563,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+All children met w/ MD today to discuss POC.  Family stated that pt did not wish to be intubated. Plan made to extubate and if she survives then family wants her home w/ hospice.
+PS weaned to [**10-1**], pt increasingly tachypnic, hypertensive. Sedation increased to Fentanyl 250 mcg/hr and Versed 3 mg/hr. Pt extubated at 1300.  Initially looking uncomfortable, tachypnic. Placed on 100% face tent and over next hr bp drifted down to 110-120's/, hr 110-120 sr. SATS 100%, fio2 dropped to 70%. Now w/ RR 20's, angonal, sats 98%. Remains on Fentanyl 250 mcg/hr, 
+All children, 4 daughters, 2 sons in the room with pt.
+A: Pt extubated, comfortable on versed, fentanyl. CMO
+P: Titrate sedation to comfort
+   Emotional support to family. 
+",,
+8943,,11119,0,3484-07-07 19:36:00 EST,3484-07-07 19:38:00 EST,2800,"N",1,"Nursing/Other","Nursing Progres Note","
+Nursing Progres Note
+   Pt found absent HR and BP. Family at pt bedside when pt expired. House staff notified and up to pronounce pt. Time of death 755.
+",,

@@ -1,0 +1,1072 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8772,6740,,,2580-02-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2580-2-3**]              Discharge Date:   [**2580-2-9**]
+ 
+Date of Birth:  [**2511-2-4**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 856**] 
+Chief Complaint:
+mental status changes
+ 
+Major Surgical or Invasive Procedure:
+Intubation
+ 
+History of Present Illness:
+Mr. [**Known patient lastname **] is a 68 year old nursing home resident with a 
+history of mulit-infarct dementia, alcohol abuse, pulmonary 
+hypertension, and CAD who was admitted to the FICU on [**2580-2-4**] for 
+acute mental status changes.  He has dementia but is very alert 
+at baseline.  On the date of admission, he was unable to be 
+aroused by RN. Head CT done in the emergency department was 
+negative, LP was negative, but chest x-ray demonstrated 
+bilateral pneumonia. CT/angiogram showed left lower lobe 
+pneumonia, no pulmonary embolism, 1cm B hilar lymphnodes, as 
+well as severe emphysema. Was seen by PCP with plans to return 
+to [**Hospital1 1745**] on Abx, but he had progressive deterioration in his 
+mental status.  
+
+He was admitted to the FICU and required intubation for airway 
+protection on [**2-4**].  With the patient stabilized, MRI was 
+performed but did not demonstrate a new stroke.  The patient was 
+extubated on [**2-7**], had improved mental status.
+The thought was that the patient's decline was due to his 
+pneumonia.
+
+At baseline pt speaks, although sometimes has word finding 
+problems, uses walker, dresses and feeds himself.  
+
+ 
+Past Medical History:
+Dementia (multi-infarct)  
+s/p CVA - has residual L hemiparesis 2002  
+Pulm HTN  
+EtOH abuse  
+CAD  
+h/o UTI's  
+ 
+Social History:
+Resident of Provident NH since a CVA in [**2576**].  He has a history 
+of alcohol abuse and unknown tobacco use history.
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+VS:  T 98.9    BP 177/74  HR 86   RR 86  Sat 95% on cool neb
+GEN: Man in bed in NAD
+HEENT: PERRL, NC/AT, MMM,
+CV: RRR nl S1/S2, II/VI systolic murmur
+PUL: scant crackles at left base.
+ABD: NT, +BS, no rebound/guarding
+EXT: no LE edema, RP/DP 2+ b/l
+Neuro: A&Ox person, month, day, ""hospital"".
+CNII-XII intact, Motor [**5-4**] right.  [**5-4**] LUE,  4+/5 LLE.
+ 
+Pertinent Results:
+[**2-5**]:
+EKG: Sinus arrhythmia 
+Borderline first degree AV block 
+Right bundle branch block 
+P-R interval 0.21 
+Since previous tracing, sinus tachycardia absent and axis change 
+seen 
+
+MRI/MRA Head: No evidence of acute infarct. Chronic infarcts in 
+the brain stem and posterior fossa with severe changes of small 
+vessel disease in the periventricular white matter with multiple 
+lacunes in the white matter. No midline shift or hydrocephalus.
+MRA: The head MRA demonstrated normal flow signal within the 
+arteries of anterior and posterior circulation. No evidence of 
+vascular occlusion or high grade stenosis is seen. 
+
+Echo ([**2-4**]): Symmetric left ventricular hypertrophy with 
+hyperdynamic systolic function and mild resting mid-cavity 
+gradient. Moderate pulmonary artery systolic hypertension. No 
+definite 2D or Doppler evidence for endocarditis identified 
+(does not exclude if clinically suggested).  
+
+CT head: No evidence of intracranial hemorrhage or cerebral 
+edema. Note that MRI with diffusion weighted imaging is a more 
+sensitive evaluation for detection of acute stroke.
+
+CT chest: 1) No pulmonary embolism.
+2) Left lower lobe infiltrate, likely pneumonia.
+3) Bilateral emphysematous changes.
+4) 1 cm nodular density along right major fissure. This could be 
+infectious in etiology, but f/u chest CT recommended in 3 
+months.
+5) Hilar and medistinal lymphadenopathy, which could be 
+infectious in origin.
+6) Apparent tracheobronchial thickeening which could represent 
+chronic bronchitis or mucous. 
+
+[**2580-2-3**] 09:30PM   CK(CPK)-487*
+[**2580-2-3**] 09:30PM   CK-MB-7 cTropnT-<0.01
+[**2580-2-3**] 09:25PM   AMMONIA-27
+[**2580-2-3**] 05:33PM   LACTATE-3.3*
+[**2580-2-3**] 04:07PM   TYPE-ART PO2-40* PCO2-44 PH-7.38 TOTAL CO2-27 
+BASE XS-0 INTUBATED-NOT INTUBA
+[**2580-2-3**] 04:07PM   O2 SAT-71
+[**2580-2-3**] 12:03PM   TYPE-ART PO2-65* PCO2-40 PH-7.40 TOTAL CO2-26 
+BASE XS-0
+[**2580-2-3**] 12:03PM   LACTATE-3.1*
+[**2580-2-3**] 12:03PM   O2 SAT-92 CARBOXYHB-1.0 MET HGB-0.5
+[**2580-2-3**] 12:03PM   freeCa-1.26
+[**2580-2-3**] 11:32AM   TYPE-ART PO2-26* PCO2-56* PH-7.31* TOTAL 
+CO2-30 BASE XS--1
+[**2580-2-3**] 11:32AM   LACTATE-4.3*
+[**2580-2-3**] 11:32AM   O2 SAT-34 CARBOXYHB-1.3 MET HGB-0.5
+[**2580-2-3**] 11:32AM   freeCa-1.34*
+[**2580-2-3**] 08:30AM CEREBROSPINAL FLUID (CSF)  PROTEIN-41 
+GLUCOSE-72
+[**2580-2-3**] 08:30AM CEREBROSPINAL FLUID (CSF)  WBC-0 RBC-2* POLYS-4 
+LYMPHS-96 MONOS-0
+[**2580-2-3**] 08:30AM CEREBROSPINAL FLUID (CSF)  WBC-0 RBC-2* POLYS-0 
+LYMPHS-0 MONOS-0
+[**2580-2-3**] 05:30AM URINE  HOURS-RANDOM MAGNESIUM-10.2
+[**2580-2-3**] 05:30AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG mthdone-NEG
+[**2580-2-3**] 05:30AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) **]-1.016
+[**2580-2-3**] 05:30AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0 
+LEUK-NEG
+[**2580-2-3**] 03:30AM   GLUCOSE-121* UREA N-19 CREAT-1.1 SODIUM-140 
+POTASSIUM-4.2 CHLORIDE-102 TOTAL CO2-28 ANION GAP-14
+[**2580-2-3**] 03:30AM   ALT(SGPT)-24 AST(SGOT)-19 CK(CPK)-204* ALK 
+PHOS-43 AMYLASE-80 TOT BILI-0.4
+[**2580-2-3**] 03:30AM   LIPASE-26
+[**2580-2-3**] 03:30AM   cTropnT-<0.01
+[**2580-2-3**] 03:30AM   CK-MB-3
+[**2580-2-3**] 03:30AM   VIT B12-541
+
+[**2580-2-7**] 04:11AM BLOOD WBC-8.2 RBC-4.00* Hgb-11.5* Hct-34.7* 
+MCV-87 MCH-28.8 MCHC-33.2 RDW-14.0 Plt Ct-172
+[**2580-2-7**] 04:11AM BLOOD Plt Ct-172
+
+[**2580-2-7**] 04:11AM BLOOD Glucose-132* UreaN-11 Creat-0.8 Na-143 
+K-3.6 Cl-109* HCO3-29 AnGap-9
+[**2580-2-7**] 04:11AM BLOOD Calcium-8.8 Phos-2.2* Mg-2.0
+
+[**2580-2-5**] 04:21AM BLOOD Cortsol-8.7
+[**2580-2-3**] 03:30AM BLOOD TSH-1.2
+
+ECG: nl axis at 72bpm, w/ RBBB vs ICD
+
+[**2580-2-7**] 04:11AM BLOOD WBC-8.2 RBC-4.00* Hgb-11.5* Hct-34.7* 
+MCV-87 MCH-28.8 MCHC-33.2 RDW-14.0 Plt Ct-172
+[**2580-2-7**] 04:11AM BLOOD Plt Ct-172
+[**2580-2-7**] 04:11AM BLOOD Glucose-132* UreaN-11 Creat-0.8 Na-143 
+K-3.6 Cl-109* HCO3-29 AnGap-9
+[**2580-2-7**] 04:11AM BLOOD Calcium-8.8 Phos-2.2* Mg-2.0
+[**2580-2-4**] 11:31PM BLOOD Lactate-1.6
+
+[**2580-2-3**]: UCx neg
+        BCx NGTD
+        Sputum O/P flora; Cx NGTD
+ 
+Brief Hospital Course:
+68 yo NH resident w/ h/o CVA and multi-infarct dementia who 
+presents with MS changes in setting of pna.  
+
+# MS changes: Etiology of altered MS was most likely secondary 
+to his infection/ sepsis, as LP and initial head CT were 
+negative and vit B12, RPR, TSH were nl.  Neurology was consulted 
+and recommended MRI, which showed no evidence of stroke. Pt's 
+neuro exam continued to improve with improvement of his PNA and 
+oxygenation. He was talking and increasingly oriented and found 
+stable for transfer to the floor.
+Aricept, thiamine, folate were continued and sedatives 
+meds/narcotics were avoided.
+.  
+# PNA with hypoxia: Pt was noted to be and hypoxic in the ED, 
+CXR showed impressive bilat PNA and pt required intubation for 
+airway protection. He was treated with ceftriaxone and azithro. 
+His PNA improved, lactate decreased and he was extubated [**2-7**]. 
+Sputum revealed moderate growth of oropharyngeal flora; no 
+pathogens were isolated. He received aggressive suctioning and 
+chest PT. He will continue antibiotic treatment with levaquin, 
+500mg PO x10days.
+.
+#COPD: Poor air movement on exam and O2 sats in the 89-92 range 
+on 2L. Likely pt has severe emphysema at baseline. He was on 
+supplemental O2 with goal sats 89-92% and received RTC nebs as 
+well as 5 days of prednisone 50mg PO daily (day [**2-5**] on 
+discharge), with no taper.
+.
+# CAD: Pt was noted to have ST depressions in lateral leads on 
+EKG. Unfortunately, there was no prior EKG for comparison. Card 
+mkrs were cycled and he ruled out for MI. ASA was continued and 
+lopressor and captopril were added and titrated up to achieve 
+goal SBP 120s-130s.   
+.
+# DM: Likely steroid-induced. Pt was kept on reg insulin sliding 
+scale while on prednisone. This may be discontinued in 3 days, 
+once he is off prednisone.
+.
+# Abnormal CT finding: 1 cm nodular density along right major 
+fissure. This could be infectious in etiology, but f/u chest CT 
+recommended in 3 months.
+.
+# FEN: Speech and swallow was consulted and recommended pureed 
+solids and nectar-thickened liquids.
+.
+#Oustanding issues needing f/u: Abnormal CT finding (see above). 
+Pt will need f/u CT in 3 months. Currently on insulin sliding 
+scale while on prednisone, but insulin may be stopped once 
+prednisone discontinued.
+.
+#Dispo: Pt was d/c'ed back to [**Hospital1 6510**] House once acute issues 
+were resolved. He will follow-up with Dr.[**Last Name (STitle) **] in 7-10 days 
+after discharge.
+ 
+Medications on Admission:
+Meds:  
+ASA 81  
+Lasix 30 qd  
+Lopressor 12.5 qd  
+Aricept 5 qd  
+Folate 1 qd  
+NTG prn  
+MVI  
+Thiamine  
+Imdur 30 qd  
+Milk of mag  
+.  
+NKDA  
+
+ 
+Discharge Medications:
+1. Ipratropium Bromide 0.02 % Solution Sig: One (1) neb 
+Inhalation Q2-3H (every 2-3 hours) as needed.  
+2. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+3. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+5. Senna 8.6 mg Tablet Sig: Two (2) Tablet PO BID (2 times a 
+day).  
+6. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1) 
+inj Injection TID (3 times a day).  
+7. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+8. Insulin Lispro (Human) 100 unit/mL Solution Sig: One (1) inj 
+Subcutaneous ASDIR (AS DIRECTED) for 3 days: please continue 
+while on prednisone .  
+9. Prednisone 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily) 
+for 3 days.  
+10. Metoprolol Tartrate 25 mg Tablet Sig: 1.5 Tablets PO BID (2 
+times a day).  
+11. Captopril 25 mg Tablet Sig: One (1) Tablet PO TID (3 times a 
+day).  
+12. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) 
+Sig: One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 
+hours).  
+13. Levaquin 500 mg Tablet Sig: One (1) Tablet PO once a day for 
+10 days.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+Provident Skilled Nursing Center - [**Location (un) **]
+ 
+Discharge Diagnosis:
+Bilateral pneumonia
+Altered mental status
+Hypoxia
+dementia
+COPD
+Hypertension
+
+ 
+Discharge Condition:
+stable--at baseline
+ 
+Discharge Instructions:
+Please call your doctor and return to the hospital for incresing 
+confusion, lethargy, fever, chills, shortness of breath, or any 
+other concerning symptoms [**Doctor First Name **] may have.
+
+ 
+Followup Instructions:
+Please follow-up with Dr.[**Last Name (STitle) **] in 7-10 days after discharge.
+
+Please have outpatient CT done in 3 months to evaluate findings 
+on prior CT. 
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 859**] MD [**MD Number 860**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 690**] [**Last Name (NamePattern4) 691**] MD [**MD Number 692**] [**2580-2-9**] @ 1404
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: [**Doctor First Name 46**] [**2580-2-10**] 12:33 PM
+(End of Report)
+
+
+",,
+8772,6740,,,2580-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2580-2-3**] 6:03 AM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 10461**]
+     Reason: unresponsive and febrile- eval for PNA                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      unresponsive and febrile- eval for PNA                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Unresponsive and febrile.  Evaluate for pneumonia.
+     
+     TECHNIQUE: Single portable AP view of the chest was obtained without
+     comparisons.
+     
+     FINDINGS: Cardiac and mediastinal silhouettes appear within normal limits.
+     There are bullous canges seen within both lungs.  There is linear atelectasis
+     seen at the right mid lung zone.  There is hazy opacity at both lung bases,
+     and in this clinical context could represent pneumonia. Patient is rotated
+     towards the left.  Osseous structures appear unremarkable.
+     
+     IMPRESSION: Bibasilar opacity, probably representing pneumonia. Bullous
+     changes of the lungs.
+
+",,
+8772,6740,,,2580-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2580-2-3**] 5:40 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10459**]
+     Reason: bleed                                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with alterned mental status                                     
+     REASON FOR THIS EXAMINATION:
+      bleed                                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 10460**] [**Doctor First Name 114**] [**2580-2-3**] 6:24 AM
+      NO BLEED. MULTIPLE OLD LACUNES.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Mental status change. Evaluate for hemorrhage.
+     
+     TECHNIQUE: Non-contrast CT of the head was obtained without comparisons.
+     
+     FINDINGS: There is no intracranial hemorrhage, mass effect, or shift of
+     normally midline structures. There are diffuse periventricular white matter
+     hypodensities, consistent with chronic microvascular infarction. In addition,
+     several other small areas of hypodensity within both basal ganglia and the
+     cerebellum  have appearances of prior infarctions. The extra-axial spaces
+     appear within normal limits. Grey-white matter differentiation is preserved.
+     There is a scalloped defect in the left frontal outer table of uncertain
+     nature.  Clinical correlation is recommended.
+     
+     IMPRESSION: 1) No evidence of intracranial hemorrhage. 2) Old infarctions. 
+
+",,
+8772,6740,,,2580-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2580-2-3**] 2:25 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 10463**]
+     Reason: INFILTRATES, HYPOXIA, LOW GRADE FEVER, ASSESS BILATERAL PE'S
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with infiltrates, hypoxia and altered mental status, low grade 
+      temps.
+     REASON FOR THIS EXAMINATION:
+      assess for bilateral PE's                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 4427**] [**Doctor First Name 114**] [**2580-2-3**] 3:12 PM
+      no pe. LLL infiltrate. 1cm bilat hilar nodes. extensive emphysema
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Lethargy, hypoxia, low grade fever, altered mental status.
+     
+     COMPARISON:  None
+     
+     TECHNIQUE:  Axial images through the chest prior to and following
+     administration of IV contrast.  Multiplanar reformatted images were obtained.
+     Optiray was administered due to the rapid rate of bolus injection needed.
+     
+     CTA OF THE CHEST:  There is extensive emphysematous changes with multiple
+     bullae, most pronounced within the upper lobes, left greater than right. There
+     is an air space consolidation within the left lower lobe.  There is mild right
+     basilar atelectasis.  No pleural or pericardial effusions.  There is no
+     evidence of filling defect within the pulmonary artery to indicate a pulmonary
+     embolism. There are no pathologically enlarged axillary  lymph nodes. There is
+     a 3 mm, not pathologically enlarged prevascular lymph node. There is a 1 cm
+     left hilar lymph node.  There is also a 1 cm right hilar lymph node and a 1cm
+     AP window node. There is a 1cm nodular opacity along the right major fissure.
+     There is apparent soft tissue thickening around the trachea and bronchi. The
+     airways are patent to the subsegmental bronchi bilaterally.
+     There is calcification and a small area of ulceration of the proximal
+     ascending aorta.
+     Limited views of the upper abdomen show an unremarkable liver, gallbladder,
+     adrenal glands, and kidneys.  There is a calcification within the spleen,
+     which could represent a granuloma.  The pancreas is also unremarkable.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.
+     
+     REFORMATTED IMAGES:  These show the extensive bullae within the lungs.
+     
+     IMPRESSION:  1)  No pulmonary embolism.
+     2)  Left lower lobe infiltrate, likely pneumonia.
+     3)  Bilateral emphysematous changes.
+     4)  1 cm nodular density along right major fissure. This could be infectious
+     in etiology, but f/u chest CT recommended in 3 months.
+     5) Hilar and medistinal lymphadenopathy, which could be infectious in origin.
+     6) APparent tracheobronchial thickeening which could represent chronic
+     bronchitis or mucous.
+                                                                 (Over)
+
+     DATE: [**2580-2-3**] 2:25 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 10463**]
+     Reason: INFILTRATES, HYPOXIA, LOW GRADE FEVER, ASSESS BILATERAL PE'S
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8772,6740,,,2580-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2580-2-3**] 2:25 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 10463**]
+     Reason: INFILTRATES, HYPOXIA, LOW GRADE FEVER, ASSESS BILATERAL PE'S
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with infiltrates, hypoxia and altered mental status, low grade 
+      temps.
+     REASON FOR THIS EXAMINATION:
+      assess for bilateral PE's                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 4427**] [**Doctor First Name 114**] [**2580-2-3**] 3:12 PM
+      no pe. LLL infiltrate. 1cm bilat hilar nodes. extensive emphysema
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Lethargy, hypoxia, low grade fever, altered mental status.
+     
+     COMPARISON:  None
+     
+     TECHNIQUE:  Axial images through the chest prior to and following
+     administration of IV contrast.  Multiplanar reformatted images were obtained.
+     Optiray was administered due to the rapid rate of bolus injection needed.
+     
+     CTA OF THE CHEST:  There is extensive emphysematous changes with multiple
+     bullae, most pronounced within the upper lobes, left greater than right. There
+     is an air space consolidation within the left lower lobe.  There is mild right
+     basilar atelectasis.  No pleural or pericardial effusions.  There is no
+     evidence of filling defect within the pulmonary artery to indicate a pulmonary
+     embolism. There are no pathologically enlarged axillary  lymph nodes. There is
+     a 3 mm, not pathologically enlarged prevascular lymph node. There is a 1 cm
+     left hilar lymph node.  There is also a 1 cm right hilar lymph node and a 1cm
+     AP window node. There is a 1cm nodular opacity along the right major fissure.
+     There is apparent soft tissue thickening around the trachea and bronchi. The
+     airways are patent to the subsegmental bronchi bilaterally.
+     There is calcification and a small area of ulceration of the proximal
+     ascending aorta.
+     Limited views of the upper abdomen show an unremarkable liver, gallbladder,
+     adrenal glands, and kidneys.  There is a calcification within the spleen,
+     which could represent a granuloma.  The pancreas is also unremarkable.
+     
+     BONE WINDOWS:  There are no suspicious osteolytic or sclerotic lesions.
+     
+     REFORMATTED IMAGES:  These show the extensive bullae within the lungs.
+     
+     IMPRESSION:  1)  No pulmonary embolism.
+     2)  Left lower lobe infiltrate, likely pneumonia.
+     3)  Bilateral emphysematous changes.
+     4)  1 cm nodular density along right major fissure. This could be infectious
+     in etiology, but f/u chest CT recommended in 3 months.
+     5) Hilar and medistinal lymphadenopathy, which could be infectious in origin.
+     6) APparent tracheobronchial thickeening which could represent chronic
+     bronchitis or mucous.
+                                                                 (Over)
+
+     DATE: [**2580-2-3**] 2:25 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 10463**]
+     Reason: INFILTRATES, HYPOXIA, LOW GRADE FEVER, ASSESS BILATERAL PE'S
+      Contrast: OPTIRAY Amt: 100CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8772,6740,,,2580-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2580-2-3**] 10:47 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 10462**]
+     Reason: eval please                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       68 year old man with                                                           
+       
+     REASON FOR THIS EXAMINATION:
+      eval please                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 68-year-old male with pneumonia.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     The comparison is made with a prior chest radiograph taken 4 hours earlier on
+     the same day, [**2580-2-1**].
+     
+     FINDINGS:
+     
+     Note is made of left lower lobe consolidation, slightly increased compared to
+     the prior study, representing pneumonia.  The mediastinal and cardiac contours
+     are unchanged.  Mildly thickened interstitial markings noted.  Again note is
+     made of bullous change and emphysema.
+     
+     IMPRESSION:
+     
+     Increased left lower lobe consolidation, probably representing pneumonia,
+     possibly due to aspiration.  Bullous changes.
+                                                                           
+
+",,
+8772,6740,,,2580-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2580-2-3**] 10:47 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 10462**]
+     Reason: eval please                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       68 year old man with                                                           
+       
+     REASON FOR THIS EXAMINATION:
+      eval please                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 68-year-old male with pneumonia.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     The comparison is made with a prior chest radiograph taken 4 hours earlier on
+     the same day, [**2580-2-1**].
+     
+     FINDINGS:
+     
+     Note is made of left lower lobe consolidation, slightly increased compared to
+     the prior study, representing pneumonia.  The mediastinal and cardiac contours
+     are unchanged.  Mildly thickened interstitial markings noted.  Again note is
+     made of bullous change and emphysema.
+     
+     IMPRESSION:
+     
+     Increased left lower lobe consolidation, probably representing pneumonia,
+     possibly due to aspiration.  Bullous changes.
+                                                                           
+
+",,
+8772,6740,10909,0,2580-02-03 20:55:00 EST,2580-02-03 21:10:00 EST,1119,"N",69,"Nursing/Other",,"
+
+
+Nursing Admission Note
+
+FULL CODE   Universal Precautions
+
+
+68 yr old male resides at Privident NH for past 2 years after stroke (has L hemiparesis ) and is usually mildly demented, but alert, able to walk, dress, shower w/ assistance.  Today, staff unable to arouse him and he was thrashing his arms about when shaken.  In ED, 02sat 89% on R/A.  Recieved narcan wpon arrival to ED w/ no effect. CTA neg for PE, but did show bilat PNA, LP neg, tox screen neg, blood cx sent.  Neuro consult done in ED.  T 101.4, recieved tylenol 650mg pr and Temp <to 99.8; given Rocephin.  Lactate=3.3. Pt in ER now on simple mask w/ 02sat 99-100%, remains upresponsive.  
+",,
+8772,6740,10909,,2580-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2580-2-4**] 8:46 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 10465**]
+     Reason: please evaluate for ptx                                     
+     Admitting Diagnosis: LETHARGY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         68 year old man with COPD presents w/ MS changes, pna, intubated now with 
+      with failed left subclavian catherization trial and successful left ij 
+      placement.                                                           
+     REASON FOR THIS EXAMINATION:
+      please evaluate for ptx                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Compared to previous study of earlier the same date.
+     
+     This is a repeat dictation for previously report.
+     
+     CLINICAL INDICATION:  Line placement.
+     
+     Since the recent study of the same date, a left internal jugular catheter has
+     been placed, and terminates within the superior vena cava.  Endotracheal tube
+     and nasogastric tube remain in satisfactory position.  Overall, with the
+     exception of line placement, there has been no significant change since the
+     recent study of the same date.
+     
+
+",,
+8772,6740,10909,,2580-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8772,6740,10909,,2580-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8772,6740,10909,,2580-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2580-2-4**] 8:46 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 10465**]
+     Reason: please evaluate for ptx                                     
+     Admitting Diagnosis: LETHARGY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         68 year old man with COPD presents w/ MS changes, pna, intubated now with 
+      with failed left subclavian catherization trial and successful left ij 
+      placement.                                                           
+     REASON FOR THIS EXAMINATION:
+      please evaluate for ptx                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Compared to previous study of earlier the same date.
+     
+     This is a repeat dictation for previously report.
+     
+     CLINICAL INDICATION:  Line placement.
+     
+     Since the recent study of the same date, a left internal jugular catheter has
+     been placed, and terminates within the superior vena cava.  Endotracheal tube
+     and nasogastric tube remain in satisfactory position.  Overall, with the
+     exception of line placement, there has been no significant change since the
+     recent study of the same date.
+     
+
+",,
+8772,6740,10909,,2580-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2580-2-4**] 2:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10464**]
+     Reason: s/p intubation, ETT placement                               
+     Admitting Diagnosis: LETHARGY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        68 year old man with COPD presents w/ MS changes and PNA intubated for 
+      airwayprotection                                                           
+     REASON FOR THIS EXAMINATION:
+      s/p intubation, ETT placement                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest AP single view portable examination.
+     
+     INDICATION:  History of COPD, presents with mental status changes and
+     pneumonia, intubated for airway protection.  Confirmed position.
+     
+     FINDINGS:
+     
+     AP single view of the chest obtained with the patient in supine position
+     demonstrates the presence of an ETT terminating in the trachea some 6 cm above
+     the carina.  An NG tube is present, seen to reach below the diaphragm.  There
+     is no pneumothorax or any other effacement related complication.  The AP
+     single view is compared with a previous similar portable chest examination
+     dated [**2580-2-3**] and the previously identified density in the left lower lobe
+     retrocardiac location persists.  Also, unchanged is a density in the right
+     apical area most likely representing old scar formations.
+     
+     IMPRESSION:
+     
+     Uncomplicated intubation correct position of NG tube.
+                                                                           
+
+",,
+8772,6740,10909,,2580-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2580-2-4**] 11:53 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10466**]
+     Reason: evaluate for herniation                                     
+     Admitting Diagnosis: LETHARGY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with altered mental status, concerning for stroke and possible 
+      edema/risk of herniation
+     REASON FOR THIS EXAMINATION:
+      evaluate for herniation                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Mental status changes, concerning for stroke and edema.
+     
+     TECHNIQUE: Noncontrast CT of the head was performed, compared with the
+     examination performed yesterday.
+     
+     FINDINGS: There is no intracranial hemorrhage, mass effect, or shift of
+     normally midline structures. Ventricles, cisterns, and sulci appear within
+     normal limits.  There is no sign of cerebral edema.  There are diffuse
+     periventricular white matter hypodensities consistent with chronic
+     microvascular angiopathy.  In addition, multiple foci of focal hypodensities
+     are seen within both basal ganglia, suggesting multiple prior lacunar
+     infarctions.  There is mucosal thickening of the ethmoid sinuses.  Examination
+     of osseous structures show a focal cortical defect of the left frontal bone,
+     which appears to be chronic in nature.
+     
+     IMPRESSION: No evidence of intracranial hemorrhage or cerebral edema.  Note
+     that MRI with diffusion weighted imaging is a more sensitive evaluation for
+     detection of acute stroke.
+
+",,
+8772,6740,10909,0,2580-02-04 01:12:00 EST,2580-02-04 01:31:00 EST,1119,"N",69,"Nursing/Other",,"
+
+
+FULL CODE   Universal Precautions    NKDA
+
+
+SEE PREVIOUS DAY FOR ADMISSION HISTORY
+
+
+Neuro:  Pt arrived to M/SICU at 2200 awake, but lethargic.  Speech is thick/garbled.  When asked where he was or the date, his answers were garbled, but didn't relfect the right answers.  When asked the month, he did say 'June'.  He follows commands and is moving all extrems x4 spont; continually pulling on his shirt; pt becomes even more agitated w/ nursing care/suctioning.  Pupils 2mm/sluggish bilat.
+
+CV:  HR=100s, ST w/ BBB, no ectopy.  BP 160-180s/80s.  +periph pulses, extrems warm, no edema.
+
+Resp:  Pt arrived on simple face mask at 8L w/ 02sat 97-99%.  BS extremely coarse bilat w/ very congested cough/breathing.  Suctioned orally for thick tan/yellow/bilious secretions that looked like tube feeds (but pt not on TF).  Sputum cx sent.  Nasal trumpet placed for eaiser suctioning and changed to face tent 70%, still satting in the high 90s.
+
+GI/GU:  Abd firm, hypo BS, no BM, NPO except meds/sips H20.  I have not attempted to have him drink anything as of yet.  Mouth care done.  Foley cath w/ clear yellow urine.
+
+Access:  #18 PIV w/ NS at 125cc/hr
+
+Skin: intact
+
+Pain: does not appear uncomfortable.
+
+Social:  No family w/ pt upon arrival and no phone calls tonight.  Son was w/ pt in ED and went home upon pt's Tx from ED per ED staff.
+
+Plan:  Aggessive pulm toilet w/ CPT and NT suctioning, maintatining 02sat.  Reorient freq.  Monitor cardiac/neuro/resp status.  Echo and EKG to be done this am.
+",,
+8772,6740,10909,0,2580-02-04 17:14:00 EST,2580-02-04 17:18:00 EST,69,"N",69,"Nursing/Other",,"
+
+Patient DX: Pneumonia electively intubated for MRI has copious amount of thick tan secretion.# 7.5 @ 23 cm sedated at moment febrile bS coarse will continue to follow.
+",,
+8772,6740,10909,0,2580-02-04 18:52:00 EST,2580-02-04 19:13:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 7:00-19:00","
+micu/sicu nsg note: 7:00-19:00
+events: pt became unresponsive by 11:20am with copious secretions suctioned out via nts of r nare-very tan,bloody looking sputum. sample sent for nasopharyngeal aspirate to r/o influenza-ruled out. (pt was placed on droplet precautions but now d/c'd). team decided to intubate pt by 1:45pm to protect pt's airway. pt became very hypertensive shortly after intubation with sbp up to 210. pt had missed all am meds and had received 5mg iv lopessor in am when sbp in 160s which brought bp down to 120s. pt received an additional 5mg iv lopressor with sbp stable in the 120s in the afternoon until pt sent down to mri and sbp went down to the 60s. pt was given total of 500cc ns bolus and brought back up to [**Hospital Ward Name **] 4. team presently placing central line and to then place aline and send a repeat abg. pt also febrile in afternoon. team to obtain bld cxs x2. 
+
+neuro: pt currently sedated on fentanyl 12.5mcg/hr and versed .5mg/hr. pt responds to stimuli such as suctioning by moving his head and arms but doesn't open eyes. r pupil 1 sluggish, l pupil 2 sluggish. bilat wrist restraints applied to prevent pt pulling at ett. 
+
+cv: hr ranging 81-102 sr/st with no ectopy. bp ranging 100-210/50-110. one episode of hypotension with sbp in 60s at mri responding to 500cc ns fluid bolus (see events). + weak palpable pp. 
+
+resp: intubated on ac: .4x500x12+5. last abg 7.38/46/78. suctioned q1-2hrs for very thick moderate to copious tan/bloody pudding like secretions-team aware of this. sputum cx pending. 
+
+gi/gu: abd soft/distended, +bs, ogt in place with no residuals. foley patent draining clear yellow urine with >60cc/hr until 6pm <10cc/hr. team aware. continue to watch. 
+
+skin: cwd&i. no skin breakdown noted.
+
+id: t max 100.8. no tylenol per team while down at mri,watch if spikes higher. current temp 100.4ax. pt currently receiving iv azithromycin for pna, iv vanco added to cover for possible mrsa as pt from provident nsg home per team. 
+
+lines: [**Last Name (un) **] #18g, rla #20g, r hand #20g patent. 
+
+plan: send abg once aline in place, team placing central line, continue to monitor bp closely, no more beta blockers per team, monitor temp, send bld cx x2 once line in place. pt to have mri later tonight once stable. monitor u.o., continue maintenance ivf ns at 100cc/hr. continue ivabx. 
+",,
+8772,6740,10909,,2580-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2580-2-5**] 12:39 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10467**]
+     Reason: ET tube position.                                           
+     Admitting Diagnosis: LETHARGY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          68 year old man with COPD presents w/ MS changes, pna, intubated. advanced 
+      ET tube
+     REASON FOR THIS EXAMINATION:
+      ET tube position.                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  COPD, mental status changes.
+     
+     CHEST:  The tip of the endotracheal tube has been advanced but still lies
+     somewhat high in the region of the thoracic inlet.  The tip of the left IJ
+     line is unchanged in position.  Bilateral basilar infiltrates are present more
+     marked than on the prior occasion suggesting worsening pneumonia.
+     
+     IMPRESSION:
+     
+     Bilateral basilar infiltrates worse than on the prior chest x-ray.
+                                                                           
+
+",,
+8772,6740,10909,,2580-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2580-2-5**] 9:08 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 10468**]
+     Reason: stroke? please perform with diffusion weighted (stroke [**Last Name (un) 3268**]
+     Admitting Diagnosis: LETHARGY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with history of CVA, now with acute mental status change.       
+     REASON FOR THIS EXAMINATION:
+      stroke? please perform with diffusion weighted (stroke protocol)                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Patient with history of CVA, now with acute mental
+     status changes.
+     
+     TECHNIQUE:  T1 sagittal and FLAIR T2 susceptibility and diffusion axial images
+     were obtained.  3D time-of-flight MRA of the circle of [**Location (un) 220**] was acquired.
+     
+     FINDINGS
+     
+     BRAIN MRI:  On diffusion images, no evidence of restricted diffusion is seen.
+     There is evidence of chronic infarcts in both cerebellar hemispheres, as well
+     as in the pons and left middle cerebellar peduncle.  There is evidence of
+     atrophic changes in the pons.  There is moderate prominence of the ventricles
+     and sulci indicating brain atrophy.  Moderate-to-severe changes of small
+     vessel disease are seen in the periventricular white matter with multiple
+     small chronic lacunes in the white matter.  There is no evidence of blood
+     products seen.
+     
+     IMPRESSION:  No evidence of acute infarct.  Chronic infarcts in the brain stem
+     and posterior fossa with severe changes of small vessel disease in the
+     periventricular white matter with multiple lacunes in the white matter.  No
+     midline shift or hydrocephalus.
+     
+     MRA HEAD:  The head MRA demonstrated normal flow signal within the arteries of
+     anterior and posterior circulation.  No evidence of vascular occlusion or high
+     grade stenosis is seen.
+
+",,
+8772,6740,10909,,2580-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2580-2-5**] 9:08 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 10468**]
+     Reason: stroke? please perform with diffusion weighted (stroke [**Last Name (un) 3268**]
+     Admitting Diagnosis: LETHARGY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old man with history of CVA, now with acute mental status change.       
+     REASON FOR THIS EXAMINATION:
+      stroke? please perform with diffusion weighted (stroke protocol)                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Patient with history of CVA, now with acute mental
+     status changes.
+     
+     TECHNIQUE:  T1 sagittal and FLAIR T2 susceptibility and diffusion axial images
+     were obtained.  3D time-of-flight MRA of the circle of [**Location (un) 220**] was acquired.
+     
+     FINDINGS
+     
+     BRAIN MRI:  On diffusion images, no evidence of restricted diffusion is seen.
+     There is evidence of chronic infarcts in both cerebellar hemispheres, as well
+     as in the pons and left middle cerebellar peduncle.  There is evidence of
+     atrophic changes in the pons.  There is moderate prominence of the ventricles
+     and sulci indicating brain atrophy.  Moderate-to-severe changes of small
+     vessel disease are seen in the periventricular white matter with multiple
+     small chronic lacunes in the white matter.  There is no evidence of blood
+     products seen.
+     
+     IMPRESSION:  No evidence of acute infarct.  Chronic infarcts in the brain stem
+     and posterior fossa with severe changes of small vessel disease in the
+     periventricular white matter with multiple lacunes in the white matter.  No
+     midline shift or hydrocephalus.
+     
+     MRA HEAD:  The head MRA demonstrated normal flow signal within the arteries of
+     anterior and posterior circulation.  No evidence of vascular occlusion or high
+     grade stenosis is seen.
+
+",,
+8772,6740,10909,0,2580-02-05 05:36:00 EST,2580-02-05 05:56:00 EST,953,"N",69,"Nursing/Other","MICU NPN 1900-0700","
+MICU NPN 1900-0700
+Events:  TLCL placed to Left IJ after multiple attempts to left SC.  Pt to CT scan, uneventful, results pending.  MRI on hold as exam not urgent and would have had to be done on west campus.  BP stable overnight.  Rec'd multiple fluid boluses for low u/o and to keep CVP >8.
+
+Neuro:  Rec'd pt on minimal sedation.  Pt responsive to painful stimuli.  Sedation off for 1 hour and pt coughing and agitated.  Versed turned back on for CT scan continues running at 0.5mg/hour.  Pt arousable to voice, following some commands this morning.  Spontaneous movement of all extremities noted.  No evidence of pain.
+
+CV:  HR 60's-90's, SR, no ectopy noted.  BP 90's-140's/60's, MAP >65.  Aline not placed due to BP stability.  Antihypertensives d/c'd.  Initial CVP with line insertion 6.  Rec'd total of 2500cc NS IV bolus to keep CVP >8.  Maintenance fluid NS@125cc/hour.  K+ 3.5, will replete.
+
+Resp:  LS's diminished throughout.  Remains intubated on AC 550X18, PEEP 5, FiO2 40%.  O2 sat >96% on these settings.  Suctioned for small to moderate amounts of tan/pink secretions.   SBT attempted this am, but pt without spont respirations.
+
+GI:  Abd softly distended with +BS's.  OGT clamped, accidentally removed with advancement of ETT, replaced and confirmed by auscultation and x-ray.  No BM this shift.
+
+GU:  Foley draining clear yellow urine in marginal amounts.  Output ranging from 10-100cc/hour.  Good response with IV boluses.
+
+ID:  Blood cx sent from C-line and peripheral.  Remains on azithromycin, vancomycin, and ceftriaxone.  Afebrile overnight.  WBC 8 this am.
+
+Skin:  No breakdown noted to backside.  Turned and repositioned.  
+
+Soc:  No family contact overnight.  Nurse from pt's nursing home phoned for update.  She reported that pt's son can be difficult at times.  
+
+Plan:  Possible extubation today.  Cont to monitor MS, VS's, I&O, labs, and resp status.  Follow-up results of CT scan.  ?cancel MRI as pt's neuro exam seems to be improving.
+",,
+8772,6740,10909,0,2580-02-05 05:37:00 EST,2580-02-05 05:40:00 EST,731,"N",69,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated on A/C overnoc. Fio2 weaned down to 40%. Transported to C-Scan without incidence. Suctioned x 1 for thick tan sputum. ET advanced to 24 @ lip per Dr. [**Last Name (STitle) 231**]. Maintain current vent settings.
+",,
+8772,6740,10909,0,2580-02-05 17:17:00 EST,2580-02-05 17:41:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 7:00-19:00","
+micu/sicu nsg note: 7:00-19:00
+events: pt only responding to painful stimuli this am. had mri this am requiring total of 5mg versed due to agitation during exam. mri results showed no new stroke, no sig. findings per team. pt off sedation since mri done around 11am. pt weaned to psv this afternoon and tolerating well with 5 ps, 5 peep with rr 12-13, tidal volumes of 300-500, sats 96-98%. pm k=3.7, being repleted with 40 meq iv kcl. afebrile on po azithromycin for pna and iv vanco and ceftriaxone for empiric coverage (nsg home pt).
+
+neuro: pt now opening eyes to nsg interventions such as turning and suctioning and sometimes able to follow commands such as able to squeeze my hand with his r and l hand and able to wiggle his r toes. no l leg movement noted. r pupil pinpoint sluggish, l pupil 2 brisk. bilat wrist restraints maintained as pt attempted to reach for tube once while being turned.
+
+cv: hr ranging 67-90 sr with no ectopy noted. bp ranging 107-136/51-79. + difficult to palpate pedal pulses. + radial pulses. all extremities sl cool. 1+ hand edema, trace pedal edema. cvp 8-12.
+
+resp: currently on psv: 5 peep, 5 ps with rr 12-20, with tidal volumes of 300-400 while more lethargic, up to 800 while more arousable. sp02 ranging 95-98%. suctioned q2-3hrs down ett and down back of throat for rusty/tan thick pudding like sputum. md to draw abg this eve.
+
+gi/gu: abd now firm/distended but with +bs. ogt clamped, in place, with no residuals. given sennakot and dulcolax via ogt with no bm. foley patent draining 40-150cc/hr clear yellow urine. urine cx sent. results pending. 
+
+skin: cwd&i with no breakdown noted. repositioned side to side frequently. 
+
+id: t max 96.7 ax. continues on po/iv abx. all cx still pending. 
+
+lines: rua #20g, r hand #20g patent, mult. l ij patent. 
+
+social: pt's 2 sons and 2 friends in to visit with pt. pt's son [**Doctor First Name **] to visit with pt again at 7:30pm. family up to date with plan of care/mri results. 
+
+plan: continue to monitor mental status closely, may give haldol prn for agitation before using versed per team.  continue psv as tolerated with hope to extubate tomorrow if pt's mental status improves and doesn't require vigorous suctioning per team. cont. to monitor lytes/replete  prn. keep u.o. > 35cc/hr, keep map >65, cvp goal [**8-11**], follow up with micro data. 
+",,
+8772,6740,10909,0,2580-02-05 18:09:00 EST,2580-02-05 18:14:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note addendum: 7:00-19:00","
+micu/sicu nsg note addendum: 7:00-19:00
+6pm abg: 7.40/37/71. per team, will keep pt on 5 psv, 5 peep overnight. team to reassess ability to extubate pt in am if pt's mental status continues to improve with decreased amt of secretions needing to be suctioned.
+",,
+8772,6740,10909,0,2580-02-05 18:17:00 EST,2580-02-05 18:19:00 EST,102,"N",69,"Nursing/Other",,"
+
+resp care
+remains intub/vent support d/t altered ms,pneumonia. changed to psv 5/5 after rsbi 45. tolerating well, abg within acceptable limits. breathing comfortably on [**5-4**] but will increase ps if needed overnoc with goal of extubation in a.m. pt earlier transported to MRI, airway/ventilatory status stable.
+",,
+8772,6740,10909,0,2580-02-06 04:35:00 EST,2580-02-06 04:58:00 EST,953,"N",69,"Nursing/Other","MICU NPN 1900-0700","
+MICU NPN 1900-0700
+General:  Pt with uneventful night.  Tolerated PSV throughout the night.  One episode of pt coughing and suctioned for large amounts of thick tan secretions.  
+
+Neuro:  Pt off sedation, arousable to voice, calm and cooperative.  Follows commands, MAE's.  Ordered for PRN haldol yesterday, but pt did not require any overnight.  Denies pain.
+
+CV:  HR 80's-100's, SR, no ectopy noted.  BP 130's-150's/70's.  CVP 8-12.  Maintenance fluid stopped for euvolemia.
+
+Resp:  LS's diminished throughout.  Vented on PS 5/5, FiO2 40% with O2 sat >96%.  One episode of coughing with suctioning as above, unable to suction secretions otherwise.  RSBI this am 33.
+
+GI:  Abd distended, soft but firmer than it has been.  OGT in placed clamped.  No BM this shift despite receiving bowel meds yesterday.
+
+GU:  Foley draining qs amounts of clear yellow urine.
+
+Endo:  BS's wnl, not requiring SS coverage.
+
+ID:  Remains on vanco, azithromycin and cefepime.  WBC pending.  Afebrile.
+
+Skin:  No breakdown noted to backside.  Turned and repositioned.
+
+Social:  Pt's son visiting in the evening.  Is interested in speaking with case management on Monday in order to set up home care.  He does not want the patient to go back to nursing home.
+
+Plan:  Cont to monitor VS's, I&O, labs, mental status and resp status.  Most likely will extubate today.  
+",,
+8772,6740,10909,0,2580-02-06 05:37:00 EST,2580-02-06 05:39:00 EST,731,"N",69,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated on IPS [**5-4**] 40%. VT 400-500's. RSBI 33 this am. Suctioned and lavarged for thick tan sputum. Possible extubation this am.
+",,
+8772,6740,10909,0,2580-02-06 19:06:00 EST,2580-02-06 19:24:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 7:00-19:00","
+micu/sicu nsg note: 7:00-19:00
+events: pt's mental status remained greatly improved with pt able to open eyes to voice, follow commands appropriately, initiate a cough. extubated at 9am and maintaning sats in mid  to high 90s after nts x1 after extubation. remains with impaired gag/npo, awaiting swallow study in am. 
+
+neuro: alert, opening eyes to voice, r pupil 2 brisk, l pupil 3 brisk. following commands appropriately, calm and cooperative. able to move all extremities well with sl weak grasps, foot pushes, l side weaker than the left. bilat wrist restraints loosely on still due to pt attempting to pull off 02 at times. 
+
+cv: hr ranging 81-94 sr with no ectopy noted. bp ranging 144-84/68-88. pt given 12.5mg iv lopressor at 5:30pm with sbp now in the 150s. +weak pp, extremities sl cool. 
+
+resp: extubated at 9am (see events). sp02 currently in the high 90s, pt denies sob. last nts this am for thick rusty/tan secretions. pt encouraged to cough and deep breathe frequently and cpt given. pt with very weak cough. 
+
+gi/gu: abd soft/distended, +bs, npo due to impaired gag. pt placed on maintenance ivf d5 1/2 ns at 125cc/hr. speech/swallow eval ordered for tomorrow. will also need nutrition consult. team aware pt will need ngt placed for meds/possible tube feedings for nutrition. foley patent draining >35cc/hr of clear yellow urine. 
+
+skin: cwd&i. no breakdown noted.
+
+id: t max 98.1 po, azithromycin changed to iv, remains on iv ceftriaxone. 
+
+endo: fs stable with no coverage needed.
+
+lines: rua piv #20g patent, r hand #20g patend, lij patent- dsg changed.
+
+social: sons in to visit pt. sons would like to speak with rn case manager tomorrow to assist in getting help to set up home care for pt as they don't want to have pt go back to provident nsg home. pt will need a PT consult/home safety eval. 
+",,
+8772,6740,10909,0,2580-02-07 05:43:00 EST,2580-02-07 06:16:00 EST,995,"N",69,"Nursing/Other",,"
+
+D  Neuro: alert and oriented x2 . pt MAE. PERL 2-4mm.  pt talking more clearly currently. responds appropriately is calm and cooperative.  ass
+.ist with turns. 
+
+CV: 80-90 NSR SBP > 160 discussed with DR [**Last Name (STitle) **]. lopressor changed to 2.5mg q6 from BID.  with minimal effect. DP/PT palp. RIJ CVP 8-10 currently.
+
+Lung: pt initilyy not taking deep [**Last Name (un) 6157**] at all attempted to instruct pt on use on IS . BS diminished throughout. RT gave NEB and CPT, TCDB and NT suctioned x1 for thick white sputum. later in shift Pt less lethargic. TCDB better and able to use IS. pt had a good cough but no sputum expectorated.   FM changed to FT SAT > 94.  lungs clear - course in upper lobes and coase to diminished in bases . 
+
+GI: ABD distended. BS present.  NO N/V NO NG pt NPO until after speech and swallow order for tommorow.  pt has a gag.
+
+ GU: foley to gravity > 50 an hour clear yellow urine.
+Skin : intact no redness or break down noted. 
+
+A stable.
+P continue to monitor closely both hmodynamics and nuerologic . repleat lytes as indicates. TCDB and incourage the use of IS.   
+
+",,
+8772,6740,10909,0,2580-02-07 17:34:00 EST,2580-02-07 17:39:00 EST,379,"N",69,"Nursing/Other","MSICU NPN 0700-1900","
+MSICU NPN 0700-1900
+
+
+see flowsheet for further details...
+
+A&O x2. Pleasant and cooperative. Occ takes O2 mask off but maintaining adequate O2sats. Strong cough. No NT suctioning required.
+OOB-chair x 6hrs. Tol very well. Followed by PT.
+
+Afebrile. IV steroids changed to po.
+
+Lopressor changed to po. Bedside swallowing study done. Able to take pills whole w/applesauce. Purree diet. Thickened liquids. IVF at 125cc/hr. Plan to dc when PO intake adequate.
+
+Stable FSs on SS RI.
+
+Visitors in. [**Name2 (NI) **] to transfer out of unit when bed available.
+
+
+
+",,
+8772,6740,10909,0,2580-02-08 07:02:00 EST,2580-02-08 07:12:00 EST,1014,"N",69,"Nursing/Other",,"
+
+npn 7p-7a (see alsoe carevue flownotes for objective data)
+
+dx: LLL pna; s/p extubation [**2-6**];
+
+neuro:
+pt alert w/a, oriented only to person, verbalizations show confusion;
+
+c-v
+pt somewhat hypertensive (170's) at beginning of shift; noted is pt's med hx +htn; imrpoved w/ receiving lopressor 25 mg PO (at 22:30), sbp down to 150's following, and for most of the night; hrt NSR, no ectopy;
+
+resp:
+pt kept taking of mist mask O2, therefor tried on n.c O2, tirated overnight between 2-4 l/min, according to O2 sat; received alb/atrov nebs at 2a and 7a; pt refused to cough at request, stated ""he wouldn't be able to quit""; O2 sat adequate w/ 2-3 l/min much of the night;
+
+g-i:
+pt w/ advanced diet, though hasn't received yet; tolerated swallowing pills with water; thickened liquids in room;
+   did have 1 mod/lg formed stool at approx 2a; pt appeared unable to communicate this to nurse ahead of time, found when turning pt;
+
+g-u:
+excellent urine output overnight via patent foley; after current litre of IVF D5 [**1-2**] at 125 cc/hr, team will decide further IVF orders;
+
+access:
+left neck cvl patent; periph IV's patent;
+
+PLAN:
+Pt is c/o to floor;
+
+needs K+ supplementation for a.m. serum K+
+
+
+",,

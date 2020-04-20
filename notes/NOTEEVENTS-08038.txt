@@ -1,0 +1,591 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8038,,,,2645-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-9-19**] 12:31 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 4070**]
+     Reason: eval for infiltrates                                        
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with COPD, long term steroid use admitted with chills, sweats 
+      and shortness of breath
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrates                                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT CHEST, [**2828-9-19**]:
+     
+     INDICATION:  COPD.  Steroid use.  Chills and sweats.
+     
+     Multidetector CT of the chest was performed without intravenous or oral
+     contrast.  Images are presented for display in the axial plane at 5 mm and
+     1.25 mm collimation.  The examination is technically limited due to submaximal
+     inspiratory level and respiratory motion.
+     
+     Diffuse centrilobular branching opacities are present, consistent with
+     extensive bronchiolitis.  This involves all lobes of both lungs, but is most
+     marked in the right middle and both lower lobes.  More confluent consolidation
+     is present posteriorly in the left lower lobe with adjacent ground-glass
+     attenuation.  Dependent ground-glass opacity is also present in the right
+     lower lobe.  Mild centrilobular and paraseptal emphysema is present with upper
+     lobe predominance.  There has been prior wedge resection procedure in the
+     right upper lung with adjacent scarring and mild volume loss.  Focal lateral
+     herniation of the lung is present at the thoracotomy site.
+     
+     The patient inadvertently breathed during the image acquisition, and note is
+     made of marked posterior bowing of the tracheal wall during images
+     inadvertently obtained during expiratory phase of respiration.  There is also
+     expiratory narrowing of the right upper lobe bronchus and bronchus intermedius
+     and to a lesser degree the left main bronchus.
+     
+     Numerous small, subcentimeter mediastinal lymph nodes are present, which do
+     not individually meet size criteria for abnormal enlargement.  Heart size is
+     normal.  Diffuse coronary artery calcifications are present.  No pericardial
+     or pleural effusion is seen.  A small hiatal hernia is noted.
+     
+     In the imaged portion of the upper abdomen, the adrenal glands are normal.
+     Several small cystic lesions are present in both kidneys, and at least two
+     low-attenuation lesions are seen within the liver, one at the dome measuring 9
+     mm (image 45, series 5) and a second in the right lobe anteriorly measuring 8
+     mm (image 54, series 5).  Dependent gallstones are present within the
+     gallbladder.  Diffuse vascular calcifications are present extending into the
+     renal arteries bilaterally.
+     
+     Bilateral gynecomastia is present.
+     
+                                                                 (Over)
+
+     DATE: [**2828-9-19**] 12:31 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 4070**]
+     Reason: eval for infiltrates                                        
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     There has been previous right thoracotomy.  Degenerative changes are present
+     within the spine.
+     
+     A lipoma is present laterally in the upper abdominal wall.
+     
+     Coronal reformation images also demonstrate a compression deformity in the
+     lower thoracic spine at approximately T10.
+     
+     IMPRESSION:  
+     1.  Dependent lower lobe consolidation and ground-glass attenuation
+     accompanied by multilobar, diffuse bronchiolitis (tree-in-[**Male First Name (un) 3927**] pattern),
+     consistent with diffuse infectious process.  In the setting of hiatal hernia,
+     aspiration pneumonia is also possible.
+     
+     2. Tracheobronchomalacia difficult to quantify due to lack of standardized
+     breathing instructions.  If warranted clinically, once the patient's acute
+     infection has resolved, dedicated CT trachea could be obtained to better
+     assess this finding.
+     
+     3.  Emphysema.
+     
+     4.  Increased number of mediastinal lymph nodes, likely hyperplastic in the
+     setting of acute infection.  These could also be reassessed at the time of
+     followup CT.
+     
+     5.  Diffuse coronary artery calcifications.
+     
+     6.  Small cystic lesions in the liver and kidneys, incompletely characterized.
+     These could be more fully characterized by ultrasound if warranted clinically.
+
+",,
+8038,,,,2645-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-9-19**] 5:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4069**]
+     Reason: eval PNA/CHF                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with PNA and CHF at OSH CXR                                     
+     REASON FOR THIS EXAMINATION:
+      eval PNA/CHF                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  74-year-old man with pneumonia and congestive heart failure.
+     
+     CHEST, PORTABLE AP VIEW:  No comparisons are available.  The heart size is
+     likely normal.  There is mild bilateral distention of the pulmonary vessels
+     and peribronchial cuffing, most consistent with congestive heart failure.
+     There is no definite evidence of pneumonia, although PA and lateral views
+     would be more sensitive for detection of subtle consolidation. There are no
+     pleural effusions or pneumothorax, although the far right costophrenic sulcus
+     is excluded.
+     
+     IMPRESSION:  Findings most consistent with mild congestive heart failure.
+
+",,
+8038,,,,2645-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-11-16**] 5:02 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 4072**]
+     Reason: Check position of OG tube, look for pleural effusions/edema 
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old man with new placement of OG tube                                  
+     REASON FOR THIS EXAMINATION:
+      Check position of OG tube, look for pleural effusions/edema                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  AP chest [**2828-11-16**].
+     
+     HISTORY:  Check placement OG tube.  Evaluate for pleural effusions and edema.
+     
+     FINDINGS:  Comparison is made to previous study from [**2828-11-16**].
+     
+     The endotracheal tube is unchanged.  There is a left-sided IJ catheter
+     with distal lead tip in the left brachiocephalic vein which is unchanged.
+     Nasogastric tube has been placed however due to poor technique, the sideport
+     is not well seen.  The distal tip is in the fundus of the stomach and the
+     sideport is likely at the GE junction and could be advanced several
+     centimeters for more optimal placement.  There are low lung volumes which
+     limits evaluation.  There is unchanged cardiomegaly.  There is a left
+     retrocardiac opacity which is better evaluated on the prior chest CT.  Overall
+     the findings are stable since the radiograph from seven hours earlier.
+     
+     
+
+",,
+8038,,,,2645-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-11-16**] 9:49 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 4071**]
+     Reason: IJ placement                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with new line placement                                         
+     REASON FOR THIS EXAMINATION:
+      IJ placement                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Placement.
+     
+     Portable single view of the chest was compared to [**2828-9-19**], and
+     demonstrates ETT terminating in the mid thoracic trachea and left IJ catheter
+     tip terminating at the brachiocephalic SVC junction.  The lung volumes are low
+     with bibasilar atelectasis, and diffuse increased opacification of the left
+     hemithorax may represent evolving diffuse infectious process as suggested by
+     chest CT [**2828-9-19**].  Alternatively, this may represent asymmetric pulmonary
+     edema or layering effusion.  Small nodular opacities in the right lung are
+     also new and may represent infectious process.  Cardiomegaly and mediastinal
+     contours are stable allowing for lower lung volumes.  Note is made of a T10
+     compression deformity, stable from [**2828-9-19**].
+     
+     IMPRESSION:
+     1.  ETT and left IJ central venous catheter as described above.
+     2.  Low lung volumes and diffuse increased opacification of left lung may
+     represent infectious process, asymmetric pulmonary edema, or layering
+     effusion.  New nodular opacities in the right lung may also represent
+     infectious process.
+     3.  Stable T10 compression deformity.
+
+",,
+8038,,,,2645-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-11-16**] 5:02 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 4072**]
+     Reason: Check position of OG tube, look for pleural effusions/edema 
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old man with new placement of OG tube                                  
+     REASON FOR THIS EXAMINATION:
+      Check position of OG tube, look for pleural effusions/edema                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  AP chest [**2828-11-16**].
+     
+     HISTORY:  Check placement OG tube.  Evaluate for pleural effusions and edema.
+     
+     FINDINGS:  Comparison is made to previous study from [**2828-11-16**].
+     
+     The endotracheal tube is unchanged.  There is a left-sided IJ catheter
+     with distal lead tip in the left brachiocephalic vein which is unchanged.
+     Nasogastric tube has been placed however due to poor technique, the sideport
+     is not well seen.  The distal tip is in the fundus of the stomach and the
+     sideport is likely at the GE junction and could be advanced several
+     centimeters for more optimal placement.  There are low lung volumes which
+     limits evaluation.  There is unchanged cardiomegaly.  There is a left
+     retrocardiac opacity which is better evaluated on the prior chest CT.  Overall
+     the findings are stable since the radiograph from seven hours earlier.
+     
+     
+
+",,
+8038,,,,2645-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-11-17**] 8:57 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 4074**]
+     Reason: ? flash pulmonary edema                                     
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         74 year old man with new placement of OG tube in respiratory                 
+                    
+     REASON FOR THIS EXAMINATION:
+      ? flash pulmonary edema                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Shortness of breath.
+     
+     Portable AP chest radiograph compared to the exam obtained the same day at
+     5:35 a.m.
+     
+     The ET tube tip is 6 cm above the carina.  The left internal jugular line tip
+     terminates at the junction of left brachiocephalic vein and SVC.  The NG tube
+     is not well visualized beyond  mid mediastinum.
+     
+     The heart size is mildly enlarged but unchanged.  Asymmetric edema more
+     involving the left lung compared to the right is again noted as well as the
+     bibasilar areas of atelectasis.  Small bilateral pleural effusion is
+     unchanged.
+     
+     IMPRESSION:  No sizable change comparing to the previous study.
+
+",,
+8038,,,,2645-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-11-17**] 8:57 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 4074**]
+     Reason: ? flash pulmonary edema                                     
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         74 year old man with new placement of OG tube in respiratory                 
+                    
+     REASON FOR THIS EXAMINATION:
+      ? flash pulmonary edema                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Shortness of breath.
+     
+     Portable AP chest radiograph compared to the exam obtained the same day at
+     5:35 a.m.
+     
+     The ET tube tip is 6 cm above the carina.  The left internal jugular line tip
+     terminates at the junction of left brachiocephalic vein and SVC.  The NG tube
+     is not well visualized beyond  mid mediastinum.
+     
+     The heart size is mildly enlarged but unchanged.  Asymmetric edema more
+     involving the left lung compared to the right is again noted as well as the
+     bibasilar areas of atelectasis.  Small bilateral pleural effusion is
+     unchanged.
+     
+     IMPRESSION:  No sizable change comparing to the previous study.
+
+",,
+8038,,,,2645-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-11-17**] 6:37 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4073**]
+     Reason: ? new pulmonary effusion/edema                              
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        74 year old man with new placement of OG tube in respiratory                  
+                  
+     REASON FOR THIS EXAMINATION:
+      ? new pulmonary effusion/edema                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  New placement of OG tube.  Assess edema/effusion.
+     
+     COMPARISON:  [**2828-11-16**].
+     
+     SEMI-UPRIGHT AP CHEST:  The endotracheal tube and left IJ central venous
+     catheter are unchanged in position.  The orogastric tube is not well
+     visualized beyond the mid mediastinum, related to technique.  A repeat
+     radiograph is recommended to assess positioning.  Cardiac and mediastinal
+     contours are unchanged.  Asymmetric edema within the left lung appears
+     slightly worsened on the current exam.  Bilateral pleural effusions appear
+     similar.
+     
+     IMPRESSION: 1)  The OG tube is not well visualized beyond the mid mediastinum.
+     A repeat radiograph is recommended.
+     
+     2)  Increased edema, particularly on the left.
+
+",,
+8038,,,,2645-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2828-11-20**] 5:14 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4075**]
+     Reason: pls eval interval change                                    
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          74 year old man with COPD, CHF, extubated [**11-18**], diuresed                     
+     REASON FOR THIS EXAMINATION:
+      pls eval interval change                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  COPD.
+     
+     Single portable radiograph of the chest demonstrates interval removal of the
+     endotracheal tube seen on [**2828-11-17**].  Left internal jugular central venous
+     catheter is unchanged with its tip in the SVC.  There is mild blunting of
+     bilateral costophrenic angles.  The lung volumes are low.  No consolidation is
+     evident.  No pneumothorax is seen.  Trachea is midline.
+     
+     IMPRESSION:
+     
+     Interval removal of endotracheal tube.
+     
+     Probable small, bilateral, pleural effusions.
+     
+     No consolidation.
+                                                                           
+
+",,
+8038,,,,2645-11-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2829-3-23**] 1:23 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4076**]
+     Reason: eval for chf/infiltrate                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with resp distress                                              
+     REASON FOR THIS EXAMINATION:
+      eval for chf/infiltrate                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PORTABLE AP
+     
+     COMPARISON:  [**2828-11-20**].
+     
+     HISTORY:  Respiratory distress.
+     
+     FINDINGS:  There are low lung volumes.  There is persistent elevation of the
+     right hemidiaphragm.  There are no consolidations or effusions.  There is no
+     pneumothorax.  Linear area of scarring is seen in the right upper lobe.  There
+     is right lower lobe atelectasis.  The cardiomediastinal and hilar contours are
+     stable.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+                                                                           
+
+",,
+8038,,,,2645-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2829-3-24**] 3:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4077**]
+     Reason: please eval for interval change                             
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with COPD, SOB                                                  
+     REASON FOR THIS EXAMINATION:
+      please eval for interval change                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Shortness of breath.
+     
+     Portable AP chest radiograph compared to [**2829-3-23**].
+     
+     The heart size is moderately enlarged but stable.  There is no evidence of
+     congestive heart failure.  Bibasal linear opacities are unchanged, most likely
+     representing atelectasis.  No sizable pleural effusion is noted.  The overall
+     lung volumes remain low.
+                                                                           
+
+",,
+8038,,,,2645-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2829-3-26**] 12:10 PM
+     CHEST (PA & LAT) PORT                                           Clip # [**Clip Number (Radiology) 4078**]
+     Reason: assess for vascular congestion progression.                 
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with copd exacerbation, chf.                                    
+     REASON FOR THIS EXAMINATION:
+      assess for vascular congestion progression.                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST ON [**3-26**]
+     
+     HISTORY:  COPD, CHF, look for vascular congestion.
+     
+     IMPRESSION:  PA and lateral chest compared to [**3-23**] and 9:
+     
+     Vascular congestion and cardiomegaly are borderline unchanged since [**3-23**].  There is no pleural effusion.  Lung volumes remain low, particular on the
+     right where there is relative elevation of the lung base, with disparity more
+     pronounced now than it was in July, probably due to progressive diaphragmatic
+     eventration.
+
+",,
+8038,,,,2646-04-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2829-8-26**] 1:13 AM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 4079**]
+     Reason: please eval for infiltrates                                 
+     Admitting Diagnosis: CERVICAL CORD COMPRESSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with PNA, CHF                                                   
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrates                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  75-year-old male with pneumonia and congestive heart failure.
+     Preop.
+     
+     COMPARISON:  [**2829-3-26**].
+     
+     AP AND LATERAL CHEST:  Lung volumes remain low as on prior study, with
+     elevation of the right hemidiaphragm.  Cardiac and mediastinal contours are
+     unchanged.  There again noted is bilateral lower lobe atelectasis,
+     particularly in the retrocardiac region.  Posterior blunting of the
+     costophrenic angles is likely.  No definite pulmonary vascular congestion is
+     appreciated.  The osseous structures redemonstrate compression deformities in
+     the thoracolumbar region.
+     
+     IMPRESSION:  Bilateral lower lobe atelectasis with probable small bilateral
+     pleural effusions in the absence of overt congestive heart failure.  Stable
+     thoracolumbar compression deformity.
+
+",,
+8038,,,,2646-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2829-8-27**] 9:31 AM
+     C-SPINE SGL 1 VIEW IN O.R. IN O.R.                              Clip # [**Clip Number (Radiology) 4080**]
+     Reason: FUSION
+     Admitting Diagnosis: CERVICAL CORD COMPRESSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  _____
+     
+     Two lateral portable prone views of the cervical spine obtained in the OR.
+     
+     On view #1, only C1 and C2 are well demonstrated.  C3 is obscured by overlying
+     structures.  Extensive tubes, lines and surgical instrumentation is seen.
+     
+     On view #2, the C2/3 disc space and much of the C3 vertebral body is
+     demonstrated, in nominal alignment.
+     
+     Correlation with real-time findings and when appropriate, conventional
+     radiographs, is recommended for further assessment.
+
+",,
+8038,,,,2646-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2829-8-27**] 2:54 PM
+     C-SPINE NON-TRAUMA [**6-18**] VIEWS PORT                               Clip # [**Clip Number (Radiology) 4082**]
+     Reason: please eval hardward                                        
+     Admitting Diagnosis: CERVICAL CORD COMPRESSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with s/p lam/fusion                                             
+     REASON FOR THIS EXAMINATION:
+      please eval hardward                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Post laminectomy and fusion, evaluate hardware.
+     
+     C-SPINE, TWO VIEWS. No preoperative films are on PACS record for comparison.
+     
+     On the lateral view, C1 through mid C6 vertebral body is demonstrated. Pedicle
+     screws and rods are present.  Precise positioning of the screws is somewhat
+     difficult to assess on this film due to obliquity of the beam. Overall,
+     positioning is nominal.  There is minimal anterolisthesis of C3 on C4 and
+     grade 1 anterolisthesis of C4 on C5 with disc space narrowing at the C3
+     through 6 levels.  Multiple tubes and lines overlie the C-spine.  Skin staples
+     are present.  
+
+",,
+8038,,,,2646-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2829-8-27**] 1:36 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 4081**]
+     Reason: CVL placement, ETT placement                                
+     Admitting Diagnosis: CERVICAL CORD COMPRESSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      CVL placement, ETT placement                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CVL, ET tube placement.
+     
+     CHEST, SINGLE AP VIEW.
+     
+     Lordotic positioning.
+     
+     An ET tube is present, tip in satisfactory position approximately 6.1 cm above
+     the carina.  An NG tube is present, tip beneath diaphragm extending off the
+     film.  A right IJ central line is present, tip overlying the proximal SVC.
+     LAt the periphery of these films, fixation devices in the cervical spine and
+     overlying skin staples and fixation hardware in the lower lumbar spine is
+     noted.
+     
+     There is probable moderately-severe cardiomegaly, with unfolded aorta. There
+     are right greater than left effusions and underlying collapse and/or
+     consolidation.  The diaphragms are obscured and therefore diaphragmatic level
+     cannot be confidently determined.  There is upper zone redistribution and mild
+     diffuse vascular blurring, suggesting mild CHF.
+     
+     Compared with [**2829-8-26**], the left lower lobe collapse and/or consolidation is
+     significantly worse as is the xxx effusion.  A small xx effusion is new. There
+     is slight increase in the degree of atelectasis at the right base. Pulmonary
+     vasculature is probably unchanged.  I suspect some background parenchymal
+     scarring.
+     
+
+",,
+8038,,,,2646-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2829-8-31**] 12:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4083**]
+     Reason: Asess for resolution                                        
+     Admitting Diagnosis: CERVICAL CORD COMPRESSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with pnuemonia on admission and COPD                            
+     REASON FOR THIS EXAMINATION:
+      Asess for resolution                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest AP portable single view.
+     
+     INDICATION:  Pneumonia on admission and COPD.  Assess for resolution.
+     
+     FINDINGS:  AP single view obtained with patient in supine position is analyzed
+     in direct comparison with a preceding supine examination of [**2829-8-27**]. 
+     During the interval, the patient has been extubated.  Row of subcutaneous
+     surgical staples is seen in midline of the neck.  The previously described
+     right internal jugular approach central venous line remains in unchanged
+     position.  No pneumothorax is identified.  As before, heart size cannot be
+     determined because of basal densities on this portable chest examination.  In
+     comparison with the preceding examination, no new parenchymal infiltrates are
+     present and pulmonary vasculature shows less perivascular haze.  The right
+     diaphragm is again elevated with mild blunting of the right lateral pleural
+     sinus.  The left side has cleared up somewhat, still some local densities
+     representing either atelectasis or remaining infiltrates are seen in
+     retrocardiac position.  Improvement of previously described congestive pattern
+     and bilateral basal densities.  Further followup is recommended.
+                                                                           
+
+",,

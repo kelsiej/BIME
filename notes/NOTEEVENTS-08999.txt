@@ -1,0 +1,474 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8999,27877,,,3483-06-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3483-6-25**]              Discharge Date:   [**3483-7-3**]
+ 
+Date of Birth:  [**3401-9-3**]             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Sulfa (Sulfonamides) / Hydrochlorothiazide / Ace Inhibitors / 
+Metoprolol
+ 
+Attending:[**First Name3 (LF) 5491**] 
+Chief Complaint:
+Intracranial hemorrhage
+ 
+Major Surgical or Invasive Procedure:
+CT Scan
+
+ 
+History of Present Illness:
+The patient is a 81 yr old who presents to [**Hospital1 83**] as transfer 
+from OSH for intracerebral bleed. History from daghter as pt. 
+incoherent. At baseline, the patient is mildly dememented and 
+forgetful, but was functional enough to
+take care of herself and be independent. Then, this past Friday 
+her daughter noticed that she became very incoherent with her 
+speech and was non-sensical.  She also became fatigued and 
+eventually bedbound over the next three days. The patient was 
+taken to OSH which showed a well circumscribed 20-30cc 
+intracerebral hemorrhage in the left frontal lobe located 
+subcortically.  No midline shift or edema. There is also 
+encephalomalacia of right fronto-parietal lobe suggestive of 
+remote R MCA stroke. 
+
+There has been no recent head trauma, HA, photphobia, n/v. 
+Patient not hypertensive previously.
+ 
+Past Medical History:
+CHF
+CVA [**90**] yrs ago p/w left sided weakness
+
+ 
+Social History:
+Lives alone and attends to own ADL's
+ 
+Physical Exam:
+T-97.6   BP-180/80-> 130's SBP   HR-68   RR-16
+Gen:  lying in bed mumbling incoherently
+Heent: NCAT, oropharynx clear
+Neck: supple, no carotid bruits
+Chest: dec BS at bases CV:regular rate, normal s1s2, no m/r/g
+Ext: no c/c/e, 2+ dorsalis pedis
+
+Neurologic Exam:
+MS:
+Pt. is awake, eyes open, and attentive to speech. She is 
+mumbling ""[**Known patient firstname 12579**], [**Known patient firstname 12579**]"" when asked what her name. Not 
+oriented to place or time. She cannot perform tests of 
+attention.  She can follow simple midline commands, but cannot 
+show me her left hand or left thumb.  She intermittently follows 
+the neurologic exam.
+CN:
+Visual fields intact to confrontation
+Pupils normal round 3mm->2mm with light.
+Blinks to threat b/l.
+Eomi without nystagmus.
+Normal facial sensation and musculature.
+Palate rises symmetrically.  Tongue midline.
+
+Motor:
+Patient cannot follow full exam but is antigravity in all 4 
+extremities and moves left side greater than right
+
+Reflexes:
+There are [**2-23**] reflexes in UE 
+Plantar reflexes extensor b/l
+
+Sensory:
+Localizes to painful stimulus x 4
+
+Coordination:
+No ataxia when reaching out hands
+
+Gait:
+unable to assess
+ 
+Pertinent Results:
+[**3483-6-25**] 09:15PM BLOOD WBC-11.1* RBC-4.55 Hgb-14.0 Hct-40.9 
+MCV-90 MCH-30.7 MCHC-34.1 RDW-12.6 Plt Ct-208
+[**3483-7-1**] 07:15AM BLOOD WBC-15.2* RBC-3.78* Hgb-11.2* Hct-34.1* 
+MCV-90 MCH-29.6 MCHC-32.8 RDW-12.7 Plt Ct-194
+[**3483-7-1**] 07:15AM BLOOD Plt Ct-194
+[**3483-6-30**] 07:15AM BLOOD PT-13.1 PTT-23.6 INR(PT)-1.1
+[**3483-7-1**] 07:15AM BLOOD Glucose-121* UreaN-16 Creat-1.0 Na-143 
+K-3.7 Cl-104 HCO3-31* AnGap-12
+[**3483-6-28**] 03:00PM BLOOD ALT-15 AST-36 AlkPhos-58 TotBili-0.8
+[**3483-6-26**] 03:00AM BLOOD Triglyc-81 HDL-70 CHOL/HD-2.6 LDLcalc-98
+[**3483-6-28**] 03:00PM BLOOD TSH-0.41
+
+UA ([**6-28**]) RBC 0 WBC 12, blood tr, LE small
+UCx ([**6-28**]) <10,000 organisms
+
+NCHCT ([**6-25**])
+Large intraparenchymal hemorrhage (32 x 44 mm) with edema or 
+encephalomacia in the left frontal lobe. Large areas of 
+hypodensity in the right frontal and parietal lobes, with areas 
+of encephalomalacia. Possible left petrous meningioma
+
+NCHCT ([**6-28**])
+Unchanged
+ 
+Brief Hospital Course:
+She was admitted to the Neuro ICU for management of intracranial 
+hemorrhage.  Neuro exam at that time was significant for waxing 
+and [**Doctor Last Name 36**] alertness, inattention and nonsensical speech. There 
+is more spontaneous movement on L> R. No cranial nerve findings. 
+     
+
+1.  Neuro:  Left frontal ICH (likely secondary to amyloid 
+angiopathy)
+Antiplatelet agents were held.  Her blood pressure was 
+controlled on outpatient regimen (Coreg). Rpt head CT showed 
+bleed unchanged. She was transfered to the floor on [**6-28**].  Neuro 
+exam remained stable (fluctuating arousal, inattention, 
+disorientation, follows simple commands, strength normal).  
+Though the etiology of the bleed is likley to be amyloid 
+angiopathy, she could have an MRI/MRA with gado as an outpatient 
+to exclude other possible causes (mass lesion, AVM)-though these 
+seem unlikely and to confirm susceptibility changes on MR that 
+would be c/w amyloid.   
+
+2.  CV: 
+Continued on antihypertensives, BP well controlled. Lasix and 
+aldactone were held secondary to dehydration.  Ruled out for MI 
+with 3 sets negative CE.
+
+3. Pulm:
+No active pulmonary issues
+
+4.  ID: WBC increased, low grade temp 100.6 on [**7-2**].  Repeat CXR 
+negative.  UA showed 8 WBCS, awaiting Urine Culture.  She was 
+started on amoxicillin and clarithromycin on [**6-27**] for recently 
+diagnosed (and untreated) H. pylori infection.  She should 
+continue on antibiotics until [**7-16**].  
+
+5. Nutrition:  Speech and Swallow suggested nectar thick liquids
+
+6. GI:  COntinued on Protonix.  + constipation, KUB negative for 
+obstruction.  Started on colace and senna, lactulose PRN for 
+constipation.
+
+6. PT/OT:
+d/c to rehab for further management
+
+7. DVT Ppx:
+pneumoboots
+
+ 
+Medications on Admission:
+remeron 15
+trazodone
+lasix 40
+coreg 6.25 bid
+aldactone 25 qd
+asa 81
+ 
+Discharge Medications:
+1. Mirtazapine 15 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+2. Spironolactone 25 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Furosemide 40 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+4. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: 
+One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours). 
+ 
+5. Amoxicillin 500 mg Capsule Sig: Two (2) Capsule PO Q12H 
+(every 12 hours) for 7 days.  
+6. Clarithromycin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 7 days.  
+7. Carvedilol 6.25 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day).  
+8. Quetiapine Fumarate 25 mg Tablet Sig: One (1) Tablet PO QHS 
+(once a day (at bedtime)).  
+9. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day).  
+10. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).  
+11. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.  
+12. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO Q12H 
+(every 12 hours) as needed for constipation.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Left frontal intracranial hemorrhage
+H. Pylori infection
+
+ 
+Discharge Condition:
+Improved
+ 
+Discharge Instructions:
+[**Doctor First Name 10**] should continue PT/OT at rehab.  Do NOT take aspirin or 
+NSAIDs (such as Motrin or Advil).  Please call the Dr. [**Last Name (STitle) 12580**] 
+or report directly to the ER for worsening headache, new speech 
+difficulty, weakness, numbness or other concerning symptoms.  
+ 
+Followup Instructions:
+1. Stroke Clinic (Dr. [**Last Name (STitle) **]): please call to arrange follow up 
+appointment [**Telephone/Fax (1) 4550**]
+
+2.  Primary Care:  please call Dr. [**Last Name (STitle) 12580**] to arrange follow up 
+appointment after discharge from rehab
+
+ 
+                             [**First Name11 (Name Pattern1) 213**] [**Last Name (NamePattern4) 5496**] MD [**MD Number 215**]
+ 
+Completed by: [**Name6 (MD) 1311**] [**Name8 (MD) 1312**] MD [**MD Number 1313**] [**3483-7-3**] @ 1220
+Signed electronically by: DR. [**First Name8 (NamePattern2) 213**] [**Last Name (NamePattern1) 214**]
+ on: TUE [**3483-7-3**] 2:49 PM
+(End of Report)
+
+
+",,
+8999,27877,,,3483-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3483-6-25**] 9:59 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12416**]
+     Reason: assess for interval change in ICH                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with left ICH, delta ms                                       
+     REASON FOR THIS EXAMINATION:
+      assess for interval change in ICH                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AEBc TUE [**3483-6-26**] 12:45 AM
+      Large intraparenchymal hemorrhage in left frontal lobe with edema and mass
+      effect. Large area of right posterior frontoparieto hypodensities, possibly
+      prior infarct.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     @@@@@@@@@@@@@@ This is a revision of a previously signed report @@@@@@@@@@@@@@
+
+     INDICATIONS:  81-year-old woman with left intracranial hemorrhage and change
+     in mental status.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     Films were available from an outside hospital reportedly demonstrating a large
+     intraparenchymal hemorrhage in the left frontal lobe with edema and mass
+     effect along with low density in the right parietal lobe. The prior images are
+     not currently available for review at the time of examining the new study.
+     There is an intraparenchymal hemorrhage of approximately 32 x 44 mm in axial
+     dimensions centered in the white matter of the left frontal lobe with
+     surrounding low density. There is some effacement of gyri but surprisingly
+     little mass effect on the left frontal [**Doctor Last Name 234**]. There is also a very slight
+     rightward falcine shift and partial effacement of the left suprasellar
+     cistern.  In addition, there is a large area of hypodensity involving the
+     right frontoparietal lobe with encephalomalacia in the right sylvian fissure
+     without mass effect or edema. These abnormalities extend to the [**Doctor Last Name 30**] matter
+     and may represent prior infarction.  Encephalomalacia in the right sylvian
+     fissure is likely old.  The more superior areas of hypodensity are age
+     indeterminant, but may not be acute and clinical correlation is suggested.
+     Outside the area of the large intraparenchymal hemorrhage, the [**Doctor Last Name 30**]-white
+     matter distinction is fairly well preserved and no other evidence of
+     hemorrhage is seen.
+     
+     The visualized paranasal sinuses and mastoid air cells are clear.
+     There is an 8 mm. calcification adjacent to the left petrous bone posterior
+     to the internal auditory canal possibly representing a calcified meningioma.
+     
+     IMPRESSION:  Large intraparenchymal hemorrhage with edema or encephalomacia in
+     the left frontal lobe.  Large areas of hypodensity in the right frontal and
+     parietal lobes, with areas of encephalomalacia. Possible left petrous
+     meningioma. The case was discussed with neurosurgery.
+     
+                                                                 (Over)
+
+     DATE: [**3483-6-25**] 9:59 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12416**]
+     Reason: assess for interval change in ICH                           
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     @@@@@@@@@@@@@@ This is a revision of a previously signed report @@@@@@@@@@@@@@
+
+     (Cont)
+     It is suggested to have short-term followup CT to evaluate for any progression
+     of mass effect.
+     
+
+",,
+8999,27877,11195,,3483-06-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3483-6-26**] 10:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12417**]
+     Reason: 81 year old woman with fevers                               
+     Admitting Diagnosis: ICH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with fevers                                                   
+     REASON FOR THIS EXAMINATION:
+      81 year old woman with fevers                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of fevers.
+     
+     COMPARISON:  None.
+     
+     PORTABLE AP CHEST X-RAY: Lung fields are clear.  The heart size is normal. 
+     The mediastinal and hilar contours are within normal limits.  There are no
+     pleural effusions or pneumothorax.  The soft tissue and osseous structures are
+     within normal limits for age.
+     
+     IMPRESSION:  No pneumonia.
+                                                                           
+
+",,
+8999,27877,11195,0,3483-06-26 04:43:00 EST,3483-06-26 04:55:00 EST,303,"N",1,"Nursing/Other",,"
+
+[**3483-6-26**] ""B"" Admission Note:
+
+81 year old lady from [**Hospital3 **] to [**Hospital1 22**] ED for Lt frontal intraparenchymal bleed with edema and shift,? early uncal herniation.  Pt lives at assisted living and her sister lives there also down the [**Doctor Last Name 201**] from her.  She had several days of c/o constipation and gastric pain.  She had a gastroscopy a few days ago the results of which are unknown.  Yesterday she had 2 large BM's.  Family has found her to be confused and moaning for a few days and brought her to [**Hospital **] Hosp.
+Head CT showed 4-5cm left frontal intraparenchymal bleed as noted.  No fall was reported.
+
+PMH:  Rt CVA [**3471**],Macular degeneration,CHF.
+
+Allergies:  HCTZ,Sulfa,Metoprolol,Ace inhibitors
+
+CVS:  T97.7 ax. HR=61-80 SR with occasional PVC's. SBP=105-152.  Ekg noted ?lat ischemia. Pulses palpable. IV NS at 40cc/h started.
+
+Resp:  O2 2l nc applied. Sats=98-99%, Lungs clear, no distress noted.
+
+GU:  Foley cath present, 550cc urine on arrival in cath bag.
+
+GI:  NPO x meds.  Pt has been reportedly not eating for a few days and is very thin and cachectic.
+
+Skin:  No open or red areas noted.
+
+Neuro:  Pt can sometimes tell [**Doctor First Name **] her name, not always.  Moves all extremites but left grip slightly weaker at times. Pupils=+.  Follows commands mostly.  Speech is sometimes incoherent.  No seizure activity noted.
+
+Meds at home:  Coreg,ASA,Lasix,aldactone,trazadone,remeron, and was recently taken off ativan.
+
+Access:  2 peripheral IV's.
+
+Plan:  Monitor neurovital signs,labs, and CT's.
+
+",,
+8999,27877,11195,0,3483-06-26 17:15:00 EST,3483-06-26 17:27:00 EST,804,"N",1,"Nursing/Other","FOCUS: STATUS UPDATE","
+FOCUS: STATUS UPDATE
+DATA:
+PT ALERT BUT CONFUSED. AT TIMES ANSWERS TO HER NAME. THOUGHT SHE WAS AT THE [**Location (un) 6411**]AND DID NOT KNOW YEAR. MORE TALKATIVE ALTHOUGH DIFFICULT TO UNDERSTAND AT TIMES D/T MUMBLING. PERL. BECOMING VERY AGITATED LATER IN THE AFTERNOON. PULLED OUT PERIPHERAL IV AND HAS ATTEMPTED TO PULL OUT FOLEY CATH. SHE HAS SOFT BILAT LIMB RESTRAINTS AND MITTENS ON. SITTER HAS BEEN REQUESTED. 
+
+VSS. LASIX CONTINUES ON HOLD. HAS REQUIRED TWO BOLUSES FOR LOW URINE OUTPUT WITH GOOD EFFECT. AFEBRILE. LUNGS CLEAR.
+
+PLAN:
+SITTER. MONITOR OVERNIGHT.
+",,
+8999,27877,11195,0,3483-06-27 02:38:00 EST,3483-06-27 02:50:00 EST,6821,"N",1,"Nursing/Other","Nursing Note","
+Nursing Note
+Neuro; pt confused throughout night unable to state person, time, place or year. pt became extremely agitated over night. yelling at nurse ""get out, leave, don't touch me, i want to get out of here."" pt uncooperative, refusing to take medication. MD spoke with pt, still uncooperative. combative kicking nurse, punching despite being in bilateral soft restraints. pt kicking legs over bed rail. attempting to get OOB. reorientation unsucessful. pt then placed in 4pts. MD aware ?sundowning
+
+CV: pt NSR with frequent PVC's K in am at 4.0. am labs not drawn at this time due to pt's uncooperativeness. BP 140-160. pulses palpable. 
+
+Resp: pt on 2lnc throughout night. no distress noted. oxygen saturation> 95% breath sounds CTA. 
+ 
+GI: pt remains NPO. able to take sips in early evening with no difficulty. ?advancing diet in am
+
+GU: foley to gravity, good UOP.
+
+Plan: ?transfer, monitor nuero status, advance diet ?swallow eval. 
+see careview for all details
+",,
+8999,27877,,,3483-06-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3483-6-28**] 2:39 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12418**]
+     Reason: eval for edema or expansion of hemorrhage                   
+     Admitting Diagnosis: ICH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with intraparenchymal hemorrhage, now more sleepy             
+     REASON FOR THIS EXAMINATION:
+      eval for edema or expansion of hemorrhage                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81-year-old with intraparenchymal hemorrhage, now more sleepy.
+     
+     TECHNIQUE:  CT of the brain without IV contrast.  
+     
+     COMPARISON:  [**3483-6-25**].
+     
+     FINDINGS:
+     The large left frontal lobe intraparenchymal hemorrhage with surrounding edema
+     is unchanged in appearance.  Encephalomalacic changes are also noted within
+     the right parietal lobe, stable in appearance.  There is no new hemorrhage. 
+     The ventricles are stable in size with no evidence of hydrocephalus.  There is
+     no shift of normally midline structures.  There has been no other change
+     compared to the prior study.
+     
+     IMPRESSION:
+     Change in the appearance of left frontal lobe intraparenchymal hemorrhage with
+     surrounding edema.  No evidence of hydrocephalus.
+                                                                           
+
+",,
+8999,27877,,,3483-07-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3483-7-2**] 3:04 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12419**]
+     Reason: r/o PNA                                                     
+     Admitting Diagnosis: ICH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with fever                                                    
+     REASON FOR THIS EXAMINATION:
+      r/o PNA                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fever, rule out pneumonia.
+     
+     PA and lateral views of the chest show no significant interval change in the
+     radiographic appearance of the chest compared to [**3483-6-26**].  Cardiomegaly
+     without edema is noted and the lungs are clear with no pneumonia or nodule
+     seen.  Osteopenia and vascular calcifications are identified and flattened
+     hemidiaphragms with a prominent AP diameter of the chest on the lateral view
+     suggest underlying COPD.
+     
+     CONCLUSION:  No pneumonia.  No suspicious change compared to one week ago.
+                                                                           
+
+",,
+8999,27877,,,3483-07-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3483-7-2**] 6:40 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 12420**]
+     Reason: r/o ileus, obstruction, free air                            
+     Admitting Diagnosis: ICH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with constipation-diffuse tenderness and guarding             
+     REASON FOR THIS EXAMINATION:
+      r/o ileus, obstruction, free air                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Constipation with abdominal tenderness, rule out free air,
+     obstruction, or ileus.
+     
+     COMPARISON:  None.
+     
+     SINGLE SUPINE VIEW OF THE ABDOMEN:  The lower pelvis is not included on this
+     study.  There is no upright view.  Air and stool are seen in the large bowel.
+     There are no specifically identified dilated loops of small bowel.  Evaluation
+     for free air is limited on a supine film.
+     
+     IMPRESSION:  No evidence of obstruction.
+
+",,

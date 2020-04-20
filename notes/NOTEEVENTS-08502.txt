@@ -1,0 +1,3616 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8502,17573,,,2596-05-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2596-5-7**]              Discharge Date:   [**2596-6-9**]
+ 
+Date of Birth:  [**2545-3-7**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Shellfish / Ativan
+ 
+Attending:[**First Name3 (LF) 603**] 
+Chief Complaint:
+Abdominal pain, increasing shortness of breath.
+Pancreatic Abcess
+ 
+Major Surgical or Invasive Procedure:
+PICC line Placement [**2596-5-31**]
+Thoracentesis, Right VATS, Right Chest Tubes [**2596-5-17**]
+Bedside Tongue Biopsy [**2596-6-7**]
+Multiple CT scans
+Multiple daubhoff placements
+
+ 
+History of Present Illness:
+51 yo male with a history of HTN, and ETOH use, was admitted to 
+an OSH for a pancreatic abcess, nausea and vomitting for 1 week. 
+He was an inpatient for 2 weeks at an OSH and developed 
+worsening of abdominal pain and increasing shortenss of breath 
+and a rising amylase, lipase and WBC count. Over the past few 
+months he unintentially  lost about 30 pounds. 
+ 
+Past Medical History:
+HTN, back pain, ETOH use, smoker
+restless leg syndrome, jaundice, gallstone
+ 
+Social History:
+Wife [**Name (NI) **], former 100pack-year smoker
+ 
+Family History:
+NK
+ 
+Physical Exam:
+VS: 100.6, 115, 114/55, 16, 96% RA
+MS: A+O x 3
+HEENT: PERRLA, EOMI
+CVS: RRR, tachy
+Resp: coarse bilat. increase WOB with wheeze
+ABD: BS distant, diffuse tenderness
+Ext: + 2 Edema
+
+ 
+Pertinent Results:
+[**2596-5-8**] 01:22AM BLOOD WBC-32.7* RBC-3.26* Hgb-9.9* Hct-29.2* 
+MCV-90 MCH-30.3 MCHC-33.8 RDW-15.2 Plt Ct-661*
+[**2596-5-9**] 02:12AM BLOOD WBC-33.5* RBC-2.80* Hgb-8.7* Hct-25.6* 
+MCV-92 MCH-31.2 MCHC-34.0 RDW-15.0 Plt Ct-601*
+[**2596-5-14**] 04:36AM BLOOD WBC-19.3* RBC-3.02* Hgb-8.8* Hct-27.1* 
+MCV-90 MCH-29.2 MCHC-32.6 RDW-14.4 Plt Ct-559*
+[**2596-5-15**] 08:03PM BLOOD WBC-38.6*# RBC-3.45* Hgb-10.1* Hct-31.0* 
+MCV-90 MCH-29.1 MCHC-32.5 RDW-14.4 Plt Ct-740*
+[**2596-5-20**] 02:21AM BLOOD WBC-18.3* RBC-2.33* Hgb-6.8* Hct-20.8* 
+MCV-89 MCH-29.1 MCHC-32.6 RDW-15.8* Plt Ct-519*
+[**2596-5-31**] 03:25PM BLOOD WBC-24.7* RBC-2.20* Hgb-6.4* Hct-20.0* 
+MCV-91 MCH-29.2 MCHC-32.2 RDW-16.6* Plt Ct-466*
+[**2596-6-2**] 03:40AM BLOOD WBC-24.6* RBC-3.41*# Hgb-10.0*# Hct-29.9* 
+MCV-88 MCH-29.3 MCHC-33.4 RDW-17.1* Plt Ct-399
+[**2596-6-6**] 05:02AM BLOOD WBC-20.5* RBC-3.27* Hgb-9.7* Hct-29.4* 
+MCV-90 MCH-29.8 MCHC-33.1 RDW-15.9* Plt Ct-300
+[**2596-6-6**] 05:34AM BLOOD WBC-19.6* RBC-3.42* Hgb-9.8* Hct-30.6* 
+MCV-90 MCH-28.7 MCHC-32.0 RDW-15.8* Plt Ct-298
+[**2596-6-7**] 04:33AM BLOOD WBC-17.0* RBC-3.14* Hgb-9.3* Hct-28.1* 
+MCV-89 MCH-29.6 MCHC-33.1 RDW-15.6* Plt Ct-292
+.
+
+[**2596-5-8**] 01:22AM BLOOD Glucose-123* UreaN-15 Creat-0.4* Na-133 
+K-4.1 Cl-103 HCO3-20* AnGap-14
+[**2596-6-3**] 03:56AM BLOOD Glucose-103 UreaN-23* Creat-0.9 Na-138 
+K-3.4 Cl-102 HCO3-28 AnGap-11
+[**2596-6-8**] 05:30AM BLOOD Glucose-104 UreaN-40* Creat-1.0 Na-138 
+K-3.6 Cl-101 HCO3-27 AnGap-14
+.
+
+[**2596-5-8**] 01:22AM BLOOD ALT-11 AST-16 AlkPhos-266* Amylase-740* 
+TotBili-1.5
+[**2596-5-9**] 02:12AM BLOOD ALT-8 AST-14 AlkPhos-199* Amylase-542* 
+TotBili-0.7 DirBili-0.6* IndBili-0.1
+[**2596-5-13**] 03:14AM BLOOD Amylase-190*
+[**2596-5-28**] 08:37AM BLOOD ALT-13 AST-25 AlkPhos-557* Amylase-1727* 
+TotBili-0.4
+[**2596-5-29**] 08:27AM BLOOD Amylase-2820*
+[**2596-6-6**] 05:34AM BLOOD Amylase-2523*
+[**2596-6-7**] 04:33AM BLOOD Amylase-2831*
+[**2596-6-8**] 05:30AM BLOOD ALT-47* AST-34 AlkPhos-827* Amylase-1562* 
+TotBili-0.5
+.
+Approved: WED [**2596-6-8**] 11:28 AM
+[**2596-5-8**] 01:22AM BLOOD Lipase-187*
+[**2596-5-9**] 02:12AM BLOOD Lipase-122*
+[**2596-5-13**] 03:14AM BLOOD Lipase-71*
+[**2596-5-28**] 08:37AM BLOOD Lipase-1179*
+[**2596-5-29**] 08:27AM BLOOD Lipase-2764*
+[**2596-6-6**] 05:34AM BLOOD Lipase-2546*
+[**2596-6-7**] 04:33AM BLOOD Lipase-1549*
+[**2596-6-8**] 05:30AM BLOOD Lipase-449*
+.
+   RADIOLOGY  Final Report
+CHEST (PORTABLE AP)  [**2596-6-8**] 9:34 AM
+PORTABLE CHEST OF [**2596-6-8**]
+COMPARISON: [**2596-6-6**].
+Right PICC line and right chest tube are unchanged in position. 
+Cardiac and mediastinal contours show interval decrease in 
+width, likely due to improving volume status of the patient. 
+There is also improvement in bilateral asymmetric perihilar and 
+basilar alveolar process, particularly in the left perihilar 
+region. Although these opacities may in part be due to improving 
+pulmonary edema, underlying pneumonia is suspected, particularly 
+in the lower lobes. Moderate right pleural effusion is 
+unchanged.
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 1656**]
+.
+.
+   RADIOLOGY  Final Report
+CTA CHEST W&W/O C &RECONS  [**2596-6-6**] 10:39 AM
+CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST
+Contrast: OPTIRAY
+
+INDICATION: 51-year-old with head and neck cancer, recent 
+pancreatitis, presenting with acute shortness of breath, rule 
+out PE and reassess abdominal collections.
+
+COMPARISONS: CT torso of [**2596-5-31**].
+TECHNIQUE: Axial MDCT images of the chest, abdomen, and pelvis 
+with oral and 100 cc of nonionic Optiray contrast.
+
+CT CHEST WITH IV CONTRAST: Right-sided chest tube remains in 
+place. There are bilateral pleural effusions, with persisting 
+consolidation in the right lower lobe. The mid and upper lung 
+zones are clear. The airway is patent to the segmental level. 
+The pulmonary arteries enhance normally without filling defect. 
+There are diffuse enlarged lymph[**MD Number 65**] throughout the 
+mediastinum, suspicious for metastatic nodes. The thoracic aorta 
+is normal in caliber and enhances normally. Multiple small 
+subcentimeter axillary nodes.
+
+CT ABDOMEN WITH IV CONTRAST: Again demonstrated are multiple 
+small thin- walled fluid collections throughout the abdomen, not 
+significantly changed in size and appearance compared to the 
+prior study. None of these are large enough for safe 
+percutaneous drainage. The pancreatic parenchyma enhances 
+homogeneously without evidence of significant necrosis or 
+intraparenchymal abscess. There are coarse calcifications along 
+the duct near the pancreatic head, likely the sequela of chronic 
+pancreatitis. Moderate amount of ascites surrounding the liver 
+and throughout the pelvis. Small ill-defined hepatic hypodense 
+lesion within segment VI, too small to characterize. Additional 
+tiny hypodense lesion in segment V anteriorly, too small to 
+characterize as well. Cholelithiasis without evidence of 
+cholecystitis. The kidneys, adrenal glands, stomach, and 
+proximal small bowel are normal. The spleen contains an 
+ill-defined lesion posteriorly, not well characterized on this 
+study.
+
+CT PELVIS WITH IV CONTRAST: Large amount of ascites and free 
+fluid in the pelvis. Subcentimeter inguinal lymph[**MD Number 65**]. No 
+pathologically enlarged lymph[**MD Number 65**] are seen.
+
+BONE WINDOWS: 2.5-cm ill-defined lytic lesion in the right iliac 
+bone lateral to the SI joint, suspicious for metastasis. Old 
+right lateral rib fracture, demonstrating some callus formation. 
+No other suspicious lytic or blastic lesions.
+
+MULTIPLANAR REFORMATS: Coronal and sagittal reformatted images 
+confirm the above findings.
+
+IMPRESSION:
+1) No pulmonary embolism.
+2) Stable size and appearance of multiple small fluid 
+collections throughout the abdomen, likely pancreatic 
+pseudocysts; too small to be amenable to percutaneous drainage.
+3) Bilateral pleural effusions with right lower lobe 
+consolidation which may relate to persisting pneumonia versus 
+less likely lymphangitic carcinomatosis.
+4) Enlarged mediastinal lymphadenopathy, suspicious for 
+metastatic nodes.
+5) Stable moderate abdominal and pelvic ascites.
+6) 2.5cm lytic lesion in the right iliac bone lateral to the SI 
+joint, suspicious for metastasis.
+7) Small hypodense lesions in the liver and spleen, too small to 
+characterize.
+
+The study and the report were reviewed by the staff radiologist.
+DR. [**First Name11 (Name Pattern1) 246**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 6948**]
+DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 2985**]
+Approved: TUE [**2596-6-7**] 7:11 AM
+.
+
+ 
+Brief Hospital Course:
+#Pancreatitis: Upon admission to [**Hospital1 83**] on [**2596-5-7**] he was started 
+on Morphine PCA and Neurontin for [**9-8**] pain, he was placed on IV 
+fluids, made NPO, and continued on TPN. An abdominal CT at this 
+time showed pancreatic pseudocyst given history of pancreatitis, 
+ascites, bilateral pleural effusions - right greater than left. 
+A abdominal CT on [**2596-5-31**] showed multiple dynamic fluid 
+collections again seen within the abdomen, some smaller and some 
+larger when compared to prior study. Relatively stable fluid 
+collection seen in the area of the head of the pancreas.'
+[**2596-5-14**] tube feedings were started for nutritional support. The 
+feedins were discontinued several days later when his 
+prancreatic enzymes [**Hospital Ward Name **] rocketed to the 2700 range.  The patient 
+was, however, asymptomatic in terms of abdominal pain/N/V. He 
+was subsequently maintained on TPN with complete bowel bowel 
+rest. His pancreatic enzymes were monitored regularly and 
+remained elevated.
+.
+# Respiratory/Bilateral pleural effusions/pneumonia: [**2595-5-9**] he 
+was intubated for respiratory distress, on [**2596-5-9**] he was re 
+intubated after self-extubation. Blood cultures revealed GPC 
+[**3-5**]. a sputum sample revealed 2+ yeast. A chest x-ray revealed 
+worsening of his bilateral pleural effusions with associated 
+basilar atelectasis. He was being suctioned for copious thick 
+rusty/blood tinged secretions and respiratory support was 
+continued. An NGT was draining small quantities of bilious 
+fluid. Antibiotics Imipenem-Cilastatin was given for pneumonia 
+empirically. [**2596-5-11**] he was extubated and placed on a 50% face 
+tent. A Heimlich valve/chest tube was placed to the right medial 
+chest. 
+[**2596-5-14**] Thoracic surgery was consulted. A chest tube was placed 
+on the right side.  On [**2596-5-15**] he was transfered back to the ICU 
+for O2 sats to 80% and tachycardia with his heart rate in the 
+130's. He was started on Vancomycin, Flagyl, and Levofloxacin 
+for a rising WBC count. He went to the OR on [**2596-5-17**] for a right 
+VATS, decortication and bronchoscopy with chest tubes x 3. 
+Pleural tissue was Staphylcoccus coagulase negative. The patient 
+continued to having respiratory difficulty and the bilateral 
+effusions were very slow to improve. He completed a 2-week 
+course of vanocymycin.
+[**2596-5-23**] Interventional pulmonolgy performed a therapeutic 
+throacentesis of the left side, draining 1000cc.
+[**2596-5-31**] the patient had acute onset of shortness of breath and an 
+O2 saturation of 75% and was transfered to the ICU. He responded 
+well to Lasix and nebulizers and continued respiratory care. He 
+was transfered back to the floor on [**2596-6-2**]. Chest tubes were 
+sequentially discontinued per the thoracic surgery service over 
+the next 2 weeks. The last tube was removed on [**2596-6-8**], a 
+follow-up chest x-ray was negative for pneumothorax.
+.
+#Hemetology: The patient was transfused on multiple occasions 
+from [**Date range (1) 11810**] for anemia of chronic disease.  Mr. [**Known patient lastname 11811**] 
+white count continued to be slightly elevated throughout his 
+hospital stay, though is currently trending down. 
+.
+# Aspiration/failed swallowing: Speech and Swallow was consulted 
+on [**2596-5-20**] for aspiration and continued to recommend he stay 
+NPO. They again saw the patient on [**2596-5-24**] for reevaluation of 
+his swallowing. Mr. [**Known patient lastname **] was noted to have symptoms of 
+aspiration  of any liquids/thickened liquids/solids taken PO. He 
+was also noted at this time to have a left tongue mass. He was 
+kept NPO. A doubhoff was placed the next day in order to 
+administer medications enterally.  Over the next 5-7 days the 
+patient removed the doubhoff on multiple occassions. It was 
+ultimately not replaced and his medications converted again to 
+IV form.
+.
+#Large tongue mass: ENT/ORL consult was obtained on [**2596-5-24**] for 
+a left, posterior tongue lesion. The patient had slurring of 
+speach and difficulty with clearing of oropharyngeal secretions. 
+ The mass is 2 cm firm lesion and highly concerning for 
+malignancy especially given the patient's history of alcohol and 
+tobacco abuse. A biopsy was done on at the bedside on [**2596-6-7**] by 
+ENT.  Oncology was also consulted regarding his tongue mass. 
+They had no specific course of treatment without a confrimed 
+tissue diagnosis.
+.
+#Decub ulcer: a Wound Care consult was obtained for evaluation 
+of a coccyx skin breakdown and Duoderm was placed on the site, 
+and other skin care measures were continued.
+.
+#Disposition: Continued hospitalization in [**Location (un) 210**], at such a 
+distance from home, continued to put added strain on Mr. 
+[**Known patient lastname 11811**] family. Per the patient's request arrangements were 
+made to transfer him back to Southern New [**Hospital 11812**] Medical 
+Center where he was originally hospitalized.  Dr. [**Last Name (STitle) 11813**] 
+accepted the patient's return. He was transfered on [**2596-6-9**].
+ 
+Medications on Admission:
+neurontin, oxycontin, cardizem 
+ 
+Discharge Medications:
+1. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000)  
+Injection TID (3 times a day).  
+2. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours).  
+3. Albuterol Sulfate 0.083 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours) as needed.  
+4. Nicotine 14 mg/24 hr Patch 24HR Sig: One (1) Patch 24HR 
+Transdermal DAILY (Daily).  
+5. Insulin Regular Human 100 unit/mL Solution Sig: as directed  
+Injection ASDIR (AS DIRECTED): insulin sliding scale.  
+6. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2) 
+Puff Inhalation QID (4 times a day).  
+7. Acetaminophen 650 mg Suppository Sig: [**2-1**] Suppositorys Rectal 
+Q4-6H (every 4 to 6 hours) as needed.  
+8. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID 
+(4 times a day).  
+9. Sodium Chloride 0.9%  Flush 3 ml IV DAILY:PRN 
+Peripheral IV - Inspect site every shift 
+10. Heparin Flush PICC (100 units/ml) 2 ml IV DAILY:PRN 
+10 ml NS followed by 2 ml of 100 Units/ml heparin (200 units 
+heparin) each lumen Daily and PRN.  Inspect site every shift. 
+11. Pantoprazole 40 mg IV Q24H 
+12. Furosemide 40 mg IV BID 
+13. Hydromorphone 2-4 mg IV Q6H:PRN 
+14. Dolasetron Mesylate 12.5 mg IV ONCE Duration: 1 Doses 
+15. Metoprolol 7.5 mg IV Q6H 
+Hold for SBP <100 
+16. Cefazolin 1 g Piggyback Sig: One (1) Piggyback Intravenous  
+Q8H (every 8 hours).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Pancreatitis/Pancreatic Abscess
+Bilateral Pleural Effusions
+Tongue Mass
+Pneumonia
+Anemia of chronic disease
+
+ 
+Discharge Condition:
+Stable
+
+ 
+Discharge Instructions:
+Please come to the emergency room if [**Doctor First Name **] have fever >101.4F, 
+nausea or vomiting, shortness of breath, abdominal pain, 
+inability to take liquids or any other concerning symptoms.
+
+ 
+Followup Instructions:
+1. Follow-up with Dr. [**Last Name (STitle) **] as needed.  Call to schedule an 
+appointment. ([**Telephone/Fax (1) 3915**]
+2. Follow-up with Hematology-oncology for your tongue mass.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 623**] MD [**MD Number 624**]
+ 
+Completed by: [**First Name4 (NamePattern1) 441**] [**First Name8 (NamePattern2) 442**] [**Name8 (MD) 443**] MD [**MD Number 444**] [**2596-6-9**] @ 2004
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: FRI [**2596-6-10**] 8:32 AM
+(End of Report)
+
+
+",,
+8502,17573,10572,,2596-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-8**] 8:45 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 8390**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: eval abscess s/p dainage [**4-26**]                               
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51M pancreatic abscess                                                          
+     REASON FOR THIS EXAMINATION:
+      eval abscess s/p dainage [**4-26**]                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old male with pancreatic abscess.  Evaluate for post-
+     drainage.
+     
+     No comparison studies.
+     
+     CT ABDOMEN WITH IV CONTRAST:
+     
+     The visualized lung bases demonstrate a few focal areas of ground- glass
+     opacities.  There is a moderate-sized right pleural effusion and small left
+     pleural effusion.  Associated bibasilar atelectasis. There is a focal low-
+     attenuation lesion within the right lobe of the liver that is too small to
+     characterize.  The gallbladder contains multiple tiny stones.
+     
+     Multiple low attenuation lesions are seen within the upper abdomen. Lesion #1
+     is within the region of the pancreatic head and measures 2.0 x 2.3 cm. Lesion
+     #2 extends between the IVC and portal vein measuring 2.3 x 2.4 x 6.0 cm.
+     Lesion #3 is just posterior to the stomach measuring 2.0 x2.6 cm. Lesion #4 is
+     partially loculated and is more posterior th the stomach adjacent to the
+     splenic flexure. Lesion #5 is on the right in the posterior para renal space
+     measuring 3.2 x10.0.
+     
+     Lateral to the head of the pancreas, there are multiple punctate
+     calcifications either representing pancreatic calcifications, given history or
+     they could be CBD stones, however there is no biliary dilitation.
+     
+     The kidneys and adrenal glands are within normal limits. Small bowel and large
+     bowel are unremarkable. A nasogastric tube is seen extending into the stomach.
+     Vascular calcifications are seen within the aorta, celiac axis, SMA, splenic
+     artery and renal arteries.  The spleen is within normal limits. There is a
+     significant amount of low-attenuation fluid density seen perihepatic and
+     perisplenic and tracking down into the pelvis consistent with ascites.  There
+     is a focal air collection within the pelvis.
+     
+     CT PELVIS WITH IV CONTRAST:  The urinary bladder is catheterized.  The rectum
+     is unremarkable.  Prostatic calcifications are present.  No pathologically
+     enlarged retroperitoneal, mesenteric, pelvic lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic bony lesions.
+     
+                                                                 (Over)
+
+     DATE: [**2596-5-8**] 8:45 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 8390**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: eval abscess s/p dainage [**4-26**]                               
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     1.  Multiple fluid collections as mentioned detailed . Most likely diagnosis
+     includes pancreatic pseudocysts given history of pancreatitis.
+     2.  Calcifications lateral to pancreatic head, most likely representing
+     pancreatic calcifications given history of pancreatitis. These could also
+     represent CBD stones, however, no biliary obstruction is presen. Due to the
+     multiple pseudocysts and inflammation in the pancreatic bed - the normal
+     anatomic relationships are distorted, making exact localization of these
+     calcifications somewhat limitied.
+     4.  Ascites.
+     5.  Bilateral pleural effusions, right greater than left.
+     6.  Focal low-attenuation lesion within the right lobe of the liver, too small
+     to characterize.
+     
+
+",,
+8502,17573,10572,,2596-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-8**] 8:03 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8389**]
+     Reason: eval ett position                                           
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with pancr cysts, recent SOB starting 1 day ago, also s/p L  
+      subclavian placement 
+     REASON FOR THIS EXAMINATION:
+      eval ett position                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Shortness of breath.
+     
+     Single portable chest radiograph demonstrates moderate-to-large bilateral
+     pleural effusions, worse on the right than the left with associated basilar
+     atelectasis, likely worse when compared to the radiograph obtained earlier the
+     same day.  Left subclavian central venous catheter is unchanged in position.
+     The right internal jugular central venous catheter has been removed.  There is
+     an endotracheal tube present with its tip located 3 cm above the carina.  No
+     pneumothorax.  Trachea is midline.
+     
+     IMPRESSION:
+     
+     Support lines as described.
+     
+     Moderate-to-large bilateral pleural effusions and basilar atelectasis, worse
+     on the right than the left.
+     
+
+",,
+8502,17573,10572,,2596-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-8**] 8:03 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8389**]
+     Reason: eval ett position                                           
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with pancr cysts, recent SOB starting 1 day ago, also s/p L  
+      subclavian placement 
+     REASON FOR THIS EXAMINATION:
+      eval ett position                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Shortness of breath.
+     
+     Single portable chest radiograph demonstrates moderate-to-large bilateral
+     pleural effusions, worse on the right than the left with associated basilar
+     atelectasis, likely worse when compared to the radiograph obtained earlier the
+     same day.  Left subclavian central venous catheter is unchanged in position.
+     The right internal jugular central venous catheter has been removed.  There is
+     an endotracheal tube present with its tip located 3 cm above the carina.  No
+     pneumothorax.  Trachea is midline.
+     
+     IMPRESSION:
+     
+     Support lines as described.
+     
+     Moderate-to-large bilateral pleural effusions and basilar atelectasis, worse
+     on the right than the left.
+     
+
+",,
+8502,17573,10572,,2596-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-8**] 1:47 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 8388**]
+     Reason: pls eval abd, bowels                                        
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with pancr cysts, abd pain                                      
+     REASON FOR THIS EXAMINATION:
+      pls eval abd, bowels                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old man with pancreatic cyst and abdominal pain. Evaluate
+     for abnormal bowels..
+     
+     No comparison study.
+     
+     PORTABLE SUPINE ABDOMINAL PLAIN FILM:  
+     
+     There are air-filled loops of prominent small bowel with no gross evidence of
+     distention. Collapsed large bowel.  Osseous and soft tissue structures are
+     unremarkable.
+     
+     IMPRESSION:  Non-specific bowel gas pattern.  If clinical concern for
+     obstruction persists, then follow-up radiographs would be recommended.
+     
+
+",,
+8502,17573,10572,,2596-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-8**] 8:45 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 8390**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: eval abscess s/p dainage [**4-26**]                               
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51M pancreatic abscess                                                          
+     REASON FOR THIS EXAMINATION:
+      eval abscess s/p dainage [**4-26**]                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old male with pancreatic abscess.  Evaluate for post-
+     drainage.
+     
+     No comparison studies.
+     
+     CT ABDOMEN WITH IV CONTRAST:
+     
+     The visualized lung bases demonstrate a few focal areas of ground- glass
+     opacities.  There is a moderate-sized right pleural effusion and small left
+     pleural effusion.  Associated bibasilar atelectasis. There is a focal low-
+     attenuation lesion within the right lobe of the liver that is too small to
+     characterize.  The gallbladder contains multiple tiny stones.
+     
+     Multiple low attenuation lesions are seen within the upper abdomen. Lesion #1
+     is within the region of the pancreatic head and measures 2.0 x 2.3 cm. Lesion
+     #2 extends between the IVC and portal vein measuring 2.3 x 2.4 x 6.0 cm.
+     Lesion #3 is just posterior to the stomach measuring 2.0 x2.6 cm. Lesion #4 is
+     partially loculated and is more posterior th the stomach adjacent to the
+     splenic flexure. Lesion #5 is on the right in the posterior para renal space
+     measuring 3.2 x10.0.
+     
+     Lateral to the head of the pancreas, there are multiple punctate
+     calcifications either representing pancreatic calcifications, given history or
+     they could be CBD stones, however there is no biliary dilitation.
+     
+     The kidneys and adrenal glands are within normal limits. Small bowel and large
+     bowel are unremarkable. A nasogastric tube is seen extending into the stomach.
+     Vascular calcifications are seen within the aorta, celiac axis, SMA, splenic
+     artery and renal arteries.  The spleen is within normal limits. There is a
+     significant amount of low-attenuation fluid density seen perihepatic and
+     perisplenic and tracking down into the pelvis consistent with ascites.  There
+     is a focal air collection within the pelvis.
+     
+     CT PELVIS WITH IV CONTRAST:  The urinary bladder is catheterized.  The rectum
+     is unremarkable.  Prostatic calcifications are present.  No pathologically
+     enlarged retroperitoneal, mesenteric, pelvic lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic bony lesions.
+     
+                                                                 (Over)
+
+     DATE: [**2596-5-8**] 8:45 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 8390**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: eval abscess s/p dainage [**4-26**]                               
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     1.  Multiple fluid collections as mentioned detailed . Most likely diagnosis
+     includes pancreatic pseudocysts given history of pancreatitis.
+     2.  Calcifications lateral to pancreatic head, most likely representing
+     pancreatic calcifications given history of pancreatitis. These could also
+     represent CBD stones, however, no biliary obstruction is presen. Due to the
+     multiple pseudocysts and inflammation in the pancreatic bed - the normal
+     anatomic relationships are distorted, making exact localization of these
+     calcifications somewhat limitied.
+     4.  Ascites.
+     5.  Bilateral pleural effusions, right greater than left.
+     6.  Focal low-attenuation lesion within the right lobe of the liver, too small
+     to characterize.
+     
+
+",,
+8502,17573,10572,,2596-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-8**] 8:45 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 8390**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: eval abscess s/p dainage [**4-26**]                               
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51M pancreatic abscess                                                          
+     REASON FOR THIS EXAMINATION:
+      eval abscess s/p dainage [**4-26**]                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old male with pancreatic abscess.  Evaluate for post-
+     drainage.
+     
+     No comparison studies.
+     
+     CT ABDOMEN WITH IV CONTRAST:
+     
+     The visualized lung bases demonstrate a few focal areas of ground- glass
+     opacities.  There is a moderate-sized right pleural effusion and small left
+     pleural effusion.  Associated bibasilar atelectasis. There is a focal low-
+     attenuation lesion within the right lobe of the liver that is too small to
+     characterize.  The gallbladder contains multiple tiny stones.
+     
+     Multiple low attenuation lesions are seen within the upper abdomen. Lesion #1
+     is within the region of the pancreatic head and measures 2.0 x 2.3 cm. Lesion
+     #2 extends between the IVC and portal vein measuring 2.3 x 2.4 x 6.0 cm.
+     Lesion #3 is just posterior to the stomach measuring 2.0 x2.6 cm. Lesion #4 is
+     partially loculated and is more posterior th the stomach adjacent to the
+     splenic flexure. Lesion #5 is on the right in the posterior para renal space
+     measuring 3.2 x10.0.
+     
+     Lateral to the head of the pancreas, there are multiple punctate
+     calcifications either representing pancreatic calcifications, given history or
+     they could be CBD stones, however there is no biliary dilitation.
+     
+     The kidneys and adrenal glands are within normal limits. Small bowel and large
+     bowel are unremarkable. A nasogastric tube is seen extending into the stomach.
+     Vascular calcifications are seen within the aorta, celiac axis, SMA, splenic
+     artery and renal arteries.  The spleen is within normal limits. There is a
+     significant amount of low-attenuation fluid density seen perihepatic and
+     perisplenic and tracking down into the pelvis consistent with ascites.  There
+     is a focal air collection within the pelvis.
+     
+     CT PELVIS WITH IV CONTRAST:  The urinary bladder is catheterized.  The rectum
+     is unremarkable.  Prostatic calcifications are present.  No pathologically
+     enlarged retroperitoneal, mesenteric, pelvic lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic bony lesions.
+     
+                                                                 (Over)
+
+     DATE: [**2596-5-8**] 8:45 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 8390**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: eval abscess s/p dainage [**4-26**]                               
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     1.  Multiple fluid collections as mentioned detailed . Most likely diagnosis
+     includes pancreatic pseudocysts given history of pancreatitis.
+     2.  Calcifications lateral to pancreatic head, most likely representing
+     pancreatic calcifications given history of pancreatitis. These could also
+     represent CBD stones, however, no biliary obstruction is presen. Due to the
+     multiple pseudocysts and inflammation in the pancreatic bed - the normal
+     anatomic relationships are distorted, making exact localization of these
+     calcifications somewhat limitied.
+     4.  Ascites.
+     5.  Bilateral pleural effusions, right greater than left.
+     6.  Focal low-attenuation lesion within the right lobe of the liver, too small
+     to characterize.
+     
+
+",,
+8502,17573,10572,,2596-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-8**] 8:45 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 8390**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: eval abscess s/p dainage [**4-26**]                               
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51M pancreatic abscess                                                          
+     REASON FOR THIS EXAMINATION:
+      eval abscess s/p dainage [**4-26**]                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old male with pancreatic abscess.  Evaluate for post-
+     drainage.
+     
+     No comparison studies.
+     
+     CT ABDOMEN WITH IV CONTRAST:
+     
+     The visualized lung bases demonstrate a few focal areas of ground- glass
+     opacities.  There is a moderate-sized right pleural effusion and small left
+     pleural effusion.  Associated bibasilar atelectasis. There is a focal low-
+     attenuation lesion within the right lobe of the liver that is too small to
+     characterize.  The gallbladder contains multiple tiny stones.
+     
+     Multiple low attenuation lesions are seen within the upper abdomen. Lesion #1
+     is within the region of the pancreatic head and measures 2.0 x 2.3 cm. Lesion
+     #2 extends between the IVC and portal vein measuring 2.3 x 2.4 x 6.0 cm.
+     Lesion #3 is just posterior to the stomach measuring 2.0 x2.6 cm. Lesion #4 is
+     partially loculated and is more posterior th the stomach adjacent to the
+     splenic flexure. Lesion #5 is on the right in the posterior para renal space
+     measuring 3.2 x10.0.
+     
+     Lateral to the head of the pancreas, there are multiple punctate
+     calcifications either representing pancreatic calcifications, given history or
+     they could be CBD stones, however there is no biliary dilitation.
+     
+     The kidneys and adrenal glands are within normal limits. Small bowel and large
+     bowel are unremarkable. A nasogastric tube is seen extending into the stomach.
+     Vascular calcifications are seen within the aorta, celiac axis, SMA, splenic
+     artery and renal arteries.  The spleen is within normal limits. There is a
+     significant amount of low-attenuation fluid density seen perihepatic and
+     perisplenic and tracking down into the pelvis consistent with ascites.  There
+     is a focal air collection within the pelvis.
+     
+     CT PELVIS WITH IV CONTRAST:  The urinary bladder is catheterized.  The rectum
+     is unremarkable.  Prostatic calcifications are present.  No pathologically
+     enlarged retroperitoneal, mesenteric, pelvic lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic bony lesions.
+     
+                                                                 (Over)
+
+     DATE: [**2596-5-8**] 8:45 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 8390**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: eval abscess s/p dainage [**4-26**]                               
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     Field of view: 36 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     1.  Multiple fluid collections as mentioned detailed . Most likely diagnosis
+     includes pancreatic pseudocysts given history of pancreatitis.
+     2.  Calcifications lateral to pancreatic head, most likely representing
+     pancreatic calcifications given history of pancreatitis. These could also
+     represent CBD stones, however, no biliary obstruction is presen. Due to the
+     multiple pseudocysts and inflammation in the pancreatic bed - the normal
+     anatomic relationships are distorted, making exact localization of these
+     calcifications somewhat limitied.
+     4.  Ascites.
+     5.  Bilateral pleural effusions, right greater than left.
+     6.  Focal low-attenuation lesion within the right lobe of the liver, too small
+     to characterize.
+     
+
+",,
+8502,17573,10572,,2596-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-8**] 1:46 AM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 8387**]
+     Reason: pls eval lung fields, also s/p L subclav line               
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with pancr cysts, recent SOB starting 1 day ago, also s/p L 
+      subclavian placement 
+     REASON FOR THIS EXAMINATION:
+      pls eval lung fields, also s/p L subclav line                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old man with pancreatic cyst, recent shortness of breath,
+     starting one day ago.  Status post left subclavian placement.  Evaluate lung
+     fields.
+     
+     COMPARISON:  None.
+     
+     AP UPRIGHT CHEST RADIOGRAPH:  There is a large area of opacification of the
+     right lower and middle lung field, representing either consolidation and/or
+     effusion.  Opacities are seen within the left lower lobe with what appears to
+     be cavitary component, likely just reflects overlying rib.  The heart,
+     mediastinal and hilar contours are unremarkable.  Left subclavian catheter tip
+     is at the mid SVC. Right internal jugular catheter tip is slightly more
+     proximal in the mid SVC. No evidence of pneumothorax.
+     
+     IMPRESSION:
+     
+     1.  Right lower lobe opacity, likely representing consolidation and/or
+     effusion.
+
+",,
+8502,17573,10572,0,2596-05-08 03:40:00 EST,2596-05-08 04:09:00 EST,4370,"N",53,"Nursing/Other","ADMIT NOTE","
+ADMIT NOTE
+Pt is 51 yo male who presented to OSH on [**4-24**] after approx 1wk of N/V. Dx'd with pancreatitis and hemorhagic pocket near pancreas on CT. On [**4-26**] aspiration of abcess was done under ultra sound and 160cc of blood was obtained. Pt was dc'd to floor (? [**5-7**] or [**5-8**]). Pt has had rising amylase and lipase with WBC in 30s. Abd CT [**5-6**] showed increased fluid/inflammation in pacreas. KUB showed ileus, however pt did have BM yesterday.  Pt transferred to ICU at OSH for obs.  Trans to [**Hospital1 22**] for surgical eval. 
+
+ROS:
+
+NEURO: Pt A+Ox3. Cooperative. MAE and follow commands. C/O [**9-8**] abd pain not relieved with ivp MSO4. MSO4 PCA started with small effect.
+
+RESP: LS coarse bilat with coarse crackles at bilat bases. Arrived to TSICU with sats 93-94% on 4LNC. Pt has significant DOE and desaturates with turning. ABG with paO2 60s; pt placed on 50% face tent in addition to NC with increase in sats to 95-97%. Pt has congested nonproductive cough.
+
+CV: HR 110s-120s ST no ectopy noted. BP 90s-120s/40s-70s. CVP 7-9.
++2 pitting edema to BLE.
+
+HEME: Hct 27.2, INR 1.7.
+
+GI: Pt arrived with TPN and Lipids infusing. NPO at this time. Abd firm, distended, and tender to palpation. +Bowel sounds. LBM [**5-7**]. 
+
+GU: Adequate u/o via foley. Mg and Ca repleted. 
+
+ID: Temp on arrival 101.4. Pt pan cultured. Started on imipenem. RIJ dc'd and left TLCL was placed.  
+
+ENDO: FS covered per RISS.
+
+SKIN: Grossly intact. No breakdown noted.
+
+ASSESSMENT: Pt with pancreatitis trans from OSH for [**Doctor First Name 4**] eval. 
+Pain. Infection. Impaired gas exchanged.  Fluid/electrolyte imbalance.
+
+PLAN: Monitor vs, I/O's, monitor fever curve and f/u with culture results, pulmonary hygiene andmonitor resp status, serial ABG's, pain management. 
+",,
+8502,17573,10572,0,2596-05-08 18:40:00 EST,2596-05-08 18:53:00 EST,4280,"N",53,"Nursing/Other",,"
+
+NURSING NOTE 7A-7P REVIEW OF SYSTEMS:
+NEURO: AWAKE ALERT AND OREINTED.  MOVES ALL EXTREMIITES WELL. TRANSFERED OOB TO CHAIR WITH ASSIST OF TWO. CONTINUES ON PCA MORPHINE SULFATE WITH GOOD PAIN CONTROL.
+C/V: ST RATE 110-121 WITHOUT ECTOPY. ABP 108-121/53-64.
+RESP: O2 CONTINUES ON AT 4LNC AND 50% FACEMASK. O2 SAT 95-98% THROUGHOUT DAY. ABG 7.47-32-71, PLEASE SEE CAREVUE FOR OTHER LAB RESULTS. LUNG SOUNDS COARSE WITH CRACKLES AT BASES.
+GI: NPO.  ABDOMEN FIRM AND DISTENDED, POSITIVE BOWEL SOUNDS.  NO STOOL OR FLATUS THIS SHIFT. NGT PLACED BY DR. [**Last Name (STitle) 81**], READICAT GIVEN AT 1700 AND ATTACHED TO LOW WALL SUCTION AFTER DISCISION TO INTUBATE MADE.
+LINES: ALINE PATENT MULTILUMEN PATENT. GOOD WAVE FORMS SEE CAREVUE.
+GU: FOLEY PATENT DRAINING ICTERIC URINE 25-60CC/HR.
+ENDO: FS 126 TREATED WITH 2 UNITS REGULAR INSULIN.
+PLAN: ABG SENT WHILE PATIENT LYING FLAT TO EVALUATE IF PATIENT ABLE TO TOLERATE CT SCAN. ABG PENDING.  PLAN TO INTUBATE PATIENT BEFORE CT SCAN. PATIENTS WIFE CALLED AND NOTIFIED AT HOTEL SHE VISITED BEFORE INTUBATION.
+
+ 
+",,
+8502,17573,10572,,2596-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-9**] 10:48 AM
+     CHEST U.S.                                                      Clip # [**Clip Number (Radiology) 8392**]
+     Reason: MARK SPOT FOR PLEURAL TAP
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51M gallstone pancreatitis, with moderate right pleural effusion                
+     REASON FOR THIS EXAMINATION:
+      therapeutic thoracentesis                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old man with gallstone pancreatitis and moderate right
+     pleural effusion.
+     
+     FINDINGS:  The patient was placed on right lateral decubitus position. 
+     Sonographic examination demonstrates a moderate right pleural effusion.  A
+     spot was marked for bedside thoracentesis.
+                                                                           
+
+",,
+8502,17573,10572,,2596-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-9**] 7:37 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8394**]
+     Reason: r/o pneumothorax; thanks                                    
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           51 year old man s/p thoracentesis.                                         
+     REASON FOR THIS EXAMINATION:
+      r/o pneumothorax; thanks                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post thoracocentesis.  Rule out pneumothorax.
+     
+     PORTABLE AP RADIOGRAM OF THE CHEST:  Comparison is made to a study four hours
+     earlier.  Again seen is a left subclavian vein catheter with the tip in the
+     proximal SVC.  The NG tube is again seen to be coiled in the stomach.  The
+     endotracheal tube is approximately 5 cm above the carina.  Again seen is
+     opacity in the right mid and lower lung field consistent with a pleural
+     effusion or atelectasis.  There has been slight interval increase in the
+     opacity in comparison to prior study. There is a left pericardial opacity, a
+     consolidation in this area cannot be excluded.
+     
+     IMPRESSION:  Slight interval increase in right-sided pleural effusion.
+     Possible left lower lobe or lingular consolidation.
+
+",,
+8502,17573,10572,,2596-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-9**] 3:09 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8393**]
+     Reason: s/p pleurocenthesis                                         
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         51 year old man with pancr cysts, recent SOB starting 1 day ago, also s/p L  
+        subclavian placement 
+     REASON FOR THIS EXAMINATION:
+      s/p pleurocenthesis                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM.
+     
+     History of pancreatic cysts and shortness of breath with CV line placement.
+     
+     Endotracheal tube is 4 cm above carina.  Left subclavian CV line is in
+     proximal SVC.  NG tube is coiled in fundus of stomach.  No pneumothorax. 
+     There is a right pleural effusion which is unchanged since the previous film
+     of the same date.
+                                                                           
+
+",,
+8502,17573,10572,,2596-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-9**] 6:39 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8391**]
+     Reason: eval ett position                                           
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 year old man with pancr cysts, recent SOB starting 1 day ago, also s/p L   
+      subclavian placement 
+     REASON FOR THIS EXAMINATION:
+      eval ett position                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE SUPINE CHEST ON [**2596-5-9**]
+     
+     COMPARISON:  [**2596-5-8**].
+     
+     INDICATION:  Evaluate endotracheal tube placement.
+     
+     An endotracheal tube has been withdrawn slightly in the interval and now
+     terminates 3.6 cm above the carina.  A gastric tube tip is in the fundus and a
+     left subclavian catheter terminates in the superior vena cava.  Allowing for
+     rotation, heart size and mediastinal contours are probably within normal
+     limits.  Large right and small left pleural effusions are again visualized
+     with interval improvement in the left pleural effusion.  There is otherwise no
+     significant change since the recent study.
+                                                                           
+
+",,
+8502,17573,10572,,2596-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-9**] 3:09 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8393**]
+     Reason: s/p pleurocenthesis                                         
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         51 year old man with pancr cysts, recent SOB starting 1 day ago, also s/p L  
+        subclavian placement 
+     REASON FOR THIS EXAMINATION:
+      s/p pleurocenthesis                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM.
+     
+     History of pancreatic cysts and shortness of breath with CV line placement.
+     
+     Endotracheal tube is 4 cm above carina.  Left subclavian CV line is in
+     proximal SVC.  NG tube is coiled in fundus of stomach.  No pneumothorax. 
+     There is a right pleural effusion which is unchanged since the previous film
+     of the same date.
+                                                                           
+
+",,
+8502,17573,10572,,2596-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-9**] 7:37 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8394**]
+     Reason: r/o pneumothorax; thanks                                    
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           51 year old man s/p thoracentesis.                                         
+     REASON FOR THIS EXAMINATION:
+      r/o pneumothorax; thanks                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post thoracocentesis.  Rule out pneumothorax.
+     
+     PORTABLE AP RADIOGRAM OF THE CHEST:  Comparison is made to a study four hours
+     earlier.  Again seen is a left subclavian vein catheter with the tip in the
+     proximal SVC.  The NG tube is again seen to be coiled in the stomach.  The
+     endotracheal tube is approximately 5 cm above the carina.  Again seen is
+     opacity in the right mid and lower lung field consistent with a pleural
+     effusion or atelectasis.  There has been slight interval increase in the
+     opacity in comparison to prior study. There is a left pericardial opacity, a
+     consolidation in this area cannot be excluded.
+     
+     IMPRESSION:  Slight interval increase in right-sided pleural effusion.
+     Possible left lower lobe or lingular consolidation.
+
+",,
+8502,17573,10572,0,2596-05-09 03:47:00 EST,2596-05-09 04:13:00 EST,4370,"N",53,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+EVENTS: Pt electively intubated at beginning of shift d/t poor likelihood of tolerating CT scan given poor ABG's and severe DOE.
+
+ROS:
+
+NEURO: Initally A+Ox3. MAE, following commands. Post intubation pt is sedated on propofol/fentanyl gtts. Agitated when lightened but purposeful (reaches for ETT if unrestrained). 
+
+RESP: Pt intubated without difficulty.  Vented on assist control. ABG initially revealed low oxygenation/poor P:F ratio. Peep increased and pt's PaO2 gradually increased overnight however is still relatively low given vent settins of 10peep and 70fiO2.  LS coarse with scattered crackles and I/E wheezing in all fields. Suctioned frequently for thick rust colored secretions. Pt has large amount of bloody secretions in oral pharynx. Sputum culture sent. Pt also has cuff leak which has been very difficult to seal overnight, however pt is maintaining adequate volumes on vent. 
+
+CV: HR 100s ST no ectopy noted. BP 90s-120s/50s-70s. CVP 7-9. +2 pitting edema to BLE. 
+
+HEME: Hct 25.6, INR 1.5.  No interventions at this time. Sq heparin/pboots cont.
+
+GI:  Pt went for abd CT after intubation; results pending. Abd firm and distended. Very hypoactive bowel sounds only heard in LLQ. NGT draining bilious output and baricat. Lg loose green/baricat stool x 1. TPN cont for nutrition.
+
+GU: Adequate u/o. Lytes repleted.
+
+ID: AFebrile this shift. Imipenem cont. WBC 33.5 (from 32.7). MRSA swabs sent.
+
+ENDO: No coverage needed per RISS.
+
+SKIN: Overall skin dry and calloused in some areas but grossly intact. Back/buttocks no  breakdown noted.
+
+SOCIAL: Wife visited on eve shift and spoke with pt prior to being intubated. Wife appeared to be very anxious and teary eyed. Will likely need social services to follow.
+
+ASSESSMENT: 51 yo male with pancreatitis electively intubated for poor oxygenation on ABG's.  
+Impaired gas exchange. 
+Infection.
+Oral mucous membrane alteration.
+? Fluid volume deficit as evidenced by tachycardia, low CVP, and prescence of pedal edema. 
+
+PLAN: Cont to monitor vs, aggressive pulmonary hygiene, aggressive oral care, sedation/pain management, f/u with imaging and culture results. 
+",,
+8502,17573,10572,0,2596-05-09 05:40:00 EST,2596-05-09 05:47:00 EST,3317,"N",53,"Nursing/Other",,"
+
+Resp Care: Pt intubated for worsening oxygenation, self extubated and reintubated over bougie, placement confirmed by etco2/bbs; placed on ventilatory support with a/c, settings titrated to abg, currently on fio2 1.0 following reintubation; bs coarse crackles, sxn copious thick rusty/blood tinged secretions, will cont full support.
+",,
+8502,17573,10572,0,2596-05-09 15:42:00 EST,2596-05-09 15:44:00 EST,6646,"N",53,"Nursing/Other","Respiratory Care","
+Respiratory Care
+
+  Pt received on full ventilatory support, weaned as documented. Placed on PSV 15/5 tolerating well. Lg pl effusion drained. B/S sl coarse sx mod thick yellow. Will continue to follow closely.
+",,
+8502,17573,10572,0,2596-05-09 16:13:00 EST,2596-05-09 16:27:00 EST,4045,"N",53,"Nursing/Other",,"
+
+See [**Name6 (MD) 54**] data, MD notes/orders. Neuro: Opens eyes to tactile stimuli, localizes pain, mae on bed. CV: SR/ST no ectopy, sbp stable 90's-1teens/70's. Pulm: Remains intubated, tolerating vent changes with 02 sat 100% and acceptable abg's. Right thoracentesis yielded 570cc fluid with samples sent to lab. Post procedure cxr showed no pneumothorax, ?second fluid collection. Procedure tolerated well. Lungs coarse with right lung fields decreased. Pt suctioned periodically for thick tan ett secretions, blood tinged oral secretions. GU: UO >50cc/hr clear amber.  GI: Abd firm and distended, bowel sounds +. Ngt to lws draining bilious fluid in small quantity. No stool/flatus. Endo: Ssc with regular insulin per mar. Skin: Surfaces grossly intact, peripheral pulses palpable. FEN: Serial hcts for 4 point drop from 29<25, following lft's/amylase and lipase, currently elevated. Lytes prn with repletion. Tpn infusing via central line at 75cc/hr. Soc: Wife staying at Best Western, at bedside most of the day. P: Titrate sedation prn, wean settings/risbi in am, follow cxrys ?future thoracentesis, ?extubation. Continue to follow lab values as above, transfuse as ordered/indicated. Keep family up to date on poc, offer emotional support, facilitate communiation with surgical team, social worker as needed.
+",,
+8502,17573,10572,,2596-05-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-10**] 5:45 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8395**]
+     Reason: please eval lung fields; thanks                             
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          51 year old man with pancr cysts, recent SOB starting 1 day ago, also s/p 
+      right thoracentesis. 
+     REASON FOR THIS EXAMINATION:
+      please eval lung fields; thanks                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old male with pancreatic cysts, now status post right
+     thoracentesis with dyspnea.
+     
+     COMPARISON:  Chest radiographs, [**5-8**] through [**2596-5-9**].
+     
+     SUPINE PORTABLE CHEST:  Endotracheal tube tip is 5 cm above the carina.  Left
+     subclavian central line tip is in the proximal SVC.  Compared to the earliest
+     chest film on [**5-8**], there has been progressive mediastinal widening and
+     increase in size of the cardiac silhouette concerning for elevated central
+     venous pressure and pericardial effusion.  Given differences in patient
+     positioning compared to [**5-9**], there is probable decrease in size of right
+     pleural effusion which is now moderate to large.  There remains a persistent
+     small left pleural effusion.  Prominent interstitial markings are compatible
+     with mild interstitial edema.
+     
+     The results of this study were discussed with Dr. [**First Name4 (NamePattern1) 792**] [**Last Name (NamePattern1) 8396**] on [**2596-5-10**].
+     
+
+",,
+8502,17573,10572,0,2596-05-10 03:52:00 EST,2596-05-10 03:55:00 EST,3752,"N",53,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated overnoc on A/C. Failed IPS trial earlier due to tachypnea. IPS increased to 15 without effect. Pt. desaturated to 90% requiring frequent suctioning of thick tan sputum. Placed on A/C overnoc, and placed back on IPS 15 this am. Tol well, VT 400's, RR 20's. RSBI 114 this am. Cont. IPS trial as tol. See carevue.
+",,
+8502,17573,10572,0,2596-05-10 05:02:00 EST,2596-05-10 05:26:00 EST,7756,"N",53,"Nursing/Other","T/SICU Shift Report 1900-0730","
+T/SICU Shift Report 1900-0730
+51 Year Old Male    Allergy - Shellfish    FULL CODE   Universal Prec
+
+Admission [**2596-5-7**] - Pancreatitis
+ 
+PMH ETOH
+    Hypertension
+    Chronic Low Back Pain
+    Restless Leg Syndrome
+    Jaundice
+    Gallstones
+
+Patient admitted for OSH for surgical work-up for pancreatitis. Upon evaluation surgeons deemed that no surgery was necessary. Patient electively intubated for CT scan of the abdomen, with a planned to extubate post procedure. However, patient has since failed to wean from ventilation.
+
+Review of Systems:
+
+Resp - Patient initially on CPAP/PS (abg pao2 83), changed to CMV with good effect (abg pH 7.40, PaCO2 37, PaO2 120), changed back to CPAP/PS FiO2 50%, PEEP 5, PS 15. SpO2 >06%, RR 25-35. Breath sounds now clear throughout with aggressive chest PT, Q2 turns, deep suction. Copious amounts of thick tan secretions on ETT suction. ETT resecured with fabric holder in addition to tapes.
+
+CVS - Sinus rhythm, with minimal ectopy witnessed. HR 100-115bpm, SBP 95-130, MAP 70-90, CVP 7-9, T max 100.0. Peripherally warm/well perfused/palpable pedal and radial pulses. Serial HCT Q6 25.6-25.9%. 0200 labs Hb down to 8.6, WCC down to 21.2, Lactate 1.4. Continues on IV ABS.
+
+Renal - UO 70-100ml/hr, 24 hour balance +ve 1600ml. 0200 labs K+ 3.6, Mg 1.8, Ca 8.1. 
+
+Neuro - Sedated with propofol and fentanyl, easily rousable, and appears comfortable when not stimulated. MAE. GCS 11 (e3v2m6). Obeying commands. No apparent pain.
+
+GI - TPN 75ml/hr. NG tube to LCS - minimal bilious fluid. Abdomen firm/distended (unchanged). Fecal collector bag in situ, minimal output overnight. Blood glucose stable with ISS.
+
+Skin - given full bed bath at beginning of shift. Skin grossly intact.
+
+Access - Aline/Cline intact.
+
+Family - No contact overnight.
+
+PLAN - Possible extubation
+       HCT due at 0800? to be confirmed on rounds.
+",,
+8502,17573,10572,0,2596-05-10 15:25:00 EST,2596-05-10 15:28:00 EST,6829,"N",53,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt continues to be orally intubated/ventilated.  BS:  coarse bilterally.  Suctioned for large amounts of thick yellow secretions.  MDI's given as ordered.  Pt tolerating PSV 5/5/.50 x's 10mins-tachypnic with resp rate in the mid-30's.  RSBI=127 this afternoon.  PSV decreased from 15 to 10cm.  Tidal volumes ranging from 350-500cc's and Resp rate in mid-20's.  Plan to reassess for extubation in the morning.  Will continue to closely monitor at this time.
+",,
+8502,17573,10572,0,2596-05-10 16:27:00 EST,2596-05-10 16:40:00 EST,4370,"N",53,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+NEURO: Pt sedated on propofol and fentanyl. Sleepy but arousable to voice. Does not follow commands but is purposefull and MAE. Sedation not turned off d/t high potential to self extubate (see carvue flowsheet from [**5-8**] AM).  
+
+RESP: Remains vented on CPAP. Pt not extubated d/t high RSBI. PS weaned to 10 from 15. LS coarse but clear with aggressive CPT. Suctioned frequently for copious amts of tan sputum. Sats 96-100%.
+
+CV: HR 90s NSR, no ectopy noted. BP 120s-130s/60s-80s. Cont with +2 edema to BLE.
+
+HEME: AM H/H WNL. Sq heparin/pboots for DVT prophylaxis.
+
+GI: Abd remains firm and distended. No stool; rectal bag removed. Large amt bilious output from NGT. TPN cont.
+
+GU: Adequate u/o via foley.
+
+ID: Afebrile. Cont with imipenem. WBC decreased.
+
+ENDO: No coverage per RISS.
+
+SKIN: Grossly intact; no breakdown noted.
+
+SOCIAL: Wife at bedside in AM. Very teary about pt's condition and expressed being upset that pt has not yet been extubated. Wife also expressed feeling guilty about needing to go home to NH. Encouraged by this RN to leave hosp if needed, SW also spoke with wife regarding hotel arrangements. They will continue to follow as pt's wife has expressed feeling ""stressed out.""
+
+ASSESSMENT: 51 yo male with pancreatic pseudocyst. Remains intubated for ineffective airway clearance and impaired gas exchange.
+
+PLAN: Cont to monitor vs, sedation/pain management, aggressive pulmonary hygiene, labs and f/u with culture results, cont to wean from vent as tol, provide social support for pt's wife.
+
+
+",,
+8502,17573,10572,,2596-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-11**] 5:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8397**]
+     Reason: rule out ptx                                                
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51M s/p thoracentesis                                                           
+     REASON FOR THIS EXAMINATION:
+      rule out ptx                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old man status post thoracentesis.
+     
+     CHEST AP:  There is a large right pleural effusion, which is possibly
+     loculated.  This has increased since the last study from a day ago.  There is
+     atelectasis at the right lung base, without suggestion of consolidation. There
+     is a possible small left effusion.  The endotracheal tube, NG tube and left
+     subclavian line are in appropriate and unchanged positions.
+     
+     IMPRESSION:  Increased large right pleural effusion with possible loculation.
+
+",,
+8502,17573,10572,,2596-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-11**] 2:55 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8398**]
+     Reason: please eval                                                 
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 y/o M w/ new right chest catheter.                                          
+     REASON FOR THIS EXAMINATION:
+      please eval                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right chest catheter placement.
+     
+     CHEST AP:  Compared to the study from nine hours earlier, there has been
+     interval placement of a right-sided catheter.  There is some slight decrease
+     in the size of large right pleural effusion which appears to be slightly
+     loculated.  The NG tube is in unchanged position, as is the left subclavian
+     line.  The endotracheal tube has been removed.
+                                                                           
+
+",,
+8502,17573,10572,,2596-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-11**] 2:55 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8398**]
+     Reason: please eval                                                 
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 y/o M w/ new right chest catheter.                                          
+     REASON FOR THIS EXAMINATION:
+      please eval                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right chest catheter placement.
+     
+     CHEST AP:  Compared to the study from nine hours earlier, there has been
+     interval placement of a right-sided catheter.  There is some slight decrease
+     in the size of large right pleural effusion which appears to be slightly
+     loculated.  The NG tube is in unchanged position, as is the left subclavian
+     line.  The endotracheal tube has been removed.
+                                                                           
+
+",,
+8502,17573,10572,0,2596-05-11 02:38:00 EST,2596-05-11 02:42:00 EST,3561,"N",53,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings. See vent flow sheet for details. Suctioned mod amts thick yellow secretions. MDI'S given . RSBI done on 0 peep/ 5ips 53. Temp 99. ABG'S good.Sedated with fentanyl. Will cont to monitor resp status. Wean to extubate. 
+",,
+8502,17573,10572,0,2596-05-11 05:11:00 EST,2596-05-11 05:28:00 EST,7756,"N",53,"Nursing/Other","T/SICU Shift Report 1900-0730","
+T/SICU Shift Report 1900-0730
+51 Year Old Male   Allergy - Shellfish    FULL CODE   Universal Prec
+
+Admission [**2596-5-7**] - Pancreatitis
+
+PMH - ETOH
+      Hypertension
+      Smoker
+      Chronic Low Back Pain
+      Restless Leg Syndrome
+      Jaundice
+      Gallstones
+
+Transferred from OSH for further investion of pancreatitis. Intubated for CT scan, and respiratory deterioration. Slow wean from ventilation.
+
+Review of Systems:
+
+Resp - CPAP/PS PEEP 5 PS 10 FiO2 50%, SpO2 >95%, RR 25-35, RSBI 30. Q2 CPT, turns, aggressive pulmonary toilet, with reduction in secretion production (now moderate thick yellow Q2). Excellent cough reflex. Attempted wean to PS to 5, however combination of reduction in sedation led to tachypenia/tachycardia. 0200 ABG pH 7.4, PaCO2 35, PaO2 125.
+
+CVS - Sinus Tachycardia with minimal PVCs. HR 95-125, SBP 115-150, MAP 80-95, CVP 7-15, Tmax 99.4. Peripherally warm/well perfused/palpable pedal pulses. 0200 labs HCT upto 27.2, Hb upto 9.0, WCC down to 19.6, lactate 1.4. Continues on imipenum.
+
+Renal - UO 35-120ml/hr, 24 hour balance +1100ml. 0200 labs Elevated creatinine, BUN WNL, K 3.8 (repleted with 20mEq KCl), Mg 1.8 (repleted with 2g MgSO4), Ca 8.2.
+
+Neuro - Sedated with 50mcg/kg/min Propofol, 25mcg/hr Fentanyl, alert, MAE obeying commands, non-verbal response to questions. GCS 11 (e4v1m6). Denies pain. Pupils 3mm/3m brisk reactive. Making purposeful movements.
+
+GI - TPN 70ml/hr. NG tube to LCS (retaped overnight), minimal bilios output overnight. [**Last Name (un) 91**] firm/distended/hypoactive bowel sounds. No BM overnight. Blood glucose stable with ISS.
+
+Skin - Given full bed bath at beginning of shift. Turned Q2 (for Chest PT). Pressure areas intact. 
+
+Access - Aline/Cline patent, redressed.
+
+Family - Wife called at beginning of shift for update in patients status, will visit today around 11am.
+
+PLAN - Extubate with anesthesia support
+       Q2 CPT/Turning/Pulmonary Hygiene
+       Wean Sedation as able
+       
+",,
+8502,17573,10572,0,2596-05-11 14:31:00 EST,2596-05-11 14:43:00 EST,4370,"N",53,"Nursing/Other","NPN 0700-1500","
+NPN 0700-1500
+EVENTS: Sedation weaned and pt extubated.
+
+NEURO: Pt A+Ox3. C/O increased pain on fentanyl gtt, therefore gtt dc'd and dilaudid PCA initiated. Pt is currently c/o poor pain control however it was noted that pt is not using PCA as frequently as he is able to. MAE, follows commands.
+
+RESP: Pt extubated this AM and placed on 50% face tent. Sats 93-97%. LS coarse. Pt has strong congested cough. SOB with any type of activity. Pt cannot tolerate HOB < 30 degrees. Heimlich valve/CT placed to right medial chest for increased pleural fluid. At this time, pt sates no relief from SOB despite 400cc output. Pt needs encouragement to cough, deep breathe and expectorate secretions.
+
+CV: HR 100s-130s, ST no ectopy noted. BP 130s/70s. +2 edema to extremities.
+
+HEME: AM H/H WNL. Sq heparin/pboots cont.
+
+GI: NGT to LCS with bilious output. Loose green BM x 2. Bowel sounds hypo. Remains NPO with TPN.
+
+GU: Adequate u/o via foley.
+
+ID: Afebrile. Cont on imipenem.  WBC decreasing.  Pleural fluid sent for culture/gram stain.
+
+ENDO: FS covered per RISS.
+
+SKIN: Back/buttocks grossly intact, no breakdown noted.
+
+SOCIAL: Wife at bedside. Anxious and teary at times. Informed on POC.
+
+ASSESSMENT. Pt 51 yo male with pancreatitis/pancreatic pseudoscyst. Extubated this AM. Cont with suboptimal airway clearance. Infection.  Acute pain. 
+
+PLAN: Cont to monitor vs, encourage pulmonary hygiene, pain mgmt, IV abx as ordered.
+",,
+8502,17573,10572,,2596-05-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-12**] 6:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8399**]
+     Reason: eval effusion                                               
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 y/o M w/ new right chest catheter.                                         
+       
+     REASON FOR THIS EXAMINATION:
+      eval effusion                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old male with right chest catheter and concern for pleural
+     effusion.
+     
+     COMPARISON:  [**2596-5-11**].
+     
+     The nasogastric tube is within the stomach.  Tip of a left subclavian line is
+     at the proximal SVC.  A right chest catheter remains in unchanged position. 
+     Given supine positioning on today's study, there is no definite change in
+     partially loculated right pleural effusion with associated basilar
+     atelectasis.
+     
+     IMPRESSION:  Given change in patient position, no significant change in
+     partially loculated right pleural effusion.
+                                                                           
+
+",,
+8502,17573,10572,0,2596-05-12 05:45:00 EST,2596-05-12 06:01:00 EST,7756,"N",53,"Nursing/Other","T/SICU Shift Report 1900-0730","
+T/SICU Shift Report 1900-0730
+51 Year Old Male    Allergy - Shellfish   FULL CODE  Universal Prec
+
+Admission [**2596-5-7**] - Pancreatitis
+
+PMH - ETOH
+      Hypertension
+      Smoker
+      Chronic Low Back Pain
+      Restless Leg Syndrome
+      Jaundice
+      Gallstones
+
+Patient transferred from OSH for further evaluation of pancreatitis. Intubated for CT scan and deteriorating respiratory status. Slow wean from ventilation due to copious secretions. Extubated [**2596-5-11**].
+
+Review of Systems:
+
+Resp - SV on cool mist face tent 10l. SpO2 >93% RR 20-30bpm. Breath sounds clear to coarse throughout, diminished at R base. 0200 ABG pH 7.45, PaCO2 40, PaO2 97, BE 3. Coughing and clearing secretions well. Fine bore chest tube inserted for pleural effusion on the R (700 out total, 200 overnight - serosanginous fluid). 
+
+CVS - Sinus Tachycardia with occasional PVCs. HR 120-130bpm, SBP 120-145, MAP 80-100, CVP (unreliable waveform), Tmax 100.4. Peripherally warm/well perfused/palpable pedal pulses. 0200 labs HCT upto 28.4%, Hb upto 9.2, WCCupto 24.6, coags WNL. 
+
+Renal - UO 50-250ml/hr with 20mg furosemide IVP, in balance for last 24hrs, currently -ve for this shift. 0200 labs BUN/Creatinine WNL, K 3.5 (repleted with 20mEq KCl), Mg 1.7 (repleted with 2g MgSO4), Ca 8.1. 
+
+Neuro - Alert x oriented x 3, slept for periods overnight. GCS 15 (e4v5m6). Pupils 3mm/3mm reactive. MAE. PCA dilaudid for pain, using well with encouragement.
+
+GI - NG tube to low continuous suction, minimal bilious output overnight. NPO. Abdomen remains firm/distended/hypoactive bowel sounds. Blood glucose controlled with ISS.
+
+Skin - Turned twice overnight as per patient request. Skin grossly intact.
+
+Family - Wife updated over the phone overnight.
+
+PLAN - Wean FiO2 as able
+       Encourage use of IS
+       Regular Chest PT
+       Continue Diltiazem PO
+       Encourage use of PCA
+",,
+8502,17573,10572,0,2596-05-12 13:35:00 EST,2596-05-12 13:47:00 EST,4045,"N",53,"Nursing/Other",,"
+
+See [**Name6 (MD) 54**] data, MD notes/orders. Neuro: A&O x3, equal strength x4, able to stand/pivot with transfer from bed/chair. Pain controlled with pca dilaudid. CV: ST, rate 110-140's improving after diltiazem dose adjustment. Bp 130-140's/70'.
+Pulm: Face tent with 50% cool mist, 02 sat>95%. Desats on room air to high 80's. Has loose productive cough and uses IS to 750cc with encouragement. Lungs are coarse, very decreased at right base. Right chest tube draining 200cc+ serous fluid q2-4hrs. GU: Uo>50cc/hr clear yellow. GI: Abd soft/distented with +bs. Ngt dc'd and pt taking clear liquids without difficulty. Endo: Ssc with regular insulin. Skin: Surfaces grossly intact, [**3-4**]+ pedal edema noted. Soc: Wife traveling daily from NH. P: Continue to monitor cardivascular/pulmonary status, encourage IS/TCDB. Notitify team of unresolved tachycardia. Follow lytes/replete prn. Increase activity as tolerated, keep family up to date on poc, ?transfer out of ICU in am if medically appropriate.
+",,
+8502,17573,10572,,2596-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-13**] 5:14 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8401**]
+     Reason: eval for loculated effusion please                          
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51M persistent R pleural effusion s/p CT placement                              
+     REASON FOR THIS EXAMINATION:
+      eval for loculated effusion please                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE CHEST ON [**5-13**]
+     
+     HISTORY:  Persistent right pleural effusion following chest tube placement,
+     evaluate for loculation.
+     
+     TECHNIQUE:  Multidetector helical scanning of the chest was performed without
+     intravenous contrast [**Doctor Last Name 74**].  Reconstructed are contiguous 5- and 1.25-mm thick
+     axial images compared with the chest portion of a CT of the torso on [**2596-5-8**].
+     
+     FINDINGS:
+     
+     Large right pleural effusion has increased in volume.  A small-bore right
+     pleural tube inserted in the interim, enters the lateral chest and cannulates
+     the right major fissure between the collapsed middle and lower lobes. Non
+     hemorrhagic pleural effusion, with small pockets of air, fills most of the
+     right hemithorax aside from the partially inflated right upper lobe and
+     largely layers posteriorly, although there may be a small anterolateral
+     loculation at the level of the aortic arch. Small nonhemorrhagic left pleural
+     effusion also layers posteriorly.  A small pericardial effusion is
+     present, with no findings to suggest tamponade.
+     
+     Central adenopathy consists of 13-mm right upper internal mammary, 12-mm right
+     lower paratracheal, 10-mm left lower paratracheal, and 19-mm subcarinal nodes.
+     The right upper lobe bronchus is severely narrowed by hilar lymph nodes
+     ranging up to 12 mm in diameter.  Distal to that the entire right bronchial
+     tree is occluded, probably by retained secretions.  Aside from dependent
+     atelectasis in the left lower lobe and a small region of ground- glass opacity
+     in the left upper lung, the left lung is clear.  Because of the extensive
+     atelectasis in the right lung, significant pathology would not be apparent.
+     
+     Heavy atherosclerotic calcification is seen in both coronaries, left greater
+     than right, and at the origin of the head and neck vessels near the aortic
+     arch.
+     
+     Findings in the upper abdomen have not changed since [**5-8**] when the report
+     of a Torso CT described ascites and calcifications in the gallbladder, bile
+     duct, and head of the pancreas.
+     
+     A left-sided central venous line ends in the upper SVC.
+     
+                                                                 (Over)
+
+     DATE: [**2596-5-13**] 5:14 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8401**]
+     Reason: eval for loculated effusion please                          
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Large, increasing nonhemorrhagic right pleural effusion.  Small-bore right
+     pleural tube is fissural.
+     
+     2.  Moderately extensive central adenopathy probably contributing to right
+     upper lobe narrowing.  Most of the right lung is collapsed from a combination
+     of relaxation atelectasis, right upper lobe narrowing, and retained secretions
+     more distally in the right bronchial tree.
+     
+     3.  Stable small nonhemorrhagic layering left pleural effusion.
+     
+     4.  Heavy coronary atherosclerosis.
+     
+     5.  Ascites and biliary and pancreatic calcifications, upper abdomen,
+     unchanged since  Torso CT [**2596-5-8**].
+     
+
+",,
+8502,17573,10572,,2596-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-13**] 5:21 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8400**]
+     Reason: please re-eval. thanks.                                     
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         51 y/o M w/ right pleural effusion.                                          
+     REASON FOR THIS EXAMINATION:
+      please re-eval. thanks.                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Followup right pleural effusion.
+     
+     COMPARISON:  [**2596-5-12**].
+     
+     CHEST AP:  There has been interval removal of the nasogastric tube.  The tip
+     of the left subclavian line is in proximal SVC.  A right-sided chest catheter
+     remains in unchanged position.  There is slight improvement in the small left
+     effusion.  The partially loculated right pleural effusion with associated
+     basilar atelectasis is unchanged.
+     
+     IMPRESSION:  Stable right pleural effusion.
+                                                                           
+
+",,
+8502,17573,10572,0,2596-05-13 05:02:00 EST,2596-05-13 05:22:00 EST,3932,"N",53,"Nursing/Other","NPN","
+NPN
+neuro: AAO x 3; withdrawn, cooperative. Periods of restlessness/agitation (""all the wires piss me off"") treated eefectively w/ scheduled and prn ativam.  Abd. pain well controlled w/ PCA dilaudid; c/o significant backpain, despite repositioning and oxycodone.  Slept in long naps.  No focal deficits.
+
+CV: SR, ST, 90's-120's, rare VEA.  MAPs >60. Pulses palpable throughout; 2+ anasarca, 3+ pedal edema.  Lytes repleted.
+
+pulm: BS course throughout, diminished bases, R>L. Weak cough, productive to cords, thick tan secretions. Chest PT & Sx mult times to clear airway.  Right pleural Heimlich tube patent,  to sx, draining clear serous fluid; no air leak or crepitous. Sats>95% on .5 face tent.
+
+GI: clear liquids tol in small amounts; pt declines all but sips for meds.  Abd distended; hypo BS. No N/V; thick green, heme-neg stool.
+TPN via left central line.
+
+GU: F/C urine clear amber; adequate OP.
+
+Skeletal: icteric; skin grossly intact. Coccyx slightly red; barrier cream applied. 
+
+Endo: RISS, requiring min coverage,
+
+ID: Tmax 100.2, po.  WBC 20.1. No antibx at present.
+
+P: aggressive bronchial hygeine, IS, CPT; wean FiO2 as able. Increase activity and cl liq diet as tol.  Follow labs closely. Tx to floor?
+
+
+
+
+
+",,
+8502,17573,10572,0,2596-05-13 18:11:00 EST,2596-05-13 18:32:00 EST,3420,"N",53,"Nursing/Other","7a-7p","
+7a-7p
+neuro: AAOx3, follows commands, moving all extremites, pt confused @ times, pulls off o2
+
+cv: hr st(105-120), no ectopy, short run of ? svt x 1(rate 140), HO aware, po diltiazem
+
+resp: on 50% ofm this am, changed to 5 l np, tol well, pt desat this pm down to 88 on 5l np so 50% ofm added(sat back up to 97), IS encouraged, coughing productively, mod amt thick white sputum, pt needs encouragement with coughing, pt does pull o2 off @ times, room air sat 85-88, R pleural ct to wall sux draining mod amt serous sputum, chest ct scan done today
+
+gi: cl lix diet, may advanced to dat, pt taking only sm amts clear lix today, poor apetite, FIB dc'd, sm loose green/brown stool x 1, guiac neg, po prevacid
+
+gu: foley dc'd this am, voiding well, clear amber urine, good uo, needs assist with urinal
+
+other: wife in most of day with pt, continues with dilaudid pca, using pca well, no c/o pain, oob to chair with P.T. today, tol well, oob x 5 hrs, tol well, continues on tpn 
+
+plan: continue to monitor resp status in icu, encourage IS & coughing, continue sedatives & narcotics as ordered, monitor HR  
+",,
+8502,17573,10572,,2596-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-14**] 12:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8402**]
+     Reason: please eval position of CT and size of effusion             
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          51 y/o M w/ right pleural effusion, s/p CT placement                        
+            
+     REASON FOR THIS EXAMINATION:
+      please eval position of CT and size of effusion                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     INDICATION:  Chest tube placement.
+     
+     A chest tube is present terminating in the right mid lung zone.  A moderate-
+     sized effusion remains similar in appearance to [**2596-5-13**].  A faint opacity at
+     the left base is likely a small effusion.  A OG feeding tube is coiled in the
+     fundus of the stomach.  The heart is slightly enlarged.  A left subclavian
+     catheter terminates in the mid SVC.
+     
+     There is no pneumothorax.
+     
+     IMPRESSION:
+     
+     Insertion of a right-sided chest tube with removal of a smaller chest catheter
+     and insertion of an enteric feeding tube.  Examination is otherwise unchanged
+     since [**2596-5-13**].
+
+",,
+8502,17573,10572,,2596-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-14**] 5:12 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8403**]
+     Reason: eval chest tube position                                    
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           51 y/o M w/ right pleural effusion, s/p CT placement                       
+              
+     REASON FOR THIS EXAMINATION:
+      eval chest tube position                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     INDICATION:  Followup effusion and chest tube positioning.
+     
+     The chest tube present in the earlier chest x-ray this afternoon has been
+     retracted several centimeters.  There is further opacification of the right
+     hemithorax since the earlier chest x-ray and a faint opacity at the left base
+     persists.  Positions of the feeding tube and the left subclavian catheter
+     remain unchanged.
+     
+     IMPRESSION:  Increasing right effusion since earlier today.
+                                                                           
+
+",,
+8502,17573,10572,,2596-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-14**] 5:12 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8403**]
+     Reason: eval chest tube position                                    
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           51 y/o M w/ right pleural effusion, s/p CT placement                       
+              
+     REASON FOR THIS EXAMINATION:
+      eval chest tube position                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     INDICATION:  Followup effusion and chest tube positioning.
+     
+     The chest tube present in the earlier chest x-ray this afternoon has been
+     retracted several centimeters.  There is further opacification of the right
+     hemithorax since the earlier chest x-ray and a faint opacity at the left base
+     persists.  Positions of the feeding tube and the left subclavian catheter
+     remain unchanged.
+     
+     IMPRESSION:  Increasing right effusion since earlier today.
+                                                                           
+
+",,
+8502,17573,10572,0,2596-05-14 04:03:00 EST,2596-05-14 04:21:00 EST,4450,"N",53,"Nursing/Other","nursing progress note","
+nursing progress note
+
+neuro: pt lethargic, confused last evening, oriented x1 only. reoriented freq., ativan held overnight. this am pt brighter, oriented x2, remains confused to time.  dilaudid pca usage less overnight, pt using appropriately for mild back pain, good effect noted. 
+
+resp: remains w/ humid face tent and nc o2, o2 sats 93-99%, dropping to low 80s on room air. cough improving, productive for copious thick white secretions. using yankhour prn. rr 20s. ls very coarse, rhonchi intermittently.  pigtail to right chest to sx, no drainage overnight, Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) **] aware. tube milked w/ no improvement.
+
+cv: bp stable, sinus tachy to 130s w/ removal of o2, agitation. settles to 110-115 when restful. no ectope noted. dilt po continued qd. ppp bilat. extrem warm. lytes stable last evening. am labs pending.
+
+gi: belly firm/distended, ascitic. bs hyperactive. +flatus, no bm. tol clears well, poor appetite. denies nausea/abd pain. 
+
+gu: foley replaced last eve w/ difficulty. required coude catheter for insertion. pt incontinent prior to catheter, inaccurate u/o volumes noted on i/o as well. clear yellow output since.
+
+endo: bg's slightly elevated, sliding scale coverage prn. 
+
+id: wbc stable this am, tmax 100.6. 
+
+skin: note small dime sized blister to top of penis, intact, fluid filled. note also entire perineum excoriated, very reddened. double guard barrier applied prn.
+
+social: wife called for update, all ques answered.
+
+a/p: resp status remains tenuous, aggressive pulm toilet a must. pt w/ brighter mental status this am, more interactive, confusion clearer. adequate pain control w/ dilaudid pca, wean ativan dosing. thoracics consult for further management of pleural effusions.
+",,
+8502,17573,,,2596-05-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8502,17573,,,2596-05-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-15**] 6:07 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8405**]
+     Reason: assess for effusions, expansion                             
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             51 y/o M w/ right pleural effusion, s/p CT placement, just unclamped 
+      after TPA, now w/decr. sats                                  
+     REASON FOR THIS EXAMINATION:
+      assess for effusions, expansion                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW ON [**5-15**]
+     
+     HISTORY:  Right effusion status post chest tube placement.
+     
+     FINDINGS:  Right chest tube position overlying the right mid lung is
+     unchanged.  There continues to be dense opacification of the right hemithorax
+     with mediastinal shift to the right.  Abrupt cutoff of the right main stem
+     bronchus is again seen.  The mediastinal shift with the effusion suggests
+     volume loss in the right lung.  Left subclavian line with tip in superior vena
+     cava is unchanged.  The left lung is clear.
+                                                                           
+
+",,
+8502,17573,,,2596-05-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-15**] 6:07 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8405**]
+     Reason: assess for effusions, expansion                             
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             51 y/o M w/ right pleural effusion, s/p CT placement, just unclamped 
+      after TPA, now w/decr. sats                                  
+     REASON FOR THIS EXAMINATION:
+      assess for effusions, expansion                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW ON [**5-15**]
+     
+     HISTORY:  Right effusion status post chest tube placement.
+     
+     FINDINGS:  Right chest tube position overlying the right mid lung is
+     unchanged.  There continues to be dense opacification of the right hemithorax
+     with mediastinal shift to the right.  Abrupt cutoff of the right main stem
+     bronchus is again seen.  The mediastinal shift with the effusion suggests
+     volume loss in the right lung.  Left subclavian line with tip in superior vena
+     cava is unchanged.  The left lung is clear.
+                                                                           
+
+",,
+8502,17573,,,2596-05-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-15**] 8:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8404**]
+     Reason: eval progression of R loculated pleural effusion            
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            51 y/o M w/ right pleural effusion, s/p CT placement                      
+                
+     REASON FOR THIS EXAMINATION:
+      eval progression of R loculated pleural effusion                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW ON [**5-15**]
+     
+     HISTORY:  Right pleural effusion status post chest tube placement.
+     
+     FINDINGS:  Again seen is near complete opacification of the right hemithorax
+     with chest tube in place and abrupt cut off of the right mainstem bronchus. 
+     There is a left subclavian line with tip in the superior vena cava.  There is
+     mediastinal shift to the right and slight increase in lung markings in the
+     right lower lung that may represent an early infiltrate.  The amount of
+     mediastinal shift suggests that the right lung is nearly completely collapsed.
+     There is a feeding tube coiled in the stomach.  Compared to the film from the
+     prior day, there has been no significant change.
+                                                                           
+
+",,
+8502,17573,,,2596-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-17**] 3:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8406**]
+     Reason: Assess for pneumo, etc                                      
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               51 y/o M w/ right pleural effusion, s/p R VATS, decortication, CT x 3  
+                                  
+     REASON FOR THIS EXAMINATION:
+      Assess for pneumo, etc                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation for right lung expansion and pneumothorax
+     in a patient after right VATS, decortication, and placement of three chest
+     tubes.
+     
+     Portable AP supine chest radiograph is reviewed and compared to the previous
+     film from [**2596-5-15**].
+     
+     The ET tube tip is in good position projecting 4.4 cm above the carina.  The
+     NG tube and the left subclavian line are in good position.
+     
+     The previously seen complete atelectasis of the right lung do not exist now
+     with re-expanding of the right lung and a relatively small right lower lobe
+     consolidation is seen representing a re-expanding lung or true consolidation.
+     Three chest tubes are inserted, two of them in the apex and one of them in the
+     base of the lung.  No pneumothorax is seen.  No sizeable amount of pleural
+     effusion is present.  Small subcutaneous emphysema within the chest wall on
+     the right is demonstrates.
+     
+     The left lung is slightly less translucent than demonstrated on the previous
+     film. This may be due to the shifting of the mediastinum towards the left now.
+     Slight volume overload should also be considered as the cause.
+     
+     IMPRESSION:
+     1.  Satisfactory position of tubes and lines.
+     2.  Re-expanding right lung.  No evidence of pneumothorax.  Right lower lung
+     consolidation is still present.
+
+",,
+8502,17573,,,2596-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-18**] 8:59 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8407**]
+     Reason: interval chnage in right lower lobe process                 
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                51 y/o M w/ right pleural effusion, s/p R VATS, decortication, CT x 3 
+                                    
+     REASON FOR THIS EXAMINATION:
+      interval chnage in right lower lobe process                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Post right VATS with right lower lobe collapse.
+     COMPARISON:  [**2596-5-17**].
+     
+     AP UPRIGHT PORTABLE CHEST:  The endotracheal tube, left subclavian central
+     line, two right chest tubes and nasogastric tube remain in unchanged and
+     appropriate positions.  There is no overt vascular congestion.  Mediastinal
+     contours are not changed.  Overall there has been no short interval change in
+     appearance of the chest given differences in patient position.  There remains
+     right lower lobe consolidation and left retrocardiac opacities likely left
+     basilar atelectasis.
+     
+     IMPRESSION:  No short interval change in right lower lobe consolidation.
+
+",,
+8502,17573,,,2596-05-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-19**] 5:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8408**]
+     Reason: Please assess for effusion, pneumo, etc                     
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                 51 y/o M w/ right pleural effusion, s/p R VATS, decortication, CT x 
+      3                                
+     REASON FOR THIS EXAMINATION:
+      Please assess for effusion, pneumo, etc                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old male status post right VATS and decortication.
+     
+     COMPARISON:  [**2596-5-18**].
+     
+     The patient has been extubated and the nasogastric tube removed.  The left
+     subclavian catheter terminates in the proximal SVC.  There remain two apical
+     and one basal right-sided chest tubes.  There is persistent dense opacity of
+     the right lower lung zone representing atelectasis of the right middle and
+     lower lobes with associated shift of the heart and mediastinum to the right.
+     There are persistent bilateral layering pleural effusions and right upper lobe
+     edema.  No pneumothorax.
+     
+     IMPRESSION:  Persistent atelectasis of the right middle and lower lobes with
+     bilateral layering pleural effusions and right upper lobe edema.
+     
+
+",,
+8502,17573,,,2596-05-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-21**] 9:21 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8409**]
+     Reason: eval BL effusion, r/o interval change.                      
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51yo M s/p R VATS, decortication, for effusion related to pancreatitis, chest 
+      tube x3 now switched back to suction.
+     REASON FOR THIS EXAMINATION:
+      eval BL effusion, r/o interval change.                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, ONE VIEW, PORTABLE
+     
+     INDICATION:  51-year-old male patient, status post right VATS.
+     
+     COMMENTS:  Portable erect AP radiograph of the chest is reviewed, and compared
+     with the previous study of [**2596-5-19**].
+     
+     The patient is status post right VATS.  Three right chest tubes remain in
+     place.  There is no evidence of pneumothorax.
+     
+     The previously identified atelectasis in both lower lobes has been _____
+     improving.  There is also improvement of the mild pulmonary edema.  There is
+     continued mild cardiomegaly and small bilateral pleural effusions with
+     atelectasis in the lung bases.
+     
+     The left subclavian IV catheter terminates in the SVC.
+                                                                           
+
+",,
+8502,17573,,,2596-05-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-22**] 1:14 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8410**]
+     Reason: interval change.                                            
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 yo M s/p R VATS, decortication, for effusion related to pancreatitis, chest 
+       tube x3 now switched back to suction.
+     REASON FOR THIS EXAMINATION:
+      interval change.                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW PORTABLE
+     
+     INDICATION:  51-year-old male patient status post right VATS.
+     
+     COMMENTS:  Portable erect AP radiograph of the chest is reviewed, and compared
+     with the study of yesterday.
+     
+     The right chest tubes remain in place.  There is a tiny right apical
+     pneumothorax.
+     
+     There is continued mild cardiomegaly and small bilateral pleural effusion
+     associated with opacities in both lower lobes, probably atelectasis.  The
+     possibility of pneumonia cannot be excluded.
+     
+     The left subclavian IV catheter remains in place.
+                                                                           
+
+",,
+8502,17573,,,2596-05-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-23**] 10:27 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8411**]
+     Reason: assess improvement                                          
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with R. sided chest tubes, large pleural effusions              
+     REASON FOR THIS EXAMINATION:
+      assess improvement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEW CHEST OF [**2596-5-23**]
+     
+     COMPARISON:  [**2596-5-22**].
+     
+     INDICATION:  Right-sided chest tubes and pleural effusions.
+     
+     Three chest tubes remain in place in the right hemithorax.  Bilateral
+     moderate-sized pleural effusions are without significant change allowing for
+     technical differences.  Adjacent basilar lung opacities are also present.
+     
+     Regarding the chest tubes, one of the right chest tubes has an obliquely
+     oriented course on the lateral view, paralleling the expected course of the
+     major fissure on the right, and the possibility of an intrafissural location
+     is not excluded.
+     
+     IMPRESSION:  Persistent moderate pleural effusions.
+                                                                           
+
+",,
+8502,17573,,,2596-05-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-23**] 4:49 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 8412**]
+     Reason: Please eval interval change, ptx s/p pleural tap for 1L     
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 yo M s/p R VATS, decortication, for effusion related to pancreatitis, 
+      chest tube x3 now switched back to suction. NOw worsening left effusion. S/P 
+      pleural TAP by Inter Pul for 1000cc. 
+     REASON FOR THIS EXAMINATION:
+      Please eval interval change, ptx s/p pleural tap for 1L                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest of [**2596-5-23**] at 1647.
+     
+     COMPARISON:  [**2596-5-24**] at 0931.
+     
+     INDICATION:  Status post left thoracentesis.
+     
+     Left pleural effusion has decreased in size with a small residual pleural
+     effusion remaining.  There is no evidence of pneumothorax, and there is
+     otherwise no change from the recent radiograph performed earlier the same
+     date.
+                                                                           
+
+",,
+8502,17573,,,2596-05-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-23**] 4:49 PM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 8412**]
+     Reason: Please eval interval change, ptx s/p pleural tap for 1L     
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 yo M s/p R VATS, decortication, for effusion related to pancreatitis, 
+      chest tube x3 now switched back to suction. NOw worsening left effusion. S/P 
+      pleural TAP by Inter Pul for 1000cc. 
+     REASON FOR THIS EXAMINATION:
+      Please eval interval change, ptx s/p pleural tap for 1L                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest of [**2596-5-23**] at 1647.
+     
+     COMPARISON:  [**2596-5-24**] at 0931.
+     
+     INDICATION:  Status post left thoracentesis.
+     
+     Left pleural effusion has decreased in size with a small residual pleural
+     effusion remaining.  There is no evidence of pneumothorax, and there is
+     otherwise no change from the recent radiograph performed earlier the same
+     date.
+                                                                           
+
+",,
+8502,17573,,,2596-05-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-24**] 5:00 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 8413**]
+     Reason: interval change                                             
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51M persistent R pleural effusion s/p VATS/CT placement                       
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old male with persistent right pleural effusion status
+     post VATS, CT placement.  Question interval change.
+     
+     COMPARISON:  [**2596-5-13**].
+     
+     TECHNIQUE:  Non-contrast axial CT of the chest.
+     
+     FINDINGS:  There has been a marked reduction in the size of the right pleural
+     effusion.  A small right pleural effusion, mostly medial and likely loculated
+     is still present.  A small left pleural effusion is also present, unchanged
+     from prior.  Bibasilar atelectasis is improving.  The heart and mediastinum
+     are unchanged.  Three chest tubes are present within the chest.  One chest
+     tube tip is adjacent to the possibly loculated right pleural effusion.
+     
+     IMPRESSION:  Improving right pleural effusion status post multiple chest
+     tubes.  Persistent small left pleural effusion.  Improving atelectasis.
+
+",,
+8502,17573,,,2596-05-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-25**] 10:17 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8415**]
+     Reason: characterization of mass/lymph nodes                        
+     Admitting Diagnosis: PANCREATIC ABSCESS
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with tongue mass                                                
+     REASON FOR THIS EXAMINATION:
+      characterization of mass/lymph nodes                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Tongue mass.
+     
+     Characterize the lesion in the presence of lymphadenopathy.
+     
+     TECHNIQUE:  The brain was scanned without and with intravenous contrast
+     material.
+     
+     FINDINGS:  There is no evidence for the presence of an intracranial mass,
+     hydrocephalus, minor or major vascular territorial infarction.  The density
+     values of the brain parenchyma are within normal limits.  There is apparent
+     asymmetry of the nasopharynx, with loss of visualization of the left fossa of
+     Rosenmuller. Please see the neck CT scan for discussion of this abnormality.
+     No other extracranial soft tissue or osseous abnormalities are seen.
+     
+     CONCLUSION:  No definite sign for the presence of brain metastatic disease.
+     Obliteration of the left fossa of Rosenmuller-see neck CT scan report.
+     
+     
+
+",,
+8502,17573,,,2596-05-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-25**] 10:17 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 8415**]
+     Reason: characterization of mass/lymph nodes                        
+     Admitting Diagnosis: PANCREATIC ABSCESS
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with tongue mass                                                
+     REASON FOR THIS EXAMINATION:
+      characterization of mass/lymph nodes                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Tongue mass.
+     
+     Characterize the lesion in the presence of lymphadenopathy.
+     
+     TECHNIQUE:  The brain was scanned without and with intravenous contrast
+     material.
+     
+     FINDINGS:  There is no evidence for the presence of an intracranial mass,
+     hydrocephalus, minor or major vascular territorial infarction.  The density
+     values of the brain parenchyma are within normal limits.  There is apparent
+     asymmetry of the nasopharynx, with loss of visualization of the left fossa of
+     Rosenmuller. Please see the neck CT scan for discussion of this abnormality.
+     No other extracranial soft tissue or osseous abnormalities are seen.
+     
+     CONCLUSION:  No definite sign for the presence of brain metastatic disease.
+     Obliteration of the left fossa of Rosenmuller-see neck CT scan report.
+     
+     
+
+",,
+8502,17573,,,2596-05-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-25**] 10:17 AM
+     CT NECK W/CONTRAST (EG:PAROTIDS)                                Clip # [**Clip Number (Radiology) 8414**]
+     Reason: characterization of mass/lymph nodes                        
+     Admitting Diagnosis: PANCREATIC ABSCESS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with tongue mass                                                
+     REASON FOR THIS EXAMINATION:
+      characterization of mass/lymph nodes                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT SCAN OF THE NECK.
+     
+     HISTORY:  Evaluate tongue mass.
+     
+     TECHNIQUE:  Bolus intravenously-enhanced imaging of the neck.
+     
+     COMPARISON STUDY:  None.
+     
+     FINDINGS:  There is an enormous, ill-defined mass lesion which appears
+     centered in the left side of the tongue, essentially extending from the free
+     margin to the tongue base, with both effacement and rightward deviation of the
+     median raphe.  It is likely that the tongue mass infiltrates the genioglossus
+     muscles. The mass also involves the left-sided oropharyngeal wall and appears
+     to potentially extend as far cephalad as the left fossa of Rosenmuller,
+     although in a somewhat discontinuous fashion.  Alternatively, a separate mass
+     may be present in this locale.  There is no evidence on either the head CT
+     scan or this neck CT imaging study of opacification of either the left middle
+     ear cavity or mastoid sinus complex to indicate left-sided eustachian tube
+     obstruction.  It is also likely that there are multiple large lymph nodes
+     within the submandibular region, particularly on the left side, some of which
+     have low-density centers suggesting necrosis.  A rounded left-sided
+     jugulodigastric node is seen, measuring 14 mm in diameter. Additional necrotic
+     lymph nodes are also seen at the hyoid bone level, involving both jugular
+     chains.  An additional necrotic lymph node is also noted at the level of the
+     thyroid cartilage on the left.
+     
+     There is also gross asymmetry of the internal aspect of the larynx, suggesting
+     that there may be some infiltration of the mass from the tongue into the
+     supraglottic region on the left side.  There is resultant marked asymmetry of
+     the supraglottic airway.  Gas is seen within the right but not the left
+     piriform sinus.  There is a chest tube seen within the posterior aspect of the
+     right hemithorax, with what is likely surrounding pleural fluid, and a much
+     larger posteriorly situated pleural-based soft tissue region is seen, again
+     also presumably representing pleural fluid.
+     
+     CONCLUSION:  Gigantic mass within multiple compartments of the neck, including
+     the tongue likely with many necrotic lymph nodes.  Clearly this picture
+     suggest an extremely aggressive malignancy, most commonly squamous cell
+     cancer, given the history of smoking and alcohol intake. In all probability,
+     these abnormalities do have a relationship to the bilateral pleural fluid
+                                                                 (Over)
+
+     DATE: [**2596-5-25**] 10:17 AM
+     CT NECK W/CONTRAST (EG:PAROTIDS)                                Clip # [**Clip Number (Radiology) 8414**]
+     Reason: characterization of mass/lymph nodes                        
+     Admitting Diagnosis: PANCREATIC ABSCESS
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     collections.  The multi- compartmental nature of this abnormality could also
+     raise the question of a possible lymphoma of the Burkitt's type, as opposed to
+     squamous cell cancer.
+     
+     
+
+",,
+8502,17573,,,2596-05-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-25**] 1:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8417**]
+     Reason: r/o PTX, confirming remaining CT position, eval any other in
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51yo M s/p R VATS, decortication, for effusion related to pancreatitis. 
+      Anterior/Apical chest tube now d/c'd.
+     REASON FOR THIS EXAMINATION:
+      r/o PTX, confirming remaining CT position, eval any other interval change (eg, 
+      L effusion).
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW PORTABLE:
+     
+     INDICATION:  51-year-old male patient status post right VATS.
+     
+     COMMENTS:  Portable erect AP radiograph of the chest is reviewed, and compared
+     with the previous study dated [**2596-5-23**].
+     
+     The patient is status post right VATS.  Two right chest tubes remain in place.
+     One of the three chest tubes has been removed.  There is continued small
+     loculated right pleural effusion associated with atelectasis and post-surgical
+     changes.  There is also a small left pleural effusion and atelectasis in the
+     left lung base.  There is continued mild pulmonary edema.  There is no
+     evidence of pneumothorax.
+     
+     The tip of the feeding tube is identified in the gastric fundus.  The heart is
+     top normal in size.  The left subclavian IV catheter remains in place.
+                                                                           
+
+",,
+8502,17573,,,2596-05-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-25**] 12:13 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 8416**]
+     Reason: ?gastric position of dobhoff tube                           
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man s/p bedside dobhoff tube placement                             
+     REASON FOR THIS EXAMINATION:
+      ?gastric position of dobhoff tube                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Chronic pancreatitis, now with NG tube placement.
+     
+     PORTABLE SUPINE ABDOMEN:  The nasogastric tube terminates in the proximal
+     stomach.  A right basal pleural drain is present.  There is air distributed
+     throughout multiple loops of nondilated small bowel in the mid abdomen.  There
+     is a paucity of gas in the colon.  A few small irregular calcific densities
+     project over the left upper quadrant, presumably splenic arterial
+     calcifications.
+     
+     IMPRESSION:  NG tube terminates proximal stomach.
+
+",,
+8502,17573,,,2596-05-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-27**] 10:39 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8418**]
+     Reason: evaluate lung field for effusion porgression                
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 year old man with R. sided chest tubes, large pleural effusions likely  
+      secondary to pancreatitis.            
+     REASON FOR THIS EXAMINATION:
+      evaluate lung field for effusion porgression                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 10:51 A.M., [**5-27**]
+     
+     HISTORY:  Right chest tubes and large pleural effusion due to pancreatitis.
+     
+     IMPRESSION:  PA and lateral chest compared to [**5-25**] and 28:
+     
+     Bilateral lower lobe atelectasis has progressed to complete collapse on the
+     left. Small-to-moderate bilateral pleural effusion is unchanged.  Upper lungs
+     show borderline pulmonary edema.  Right apical pleural tube still in place.
+     Tiny right apical pneumothorax new or newly apparent.  Heart size normal.
+     Mediastinum midline.  The weighted tip of the nasogastric feeding tube is at
+     the level of the gastroesophageal junction and should be advanced to move all
+     the side ports into the stomach.  Left subclavian line tip projects over the
+     junction of the brachiocephalic veins.  Findings discussed with house officer
+     caring for this patient at the time of dictation.
+
+",,
+8502,17573,,,2596-05-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-28**] 12:02 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 8419**]
+     Reason: r/o PTX,; evaluate progression of b/l effusion              
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         51 year old man with R. sided chest tubes, large pleural effusions likely   
+      secondary to pancreatitis.            
+     REASON FOR THIS EXAMINATION:
+      r/o PTX,; evaluate progression of b/l effusion                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEW CHEST [**2596-5-28**]
+     
+     COMPARISON:  [**2596-5-27**]
+     
+     INDICATION:  Pleural effusion assessment.  Pancreatitis.
+     
+     Two right-sided chest tubes remain in place.  Moderate-sized bilateral pleural
+     effusions are without interval change allowing for slight positional
+     differences.  Central venous catheter and feeding tube are also unchanged in
+     position.  There has been decrease in cardiac silhouette size and decreased
+     width of the vascular pedicle in keeping with improving volume status of the
+     patient.  Previously reported mild pulmonary edema has resolved.  Atelectatic
+     changes are again demonstrated in the lower lobes adjacent to the pleural
+     effusions.
+     
+     IMPRESSION:  Persistent moderate bilateral pleural effusions.  Resolution of
+     pulmonary edema.
+                                                                           
+
+",,
+8502,17573,,,2596-05-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-28**] 4:54 PM
+     CHEST (PA & LAT); -76 BY SAME PHYSICIAN                         [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8420**]
+     Reason: 1455
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51yo M a/w pancreatitis and loculated L pleural effusion, s/p VATS drainage. 
+      posterior apical CT now d/c'd, basilar CT remains in place.
+     REASON FOR THIS EXAMINATION:
+      r/o PTX s/p CT pull. confirm position of basilar CT.                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST, [**2596-5-28**] AT 16:48
+     
+     COMPARISON:  [**2596-5-28**] at 11:57.
+     
+     INDICATION:  Chest tube removal.
+     
+     One of two right-sided chest tubes has been removed, with no evidence of
+     pneumothorax.  There has been no change in the size of bilateral pleural
+     effusions or adjacent atelectatic changes at the bases.  A feeding tube
+     remains in place, terminating in the proximal stomach.  There is apparent
+     coiling of the tube within the cervical region.  This finding has been
+     communicated by telephone to Dr. [**First Name8 (NamePattern2) 8421**] [**Last Name (NamePattern1) 8422**] on [**2596-5-28**].
+                                                                           
+
+",,
+8502,17573,,,2596-05-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-28**] 4:54 PM
+     CHEST (PA & LAT); -76 BY SAME PHYSICIAN                         [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8420**]
+     Reason: 1455
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51yo M a/w pancreatitis and loculated L pleural effusion, s/p VATS drainage. 
+      posterior apical CT now d/c'd, basilar CT remains in place.
+     REASON FOR THIS EXAMINATION:
+      r/o PTX s/p CT pull. confirm position of basilar CT.                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST, [**2596-5-28**] AT 16:48
+     
+     COMPARISON:  [**2596-5-28**] at 11:57.
+     
+     INDICATION:  Chest tube removal.
+     
+     One of two right-sided chest tubes has been removed, with no evidence of
+     pneumothorax.  There has been no change in the size of bilateral pleural
+     effusions or adjacent atelectatic changes at the bases.  A feeding tube
+     remains in place, terminating in the proximal stomach.  There is apparent
+     coiling of the tube within the cervical region.  This finding has been
+     communicated by telephone to Dr. [**First Name8 (NamePattern2) 8421**] [**Last Name (NamePattern1) 8422**] on [**2596-5-28**].
+                                                                           
+
+",,
+8502,17573,,,2596-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8502,17573,,,2596-05-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-30**] 8:56 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8423**]
+     Reason: ?duabhoff tube placement                                    
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51yo M s/p R VATS, decortication. s/p daubhoff placement                       
+     REASON FOR THIS EXAMINATION:
+      ?duabhoff tube placement                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old male status post Dobbhoff placement.
+     
+     COMPARISON:  [**2596-4-27**].
+     
+     AP UPRIGHT CHEST:  A Dobbhoff feeding tube is seen with its tip terminating in
+     the proximal stomach.  The cardiomediastinal silhouette is stable.  There is
+     interval worsening of perihilar haziness and increased prominence of the
+     pulmonary vasculature consistent with mild congestive heart failure.  There
+     has been slight interval increase in size of bilateral pleural effusions.
+     Continued bibasilar atelectasis is noted.  A right-sided chest tube remains
+     unchanged in position.  There is no evidence of pneumothorax.
+     
+     IMPRESSION:
+     1.  Dobbhoff feeding tube tip located in the proximal stomach.
+     2.  Worsening mild congestive heart failure with slight interval increase in
+     mild-to-moderate bilateral pleural effusions.
+
+",,
+8502,17573,,,2596-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-31**] 8:00 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 8425**]
+     Reason:   Please assess for PTX, infiltrate                         
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51yo M s/p R VATS, decortication. now with low sats                           
+     REASON FOR THIS EXAMINATION:
+        Please assess for PTX, infiltrate                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest x-ray of [**2596-5-31**] with comparison [**2596-5-30**].
+     
+     INDICATION:  Low oxygen saturation.
+     
+     Right-sided chest tube and feeding tube are unchanged in position allowing for
+     positional differences.  Cardiac silhouette is mildly enlarged.  There is
+     upper zone vascular redistribution and slight worsening of asymmetrical
+     perihilar edema, right greater than left.  Moderate-sized pleural effusions
+     are again demonstrated, with slight improvement on the left and slight
+     worsening on the right.  Finally, a catheter overlies the right axilla, likely
+     due to a PICC line, without interval change but with the tip proximal to the
+     subclavian artery.
+                                                                           
+
+",,
+8502,17573,,,2596-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-31**] 4:41 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 8426**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please assess for interval change in pancreatitis           
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with pancreatitis and b/l pleural effusions possibly related 
+      initially to the illness. Have recently resumed tube feeds and observed a 
+      crescendo in amylase and lipase. Abdominal exam is relatively non-tender.
+     REASON FOR THIS EXAMINATION:
+      please assess for interval change in pancreatitis                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate interval change in pancreatitis.
+     
+     COMPARISON:  CT torso [**2596-5-8**], CT chest [**2596-5-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images of the chest, abdomen and pelvis were
+     obtained with and without IV contrast.
+     
+     CT OF THE CHEST WITH AND WITHOUT IV CONTRAST:  Chest tube is again noted on
+     the right side.  Large bilateral effusions with associated large areas of lung
+     consolidation with air bronchograms are seen, slightly larger compared to
+     [**2596-5-24**].  Heart and mediastinum appear unchanged.  There is no evidence
+     of pulmonary embolism.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Again seen are multiple low-attenuation
+     fluid collections throughout the upper abdomen. There is a relatively stable-
+     appearing collection in the region of the head of the pancreas, likely
+     representing pseudocyst.  The collection just posterior to the stomach appears
+     slightly smaller compared to prior study. Collection in the right
+     retroperitoneal region, in the medial posterior perirenal space, appears
+     slightly larger compared to prior study. The pancreas appears to enhance
+     normally. Again noted are multiple punctate calcifications lateral to the head
+     of the pancreas, possibly representing common bile duct stones, however
+     definitive localization is limited by distorted anatomy. Again seen are
+     multiple gallstones within the gallbladder. Two rounded hypodensities within
+     the right lobe of the liver appear unchanged from prior study, again too small
+     to characterize by CT.  The spleen, adrenal glands, and kidneys appear
+     unremarkable.  Small and large bowel appear within normal limits. Again noted
+     is a large amount of free fluid within the abdomen, tracking down to the
+     pelvis, not significantly changed from prior study. Atherosclerotic disease is
+     again noted throughout the abdominal aorta and celiac axis.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The rectum, sigmoid, bladder appear
+     unchanged.  Again noted is air within the bladder, likely secondary to Foley
+     catheterization.  Again seen is a large amount of free fluid within the
+     pelvis, tracking down from the abdomen.
+     
+     BONE WINDOWS:  No suspicious lytic or bony lesions were seen.
+     
+                                                                 (Over)
+
+     DATE: [**2596-5-31**] 4:41 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 8426**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please assess for interval change in pancreatitis           
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Multiple dynamic fluid collections again seen within the abdomen, some
+     smaller and some larger when compared to prior study.  Relatively stable fluid
+     collection seen in the area of the head of the pancreas likely representing
+     pseudocyst.
+     2.  Calcifications again seen lateral to the pancreatic head, possibly
+     representing CBD stones, however definite localization is again limited by
+     distorted anatomy.
+     3.  Bilateral pleural effusions and consolidations with air bronchograms,
+     increased in size when compared to [**5-24**].
+     4.  Large amount of ascites tracking from the abdomen to the pelvis.
+
+",,
+8502,17573,,,2596-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-31**] 4:41 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 8426**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please assess for interval change in pancreatitis           
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with pancreatitis and b/l pleural effusions possibly related 
+      initially to the illness. Have recently resumed tube feeds and observed a 
+      crescendo in amylase and lipase. Abdominal exam is relatively non-tender.
+     REASON FOR THIS EXAMINATION:
+      please assess for interval change in pancreatitis                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate interval change in pancreatitis.
+     
+     COMPARISON:  CT torso [**2596-5-8**], CT chest [**2596-5-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images of the chest, abdomen and pelvis were
+     obtained with and without IV contrast.
+     
+     CT OF THE CHEST WITH AND WITHOUT IV CONTRAST:  Chest tube is again noted on
+     the right side.  Large bilateral effusions with associated large areas of lung
+     consolidation with air bronchograms are seen, slightly larger compared to
+     [**2596-5-24**].  Heart and mediastinum appear unchanged.  There is no evidence
+     of pulmonary embolism.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Again seen are multiple low-attenuation
+     fluid collections throughout the upper abdomen. There is a relatively stable-
+     appearing collection in the region of the head of the pancreas, likely
+     representing pseudocyst.  The collection just posterior to the stomach appears
+     slightly smaller compared to prior study. Collection in the right
+     retroperitoneal region, in the medial posterior perirenal space, appears
+     slightly larger compared to prior study. The pancreas appears to enhance
+     normally. Again noted are multiple punctate calcifications lateral to the head
+     of the pancreas, possibly representing common bile duct stones, however
+     definitive localization is limited by distorted anatomy. Again seen are
+     multiple gallstones within the gallbladder. Two rounded hypodensities within
+     the right lobe of the liver appear unchanged from prior study, again too small
+     to characterize by CT.  The spleen, adrenal glands, and kidneys appear
+     unremarkable.  Small and large bowel appear within normal limits. Again noted
+     is a large amount of free fluid within the abdomen, tracking down to the
+     pelvis, not significantly changed from prior study. Atherosclerotic disease is
+     again noted throughout the abdominal aorta and celiac axis.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The rectum, sigmoid, bladder appear
+     unchanged.  Again noted is air within the bladder, likely secondary to Foley
+     catheterization.  Again seen is a large amount of free fluid within the
+     pelvis, tracking down from the abdomen.
+     
+     BONE WINDOWS:  No suspicious lytic or bony lesions were seen.
+     
+                                                                 (Over)
+
+     DATE: [**2596-5-31**] 4:41 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 8426**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please assess for interval change in pancreatitis           
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Multiple dynamic fluid collections again seen within the abdomen, some
+     smaller and some larger when compared to prior study.  Relatively stable fluid
+     collection seen in the area of the head of the pancreas likely representing
+     pseudocyst.
+     2.  Calcifications again seen lateral to the pancreatic head, possibly
+     representing CBD stones, however definite localization is again limited by
+     distorted anatomy.
+     3.  Bilateral pleural effusions and consolidations with air bronchograms,
+     increased in size when compared to [**5-24**].
+     4.  Large amount of ascites tracking from the abdomen to the pelvis.
+
+",,
+8502,17573,,,2596-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-31**] 4:41 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 8426**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please assess for interval change in pancreatitis           
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with pancreatitis and b/l pleural effusions possibly related 
+      initially to the illness. Have recently resumed tube feeds and observed a 
+      crescendo in amylase and lipase. Abdominal exam is relatively non-tender.
+     REASON FOR THIS EXAMINATION:
+      please assess for interval change in pancreatitis                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate interval change in pancreatitis.
+     
+     COMPARISON:  CT torso [**2596-5-8**], CT chest [**2596-5-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images of the chest, abdomen and pelvis were
+     obtained with and without IV contrast.
+     
+     CT OF THE CHEST WITH AND WITHOUT IV CONTRAST:  Chest tube is again noted on
+     the right side.  Large bilateral effusions with associated large areas of lung
+     consolidation with air bronchograms are seen, slightly larger compared to
+     [**2596-5-24**].  Heart and mediastinum appear unchanged.  There is no evidence
+     of pulmonary embolism.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Again seen are multiple low-attenuation
+     fluid collections throughout the upper abdomen. There is a relatively stable-
+     appearing collection in the region of the head of the pancreas, likely
+     representing pseudocyst.  The collection just posterior to the stomach appears
+     slightly smaller compared to prior study. Collection in the right
+     retroperitoneal region, in the medial posterior perirenal space, appears
+     slightly larger compared to prior study. The pancreas appears to enhance
+     normally. Again noted are multiple punctate calcifications lateral to the head
+     of the pancreas, possibly representing common bile duct stones, however
+     definitive localization is limited by distorted anatomy. Again seen are
+     multiple gallstones within the gallbladder. Two rounded hypodensities within
+     the right lobe of the liver appear unchanged from prior study, again too small
+     to characterize by CT.  The spleen, adrenal glands, and kidneys appear
+     unremarkable.  Small and large bowel appear within normal limits. Again noted
+     is a large amount of free fluid within the abdomen, tracking down to the
+     pelvis, not significantly changed from prior study. Atherosclerotic disease is
+     again noted throughout the abdominal aorta and celiac axis.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The rectum, sigmoid, bladder appear
+     unchanged.  Again noted is air within the bladder, likely secondary to Foley
+     catheterization.  Again seen is a large amount of free fluid within the
+     pelvis, tracking down from the abdomen.
+     
+     BONE WINDOWS:  No suspicious lytic or bony lesions were seen.
+     
+                                                                 (Over)
+
+     DATE: [**2596-5-31**] 4:41 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 8426**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please assess for interval change in pancreatitis           
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Multiple dynamic fluid collections again seen within the abdomen, some
+     smaller and some larger when compared to prior study.  Relatively stable fluid
+     collection seen in the area of the head of the pancreas likely representing
+     pseudocyst.
+     2.  Calcifications again seen lateral to the pancreatic head, possibly
+     representing CBD stones, however definite localization is again limited by
+     distorted anatomy.
+     3.  Bilateral pleural effusions and consolidations with air bronchograms,
+     increased in size when compared to [**5-24**].
+     4.  Large amount of ascites tracking from the abdomen to the pelvis.
+
+",,
+8502,17573,,,2596-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-31**] 4:41 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 8426**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please assess for interval change in pancreatitis           
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with pancreatitis and b/l pleural effusions possibly related 
+      initially to the illness. Have recently resumed tube feeds and observed a 
+      crescendo in amylase and lipase. Abdominal exam is relatively non-tender.
+     REASON FOR THIS EXAMINATION:
+      please assess for interval change in pancreatitis                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate interval change in pancreatitis.
+     
+     COMPARISON:  CT torso [**2596-5-8**], CT chest [**2596-5-24**].
+     
+     TECHNIQUE:  MDCT acquired axial images of the chest, abdomen and pelvis were
+     obtained with and without IV contrast.
+     
+     CT OF THE CHEST WITH AND WITHOUT IV CONTRAST:  Chest tube is again noted on
+     the right side.  Large bilateral effusions with associated large areas of lung
+     consolidation with air bronchograms are seen, slightly larger compared to
+     [**2596-5-24**].  Heart and mediastinum appear unchanged.  There is no evidence
+     of pulmonary embolism.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  Again seen are multiple low-attenuation
+     fluid collections throughout the upper abdomen. There is a relatively stable-
+     appearing collection in the region of the head of the pancreas, likely
+     representing pseudocyst.  The collection just posterior to the stomach appears
+     slightly smaller compared to prior study. Collection in the right
+     retroperitoneal region, in the medial posterior perirenal space, appears
+     slightly larger compared to prior study. The pancreas appears to enhance
+     normally. Again noted are multiple punctate calcifications lateral to the head
+     of the pancreas, possibly representing common bile duct stones, however
+     definitive localization is limited by distorted anatomy. Again seen are
+     multiple gallstones within the gallbladder. Two rounded hypodensities within
+     the right lobe of the liver appear unchanged from prior study, again too small
+     to characterize by CT.  The spleen, adrenal glands, and kidneys appear
+     unremarkable.  Small and large bowel appear within normal limits. Again noted
+     is a large amount of free fluid within the abdomen, tracking down to the
+     pelvis, not significantly changed from prior study. Atherosclerotic disease is
+     again noted throughout the abdominal aorta and celiac axis.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The rectum, sigmoid, bladder appear
+     unchanged.  Again noted is air within the bladder, likely secondary to Foley
+     catheterization.  Again seen is a large amount of free fluid within the
+     pelvis, tracking down from the abdomen.
+     
+     BONE WINDOWS:  No suspicious lytic or bony lesions were seen.
+     
+                                                                 (Over)
+
+     DATE: [**2596-5-31**] 4:41 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 8426**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please assess for interval change in pancreatitis           
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     1.  Multiple dynamic fluid collections again seen within the abdomen, some
+     smaller and some larger when compared to prior study.  Relatively stable fluid
+     collection seen in the area of the head of the pancreas likely representing
+     pseudocyst.
+     2.  Calcifications again seen lateral to the pancreatic head, possibly
+     representing CBD stones, however definite localization is again limited by
+     distorted anatomy.
+     3.  Bilateral pleural effusions and consolidations with air bronchograms,
+     increased in size when compared to [**5-24**].
+     4.  Large amount of ascites tracking from the abdomen to the pelvis.
+
+",,
+8502,17573,,,2596-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-31**] 7:20 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8424**]
+     Reason: r basilac picc, unable to thread last 15 cm. wire left in st
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ********************************* CPT Codes ********************************
+     * 36584 PERIPHERAL W/O [**State/Zipcode 78**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r basilac picc, unable to thread last 15 cm. wire left in sterile dsg applied 
+      please repo thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  A 51-year-old man had PICC line placed through right
+     basilic vein, which was an unable to be advanced the last 15 cm.  Now needs to
+     reposition or change the PICC line.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name (STitle) 2247**] [**Name (STitle) **] and Dr.
+     [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**], the attending radiologist was present and supervising
+     throughout the procedure.
+     
+     The patient was placed supine on the angiographic table.  The right arm and
+     pre-existing PICC line were prepped and draped in the standard sterile
+     fashion.  A 5 cc of 1% lidocaine was applied for local anesthesia. Fluoroscopy
+     showed the tip of the catheter located in the right axillary vein.  A 4-
+     French peel- away sheath was advanced over the preexisting PICC line after the
+     PICC line was cut down. The PICC line was then removed. A 0.018 guidewire was
+     advanced through the peel- away sheath with the tip in the superior vena cava
+     under flouroscopic guidance . The length of the PICC line was measured at 51
+     cm based on the mark on the wire.  After the inner dilator was removed, a
+     double lumen PICC line was then placed over the wire with the tip in the
+     superior vena cava. The peel- away sheath and the wire were removed.  Two
+     lumens were flushed and the line was secured with skin with StatLock.  The
+     patient tolerated the procedure well and there were no immediate
+     complications.
+     
+     IMPRESSION: Replacement of a 51 cm double-lumen PICC line through right
+     basilic vein with the tip in the superior vena cava.  The line is ready to
+     use.
+
+",,
+8502,17573,,,2596-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-31**] 7:20 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8424**]
+     Reason: r basilac picc, unable to thread last 15 cm. wire left in st
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ********************************* CPT Codes ********************************
+     * 36584 PERIPHERAL W/O [**State/Zipcode 78**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r basilac picc, unable to thread last 15 cm. wire left in sterile dsg applied 
+      please repo thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  A 51-year-old man had PICC line placed through right
+     basilic vein, which was an unable to be advanced the last 15 cm.  Now needs to
+     reposition or change the PICC line.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name (STitle) 2247**] [**Name (STitle) **] and Dr.
+     [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**], the attending radiologist was present and supervising
+     throughout the procedure.
+     
+     The patient was placed supine on the angiographic table.  The right arm and
+     pre-existing PICC line were prepped and draped in the standard sterile
+     fashion.  A 5 cc of 1% lidocaine was applied for local anesthesia. Fluoroscopy
+     showed the tip of the catheter located in the right axillary vein.  A 4-
+     French peel- away sheath was advanced over the preexisting PICC line after the
+     PICC line was cut down. The PICC line was then removed. A 0.018 guidewire was
+     advanced through the peel- away sheath with the tip in the superior vena cava
+     under flouroscopic guidance . The length of the PICC line was measured at 51
+     cm based on the mark on the wire.  After the inner dilator was removed, a
+     double lumen PICC line was then placed over the wire with the tip in the
+     superior vena cava. The peel- away sheath and the wire were removed.  Two
+     lumens were flushed and the line was secured with skin with StatLock.  The
+     patient tolerated the procedure well and there were no immediate
+     complications.
+     
+     IMPRESSION: Replacement of a 51 cm double-lumen PICC line through right
+     basilic vein with the tip in the superior vena cava.  The line is ready to
+     use.
+
+",,
+8502,17573,,,2596-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-31**] 7:20 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 8424**]
+     Reason: r basilac picc, unable to thread last 15 cm. wire left in st
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ********************************* CPT Codes ********************************
+     * 36584 PERIPHERAL W/O [**State/Zipcode 78**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r basilac picc, unable to thread last 15 cm. wire left in sterile dsg applied 
+      please repo thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  A 51-year-old man had PICC line placed through right
+     basilic vein, which was an unable to be advanced the last 15 cm.  Now needs to
+     reposition or change the PICC line.
+     
+     PROCEDURE/FINDINGS:  The procedure was performed by Dr. [**First Name (STitle) 2247**] [**Name (STitle) **] and Dr.
+     [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**], the attending radiologist was present and supervising
+     throughout the procedure.
+     
+     The patient was placed supine on the angiographic table.  The right arm and
+     pre-existing PICC line were prepped and draped in the standard sterile
+     fashion.  A 5 cc of 1% lidocaine was applied for local anesthesia. Fluoroscopy
+     showed the tip of the catheter located in the right axillary vein.  A 4-
+     French peel- away sheath was advanced over the preexisting PICC line after the
+     PICC line was cut down. The PICC line was then removed. A 0.018 guidewire was
+     advanced through the peel- away sheath with the tip in the superior vena cava
+     under flouroscopic guidance . The length of the PICC line was measured at 51
+     cm based on the mark on the wire.  After the inner dilator was removed, a
+     double lumen PICC line was then placed over the wire with the tip in the
+     superior vena cava. The peel- away sheath and the wire were removed.  Two
+     lumens were flushed and the line was secured with skin with StatLock.  The
+     patient tolerated the procedure well and there were no immediate
+     complications.
+     
+     IMPRESSION: Replacement of a 51 cm double-lumen PICC line through right
+     basilic vein with the tip in the superior vena cava.  The line is ready to
+     use.
+
+",,
+8502,17573,,,2596-05-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-5-31**] 8:00 AM
+     CHEST (PORTABLE AP); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 8425**]
+     Reason:   Please assess for PTX, infiltrate                         
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51yo M s/p R VATS, decortication. now with low sats                           
+     REASON FOR THIS EXAMINATION:
+        Please assess for PTX, infiltrate                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest x-ray of [**2596-5-31**] with comparison [**2596-5-30**].
+     
+     INDICATION:  Low oxygen saturation.
+     
+     Right-sided chest tube and feeding tube are unchanged in position allowing for
+     positional differences.  Cardiac silhouette is mildly enlarged.  There is
+     upper zone vascular redistribution and slight worsening of asymmetrical
+     perihilar edema, right greater than left.  Moderate-sized pleural effusions
+     are again demonstrated, with slight improvement on the left and slight
+     worsening on the right.  Finally, a catheter overlies the right axilla, likely
+     due to a PICC line, without interval change but with the tip proximal to the
+     subclavian artery.
+                                                                           
+
+",,
+8502,17573,10573,0,2596-05-31 18:00:00 EST,2596-05-31 18:06:00 EST,6465,"N",53,"Nursing/Other","Nursing Note 7a-7p:","
+Nursing Note 7a-7p:
+Nursing Assessment:
+
+PT is a 51 y.o. transferred from [**Hospital Ward Name 3**] 9 following an episode of resp distress and desat on the floor. almost Reintubated on floor, but given 40 lasix with good effect and transferred on nonrebreather to sicu. Pt stated he felt better when arrived and sating well. Weaned to 50% cool aerosol mask, incr. to 70% following another brief episode of difficulty breathing. Relieved with neb treatment. 
+Pt's temp 100.6 axillary and team notified given tylenol (roxicet for pain control as well) prior to CTA of thoracic, abdomen, and pelvis with po and iv contrast. Immediately following CT went to ANgio for PICC line placement to begin TPN. HCT 20 and needs 1 unit PRBC's as well as potassium for k 3.3. received 2 gm mag for 1.5 earlier today upon arrival in unit. Please refer to carevue for all details.
+",,
+8502,17573,10573,0,2596-06-01 01:59:00 EST,2596-06-01 02:12:00 EST,4254,"N",53,"Nursing/Other","SICU NPN","
+SICU NPN
+S-""My breathing feel okay.""
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND TRENDS IN VITAL SIGNS.
+
+O-Hemodynamically stable. Initailly c/o SOB sats down to 94%. FiO2 increased back to 70% and neb given with relief. C/o SOB with turning but later stating feeling ""okay."" Remains on FM at 15L O2 with Fio2 at 70% with nebs ATC. Breath sound coarse throughout. O2Sats 99-100%. Abd firm and distended with (+) bowel sounds. Large liquid brown BM.  Preliminary results unchanged in comparison to previous CT of abd from late April except for pleural effusions larger. Right CT remains to 20cm suction with minimal output. Transfused with 1uPRBCs for HCT of 20. Repeat post 23. Diuresed with 20mg of Lasiz with good response. Afebrile. Continue Vanco Q24H with trough pending prior to dose. CKs and Troponin flat. 
+
+A/P: Pancreatitis c/b respiratory distress. 
+Last CK due at 0800
+Attempt to wean O2 further
+If O2 weaned and stable possible call out floor
+",,
+8502,17573,10573,0,2596-06-01 15:33:00 EST,2596-06-01 15:37:00 EST,6465,"N",53,"Nursing/Other","Nursing Note 7a-7p:","
+Nursing Note 7a-7p:
+Nursing Assessment:
+
+Tmax 99 and HCT down 21 again. 2 units PRBCs ordered to be given slowly. MD's questioned for some lasix to follow. Given 20 lasix earlier today with great effect. LUngs coarse with a few scattered crackles on the right. 4 liters nasal cannula with 40% humidified shovel mask. attempted 50% shovel mask without nasal cannula, but pt not comfortable with this and asking for nasal cannula (for when mask off for suctioning, etc). Roxicet elixer for pain control and pt assisted oob to chair by nursing and PT. Resulted in SOB at first and sats 88-90%, but recovered quickly and sating 99% in chair. Pt's wife in to visit and updated on pt's plan of care and status. ?Transfer to floor in am if stable overnight?.
+PLease refer to carevue for details.
+",,
+8502,17573,10573,0,2596-06-02 01:32:00 EST,2596-06-02 01:41:00 EST,4254,"N",53,"Nursing/Other","SICU NPN:","
+SICU NPN:
+S-""Taking more blood again.""
+
+SEE CAREVUE FOR ALL OBJECTIVE DATA AND TRENDS IN VITAL SIGNS
+
+O-Post transfusion HCT 29 after 2UPRBCs prior. AM HCT pending. Diuresed post 20mg of Lasix with good response. At MN -937ccs. Otherwise neuro intact. Periods of anxiousness, easily calming down with positive reinforcment. C/o constant back pain. Percocet ATC with repositioning effective. VSS. Tolerating standing dose of PO Lopressor. Breath sounds coarse throughout. Right CT with scants amounts of straw drainange. O2Sats stable on Cool neb at 40% and 4Ls NP. Continues Nebs ATC with effect. HUO adequate. TPN continues. Dobhoff clamped. Bowel sounds (+). Afebrile. No issues. Wife calling and updated by RN. 
+
+A/P:Pancreatitis c/b recurrent pleural effusion
+Continue aggresive pulmonary toileting
+OOB to chair as tolerated
+Follow HCT as directed
+Diurese as needed
+Possible call out to floor today 
+
+",,
+8502,17573,,,2596-06-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-3**] 9:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8427**]
+     Reason:   Please assess effusions and NG placement prior to beginnin
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         51yo M s/p R VATS, decortication, now with NG tube for tube feeds.           
+     REASON FOR THIS EXAMINATION:
+        Please assess effusions and NG placement prior to beginning tube feeds.       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old male status post right-sided VATS and decortication
+     now with NG tube placement for tube feeds.  Assess for effusions and NG tube
+     placement.
+     
+     COMPARISON:  [**2596-5-31**].
+     
+     AP UPRIGHT CHEST RADIOGRAPH:  Tip of right subclavian line within the lower
+     SVC.  Tip of nasogastric tube is within the proximal stomach, well below the
+     diaphragm.  Chest tube is unchanged.  Moderate size pleural effusions are
+     unchanged right greater than left.  Asymmetric perihilar edema now with
+     predominance on the right, overall is unchanged in severity.  No pneumothorax.
+
+",,
+8502,17573,,,2596-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-4**] 7:14 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 8428**]
+     Reason: dobhoff tube placement                                      
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 year old man s/p bedside dobhoff tube placement                            
+       
+     REASON FOR THIS EXAMINATION:
+      dobhoff tube placement                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN, SINGLE FILM
+     
+     For feeding tube placement.
+     
+     Feeding tube is in distal esophagus and requires to be advanced into the
+     stomach.
+                                                                           
+
+",,
+8502,17573,,,2596-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-4**] 9:12 AM
+     PORTABLE ABDOMEN; -76 BY SAME PHYSICIAN                         [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8429**]
+     Reason: to confirm TF tip, now pushed down 10cm compared to before. 
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         51 year old man s/p bedside dobhoff tube placement                           
+         
+     REASON FOR THIS EXAMINATION:
+      to confirm TF tip, now pushed down 10cm compared to before.                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN, SINGLE FILM.
+     
+     For feeding tube placement.
+     
+     The tip of the feeding tube is coiled in the fundus of the stomach.  Chest
+     tube is present in the right lower hemithorax.  There is a right pleural
+     effusion and consolidation in the visualized portion of the right lung base. 
+     There are gas-filled loops of nondilated small bowel with gas in colon.
+                                                                           
+
+",,
+8502,17573,,,2596-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-4**] 9:12 AM
+     PORTABLE ABDOMEN; -76 BY SAME PHYSICIAN                         [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8429**]
+     Reason: to confirm TF tip, now pushed down 10cm compared to before. 
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         51 year old man s/p bedside dobhoff tube placement                           
+         
+     REASON FOR THIS EXAMINATION:
+      to confirm TF tip, now pushed down 10cm compared to before.                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN, SINGLE FILM.
+     
+     For feeding tube placement.
+     
+     The tip of the feeding tube is coiled in the fundus of the stomach.  Chest
+     tube is present in the right lower hemithorax.  There is a right pleural
+     effusion and consolidation in the visualized portion of the right lung base. 
+     There are gas-filled loops of nondilated small bowel with gas in colon.
+                                                                           
+
+",,
+8502,17573,,,2596-06-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-5**] 5:19 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8430**]
+     Reason: pre-op for tongue mass bx                                   
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with b/l pleural effusion, tongune mass                         
+     REASON FOR THIS EXAMINATION:
+      pre-op for tongue mass bx                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Preoperative for tongue mass biopsy.
+     
+     PORTABLE CHEST:  Comparison with [**2596-6-3**] and CT scan of [**2596-5-31**].
+     Right-sided PICC with its tip at the cavoatrial junction.  Right-sided lower
+     chest tube.  Bilateral pleural effusions, with associated lower lobe
+     atelectasis.  Cardiac, mediastinal, and hilar contours are unchanged.  Bony
+     structures are unchanged.  Aeration of both lungs has improved, though
+     increased interstitial markings and perihilar edema still present.
+     
+     IMPRESSION:  Slight interval improvement in aeration of both lungs, with
+     continued bilateral pleural effusions and lower lobe atelectasis.  Continued
+     perihilar edema.
+
+",,
+8502,17573,,,2596-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-6**] 4:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8431**]
+     Reason: actue change                                                
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with b/l pleural effusion, tongune mass. n/w increas WOB       
+     REASON FOR THIS EXAMINATION:
+      actue change                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 4:57 A.M. ON [**6-6**].
+     
+     HISTORY:  Pleural effusions.  Increasing shortness of breath.
+     
+     IMPRESSION:  AP chest compared to [**5-23**] through [**6-5**]:
+     
+     Small residual right pleural effusion, despite right pleural drain and
+     atelectasis in adjacent lung are longstanding.  Mild pulmonary edema has not
+     changed appreciably since [**5-31**] and the azygos vein is still distended
+     indicating some volume overload or cardiac dysfunction.  The heart size is
+     normal.  No pneumothorax.  Tip of a right-sided central venous catheter
+     projects over the superior cavoatrial junction, advanced 2-3 cm since [**6-5**].
+                                                                           
+
+",,
+8502,17573,,,2596-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-6**] 10:39 AM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 8432**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PE, ?intrabominal abscess                                  
+     Admitting Diagnosis: PANCREATIC ABSCESS
+      Contrast: OPTIRAY Amt: 125
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51M pancreatic abscess, bilateral pleural effusions and intermittent SOB 
+      w/leukocytosis                                      
+     REASON FOR THIS EXAMINATION:
+      ?PE, ?intrabominal abscess                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old with head and neck cancer, recent pancreatitis,
+     presenting with acute shortness of breath, rule out PE and reassess abdominal
+     collections.
+     
+     COMPARISONS:  CT torso of [**2596-5-31**].
+     TECHNIQUE:  Axial MDCT images of the chest, abdomen, and pelvis with oral and
+     100 cc of nonionic Optiray contrast.
+     
+     CT CHEST WITH IV CONTRAST:  Right-sided chest tube remains in place.  There
+     are bilateral pleural effusions, with persisting consolidation in the right
+     lower lobe.  The mid and upper lung zones are clear.  The airway is patent to
+     the segmental level.  The pulmonary arteries enhance normally without filling
+     defect.  There are diffuse enlarged lymph nodes throughout the mediastinum,
+     suspicious for metastatic nodes.  The thoracic aorta is normal in caliber and
+     enhances normally.  Multiple small subcentimeter axillary nodes.
+     
+     CT ABDOMEN WITH IV CONTRAST:  Again demonstrated are multiple small thin-
+     walled fluid collections throughout the abdomen, not significantly changed in
+     size and appearance compared to the prior study.  None of these are large
+     enough for safe percutaneous drainage.  The pancreatic parenchyma enhances
+     homogeneously without evidence of significant necrosis or intraparenchymal
+     abscess.  There are coarse calcifications along the duct near the pancreatic
+     head, likely the sequela of chronic pancreatitis.  Moderate amount of ascites
+     surrounding the liver and throughout the pelvis.  Small ill-defined hepatic
+     hypodense lesion within segment VI, too small to characterize.  Additional
+     tiny hypodense lesion in segment V anteriorly, too small to characterize as
+     well.  Cholelithiasis without evidence of cholecystitis.  The kidneys, adrenal
+     glands, stomach, and proximal small bowel are normal.  The spleen contains an
+     ill-defined lesion posteriorly, not well characterized on this study.
+     
+     CT PELVIS WITH IV CONTRAST:  Large amount of ascites and free fluid in the
+     pelvis.  Subcentimeter inguinal lymph nodes.  No pathologically enlarged lymph
+     nodes are seen.
+     
+     BONE WINDOWS:  2.5-cm ill-defined lytic lesion in the right iliac bone lateral
+     to the SI joint, suspicious for metastasis.  Old right lateral rib fracture,
+     demonstrating some callus formation.  No other suspicious lytic or blastic
+     lesions.
+                                                                 (Over)
+
+     DATE: [**2596-6-6**] 10:39 AM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 8432**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PE, ?intrabominal abscess                                  
+     Admitting Diagnosis: PANCREATIC ABSCESS
+      Contrast: OPTIRAY Amt: 125
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittal reformatted images confirm the
+     above findings.
+     
+     IMPRESSION:
+     1) No pulmonary embolism.
+     2) Stable size and appearance of multiple small fluid collections throughout
+     the abdomen, likely pancreatic pseudocysts; too small to be amenable to
+     percutaneous drainage.
+     3) Bilateral pleural effusions with right lower lobe consolidation which may
+     relate to persisting pneumonia versus less likely lymphangitic
+     carcinomatosis.
+     4) Enlarged mediastinal lymphadenopathy, suspicious for metastatic nodes.
+     5) Stable moderate abdominal and pelvic ascites.
+     6) 2.5cm lytic lesion in the right iliac bone lateral to the SI joint,
+     suspicious for metastasis.
+     7) Small hypodense lesions in the liver and spleen, too small to characterize.
+     
+     
+
+",,
+8502,17573,,,2596-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-6**] 10:39 AM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 8432**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PE, ?intrabominal abscess                                  
+     Admitting Diagnosis: PANCREATIC ABSCESS
+      Contrast: OPTIRAY Amt: 125
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51M pancreatic abscess, bilateral pleural effusions and intermittent SOB 
+      w/leukocytosis                                      
+     REASON FOR THIS EXAMINATION:
+      ?PE, ?intrabominal abscess                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old with head and neck cancer, recent pancreatitis,
+     presenting with acute shortness of breath, rule out PE and reassess abdominal
+     collections.
+     
+     COMPARISONS:  CT torso of [**2596-5-31**].
+     TECHNIQUE:  Axial MDCT images of the chest, abdomen, and pelvis with oral and
+     100 cc of nonionic Optiray contrast.
+     
+     CT CHEST WITH IV CONTRAST:  Right-sided chest tube remains in place.  There
+     are bilateral pleural effusions, with persisting consolidation in the right
+     lower lobe.  The mid and upper lung zones are clear.  The airway is patent to
+     the segmental level.  The pulmonary arteries enhance normally without filling
+     defect.  There are diffuse enlarged lymph nodes throughout the mediastinum,
+     suspicious for metastatic nodes.  The thoracic aorta is normal in caliber and
+     enhances normally.  Multiple small subcentimeter axillary nodes.
+     
+     CT ABDOMEN WITH IV CONTRAST:  Again demonstrated are multiple small thin-
+     walled fluid collections throughout the abdomen, not significantly changed in
+     size and appearance compared to the prior study.  None of these are large
+     enough for safe percutaneous drainage.  The pancreatic parenchyma enhances
+     homogeneously without evidence of significant necrosis or intraparenchymal
+     abscess.  There are coarse calcifications along the duct near the pancreatic
+     head, likely the sequela of chronic pancreatitis.  Moderate amount of ascites
+     surrounding the liver and throughout the pelvis.  Small ill-defined hepatic
+     hypodense lesion within segment VI, too small to characterize.  Additional
+     tiny hypodense lesion in segment V anteriorly, too small to characterize as
+     well.  Cholelithiasis without evidence of cholecystitis.  The kidneys, adrenal
+     glands, stomach, and proximal small bowel are normal.  The spleen contains an
+     ill-defined lesion posteriorly, not well characterized on this study.
+     
+     CT PELVIS WITH IV CONTRAST:  Large amount of ascites and free fluid in the
+     pelvis.  Subcentimeter inguinal lymph nodes.  No pathologically enlarged lymph
+     nodes are seen.
+     
+     BONE WINDOWS:  2.5-cm ill-defined lytic lesion in the right iliac bone lateral
+     to the SI joint, suspicious for metastasis.  Old right lateral rib fracture,
+     demonstrating some callus formation.  No other suspicious lytic or blastic
+     lesions.
+                                                                 (Over)
+
+     DATE: [**2596-6-6**] 10:39 AM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 8432**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PE, ?intrabominal abscess                                  
+     Admitting Diagnosis: PANCREATIC ABSCESS
+      Contrast: OPTIRAY Amt: 125
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittal reformatted images confirm the
+     above findings.
+     
+     IMPRESSION:
+     1) No pulmonary embolism.
+     2) Stable size and appearance of multiple small fluid collections throughout
+     the abdomen, likely pancreatic pseudocysts; too small to be amenable to
+     percutaneous drainage.
+     3) Bilateral pleural effusions with right lower lobe consolidation which may
+     relate to persisting pneumonia versus less likely lymphangitic
+     carcinomatosis.
+     4) Enlarged mediastinal lymphadenopathy, suspicious for metastatic nodes.
+     5) Stable moderate abdominal and pelvic ascites.
+     6) 2.5cm lytic lesion in the right iliac bone lateral to the SI joint,
+     suspicious for metastasis.
+     7) Small hypodense lesions in the liver and spleen, too small to characterize.
+     
+     
+
+",,
+8502,17573,,,2596-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-6**] 10:39 AM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 8432**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PE, ?intrabominal abscess                                  
+     Admitting Diagnosis: PANCREATIC ABSCESS
+      Contrast: OPTIRAY Amt: 125
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51M pancreatic abscess, bilateral pleural effusions and intermittent SOB 
+      w/leukocytosis                                      
+     REASON FOR THIS EXAMINATION:
+      ?PE, ?intrabominal abscess                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old with head and neck cancer, recent pancreatitis,
+     presenting with acute shortness of breath, rule out PE and reassess abdominal
+     collections.
+     
+     COMPARISONS:  CT torso of [**2596-5-31**].
+     TECHNIQUE:  Axial MDCT images of the chest, abdomen, and pelvis with oral and
+     100 cc of nonionic Optiray contrast.
+     
+     CT CHEST WITH IV CONTRAST:  Right-sided chest tube remains in place.  There
+     are bilateral pleural effusions, with persisting consolidation in the right
+     lower lobe.  The mid and upper lung zones are clear.  The airway is patent to
+     the segmental level.  The pulmonary arteries enhance normally without filling
+     defect.  There are diffuse enlarged lymph nodes throughout the mediastinum,
+     suspicious for metastatic nodes.  The thoracic aorta is normal in caliber and
+     enhances normally.  Multiple small subcentimeter axillary nodes.
+     
+     CT ABDOMEN WITH IV CONTRAST:  Again demonstrated are multiple small thin-
+     walled fluid collections throughout the abdomen, not significantly changed in
+     size and appearance compared to the prior study.  None of these are large
+     enough for safe percutaneous drainage.  The pancreatic parenchyma enhances
+     homogeneously without evidence of significant necrosis or intraparenchymal
+     abscess.  There are coarse calcifications along the duct near the pancreatic
+     head, likely the sequela of chronic pancreatitis.  Moderate amount of ascites
+     surrounding the liver and throughout the pelvis.  Small ill-defined hepatic
+     hypodense lesion within segment VI, too small to characterize.  Additional
+     tiny hypodense lesion in segment V anteriorly, too small to characterize as
+     well.  Cholelithiasis without evidence of cholecystitis.  The kidneys, adrenal
+     glands, stomach, and proximal small bowel are normal.  The spleen contains an
+     ill-defined lesion posteriorly, not well characterized on this study.
+     
+     CT PELVIS WITH IV CONTRAST:  Large amount of ascites and free fluid in the
+     pelvis.  Subcentimeter inguinal lymph nodes.  No pathologically enlarged lymph
+     nodes are seen.
+     
+     BONE WINDOWS:  2.5-cm ill-defined lytic lesion in the right iliac bone lateral
+     to the SI joint, suspicious for metastasis.  Old right lateral rib fracture,
+     demonstrating some callus formation.  No other suspicious lytic or blastic
+     lesions.
+                                                                 (Over)
+
+     DATE: [**2596-6-6**] 10:39 AM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 8432**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PE, ?intrabominal abscess                                  
+     Admitting Diagnosis: PANCREATIC ABSCESS
+      Contrast: OPTIRAY Amt: 125
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittal reformatted images confirm the
+     above findings.
+     
+     IMPRESSION:
+     1) No pulmonary embolism.
+     2) Stable size and appearance of multiple small fluid collections throughout
+     the abdomen, likely pancreatic pseudocysts; too small to be amenable to
+     percutaneous drainage.
+     3) Bilateral pleural effusions with right lower lobe consolidation which may
+     relate to persisting pneumonia versus less likely lymphangitic
+     carcinomatosis.
+     4) Enlarged mediastinal lymphadenopathy, suspicious for metastatic nodes.
+     5) Stable moderate abdominal and pelvic ascites.
+     6) 2.5cm lytic lesion in the right iliac bone lateral to the SI joint,
+     suspicious for metastasis.
+     7) Small hypodense lesions in the liver and spleen, too small to characterize.
+     
+     
+
+",,
+8502,17573,,,2596-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-6**] 10:39 AM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 8432**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PE, ?intrabominal abscess                                  
+     Admitting Diagnosis: PANCREATIC ABSCESS
+      Contrast: OPTIRAY Amt: 125
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51M pancreatic abscess, bilateral pleural effusions and intermittent SOB 
+      w/leukocytosis                                      
+     REASON FOR THIS EXAMINATION:
+      ?PE, ?intrabominal abscess                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old with head and neck cancer, recent pancreatitis,
+     presenting with acute shortness of breath, rule out PE and reassess abdominal
+     collections.
+     
+     COMPARISONS:  CT torso of [**2596-5-31**].
+     TECHNIQUE:  Axial MDCT images of the chest, abdomen, and pelvis with oral and
+     100 cc of nonionic Optiray contrast.
+     
+     CT CHEST WITH IV CONTRAST:  Right-sided chest tube remains in place.  There
+     are bilateral pleural effusions, with persisting consolidation in the right
+     lower lobe.  The mid and upper lung zones are clear.  The airway is patent to
+     the segmental level.  The pulmonary arteries enhance normally without filling
+     defect.  There are diffuse enlarged lymph nodes throughout the mediastinum,
+     suspicious for metastatic nodes.  The thoracic aorta is normal in caliber and
+     enhances normally.  Multiple small subcentimeter axillary nodes.
+     
+     CT ABDOMEN WITH IV CONTRAST:  Again demonstrated are multiple small thin-
+     walled fluid collections throughout the abdomen, not significantly changed in
+     size and appearance compared to the prior study.  None of these are large
+     enough for safe percutaneous drainage.  The pancreatic parenchyma enhances
+     homogeneously without evidence of significant necrosis or intraparenchymal
+     abscess.  There are coarse calcifications along the duct near the pancreatic
+     head, likely the sequela of chronic pancreatitis.  Moderate amount of ascites
+     surrounding the liver and throughout the pelvis.  Small ill-defined hepatic
+     hypodense lesion within segment VI, too small to characterize.  Additional
+     tiny hypodense lesion in segment V anteriorly, too small to characterize as
+     well.  Cholelithiasis without evidence of cholecystitis.  The kidneys, adrenal
+     glands, stomach, and proximal small bowel are normal.  The spleen contains an
+     ill-defined lesion posteriorly, not well characterized on this study.
+     
+     CT PELVIS WITH IV CONTRAST:  Large amount of ascites and free fluid in the
+     pelvis.  Subcentimeter inguinal lymph nodes.  No pathologically enlarged lymph
+     nodes are seen.
+     
+     BONE WINDOWS:  2.5-cm ill-defined lytic lesion in the right iliac bone lateral
+     to the SI joint, suspicious for metastasis.  Old right lateral rib fracture,
+     demonstrating some callus formation.  No other suspicious lytic or blastic
+     lesions.
+                                                                 (Over)
+
+     DATE: [**2596-6-6**] 10:39 AM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 8432**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PE, ?intrabominal abscess                                  
+     Admitting Diagnosis: PANCREATIC ABSCESS
+      Contrast: OPTIRAY Amt: 125
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittal reformatted images confirm the
+     above findings.
+     
+     IMPRESSION:
+     1) No pulmonary embolism.
+     2) Stable size and appearance of multiple small fluid collections throughout
+     the abdomen, likely pancreatic pseudocysts; too small to be amenable to
+     percutaneous drainage.
+     3) Bilateral pleural effusions with right lower lobe consolidation which may
+     relate to persisting pneumonia versus less likely lymphangitic
+     carcinomatosis.
+     4) Enlarged mediastinal lymphadenopathy, suspicious for metastatic nodes.
+     5) Stable moderate abdominal and pelvic ascites.
+     6) 2.5cm lytic lesion in the right iliac bone lateral to the SI joint,
+     suspicious for metastasis.
+     7) Small hypodense lesions in the liver and spleen, too small to characterize.
+     
+     
+
+",,
+8502,17573,,,2596-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-8**] 9:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8433**]
+     Reason: ?infiltrate                                                 
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 year old man with b/l pleural effusion, tongue mass now with fever         
+     REASON FOR THIS EXAMINATION:
+      ?infiltrate                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST OF [**2596-6-8**]
+     
+     COMPARISON:  [**2596-6-6**].
+     
+     INDICATION:  Fever.
+     
+     Right PICC line and right chest tube are unchanged in position.  Cardiac and
+     mediastinal contours show interval decrease in width, likely due to improving
+     volume status of the patient.  There is also improvement in bilateral
+     asymmetric perihilar and basilar alveolar process, particularly in the left
+     perihilar region.  Although these opacities may in part be due to improving
+     pulmonary edema,  underlying pneumonia is suspected, particularly in the lower
+     lobes.  Moderate right pleural effusion is unchanged.
+
+",,
+8502,17573,,,2596-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-8**] 11:12 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8434**]
+     Reason: please eval for interval change, ptx s/p CT d/c             
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         51 year old man with b/l pleural effusion, tongue mass now with fever; s/p 
+      left CT d/c        
+     REASON FOR THIS EXAMINATION:
+      please eval for interval change, ptx s/p CT d/c                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bilateral pleural effusion with fever status post chest tube DC.
+     
+     COMPARISON:  [**2596-6-8**] at 9:47.
+     
+     FINDINGS:  Chest tube has been removed.  There is no evidence for
+     pneumothorax.  Right pleural effusion is unchanged.  There is also likely a
+     small left pleural effusion.  Asymmetric bilateral perihilar and basilar
+     opacities are unchanged that may reflect pulmonary edema versus underlying
+     pneumonia.
+     
+     IMPRESSION:  Status post chest tube removal with no evidence for pneumothorax.
+     Otherwise, unchanged exam in two-hour interval.
+
+",,
+8502,17573,,,2596-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-8**] 11:12 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8434**]
+     Reason: please eval for interval change, ptx s/p CT d/c             
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         51 year old man with b/l pleural effusion, tongue mass now with fever; s/p 
+      left CT d/c        
+     REASON FOR THIS EXAMINATION:
+      please eval for interval change, ptx s/p CT d/c                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bilateral pleural effusion with fever status post chest tube DC.
+     
+     COMPARISON:  [**2596-6-8**] at 9:47.
+     
+     FINDINGS:  Chest tube has been removed.  There is no evidence for
+     pneumothorax.  Right pleural effusion is unchanged.  There is also likely a
+     small left pleural effusion.  Asymmetric bilateral perihilar and basilar
+     opacities are unchanged that may reflect pulmonary edema versus underlying
+     pneumonia.
+     
+     IMPRESSION:  Status post chest tube removal with no evidence for pneumothorax.
+     Otherwise, unchanged exam in two-hour interval.
+
+",,
+8502,17573,,,2596-06-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2596-6-9**] 10:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8435**]
+     Reason: question pleural effusion, pneumonia                        
+     Admitting Diagnosis: PANCREATIC ABSCESS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          51 year old man with b/l pleural effusion, tongue mass now with fever; s/p  
+      left CT d/c        
+     REASON FOR THIS EXAMINATION:
+      question pleural effusion, pneumonia                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST 10:53 A.M. ON [**6-9**]
+     
+     INDICATION:  Followup right pleural effusion and pneumonia.
+     
+     FINDINGS:  Compared with [**2596-6-8**], there appears to have been some interval
+     clearing/reexpansion of the right lower lobe collapse/consolidation with
+     slightly improved lung volumes at the right base.
+     
+     The pleural effusion has probably increased slightly, and/or redistributed up
+     along the right major fissure.
+     
+     Left lung remains grossly clear.
+
+",,

@@ -1,0 +1,1273 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8344,16622,,,2531-06-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2531-6-9**]     Discharge Date:  [**2531-6-12**]
+
+Date of Birth:   [**2445-9-3**]     Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 85-year-old
+male with a history of hypertension, hypertrophic
+cardiomyopathy, prostate cancer, and colon cancer Stage I
+status post partial colectomy in [**2513**] presents to the MICU
+from the floor for approximately 1600 cc of bright red blood
+per rectum.  At transfer, his heart rate was 80, blood
+pressure 120/60.  On admission, his pulse was 63-72, blood
+pressure 138/70.  He denied lightheadedness, chest pain,
+shortness of breath, or any symptoms.  He had the bright red
+blood per rectum from 12:45 am to 2:30 am, when he had
+already drunk 2 liters of GoLYTELY for colonoscopy prep.  His
+hematocrit on admission was 35.3.  At 2:25 pm on the 17th, it
+dropped at 33.4.  A 1:10 am on the 18th, floor nurse reported
+dark maroon blood per rectum.
+
+The patient initially presented to the Emergency Department
+on the [**11-9**] with three days of melena.  He had routine
+colonoscopy on the [**10-31**].  Two polyps were excised, one
+in the cecum and one 30 cm in the descending colon.  Patient
+noted two days of bright red blood on toilet paper following
+the procedure.  This changed to melena for three days prior
+to admission.  Patient denies any history of diverticulosis.
+Denies chest pain, shortness of breath, abdominal pain.  He
+denies NSAID or aspirin use greater than 10 days prior to the
+colonoscopy.
+
+In the Emergency Department, the patient had a negative upper
+GI lavage with 1 liter of normal saline on the floor.  He was
+being prepped for colonoscopy with GoLYTELY, started on IV
+PPI, and his beta blocker was being held.  The night-float
+intern contacted the GI fellow and ordered a TAG red blood
+cell scan prior to his admission to the MICU.  The patient
+had received 1 unit of packed red blood cells on his transfer
+to the MICU.
+
+PAST MEDICAL HISTORY:
+1. Colon cancer in [**2513**] status post resection, this is a
+partial colectomy.  He had a three year follow-up colonoscopy
+which was negative.  He had a five year follow-up colonoscopy
+which was consistent with the two excised polyps.
+2. He has a history of HOCM with diastolic dysfunction.  He
+had an echocardiogram on [**2531-1-24**] with a normal ejection
+fraction, 2+ MR, 2+ TR.
+3. Hypertension.
+4. Prostate cancer status post two TURPs, one in July and one
+in [**2530-12-24**].  His cancer had a [**Doctor Last Name 1235**] score of 3+.
+5. Coronary artery disease with clean coronaries and a
+catheterization in [**2522**].
+6. Hypercholesterolemia.
+7. Hypothyroidism.
+8. Peptic ulcer disease in the OMR, but the patient denies
+this.
+
+OUTPATIENT MEDICINES:
+1. Lopressor 50 q am and q hs, 25 in midday for a tid dosing
+schedule.
+2. Lipitor 10 q day.
+3. Synthroid 50 mcg q day.
+4. Niacin.
+5. Multivitamin.
+6. Vitamin E.
+7. Aspirin 81 q day.
+
+EXAM ON TRANSFER:  Pulse 75, pressure of 140/60, saturating
+97% on room air.  Not in any acute distress, pleasant, and
+lying in bed.  Extraocular movements are intact.  Pupils are
+equal, round, and reactive to light and accommodation.
+Anicteric, no jugular venous distention.  Chest was clear to
+auscultation bilaterally.  No wheezes, rales, or rhonchi.
+Systolic ejection murmur II/VI, right upper sternal border
+radiating to the carotids, large spaced MI, normoactive bowel
+sounds, soft, no rebound, nontender, no distention, guaiac
+positive.  No clubbing, cyanosis, or edema, [**2-25**] dorsalis
+pedis pulses.  Cranial nerves II through XII intact.  Alert
+and oriented times three, 5/5 strength in his upper and lower
+extremities.
+
+LABORATORY DATA:  Admit hematocrit 35.3, white count 7.2,
+platelets 167, MCV 94.  Sodium 141, potassium which is
+hemolyzed at 5.1, repeat was 4.5, BUN of 31, creatinine of
+1.1, chloride 104, bicarb 28, INR 1.1, PTT 24.2, AST at 45,
+ALT 26, albumin 3.8, alkaline phosphatase 69, total bilirubin
+0.9, total protein 6.7, amylase of 151, lipase of 60.
+
+ECG [**12-25**]:  Sinus bradycardia, left bundle branch old, normal
+axis.  Primary A-V conduction delay, PR interval of 252.
+
+SOCIAL HISTORY:  No tobacco, no EtOH.  Exercises regularly,
+swimming, and golf, retired theater manager.  Lives with
+female friend.  Has no children.
+
+FAMILY HISTORY:  Noncontributory.
+
+This is an 85-year-old male with past medical history of
+colon cancer Stage I status post partial colectomy, prostate
+cancer, HOCM, hypertension, who presents status post
+colonoscopy on the 8th with polypectomy x2 presented to the
+Emergency Department with melena and now from the floor with
+bright red blood per rectum admitted for workup of the bright
+red blood per rectum and observation in the MICU.
+
+1. Bright red blood per rectum:  The patient had a TAG red
+blood cell scan which showed active bleeding in the cecum.
+The patient then went to angiography on the morning of
+transfer, and unfortunately, the area of bleeding was not
+visualized.  Later the same day on the 18th, the patient had
+a colonoscopy and the GI team was able to find the bleeding
+lesion in the cecum, and cauterized it, and injected.
+
+He was transferred from the floor with a hematocrit of 33.4.
+He received 1 unit and his hematocrit was 29.7.  On the
+morning of the 18th, the patient received another unit,
+bumped his hematocrit to 32.1 and it was stable at 31.5 on
+the day of discharge.  The patient received intravenous
+Protonix while he was NPO.  His aspirin was held.  He also
+received no NSAIDs.  Beta blocker was initially held until
+the day of discharge.
+
+The patient was instructed to followup with his
+gastroenterologist, Dr. [**First Name8 (NamePattern2) **] [**Known patient lastname **] approximately one
+week following discharge.  He was instructed not to take
+NSAIDs, aspirin, or vitamin E.  The patient is instructed if
+he had new melena or bright red blood per rectum, to call his
+gastroenterologist and come to the Emergency Department.
+
+2. Hypertension/CAD:  Initially, his antihypertensives were
+held.  On the day of discharge, the patient was hypertensive
+and slightly tachycardic.  The patient's beta blocker was
+instituted with decrease in heart rate and blood pressure.
+Patient was monitored to rule out any hypotension.  On the
+day following the colonoscopy and the bowel prep, the patient
+did have blood pressure in the low systolics in the 90s,
+responded to IV fluids most likely representing dehydration
+in the context of being NPO with a bowel prep and a valvular
+lesion that is preload dependent. Following appropriate IV
+hydration approximately 3 liters in 24 hours, patient's blood
+pressure was stable in the 140s and 150s range.
+
+The patient was instructed to hold his [**Last Name (un) 367**] until the day
+following discharge.  The patient was instructed to followup
+with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] approximately one week following
+discharge.  The patient was instructed to take easy activity
+until following up with Dr. [**Last Name (STitle) **] as per Dr.[**Doctor Last Name 10819**]
+instructions.  Patient was continued on his statin.
+
+3. Heme:  Patient's coags were monitored and were within
+normal limits.  Platelet count decreased from 167 to
+approximately 108, but remained above 100 throughout his
+whole hospital stay.
+
+4. Deep venous thrombosis prophylaxis:  The patient was on IV
+proton-pump inhibitors and pneumoboots, then converted to a
+po proton-pump inhibitors.
+
+Full code.  This is discussed with the patient and
+reaffirmed.  He said he wanted everything done.
+
+DISCHARGE DIAGNOSES:
+1. Lower gastrointestinal bleed secondary to cecal
+polypectomy, status post colonoscopy and
+intervention/injection, cauterization of the bleeding lesion.
+2. Hypertrophic cardiomyopathy.
+3. Hypothyroidism.
+4. Hypertension.
+5. Hypercholesterolemia.
+6. Prostate cancer status post TURP x2.
+7. Mitral regurgitation.
+8. Tricuspid regurgitation.
+9. Diastolic dysfunction.
+
+DISCHARGE CONDITION:  Stable/good.
+
+DISCHARGE MEDICATIONS:  No changes from his outpatient
+regimen except the patient was instructed to not take his
+aspirin until instructed by Dr. [**Last Name (STitle) **], and told to take his
+metoprolol regimen 50 am and pm and 25 midday.  Instructed
+not to start his Avapro until the day following discharge.
+He can continue on his normal 10 mg of Lipitor 10 q day,
+Synthroid 50 mcg q day.  Instructed to withhold and not take
+his vitamin E, and told to avoid all NSAIDs, ibuprofen.
+
+DISCHARGE FOLLOWUP:  Dr. [**Last Name (STitle) 50**] and Dr. [**Last Name (STitle) **] in a week
+following discharge.
+
+
+
+                 DR.[**Last Name (STitle) **],[**First Name3 (LF) **] 11-300
+
+Dictated By:[**Last Name (NamePattern1) 1283**]
+
+MEDQUIST36
+
+D:  [**2531-6-12**]  12:22
+T:  [**2531-6-16**]  08:05
+JOB#:  [**Job Number 11568**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+ on: SAT [**2531-7-7**] 12:33 PM
+(End of Report)
+
+
+",,
+8344,16622,,,2531-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2531-6-10**] 8:44 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6996**]
+     Reason: to stop cecal bleeding                                      
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER 36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC 150 CC                    *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with bright red blood per rectum on the floor (1600 cc) s/p 
+      presenting with melena x 3 day after a colonoscopy/polepectomy on [**5-31**]..taggged 
+      red cell scan loalized bleeding to cecum
+     REASON FOR THIS EXAMINATION:
+      to stop cecal bleeding                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85 year old male with bright red blood per rectum.  Patient is
+     status post colonoscopy and polypectomy on [**2531-5-31**].  A nuclear medicine scan
+     performed earlier this morning demonstrates bleeding in the cecal region.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1889**].
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 513**] and [**Name5 (PTitle) 696**].  The attending radiologist,
+     Dr. [**Last Name (STitle) 513**], was present and supervising the entire procedure.
+     
+     CONTRAST/MEDICATIONS:  150 cc Optiray 320 60%.  0.5 mg midazolam.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained in the right femoral artery
+     using a 19 gauge single wall needle.  A 5 French sheath was then placed in the
+     right groin, and a 5 French Omni Flush catheter was advanced to the level of
+     the upper aorta.  A flush aortogram was obtained.  This demonstrated patency
+     of the celiac, superior and inferior mesenteric vessels.
+     
+     The infrarenal aorta is moderately tortuous and demonstrates a fair amount of
+     vascular calcification.
+     
+     A lateral arteriogram was obtained following unsuccessful attempts to
+     selectively cannulate the vessel in the AP view.  Eventually, a glidewire/SOS
+     Omni catheter combination were used to select the superior mesenteric artery,
+     and an AP superior mesenteric arteriogram was performed.  This was centered
+     over the hepatic flexure.  A second arteriogram was performed, centered over
+     the cecum.  We then decided to select both the right ileocolic as well as the
+     right colic arteries, using a C2 glide catheter.  Magnification views of these
+     vessels demonstrated no evidence for active extravasation or vascular
+     malformation.
+     
+     The catheter was then removed and compression was applied over the right groin
+     until hemostasis was achieved.
+     
+                                                                 (Over)
+
+     DATE: [**2531-6-10**] 8:44 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6996**]
+     Reason: to stop cecal bleeding                                      
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Selective superior mesenteric arteriogram, with superselective
+     right colic and ileocolic arteriograms demonstrating no evidence of active
+     extravasation in the cecal region.
+
+",,
+8344,16622,,,2531-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2531-6-10**] 8:44 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6996**]
+     Reason: to stop cecal bleeding                                      
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER 36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC 150 CC                    *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with bright red blood per rectum on the floor (1600 cc) s/p 
+      presenting with melena x 3 day after a colonoscopy/polepectomy on [**5-31**]..taggged 
+      red cell scan loalized bleeding to cecum
+     REASON FOR THIS EXAMINATION:
+      to stop cecal bleeding                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85 year old male with bright red blood per rectum.  Patient is
+     status post colonoscopy and polypectomy on [**2531-5-31**].  A nuclear medicine scan
+     performed earlier this morning demonstrates bleeding in the cecal region.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1889**].
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 513**] and [**Name5 (PTitle) 696**].  The attending radiologist,
+     Dr. [**Last Name (STitle) 513**], was present and supervising the entire procedure.
+     
+     CONTRAST/MEDICATIONS:  150 cc Optiray 320 60%.  0.5 mg midazolam.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained in the right femoral artery
+     using a 19 gauge single wall needle.  A 5 French sheath was then placed in the
+     right groin, and a 5 French Omni Flush catheter was advanced to the level of
+     the upper aorta.  A flush aortogram was obtained.  This demonstrated patency
+     of the celiac, superior and inferior mesenteric vessels.
+     
+     The infrarenal aorta is moderately tortuous and demonstrates a fair amount of
+     vascular calcification.
+     
+     A lateral arteriogram was obtained following unsuccessful attempts to
+     selectively cannulate the vessel in the AP view.  Eventually, a glidewire/SOS
+     Omni catheter combination were used to select the superior mesenteric artery,
+     and an AP superior mesenteric arteriogram was performed.  This was centered
+     over the hepatic flexure.  A second arteriogram was performed, centered over
+     the cecum.  We then decided to select both the right ileocolic as well as the
+     right colic arteries, using a C2 glide catheter.  Magnification views of these
+     vessels demonstrated no evidence for active extravasation or vascular
+     malformation.
+     
+     The catheter was then removed and compression was applied over the right groin
+     until hemostasis was achieved.
+     
+                                                                 (Over)
+
+     DATE: [**2531-6-10**] 8:44 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6996**]
+     Reason: to stop cecal bleeding                                      
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Selective superior mesenteric arteriogram, with superselective
+     right colic and ileocolic arteriograms demonstrating no evidence of active
+     extravasation in the cecal region.
+
+",,
+8344,16622,,,2531-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2531-6-10**] 8:44 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6996**]
+     Reason: to stop cecal bleeding                                      
+      Contrast: OPTIRAY Amt: 150
+     ********************************* CPT Codes ********************************
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER 36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER  NON-IONIC 150 CC                    *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with bright red blood per rectum on the floor (1600 cc) s/p 
+      presenting with melena x 3 day after a colonoscopy/polepectomy on [**5-31**]..taggged 
+      red cell scan loalized bleeding to cecum
+     REASON FOR THIS EXAMINATION:
+      to stop cecal bleeding                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  85 year old male with bright red blood per rectum.  Patient is
+     status post colonoscopy and polypectomy on [**2531-5-31**].  A nuclear medicine scan
+     performed earlier this morning demonstrates bleeding in the cecal region.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] [**Last Name (NamePattern4) 1889**].
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 513**] and [**Name5 (PTitle) 696**].  The attending radiologist,
+     Dr. [**Last Name (STitle) 513**], was present and supervising the entire procedure.
+     
+     CONTRAST/MEDICATIONS:  150 cc Optiray 320 60%.  0.5 mg midazolam.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained in the right femoral artery
+     using a 19 gauge single wall needle.  A 5 French sheath was then placed in the
+     right groin, and a 5 French Omni Flush catheter was advanced to the level of
+     the upper aorta.  A flush aortogram was obtained.  This demonstrated patency
+     of the celiac, superior and inferior mesenteric vessels.
+     
+     The infrarenal aorta is moderately tortuous and demonstrates a fair amount of
+     vascular calcification.
+     
+     A lateral arteriogram was obtained following unsuccessful attempts to
+     selectively cannulate the vessel in the AP view.  Eventually, a glidewire/SOS
+     Omni catheter combination were used to select the superior mesenteric artery,
+     and an AP superior mesenteric arteriogram was performed.  This was centered
+     over the hepatic flexure.  A second arteriogram was performed, centered over
+     the cecum.  We then decided to select both the right ileocolic as well as the
+     right colic arteries, using a C2 glide catheter.  Magnification views of these
+     vessels demonstrated no evidence for active extravasation or vascular
+     malformation.
+     
+     The catheter was then removed and compression was applied over the right groin
+     until hemostasis was achieved.
+     
+                                                                 (Over)
+
+     DATE: [**2531-6-10**] 8:44 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6996**]
+     Reason: to stop cecal bleeding                                      
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Selective superior mesenteric arteriogram, with superselective
+     right colic and ileocolic arteriograms demonstrating no evidence of active
+     extravasation in the cecal region.
+
+",,
+8344,16622,10375,0,2531-06-10 05:00:00 EST,2531-06-10 05:06:00 EST,2437,"N",69,"Nursing/Other","NURSING NOTE: ADMISSION","
+NURSING NOTE: ADMISSION
+PLEASE SEE FHP FOR PMH AND ADMISSION DETAILS
+
+PT ARRIVED TO MICU APPROX 3am FROM [**Hospital Ward Name **] 7 FOR LGIB. 
+
+NEURO- ALERT AND ORIENTED X3. NO COMPLAINTS PLEASANT AND COOPERATIVE WITH CARE. MAE. PERLA. FOLLOWS COMMANDS. 
+
+RESP- LS CLEAR, SATS RA 98-100%. NO RESP DISTRESS NOTED.
+
+CV- HR SR 60-70'S RARE PVC'S. SBP 120-160'S. RECEIVED 1.3 L NS PRIOR TO TRANSFER TO MICU. HCT AT 1AM WAS 33 DOWN FROM 35. UNIT OF PRBC'S HUNG UPON ARRIVAL TO MICU.
+
+GI- ABD SOFT +BS NO STOOL SINCE ARRIVAL. KEPT NPO.
+
+GU- VOIDING IN URINAL CLEAR YELLOW URINE.
+
+ACCESS- TWO PIV'S IN RUE.
+
+DISPO- BROUGHT TO MICU FOR LGIB. PT FULL CODE. RBC SCAN THIS AM FOR POSSIBLE SOURCE OF BLEED. FOLLOW HCT.
+",,
+8344,16622,10375,0,2531-06-10 16:26:00 EST,2531-06-10 17:24:00 EST,2147,"N",69,"Nursing/Other","NPN MICU-B 7AM-7PM","
+NPN MICU-B 7AM-7PM
+S/O: GI: Had a +Red tag study went to Angio but could not find the site of the bleed. Returned and was started on prep of Go-Lytely for Colonscopy. With GO-lytely started having lrge amts of dark blood per rectum, no [**Last Name (un) **] pain. HCT stable @ 29.7. Was alert @ start of Colonscopy, rec'd Demerol 50mg and Versed 1.5mg IVP and became unresponsive, BP down to 80/68, HR70's SR, RR15- with O2 sats 96-99% on 2L NP. Required [**1-25**] amp Narcan, with good response, also rec'd NS 500cc IVB and unit PC's were hung even though HCT was stable @ 29.8. GI MD's were able to do the procedure found a site from polyp removal site from [**5-31**], site was not activity bleeding, but the site was cauterized. Tolerated the procedure well this time did rec Demerol 25m IV, tolerated well did not become unresponsive with this dose. VS were stable. Remains NPO, last HCT before the PC's 29.8, repeat HCT due @ 2000, checking HCT's q4hr. Rectal bag in place, with liquidy dark red bloody stool noted. + Hematoma noted @ R groin Angio site, no bleeding noted has strong + Pedal pulses. 
+
+C/V: BP 90-130/60, HR 70-80's SR with no ectopy noted. Did become hypotensive as above with sedation during the Colonscopy. S/P unit of PC's and NS IVB, BP-90-124/60, HR 60-70's SR. No c/o's CP. 
+
+GU: Foley placed this AM before Angiogram, u/o 200-400cchr clear yellow urine. Rec'ing NS @ 100cc/hr. 
+
+Neuro: A&Ox3, except when rec'd the meds for the procedure. Is awake and very responsive. 
+
+IV: New #20 angio placed in left A/C, still has old #22 in R arm. 
+
+Social: S/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 874**] in to visit and was updated on pt's condition. 
+
+A/P: Continue to monitor VS's and check groin site, assess for rebleeding, check HCT's q6hr. Monitor I&O's. 
+",,
+8344,16622,10375,0,2531-06-11 04:55:00 EST,2531-06-11 05:01:00 EST,2437,"N",69,"Nursing/Other","NURSING NOTE: 7P-7A","
+NURSING NOTE: 7P-7A
+NEURO- PT ALERT AND ORIENTED X3. PLEASANT AND COOPERATIVE WITH CARE. NO COMPLAINTS VERBALIZED. MAE. PERLA. FOLLOWS COMMANDS.
+
+RESP- LS CLEAR. RA SATS >95%. NO RESP DISTRESS NOTED.
+
+CV- HR 60-70'S NSR NO ECTOPY NOTED. SBP 100-140. AM K 3.5, D5NS WITH 40KCL STARTED AND INFUSING AT 100CC/H. AM HCT STABLE AT 32.5.
+
+GI- ABD SOFT NT ND + HYPERACTIVE BS. NO STOOL OVERNIGHT. +FLATUS. KEPT NPO EXCEPT FOR SMALL SIP H2O FOR PILLS. 
+
+GU- FOLEY PATENT FOR 45-80 CC/H OF CLEAR YELLOW URINE.
+
+ACCESS- 2 PIV'S BOTH INTACT AND FUNCTIONING.
+
+SOCIAL- SIGNIFICANT OTHER CALLED FOR UPDATE, SPOKE WITH NSG AND PHONE CALL WAS TRANSFERRED IN TO PATIENT AS WELL.
+
+DISPO- REMAINS IN MICU, FULL CODE. NO SIGNS OF BLEEDING OVERNIGHT. HCT STABLE.  ? ADVANCING DIET TODAY. CONTINUE TO MONITOR.
+",,
+8344,16622,10375,0,2531-06-11 17:07:00 EST,2531-06-11 17:24:00 EST,2393,"N",69,"Nursing/Other","npn 7-7pm","
+npn 7-7pm
+
+No changes today. Pt has been stable and the plan is for him to return home tomorrow.
+
+neuro: AXOX3, mae, follows commands, PERL. No c/o pain or discomfort.
+
+resp: RA with sats >97%. LS clear
+
+CV: SR with rate  60's-80's. Around noon BP started to drop into 80-90 range. Pt received a 250ns bolus at 1400 with good result. Continue with NS at 100/h tonite.
+
+Access: 2 piv
+Heme: Crit at 1330 was 33.8 and next draw is 2000, along with K (it was 3.5 this am). No bleeding.
+
+GI/GU: Belly soft with + BS. Diet advanced to regular heart healthy and was tolerated well. Fecal bag removed. foley removed and pt voiding adeq amt of clear, yellow urine.
+
+Skin: Intact
+
+Activity: Pt ambulated in the hallway (supervised) and sat in chair x7 hours. Tolerated well.
+
+Social: Girlfriend, brother and sister were in to visit this afternoon.
+
+Plan: labs at 2000, possible dc home tomorrow.
+",,
+8344,,10375,0,2531-06-12 05:23:00 EST,2531-06-12 05:26:00 EST,1986,"N",69,"Nursing/Other",,"
+
+pmicu nursing progress 7p-7a
+mr r had a very uneventful night.he strolled around the micu and walked to the bridge, tolerated well.sat up in chair and watched tv.his evening hct=31.2. slept in naps, got up several times to void into urinal.ivf of ns infusing at 100/hr. am labs pnd.
+a-stable
+p-hopefully can be d/cd to home today.
+",,
+8344,5037,10376,,2531-06-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2531-6-15**] 10:28 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6997**]
+     Reason: Please eval for LGIB                                        
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37202 TRANSCATHETER INFUSION NOT LYS -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -51 MULTI-PROCEDURE SAME DAY        *
+     * 75896 TRANSCATHETER INFUSION         75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 50 CC                                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with recurrent LGIB.                                            
+     REASON FOR THIS EXAMINATION:
+      Please eval for LGIB                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    Lower GI bleed.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 463**] [**Name (STitle) 6998**].
+     
+     RADIOLOGISTS:  Procedure performed by Dr. [**Last Name (STitle) 3657**] and [**Doctor Last Name 696**] and Dr.
+     [**Last Name (STitle) 513**], staff radiologist who was present and supervised the entire
+     procedure.
+     
+     MEDICATION/CONTRAST:  50 microgram IV Fentanyl, 1 mg IV Versed in divided
+     doses under constant hemodynamic monitoring. 80 cc 60% nonionic contrast
+     administered due to patient's generalized debilitation.  Vasopressin
+     administered intra-arterially at 0.1 units per hour.
+     
+     TECHNIQUE/PROCEDURE: The patient was informed of the details and associated
+     risks of the procedure. Written consent was obtained. The patient was placed
+     supine on the angiographic table and the right groin was sterilely prepped and
+     draped in the usual fashion. Under fluoroscopic guidance, the right common
+     femoral artery was accessed using 19 gauge single wall puncture needle. A 035
+     inch [**Location (un) 935**] guidewire was advanced into the abdominal aorta under fluoroscopic
+     observation. The puncture needle was exchanged for a 5 French sheath with
+     saline side arm flush. A C2 5 French Cobra glide catheter was used to gain
+     access to the superior mesenteric artery under fluoroscopic guidance.
+     
+     Initial arteriogram of the superior mesenteric artery demonstrates
+     extravasation within a distal branch of the right colic artery.  The C2 glide
+     catheter is then advanced into the take off of the right colic artery and 0.1
+     units per minute vasopressin is administered for 15 minutes at which time a
+     subsequent arteriogram demonstrated no evidence of extravasation from the
+     contrast administration in the region of the previously demonstrated
+     extravasation, distal branch of the right colic artery.  There is a small
+     amount of spasm of the distal superior distal right colic artery demonstrated
+     and the glide catheter is withdrawn to the more proximal right colic artery
+     and vasopressin continued to infuse at 0.1 units per minute for several hours
+     under close observation and serial abdominal examinations.  Subsequent
+                                                                 (Over)
+
+     DATE: [**2531-6-15**] 10:28 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6997**]
+     Reason: Please eval for LGIB                                        
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     arteriogram is planned for later today.  The sheath is left in place with side
+     arm flush and catheter left for continued infusion of Vasopressin. There were
+     no immediate complications and the patient tolerated the procedure well.
+     
+     IMPRESSION:   Selective right colic arteriogram demonstrating extravasation of
+     contrast from distal branch of the right colic artery. Bleeding stopped after
+     initial infusion of 0.1 units per minute vasopressin at which time it was
+     decided to continue to infuse vasopressin at 0.1 units per minute for several
+     hours at which time subsequent arteriogram would be obtained. Findings were
+     discussed with housestaff at the time of the study.
+     
+     
+
+",,
+8344,5037,10376,,2531-06-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2531-6-15**] 10:28 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6997**]
+     Reason: Please eval for LGIB                                        
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37202 TRANSCATHETER INFUSION NOT LYS -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -51 MULTI-PROCEDURE SAME DAY        *
+     * 75896 TRANSCATHETER INFUSION         75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 50 CC                                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with recurrent LGIB.                                            
+     REASON FOR THIS EXAMINATION:
+      Please eval for LGIB                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    Lower GI bleed.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 463**] [**Name (STitle) 6998**].
+     
+     RADIOLOGISTS:  Procedure performed by Dr. [**Last Name (STitle) 3657**] and [**Doctor Last Name 696**] and Dr.
+     [**Last Name (STitle) 513**], staff radiologist who was present and supervised the entire
+     procedure.
+     
+     MEDICATION/CONTRAST:  50 microgram IV Fentanyl, 1 mg IV Versed in divided
+     doses under constant hemodynamic monitoring. 80 cc 60% nonionic contrast
+     administered due to patient's generalized debilitation.  Vasopressin
+     administered intra-arterially at 0.1 units per hour.
+     
+     TECHNIQUE/PROCEDURE: The patient was informed of the details and associated
+     risks of the procedure. Written consent was obtained. The patient was placed
+     supine on the angiographic table and the right groin was sterilely prepped and
+     draped in the usual fashion. Under fluoroscopic guidance, the right common
+     femoral artery was accessed using 19 gauge single wall puncture needle. A 035
+     inch [**Location (un) 935**] guidewire was advanced into the abdominal aorta under fluoroscopic
+     observation. The puncture needle was exchanged for a 5 French sheath with
+     saline side arm flush. A C2 5 French Cobra glide catheter was used to gain
+     access to the superior mesenteric artery under fluoroscopic guidance.
+     
+     Initial arteriogram of the superior mesenteric artery demonstrates
+     extravasation within a distal branch of the right colic artery.  The C2 glide
+     catheter is then advanced into the take off of the right colic artery and 0.1
+     units per minute vasopressin is administered for 15 minutes at which time a
+     subsequent arteriogram demonstrated no evidence of extravasation from the
+     contrast administration in the region of the previously demonstrated
+     extravasation, distal branch of the right colic artery.  There is a small
+     amount of spasm of the distal superior distal right colic artery demonstrated
+     and the glide catheter is withdrawn to the more proximal right colic artery
+     and vasopressin continued to infuse at 0.1 units per minute for several hours
+     under close observation and serial abdominal examinations.  Subsequent
+                                                                 (Over)
+
+     DATE: [**2531-6-15**] 10:28 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6997**]
+     Reason: Please eval for LGIB                                        
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     arteriogram is planned for later today.  The sheath is left in place with side
+     arm flush and catheter left for continued infusion of Vasopressin. There were
+     no immediate complications and the patient tolerated the procedure well.
+     
+     IMPRESSION:   Selective right colic arteriogram demonstrating extravasation of
+     contrast from distal branch of the right colic artery. Bleeding stopped after
+     initial infusion of 0.1 units per minute vasopressin at which time it was
+     decided to continue to infuse vasopressin at 0.1 units per minute for several
+     hours at which time subsequent arteriogram would be obtained. Findings were
+     discussed with housestaff at the time of the study.
+     
+     
+
+",,
+8344,5037,10376,,2531-06-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2531-6-15**] 10:28 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6997**]
+     Reason: Please eval for LGIB                                        
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37202 TRANSCATHETER INFUSION NOT LYS -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -51 MULTI-PROCEDURE SAME DAY        *
+     * 75896 TRANSCATHETER INFUSION         75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 50 CC                                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with recurrent LGIB.                                            
+     REASON FOR THIS EXAMINATION:
+      Please eval for LGIB                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    Lower GI bleed.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 463**] [**Name (STitle) 6998**].
+     
+     RADIOLOGISTS:  Procedure performed by Dr. [**Last Name (STitle) 3657**] and [**Doctor Last Name 696**] and Dr.
+     [**Last Name (STitle) 513**], staff radiologist who was present and supervised the entire
+     procedure.
+     
+     MEDICATION/CONTRAST:  50 microgram IV Fentanyl, 1 mg IV Versed in divided
+     doses under constant hemodynamic monitoring. 80 cc 60% nonionic contrast
+     administered due to patient's generalized debilitation.  Vasopressin
+     administered intra-arterially at 0.1 units per hour.
+     
+     TECHNIQUE/PROCEDURE: The patient was informed of the details and associated
+     risks of the procedure. Written consent was obtained. The patient was placed
+     supine on the angiographic table and the right groin was sterilely prepped and
+     draped in the usual fashion. Under fluoroscopic guidance, the right common
+     femoral artery was accessed using 19 gauge single wall puncture needle. A 035
+     inch [**Location (un) 935**] guidewire was advanced into the abdominal aorta under fluoroscopic
+     observation. The puncture needle was exchanged for a 5 French sheath with
+     saline side arm flush. A C2 5 French Cobra glide catheter was used to gain
+     access to the superior mesenteric artery under fluoroscopic guidance.
+     
+     Initial arteriogram of the superior mesenteric artery demonstrates
+     extravasation within a distal branch of the right colic artery.  The C2 glide
+     catheter is then advanced into the take off of the right colic artery and 0.1
+     units per minute vasopressin is administered for 15 minutes at which time a
+     subsequent arteriogram demonstrated no evidence of extravasation from the
+     contrast administration in the region of the previously demonstrated
+     extravasation, distal branch of the right colic artery.  There is a small
+     amount of spasm of the distal superior distal right colic artery demonstrated
+     and the glide catheter is withdrawn to the more proximal right colic artery
+     and vasopressin continued to infuse at 0.1 units per minute for several hours
+     under close observation and serial abdominal examinations.  Subsequent
+                                                                 (Over)
+
+     DATE: [**2531-6-15**] 10:28 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6997**]
+     Reason: Please eval for LGIB                                        
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     arteriogram is planned for later today.  The sheath is left in place with side
+     arm flush and catheter left for continued infusion of Vasopressin. There were
+     no immediate complications and the patient tolerated the procedure well.
+     
+     IMPRESSION:   Selective right colic arteriogram demonstrating extravasation of
+     contrast from distal branch of the right colic artery. Bleeding stopped after
+     initial infusion of 0.1 units per minute vasopressin at which time it was
+     decided to continue to infuse vasopressin at 0.1 units per minute for several
+     hours at which time subsequent arteriogram would be obtained. Findings were
+     discussed with housestaff at the time of the study.
+     
+     
+
+",,
+8344,5037,10376,,2531-06-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2531-6-15**] 10:28 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6997**]
+     Reason: Please eval for LGIB                                        
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37202 TRANSCATHETER INFUSION NOT LYS -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -51 MULTI-PROCEDURE SAME DAY        *
+     * 75896 TRANSCATHETER INFUSION         75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 50 CC                                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with recurrent LGIB.                                            
+     REASON FOR THIS EXAMINATION:
+      Please eval for LGIB                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    Lower GI bleed.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 463**] [**Name (STitle) 6998**].
+     
+     RADIOLOGISTS:  Procedure performed by Dr. [**Last Name (STitle) 3657**] and [**Doctor Last Name 696**] and Dr.
+     [**Last Name (STitle) 513**], staff radiologist who was present and supervised the entire
+     procedure.
+     
+     MEDICATION/CONTRAST:  50 microgram IV Fentanyl, 1 mg IV Versed in divided
+     doses under constant hemodynamic monitoring. 80 cc 60% nonionic contrast
+     administered due to patient's generalized debilitation.  Vasopressin
+     administered intra-arterially at 0.1 units per hour.
+     
+     TECHNIQUE/PROCEDURE: The patient was informed of the details and associated
+     risks of the procedure. Written consent was obtained. The patient was placed
+     supine on the angiographic table and the right groin was sterilely prepped and
+     draped in the usual fashion. Under fluoroscopic guidance, the right common
+     femoral artery was accessed using 19 gauge single wall puncture needle. A 035
+     inch [**Location (un) 935**] guidewire was advanced into the abdominal aorta under fluoroscopic
+     observation. The puncture needle was exchanged for a 5 French sheath with
+     saline side arm flush. A C2 5 French Cobra glide catheter was used to gain
+     access to the superior mesenteric artery under fluoroscopic guidance.
+     
+     Initial arteriogram of the superior mesenteric artery demonstrates
+     extravasation within a distal branch of the right colic artery.  The C2 glide
+     catheter is then advanced into the take off of the right colic artery and 0.1
+     units per minute vasopressin is administered for 15 minutes at which time a
+     subsequent arteriogram demonstrated no evidence of extravasation from the
+     contrast administration in the region of the previously demonstrated
+     extravasation, distal branch of the right colic artery.  There is a small
+     amount of spasm of the distal superior distal right colic artery demonstrated
+     and the glide catheter is withdrawn to the more proximal right colic artery
+     and vasopressin continued to infuse at 0.1 units per minute for several hours
+     under close observation and serial abdominal examinations.  Subsequent
+                                                                 (Over)
+
+     DATE: [**2531-6-15**] 10:28 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6997**]
+     Reason: Please eval for LGIB                                        
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     arteriogram is planned for later today.  The sheath is left in place with side
+     arm flush and catheter left for continued infusion of Vasopressin. There were
+     no immediate complications and the patient tolerated the procedure well.
+     
+     IMPRESSION:   Selective right colic arteriogram demonstrating extravasation of
+     contrast from distal branch of the right colic artery. Bleeding stopped after
+     initial infusion of 0.1 units per minute vasopressin at which time it was
+     decided to continue to infuse vasopressin at 0.1 units per minute for several
+     hours at which time subsequent arteriogram would be obtained. Findings were
+     discussed with housestaff at the time of the study.
+     
+     
+
+",,
+8344,5037,10376,,2531-06-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2531-6-15**] 10:28 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6997**]
+     Reason: Please eval for LGIB                                        
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37202 TRANSCATHETER INFUSION NOT LYS -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -51 MULTI-PROCEDURE SAME DAY        *
+     * 75896 TRANSCATHETER INFUSION         75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 50 CC                                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with recurrent LGIB.                                            
+     REASON FOR THIS EXAMINATION:
+      Please eval for LGIB                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    Lower GI bleed.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 463**] [**Name (STitle) 6998**].
+     
+     RADIOLOGISTS:  Procedure performed by Dr. [**Last Name (STitle) 3657**] and [**Doctor Last Name 696**] and Dr.
+     [**Last Name (STitle) 513**], staff radiologist who was present and supervised the entire
+     procedure.
+     
+     MEDICATION/CONTRAST:  50 microgram IV Fentanyl, 1 mg IV Versed in divided
+     doses under constant hemodynamic monitoring. 80 cc 60% nonionic contrast
+     administered due to patient's generalized debilitation.  Vasopressin
+     administered intra-arterially at 0.1 units per hour.
+     
+     TECHNIQUE/PROCEDURE: The patient was informed of the details and associated
+     risks of the procedure. Written consent was obtained. The patient was placed
+     supine on the angiographic table and the right groin was sterilely prepped and
+     draped in the usual fashion. Under fluoroscopic guidance, the right common
+     femoral artery was accessed using 19 gauge single wall puncture needle. A 035
+     inch [**Location (un) 935**] guidewire was advanced into the abdominal aorta under fluoroscopic
+     observation. The puncture needle was exchanged for a 5 French sheath with
+     saline side arm flush. A C2 5 French Cobra glide catheter was used to gain
+     access to the superior mesenteric artery under fluoroscopic guidance.
+     
+     Initial arteriogram of the superior mesenteric artery demonstrates
+     extravasation within a distal branch of the right colic artery.  The C2 glide
+     catheter is then advanced into the take off of the right colic artery and 0.1
+     units per minute vasopressin is administered for 15 minutes at which time a
+     subsequent arteriogram demonstrated no evidence of extravasation from the
+     contrast administration in the region of the previously demonstrated
+     extravasation, distal branch of the right colic artery.  There is a small
+     amount of spasm of the distal superior distal right colic artery demonstrated
+     and the glide catheter is withdrawn to the more proximal right colic artery
+     and vasopressin continued to infuse at 0.1 units per minute for several hours
+     under close observation and serial abdominal examinations.  Subsequent
+                                                                 (Over)
+
+     DATE: [**2531-6-15**] 10:28 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6997**]
+     Reason: Please eval for LGIB                                        
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     arteriogram is planned for later today.  The sheath is left in place with side
+     arm flush and catheter left for continued infusion of Vasopressin. There were
+     no immediate complications and the patient tolerated the procedure well.
+     
+     IMPRESSION:   Selective right colic arteriogram demonstrating extravasation of
+     contrast from distal branch of the right colic artery. Bleeding stopped after
+     initial infusion of 0.1 units per minute vasopressin at which time it was
+     decided to continue to infuse vasopressin at 0.1 units per minute for several
+     hours at which time subsequent arteriogram would be obtained. Findings were
+     discussed with housestaff at the time of the study.
+     
+     
+
+",,
+8344,5037,10376,,2531-06-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2531-6-15**] 10:28 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6997**]
+     Reason: Please eval for LGIB                                        
+      Contrast: OPTIRAY Amt: 80
+     ********************************* CPT Codes ********************************
+     * 37202 TRANSCATHETER INFUSION NOT LYS -59 DISTINCT PROCEDURAL SERVICE     *
+     * 36246 INITAL 2ND ORDER ABD/PEL/LOWER -51 MULTI-PROCEDURE SAME DAY        *
+     * 75896 TRANSCATHETER INFUSION         75898 F/U STATUS INFUSION/EMBO      *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    C1769 GUID WIRES INCL INF           *
+     * C1887 CATHETER GUIDING INF/PERF      C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     * NON-IONIC 50 CC                                                          *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with recurrent LGIB.                                            
+     REASON FOR THIS EXAMINATION:
+      Please eval for LGIB                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    Lower GI bleed.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 463**] [**Name (STitle) 6998**].
+     
+     RADIOLOGISTS:  Procedure performed by Dr. [**Last Name (STitle) 3657**] and [**Doctor Last Name 696**] and Dr.
+     [**Last Name (STitle) 513**], staff radiologist who was present and supervised the entire
+     procedure.
+     
+     MEDICATION/CONTRAST:  50 microgram IV Fentanyl, 1 mg IV Versed in divided
+     doses under constant hemodynamic monitoring. 80 cc 60% nonionic contrast
+     administered due to patient's generalized debilitation.  Vasopressin
+     administered intra-arterially at 0.1 units per hour.
+     
+     TECHNIQUE/PROCEDURE: The patient was informed of the details and associated
+     risks of the procedure. Written consent was obtained. The patient was placed
+     supine on the angiographic table and the right groin was sterilely prepped and
+     draped in the usual fashion. Under fluoroscopic guidance, the right common
+     femoral artery was accessed using 19 gauge single wall puncture needle. A 035
+     inch [**Location (un) 935**] guidewire was advanced into the abdominal aorta under fluoroscopic
+     observation. The puncture needle was exchanged for a 5 French sheath with
+     saline side arm flush. A C2 5 French Cobra glide catheter was used to gain
+     access to the superior mesenteric artery under fluoroscopic guidance.
+     
+     Initial arteriogram of the superior mesenteric artery demonstrates
+     extravasation within a distal branch of the right colic artery.  The C2 glide
+     catheter is then advanced into the take off of the right colic artery and 0.1
+     units per minute vasopressin is administered for 15 minutes at which time a
+     subsequent arteriogram demonstrated no evidence of extravasation from the
+     contrast administration in the region of the previously demonstrated
+     extravasation, distal branch of the right colic artery.  There is a small
+     amount of spasm of the distal superior distal right colic artery demonstrated
+     and the glide catheter is withdrawn to the more proximal right colic artery
+     and vasopressin continued to infuse at 0.1 units per minute for several hours
+     under close observation and serial abdominal examinations.  Subsequent
+                                                                 (Over)
+
+     DATE: [**2531-6-15**] 10:28 AM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 6997**]
+     Reason: Please eval for LGIB                                        
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     arteriogram is planned for later today.  The sheath is left in place with side
+     arm flush and catheter left for continued infusion of Vasopressin. There were
+     no immediate complications and the patient tolerated the procedure well.
+     
+     IMPRESSION:   Selective right colic arteriogram demonstrating extravasation of
+     contrast from distal branch of the right colic artery. Bleeding stopped after
+     initial infusion of 0.1 units per minute vasopressin at which time it was
+     decided to continue to infuse vasopressin at 0.1 units per minute for several
+     hours at which time subsequent arteriogram would be obtained. Findings were
+     discussed with housestaff at the time of the study.
+     
+     
+
+",,
+8344,5037,10376,0,2531-06-15 05:04:00 EST,2531-06-15 05:14:00 EST,2429,"N",69,"Nursing/Other","MICU Nursing Progress Note","
+MICU Nursing Progress Note
+Admit: Pt received from EW via nuc med at 0100, alert, oriented, VSS; 2nd unit RBCs transfusing.
+
+Neuro: A/Ox3, intact & appropriate. No mental status changes.
+
+CV: Sinus rhythm 70-80s without ectopy, ?BBB or other IVCD. Normo-hypertensive (max SBP 165). Afebrile. No edema, peripheral pulses palpable x4.
+Hct 26, received 2 more RBCs for total 4u. AM labs pending.
+
+Resp: 3L NC for sats >95%. Lungs clear, no c/o dyspnea or SOB.
+
+GI: Pt had total ~85% golytely. Stool now liquid melena with no solid matter other than blood clots. See I/O for output. Increasingly frequent stools this AM. No c/o abd pain, nausea, or vomiting. Gastric lavage in ED guiuac negative. [**Name8 (MD) **] MD, nuclear med study showed area of bleeding around site that was cauterized during admit earlier this week.
+
+GU: Foley (14fr caude) inserted on arrival, now patent draining adequate amounts clear yellow urine.
+
+Endo: No appreciable issues.
+
+Skin: Intact. Bruising to bilateral arms at needlestick sites.
+
+Overall, plan is for pt to have colonoscopy today with cauterization of bleeding site(s). Bowel prep adequately complete. Pt calm, comfortable, cooperative with plan of care.
+",,
+8344,5037,10376,0,2531-06-15 14:13:00 EST,2531-06-15 14:27:00 EST,2190,"N",69,"Nursing/Other","MICU NSG PROG NOTE: 7-3","
+MICU NSG PROG NOTE: [**7-26**]
+7:30-9:30am: passing large amnts bloody stool w/ clots. (had received golitely for [**Last Name (un) 3418**] prep). Dropped b/p to 89-94 (from 130-140's/). Notified MICU team and GI team. 
+9:30-10:00: To angiography for arterial vasopressin at site of bleeding (reportedly colic artery). Stable for precedure.
+1300: returned from Angio, vasopressin infusing as in angio, into art sheath. Sheath's sideport KVO w/ ns pressure bag, as in angio. VSS. Awake.
+1300-1500: VSS, afebrile, c/o severe scapular pain relieved w/ mso4 2mg. EKG done, Dr [**Last Name (STitle) **] aware. Pulses remain palp DP bil, PT dopplerable. Feet warm, good circ and [**Last Name (un) **] to feet. Transparent dsg intact w/out evidence of hematoma. (ther is an old bruise, but soft)
+3Lnc w/ difficulty obtaining sats, but ones w/ good tracing 94%. No sob. Lungs clear this am.(per intern). Receiving blood transfusions for anemia.(hct 26.2@ 1400.->#7u prbc hung at 1500.(for another unit prbc). received bag platelets, one unit ffp. Following cbc. Last stool passed in angio (large amnt BRB w/ clots.) none since back here in unit. Denies abd pain. Dr [**First Name (STitle) 5646**] from Gi also notified of plan and aware of back pain. (they all want to be notified if flank pain presents). 
+
+ROS: GI: as above, following q4hr and prn hct, cbc, npo
+CARDIAC: VSS, ekg done. 
+RESP: clear, 3Lnc no sob
+RENAL: good u.o., clear
+skin: bruise at R groin.
+NEURO: pleasant, intact
+SOCIAL: family called and updated
+LINES: functional #18x3.
+
+PLAN: to return to angio today for follow study.
+
+",,
+8344,5037,10376,0,2531-06-15 17:03:00 EST,2531-06-15 17:21:00 EST,-1,"N",69,"Nursing/Other","NPN 15:00-19:00 MICU","
+NPN 15:00-19:00 MICU
+*Please refer to Carevue for additional patient information
+*Full Code
+**Brought down to Angiography at 18:00 for R colic Artery bleed
+
+ROS: 
+Neuro: A/o x3, pt is to be kept flat w/ minimal mvmt, log rolled [**2-25**] Angio site in R groin. (prior to [**Last Name (un) 634**] got angio pt c/o of slight, dull stomach pain as well as nausea, however nausea passed w/out event, pain cont's to be dull; angio to give pt some pain med's)
+CV: VSS, HR 80's nsr, SBP 130's. tmax 98.2 po *check distal pedal/post-tibial pulses q30min *hct to be checked ~20:00 (as well as plt, pt, ptt) 
+RESP: 3L NC, O2 sat's high 90's (need to press oximeter against skin to get reading), RR 16-20, no c/o sob, LS clear
+GI/GU: NPO, No bm since [**40**]:30, +bs. U/O wnl. 
+Skin: intact, bruising at site of R groin, as well as bilateral arms (? [**2-25**] peripheral sticks/iv's)
+HEME: #8 of 8u of PRBC's hung prior to going down to angio. Total bld product, 8u prbc's, 1uFFp, 1bag Plt. (R arm 18g is good to use to draw bld)
+
+Plan: 
+*Hct, Plt, PT, PTT to be drawn at 20:00 (q 6hr Hct draws)
+*Assess pedal pulses q 30mins
+*NPO
+
+
+",,
+8344,5037,10376,0,2531-06-16 06:20:00 EST,2531-06-16 06:40:00 EST,-1,"N",69,"Nursing/Other","MICU-B, NPN:","
+MICU-B, NPN:
+Neuro:  A&OX3, MAE independently, log rolls to turn d/t mesenteric angio. sheath.
+
+CV:  HR 90's-110's, NSR-ST w/ occ. missed beats.  SBP 120's-130's.  Gave extra 5mg Lopressor for ST, response was minimal- HR down to mid 90's very briefly.  
+
+Resp:  O2Sat low to mid 90's on 3L NC.  Sat has very poor, inconsistent pleth.  Lungs clear all fields.  Had one episode of productive coughing- sounded slightly wet to upper lobes.  CXR done [**Last Name (un) 3812**]. ? R sided asp.  Started on Levoquin.  
+
+Heme/lytes/micro:  Hct trending slowly down- from mid to low 30's (please refer to carevue) over 8 hr. period.  Received Ca gluconate @ beginning of shift- per a.m. labs likely needs total lyte repletion.  Discussed this w/ house staff in a.m. Received 1U PRBC and will start 2nd unit after 1st.  T-max this shift 99.3 po.  
+
+GI:  NPO.  Mesenteric angio. sheath to LLQ.  Restarted Vaso. @ 0.1U/hr to sheath after Hct began falling.  No BM this shift- states he passed gas.  Pt. being followed by [**Doctor First Name 4**]. for poss. resection.
+
+GU:  Foley to gravity, clear yellow urine.
+
+Derm:  Mesenteric angio. sheath to LLQ C&D w/ clear occlusive drsng. 
+
+Social:  FULL CODE.  Telephoned wife, brother, sister upon returning from angio. @ start of shift.  Pt. very tearful o/n when he was informed that he may need surgery.  States he feels very afraid.  
+",,
+8344,5037,10376,0,2531-06-16 16:23:00 EST,2531-06-16 16:46:00 EST,-1,"N",69,"Nursing/Other","NPN 07:00-19:00 MICU","
+NPN 07:00-19:00 MICU
+*Please refer to Carevue for additional patient information
+*Full Code
+
+O/N pt became tachycardic HR low 100's, given lopressor for increase HR. Hct drawn at that time showing drop of 4pts (Hct 34.6->30.5). Pt started back on Vasopressin 0.1u/min, infusing through Angio site at Colic Artery (site of bleed). Pt was given total of 2u PRBC's this am; pt has now received a total of 10uPRBC's, 1uFFP, 1bag Plt (since his admit on [**6-14**]). Hct after 2units (12pm today)=35.7. Next Hct was to be drawn at 20:00 however IR wanted to check level prior to ?'ably removal of Sheath in R Femoral Artery (currently awaiting results).
+
+Neuro: A/Ox3, is to stay flat in bed for as as long as sheath is in groin, keeping R Leg Straight at all times. Moving upper extremities w/out difficulty. No c/o of abdominal pain, nausea. Overall very pleasant.
+
+CV: HR 72-106 NSR/ST, SBP 106-143/46-48, distal pulses checked q 30mins (pedal as well as femoral), all w/ good palpable pulses. Tmax 99.1, Ca+ repleted this am. 
+
+Resp: 3L NC, O2 sat's high 90's RR ~20, no c/o sob, or chest discomfort. Upper LS clear, lower w/ crackles. Pt does have slight cough, non-productive, given med's w/ little effect.
+
+GI/GU: Cont's to be NPO, +BS, +BM (guiac +, small-scant bm, dark red liquid~20cc; HO aware). U/O wnl, coude catheter in place.
+
+HEME: received 2uPRBC's, Hct 35.7 this afternoon, pndg Hct, next one to be drawn ~12:00MN.
+
+Access: PIV x3, RLA redness. May need new IV this evening. No c/o pain at any of sites.
+
+*ANGIO Catheter: If pt should start to bld and team wants to restart Vasopressin, the concentration of the Vasopressin should be 40u/250cc. It must be this concentration in order for the Vasopressin to be  ""effective"" at the site of the Colonic Artery. This infusion would in turn be running at 37.5cc/hr. 
+*ANGIO: Pndg Hct, pt may have Angio sheath pulled back/out this evening, awaiting results.
+*Plan: According to MD's pt would not, at this time benefit going down to ANgio again, d/t Angio's inablilty to actually place a coil at the exact site of the bld. Therefore the pt would have to have a Colectomy to remove this site of the bld. 
+
+Skin: Intact
+
+Social: Family in today, very appropriate, updated on pt's condition. 
+",,
+8344,5037,10376,0,2531-06-16 16:46:00 EST,2531-06-16 16:51:00 EST,-1,"N",69,"Nursing/Other","Addendum 07:00-19:00","
+Addendum 07:00-19:00
+*Pt to have Sheath removed this evening. Order written for pulse checks q15-1hr (please see order)
+*Angio site prior to removal of catheter did have echymotic area, I will mark it w/ a marker prior to end of shift. 
+",,
+8344,5037,10376,0,2531-06-17 04:41:00 EST,2531-06-17 04:50:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+PT'S RIGHT GROIN CHECKED ACCORDING TO SHEATH REMOVAL PROTOCOL. SITE HAS BEEN CLEAN AND DRY THROUGHOUT THE NIGHT AND THE ECHYMOTIC AREA HAS NOT INCREASED IN SIZE. AREA IS SOFT AND PULSE IS PALPABLE. PEDAL AND PT PULSES ARE ALSO PALPABLE. PT HAS NOT C/O ANY PAIN AT THE SITE. 
+CV: PT'S HR IN NSR WITH RATES IN 70'S -80'S. BP STABLE THROUGHOUT THE NIGHT. SEE FLOWSHEET FOR DATA. 
+PT IS ALERT AND ORIENTED AND QUITE PLEASANT AND COOPERATIV. HAD SOME DIFFICULTY FALLING ASLEEP AND TRAZADONE WAS ORDERED WITH GOOD EFFECT. 
+PT ASKED FOR BEDPAN X 2 DURING THE NIGHT BUT ONLY PASSED GAS. NO BLEEDING RECTALLY. ABD SOFT AND HAS GOOD BOWEL SOUNDS.
+PT HAS LOW GRADE TEMP, PT HAS CONGESTED COUGH, USING INCENTIVE SPIROMETER WITHOUT DIFF. LUNG SOUNDS CLEAR WITH CRACKLES AT THE BASES. O2 SAT'S IN HIGH 90'S WITH 3L NASAL CANULA. 
+GI: PT HAS BEEN NPO THROUGHOUT THE NIGHT. 
+GU: FOLEY CATH DRAINING LRG AMT'S OF CLEAR LIGHT YELLOW URINE.
+SKIN INTACT. HAVE NOT HEARD FROM FAMILY OVERNIGHT BUT PT HAS BEEN SPEAKING WITH FAMILY ON PHONE IN ROOM. 
+PT IS FULL CODE.
+
+",,
+8344,27476,10377,0,2535-06-30 07:18:00 EST,2535-06-30 07:51:00 EST,8745,"N",74,"Nursing/Other","Admission Note, 1900-0730","
+Admission Note, 1900-0730
+89 y.o.m. admitted [**6-23**] for c/o abd pain/nausea x5days, EGD performed revealed gastric outlet obstruction, [**6-25**] gastrojejunostomy performed. PMH includes prostate ca s/p TURP 2002, basal cell carcinoma, colon ca s/p sigmoid resection '[**13**], BPH, hypothyroidism, HTN, hypercholestremia. Pt originally on [**Hospital Ward Name 3**] 9- NGT pulled yesterday, pt vomited x2, aspirated & developed SOB, LS rhoncherous, pts sats reported to decrease to 72% while on 4L NC, ABG obtained, CXR performed, & was immediately tx to TSICU for further monitoring of resp status.
+
+NKDA
+
+FULL CODE
+
+Universal Precautions
+
+Shift Events: - Fluid bolus x1 for hypotension
+              - Weaned off non-rebreather, placed on NC
+              - Coude foley catheter placed
+
+ROS:
+
+RESP: SV on 5L NC, sats >92%, RR 16-30, LS rhoncherous upon arrival to ICU- overnoc LS improved, LS clear to coarse w/ dim bases & crackles. Nonproductive weak cough noted. Albuterol/atrovent neb given w/ + effect. Pt denies SOB. Encourage to CDB, CPT performed.
+
+CVS: NSR to ST, no ectopy noted, HR 88-118, NIBP 80-106/33-57, MAP 58-72, Tmax 99.4, Hct 24.4, WBC 11.1. Weak pedal pulses [**2-25**] +2 pedal edema. Cap refill <3 sec. SC heparin to be started [**6-30**] in am. Pboots for prophylaxis. PICC x2 ports (placed [**6-24**])& PIV x1 for access. 1L NS fluid bolus given for hypotension (SBP low 80s) w/ improvement in SBP to mid 90s. Flagyl & levofloxacin to be given as ordered. Baseline EKG obtained.
+
+NEURO: A+Ox3, cooperative, purposeful movement noted, follows commands appropriately, anxious & agitated. Pt unable to [**Doctor Last Name 5**]- takes PO trazadone PRN for insomnia. However unable to take POs- 5 mg haldol given for anxiety- hoping pt would fall asleep from side effects of haldol, however pt remained awake entire night. Pt c/o R flank discomfort, pt frequently repositioned/ warm packs applied to R lower back- however discomfort did not subside. 2mg Morphine sulfate given IVP w/ some relief in discomfort. 
+OOB to chair w/ 2 person assist.
+
+GI/GU: Abd softly distened, NT, hypoactive BS, + flatus, NPO, med brown loose BM x1 in am- guaiac +. Midline abd incision OTA, staples intact, no erythema noted. NGT to LCWS- draining moderate amts thick bilious drainage- approx 450cc drainage this shift. FS 120-133, no coverage required w/ RISS. Coude foley catheter placed by Dr. [**Last Name (STitle) **]- c/y/u noted, u/o 10-80 cc/hr. u/o was noted to decrease simultaneously w/ decrease in BP- foley flushed w/ 40 cc H20, ? clots. u/o picked up following 1L bolus. BUN 28, creatinine 0.8, Na 137, K 4.2, Ca 8.1, Mg 1.9, Phos 3.6. Awaiting repletion orders. D5 1/2 NS w/ 20 KCL @ 90 cc/hr.    
+
+SOCIAL: Wife noted of tx to ICU from [**Hospital Ward Name 3**] 9- spoke w/ wife & updated her as to POC & pts current status. SW spoke w/ pt yesterday- apparently pt was notified of grim prognosis- has not spoken directly w/ family in regards to his prognosis/future POC- however knows they are aware that prognosis is not good.
+
+POC: Wean pt off NC
+     Pulm toileting, encourage CDB
+     Albuterol/atrovent nebs PRN
+   
+",,
+8344,27476,10377,0,2535-06-30 07:19:00 EST,2535-06-30 07:51:00 EST,8745,"N",74,"Nursing/Other","Admission Note, 1900-0730","
+Admission Note, 1900-0730
+(Continued)
+  Cont to monitor hemodynamics
+     Fluid boluses for hypotension/low uop
+     Cont to manage comfort lvl
+     Replete lytes as required
+     Cont to monitor fluid status  
+     Cont to provide pt w/ emotional support
+     ? transfer to flr
+",,
+8344,27476,10377,0,2535-06-30 17:21:00 EST,2535-06-30 17:32:00 EST,6158,"N",74,"Nursing/Other","TSICU NPN 0700-1900","
+TSICU NPN 0700-1900
+EVENTS:
+
+--Fluroscopy for barrium swallow to rule out bowel obstruction/stricture, offical results pending at this time
+
+--HCT 22.3, pt currently recieving 1 unit PRBC's, second unit ordered.
+
+
+REVIEW OF SYSTEMS:
+
+NEURO: Pt alert and oriented, no neuro deficits noted. Complaining of back pain throughout shift, re-positioned often. Morphine changed to dilaudid with better pain control this evening. Fentanyl patch applied. Toradol given X 1 with good effect.
+
+RESP: Weaned to 3L NC with SATS >93%. LS clear, diminished at bases. No respiratory distress noted. 
+
+CV: SR 70-90's, no ectopy noted. SBP ranging 80-120's. Multiple fluid boluses given for hypotension, pt responded well. See careview for specifics. D5 [**1-25**] infusing at 90cc/hr. Magnesium repleted. PIV X 1. PICC line with site intact, brown port unable to flush. 
+
+HEME: Currently recieving 1 unit PRBC's for HCT of 22.3, second unit ordered.
+
+ENDO: No coverage needed per RISS.
+
+GI: Abd firm, distended. TSICU and Trauma team aware. NGT draining total of 450cc of bilious output. TPN infusing via PICC line at 62cc/hr. NPO at this time. Protonix IV. 
+
+GU: Foley draining clear amber colored urine. Adequate UO.
+
+SKIN: Midline abd incision intact with staples intact, no drainage. Backside intact.
+
+ACTIVITY: Pt ambulated with assist X 2 in hallway. Pt in and out of chair throughout day.
+
+SOCIAL: Wife and step-children into visit this afternoon. [**Doctor First Name 1738**] and [**Doctor Last Name **] (stepson and wife) upset that they have not spoken with primary team. Dr. [**Last Name (STitle) **] paged and called both, answering all questions.
+
+PLAN: Monitor hemodynamic status, replete second unit PRBC's, monitor post HCT, montior pain, continue with family support.
+",,
+8344,27476,10377,0,2535-07-01 05:25:00 EST,2535-07-01 05:45:00 EST,8745,"N",74,"Nursing/Other","Progress Note, 1900-0730","
+Progress Note, 1900-0730
+Please see careview for further details.
+
+No significant events overnoc.
+
+ROS: 
+
+RESP: SV w/ 3L NC, sats 93-96%, RR 10-19, LS clear w/ dim bases bil, nonproductive cough, no c/o SOB.
+
+CVS: NSR w/ ST elevation, no ectopy. HR 77-106, NIBP 94-132/43-69, MAP 60-87, Tmax 98. Hct 22 early evening, transfused w/ 2 units PRBCs. Post transfusion Hct 30.1, WBC 11.6. PIV x1, PICC x2 lumens wnl. Weak pedal pulses- +1 bilateral pedal edema, cap refill <3 sec. Receiving flagyl & levofloxacin as ordered.
+
+NEURO: A+Ox3, cooperative, anxious at baseline. MAEs, OOB to chair, ambulated x1 assist, follows commands appropriately. Fent patch & PRN dilaudid for pain [** 5647**]. C/O R flank pain [**6-2**]- receiving 0.5-1mg dilaudid Q1-2H w/ adequate relief of pain. Had difficulty falling asleep, became anxious- 0.5mg ativan given w/ relief of anxiety & pt fell asleep x3 hrs.  
+
+GI/GU: Abd firmly distended, NT, +BS, no BM. TPN @ 62cc/hr. Midline abd incision well approximated, staples intact, OTA, no drainage noted. NGT draining sm amts thin bilious drainage- 225cc this shift. FS 136-154, minimal coverage required w/ RISS. Foley draining minimal amts amber clear urine. uop 20-33 cc/hr. BUN 30, creatinine 0.8, Na 136, K 4.1, Chloride 109, Ca 7.5, Mg 2.5, Phos 3.6. Ca repleted.
+
+Social: Wife called for update as to pts status.
+
+POC: Wean supplemental O2
+     Pulm toileting
+     Monitor hemodynamics
+     Cont w/ pain [**First Name9 (NamePattern2) 5647**]
+     [**Last Name (un) **] fluid status
+     ? transfer to flr
+",,
+8344,27476,10377,0,2535-07-01 06:35:00 EST,2535-07-01 06:40:00 EST,8745,"N",74,"Nursing/Other","Addendum 0730","
+Addendum 0730
+At 0630 pt became tachycardic w/ increase in HR from 90s to 120-140s, widening in QRS noted on EKG strip. 12 lead EKG performed, noted to be in NS tachycardia w/ L BBB. Sats also noted to decrease to 90% from 94% during acute episode of tachycardia. Pt given 5mg lopressor IV, placed on face tent, FiO2 70%, 12L 02 w/ improvement in sats, cardiac enzymes sent. Team aware of tachycardia & changes in EKG. ? cardiac consult, to be addressed in am rounds.
+",,
+8344,27476,10377,0,2535-07-01 17:36:00 EST,2535-07-01 17:51:00 EST,42,"N",74,"Nursing/Other","T-SICU Nsg note","
+T-SICU Nsg note
+    Pt continues to have back pain, and pain across lower chest, upper abd.  Pain relieved somewhat by hydromorphone, position changes, walking and heat pads.  Pt's family is concerned about getting treatment for this pain.  Pt wants to walk and has been using IS, very cooperative with care.
+     Pt in NSR to Sinus tach with APC""s and PVC's. Less ectopy this afternoon.  CK-MB and troponin x 2 have been elevated.  One more set of cardiac enzymes ordered.  BP 120-170 sys by NBP.
+     Pt on room air at times today with sats 93-94%. On O2 per NC for walks.  Recieving nebulizer treatments.  Pt has strong cough, occ prod, pt  swallows sputum.
+    U/O has increased.  urine has brown sediment in it.  IV now down to KO.
+    NG tube putting out dk green bilious fluid.  No bowel movements today.
+   Hct stable at 30.  Repeat Hct due at 2000.
+ Pt's wife and granddaughter in to visit this afternoon.  Many family members have called for updates during day.
+
+",,
+8344,27476,10377,0,2535-07-02 04:04:00 EST,2535-07-02 04:24:00 EST,1197,"N",74,"Nursing/Other","TSICU NPN: 7p-7a","
+TSICU NPN: 7p-7a
+NEURO: Pt. A&Ox2-3. MAE and with equal strength. Slightly anxious at times. Complaining of R lower back pain with dilaudid given prn with good relief. 
+CV: Tmax 99.7 po. HR 80s-140s SR/ST with 1st degree AV block.  Episodes of tachycardia with HR up to 130s-140s briefly - pt. asymptomatic although increased anxiety noted. On 5mg iv lopressor q4hrs. Pt. with episode of ""[**4-2**]"" chest discomfort around 3am and one nitroglycerin sublingual given with complete relief of pain. No further chest pain. BP stable throughout. HCT stable. 
+RESP: Currently on 3L NC with O2 Sat 92-97%. LS with intermittent expiratory wheezing- nebs prn. Also given 20mg iv lasix for episode of increased wheezing and no relief after two nebs. O2 Sat down to 90% at this time on 3L. Also received CXR this am. 
+GI/GU: Abd. softly distended with positive bowel sounds. NGT intact and to cont. low wall suction with bilious drainage. NPO and using mouth swabs prn. TPN continues via PICC line. No BM. Foley draining clear yellow urine >30cc/hr. 
+SKIN: Abd. with midline incision with staples clean, dry and intact. L PICC line intact and patent. 
+OTHER: Several family members called last pm and updated on pt's condition and plan of care. 
+",,
+8344,27476,10377,0,2535-07-02 16:02:00 EST,2535-07-02 16:29:00 EST,514,"N",74,"Nursing/Other",,"
+
+O. Patient found to be dyspneic c/o of air hunger lungs crackles 3/4 up b/l o2 sat 91% lasix 20 mg IV given pt diuresis well lungs faint crackles bases o2 sats 94-95% on [**3-27**] lnp given nebs as ordered. Patient able to ambulate o2 sats do drop to 89-91% not c/o SOB while ambulating
+cvs HR 100's ST lopressor 5mg IV increased to 10mg q 4 hr hct stable 31. Cardiac echo done. Dr. [**Last Name (STitle) 5648**] [**Name (STitle) 1491**] from cardiology in to see Mr [**Known patient lastname **] [**Last Name (Titles) 1875**] w+d bp 120/-132/64 pp+2 pedal and scrotal edema noted pt given ASA pr
+Neuro pt a/o x3 ambulates well with little assist c/o of rt flank pain given hydromorphone .5-1mg q 4 iv prn and lidocaine patch to area q 12 with good effect
+gi abd soft distended ngt lcs bilious output 150cc no stool
+gu mn to 1700 output neg 2900, staples in place c+d  
+endo tx with ss insulin
+access picc
+ID afebrile, on flagyl, and levofloxacin
+a. s/p gastrojejunostomy bx revealed well diferentiated adenocarcinoma, aspiration pneumonia, hypertrophic LV obstructive cardiomyopathy prob demand ischemia
+p. NGT LCS, npo, tpn, ss insulin coverage, cont antibx, medicate for pain prn, ambulate, aspirin pr, lopressor increase to 10mg iv q 4hr, diursis prn, replete lytes prn per ss.
+",,
+8344,27476,10377,0,2535-07-03 04:32:00 EST,2535-07-03 04:47:00 EST,1426,"N",74,"Nursing/Other",,"
+
+ASSESSMENT AS NOTED IN CAREVUE
+
+ON 4L NC MAINTAINS SAT >94, LS CLEAR/DIM WITH FINE CRACLES ON BASES, DENIES SOB, STRONG COUGH-MOSTLY DRY, AMBULATES WELL W/O DISTRESS, C/O PAIN IN R.LOWER BACK AND GETING DILODID WITH PAIN RELIEF. BP STABLE 120-160 SYSTOLIC, ON LOPRESSOR 10 Q4, IN NSR, EDEMATOUS FEET, +PULSES. U/O 30-80/H, +BS, SOFT ABD, NGT DRAINS SMALL AMNTS DARK GREEN, DENIES NAUSEA
+
+HCT 30-32, MULTIPLE  BRUISING AREAS, NO OBVIOUS BLEEDING NOTED, PIC LINE  PATENT
+
+PT LET HIS NEEDS KNOWN WITH CALLING LIGHT, AMBULATED TWICE AROUND THE UNIT WITH HELP OF A NURSE, HAD HARD TIME FALLING ASLEEP AND TELLS HE DIDNOT [**Doctor Last Name **] WELL SINCE HE IN THE HOSPITAL
+
+PT IS A TRANSFER TO TELE AND AWAITS FOR A BED ON FLOOR, HIS WIFE [**Name (NI) **] [**Name2 (NI) 5649**] NIGHT AND WAS UPDATED ON PT CONDITION
+
+PLAN: TRANSFER TO TELE, MONITOR VS, AMBULATE, ENCOURAGE COUGH/DEEP BREATHING.
+",,
+8344,27476,10377,0,2535-07-03 16:44:00 EST,2535-07-03 16:54:00 EST,693,"N",74,"Nursing/Other",,"
+
+Neuro Alert and oriented x3. Med x2 with 2mg ivp dilaudid for c/o incisional pain and right sided back pain. Pt. is also restless and feeling frustrated and having trouble finding comfortable positions etc. 
+cv/resp vss. htn after moving but returns to baseline. o2 sat stable on 4lnp. coughing and raising large amts tan sputum with pulmonary toilet. 
+gi/gu npo. Swabs to mouth for dry mouth. foley to gravity q.s. uop
+TPN infusing via left arm PICC.ngt to sx drained aprox 160cc this shift(12hours)
+Integ abdominal incision clean and dry open to air. Staples intact.
+Lidocaine patch to right flank but rubs off.
+OOB to chair several times and ambulated well around entire unit.
+Plan: ? clamping of ngt tomorrow to see if pt. tolerates. c/o to floor with telemetry. No tele bed avail.   
+",,

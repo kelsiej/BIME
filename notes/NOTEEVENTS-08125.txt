@@ -1,0 +1,432 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8125,20023,,,3184-03-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3184-3-22**]              Discharge Date:   [**3184-3-26**]
+ 
+Date of Birth:  [**3090-5-19**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 4822**] 
+Chief Complaint:
+Presented with unresponsiveness and mental status change.
+
+ 
+Major Surgical or Invasive Procedure:
+Intubation on [**3184-3-22**].
+ 
+History of Present Illness:
+This is a [**Age over 90 **] year-old woman with a history of hypertension who 
+presented on [**3-22**] after being found unresponsive by her 
+caregiver at home.  
+.
+As per MICU notes, the patient ""was found by her caregiver this 
+morning around 9 am unresponsive. Had last been seen by her 
+caregiver the night before, 6 pm, in her usual state of health."" 
+Per her niece, the patient had been more lethargic over the past 
+10 days and had seemed short of breath. No other complaints 
+noted.  
+.  
+In the ED, her initial vitals were 99.6, 117/91, 92, 16, and 
+97%RA. She was unresponsive to sternal rub and had no gag 
+reflex. She was intubated for airway protection. She was sedated 
+with propofol (unclear why as unresponsive?) She then became 
+hypotensive to the 80s/50s and propofol was turned off; she got 
+a bolus of one liter and her blood pressure responded to 130/47. 
+Her ECG showed new TWI in II, III, and aVF, and her troponin was 
+positive at 0.21. She was given solumedrol 125 mg, ceftriaxone 2 
+grams, vancomycin 1 gram, and aspirin 600 mg pr. She had a 
+lumbar puncture and a head CT which were unremarkable. Her CXR 
+showed kyphoscoliosis and borderline cardiomegaly but no acute 
+lung process.  
+.  
+Upon arrival to the MICU, her niece reported that the patient is 
+DNR/DNI and would not want invasive procedures. She stated that 
+the patient would want to be extubated, so patient was 
+extubated.  Upon discontinuation of the propofol, the patient 
+was awake, alert, and oriented.""
+
+As per report, she denied any complaints, including no chest 
+pain, cough, shortness of breath, nausea, vomiting, and 
+abdominal pain.  
+.
+An echocardiogram obtained yesterday, [**3-23**], demonstrated a 
+dilated RV with RV hypokinesis and pulmonary hypertension, an 
+underfilled LV cavity with LVH and hyperdynamic LVEF and a small 
+ASD with  
+bidrectional flow at rest. Findings are suggestive of RV strain 
+(PE?) and intracardiac shunting.  
+.
+The MICU team has had extensive discussion with the patient and 
+her family and decision has made to pursue comfort measures 
+only.
+.
+She is transferred to the floor at this time.  
+
+ 
+Past Medical History:
+Hypertension.
+ 
+Social History:
+Lives at home with caretaker.  Former smoker. 
+
+ 
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+On transfer to floor, patient CMO.
+Patient appeared comfortable.
+ 
+Pertinent Results:
+Images:
+Cardiac ECHO ([**3184-3-23**]): 
+Dilated RV with RV hypokinesis and pulmonary hypertension.  
+Underfilled LV cavity with LVH and hyperdynamic LVEF. A small 
+ASD with bidrectional flow at rest. These findings are 
+suggestive, but not diagnostic for RV strain (PE?) and 
+intracardiac shunting. 
+.
+CT head ([**3184-3-22**]):  
+1.  No acute intracranial process.  2.  Moderate global atrophy, 
+with chronic bilateral basal ganglia lacunes.  3.  Possible 
+acute-on-chronic inflammatory changes involving the maxillary 
+and ethmoid sinuses and right mastoid air cells. 
+.
+Chest Xray ([**3184-3-22**]):  
+1)  ET tube tip roughly 3.7 cm proximal to the carina, likely in 
+satisfactory position.  2)  Marked thoracic kyphoscoliosis and 
+right chest wall deformity related to multiple rib fractures, as 
+before. 
+3)  Linear scarring and atelectasis involving the right lung, 
+but no definite consolidation. 4)  Borderline cardiomegaly 
+without CHF.
+.
+.
+Labs:
+[**3184-3-23**] 02:54AM BLOOD WBC-5.4 RBC-4.72 Hgb-13.5 Hct-42.5 MCV-90 
+MCH-28.5 MCHC-31.7 RDW-14.8 Plt Ct-142*
+[**3184-3-22**] 10:10AM BLOOD WBC-5.6 RBC-4.62 Hgb-13.3 Hct-41.4 MCV-90 
+MCH-28.9 MCHC-32.2 RDW-14.5 Plt Ct-159
+[**3184-3-23**] 02:54AM BLOOD Neuts-86.2* Bands-0 Lymphs-8.4* Monos-5.1 
+Eos-0.2 Baso-0.1
+[**3184-3-22**] 10:10AM BLOOD Neuts-74.2* Lymphs-16.4* Monos-8.3 
+Eos-0.7 Baso-0.4
+[**3184-3-23**] 02:54AM BLOOD Plt Ct-142*
+[**3184-3-22**] 10:10AM BLOOD Plt Ct-159
+[**3184-3-22**] 10:10AM BLOOD PT-11.8 PTT-22.9 INR(PT)-1.0
+[**3184-3-23**] 02:54AM BLOOD Glucose-139* UreaN-59* Creat-1.4* Na-141 
+K-5.2* Cl-107 HCO3-21* AnGap-18
+[**3184-3-22**] 10:10AM BLOOD Glucose-119* UreaN-59* Creat-1.4* Na-140 
+K-5.9* Cl-99 HCO3-34* AnGap-13
+[**3184-3-22**] 04:50PM BLOOD ALT-51* AST-73* CK(CPK)-61 AlkPhos-47 
+TotBili-0.2
+[**3184-3-23**] 02:54AM BLOOD CK-MB-9 cTropnT-0.30*
+[**3184-3-22**] 10:10AM BLOOD CK-MB-NotDone cTropnT-0.21*
+[**3184-3-23**] 02:54AM BLOOD Calcium-7.9* Phos-6.4* Mg-2.3
+[**3184-3-22**] 04:50PM BLOOD TSH-4.6*
+[**3184-3-22**] 06:29PM BLOOD Type-ART pO2-105 pCO2-28* pH-7.54* 
+calTCO2-25 Base XS-3
+ 
+Brief Hospital Course:
+Hospital Course/Assessment and Plan: 
+Patient is a [**Age over 90 **] year-old woman admitted with unresponsiveness 
+presumed secondary to a pulmonary embolus, originally intubated 
+for airway protection who was determined to be DNR/DNI.  
+Extubated and now goals of care discussed with family.  Patient 
+transferred to medicine team as comfort measures only.
+.
+1) Comfort measures:
+Patient continued on morphine and ativan.  Titrated for comfort. 
+ Patient expired on Monday, [**3184-3-26**] at 1:15pm.  Patient's 
+nephew was present.  Autopsy was declined.  
+Attending, Dr. [**First Name (STitle) **] [**Name (STitle) 9610**], was informed.
+
+ 
+Medications on Admission:
+-Betoptic
+ 
+Discharge Medications:
+Not applicable.
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Expired on [**3184-3-26**].
+ 
+Discharge Condition:
+Expired.
+ 
+Discharge Instructions:
+None.
+ 
+Followup Instructions:
+Not applicable.
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 4826**] MD [**MD Number 4827**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) 246**] [**Last Name (NamePattern1) 11071**] MD [**MD Number 11072**] [**3184-3-26**] @ 1641
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Name (STitle) **]
+ on: MON [**3184-3-26**] 5:14 PM
+(End of Report)
+
+
+",,
+8125,20023,,,3184-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3184-3-22**] 10:54 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5056**]
+     Reason: bleed                                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with AMS, unresponsive, intubated                             
+     REASON FOR THIS EXAMINATION:
+      bleed                                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 5057**] [**Doctor First Name 114**] [**3184-3-22**] 11:21 AM
+      No acute process. Moder global atrophy, few b/l bg chr lacunes.
+      Acute-on-chr inflamm chgs max/eth sinuses, R mastoid air cells.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE HEAD WITHOUT CONTRAST DATED [**3184-3-22**].
+     
+     HISTORY:  [**Age over 90 **]-year-old woman with altered mental status, unresponsive and
+     intubated; ? bleed.
+     
+     TECHNIQUE:  Contiguous 5 mm axial tomographic sections were obtained from the
+     skull base to the vertex and viewed in brain and bone window on the
+     workstation.
+     
+     FINDINGS:  There are no comparisons on record.  There is no intra- or extra-
+     axial hemorrhage and the midline structures are in the midline.  There is
+     moderate, proportionate prominence of the cortical sulci and fissures and the
+     ventricles and cisterns, representing global atrophy.  There are scattered
+     small low-attenuation foci in the basal ganglia, bilaterally, likely
+     representing chronic lacunes, with only slight evidence of chronic
+     microvascular infarction in periventricular white matter.  There is no finding
+     to suggest acute vascular territorial infarction.  Noted is extensive
+     calcification of the cavernous and supraclinoid segments of both internal
+     carotid arteries.  There is mucosal thickening involving several ethmoidal air
+     cells and both maxillary antra with a possible fluid level on the right.  The
+     right mastoid air cells are largely opacified.  No skull fracture is seen.
+     
+     IMPRESSION:
+     1.  No acute intracranial process.
+     2.  Moderate global atrophy, with chronic bilateral basal ganglia lacunes.
+     3.  Possible acute-on-chronic inflammatory changes involving the maxillary and
+     ethmoid sinuses and right mastoid air cells.
+     
+     COMMENT:  These findings were transmitted electronically to the [**Hospital Unit Name 277**] at time of
+     this dictation.
+
+",,
+8125,20023,,,3184-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3184-3-22**] 10:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5055**]
+     Reason: infiltrate, edema, ett placement                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with rhonchi, decreased mental status                         
+     REASON FOR THIS EXAMINATION:
+      infiltrate, edema, ett placement                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE VIEW CHEST [**3184-3-22**]:
+     
+     HISTORY:  [**Age over 90 **]-year-old woman with rhonchi and decreased mental status; ?
+     infiltrate or edema, and check ETT placement.
+     
+     FINDINGS: Very limited bedside AP examination labeled ""supine at 10:05 a.m.""
+     with patient markedly rotated to her left.  The tip of the endotracheal tube
+     lies at the level of the inferior margin of the clavicles, roughly 3.7 cm
+     proximal to the carina.  Evaluation is limited technical factors, as well as
+     the patient's kyphoscoliosis, some of which relates to diffuse osteopenia with
+     compression deformities of several mid-thoracic vertebrae. There are also
+     several old, healed consecutive right rib fractures.  There is linear
+     atelectasis or scarring involving the right mid- and lower lung, as on study
+     dated [**3181-3-10**]; since that time, the linear opacity in the left lung base has
+     largely cleared, with no definite focal consolidation seen.  Allowing for the
+     above factors, the heart is probably top normal in size, with dense mitral
+     annular calcification.  There is no pulmonary vascular congestion, pleural
+     effusion, or other evidence of CHF.
+     
+     IMPRESSION: Limited study, with:
+     1)  ET tube tip roughly 3.7 cm proximal to the carina, likely in satisfactory
+     position.
+     2)  Marked thoracic kyphoscoliosis and right chest wall deformity related to
+     multiple rib fractures, as before.
+     3)  Linear scarring and atelectasis involving the right lung, but no definite
+     consolidation.
+     4)  Borderline cardiomegaly without CHF.
+
+",,
+8125,20023,10111,0,3184-03-22 17:00:00 EST,3184-03-22 17:35:00 EST,8904,"N",54,"Nursing/Other","NPN 1700-1900","
+NPN 1700-1900
+[**Age over 90 **] yrs old female, admitted from ER, intubated via ETT, on vent setting CMV 350/60%/20/+5, Pt was found unresponsive at home by the caretaker today morning, EMS called and they  brought her to the ER.
+Cardiac enzymes were elevated, troponin 0.2 with EKG variations suggests acute MI. Blood culture sent from ER, BUN 59, creat 1.4, NS IVF 3 liters given. Abt ceftriaxone 1gm and Vancomycin started in ER.
+Neuro: Pt is sedated on Propofol 20 mcg/hr, responds to painful stimuli, moves upper extr in bed, no movements noted for LE. Rt eye with cataract, lt eye sluggish reaction.
+Resp: Received intubated on vent CMV 350/60%/20/+5, sx white thick secretions in moderate amount. O2 sat 99-100%, LS clear.
+GI/GU: Abd firm distended, + BS, NPO. Foley catheter draining amber urine 30ml/hr.
+ID: Afebrile. Started on Vanco and ceftriaxone in ER.
+IV access: PIV x 2
+Code: DNR.
+Plan: Cont to monitor resp status.
+",,
+8125,20023,10111,,3184-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3184-3-23**] 10:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5058**]
+     Reason: eval for fluid status vs. infiltrate                        
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with rhonchi, decreased mental status receiving multiple 
+      boluses fluid for low UOP and BP                        
+     REASON FOR THIS EXAMINATION:
+      eval for fluid status vs. infiltrate                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 10:24 A.M., [**3-23**].
+     
+     HISTORY:  Rhonchi and decreased mental status.  Fluid boluses for low blood
+     pressure.
+     
+     IMPRESSION:  AP chest compared to [**3-22**]:
+     
+     Endotracheal tube has been removed.  Mild-to-moderate cardiomegaly has
+     worsened. Mild perihilar edema and small bilateral pleural effusions, right
+     greater than left, are all new consistent with volume overload or cardiac
+     decompensation.
+     
+     Dr. [**Last Name (STitle) 5059**] was paged to report these findings at the time of dictation.
+                                                                           
+
+",,
+8125,20023,10111,0,3184-03-23 03:56:00 EST,3184-03-23 03:58:00 EST,4038,"N",54,"Nursing/Other",,"
+
+Resp: Pt was extubated on [**3-22**] and placed on n/c @ 2 lpm. 02 saturation in 80's then ^ to 4 lpm.  Ordered HHN UD Atrovent Q6 hrs and administered with no adverse reactions. Pt is mouth breather so placed on humidified f/t @ 70% without n/c. 02 sats 95-97%. Will continue to follow. 
+",,
+8125,20023,10111,0,3184-03-23 04:27:00 EST,3184-03-23 04:50:00 EST,6922,"N",54,"Nursing/Other","MICU Nursing Progress Note 1900-0700","
+MICU Nursing Progress Note 1900-0700
+
+Code: DNR/DNI
+Allergies: NKDA
+
+Neuro: Received pt post extubation, on no sedation.  Pt becoming more interative, able to answer questions, MAE, follow commands.  Pt denies pain.  A&O x 2 (unsure of year).  Per Dr. [**Last Name (STitle) 3119**] we will continue to treat pt but not perform any invasive procedures.  
+
+CV: HR NSR 77-95 with no ectopy noted, NBP 75-125/47-73.  Peripheral pulses present but difficult to palpate.  Cardiac enzymes being cycled due to elevated troponin in ED, AM troponin 0.3 (0.2).  PIV x 2.  
+
+Resp: Pt switched from NC to cool mist face tent at 70% due to decreased sats, now sats >90%, RR 15-35.  Lung sounds coarse in all fields.  Pt has weak cough, unable to bring anything up.  
+
+GI: BS x 4, no stool this shift.  Pt ordered for regular diet, may need no try soft solids first as pt's HCP admits pt has some difficulty swallowing.  
+
+GU: Foley patent, draining small amounts clear, amber colored urine.  UO unaffected by fluid bolus.   AM labs, K 5.2, BUN/creat 59/1.4.  
+
+Skin: Bilateral rashes to lower extremities.  
+
+ID: Tmax 97.9 PO, received Ceftriaxone and Vanco in ED, blood cultures x 2 sent in ED, results pending.  
+
+Social: HCPs in to visit last night, updated on pt's condition and plan of care.  Will be in this morning.  
+
+Plan:
+monitor BP, resp status
+follow up culture data
+routine ICU care and monitoring
+pt called out to floor
+",,
+8125,20023,10111,0,3184-03-23 16:36:00 EST,3184-03-23 16:49:00 EST,4273,"N",54,"Nursing/Other","Nursing Progress Note 0700-1900","
+Nursing Progress Note 0700-1900
+Events: Pt difficult to rouse in am, but alert intermit as day progressed. Several fluid boluses given for SBP as low as 50's with only modest gains. MD discussed pt status with her nephew's/niece and pt was made CMO.
+
+Review of Systems:
+
+Neuro: Per above pt difficult to waken in am, but when awake she is alert and oriented X 1. MAEE with fair strength. Denies discomfort. Pt is ordered for MSO4 continuous drip, but this has not been initiated.
+
+Resp: O2 sat 88-98% on FT @ 50%, with RR 11-30 and irregular with [**Doctor Last Name 5**] apnea. Lung sounds coarse thoroughout, diminished @ bases. Pt with very weak, impaired cough.
+
+CV: HR 68-93SR with intermit PVC's/runs v-tach. BP 58/36-81/47. Pt rec'd total 2750ml in fluid boluses this shift.
+
+GI: Abd soft/distended with hypoactive bowel snds. No BM. Pt with impaired gag and cough and has remained NPO. All meds have been D/C'd except for eyedrops and MSO4 drip/IVP. NS @ 100ml/hr.
+
+GU: Urine yellow/clear, draining @ 0-5ml/hr for total ~10ml this shift. Foley flushed without improvement in output.
+
+Social: Pt's relatives have been supportive of pt and team. Niece to fly to [**Country 5418**] if flight isn't cancelled tonight. 
+
+Plan: CMO. MSO4 as neccessary. Pt may be called out tomorrow.
+
+
+",,
+8125,20023,10111,0,3184-03-24 04:14:00 EST,3184-03-24 04:31:00 EST,6922,"N",54,"Nursing/Other","MICU Nursing Progress Note 1900-0700","
+MICU Nursing Progress Note 1900-0700
+
+Code: DNR/DNI/CMO
+Alleriges: NKDA
+
+Neuro: Pt A&O x 2, arousable to voice, follows commands, MAE.  Anxious at times, unsure of what she wants or what she needs to be comfortable, calms with reassurance.  Pt denies pain.  Ordered for morphine gtt or IVP if needed.  
+
+CV: HR 65-80's SR with rare PVC, rare run VTACH x 1, NBP 80-130/40-50.  PIV x 1.  
+
+Resp: Pt currently on 2L NC with sats 83-94%.  Weak cough/impaired gag.  Lung sounds coarse in upper lobes, diminished in bases.  Pt noted to have periods of apnea during [**Doctor Last Name 5**].  
+
+GI/GU: BS x 4, no stool this shift.  Remains NPO due to impaired cough/gag.  Pt stated she is very hungry.  Foley patent and draining small amounts clear, yellow urine.  UO ~2cc/hr.  
+
+Social: Nephew in to visit last night, updated on pt's condition and plan of care.  Should be called if there are drastic changes in pt's condition.  Will be in this afternoon.  
+
+Plan:
+CMO, pain management if needed
+pt may be called out to floor this AM
+
+",,
+8125,20023,10111,0,3184-03-24 15:44:00 EST,3184-03-24 15:55:00 EST,7277,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note:
+
+Pt. is called out and awaiting a bed. Pt. is DNR/DNI and is also CMO due to BP dropping very low at times.
+
+Neuro: Pt. was quite alert in the morning, 0X2 but following commands and carrying on an appropriate conversation. She does not remember people visiting her unless reminded but did converse with nephew briefly during his visit. She assists with turns and moves upper extremities well, lower extremities minimally. She has no c/o pain.
+
+CV: HR 80s-90s NSR with no ectopy, NBP 70s-100s/40s-50s. She does not appear symptomatic when BP has dropped and has stabilized on her own. 
+Pt. has  20g IV in L wrist which leaks but works well if pulled bacj slightly.
+
+Resp: Lungs are clear with crackles at times and diminished bases. 02 sats are 80-94%. NC increased from 2L to 4L with 02 sats now in high 80s to low 90s. No signs of resp distress.
+
+GI: Pt. ate a large breakfast and had 2 large BMs on shift.
+
+GU: UO is minimal, no interventions ordered.
+
+Skin: Slight redness to  back but no open areas noted.
+
+Social: Nephew and [**Name2 (NI) **] in to see pt. and updated on pt. condition.
+
+",,
+8125,20023,10111,0,3184-03-24 21:03:00 EST,3184-03-24 21:09:00 EST,6826,"N",54,"Nursing/Other","MICU transfer Addendum","
+MICU transfer Addendum
+Events:  Pt with low urine output, receiving 250ml IV NS bolus slowly over 1-2 hours.
+
+Neuro:  Lethargic but easily arouseable, denies pain although moaning at times, oriented to person and place and slightly confused with time, moving all extremities along bed when stimulated
+
+Cardiac:  HR= 70-80's SR, BP= 80-100/40's, new PIV placed in right wrist 
+
+Resp:  tachypneic with RR= 24-30, denies SOB, lungs clear upper lobes and diminished at bilat bases, 02 at 4L NC with Sats 90-94%.
+
+GI:  Abd softly distended with hypoactive bowel sounds.  no BM.  No po intake this eve due to lethargy
+
+GU:  Foley to CD draining clear yellow urine 10-30ml/hr---MICU team aware and receiving gentle IV fluid bolus
+
+Skin: no acute changes from previous
+
+Social:  no contact from niece or nephew overnight
+
+Plan:  Transfer to medical floor for further care, pt remains DNR/DNI/CMO.
+",,

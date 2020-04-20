@@ -1,0 +1,1828 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8286,,,,2878-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-4-11**] 1:47 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 6594**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: F/U STUDY - HX BREAST CA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old woman with breast cancer
+     REASON FOR THIS EXAMINATION:
+      Patient with breast cancer
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  58-year-old woman with breast cancer.
+     
+     COMPARISONS:  [**2876-11-16**].
+     
+     TECHNIQUE:  Axial non-contrast CT imaging of the abdomen was performed,
+     followed by imaging of the chest and abdomen with oral and intravenous
+     contrast.  Following a 3-minute delay, additional imaging of the abdomen and
+     pelvis was also performed.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is persistent diffuse mediastinal
+     lymphadenopathy, slightly more prominent than before.  For example, there is a
+     confluent nodal mass in the upper right paratracheal region of 24 x 28 mm in
+     axial dimensions (series 3, image 11), larger than previously identified
+     cluster of nodes in the same area, which measured overall 19 x 19 mm before.
+     Similarly, there is slightly greater prominence of a precarinal nodal mass of
+     overall 41 x 29 mm in axial dimensions (series 3, image 18).
+     
+     There are multiple new left axillary lymph nodes, which are enlarged. A
+     previously identified left axillary node of 17 x 14 mm now measures 18 x 12
+     mm and is stable, but several strongly enhancing nodules more laterally are
+     much more prominent than on the prior study.  The largest measures 12 x 8 mm.
+     Although difficult to assess with CT, there may be a new left breast nodule of
+     9 x 11 mm as well. A mass involving the subcutaneous left lateral tissues and
+     adjacent shoulder muscles of about 3 cm in diameter is not significantly
+     changed.  The patient is status post right mastectomy.  There is no right
+     axillary lymphadenopathy.
+     
+     There is similar pleurodesis change with nodular pleural thickening in the
+     left lung, and although some aerated lung is still present, there are similar
+     multiple pleural loculations, with a similar appearance.
+     
+     Multiple new subcentimeter pulmonary nodules in the right lung are suspicious
+     for metastases.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  There are multiple vaguely
+     defined hypoattenuating nodules in the liver, consistent with metastases,
+     although these appear slightly less prominent perhaps than on the prior study.
+     Several, within the right lobe in particular, measure 1-1.5 cm in diameter.
+     These seem most susceptible to measurements on the precontrast imaging.  The
+     largest measures 15 x 19 mm, and is located within the junction of segments
+     VII and VIII. This particular lesion is little changed.
+                                                                 (Over)
+
+     DATE: [**2878-4-11**] 1:47 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 6594**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: F/U STUDY - HX BREAST CA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     The gallbladder, pancreas, spleen, adrenal glands, and kidneys are within
+     normal limits.  The stomach, small and large bowel, appear normal.  There is
+     no mesenteric or retroperitoneal lymphadenopathy, or free air or fluid.
+     Numerous small retroperitoneal lymph nodes, not enlarged by CT criteria, are
+     unchanged.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The uterus, rectum, sigmoid, distal
+     ureters, and bladder are unremarkable.  There is no pelvic or inguinal
+     lymphadenopathy, or free air or fluid.
+     
+     BONE WINDOWS:  There is interval progression of bony metastases including
+     several relatively subtle sclerotic foci within the axial skeleton. Previously
+     noted sclerotic lesion in T1 is not significantly changed, but there is a new
+     lytic bony lesion within L1.  Vertebral body heights are preserved, however.
+     
+     IMPRESSION:
+     
+     1.  Progression of metastatic disease, including new enlarged left axillary
+     lymph nodes, [**Hospital1 6595**] slightly increased mediastinal and hilar lymphadenopathy.
+     
+     2.  New multiple small pulmonary nodules in the right lung, suspicious for
+     metastases.
+     
+     3.  Fairly stable appearance of hepatic metastases, perhaps minimally improved
+     since the prior study.
+     
+     4.  Progression of osseous metastases, including a new lytic lesion in L1.
+     
+
+",,
+8286,,,,2878-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 6591**]
+     Reason: BREAST CA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     RADIOPHARMECEUTICAL DATA:
+        26.8 mCi Tc-99m MDP;
+     HISTORY: 58 year old woman with metastatic breast cancer. Left lower back/waist
+     pain. 
+      
+     INTERPRETATION:   
+      
+     Whole body images of the skeleton were obtained in anterior and posterior  
+     projections. As seen in the previous study of [**2875-5-3**], there is still some
+     focally increased uptake at the T1. The previously described increased tracer
+     activity at the T8 right costovertebral junction is also again noted but less
+     prominent. 
+      
+     There is new increased uptake along the lengths of the right 6th and left 7th
+     and 8th ribs posteriorly.  Relative [**Name (NI) 6592**] in a geographic area of the right
+     anterior chest wall may relate to attenuation or prior radiation. 
+      
+     The kidneys and urinary bladder are visualized, the normal route of tracer
+     excretion. 
+      
+     IMPRESSION: New increased uptake at the right 6th and left 7th and 8th ribs
+     suggesting progression of metastatic disease. 
+                                                                           
+
+             [**First Name8 (NamePattern2) 580**] [**Last Name (NamePattern1) 581**], M.D.
+             [**Last Name (NamePattern5) 65**], M.D.          Approved: TUE [**2878-4-12**] 3:42 PM
+
+
+             Date Mailed: [**2878-4-13**]                     West [**Medical Record Number 6593**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8286,,,,2878-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-4-11**] 1:47 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 6594**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: F/U STUDY - HX BREAST CA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old woman with breast cancer
+     REASON FOR THIS EXAMINATION:
+      Patient with breast cancer
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  58-year-old woman with breast cancer.
+     
+     COMPARISONS:  [**2876-11-16**].
+     
+     TECHNIQUE:  Axial non-contrast CT imaging of the abdomen was performed,
+     followed by imaging of the chest and abdomen with oral and intravenous
+     contrast.  Following a 3-minute delay, additional imaging of the abdomen and
+     pelvis was also performed.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is persistent diffuse mediastinal
+     lymphadenopathy, slightly more prominent than before.  For example, there is a
+     confluent nodal mass in the upper right paratracheal region of 24 x 28 mm in
+     axial dimensions (series 3, image 11), larger than previously identified
+     cluster of nodes in the same area, which measured overall 19 x 19 mm before.
+     Similarly, there is slightly greater prominence of a precarinal nodal mass of
+     overall 41 x 29 mm in axial dimensions (series 3, image 18).
+     
+     There are multiple new left axillary lymph nodes, which are enlarged. A
+     previously identified left axillary node of 17 x 14 mm now measures 18 x 12
+     mm and is stable, but several strongly enhancing nodules more laterally are
+     much more prominent than on the prior study.  The largest measures 12 x 8 mm.
+     Although difficult to assess with CT, there may be a new left breast nodule of
+     9 x 11 mm as well. A mass involving the subcutaneous left lateral tissues and
+     adjacent shoulder muscles of about 3 cm in diameter is not significantly
+     changed.  The patient is status post right mastectomy.  There is no right
+     axillary lymphadenopathy.
+     
+     There is similar pleurodesis change with nodular pleural thickening in the
+     left lung, and although some aerated lung is still present, there are similar
+     multiple pleural loculations, with a similar appearance.
+     
+     Multiple new subcentimeter pulmonary nodules in the right lung are suspicious
+     for metastases.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  There are multiple vaguely
+     defined hypoattenuating nodules in the liver, consistent with metastases,
+     although these appear slightly less prominent perhaps than on the prior study.
+     Several, within the right lobe in particular, measure 1-1.5 cm in diameter.
+     These seem most susceptible to measurements on the precontrast imaging.  The
+     largest measures 15 x 19 mm, and is located within the junction of segments
+     VII and VIII. This particular lesion is little changed.
+                                                                 (Over)
+
+     DATE: [**2878-4-11**] 1:47 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 6594**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: F/U STUDY - HX BREAST CA
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     The gallbladder, pancreas, spleen, adrenal glands, and kidneys are within
+     normal limits.  The stomach, small and large bowel, appear normal.  There is
+     no mesenteric or retroperitoneal lymphadenopathy, or free air or fluid.
+     Numerous small retroperitoneal lymph nodes, not enlarged by CT criteria, are
+     unchanged.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The uterus, rectum, sigmoid, distal
+     ureters, and bladder are unremarkable.  There is no pelvic or inguinal
+     lymphadenopathy, or free air or fluid.
+     
+     BONE WINDOWS:  There is interval progression of bony metastases including
+     several relatively subtle sclerotic foci within the axial skeleton. Previously
+     noted sclerotic lesion in T1 is not significantly changed, but there is a new
+     lytic bony lesion within L1.  Vertebral body heights are preserved, however.
+     
+     IMPRESSION:
+     
+     1.  Progression of metastatic disease, including new enlarged left axillary
+     lymph nodes, [**Hospital1 6595**] slightly increased mediastinal and hilar lymphadenopathy.
+     
+     2.  New multiple small pulmonary nodules in the right lung, suspicious for
+     metastases.
+     
+     3.  Fairly stable appearance of hepatic metastases, perhaps minimally improved
+     since the prior study.
+     
+     4.  Progression of osseous metastases, including a new lytic lesion in L1.
+     
+
+",,
+8286,,,,2878-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-4-18**] 10:51 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 6597**]
+     Reason: eval hemoptysis                                             
+     Field of view: 36 Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old woman with known lung CA, now with acute hemoptysis                 
+     REASON FOR THIS EXAMINATION:
+      eval hemoptysis                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JWK TUE [**2878-4-19**] 4:50 AM
+      1.Intubation of right mainstem bronchus with collapse of left mainstem broncus
+      and associated atelectasis.
+      2. No gross pulmonary embolus.
+      Extensive metastatic disease.
+      
+      Findings discussed with house officer 
+     WET READ AUDIT #1 JWK TUE [**2878-4-19**] 4:21 AM
+      1. Compression of the left mainstem bronchus is new compared to the prior
+      examination. This is likely secondary to extension of precarinal nodal mass
+      (and left hilar mass?) Invasion of broncus cannot be excluded.  Associated
+      post-obstructing atelectasis.
+      2. No gross pulmonary embolus.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  58-year-old female with known lung cancer, now acute hemoptysis.
+     Evaluate hemoptysis.
+     
+     TECHNIQUE:  MDCT axial images of the chest were obtained with IV contrast.
+     
+     CT CHEST WITH IV CONTRAST:  The patient is status post right mastectomy.  The
+     heart and great vessels are unremarkable with no evidence of gross saddle
+     pulmonary embolus. Again seen are multiple left axillary as well as
+     mediastinal lymph nodes.  A large pretracheal lymph node measures 2.3 x 2.1 cm
+     and previously measured 2.8 x 2.4 cm.  A precarinal nodal mass measures 3.9 x
+     2.7 cm and previously measured 4.1 x 2.9 cm. There is intubation of the right
+     main stem bronchus. There is collapse of the left main stem bronchus
+     associated post- obstructive atelectasis.
+     
+     The patient is status post pleurodesis and loculated effusions are unchanged
+     compared to the prior examination.  There are ill- defined ground-glass
+     opacities in the right lung as well as multiple nodules worrisome for
+     metastases.  A left mass involving the subcutaneous lateral tissues is not
+     significantly changed in size.  The osseous structures again demonstrate a
+     sclerotic lesion in T1, not significantly changed.
+     
+     The visualized upper abdomen demonstrates hypoattenuating foci within the
+     liver concerning for metastases as noted on the previous exam.  There may be a
+     left breast nodule as noted on the prior examination.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2878-4-18**] 10:51 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 6597**]
+     Reason: eval hemoptysis                                             
+     Field of view: 36 Contrast: OPTIRAY Amt: 90
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Intubation of the right mainstem bronchus with collapse of the left
+     mainstem bronchus.
+     
+     2.  Diffuse metastatic disease similiar in appearance to the prior
+     examination.
+     
+     3. Sclerotic lesion in T1, not significantly changed.
+     
+     4.  Left subcutaneous mass unchanged.
+     
+     Findings were discussed with Dr. [**First Name (STitle) 4495**].
+     
+
+",,
+8286,,,,2878-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-4-18**] 10:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6596**]
+     Reason: eval hemoptysis                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old woman with met breast ca, hemoptysis                                
+     REASON FOR THIS EXAMINATION:
+      eval hemoptysis                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  58-year-old with metastatic breast cancer and hemoptysis.
+     Evaluate.
+     
+     Comparison is made to the prior study of [**2876-11-15**], as well as the CT
+     chest of [**2878-4-18**].
+     
+     FINDINGS: Cardiomediastinal silhouettes is stable.  Again demonstrated are
+     multiple pleural-based masses and loculated fluid collections in the left
+     hemithorax. There is decreased aeration of the left upper lung.  The bronchi
+     are patent. The right lung remains clear.  The osseous structures are
+     unchanged.
+     
+     IMPRESSION:  Multiple pleural-based masses and loculated fluid collections
+     with decreased aeration of the left upper lung.
+
+",,
+8286,27039,10307,,2878-04-19 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2878-4-19**]              Discharge Date:   [**2878-4-26**]
+ 
+Date of Birth:  [**2819-8-5**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamides) / Nsaids
+ 
+Attending:[**First Name3 (LF) 11482**] 
+Chief Complaint:
+hemoptysis 
+ 
+Major Surgical or Invasive Procedure:
+bronchoscopy
+R mainstem bronchus intubation
+EGD
+
+ 
+History of Present Illness:
+58 F with history of metastatic breast CA to bone, liver, and 
+lungs, malignant pleural effusions s/p pleurodesis, s/p R 
+mastectomy and multiple chemotherapeutic regimens and hormone 
+therapy now on taxotere (17 cycles) salvage therapy who was in 
+USOH until 9 pm [**2878-4-18**]. She noted acute onset of hemoptysis 
+with shortness of breath. Per family pt was aggitated and taken 
+to ED. In ED hemodynamically stable but O2 sat 88% RA. Per 
+report, she had about 6 tablespoons of bright red hemoptysis. 
+CXR showed left sided white out and she was intubated in right 
+mainstem. OGT lavage noted 150 cc of dark blood.  
+Incidently, she had torso CT on [**4-11**] showing new subcentimeter 
+right sided pulm nodules and increase in hilar lymphadenopathy. 
+Per family report has not had bleeding, hemoptysis, 
+fevers/chills, lower ext swelling/trauma, or recent shortness of 
+breath. Has been taking NSAIDS on prn basis.  
+.
+She was admitted to the MICU, with right mainstem intubation. A 
+CT was performed demonstrating diffuse metastatic disease. She a 
+flexible bronchoscopy in the OR performed on [**4-19**] which showed 
+ischemic changes of R mainstem ([**1-6**] ETT cuff) and no obvious 
+source of bleeding. The left bronchial tree was narrowed 
+distally with billious secretions noted. She was extubated in OR 
+prior to returning to the MICU. In the MICU she also had an EGD 
+demonstrating an ulcer in the body of the stomach without 
+evidence of active bleeding or adherent clot. As her Hct and O2 
+sats were stable for 12 hours, she was [**Hospital 11483**] [**Hospital 11484**] medical 
+floor. 
+
+ 
+Past Medical History:
+1. Metastatic breast CA with mets to lung, pleura, bone. 
+Admitted to [**Hospital1 **] in [**2866**] with an anterior mediastinal mass. She 
+was diagnosed as  
+having adenocarcinoma via mediastinoscopy and immunoperoxidase  
+studies of this tumor showed it to be both estrogen receptor  
+positive and gross cystic disease fluid protein positive  
+clinching the diagnosis of breast carcinoma. She received while  
+
+in hospital chemotherapy with CAF (cytoxan, adriamycin,  
+5-fluorouracil) given the presence of a significant left pleural 
+effusion. She has been on 17 cycles of taxatore and arimidex.  
+CEA CA-27.29  
+[**2878-3-29**] 60 1928  
+[**2878-2-15**] 95 2848  
+[**2878-1-11**] 99 2631  
+[**2877-11-9**] 69 1669  
+[**2877-9-14**] 59 1180  
+[**2877-7-20**] 46 1414  
+[**2877-6-8**] 51 1821  
+[**2877-5-18**] 52 1579  
+.  
+.  
+2. Malignant effusion s/p talc pleurodesis in 8/03 complicated  
+by metastasis at the site of thoracentesis  
+.  
+3. HTN  
+.  
+4. Anxiety  
+.  
+5. s/p appy  
+.  
+6. disc herniation L4-5, no cord compression  
+
+ 
+Social History:
+Former engineer from [**Country 2600**] who lived near Chernobyl during the  
+
+incident. She is originally from [**Location (un) 11485**]. The patient currently 
+lives in [**Location **] by herself. She has a daughter. No tobacco, 
+alcohol or illicit drug use.  
+
+ 
+Family History:
+1.  Mother - MS, HTN
+2.  Father - Glaucoma, CAD s/p CABG, 1st MI in 60s
+3.  No family history of CA
+
+ 
+Physical Exam:
+99.6, 100, 24, 124/08, 96 2L N.C.  
+Gen: Speaks in full sentences w/o accessory mm use. A/O x 3. 
+NAD. Coughing small amounts of blood streaked sputum into 
+tissue.  
+HEENT: PEARLA. EOMI. Nares without evidence of blood. No blood 
+seen in posterior oropharyx. Has extensive dental hardware which 
+appears clean dry and intact. Neck supple w/o appreciable LAD.  
+CV: RR. No murmurs.  
+Pulm: Bronchial breath sounds on right with diffuse wheezes. 
+Diminished b.s. at left base with coarse rhonchi at apex.  
+Abd: Soft/NT/ND  
+Ext: no edema, warm, well perfused  
+Neuro: Motor [**4-8**] at all flex/ex b/l. Sensation GI to LT. CN 
+II-XII GI.  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+.
+[**2878-4-18**]
+10:25p   
+
+137  99  13      AGap=16 
+------------<  179
+4.3  26  0.8  
+Ca: 9.6 Mg: 1.8 P: 5.0
+ALT: 21 AP: 80 Tbili: 0.4 Alb: 4.2 
+AST: 41 LDH: 275 Dbili:  TProt:  
+[**Doctor First Name **]: 122 Lip: 34     
+             79 
+16.8 \ 12.7 / 654 
+     / 39.6 \  
+ N:83.6 L:14.7 M:0.9 E:0.2 Bas:0.7 
+PT: 12.0  PTT: 27.0  INR: 1.0
+.
+ADDITIONAL LABS:
+.
+[**2878-4-26**] 06:45AM BLOOD WBC-14.6* RBC-4.64 Hgb-11.3* Hct-35.4* 
+MCV-76* MCH-24.4* MCHC-32.0 RDW-17.3* Plt Ct-567*
+[**2878-4-25**] 07:40PM BLOOD WBC-15.1* RBC-4.18* Hgb-10.6* Hct-32.3* 
+MCV-77* MCH-25.4* MCHC-32.8 RDW-17.1* Plt Ct-566*
+[**2878-4-25**] 06:50AM BLOOD WBC-14.8* RBC-3.86* Hgb-9.5* Hct-29.6* 
+MCV-77* MCH-24.8* MCHC-32.2 RDW-17.5* Plt Ct-569*
+[**2878-4-24**] 05:10PM BLOOD Hct-33.8*
+[**2878-4-24**] 07:20AM BLOOD WBC-15.6* RBC-3.92* Hgb-9.7* Hct-30.4* 
+MCV-78* MCH-24.8* MCHC-32.0 RDW-17.3* Plt Ct-548*
+[**2878-4-23**] 07:30PM BLOOD WBC-19.8* RBC-4.21 Hgb-10.7* Hct-32.6* 
+MCV-78* MCH-25.4* MCHC-32.7 RDW-17.3* Plt Ct-591*
+[**2878-4-23**] 06:50AM BLOOD WBC-17.9* RBC-4.04* Hgb-10.2* Hct-31.7* 
+MCV-78* MCH-25.2* MCHC-32.1 RDW-17.3* Plt Ct-579*
+[**2878-4-22**] 07:30PM BLOOD WBC-20.0* RBC-4.17* Hgb-10.5* Hct-32.9* 
+MCV-79* MCH-25.2* MCHC-32.0 RDW-17.1* Plt Ct-638*
+[**2878-4-22**] 07:10AM BLOOD WBC-17.8* RBC-4.29 Hgb-11.0* Hct-33.4* 
+MCV-78* MCH-25.7* MCHC-33.0 RDW-17.1* Plt Ct-625*
+[**2878-4-21**] 07:20PM BLOOD WBC-20.2* RBC-4.38 Hgb-11.1* Hct-33.8* 
+MCV-77* MCH-25.3* MCHC-32.9 RDW-17.0* Plt Ct-559*
+[**2878-4-21**] 10:40AM BLOOD WBC-21.4* RBC-4.11* Hgb-10.4* Hct-31.3* 
+MCV-76* MCH-25.3* MCHC-33.2 RDW-16.9* Plt Ct-548*
+[**2878-4-21**] 07:00AM BLOOD WBC-19.7* RBC-4.16* Hgb-10.2* Hct-31.6* 
+MCV-76* MCH-24.6* MCHC-32.4 RDW-16.9* Plt Ct-625*
+[**2878-4-20**] 09:50PM BLOOD WBC-24.4* RBC-4.30 Hgb-11.2* Hct-33.4* 
+MCV-78* MCH-26.2* MCHC-33.7 RDW-17.0* Plt Ct-575*
+[**2878-4-20**] 06:09AM BLOOD WBC-25.3* RBC-4.22 Hgb-10.7* Hct-33.1* 
+MCV-79* MCH-25.3* MCHC-32.2 RDW-17.4* Plt Ct-582*
+[**2878-4-19**] 06:52PM BLOOD Hct-34.2*
+[**2878-4-19**] 03:08AM BLOOD WBC-17.6* RBC-4.65 Hgb-12.0 Hct-36.3 
+MCV-78* MCH-25.9* MCHC-33.2 RDW-17.0* Plt Ct-624*
+[**2878-4-18**] 10:25PM BLOOD WBC-16.8*# RBC-4.99 Hgb-12.7 Hct-39.6 
+MCV-79* MCH-25.5* MCHC-32.2 RDW-17.0* Plt Ct-654*
+[**2878-4-18**] 10:25PM BLOOD Neuts-83.6* Lymphs-14.7* Monos-0.9* 
+Eos-0.2 Baso-0.7
+[**2878-4-26**] 06:45AM BLOOD Plt Ct-567*
+[**2878-4-26**] 06:45AM BLOOD PT-11.7 PTT-28.5 INR(PT)-1.0
+[**2878-4-25**] 07:40PM BLOOD Plt Ct-566*
+[**2878-4-25**] 06:50AM BLOOD Plt Ct-569*
+[**2878-4-25**] 06:50AM BLOOD PT-12.2 PTT-30.4 INR(PT)-1.0
+[**2878-4-26**] 06:45AM BLOOD Glucose-98 UreaN-13 Creat-0.7 Na-136 
+K-4.4 Cl-103 HCO3-25 AnGap-12
+[**2878-4-25**] 06:50AM BLOOD Glucose-108* UreaN-14 Creat-0.7 Na-138 
+K-3.8 Cl-105 HCO3-25 AnGap-12
+[**2878-4-24**] 07:20AM BLOOD Glucose-86 UreaN-14 Creat-0.6 Na-136 
+K-4.1 Cl-103 HCO3-25 AnGap-12
+[**2878-4-19**] 03:08AM BLOOD LD(LDH)-432*
+[**2878-4-18**] 10:25PM BLOOD ALT-21 AST-41* LD(LDH)-275* AlkPhos-80 
+Amylase-122* TotBili-0.4
+[**2878-4-18**] 10:25PM BLOOD Lipase-34
+[**2878-4-26**] 06:45AM BLOOD Calcium-9.5 Phos-4.4 Mg-2.0
+[**2878-4-25**] 06:50AM BLOOD Calcium-9.0 Phos-4.1 Mg-1.8
+[**2878-4-24**] 07:20AM BLOOD Calcium-9.1 Phos-3.7 Mg-1.8
+[**2878-4-21**] 07:00AM BLOOD Calcium-9.0 Phos-3.4 Mg-1.9 Iron-23*
+[**2878-4-18**] 10:25PM BLOOD Albumin-4.2 Calcium-9.6 Phos-5.0* Mg-1.8
+[**2878-4-21**] 07:00AM BLOOD calTIBC-242* Ferritn-118 TRF-186*
+.
+REPORTS:
+ .
+CT Chest:
+CT CHEST W/CONTRAST  [**2878-4-18**] 10:51 PM
+IMPRESSION:
+1. Intubation of the right mainstem bronchus with collapse of 
+the left mainstem bronchus.
+2. Diffuse metastatic disease similiar in appearance to the 
+prior examination.
+3. Sclerotic lesion in T1, not significantly changed.
+4. Left subcutaneous mass unchanged.
+.
+Flexible bronch [**2878-4-19**]
+right mainstem bronchus with mild ischemic injury. Left 
+bronchial tree narrowed and with bilious secretions. No bleeding 
+seen.
+.
+EGD [**2878-4-20**]
+Findings: Esophagus:  
+ Lumen: A small size hiatal hernia was seen, displacing the 
+Z-line to 36cm from the incisors, with hiatal narrowing at 38cm 
+from the incisors.  
+Stomach:  
+ Mucosa: Erosions of the mucosa was noted in the stomach body.  
+ Excavated Lesions A single cratered non-bleeding 11mm ulcer was 
+found in the stomach body.  
+Duodenum: Normal duodenum. 
+Impression: Small hiatal hernia
+Ulcer in the stomach body
+Erosions in the stomach body 
+.
+CHEST (PORTABLE AP)  [**2878-4-18**] 10:28 PM
+IMPRESSION: Multiple pleural-based masses and loculated fluid 
+collections with decreased aeration of the left upper lung.
+.
+CHEST (PORTABLE AP)  [**2878-4-20**] 9:33 PM
+IMPRESSION: No change in the large left pleural effusion and 
+left pleural metastases.
+.
+MICRO:
+.
+Time Taken Not Noted     Log-In Date/Time: [**2878-4-20**] 6:49 pm
+      SEROLOGY/BLOOD      CHEM S# 69662R. 
+
+                            **FINAL REPORT [**2878-4-22**]**
+
+   HELICOBACTER PYLORI ANTIBODY TEST (Final [**2878-4-22**]): 
+      POSITIVE BY EIA. 
+      Reference Range:  Negative. 
+.
+
+[**2878-4-19**] 10:02 pm BLOOD CULTURE
+
+                            **FINAL REPORT [**2878-4-25**]**
+
+   AEROBIC BOTTLE (Final [**2878-4-25**]):    NO GROWTH. 
+
+   ANAEROBIC BOTTLE (Final [**2878-4-25**]):    NO GROWTH. 
+.
+[**2878-4-19**] 10:02 pm URINE
+
+                            **FINAL REPORT [**2878-4-21**]**
+
+   URINE CULTURE (Final [**2878-4-21**]):    NO GROWTH. 
+
+ 
+Brief Hospital Course:
+#) Hematemesis vs hemoptysis - The patient was admitted for 
+hemoptysis vs hematemesis. She was intubated in the ED initially 
+in the right mainstem bronchus, as there was concern for her 
+left lung to bleed into her right lung. Flexible bronch was 
+performed which showed ischemia of the area with the cuff on the 
+right, and bilious fluid but no bleeding on the left. She was 
+put on antibiotics empirically to prevent pneumonia/pneumonitis. 
+She was extubated uneventfully. pt continued to have stable, 
+low-volume hemoptysis during the remainder of the admission. The 
+source was thought most likely to be pulmondary, given diffuse 
+metastatic disease seen on CT, although bronch was without 
+definite endobronchial lesion. ENT was consulted, and scope did 
+not show ENT source of bleeding. Pt required 1 U PRBC's during 
+this admission to maintain hct>30. NSAIDS were d/c'd, and this 
+was listed as an allergy on pt's med list given non-bleeding 
+ulcer seen on EGD. Pt was continued on high-dose PPI during the 
+admission and on discharge.  Pt only had one episode of 
+desaturation during the admission to the high 80's on room air.  
+She was given O2 for comfort, and was set up for home O2 on 
+discharge.  If pt developed more significant hemoptysis, she may 
+need embolectomy by interventional radiology in the future.
+.
+#) Gastric ulcer - GI was consulted given the concern for coffee 
+grounds by lavage, and EGD revealed an ulcer in the stomach 
+body, nonbleeding. H pylori was sent and she should follow up 
+with Dr. [**First Name (STitle) **] and continue PPI twice daily for the next several 
+weeks. She will need a repeat endoscopy in 2 months.
+.
+#) Breast CA - The patient has stage IV metaststic breast 
+cancer. She will follow-up with Dr. [**Last Name (STitle) 8588**] as an outpatient.
+.
+#) Low-grade Fever - Pt had low-grade temps during the 
+admission. Thought to be due to infection vs. tumor vs. 
+post-bronch. Pt also had leukocytosis, which was chronic.  
+- Pt was placed on ceftriaxone and azithromycin on admission to 
+prevent infection, given significant blood/effusion was seen on 
+chest CT.  CTX was then d/c'd, and azithromycin was continued 
+for 10 day course. Blood and urine cultures were negative.
+.
+#) R forearm swelling: Pt had episode of mild R forearm 
+swelling, possibly due to A-line while pt was in ICU.  
+- did not pursue u/s, given result would not change mangement 
+(not a candidate for anticoagulation in setting of hemoptysis)  
+.  
+#) HTN - held anti-hypertensive meds in setting of bleeding, 
+also held on discharge  
+.
+#) FEN - NPO initially, then advanced to regular diet prior to 
+d/c.
+.  
+#) Proph: PPI bid, pneumoboots, down on left side in case of 
+hemoptysis, suction at bedside  
+.
+#) Code - pt remained FULL CODE during the admission 
+. 
+#) Communication: [**First Name5 (NamePattern1) **] [**Known patient lastname 11486**] (daughter) cell# [**Telephone/Fax (1) 11487**] 
+ 
+.  
+#) Dispo: home
+ 
+Medications on Admission:
+1. elavil  
+2. ibuprofen 800 mg TID prn  
+3. lorazepam  
+4. MS Contin 15 BID  
+5. Zantac 150 BID  
+6. Zestril 20 mg Qday  
+
+ 
+Discharge Medications:
+1. home oxygen
+2 L/min continuous.
+Dx: breast CA metastatic to lung
+Room air sat down to 87%
+pt leaves 4-6 hours daily for appointments
+2. Outpatient Lab Work
+check CBC on [**2878-4-28**] and have the results faxed to your PCP and 
+your oncologist
+3. Azithromycin 250 mg Capsule Sig: One (1) Capsule PO Q24H 
+(every 24 hours) for 3 days.
+Disp:*3 Capsule(s)* Refills:*0*
+4. Amitriptyline 25 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).
+Disp:*30 Tablet(s)* Refills:*0*
+5. Morphine 15 mg Tablet Sustained Release Sig: One (1) Tablet 
+Sustained Release PO BID (2 times a day).
+Disp:*60 Tablet Sustained Release(s)* Refills:*0*
+6. Albuterol 90 mcg/Actuation Aerosol Sig: Six (6) Puff 
+Inhalation Q6H (every 6 hours) as needed.
+Disp:*30 days* Refills:*2*
+7. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO Q8H (every 
+8 hours) as needed for constipation.
+Disp:*30 days* Refills:*0*
+8. Ativan 0.5 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours as 
+needed for anxiety.
+Disp:*60 Tablet(s)* Refills:*0*
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+10. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+11. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day).
+Disp:*60 Capsule(s)* Refills:*2*
+12. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4-6H 
+(every 4 to 6 hours) as needed.
+Disp:*60 Tablet(s)* Refills:*0*
+13. Codeine-Guaifenesin 10-100 mg/5 mL Syrup Sig: 5-10 MLs PO 
+Q6H (every 6 hours) as needed.
+Disp:*60 days* Refills:*0*
+14. Ferrous Sulfate 325 (65) mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+15. Sodium Chloride 0.65 % Aerosol, Spray Sig: [**12-6**] Sprays Nasal 
+TID (3 times a day) as needed.
+Disp:*30 days* Refills:*2*
+16. Atrovent 18 mcg/Actuation Aerosol Sig: 1-2 puffs Inhalation 
+every six (6) hours as needed for shortness of breath or 
+wheezing.
+Disp:*30 days* Refills:*2*
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+metastatic breast CA
+hemoptysis
+gastric ulcer
+
+ 
+Discharge Condition:
+Continues to have chronic, small-volume hemoptysis.  Hct stable. 
+Vitals stable.
+
+ 
+Discharge Instructions:
+Please seek medical attention immediately if [**Doctor First Name **] experience more 
+bleeding with coughing, or if [**Doctor First Name **] have chest pain, shortness of 
+breath, nausea, vomiting, diarrhea, fevers, chills, or 
+dizziness.
+
+Please take all medications as prescribed.
+
+Please attend all follow-up appointments.
+ 
+Followup Instructions:
+Please follow-up with Dr. [**Last Name (STitle) 8588**] on Tuesday, [**5-3**] at 2:30 PM 
+on [**Hospital Ward Name **] 9.
+
+Provider: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 11488**], MD [**MD Number 150**]:[**Telephone/Fax (1) 647**] 
+Date/Time:[**2878-5-3**] 2:30
+
+Provider: [**Name10 (NameIs) 10294**],[**Name11 (NameIs) **] HEMATOLOGY/ONCOLOGY-CC9 
+Date/Time:[**2878-5-3**] 2:30
+
+Provider: [**Name10 (NameIs) **] [**Name8 (MD) **], RN Phone:[**Telephone/Fax (1) 647**] Date/Time:[**2878-5-3**] 
+3:00
+
+Have a CBC checked on [**2878-4-28**], and have the results faxed to 
+your PCP and oncologist.
+
+Please follow up with Dr. [**First Name8 (NamePattern2) 2172**] [**Last Name (NamePattern1) **] in two months for repeat 
+endoscopy. Please call [**Telephone/Fax (1) 4575**] to schedule this 
+appointment. 
+
+Please make an appointment with Dr. [**Last Name (STitle) **] in the next 
+3-4 months.  Please call [**Telephone/Fax (1) 2148**] to schedule this 
+appointment.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 11488**] MD [**MD Number 11489**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 3900**] MD [**MD Number 3901**] [**2878-5-7**] @ 1232
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: MON [**2878-5-16**] 8:46 PM
+(End of Report)
+
+
+",,
+8286,27039,10307,,2878-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-4-19**] 10:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6600**]
+     Reason: Patient with recurrent hemoptysis, please re-evaluate lung f
+     Admitting Diagnosis: HEMOPTYSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        58 year old woman with met breast ca to lungs, bone, liver s/p intubation in  
+      setting of hemoptysis, now extubated.                      
+     REASON FOR THIS EXAMINATION:
+      Patient with recurrent hemoptysis, please re-evaluate lung fields.              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Recurrent hemoptysis in a patient with metastatic
+     breast cancer to lung, bone and liver.
+     
+     Portable AP chest radiograph was compared to the previous film from [**2878-4-19**], made at 00:42 a.m.
+     
+     The patient now is extubated with the chest tube removed from the right main
+     bronchus.
+     
+     The large left pleural effusion is unchanged with subsequent atelectasis of
+     the adjacent lung.  There is marked irregularity of the pleura especially in
+     the upper portion of the left lung, which may represent metastatic deposits.
+     There is no prominent mediastinal shift to the right suggesting the underlying
+     element of atelectasis of the left lower lobe.
+     
+     The left lung is clear with no evidence of pleural effusion or congestive
+     heart failure.
+     
+     IMPRESSION:
+     
+     1.  Large left pleural effusion with prominent irregularity of the pleura and
+     subsequent atelectasis of the adjacent lung.
+     
+     2.  Absence of the prominent mediastinal shift to the right suggests
+     underlying atelectasis of the left lower lobe.
+
+",,
+8286,27039,10307,,2878-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-4-19**] 12:35 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6598**]
+     Reason: evaluate for placement and infiltrate                       
+     Admitting Diagnosis: HEMOPTYSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old woman with met breast ca, hemoptysis to lungs, bone, liver s/p 
+      intubation for hemopysis with Right main intubation for ? bleed on left side.   
+                                 
+     REASON FOR THIS EXAMINATION:
+      evaluate for placement and infiltrate                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  58-year-old female with metastatic breast cancer to lungs, with
+     hemoptysis.
+     
+     COMPARISON:  [**2878-4-18**].
+     
+     FINDINGS:  There has been intubation of the right main stem bronchus.  There
+     is associated atelectasis of the left upper lobe.  Again seen are pleural-
+     based masses and loculated pleural effusions.  The cardiomediastinal
+     silhouette is unchanged.
+     
+     Contrast is seen in the calices, presumably secondary to recent chest CT
+     examination.
+     
+     IMPRESSION:
+     
+     1.  Intubation of right main stem bronchus for hemoptysis.  Associated
+     atelectatic change of the left upper lung.  Otherwise, unchanged exam.
+     
+     Findings were discussed with Dr. [**First Name8 (NamePattern2) 6599**] [**Name (STitle) 4495**] at 5:00 a.m.
+     
+     
+     
+
+",,
+8286,27039,10307,0,2878-04-19 04:59:00 EST,2878-04-19 05:13:00 EST,5862,"N",54,"Nursing/Other",,"
+
+Pt is a 58 y/o Russian woman with a PMH significant for metastatic breast cancer, s/p R mastectomy who presented to ED after suffering numerous episodes of hemoptysis at home. While in ED hemoptysis continued and she was found to have O2 sat in 80's on r/a. Pt was intubated in R mainstem while in ED and taken to CT where increased L lymphadenopathy and nodules were found in L lobe. CxR showed complete whiteout of L lung. OGT was placed and 150cc of old blood aspirated out. Tx to MICU for further treatment and bronchoscopy. 
+
+Neuro: Initially pt was lightly sedated on propofol. However, this was changed to 25mcg/hr fentanyl and 2mg versed at 0600. Pt does not follow commands but is easily arousable. MAE and will reach to pull out tube if hands left unrestrained. Pupils 3mm and reactive bilaterally. 
+
+Resp: Vent settings A/C 400x16/40%/5 Received pt on 100%O2 and have been weaning based on ABG's. Lung sounds coarse in R lung field and diminished in L. Suctioned via ET and got nothing back. Unfortunately, pt's L mainstem is so constricted by tumor she cannot have a bedside bronch. IP will be consulted later today to determine if she can have a rigid bronch. 
+
+Cardiac: Pt in SR with no ectopy throughout night. Occasionally hypotensive with sbp in low 90's while on propofol. But curently running in 110's while on fent/versed. Aline is very positional so she has nbp running q15min as well. 
+
+GI: NGT currently clamped but was on liws for 75cc of old brown blood. No BM this shift. Abd soft but with very hypoactive bowel sounds. 
+
+GU: Voiding 40-100 cc yellow urine via foley. Also receiving D51/2NS at 100/hr x1L. 
+
+Derm: Grossly intact. PIV in L arm patent x2. Aline site benign but waveform quite dampened. 
+
+ID: Afebrile. 
+
+Plan: Consult IP and possible rigid bronch. Sedate to comfort. Family will call for update today. Daughter is HCP name is on board of pt's room. Full Code. 
+",,
+8286,27039,10307,0,2878-04-19 13:57:00 EST,2878-04-19 14:18:00 EST,7969,"N",54,"Nursing/Other",,"
+
+MICU 6 0700-1500 NPN
+
+Neuro: Patient is on Fent.-100mcg/hr and Versed-5mg/hr. Patient does follow commands consistently. Lifts and holds all extremities. Patient becomes very anxious at times. Pupils are equal and reactive.
+
+CV: HR 83-88 NRS no ectopy, BP 90/58-120/72, pedal pulses palpable bilaterally.  Art line is dampened.
+
+Resp: Patient remains intubated on A/C 400x16/40%/5, O2 sats in high 90's. Sx for no secretions. Patient  to OR for rigid bronch. 
+
+GI/GU: NGT clamped, 60cc of liquid/clear residuals this shift. Hypoactive bowels sounds, no BM this shift. Foley intact and draining clear yellow urine, 10-140cc/hr.
+
+ID: Afebrile this shift, abx therapy is azythromicin and ceftriaxone.
+
+Skin: Intact, R A-line with in normal limits. L PIV WNL.
+
+Coping: Daughter visited and has been updated on plan of care by this nurse [**First Name (Titles) **] [**Last Name (Titles) 1099**]'s. Pt is very anxious and her midazolam gtt has been titrated to accomodate this.
+
+Pain: Pain managed via Fent. and Versed.
+
+Plan: Continue to monitor respiratory status. Continue to monitor VS for sign/sx of bleeding. Suction patient as appropriate. Plan for post procedure care.
+",,
+8286,27039,10307,0,2878-04-19 16:03:00 EST,2878-04-19 16:05:00 EST,3209,"N",54,"Nursing/Other","ADDENDUM TO ABOVE NOTE 1500-1900","
+ADDENDUM TO ABOVE NOTE 1500-1900
+PT TO OR AT 1445 FOR RIGID BRONCH BUT NEEDED ON FLEX BRONCH AND RETURNED FROM OR EXTUBATED , NOW ON 4L NC. SAO2 >96%. STRONG PRODUCTIVE COUGH OF TAN BLOOD TINGED SPUTUM. THERE WAS NO ACTIVE BLEEDING [**Name8 (MD) **] MD. 
+
+PT TOLERATING CL LIQS WITHOUT DIFFICULTY. + GAG.
+
+FAMILY IN AT BEDSIDE AND ARE ALL PLEASED WITH PT'S PROGRESS TODAY AND THE GOOD NEWS THAT SHE IS NOT BLEEDING.
+",,
+8286,27039,10307,,2878-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8286,27039,10307,,2878-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-4-20**] 9:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6601**]
+     Reason: evalute for interval change in lung mets                    
+     Admitting Diagnosis: HEMOPTYSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         58 year old woman with met breast ca to lungs, bone, liver s/p extubation 
+      with persistent hemoptysis.
+     REASON FOR THIS EXAMINATION:
+      evalute for interval change in lung mets                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PORTABLE
+     
+     INDICATION:  58-year-old woman with metastatic breast cancer to lungs, bones
+     and liver status post extubation with persistent hemoptysis, evaluate for
+     interval change in lung mets.
+     
+     CHEST PORTABLE:  Comparison is made to a prior study from [**4-19**] of 06.  The
+     heart size is difficult to evaluate due to a large left pleural effusion. This
+     is unchanged in appearance.  The left pleura is nodular along the chest wall,
+     concerning for pleural metastases.  There is atelectasis of the left lung.
+     The right lung is normal without evidence for metastatic disease.
+     
+     IMPRESSION:  No change in the large left pleural effusion and left pleural
+     metastases.
+
+",,
+8286,27039,10307,0,2878-04-20 04:25:00 EST,2878-04-20 04:37:00 EST,3499,"N",54,"Nursing/Other","MICU NPN","
+MICU NPN
+58yo with metastatic breast CA to bone, liver and lungs presents with hemoptysis requiring intubation.  Extubated [**4-19**] after bronch revealed (-) pulm hemmorhage.
+ID: Low grade temp, 100.2 > bc x 2, sputum cx and urine cx sent.  Conts on same antibx and tylenol given.
+CV: Slightly elevated hr 100's ST with no vea (? from fever vs anxiety), with decrease temp and sleeping hr down to high 80's low 90's.  Bp 90-100's, R radial aline initially with good waveform, but dampened as night progressed therefore using NBP. 
+Resp: O2 decreased initially to 2lnp with sats in the upper 90's but then decreasing to 92% therefore ^ back to 4lnp.  As night progressed ^ o2 sat therefore o2 decreased back to 2lnp with sats in the mid 90's.  (+) cough of blood tinged secretions, team aware and up to see, cxr done which looked improved.  She was given her ativan and ellavil which enabled her to go to [**Doctor Last Name 5**] and she no longer coughed.
+GI/GU: Foley patent of clear yellow urine.  Decreasing uo as night progressed but cont at approx 20-30cc/hr.  Abd soft with (+) bowel sounds no bm.  Drinking boost.  
+MS: Alert and oriented x 3. Anxious > ativan with good relief.  Slept most of night.
+A: ^ temp > fully cx.
+   coughing bloody secretions > cxr > improved
+   anxiety> ativan
+P: cont to provide reassurance
+   follow cx
+",,
+8286,27039,10307,0,2878-04-20 18:08:00 EST,2878-04-20 18:09:00 EST,4061,"N",54,"Nursing/Other",,"
+
+Pt tx to 11 [**Hospital Ward Name 1160**] 1174 via ambulance.
+",,
+8286,,,,2878-07-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-7-5**] 6:44 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6602**]
+     Reason: 58 y.o. female with metastatic breast cancer wtih cough and 
+     ICD9 code from order: 174.9
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old woman with metastatic breast cancer with cough and fever; some
+      hemoptysis.  check for infiltrate and tumor progression
+     REASON FOR THIS EXAMINATION:
+      58 y.o. female with metastatic breast cancer wtih cough and fever; some
+      hemoptysis.  check for infiltrate, tumor progression
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Cough and fever in woman with metastatic breast CA.
+     
+     PA and lateral chest.  The left hemithorax is predominantly opacified with
+     only partial aeration of the upper lobe remaining.  There is
+     tracheal/mediastinal shift to the left (difficult assessment due to
+     scoliosis).  There is pleural thickening in the visualized upper left thorax
+     and the stomach bubble indicates elevation of the left hemidiaphragm.  Right
+     lung is normal without vascular congestion, consolidations, or effusions. 
+     Right mastectomy.  Little change from exam [**2878-4-20**].
+     
+     IMPRESSION:  No interval change in extensive left parenchymal and pleural
+     changes presumably reflecting metastatic disease.
+                                                                           
+
+",,
+8286,,,,2878-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-9-6**] 5:41 PM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 6603**]
+     Reason: Evaluate for disease.                                       
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with metastatic breast cancer with headache and vertigo.      
+     REASON FOR THIS EXAMINATION:
+      Evaluate for disease.                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI EXAM OF THE BRAIN WITH CONTRAST.
+     
+     CLINICAL INDICATION:  Metastatic breast cancer with headaches and vertigo.
+     
+     Multiplanar T1- and T2-weighted images of the brain were obtained without and
+     with intravenous gadolinium administration.  There are innumerable enhancing
+     cerebral and cerebellar lesions consistent with diffuse intracranial
+     metastatic disease.  The largest of these lesions are seen within the
+     cerebellar hemispheres bilaterally each measuring around 2.7 and 2.5 cm with
+     significant surrounding vasogenic edema and mass effect overlying the inferior
+     aspect of the fourth ventricle.  There is slight inferior displacement of the
+     cerebellar tonsils suggestive of early inferior impending brain herniation.
+     There is significant effacement of the posterior mesencephalic cistern due to
+     the presence of vasogenic edema.  Multiple other tiny enhancing lesions are
+     seen involving the [**Doctor Last Name 30**]/white junction.  The ventricular system is symmetrical
+     without hydrocephalus.  No acute territorial infarcts were seen on diffusion
+     images.  Normal signal flow voids are present along the intracranial portions
+     of the carotid and basilar arteries.
+     
+     IMPRESSION:  Innumerable enhancing lesions involving both cerebral and
+     cerebellar hemispheres consistent with diffuse intracranial metastatic
+     disease.  There is vasogenic edema within the occipital lobes and especially
+     the cerebellar hemispheres due to larger enhancing metastatic deposits.  There
+     is mass effect over the fourth ventricle with slight inferior displacement of
+     the cerebellar tonsils.
+
+",,
+8286,,,,2878-10-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-10-31**] 6:52 PM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 6604**]
+     Reason: MRI of the brain with contrast, pt with metastatic breast ca
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      MRI of the brain with contrast, pt with metastatic breast cancer to the brain,
+      s/p xrt.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN WITH AND WITHOUT CONTRAST PERFORMED ON [**10-31**]
+     
+     CLINICAL HISTORY:  Metastatic breast carcinoma treated with radiation therapy.
+     
+     TECHNIQUE:  Multiplanar pre- and post-contrast T1-weighted images, axial T2-
+     weighted, susceptibility, FLAIR, and diffusion-weighted images were obtained.
+     
+     FINDINGS:
+     
+     The innumerable peripherally enhancing masses in the brain parenchyma have
+     decreased in size compared to [**2878-9-6**].  The largest lesions remain in the
+     cerebellum.  The left cerebellar hemisphere lesion has decreased in size from
+     2.2 cm to 1.6 cm.  The lesion at the anterior aspect of the right cerebellar
+     hemisphere is decreased from 2.8 to 1.8 cm.  The surrounding vasogenic edema
+     has improved.  The fourth ventricle is larger than previously with some
+     indentation of it on the left.  There is no hydrocephalus on the current
+     study.
+     
+     IMPRESSION:  There is considerable improvement in the size of the metastases
+     and the surrounding edema compared to [**2878-9-6**].
+     
+
+",,
+8286,,,,2878-12-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-12-21**] 3:40 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6605**]
+     CT CHEST W/CONTRAST
+     Reason: Revaluate disease.                                          
+     Field of view: 38 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with metastatic breast cancer.                                
+     REASON FOR THIS EXAMINATION:
+      Revaluate disease.                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  59-year-old female with metastatic breast cancer.  Re-evaluation.
+     
+     Comparison is made to prior CT torso dated [**2878-4-11**] and prior CT chest
+     dated [**2878-4-18**] and prior CT torso dated [**2876-4-8**].
+     
+     TECHNIQUE:  MDCT acquired axial images were obtained from the thoracic inlet
+     to the pubic symphysis with oral contrast and with and without intravenous
+     contrast.  3-minute delay images were obtained per protocol.  Coronal and
+     sagittal reformations were displayed with 5-mm slice thickness and views for
+     better anatomic localization of disease.
+     
+     CT OF THE CHEST/ABDOMEN/PELVIS
+     
+     CT OF THE CHEST WITH INTRAVENOUS CONTRAST:  Multiple enlarged necrotic lymph
+     nodes are again identified within the mediastinum, several of which have
+     increased in size.  One node within the superior right paratracheal region
+     measures approximately 3.3 x 2.6 cm on current examination with prior
+     measurement of 2.1 x 2.3 cm.  Lymphadenopathy within the precarinal region
+     appears less confluent but also slightly increased in size.  Additional
+     lymphadenopathy within the subcarinal region has also increased in size.
+     Pericardial lymph nodes appear grossly stable as do right hilar lymph nodes.
+     Multiple enlarged lymph nodes are identified within the left axilla in this
+     patient status post right mastectomy.  Many of these nodes appear grossly
+     stable, however, one node within the left supraclavicular region appears to
+     have increased slightly in size measuring approximately 0.9 x 2 cm on today's
+     examination.  Left lateral chest wall mass is grossly unchanged in size when
+     compared to prior examination measuring approximately 2.8 cm on transverse
+     measurement with prior measurement also similar.  Examination of lung
+     parenchyma again displays patient to be status post left pleurodesis.  Since
+     [**4-18**] examination, the more posterior located loculated effusion has
+     decreased in size with the more superior loculated effusion grossly stable.
+     The left lung parenchyma displays more confluent opacity involving all the
+     remaining parenchyma and numerous air bronchograms are noted.  Examination of
+     the right lung parenchyma displays multiple new pulmonary nodules most notable
+     within the superior segments of the right upper lobe, with multiple previously
+     identified nodules increased in size throughout the remaining lung parenchyma.
+     Note is made of a small right-sided pleural effusion.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT INTRAVENOUS CONTRAST:  Multiple previously
+     identified hypoattenuating liver lesions appear increased in size when
+     compared on non-contrast images.  No new focal lesions are identified.  The
+                                                                 (Over)
+
+     DATE: [**2878-12-21**] 3:40 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6605**]
+     CT CHEST W/CONTRAST
+     Reason: Revaluate disease.                                          
+     Field of view: 38 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     portal vein is patent.  The gallbladder is contracted, but appears otherwise
+     normal.  The spleen, stomach, intra-abdominal bowel, pancreas, and adrenal
+     glands appear grossly normal.  There is stable appearance to two
+     hypoattenuating right renal lesions, too small to characterize.  No evidence
+     of free air or free fluid within the abdomen.  No pathologically enlarged
+     mesenteric or retroperitoneal lymph nodes are identified.
+     
+     CT THE PELVIS WITH INTRAVENOUS CONTRAST:  The distal ureters, bladder, uterus,
+     and colon appear grossly unremarkable.  No pathologically enlarged pelvic or
+     inguinal lymph nodes are identified.  No free fluid is noted within the
+     pelvis.
+     
+     BONE WINDOWS:  There has been marked progression of multiple previously
+     identified osseous lesions with new sclerotic lesions noted within the sacrum
+     as well as increased size to a soft tissue lesion within the right sacrum
+     measuring approximately 3.4 x 4.4 cm.  Sclerotic foci within the pelvis also
+     appear more prominent as does a lesion involving the right transverse process
+     of L5.  Multiple vertebral bodies are noted to contain sclerotic or mixed
+     lytic and sclerotic lesions, many of which have increased in size.
+     
+     IMPRESSION:
+     1.  Marked progression of metastatic disease with increased size and new
+     right-sided pulmonary nodules as well as progression of lymphadenopathy within
+     the left supraclavicular region and mediastinum.  Increased size to previously
+     noted liver metastases and increased size to previously identified osseous
+     metastases with a few new foci identified within the sacrum and spine.
+     Vertebral body heights appear preserved.
+     
+     2.  Increased opacification of remaining left lung parenchyma of unclear
+     etiology may be infectious/inflammatory or the sequela of radiation therapy.
+     Slight decrease in size to more posterior left loculated effusion.
+     
+     3.  Grossly stable left thoracic wall mass.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2878-12-21**] 3:40 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6605**]
+     CT CHEST W/CONTRAST
+     Reason: Revaluate disease.                                          
+     Field of view: 38 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8286,,,,2878-12-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-12-21**] 3:40 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6605**]
+     CT CHEST W/CONTRAST
+     Reason: Revaluate disease.                                          
+     Field of view: 38 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with metastatic breast cancer.                                
+     REASON FOR THIS EXAMINATION:
+      Revaluate disease.                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  59-year-old female with metastatic breast cancer.  Re-evaluation.
+     
+     Comparison is made to prior CT torso dated [**2878-4-11**] and prior CT chest
+     dated [**2878-4-18**] and prior CT torso dated [**2876-4-8**].
+     
+     TECHNIQUE:  MDCT acquired axial images were obtained from the thoracic inlet
+     to the pubic symphysis with oral contrast and with and without intravenous
+     contrast.  3-minute delay images were obtained per protocol.  Coronal and
+     sagittal reformations were displayed with 5-mm slice thickness and views for
+     better anatomic localization of disease.
+     
+     CT OF THE CHEST/ABDOMEN/PELVIS
+     
+     CT OF THE CHEST WITH INTRAVENOUS CONTRAST:  Multiple enlarged necrotic lymph
+     nodes are again identified within the mediastinum, several of which have
+     increased in size.  One node within the superior right paratracheal region
+     measures approximately 3.3 x 2.6 cm on current examination with prior
+     measurement of 2.1 x 2.3 cm.  Lymphadenopathy within the precarinal region
+     appears less confluent but also slightly increased in size.  Additional
+     lymphadenopathy within the subcarinal region has also increased in size.
+     Pericardial lymph nodes appear grossly stable as do right hilar lymph nodes.
+     Multiple enlarged lymph nodes are identified within the left axilla in this
+     patient status post right mastectomy.  Many of these nodes appear grossly
+     stable, however, one node within the left supraclavicular region appears to
+     have increased slightly in size measuring approximately 0.9 x 2 cm on today's
+     examination.  Left lateral chest wall mass is grossly unchanged in size when
+     compared to prior examination measuring approximately 2.8 cm on transverse
+     measurement with prior measurement also similar.  Examination of lung
+     parenchyma again displays patient to be status post left pleurodesis.  Since
+     [**4-18**] examination, the more posterior located loculated effusion has
+     decreased in size with the more superior loculated effusion grossly stable.
+     The left lung parenchyma displays more confluent opacity involving all the
+     remaining parenchyma and numerous air bronchograms are noted.  Examination of
+     the right lung parenchyma displays multiple new pulmonary nodules most notable
+     within the superior segments of the right upper lobe, with multiple previously
+     identified nodules increased in size throughout the remaining lung parenchyma.
+     Note is made of a small right-sided pleural effusion.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT INTRAVENOUS CONTRAST:  Multiple previously
+     identified hypoattenuating liver lesions appear increased in size when
+     compared on non-contrast images.  No new focal lesions are identified.  The
+                                                                 (Over)
+
+     DATE: [**2878-12-21**] 3:40 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6605**]
+     CT CHEST W/CONTRAST
+     Reason: Revaluate disease.                                          
+     Field of view: 38 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     portal vein is patent.  The gallbladder is contracted, but appears otherwise
+     normal.  The spleen, stomach, intra-abdominal bowel, pancreas, and adrenal
+     glands appear grossly normal.  There is stable appearance to two
+     hypoattenuating right renal lesions, too small to characterize.  No evidence
+     of free air or free fluid within the abdomen.  No pathologically enlarged
+     mesenteric or retroperitoneal lymph nodes are identified.
+     
+     CT THE PELVIS WITH INTRAVENOUS CONTRAST:  The distal ureters, bladder, uterus,
+     and colon appear grossly unremarkable.  No pathologically enlarged pelvic or
+     inguinal lymph nodes are identified.  No free fluid is noted within the
+     pelvis.
+     
+     BONE WINDOWS:  There has been marked progression of multiple previously
+     identified osseous lesions with new sclerotic lesions noted within the sacrum
+     as well as increased size to a soft tissue lesion within the right sacrum
+     measuring approximately 3.4 x 4.4 cm.  Sclerotic foci within the pelvis also
+     appear more prominent as does a lesion involving the right transverse process
+     of L5.  Multiple vertebral bodies are noted to contain sclerotic or mixed
+     lytic and sclerotic lesions, many of which have increased in size.
+     
+     IMPRESSION:
+     1.  Marked progression of metastatic disease with increased size and new
+     right-sided pulmonary nodules as well as progression of lymphadenopathy within
+     the left supraclavicular region and mediastinum.  Increased size to previously
+     noted liver metastases and increased size to previously identified osseous
+     metastases with a few new foci identified within the sacrum and spine.
+     Vertebral body heights appear preserved.
+     
+     2.  Increased opacification of remaining left lung parenchyma of unclear
+     etiology may be infectious/inflammatory or the sequela of radiation therapy.
+     Slight decrease in size to more posterior left loculated effusion.
+     
+     3.  Grossly stable left thoracic wall mass.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2878-12-21**] 3:40 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6605**]
+     CT CHEST W/CONTRAST
+     Reason: Revaluate disease.                                          
+     Field of view: 38 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8286,,,,2879-01-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-1-12**] 3:55 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6606**]
+     Reason: Evaluate for effusion, pulmonary edema, or infiltrate.      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with metastatic breast cancer with cough.                     
+     REASON FOR THIS EXAMINATION:
+      Evaluate for effusion, pulmonary edema, or infiltrate.                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO-VIEW CHEST OF [**2879-1-12**]
+     
+     COMPARISON:  Chest radiograph, [**2878-7-5**] and CT torso, [**2878-12-21**].
+     
+     INDICATION:  Breast cancer.  Cough.
+     
+     There is near complete opacification of the left hemithorax with associated
+     ipsilateral shift of the mediastinum towards the left.  This appears to be due
+     to a combination of factors including circumferential neoplastic pleural
+     involvement, areas of loculated pleural effusion, and a combination of
+     atelectasis and consolidation within the left lung.  The right lung is
+     slightly overexpanded and demonstrates numerous small pulmonary nodules which
+     have increased in size and number compared to the previous examination.  No
+     right pleural effusion is evident.  Skeletal structures appear somewhat
+     heterogeneous with areas of sclerosis within several left-sided ribs without
+     change.
+     
+     There has been prior right mastectomy.
+     
+     IMPRESSION:
+     1.  Near complete opacification of left hemithorax, due to a combination of
+     pleural metastatic disease, loculated left pleural fluid, and a combination of
+     consolidation and atelectasis in the left lung.
+     2.  Increase in size and number of metastatic lung nodules in the right lung
+     compared to prior chest radiograph but no substantial change compared to more
+     recent CT torso.
+                                                                           
+
+",,
+8286,,,,2879-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 6607**]
+     Reason: METS BREAST CA, SACRAL BONE MET RIGHT SCIATICA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     RADIOPHARMECEUTICAL DATA:
+        25.5 mCi Tc-99m MDP ([**2879-1-18**]);
+     HISTORY: 59 y/o female with metastatic breast cancer.   
+       
+     INTERPRETATION:    
+       
+     Whole body images of the skeleton were obtained in anterior and posterior  
+     projections and compared to the prior study from [**2878-4-11**]. Today's study
+     demonstrates progression of the spinal metastatic disease with increased uptake
+     noted in multiple thoracic and lumbar vertebrae as well as the pelvis and sacrum
+     consistent with findings on recent CT. Previously noted rib metastases,
+     including the 7th and 8th on the left and 6th on the right are identified. A new
+     focus of activity is seen in the mid-diaphysis of the left tibia. Additionally,
+     new foci of uptake are seen within the mid-diaphysis of the right and left
+     humeri.    
+       
+     The kidneys and urinary bladder are visualized, the normal route of tracer
+     excretion.  
+       
+     IMPRESSION: 1)Significant progression of osseous metastatic disease as
+     described. 2) New foci of uptake in the mid-diaphysis of the left femur and
+     bilateral humeri. Recommend plain radiographic correlation as clinically
+     indicated to rule-out an impending pathologic fracture.    
+                                                                           
+
+             [**First Name8 (NamePattern2) 4126**] [**Last Name (NamePattern1) 6608**], M.D.
+             [**First Name8 (NamePattern2) 748**] [**Last Name (NamePattern1) 749**], M.D.         Approved: [**Doctor First Name 114**] [**2879-1-19**] 4:18 PM
+
+
+             Date Mailed: [**2879-1-20**]                     West [**Medical Record Number 6593**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8286,,,,2879-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-1-18**] 10:47 AM
+     MR HIP W&W/O CONTRAST RIGHT                                     Clip # [**Clip Number (Radiology) 6609**]
+     Reason: sacral bone metastasis right sciatica                       
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with metastatic breast cancer with headache and vertigo.      
+     REASON FOR THIS EXAMINATION:
+      sacral bone metastasis right sciatica                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic breast cancer, headaches, vertigo.  Evaluate right
+     sacral bone metastasis.
+     
+     COMPARISONS:  CT torso [**2878-12-21**].
+     
+     TECHNIQUE:  Axial and coronal T1, T2 and T1 fat saturation post-gadolinium
+     administration were performed.
+     
+     MR PELVIS WITH AND WITHOUT CONTRAST:  Diffuse metastatic lesions are
+     identified within the pelvis.  There are areas of signal abnormality
+     throughout the pelvis and lower lumbar spine consistent with metastatic
+     deposits.
+     
+     There is a large metastatic lesion within the right side of the sacrum,
+     corresponding to the lytic lesion seen on previous CTs.  This lesion extends
+     across the midline to involve the left side of the sacrum.  This metastatic
+     lesion within the right side of the sacrum completely encircles the right S1
+     and S2 neural foramen.  The fat within the foramen are effaced, likely
+     indicating compression of the nerves.  The lesion extends up to the sacroiliac
+     joint without evidence of involvement of the adjacent ilium.  After contrast
+     administration, the majority of the central portion of the tumor does not
+     enhance, indicating central necrosis.
+     
+     Note is also made of a transitional vertebral anatomy involving the lowest
+     lumbar vertebral body which articulates with the left side of the sacrum.
+     
+     Nonspecific edema is identified within the soft tissues along the left lateral
+     pelvic wall.  There appears to be a fluid area within the subcutaneous soft
+     tissues in this region.  Mild edema is also seen involving the left gluteus
+     maximus and medius tendons which may represent myotendinous injury/strain.
+     Edema is also seen involving the right gluteus maximus.
+     
+     Degenerative changes are seen involving the lumbar spine.  There are mild
+     degenerative changes involving the pubic symphysis.
+     
+     IMPRESSION:
+     1.  Diffuse metastatic disease involving the lower lumbar spine, pelvis, and
+     femurs.  Large, centrally necrotic metastatic lesion within the right side of
+     the sacrum which crosses midline.  The lesion encircles and effaces the fat
+     within the right S1 and S2 neural foramen, likely compressing these nerves.
+     2.  Fluid collection identified within the left lateral pelvic wall
+     subcutaneous soft tissues, of unknown clinical significance.
+                                                                 (Over)
+
+     DATE: [**2879-1-18**] 10:47 AM
+     MR HIP W&W/O CONTRAST RIGHT                                     Clip # [**Clip Number (Radiology) 6609**]
+     Reason: sacral bone metastasis right sciatica                       
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3.  Mild edema involving the left gluteus maximus and medius tendon as well as
+     the right gluteus maximus muscle, possibly indicating myotendinous
+     injury/strain.
+
+",,
+8286,,,,2879-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-1-19**] 7:45 PM
+     MR L SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 6610**]
+     Reason: sacral bone metastasis right sciatica                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with metastatic breast cancer with headache and vertigo.      
+     REASON FOR THIS EXAMINATION:
+      sacral bone metastasis right sciatica                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  59-year-old woman with metastatic breast cancer with headache and
+     vertigo, sacral bone metastasis, right sciatica, to evaluate the lumbar spine.
+     
+     STUDY DATE:  [**2879-1-19**].
+     
+     This is a redictation of the report as the original report was lost before
+     transcription.  However, the findings on the study were discussed with Dr. [**Last Name (STitle) **].
+     [**Doctor Last Name 354**] by Dr. [**Last Name (STitle) 1370**] on [**2879-1-20**], at 5 p.m.
+     
+     PRIOR STUDY:  MR of the lumbar spine done on [**2876-3-18**].
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted imaging of the lumbar spine was
+     performed without contrast.  Contrast was not given due to misinterpretation
+     of the protocol, at the time of performing the study.
+     
+     FINDINGS:
+     
+     There are several areas of altered signal intensity in the lumbar vertebral
+     bodies, consistent with metastatic involvement.  There is also involvement of
+     the sacral body and the right hemi-sacrum by metastasis, with extension
+     through the sacral foramina.  This is however better evaluated on the MRI of
+     the hip done the day before, on [**2879-1-18**].
+     
+     Axial sections were obtained from L2-S1 level.
+     
+     The metastatic lesions are  better seen on the axial T1-weighted images than
+     axial T2-weighted images, which are limited by some motion.
+     
+     At L4-5 level, there is a 2.1 cm area of altered signal intensity in the right
+     side of the superior part of the L5 vertebral body, including the posterior
+     margin with possible extension into the spinal canal at this level.  In
+     addition, there is a 1.3 x 0.7-cm focus in the right lateral recess, which
+     appears to be contiguous with the above-mentioned metastatic focus in the L5
+     vertebral body.  However, this was seen on the prior study on [**2876-3-18**], and
+     interpreted as disc protrusion.  On the present study, due to lack of IV
+     contrast, it is difficult to ascertain whether this represents disc material
+     or tumor.  There is possible impingement/encasement of the traversing right L5
+     nerve root at this level.  No pre- or para-vertebral soft tissue masses are
+     noted. The spinal cord ends at T12-L1 level.  The roots of the cauda equina
+     are unremarkable.
+     
+     The spinal canal at the T11 level, included on the uppermost aspect of the
+     field of view, appears unremarkable on the T1-weighted images and increased
+                                                                 (Over)
+
+     DATE: [**2879-1-19**] 7:45 PM
+     MR L SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 6610**]
+     Reason: sacral bone metastasis right sciatica                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     signal within the spinal canal on the sagittal T2-weighted images could be
+     artifactual.
+     
+     IMPRESSION:
+     1.  Extensive metastatic involvement of the lumbar vertebral bodies, body of
+     the sacrum and the right hemi-sacrum with extension through the sacral
+     foramina.
+     
+     2.  L4-5:  1.4-cm focus in the right lateral recess, which could represent
+     either disc material (as reported on  prior scans) or superimposed tumor. The
+     patient should return for contrast-enhanced study, for further
+     characterization.
+     
+     COMMENT: Findings were discussed with Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 354**] on [**2879-1-20**], at 5 p.m. by Dr.
+     [**Last Name (STitle) 1370**].
+     
+     
+
+",,
+8286,,,,2879-02-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-2-1**] 3:24 PM
+     MR [**Name13 (STitle) 128**] W & W/O CONTRAST                                     Clip # [**Clip Number (Radiology) 6611**]
+     Reason: sacral bone metastasis right sciatica, originally ordered wi
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with metastatic breast cancer with headache and vertigo       
+     REASON FOR THIS EXAMINATION:
+      sacral bone metastasis right sciatica, originally ordered with and without for 
+      [**1-19**] scan, Dr. [**Last Name (STitle) 1370**] protocoled it as without only.  Please do contrast portion.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Metastatic breast cancer with question lesion L4-L5 on the right
+     within the lateral recess.
+     
+     Routine MRI of the lumbar spine without and with gadolinium was performed.
+     
+     Comparison is made with prior study of [**2879-1-19**].  Again noted is extensive
+     diffuse metastatic involvement of multiple lumbar vertebral bodies as well as
+     the sacrum extending to the sacral foramina.  The previously noted soft tissue
+     focus in the right lateral recess does not demonstrate convincing enhancement
+     and given stability since [**2875**], is felt to represent a focal disc herniation
+     as opposed to metastatic disease.  This disc protrusion impinges the right L5
+     nerve root.
+     The conus is unremarkable
+     
+     IMPRESSION:  Diffuse osseous metastatic disease in the lumbar vertebral bodies
+     and sacrum.  Previously questioned soft tissue in the right lateral recess at
+     L4-L5 is felt to represent a focal disc protrusion.
+     
+
+             DR. [**First Name (STitle) **] [**Name (STitle) 3864**]
+",,
+8286,,,,2879-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-3-1**] 3:59 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6612**]
+     CT CHEST W/CONTRAST
+     Reason: Evaluate disease.                                           
+     Field of view: 40 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with metastatic breast cancer.                                
+     REASON FOR THIS EXAMINATION:
+      Evaluate disease.                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  59-year-old woman with metastatic breast cancer.
+     
+     COMPARISON:  [**2878-12-21**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the chest, abdomen and pelvis was
+     performed after oral and intravenous contrast.  Non-contrast images of the
+     abdomen and delayed images of the kidneys as well as coronal and sagittal
+     reformations were obtained.
+     
+     CT OF THE CHEST:  There has been an interval increase in size of the left
+     supraclavicular paratracheal, subcarinal, precarinal lymphadenopathy. Multiple
+     enlarged lymph nodes in the left axilla are also slightly enlarged, as are
+     multiple small prevascular lymph nodes.  Patient is status post right
+     mastectomy.  There is thickening of the skin over the left breast.  The large
+     left lateral chest wall mass also appears slightly larger than on the prior
+     study with overall dimensions of 5.7 x 4.3 cm.  Again seen are multiple
+     subpleural fluid collections on the left with pleural thickening and
+     irregularity surrounding them.  Some of these changes are consistent with the
+     prior pleurodesis.  There has been interval worsening of the collapse of the
+     left lung with only scattered small regions of aerated lung remaining.  The
+     left lower lobe bronchi are obstructed at the segmental level.
+     
+     The innumerable small pulmonary nodules in the right lung have increased in
+     number since the prior study.  The small right-sided pleural effusion is also
+     increased in size.
+     
+     The heart is not enlarged.  There is a small pericardial effusion.  The
+     thoracic aorta is of normal caliber.
+     
+     CT OF THE ABDOMEN:  Since the prior study, the number and size of innumerable
+     hypodense liver lesions has increased, involving both lobes.  The portal vein
+     and hepatic veins remain patent.  The gallbladder, right adrenal gland,
+     spleen, pancreas, kidneys, and bowel appear normal.  There is nodular
+     thickening of the left adrenal gland which has increased in size since the
+     prior study, now measuring up to 12 mm.  Several small lymph nodes are seen in
+     the gastrohepatic ligament up to 8 mm in size.  Several small para-aortic
+     lymph nodes are also seen which do not meet criteria for pathologic
+     enlargement.  The abdominal aorta is of normal caliber throughout.  There is
+     no ascites or free intraperitoneal air.
+     
+     CT OF THE PELVIS:  The bladder, uterus, adnexa and rectum appear unremarkable.
+                                                                 (Over)
+
+     DATE: [**2879-3-1**] 3:59 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6612**]
+     CT CHEST W/CONTRAST
+     Reason: Evaluate disease.                                           
+     Field of view: 40 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     There is a small amount of free fluid in the pelvis, increased since the prior
+     study.  No pathologic pelvic or inguinal lymphadenopathy is appreciated.  In
+     the left common femoral vein, there is a central region of lower density.
+     
+     OSSEOUS STRUCTURES:  There has been an increase in the number of sclerotic
+     metastatic lesions involving several levels of the spine, as well as the
+     posterior right fifth vertebral body.  The lytic lesion in the right sacrum
+     has a more aggressive appearance since the prior study without is clear, re-
+     definable borders.
+     
+     IMPRESSION:  
+     1.  Progression of disease in the chest and abdomen compared to the prior
+     study with a substantial increase in the mediastinal lymphadenopathy,
+     pulmonary nodules, chest wall mass, and liver lesions.
+     2.  Central low density in the left common femoral vein.  This could certainly
+     be due to mixing artifact, as the vein at this level is not well opacified.
+     Please clinically correlate, with symptoms in the left lower extremity, and if
+     clinical concern exists, an ultrasound study of the lower extremity may be of
+     value to exclude deep vein thrombosis.
+     
+
+",,
+8286,,,,2879-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-3-1**] 3:59 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6612**]
+     CT CHEST W/CONTRAST
+     Reason: Evaluate disease.                                           
+     Field of view: 40 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with metastatic breast cancer.                                
+     REASON FOR THIS EXAMINATION:
+      Evaluate disease.                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  59-year-old woman with metastatic breast cancer.
+     
+     COMPARISON:  [**2878-12-21**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the chest, abdomen and pelvis was
+     performed after oral and intravenous contrast.  Non-contrast images of the
+     abdomen and delayed images of the kidneys as well as coronal and sagittal
+     reformations were obtained.
+     
+     CT OF THE CHEST:  There has been an interval increase in size of the left
+     supraclavicular paratracheal, subcarinal, precarinal lymphadenopathy. Multiple
+     enlarged lymph nodes in the left axilla are also slightly enlarged, as are
+     multiple small prevascular lymph nodes.  Patient is status post right
+     mastectomy.  There is thickening of the skin over the left breast.  The large
+     left lateral chest wall mass also appears slightly larger than on the prior
+     study with overall dimensions of 5.7 x 4.3 cm.  Again seen are multiple
+     subpleural fluid collections on the left with pleural thickening and
+     irregularity surrounding them.  Some of these changes are consistent with the
+     prior pleurodesis.  There has been interval worsening of the collapse of the
+     left lung with only scattered small regions of aerated lung remaining.  The
+     left lower lobe bronchi are obstructed at the segmental level.
+     
+     The innumerable small pulmonary nodules in the right lung have increased in
+     number since the prior study.  The small right-sided pleural effusion is also
+     increased in size.
+     
+     The heart is not enlarged.  There is a small pericardial effusion.  The
+     thoracic aorta is of normal caliber.
+     
+     CT OF THE ABDOMEN:  Since the prior study, the number and size of innumerable
+     hypodense liver lesions has increased, involving both lobes.  The portal vein
+     and hepatic veins remain patent.  The gallbladder, right adrenal gland,
+     spleen, pancreas, kidneys, and bowel appear normal.  There is nodular
+     thickening of the left adrenal gland which has increased in size since the
+     prior study, now measuring up to 12 mm.  Several small lymph nodes are seen in
+     the gastrohepatic ligament up to 8 mm in size.  Several small para-aortic
+     lymph nodes are also seen which do not meet criteria for pathologic
+     enlargement.  The abdominal aorta is of normal caliber throughout.  There is
+     no ascites or free intraperitoneal air.
+     
+     CT OF THE PELVIS:  The bladder, uterus, adnexa and rectum appear unremarkable.
+                                                                 (Over)
+
+     DATE: [**2879-3-1**] 3:59 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 6612**]
+     CT CHEST W/CONTRAST
+     Reason: Evaluate disease.                                           
+     Field of view: 40 Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     There is a small amount of free fluid in the pelvis, increased since the prior
+     study.  No pathologic pelvic or inguinal lymphadenopathy is appreciated.  In
+     the left common femoral vein, there is a central region of lower density.
+     
+     OSSEOUS STRUCTURES:  There has been an increase in the number of sclerotic
+     metastatic lesions involving several levels of the spine, as well as the
+     posterior right fifth vertebral body.  The lytic lesion in the right sacrum
+     has a more aggressive appearance since the prior study without is clear, re-
+     definable borders.
+     
+     IMPRESSION:  
+     1.  Progression of disease in the chest and abdomen compared to the prior
+     study with a substantial increase in the mediastinal lymphadenopathy,
+     pulmonary nodules, chest wall mass, and liver lesions.
+     2.  Central low density in the left common femoral vein.  This could certainly
+     be due to mixing artifact, as the vein at this level is not well opacified.
+     Please clinically correlate, with symptoms in the left lower extremity, and if
+     clinical concern exists, an ultrasound study of the lower extremity may be of
+     value to exclude deep vein thrombosis.
+     
+
+",,
+8286,,,,2879-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-4-6**] 4:39 PM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 6613**]
+     Reason: Evaluate for increasing metastasis.                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old woman with metastatic breast cancer with falls and lightheadedness. 
+     REASON FOR THIS EXAMINATION:
+      Evaluate for increasing metastasis.                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic breast cancer with falls and lightheadedness. Evaluate
+     for worsening metastases.
+     
+     COMPARISON:  [**2878-10-31**].
+     
+     TECHNIQUE:  Sagittal T1-weighted, axial T1-weighted, T2 fast spin echo, FLAIR
+     and axial, coronal and sagittal post-gadolinium enhanced images of the brain
+     were obtained.  Diffusion-weighted images were also obtained.
+     
+     FINDINGS:  Again seen are innumerable, some peripherally and others solid
+     enhancing masses within the brain parenchyma, little changed from prior study.
+     A moderate sized lesion in the left cerebellar hemisphere now demonstrates a
+     small amount of susceptibility, suggesting either hemorrhage within the
+     metastasis or possibly calcification.  Several of the lesions in the right
+     cerebellar hemisphere appear slightly decreased in size compared to prior
+     study.  The amount of surrounding edema around the metastases does not appear
+     significantly changed from prior study.  The remaining lesions do not appear
+     significantly changed from the preceding examination.  The lesion seen
+     adjacent to the left side of the fourth ventricle seems little altered in
+     terms of the degree of compression of the fourth ventricle. Ventricles and
+     extraaxial spaces otherwise appear stable.  No new lesions are identified.  No
+     abnormal foci of restricted diffusion to suggest evolving infarct are noted.
+     
+     IMPRESSION:
+     1.  Moderate sized metastasis in the left cerebellar hemisphere, now
+     demonstrating a small amount of susceptibility, suggesting either hemorrhagic
+     metastasis versus calcification that has evolved since the prior study.
+     
+     2.  No alteration in fourth ventricular compression by contiguous lesion to
+     the left of this structure.
+     
+     Otherwise, little change compared to prior in interval of the other metastases
+     seen throughout the brain.  No definite new metastases are identified.
+     
+     Findings were discussed with Dr. [**First Name8 (NamePattern2) 2664**] [**Last Name (NamePattern1) 5729**] on [**2879-4-6**], via telephone.
+     
+
+",,

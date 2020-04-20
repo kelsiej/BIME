@@ -1,0 +1,1508 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8025,21773,,,2991-09-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2991-9-22**]     Discharge Date:  [**2991-10-9**]
+
+Date of Birth:   [**2941-6-19**]     Sex:  F
+
+Service:  General Surgery - Blue Team
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 50-year-old
+female with a history of Crohn's colitis who complains of
+three days of abdominal pain, mostly in the left lower
+quadrant.  Chest x-ray revealed free air.  The patient also
+had a white blood cell count of 16.  The patient was admitted
+to the hospital.
+
+HOSPITAL COURSE:  Considering the free air, there was a
+likely perforated viscus so the patient was immediately taken
+to the operating room on [**9-22**].  The patient underwent
+exploratory laparotomy, lysis of adhesions, sigmoid colectomy
+and colostomy and Hartmann's for a perforated sigmoid colon.
+Surgeon of record was Dr. [**Last Name (STitle) **].  Assistant, Dr. [**Last Name (STitle) 11062**].
+Findings included multiple intraperitoneal abscesses,
+perforated sigmoid colon.
+
+Post-operatively the patient was taken to the ICU with a
+Propofol drip for sedation, was intubated especially
+considering the patient's history of idiopathic pulmonary
+fibrosis.  The patient also required Neo and a Swan as the
+case intraoperatively was complicated by hypotension.  The
+patient was put on Vancomycin, Levofloxacin and Clindamycin
+and Protonix, subcu Heparin and a regular insulin sliding
+scale.  Over the next few days the patient was able to be
+weaned off of pressors and the SICU team continued to attempt
+to wean the patient from the ventilator. On [**9-24**] the patient
+was extubated.  Incidentally cultures came back that day from
+the intraabdominal fluid, gram positive cocci 3+, gram
+negative rods 4+, gram positive rods 3+.  Status post
+extubation the patient had several episodes of respiratory
+distress, likely the patient's history of pulmonary fibrosis
+and pulmonary hypertension contributed to this.  The patient
+did receive some Lasix with a good effect as she had received
+a large amount of fluid perioperatively.  As of 8-26 the
+patient required 100% non rebreather with O2 sats greater
+than 90%.  The patient remained on Hydrocortisone as
+treatment for the patient's pulmonary fibrosis and pulmonary
+hypertension and was also receiving Lasix 20 mg bid.  The
+patient continued to get aggressive chest physical therapy.
+Cultures on the patient's endotracheal tube grew out E. coli
+and Ceftriaxone was added to the Vanco, Levofloxacin,
+Clindamycin antibiotic regimen.  The patient's respiratory
+status continued to improve and thus the patient was sent to
+the floor.  On [**9-29**] the patient was satting 94% on 40% plus 6
+liters nasal cannula.  The patient had an episode of
+desaturation on 6 liters to 88% on [**10-1**].  More aggressive
+pulmonary toilet was required.  The patient was put on 100%
+non rebreather and sats came up to 95%.  Levofloxacin was
+discontinued.  TPN was started.  The patient was advanced to
+clear diet on [**10-3**].  The patient had an episode of
+desaturation on the night of 9-3, desaturated to 82% on mask,
+up to 99% on non rebreather.  Also complained of feeling of
+dyspnea.  At 1 a.m. on [**10-4**] the patient complained of chest
+pain.  EKG showed no change.  Chest x-ray showed no change
+from [**10-1**].  ABG was 7.47/43/64/32/6 on 15 liters non
+rebreather.  The patient was given Lasix and then was
+transferred back to the SICU.  The patient was found on CT
+scan to have a small fluid collection in the pelvis which had
+had a pigtail catheter in.  This drainage tube was clogged
+[**10-4**], interventional aspirated and flushed the tube and
+unclogged it and orders were written to flush his catheter
+tid.  Respiratory service was consulted on [**10-5**].  The
+pulmonologist recommended continuing antibiotics, tapering
+Hydrocortisone, continuing general diuresis.  On [**10-7**] the
+patient was requiring C-pap to maintain oxygen saturation and
+at noon on [**10-7**] the patient was reintubated.  Patient's blood
+pressure dropped to 80/40 so the patient was put on
+Neo-Synephrine.  On [**10-8**] the patient underwent a bronchoscopy
+that showed thick secretions.  During the procedure the
+patient had episodes of hypotension and tachycardia.  The
+patient required FIO2 in the 90% range to maintain O2
+saturation.  ICU team was unable to wean down the FIO2.
+Every time they attempted to wean down the FIO2 the patient
+would desaturate.  On [**10-9**] the patient required an FIO2 of
+100% to maintain O2 sats in the low 90's.  At this point in
+time it appeared that secondary to patient's history of
+idiopathic pulmonary fibrosis, the patient's prognosis was
+very poor and this poor prognosis was discussed with the
+family.  At noon the family decided that in light of the
+patient's poor prognosis, she should be made comfort measures
+only.  The patient was thus taken off all pressors and was
+pronounced dead at 12:50 p.m. on [**10-9**] and the death
+certificate was filed.
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 998**], M.D.  [**MD Number 999**]
+
+Dictated By:[**Last Name (NamePattern1) 4095**]
+
+MEDQUIST36
+
+D:  [**2991-11-16**]  11:20
+T:  [**2991-11-16**]  13:12
+JOB#:  [**Job Number 11063**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: FRI [**2991-11-18**] 7:02 AM
+(End of Report)
+
+
+",,
+8025,21773,,,2991-09-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-9-22**] 10:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3990**]
+     Reason: r/o PTX, check line p[lacement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with s/p sigmoid colectomy, Hartmans, colostomy
+     REASON FOR THIS EXAMINATION:
+      r/o PTX, check line p[lacement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, SINGLE AP FILM.
+     
+     HISTORY:  Sigmoid colectomy, colostomy and CV line placement.
+     
+     ET tube is 4 cm above carina. SG catheter is in right main pulmonary artery.
+     NG tube is in stomach.  No pneumothorax.  Heart size is borderline to slightly
+     enlarged for technique.  There is a diffuse, bilateral interstitial reticular
+     nodular pattern which may be due to interstitial edema, but there are no prior
+     films available for comparison and it is unknown whether this patient had
+     chronic interstitial disease. Correlate with history and follow-up film, if
+     indicated.
+     
+     IMPRESSION:  No pneumothorax.  Diffuse bilateral interstitial process,
+     interstitial edema vs prior existing interstitial disease.
+     
+
+",,
+8025,21773,9992,0,2991-09-23 04:48:00 EST,2991-09-23 04:54:00 EST,-1,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+50 yo female h/o of pulm fibrosis, pulm htn, COPD with home o2 requirement. s/p exp. lap sigmoid resection, colostomy, [**Doctor Last Name 1113**] pouch and bypass of adhesions.Placed on AC 650x10/5/100% with abg 527/51/7.28, rate increased to 12 abg normalized considering pt. pulm issues. Sxn'ing thick pale yellow in sm. amts.Tolerating current settings well at this time.
+",,
+8025,21773,9992,0,2991-09-23 09:00:00 EST,2991-09-23 09:07:00 EST,3367,"N",54,"Nursing/Other",,"
+
+d:hx as above,allergies:flagyl,PCN(rash)Demerol,codiene;
+  adm post op,on propofol drip,as pt awakening drip^ed,Mso4 given;
+  NG =bilious,pH=7,gtr,dsg abd d&i,sm bloody drnge in bag for [**Doctor Last Name **] pouch{stoma dusky& flush w/ skin level,foley >cl u/o >30cc'
+",,
+8025,21773,9992,0,2991-09-23 17:22:00 EST,2991-09-23 17:26:00 EST,3094,"N",54,"Nursing/Other","Respiratory Care 7a-7:30 pm","
+Respiratory Care 7a-7:30 pm
+Patient weaned to PSV 10 with 5 peep, 40% oxygen. Vt 5-600, Respiratory rate 10-15. Suctioned to small amounts of thick white sputum. Tolerated wean well, anxious to have tube removed, will support overnight, extubate in the am Suggest combivent q 4 hours for expiratory wheezes
+",,
+8025,21773,9992,0,2991-09-23 17:31:00 EST,2991-09-23 17:42:00 EST,3450,"N",54,"Nursing/Other","STATUS UPDATE","
+STATUS UPDATE
+D: A&O TIMES 3, MEDICATED EVERY 1-2 HOURS WITH 4 MG MSO4 WITH GOOD RELIEF OF INCISIONAL PAIN. ABD INC D&I NO DRAINAGE, STOMA NURSE IN AND CHANGED OSTOMY APPLIANCE STOMA NOTED TO BE DUSKY EXCEPT FOR UPPER ASPECT. BOLUSED TIMES 2 WITH 1 L LACTATED RINGERS FOR LOW U/O, AND MARGINAL CI. CARDIAC INDEX CURRENTLY > 2WITH U/O OF 40-50 CC/HR. MAINTAINED ON LOW DOSE PROPOFOL THROUGHOUT DAY BUT EASILY AWAKENED. BREATH SOUNDS CLEAR BILATERALLY, ABLE TO WEAN TO CPAP WITH GOOD ABG BUT DECISION MADE TO HOLD OFF ON EXTUBATION AT THIS TIME. NGT DRAINING BILIOUS, INTERMIITENTLY PT. HAS C/O NAUSEA, BUT FELT TO BE SECONDARY TO GAGGING ON ETT. PT. WITH C/O SORETHROAT HURRICAINE SPRAY ORDERED AWAITING PHARMACY DELIVERY.    
+",,
+8025,21773,9992,,2991-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-9-24**] 12:12 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3991**]
+     Reason: Atalectasis vs edema
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with s/p sigmoid colectomy, Hartmans, colostomy s/p
+      extubation with poor oxygenation
+     REASON FOR THIS EXAMINATION:
+      Atalectasis vs edema
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  50-year-old woman S/P sigmoid colectomy.  S/P extubation with
+     poor oxygenation.  Rule out atelectasis versus edema.
+     
+     TECHNIQUE:  A single AP upright view of the chest is provided.
+     
+     FINDINGS:  There is diffuse increased density in both lung fields consistent
+     with diffuse interstitial infiltrate.  Some areas of confluence are noted
+     particularly in the right base and left mid-line and consistent with alveolar
+     disease.  These findings are most likely related to diffuse pulmonary
+     infiltrate and/or ARDS.
+     
+     The cardiac silhouette and mediastinum are within normal limits.  A right
+     jugular line is again noted with tip located in the superior vena cava.  There
+     is an NG tube within the stomach.
+     
+     Blunting of the right lateral costophrenic region may represent small pleural
+     effusion.
+     
+     IMPRESSION:  1)  Diffuse pulmonary infiltrate.
+     
+     2)  Small right effusion.
+
+",,
+8025,21773,9992,0,2991-09-24 05:18:00 EST,2991-09-24 05:21:00 EST,-1,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+Pt. a/o x3 intubated and minimally sedated CPAP/PS 10/5/50% tolerating well. Only change made was increasing o2 from 40 to 50%. Sxn'd for sm. amts white x2. Adm. albuterol mdi q4 with gd. pt response .Pt most likely will extubate today.
+",,
+8025,21773,9992,0,2991-09-24 07:54:00 EST,2991-09-24 08:01:00 EST,3367,"N",54,"Nursing/Other",,"
+
+d:mg &K repleted;propofol&mso4 sedation &[pt points to abd&nods w/ questioning about pain,comfort w/ mso4 ivp,adequate TVol's on cpap+ips;pt disuaded from use/request for throat/Hurricane spray,since
+expected extubation planned for am[gd gag];ptassists well w/ turns,seems oriented; 
+",,
+8025,21773,9992,0,2991-09-24 15:43:00 EST,2991-09-24 15:52:00 EST,3714,"N",54,"Nursing/Other",,"
+
+neuro pt. alert and oriented x3. 
+cv/resp vss. afebrile. extubated this am at aprox 930.
+initially requiring ofm at 70% with nc. 02 sats 90-94. Aprox 1 hour post extubation , o2 requirments increased. pt. working hard to cough and raise. nebulizers, cpt and nt suctioning with min effect. h.o. called to see pt. stat cxr done. lasix 40mg ivp given at 1230 and o2 increased to 100%nrb and 4lnc. o2 sats increased to 94% and pt. stated being more comfortable with breathing. great uop with lasix. continued pulm toilet. pt. now c/o feeling very dry. 
+gi/gu npo ng lcs bilous output. colostomy intact not functioning yet. foley clear yellow uop.
+integ. abd. incision with clips clean and dry. mso4 pca given to pt. instructed on use with good pain control.
+",,
+8025,21773,9992,,2991-09-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-9-25**] 9:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3992**]
+     Reason: s/p central line placement, R/O pnemothorax
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with s/p sigmoid colectomy, Hartmans, colostomy s/p
+      extubation with poor oxygenation
+     REASON FOR THIS EXAMINATION:
+      s/p central line placement, R/O pnemothorax
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  S/P sigmoid colectomy recently extubated with poor oxygenation
+     central line placed.
+     
+     Diffuse interstitial infiltrate is present in all areas of the lung with some
+     confluence and alveolar infiltrates.  Appearances are not much changed from
+     those of [**2991-9-24**].  Tip of the nasogastric tube lies within the stomach a right
+     jugular line is seen position of its tip is not identified.  There is no
+     evidence of pneumothorax.
+     
+     IMPRESSION:  Diffuse interstitial alveolar infiltrate no pneumothorax.
+
+",,
+8025,21773,9992,0,2991-09-25 01:26:00 EST,2991-09-25 01:39:00 EST,3772,"N",54,"Nursing/Other","RESP. STATUS","
+RESP. STATUS
+D: PT CONTINUES TO HAVE RHONCHI AND INSP. WHEEZES THROUGHOUT. SHE REMAINS ON 100% NRB AND  5L OF NC. WHEN SHE TAKES HER MASK OF TO SWAB HER MOUTH OR  TO USE THE TONSIL TIP SUCTION SHE DESATS TO THE HIGH  80'S. ONCE THE MASK IS REPLACED HER SAT COMES BACK UP TO 92%. PT WITH WEAK COUGH AND SUCTIONING OUT THICK YELLOW SPUTUM. WITH CPT PT DESATED TO 84% AND  SHE C/O ""FEELING LIKE SHE IS NOT GETTING ENOUGH AIR"". RESP RATE IS 30'S. CVP IS 10 AND URINE OUTPUT REMAINS GREATER THAN 100.
+A: LASIX 20MG IV GIVEN. 
+R: PT DIURESING WELL AFTER LASIX. O2 SAT  STILL DROPPING TO THE MID 80'S WHEN SHE TAKES OFF O2 MASK. PT C/O  THAT  SHE  STILL ""FEELS LIKE
+SOMETHING IS IN THE BACK OF HER THROAT, SHE CAN'T COUGH UP"". 
+A: ALBUTEROL NEB GIVEN BY RESP. PT NASOTRACHEAL SUCTIONED FOR THICK YELLOW/BOODTINGED SPUTUM. 
+R: PT STATES BREATHING FEEL BETTER AFTER SUCIONING. 
+A:  REPEAT ABG DRAWN. 
+R: ABG UNCHANGED. PCO2 IS 44 AND PO2 IN THE 60'S. PT'S COUGH SEEMS SOMEWHAT STRONGER AS THE NIGHT PROGRESSED AND SUCTIONING BLOODTINGED SPUTUM WITH  TONSIL TIP. 02 SAT 90-92% ON NRB AND NC. 
+",,
+8025,21773,9992,0,2991-09-25 02:10:00 EST,2991-09-25 02:25:00 EST,3733,"N",54,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT. REMAINS EXTUBATED WEARING 
+NRM AND 6 LPM NASAL O2 WITH SP02 92 %. RR 24-28
+WITH OCCASIONAL C/O DYSPNEA. STABLE ABG. BS REVEAL
+CRACKLES AND RHONCHI OVER BOTH LUNG FIELDS.
+ALBUTEROL/ATROVENT SVN TX. Q4. NT SUCTIONED 
+VIA LEFT NARES FOR THICK YELLOW SPUTUM.CPT GIVEN. 
+COUGHING AND RAISING THICK YELLOW AS WELL. WILL 
+GIVE TRIAL OF MASK VENTILATION ONLY IF RESPIRATORY
+STATUS WORSENS. 
+                    [**First Name11 (Name Pattern1) 146**] [**Last Name (NamePattern1) 147**], RRT
+
+
+
+",,
+8025,21773,9992,0,2991-09-25 16:23:00 EST,2991-09-25 16:44:00 EST,3423,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+  PATIENT CONTINUES TO REQUIRE LOTS OF O2 TO MAINTAIN SAT IN LOW 90'S. DURING NEB TRMNTS OR WHEN SHE REMOVES MASK TO SUCTION OR SWAB HER SATS DROP TO MID 80'S. MD AWARE AND WOULD LIKE TO REFRAIN FROM REINTUBATING
+  U/O MARGINAL THIS AFTERNOON CVP BETWEEN [**6-6**] PATIENT REMAINS UP 8 KILOS MD AWARE WILL MONITOR.
+   PALINE CHANGED TO CVL TRIPLE LUMEN. CONTINUES ON MSO4 PCA WITH GOOD EFFECT. NGT TO CILWS. OSTOMY WITH NO OUTPUT. INCISION DRESSING D&I
+    CONTINUE TO MONITOR ALL PARAMETERS 
+",,
+8025,21773,9992,0,2991-09-26 02:10:00 EST,2991-09-26 02:25:00 EST,3733,"N",54,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT. CONTINUES WITH NRM AND 6 LPM 
+NASAL O2 WITH SP02 92-93 %. BS REVEAL DIFFUSE CRACKLES
+AND RHONCHI. ALBUTEROL/ATROVENT SVN Q4.SX. FOR THICK
+YELLOW AND C+R ON OWN. SOMEWHAT IMPROVED IN TERMS OF 
+OXYGENATION AND LESS RETAINED SECRETIONS.
+                              [**First Name11 (Name Pattern1) 146**] [**Last Name (NamePattern1) 147**], RRT 
+                       
+",,
+8025,21773,9992,0,2991-09-26 03:50:00 EST,2991-09-26 03:54:00 EST,3772,"N",54,"Nursing/Other","resp. status","
+resp. status
+d: pt remains on 100%nrb and 6l of nc. she continues to receive alb/atrovent nebs and nt suctioning. pt suctioned and coughing and raising thick yellow secretions. bs with crackles in the bases and rhonchi throughout. pt appears more comfortable tonight with breathing and she seems  to have less secretions.  she is sleeping in short naps. cvp is 0.
+a: lasix 20mg  given for 37cc of urine for 2hrs. she continues  with nebs and suctioning as ordered.
+r: resp status appears improved from last night. she appears more comfortable and able to [**Doctor Last Name 5**] in short naps.        
+",,
+8025,21773,9992,0,2991-09-26 15:52:00 EST,2991-09-26 15:58:00 EST,3085,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+D. AFEBRILE,ST 120-113,RR= 16-24,BP 120/80 BY CUFF. 
+ O2 DECREASED TO MAINTAIN O2 SAT 91-94.. MASK CHANGED TO OPEN ONE THUS PT ABLE TO SWAB MOUTH WITHOUT TAKING MASK OFF. CURRENTLY PT IS ON 6L NP AND 60% OPEN MASK. BS COARSE AT TIMES..PT 'S COUGH STRONG BUT PT STATES SHE CAN'T GET IT UP INTO HER MOUTH AT TIMES.. OOB TO CHAIR ALSO VERY EFFECTIVE IN IMPROVING OXYGENATION. PT DEATED ONLY TO 84 WITH THIS ACTIVITY OF STANDING AND WALKING TO CHAIR WITH ALL O2 ON.
+  PT ALSO STARTED ON DAILY LASIX WHICH PT DIURESED WELL FROM.
+ ALTHOUGH PT HAS GOOD COUGH WITH EFFECTIVE PAIN RELIEF,SHE HAS BEEN VERY SOMNULENT BUT AROUSEABLE.
+A.PT REMAINS IN CHAIR DUE TO COMFORT.PCA DOSE CHANGED TO 1MG.
+R. RESP. STATUS IMPROVED.
+",,
+8025,21773,9992,,2991-09-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-9-27**] 7:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3993**]
+     Reason: f/u
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with s/p sigmoid colectomy, Hartmans, colostomy s/p
+      extubation with poor oxygenation.  IPF
+     REASON FOR THIS EXAMINATION:
+      f/u
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     CLINICAL INDICATION:  50 year old woman status post sigmoid colectomy.  Poor
+     oxygenation status post extubation.  IPF follow-up.
+     
+     A single AP semi-upright portable radiograph of the chest was obtained and
+     compared to the next-prior study of [**2991-9-25**].
+     
+     An NG tube remains in good position with its tip in the upper stomach.  The
+     overall heart size is within normal limits and is stable in appearance.  The
+     mediastinal and hilar contours also appear stable in appearance.  Again
+     identified is a diffuse interstitial and alveolar pattern of opacity involving
+     both right and left lungs.  There has been an interval increase in the
+     alveolar opacity involving the right middle lobe and possibly the right lower
+     lobe.  No pleural effusions are identified.
+     
+     IMPRESSION:
+     
+     1) Diffuse underlying interstitial and alveolar pattern of opacity.  This
+     appearance is consistent with idiopathic pulmonary fibrosis.  Prior
+     radiographs would be helpful to assess chronicity of this process.
+     
+     2) Interval increase in opacity involving the right middle lobe and possibly
+     the right lower lobe.  This finding raises the suspicion for overlying
+     infectious process at this location. 
+
+",,
+8025,21773,9992,0,2991-09-27 16:10:00 EST,2991-09-27 16:15:00 EST,3441,"N",54,"Nursing/Other","nsg progress note","
+nsg progress note
+up in chair all noc- return to bed am. small 50 cent pc decub on coccyx. duoderm on/air mattress started. inc rr/dec sats with activity. cont 40% hh face tent 4 l nasal [**Last Name (un) 369**]. tcdb with reminders. insent spir at bedside. alb nebs pr resp. clinda and levoflox dc this am. cont vanco- p/t done with 8 am dose. ceftriaxone started pr md. 
+",,
+8025,21773,9992,0,2991-09-28 12:10:00 EST,2991-09-28 12:41:00 EST,3423,"N",54,"Nursing/Other","TRANSFER NOTE","
+TRANSFER NOTE
+   PATIENT A 50 YO WOMEN WITH A 3D C/O OF ABD PAIN IN UPPER LLQ HISTORY OF DIARRHEA, INCREASING PAIN AND POSITIVE BLOODY STOOL.
+   HER PMX COLITIS,IDIOPATHIC PULMONARY HTN( AT HOME ON 02)2L,PULMON FIBROSIS, CHF,PUD .
+   PSX CCY, LUNG BX, R TIB & FIB REPAIR , TAH(85), RECTAL ABSCESS, AND MEDIASCOPY.
+    ALERGIES INCLUDE FLAGYL(EMESIS) BUT THEY STARTED HER ON IT ANYWAY.
+  HER STAY IN THE SICU AFTER SHE WAS EXTUBATED WAS COMPLICATED BY LARGE 02 DEMANDS. AT ONE POINT SHE HAD 6L NP ABD 100% NONREBREATHER AND WAS SATTING IN 80'S-90'S. BUT AFTER A LARGE DIURESIS(SHE TAKES LASIX AT HOME) SHE IS DOING BETTER. 
+   ON [**2991-9-22**] SHE HAD AN EXPLOROTORY LAP ? PERFORATION.  SHE HAD LAP LOA, COLECTOMY END COLOSTOMY AND HARTMANS POUCH. ET NURSES DOING POUCH CHGS STOMA WITH RETRACTION NOTED. ONLY BLOODY DRAINAGE NOTED IN BAG. ALSO NOTED TO HAVE ECOLI PNEUMONIA AND IS DEVELOPING A  SACRAL DECUB. U/O OK TEAM AWARE SHES BACK TO ALMOST HER DRY WEIGHT SO THE DC'D HER LASIX TODAY.  SHE HAS RIJ CVL PLACED [**9-24**]. SHE HAS NGT TO CILWS.
+ FOLEY PATENT YELLOW U/O. SHE IS REQUIRING 6LNP AND FACE SHOVEL 40%.
+MSO4 PCA [**3000-2-5**]. USING WELL.  INCISION OTA CLIPS INTACT. STOMA PINK NEG GAS, RETRACTION NTD.   VERY NICE WOMEN BUT CAN BECOME VERY ANXIOUS.    
+",,
+8025,21773,,,2991-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-1**] 12:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3994**]
+     Reason: Pt has sats of 88% on 6L. Placed on 100% non-rebreather sat 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with s/p sigmoid colectomy, idopathic pulmonary fibrosis,
+      Hartmans, colostomy s/p extubation with poor oxygenation. 
+     REASON FOR THIS EXAMINATION:
+      Pt has sats of 88% on 6L. Placed on 100% non-rebreather sat 92%. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of pulmonary fibrosis sigmoid colectomy and respiratory distress with
+     poor oxygenation.
+     
+     NG tube extends below diaphragm. CV line is in distal SVC. No pneumothorax.
+     Heart size is normal. There is diffuse bilateral reticular nodular pattern
+     consistent with interstitial pulmonary fibrosis.Focal ill-defined opacity in
+     the right lower zone could be related to  superadded pulmonary consolidation
+     but this is essentially unchanged since the prior film of [**2991-9-27**]. There is
+     linear atelectasis at the right base. No pneumothorax.
+     
+     IMPRESSION: No significant change since [**2991-9-27**]. Diffuse interstitial fibrosis
+     with  focal area of air space opacity consistent with superadded consolidation
+     right lower zone, unchanged.
+
+",,
+8025,21773,,,2991-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-1**] 10:09 AM
+     CT GUIDANCE DRAINAGE; CT LOC DRAINAGE                           Clip # [**Clip Number (Radiology) 3995**]
+     CT FINE NEEDLE ASP; CT PERITONEAL DRAINAGE
+     CT 150CC NONIONIC CONTRAST
+     Reason: PT HAS INCREASED WBC, AND ABD PAIN, R/O ABSCESS AND DRAIN IF ABLE TO
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with crohns s/p sigmoid resection for perfed divertic.
+      Now with increasing WBC despite appropriate abx. coverage for pneumonia
+     REASON FOR THIS EXAMINATION:
+      r/o abscess
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Crohn's disease, post sigmoid resection following perforation of
+     a diverticulum.  Now with elevated WBC despite antibiotic coverage.
+     
+     TECHNIQUE:  Initial helical axial images through the abdomen and pelvis were
+     performed following administration of 150 cc IV Optiray contrast and oral
+     contrast (patient has an allergy to multiple meds).  The patient was then
+     rescanned following instillation of dilute Conray into the urinary bladder.
+     After identification of the pelvic abscess, a drainage was performed as
+     described below.
+     
+     CT PELVIS WITH CONTRAST:  The patient is post sigmoid resection, with a
+     colostomy and a Hartmans fistula.  In the pelvis, anterior to the rectal
+     stump, between the cecum which has descended into the pelvis is a 3 x 8.5 cm
+     fluid collection with [**Doctor Last Name **] of 40 [**Doctor Last Name **].  There is enhancement of the wall of this
+     collection.  In addition there are two superficial low attenuation fluid
+     collections along the course of the abdominal wall incision.  These were
+     subsequently marked for aspiration by the surgical house staff on the floor.
+     
+     The urinary bladder was filled with contrast and is normal and does not
+     communicate with the collection.  The cecum has descended into the pelvis
+     following patient's hysterectomy.  The remainder of the visualized bowel is
+     normal.  No abnormalities are seen within the liver, pancreas or spleen. There
+     is mild fullness of the right renal collecting system and the right ureter.
+     The kidneys are otherwise unremarkable.  Both adrenal glands are normal. There
+     is extensive fibrosis of both lower lung bases consistent with the patient's
+     known diagnostic idiopathic pulmonary fibrosis.
+     
+     CT GUIDANCE:  In discussion with the surgical house staff on the patient,
+     decision was made to drain the pelvic collection.  Informed written consent
+     was obtained.  Standard sterile technique was used.  The patient was placed in
+     a left side down decubitus position and the position of the abscess was
+     confirmed by rescanning.  1% Lidocaine was used for local anesthetic with
+     bicarbonate.  Versed was administered IV by the surgical house staff for
+     sedation under direct vital sign monitoring.
+     
+     A 20 gauge spinal needle was used as a guidance.  Using CT fluoroscopy, a 10
+     French pig-tail catheter was advanced into the pelvic fluid collection.  Its
+     location was confirmed by CT fluoroscopy.  Purulent fluid was aspirated and
+     the pig-tail was then formed.
+                                                                 (Over)
+
+     DATE: [**2991-10-1**] 10:09 AM
+     CT GUIDANCE DRAINAGE; CT LOC DRAINAGE                           Clip # [**Clip Number (Radiology) 3995**]
+     CT FINE NEEDLE ASP; CT PERITONEAL DRAINAGE
+     CT 150CC NONIONIC CONTRAST
+     Reason: PT HAS INCREASED WBC, AND ABD PAIN, R/O ABSCESS AND DRAIN IF ABLE TO
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Post procedure scanning confirms the position of the catheter within the
+     abscess cavity with near-complete collapse of the collection.  The material
+     was sent for microbiology.
+     
+     IMPRESSION:  Successful CT guided drainage and catheter placement of a pelvic
+     abscess following sigmoid resection for perforation.  Two superficial
+     collections along the incision were marked for bedside aspiration by the
+     surgical house staff.
+     
+
+",,
+8025,21773,,,2991-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-1**] 10:09 AM
+     CT GUIDANCE DRAINAGE; CT LOC DRAINAGE                           Clip # [**Clip Number (Radiology) 3995**]
+     CT FINE NEEDLE ASP; CT PERITONEAL DRAINAGE
+     CT 150CC NONIONIC CONTRAST
+     Reason: PT HAS INCREASED WBC, AND ABD PAIN, R/O ABSCESS AND DRAIN IF ABLE TO
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with crohns s/p sigmoid resection for perfed divertic.
+      Now with increasing WBC despite appropriate abx. coverage for pneumonia
+     REASON FOR THIS EXAMINATION:
+      r/o abscess
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Crohn's disease, post sigmoid resection following perforation of
+     a diverticulum.  Now with elevated WBC despite antibiotic coverage.
+     
+     TECHNIQUE:  Initial helical axial images through the abdomen and pelvis were
+     performed following administration of 150 cc IV Optiray contrast and oral
+     contrast (patient has an allergy to multiple meds).  The patient was then
+     rescanned following instillation of dilute Conray into the urinary bladder.
+     After identification of the pelvic abscess, a drainage was performed as
+     described below.
+     
+     CT PELVIS WITH CONTRAST:  The patient is post sigmoid resection, with a
+     colostomy and a Hartmans fistula.  In the pelvis, anterior to the rectal
+     stump, between the cecum which has descended into the pelvis is a 3 x 8.5 cm
+     fluid collection with [**Doctor Last Name **] of 40 [**Doctor Last Name **].  There is enhancement of the wall of this
+     collection.  In addition there are two superficial low attenuation fluid
+     collections along the course of the abdominal wall incision.  These were
+     subsequently marked for aspiration by the surgical house staff on the floor.
+     
+     The urinary bladder was filled with contrast and is normal and does not
+     communicate with the collection.  The cecum has descended into the pelvis
+     following patient's hysterectomy.  The remainder of the visualized bowel is
+     normal.  No abnormalities are seen within the liver, pancreas or spleen. There
+     is mild fullness of the right renal collecting system and the right ureter.
+     The kidneys are otherwise unremarkable.  Both adrenal glands are normal. There
+     is extensive fibrosis of both lower lung bases consistent with the patient's
+     known diagnostic idiopathic pulmonary fibrosis.
+     
+     CT GUIDANCE:  In discussion with the surgical house staff on the patient,
+     decision was made to drain the pelvic collection.  Informed written consent
+     was obtained.  Standard sterile technique was used.  The patient was placed in
+     a left side down decubitus position and the position of the abscess was
+     confirmed by rescanning.  1% Lidocaine was used for local anesthetic with
+     bicarbonate.  Versed was administered IV by the surgical house staff for
+     sedation under direct vital sign monitoring.
+     
+     A 20 gauge spinal needle was used as a guidance.  Using CT fluoroscopy, a 10
+     French pig-tail catheter was advanced into the pelvic fluid collection.  Its
+     location was confirmed by CT fluoroscopy.  Purulent fluid was aspirated and
+     the pig-tail was then formed.
+                                                                 (Over)
+
+     DATE: [**2991-10-1**] 10:09 AM
+     CT GUIDANCE DRAINAGE; CT LOC DRAINAGE                           Clip # [**Clip Number (Radiology) 3995**]
+     CT FINE NEEDLE ASP; CT PERITONEAL DRAINAGE
+     CT 150CC NONIONIC CONTRAST
+     Reason: PT HAS INCREASED WBC, AND ABD PAIN, R/O ABSCESS AND DRAIN IF ABLE TO
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Post procedure scanning confirms the position of the catheter within the
+     abscess cavity with near-complete collapse of the collection.  The material
+     was sent for microbiology.
+     
+     IMPRESSION:  Successful CT guided drainage and catheter placement of a pelvic
+     abscess following sigmoid resection for perforation.  Two superficial
+     collections along the incision were marked for bedside aspiration by the
+     surgical house staff.
+     
+
+",,
+8025,21773,,,2991-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-1**] 10:09 AM
+     CT GUIDANCE DRAINAGE; CT LOC DRAINAGE                           Clip # [**Clip Number (Radiology) 3995**]
+     CT FINE NEEDLE ASP; CT PERITONEAL DRAINAGE
+     CT 150CC NONIONIC CONTRAST
+     Reason: PT HAS INCREASED WBC, AND ABD PAIN, R/O ABSCESS AND DRAIN IF ABLE TO
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with crohns s/p sigmoid resection for perfed divertic.
+      Now with increasing WBC despite appropriate abx. coverage for pneumonia
+     REASON FOR THIS EXAMINATION:
+      r/o abscess
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Crohn's disease, post sigmoid resection following perforation of
+     a diverticulum.  Now with elevated WBC despite antibiotic coverage.
+     
+     TECHNIQUE:  Initial helical axial images through the abdomen and pelvis were
+     performed following administration of 150 cc IV Optiray contrast and oral
+     contrast (patient has an allergy to multiple meds).  The patient was then
+     rescanned following instillation of dilute Conray into the urinary bladder.
+     After identification of the pelvic abscess, a drainage was performed as
+     described below.
+     
+     CT PELVIS WITH CONTRAST:  The patient is post sigmoid resection, with a
+     colostomy and a Hartmans fistula.  In the pelvis, anterior to the rectal
+     stump, between the cecum which has descended into the pelvis is a 3 x 8.5 cm
+     fluid collection with [**Doctor Last Name **] of 40 [**Doctor Last Name **].  There is enhancement of the wall of this
+     collection.  In addition there are two superficial low attenuation fluid
+     collections along the course of the abdominal wall incision.  These were
+     subsequently marked for aspiration by the surgical house staff on the floor.
+     
+     The urinary bladder was filled with contrast and is normal and does not
+     communicate with the collection.  The cecum has descended into the pelvis
+     following patient's hysterectomy.  The remainder of the visualized bowel is
+     normal.  No abnormalities are seen within the liver, pancreas or spleen. There
+     is mild fullness of the right renal collecting system and the right ureter.
+     The kidneys are otherwise unremarkable.  Both adrenal glands are normal. There
+     is extensive fibrosis of both lower lung bases consistent with the patient's
+     known diagnostic idiopathic pulmonary fibrosis.
+     
+     CT GUIDANCE:  In discussion with the surgical house staff on the patient,
+     decision was made to drain the pelvic collection.  Informed written consent
+     was obtained.  Standard sterile technique was used.  The patient was placed in
+     a left side down decubitus position and the position of the abscess was
+     confirmed by rescanning.  1% Lidocaine was used for local anesthetic with
+     bicarbonate.  Versed was administered IV by the surgical house staff for
+     sedation under direct vital sign monitoring.
+     
+     A 20 gauge spinal needle was used as a guidance.  Using CT fluoroscopy, a 10
+     French pig-tail catheter was advanced into the pelvic fluid collection.  Its
+     location was confirmed by CT fluoroscopy.  Purulent fluid was aspirated and
+     the pig-tail was then formed.
+                                                                 (Over)
+
+     DATE: [**2991-10-1**] 10:09 AM
+     CT GUIDANCE DRAINAGE; CT LOC DRAINAGE                           Clip # [**Clip Number (Radiology) 3995**]
+     CT FINE NEEDLE ASP; CT PERITONEAL DRAINAGE
+     CT 150CC NONIONIC CONTRAST
+     Reason: PT HAS INCREASED WBC, AND ABD PAIN, R/O ABSCESS AND DRAIN IF ABLE TO
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Post procedure scanning confirms the position of the catheter within the
+     abscess cavity with near-complete collapse of the collection.  The material
+     was sent for microbiology.
+     
+     IMPRESSION:  Successful CT guided drainage and catheter placement of a pelvic
+     abscess following sigmoid resection for perforation.  Two superficial
+     collections along the incision were marked for bedside aspiration by the
+     surgical house staff.
+     
+
+",,
+8025,21773,,,2991-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-1**] 10:09 AM
+     CT GUIDANCE DRAINAGE; CT LOC DRAINAGE                           Clip # [**Clip Number (Radiology) 3995**]
+     CT FINE NEEDLE ASP; CT PERITONEAL DRAINAGE
+     CT 150CC NONIONIC CONTRAST
+     Reason: PT HAS INCREASED WBC, AND ABD PAIN, R/O ABSCESS AND DRAIN IF ABLE TO
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with crohns s/p sigmoid resection for perfed divertic.
+      Now with increasing WBC despite appropriate abx. coverage for pneumonia
+     REASON FOR THIS EXAMINATION:
+      r/o abscess
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Crohn's disease, post sigmoid resection following perforation of
+     a diverticulum.  Now with elevated WBC despite antibiotic coverage.
+     
+     TECHNIQUE:  Initial helical axial images through the abdomen and pelvis were
+     performed following administration of 150 cc IV Optiray contrast and oral
+     contrast (patient has an allergy to multiple meds).  The patient was then
+     rescanned following instillation of dilute Conray into the urinary bladder.
+     After identification of the pelvic abscess, a drainage was performed as
+     described below.
+     
+     CT PELVIS WITH CONTRAST:  The patient is post sigmoid resection, with a
+     colostomy and a Hartmans fistula.  In the pelvis, anterior to the rectal
+     stump, between the cecum which has descended into the pelvis is a 3 x 8.5 cm
+     fluid collection with [**Doctor Last Name **] of 40 [**Doctor Last Name **].  There is enhancement of the wall of this
+     collection.  In addition there are two superficial low attenuation fluid
+     collections along the course of the abdominal wall incision.  These were
+     subsequently marked for aspiration by the surgical house staff on the floor.
+     
+     The urinary bladder was filled with contrast and is normal and does not
+     communicate with the collection.  The cecum has descended into the pelvis
+     following patient's hysterectomy.  The remainder of the visualized bowel is
+     normal.  No abnormalities are seen within the liver, pancreas or spleen. There
+     is mild fullness of the right renal collecting system and the right ureter.
+     The kidneys are otherwise unremarkable.  Both adrenal glands are normal. There
+     is extensive fibrosis of both lower lung bases consistent with the patient's
+     known diagnostic idiopathic pulmonary fibrosis.
+     
+     CT GUIDANCE:  In discussion with the surgical house staff on the patient,
+     decision was made to drain the pelvic collection.  Informed written consent
+     was obtained.  Standard sterile technique was used.  The patient was placed in
+     a left side down decubitus position and the position of the abscess was
+     confirmed by rescanning.  1% Lidocaine was used for local anesthetic with
+     bicarbonate.  Versed was administered IV by the surgical house staff for
+     sedation under direct vital sign monitoring.
+     
+     A 20 gauge spinal needle was used as a guidance.  Using CT fluoroscopy, a 10
+     French pig-tail catheter was advanced into the pelvic fluid collection.  Its
+     location was confirmed by CT fluoroscopy.  Purulent fluid was aspirated and
+     the pig-tail was then formed.
+                                                                 (Over)
+
+     DATE: [**2991-10-1**] 10:09 AM
+     CT GUIDANCE DRAINAGE; CT LOC DRAINAGE                           Clip # [**Clip Number (Radiology) 3995**]
+     CT FINE NEEDLE ASP; CT PERITONEAL DRAINAGE
+     CT 150CC NONIONIC CONTRAST
+     Reason: PT HAS INCREASED WBC, AND ABD PAIN, R/O ABSCESS AND DRAIN IF ABLE TO
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Post procedure scanning confirms the position of the catheter within the
+     abscess cavity with near-complete collapse of the collection.  The material
+     was sent for microbiology.
+     
+     IMPRESSION:  Successful CT guided drainage and catheter placement of a pelvic
+     abscess following sigmoid resection for perforation.  Two superficial
+     collections along the incision were marked for bedside aspiration by the
+     surgical house staff.
+     
+
+",,
+8025,21773,,,2991-10-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-1**] 10:09 AM
+     CT GUIDANCE DRAINAGE; CT LOC DRAINAGE                           Clip # [**Clip Number (Radiology) 3995**]
+     CT FINE NEEDLE ASP; CT PERITONEAL DRAINAGE
+     CT 150CC NONIONIC CONTRAST
+     Reason: PT HAS INCREASED WBC, AND ABD PAIN, R/O ABSCESS AND DRAIN IF ABLE TO
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with crohns s/p sigmoid resection for perfed divertic.
+      Now with increasing WBC despite appropriate abx. coverage for pneumonia
+     REASON FOR THIS EXAMINATION:
+      r/o abscess
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Crohn's disease, post sigmoid resection following perforation of
+     a diverticulum.  Now with elevated WBC despite antibiotic coverage.
+     
+     TECHNIQUE:  Initial helical axial images through the abdomen and pelvis were
+     performed following administration of 150 cc IV Optiray contrast and oral
+     contrast (patient has an allergy to multiple meds).  The patient was then
+     rescanned following instillation of dilute Conray into the urinary bladder.
+     After identification of the pelvic abscess, a drainage was performed as
+     described below.
+     
+     CT PELVIS WITH CONTRAST:  The patient is post sigmoid resection, with a
+     colostomy and a Hartmans fistula.  In the pelvis, anterior to the rectal
+     stump, between the cecum which has descended into the pelvis is a 3 x 8.5 cm
+     fluid collection with [**Doctor Last Name **] of 40 [**Doctor Last Name **].  There is enhancement of the wall of this
+     collection.  In addition there are two superficial low attenuation fluid
+     collections along the course of the abdominal wall incision.  These were
+     subsequently marked for aspiration by the surgical house staff on the floor.
+     
+     The urinary bladder was filled with contrast and is normal and does not
+     communicate with the collection.  The cecum has descended into the pelvis
+     following patient's hysterectomy.  The remainder of the visualized bowel is
+     normal.  No abnormalities are seen within the liver, pancreas or spleen. There
+     is mild fullness of the right renal collecting system and the right ureter.
+     The kidneys are otherwise unremarkable.  Both adrenal glands are normal. There
+     is extensive fibrosis of both lower lung bases consistent with the patient's
+     known diagnostic idiopathic pulmonary fibrosis.
+     
+     CT GUIDANCE:  In discussion with the surgical house staff on the patient,
+     decision was made to drain the pelvic collection.  Informed written consent
+     was obtained.  Standard sterile technique was used.  The patient was placed in
+     a left side down decubitus position and the position of the abscess was
+     confirmed by rescanning.  1% Lidocaine was used for local anesthetic with
+     bicarbonate.  Versed was administered IV by the surgical house staff for
+     sedation under direct vital sign monitoring.
+     
+     A 20 gauge spinal needle was used as a guidance.  Using CT fluoroscopy, a 10
+     French pig-tail catheter was advanced into the pelvic fluid collection.  Its
+     location was confirmed by CT fluoroscopy.  Purulent fluid was aspirated and
+     the pig-tail was then formed.
+                                                                 (Over)
+
+     DATE: [**2991-10-1**] 10:09 AM
+     CT GUIDANCE DRAINAGE; CT LOC DRAINAGE                           Clip # [**Clip Number (Radiology) 3995**]
+     CT FINE NEEDLE ASP; CT PERITONEAL DRAINAGE
+     CT 150CC NONIONIC CONTRAST
+     Reason: PT HAS INCREASED WBC, AND ABD PAIN, R/O ABSCESS AND DRAIN IF ABLE TO
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Post procedure scanning confirms the position of the catheter within the
+     abscess cavity with near-complete collapse of the collection.  The material
+     was sent for microbiology.
+     
+     IMPRESSION:  Successful CT guided drainage and catheter placement of a pelvic
+     abscess following sigmoid resection for perforation.  Two superficial
+     collections along the incision were marked for bedside aspiration by the
+     surgical house staff.
+     
+
+",,
+8025,21773,,,2991-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-4**] 1:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3996**]
+     Reason: look for failure or infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with s/p sigmoid colectomy, idopathic pulmonary fibrosis,
+      Hartmans, colostomy s/p extubation with worsening oxygenation and chest pain. 
+     REASON FOR THIS EXAMINATION:
+      look for failure or infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM:
+     
+     History of sigmoid colectomy, pulmonary fibrosis and worsening respiratory
+     distress with chest pain.
+     
+     CV line is in distal SVC.  No pneumothorax.  There is diffuse bilateral
+     reticular nodular pattern consistent with diffuse interstitial fibrosis.
+     Focal ill-defined area of more confluent opacity in right lower zone
+     unchanged.  No pneumothorax and no evidence for new pneumonia.
+     
+     IMPRESSION:  Diffuse interstitial fibrosis without change since prior film of
+     [**2991-10-1**].  No evidence for new pneumonia.
+
+",,
+8025,21773,,,2991-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-4**] 1:31 PM
+     CHEST CTA WITH CONTRAST; CT ABDOMEN W/CONTRAST                  Clip # [**Clip Number (Radiology) 3997**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT FINE NEEDLE ASP
+     Reason: r/o PE, Please evaluate prior fluid collection, Please evalu
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with persistent respiratory distress, periodic desaturation
+      to mid 80's, 12 days out from sigmoid resection
+     REASON FOR THIS EXAMINATION:
+      r/o PE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  pulmonary fibrosis.  Pelvic fluid collection was drained on
+     [**2991-10-1**]; evaluate for residual fluid collection.
+     
+     TECHNIQUE:  Helical scanning of the chest was performed with the chest CTA
+     protocol after administration of 100 cc Optiray.  Helical scanning was then
+     performed through the abdomen and pelvis.  Multiplanar reconstructions of the
+     chest were performed.
+     
+     CHEST CT WITH CONTRAST:  There are multiple enlarged mediastinal and
+     subcarinal lymph nodes, which measure between 1-2 cm in the short axis.  There
+     is no axillary or hilar adenopathy.  There is diffuse thickening of the
+     interlobular septae of both lungs associated with multifocal areas of ground-
+     glass opacity.  There are no plueral or pericardial effusions.  Heart size is
+     upper normal.  The main pulmonary trunk has a diameter of 4.6 cm, suggestive
+     of pulmonary artery hypertension. The trachea and segmental bronchi are
+     patent.  There is slightly more focal consolidation in the medial portion of
+     the right lower lobe.
+     
+     No destructive lytic or blastic lesions are seen in the osseous structures of
+     the torso.
+     
+     ABDOMEN CT WITH CONTRAST:  No abnormality is seen in the liver, pancreas,
+     spleen, adrenals or kidneys.  The gallbladder is not visualized.  There is no
+     adenopathy in the mesentery or retroperitoneum.
+     
+     PELVIS CT WITH CONTRAST:  The opacified loops of small bowel and colon are
+     normal.  There is no extravasation of oral contrast.  The kidneys show
+     symmetric nephrograms and excretion. The visualized ureters have normal
+     diameter.  The bladder is collapsed around the Foley catheter.
+     
+     The posterior pelvic fluid collection is smaller than on [**2991-10-1**].  The pigtail
+     of the drainage catheter is in good position within the fluid collection.
+     
+     The anterior subcutaneous fluid collection in the midline of the abdomen has
+     resolved post incision and drainage. There is a large open wound in the
+     midline of the lower abdomen with air in the subcutaneous tissues.  Oral
+     contrast has passed into the ostomy bag overlying the left lower quadrant.
+     There are no new fluid collections in the abdomen or pelvis.
+     
+                                                                 (Over)
+
+     DATE: [**2991-10-4**] 1:31 PM
+     CHEST CTA WITH CONTRAST; CT ABDOMEN W/CONTRAST                  Clip # [**Clip Number (Radiology) 3997**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT FINE NEEDLE ASP
+     Reason: r/o PE, Please evaluate prior fluid collection, Please evalu
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     On further inspection of the drainage tube, it was clogged with thick purulent
+     fluid.  Approximately 20 cc of pus was aspirated from the tube.  It was then
+     irrigated with 50 cc normal saline.  Orders were written to flush the catheter
+     three times a day.
+     
+     RECONSTRUCTIONS:  There are no filling defects in the opacified pulmonary
+     arterial vessels.
+     
+     IMPRESSION:
+     
+     1. The pigtail drainage catheter is in good position within the posterior
+     pelvic fluid collection.  This fluid collection is smaller than on [**2991-10-1**]. The
+     catheter was aspirated and irrigated and orders were written to flush the
+     catheter three times a day.
+     
+     2. There are no new fluid collections in the abdomen or pelvis.  Oral contrast
+     reached the ostomy bag with no evidence of extravasation.
+     
+     3. Diffuse interstitial disease in the lung with multifocal ground-glass
+     opacity is consistent with the known history of pulmonary fibrosis.  There
+     could be superimposed pulmonary edema and/or an interstitial infection.
+     
+     4. No evidence of pulmonary embolus.
+
+",,
+8025,21773,,,2991-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-4**] 1:31 PM
+     CHEST CTA WITH CONTRAST; CT ABDOMEN W/CONTRAST                  Clip # [**Clip Number (Radiology) 3997**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT FINE NEEDLE ASP
+     Reason: r/o PE, Please evaluate prior fluid collection, Please evalu
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with persistent respiratory distress, periodic desaturation
+      to mid 80's, 12 days out from sigmoid resection
+     REASON FOR THIS EXAMINATION:
+      r/o PE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  pulmonary fibrosis.  Pelvic fluid collection was drained on
+     [**2991-10-1**]; evaluate for residual fluid collection.
+     
+     TECHNIQUE:  Helical scanning of the chest was performed with the chest CTA
+     protocol after administration of 100 cc Optiray.  Helical scanning was then
+     performed through the abdomen and pelvis.  Multiplanar reconstructions of the
+     chest were performed.
+     
+     CHEST CT WITH CONTRAST:  There are multiple enlarged mediastinal and
+     subcarinal lymph nodes, which measure between 1-2 cm in the short axis.  There
+     is no axillary or hilar adenopathy.  There is diffuse thickening of the
+     interlobular septae of both lungs associated with multifocal areas of ground-
+     glass opacity.  There are no plueral or pericardial effusions.  Heart size is
+     upper normal.  The main pulmonary trunk has a diameter of 4.6 cm, suggestive
+     of pulmonary artery hypertension. The trachea and segmental bronchi are
+     patent.  There is slightly more focal consolidation in the medial portion of
+     the right lower lobe.
+     
+     No destructive lytic or blastic lesions are seen in the osseous structures of
+     the torso.
+     
+     ABDOMEN CT WITH CONTRAST:  No abnormality is seen in the liver, pancreas,
+     spleen, adrenals or kidneys.  The gallbladder is not visualized.  There is no
+     adenopathy in the mesentery or retroperitoneum.
+     
+     PELVIS CT WITH CONTRAST:  The opacified loops of small bowel and colon are
+     normal.  There is no extravasation of oral contrast.  The kidneys show
+     symmetric nephrograms and excretion. The visualized ureters have normal
+     diameter.  The bladder is collapsed around the Foley catheter.
+     
+     The posterior pelvic fluid collection is smaller than on [**2991-10-1**].  The pigtail
+     of the drainage catheter is in good position within the fluid collection.
+     
+     The anterior subcutaneous fluid collection in the midline of the abdomen has
+     resolved post incision and drainage. There is a large open wound in the
+     midline of the lower abdomen with air in the subcutaneous tissues.  Oral
+     contrast has passed into the ostomy bag overlying the left lower quadrant.
+     There are no new fluid collections in the abdomen or pelvis.
+     
+                                                                 (Over)
+
+     DATE: [**2991-10-4**] 1:31 PM
+     CHEST CTA WITH CONTRAST; CT ABDOMEN W/CONTRAST                  Clip # [**Clip Number (Radiology) 3997**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT FINE NEEDLE ASP
+     Reason: r/o PE, Please evaluate prior fluid collection, Please evalu
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     On further inspection of the drainage tube, it was clogged with thick purulent
+     fluid.  Approximately 20 cc of pus was aspirated from the tube.  It was then
+     irrigated with 50 cc normal saline.  Orders were written to flush the catheter
+     three times a day.
+     
+     RECONSTRUCTIONS:  There are no filling defects in the opacified pulmonary
+     arterial vessels.
+     
+     IMPRESSION:
+     
+     1. The pigtail drainage catheter is in good position within the posterior
+     pelvic fluid collection.  This fluid collection is smaller than on [**2991-10-1**]. The
+     catheter was aspirated and irrigated and orders were written to flush the
+     catheter three times a day.
+     
+     2. There are no new fluid collections in the abdomen or pelvis.  Oral contrast
+     reached the ostomy bag with no evidence of extravasation.
+     
+     3. Diffuse interstitial disease in the lung with multifocal ground-glass
+     opacity is consistent with the known history of pulmonary fibrosis.  There
+     could be superimposed pulmonary edema and/or an interstitial infection.
+     
+     4. No evidence of pulmonary embolus.
+
+",,
+8025,21773,,,2991-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-4**] 1:31 PM
+     CHEST CTA WITH CONTRAST; CT ABDOMEN W/CONTRAST                  Clip # [**Clip Number (Radiology) 3997**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT FINE NEEDLE ASP
+     Reason: r/o PE, Please evaluate prior fluid collection, Please evalu
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with persistent respiratory distress, periodic desaturation
+      to mid 80's, 12 days out from sigmoid resection
+     REASON FOR THIS EXAMINATION:
+      r/o PE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  pulmonary fibrosis.  Pelvic fluid collection was drained on
+     [**2991-10-1**]; evaluate for residual fluid collection.
+     
+     TECHNIQUE:  Helical scanning of the chest was performed with the chest CTA
+     protocol after administration of 100 cc Optiray.  Helical scanning was then
+     performed through the abdomen and pelvis.  Multiplanar reconstructions of the
+     chest were performed.
+     
+     CHEST CT WITH CONTRAST:  There are multiple enlarged mediastinal and
+     subcarinal lymph nodes, which measure between 1-2 cm in the short axis.  There
+     is no axillary or hilar adenopathy.  There is diffuse thickening of the
+     interlobular septae of both lungs associated with multifocal areas of ground-
+     glass opacity.  There are no plueral or pericardial effusions.  Heart size is
+     upper normal.  The main pulmonary trunk has a diameter of 4.6 cm, suggestive
+     of pulmonary artery hypertension. The trachea and segmental bronchi are
+     patent.  There is slightly more focal consolidation in the medial portion of
+     the right lower lobe.
+     
+     No destructive lytic or blastic lesions are seen in the osseous structures of
+     the torso.
+     
+     ABDOMEN CT WITH CONTRAST:  No abnormality is seen in the liver, pancreas,
+     spleen, adrenals or kidneys.  The gallbladder is not visualized.  There is no
+     adenopathy in the mesentery or retroperitoneum.
+     
+     PELVIS CT WITH CONTRAST:  The opacified loops of small bowel and colon are
+     normal.  There is no extravasation of oral contrast.  The kidneys show
+     symmetric nephrograms and excretion. The visualized ureters have normal
+     diameter.  The bladder is collapsed around the Foley catheter.
+     
+     The posterior pelvic fluid collection is smaller than on [**2991-10-1**].  The pigtail
+     of the drainage catheter is in good position within the fluid collection.
+     
+     The anterior subcutaneous fluid collection in the midline of the abdomen has
+     resolved post incision and drainage. There is a large open wound in the
+     midline of the lower abdomen with air in the subcutaneous tissues.  Oral
+     contrast has passed into the ostomy bag overlying the left lower quadrant.
+     There are no new fluid collections in the abdomen or pelvis.
+     
+                                                                 (Over)
+
+     DATE: [**2991-10-4**] 1:31 PM
+     CHEST CTA WITH CONTRAST; CT ABDOMEN W/CONTRAST                  Clip # [**Clip Number (Radiology) 3997**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT FINE NEEDLE ASP
+     Reason: r/o PE, Please evaluate prior fluid collection, Please evalu
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     On further inspection of the drainage tube, it was clogged with thick purulent
+     fluid.  Approximately 20 cc of pus was aspirated from the tube.  It was then
+     irrigated with 50 cc normal saline.  Orders were written to flush the catheter
+     three times a day.
+     
+     RECONSTRUCTIONS:  There are no filling defects in the opacified pulmonary
+     arterial vessels.
+     
+     IMPRESSION:
+     
+     1. The pigtail drainage catheter is in good position within the posterior
+     pelvic fluid collection.  This fluid collection is smaller than on [**2991-10-1**]. The
+     catheter was aspirated and irrigated and orders were written to flush the
+     catheter three times a day.
+     
+     2. There are no new fluid collections in the abdomen or pelvis.  Oral contrast
+     reached the ostomy bag with no evidence of extravasation.
+     
+     3. Diffuse interstitial disease in the lung with multifocal ground-glass
+     opacity is consistent with the known history of pulmonary fibrosis.  There
+     could be superimposed pulmonary edema and/or an interstitial infection.
+     
+     4. No evidence of pulmonary embolus.
+
+",,
+8025,21773,,,2991-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-4**] 1:31 PM
+     CHEST CTA WITH CONTRAST; CT ABDOMEN W/CONTRAST                  Clip # [**Clip Number (Radiology) 3997**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT FINE NEEDLE ASP
+     Reason: r/o PE, Please evaluate prior fluid collection, Please evalu
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with persistent respiratory distress, periodic desaturation
+      to mid 80's, 12 days out from sigmoid resection
+     REASON FOR THIS EXAMINATION:
+      r/o PE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  pulmonary fibrosis.  Pelvic fluid collection was drained on
+     [**2991-10-1**]; evaluate for residual fluid collection.
+     
+     TECHNIQUE:  Helical scanning of the chest was performed with the chest CTA
+     protocol after administration of 100 cc Optiray.  Helical scanning was then
+     performed through the abdomen and pelvis.  Multiplanar reconstructions of the
+     chest were performed.
+     
+     CHEST CT WITH CONTRAST:  There are multiple enlarged mediastinal and
+     subcarinal lymph nodes, which measure between 1-2 cm in the short axis.  There
+     is no axillary or hilar adenopathy.  There is diffuse thickening of the
+     interlobular septae of both lungs associated with multifocal areas of ground-
+     glass opacity.  There are no plueral or pericardial effusions.  Heart size is
+     upper normal.  The main pulmonary trunk has a diameter of 4.6 cm, suggestive
+     of pulmonary artery hypertension. The trachea and segmental bronchi are
+     patent.  There is slightly more focal consolidation in the medial portion of
+     the right lower lobe.
+     
+     No destructive lytic or blastic lesions are seen in the osseous structures of
+     the torso.
+     
+     ABDOMEN CT WITH CONTRAST:  No abnormality is seen in the liver, pancreas,
+     spleen, adrenals or kidneys.  The gallbladder is not visualized.  There is no
+     adenopathy in the mesentery or retroperitoneum.
+     
+     PELVIS CT WITH CONTRAST:  The opacified loops of small bowel and colon are
+     normal.  There is no extravasation of oral contrast.  The kidneys show
+     symmetric nephrograms and excretion. The visualized ureters have normal
+     diameter.  The bladder is collapsed around the Foley catheter.
+     
+     The posterior pelvic fluid collection is smaller than on [**2991-10-1**].  The pigtail
+     of the drainage catheter is in good position within the fluid collection.
+     
+     The anterior subcutaneous fluid collection in the midline of the abdomen has
+     resolved post incision and drainage. There is a large open wound in the
+     midline of the lower abdomen with air in the subcutaneous tissues.  Oral
+     contrast has passed into the ostomy bag overlying the left lower quadrant.
+     There are no new fluid collections in the abdomen or pelvis.
+     
+                                                                 (Over)
+
+     DATE: [**2991-10-4**] 1:31 PM
+     CHEST CTA WITH CONTRAST; CT ABDOMEN W/CONTRAST                  Clip # [**Clip Number (Radiology) 3997**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT FINE NEEDLE ASP
+     Reason: r/o PE, Please evaluate prior fluid collection, Please evalu
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     On further inspection of the drainage tube, it was clogged with thick purulent
+     fluid.  Approximately 20 cc of pus was aspirated from the tube.  It was then
+     irrigated with 50 cc normal saline.  Orders were written to flush the catheter
+     three times a day.
+     
+     RECONSTRUCTIONS:  There are no filling defects in the opacified pulmonary
+     arterial vessels.
+     
+     IMPRESSION:
+     
+     1. The pigtail drainage catheter is in good position within the posterior
+     pelvic fluid collection.  This fluid collection is smaller than on [**2991-10-1**]. The
+     catheter was aspirated and irrigated and orders were written to flush the
+     catheter three times a day.
+     
+     2. There are no new fluid collections in the abdomen or pelvis.  Oral contrast
+     reached the ostomy bag with no evidence of extravasation.
+     
+     3. Diffuse interstitial disease in the lung with multifocal ground-glass
+     opacity is consistent with the known history of pulmonary fibrosis.  There
+     could be superimposed pulmonary edema and/or an interstitial infection.
+     
+     4. No evidence of pulmonary embolus.
+
+",,
+8025,21773,,,2991-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-4**] 1:31 PM
+     CHEST CTA WITH CONTRAST; CT ABDOMEN W/CONTRAST                  Clip # [**Clip Number (Radiology) 3997**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT FINE NEEDLE ASP
+     Reason: r/o PE, Please evaluate prior fluid collection, Please evalu
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with persistent respiratory distress, periodic desaturation
+      to mid 80's, 12 days out from sigmoid resection
+     REASON FOR THIS EXAMINATION:
+      r/o PE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  pulmonary fibrosis.  Pelvic fluid collection was drained on
+     [**2991-10-1**]; evaluate for residual fluid collection.
+     
+     TECHNIQUE:  Helical scanning of the chest was performed with the chest CTA
+     protocol after administration of 100 cc Optiray.  Helical scanning was then
+     performed through the abdomen and pelvis.  Multiplanar reconstructions of the
+     chest were performed.
+     
+     CHEST CT WITH CONTRAST:  There are multiple enlarged mediastinal and
+     subcarinal lymph nodes, which measure between 1-2 cm in the short axis.  There
+     is no axillary or hilar adenopathy.  There is diffuse thickening of the
+     interlobular septae of both lungs associated with multifocal areas of ground-
+     glass opacity.  There are no plueral or pericardial effusions.  Heart size is
+     upper normal.  The main pulmonary trunk has a diameter of 4.6 cm, suggestive
+     of pulmonary artery hypertension. The trachea and segmental bronchi are
+     patent.  There is slightly more focal consolidation in the medial portion of
+     the right lower lobe.
+     
+     No destructive lytic or blastic lesions are seen in the osseous structures of
+     the torso.
+     
+     ABDOMEN CT WITH CONTRAST:  No abnormality is seen in the liver, pancreas,
+     spleen, adrenals or kidneys.  The gallbladder is not visualized.  There is no
+     adenopathy in the mesentery or retroperitoneum.
+     
+     PELVIS CT WITH CONTRAST:  The opacified loops of small bowel and colon are
+     normal.  There is no extravasation of oral contrast.  The kidneys show
+     symmetric nephrograms and excretion. The visualized ureters have normal
+     diameter.  The bladder is collapsed around the Foley catheter.
+     
+     The posterior pelvic fluid collection is smaller than on [**2991-10-1**].  The pigtail
+     of the drainage catheter is in good position within the fluid collection.
+     
+     The anterior subcutaneous fluid collection in the midline of the abdomen has
+     resolved post incision and drainage. There is a large open wound in the
+     midline of the lower abdomen with air in the subcutaneous tissues.  Oral
+     contrast has passed into the ostomy bag overlying the left lower quadrant.
+     There are no new fluid collections in the abdomen or pelvis.
+     
+                                                                 (Over)
+
+     DATE: [**2991-10-4**] 1:31 PM
+     CHEST CTA WITH CONTRAST; CT ABDOMEN W/CONTRAST                  Clip # [**Clip Number (Radiology) 3997**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT FINE NEEDLE ASP
+     Reason: r/o PE, Please evaluate prior fluid collection, Please evalu
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     On further inspection of the drainage tube, it was clogged with thick purulent
+     fluid.  Approximately 20 cc of pus was aspirated from the tube.  It was then
+     irrigated with 50 cc normal saline.  Orders were written to flush the catheter
+     three times a day.
+     
+     RECONSTRUCTIONS:  There are no filling defects in the opacified pulmonary
+     arterial vessels.
+     
+     IMPRESSION:
+     
+     1. The pigtail drainage catheter is in good position within the posterior
+     pelvic fluid collection.  This fluid collection is smaller than on [**2991-10-1**]. The
+     catheter was aspirated and irrigated and orders were written to flush the
+     catheter three times a day.
+     
+     2. There are no new fluid collections in the abdomen or pelvis.  Oral contrast
+     reached the ostomy bag with no evidence of extravasation.
+     
+     3. Diffuse interstitial disease in the lung with multifocal ground-glass
+     opacity is consistent with the known history of pulmonary fibrosis.  There
+     could be superimposed pulmonary edema and/or an interstitial infection.
+     
+     4. No evidence of pulmonary embolus.
+
+",,
+8025,21773,9993,0,2991-10-04 04:15:00 EST,2991-10-04 04:59:00 EST,3025,"N",54,"Nursing/Other","ADM NOTE","
+ADM NOTE
+50 Y.O. WOMAN W/ PMH SIG FOR CROHN'S DZ, DIVERTICULITIS, PULM FIBROSIS AND CHF. PT POD#12 FROM SIG RESECTION AND COLOSTOMY. ADM NOW TO CSRU DUE TO RESP DISTRESS,HYPOXEMIA DESPITE 100% NRB AND 6LNPO2. 
+
+CV: ST W/ RARE PVC'S ON ADM. KCL BOLUS HUNG FOR K+2.9. SBP 120'S. NO C/O CP. INITIAL CK+16. A-LINE INSERTED R RAD.
+
+RESP: ON ADM LUNGS W/ RALES [**2-1**] WAY UP BILAT.RR IN 20'S, SPO2 92-93%. NOW AFTER DIURESIS RR IN TEENS, SPO2 UP NTO 94-95% ON SAME O2. PAO2 IMPROVED TO 69. PT STATES BREATHING IS BETTER.
+
+NEURO: MAE.ORIENTED TO PLACE, YEAR AND MONTH INITIALLY; NOW TALKING TO SELF AND TO PEOPLE NOT PRESENT.
+
+G.U.: LG DIURESIS AFTER 20 MG LASIX GIVEN ON FLOOR. NOW W/ METAB ALKALOSIS. UO SL CLOUDY.
+
+G.I.: SOFT ABD W/ DISTAL INCISION PACKED W/ DSD-SM AMT SEROSANG DRNG. STOMA [**Male First Name (un) **] TO TOUCH AND COLOSTOMY BAG W/ SM AMT SOFT YELLOW-BROWN STOOL.
+
+COMFORT: C/O PAIN @ ABD INCISION AND BACK. PT STILL USING MSO4 PCA ON FLOOR AND REQUESTING TO ""HIT BUTTON"" HERE. 2MG GIVEN AND PAIN NOW ""BETTER"" BUT PT MORE SEDATE.
+
+LABS: WBC=28. K+=3, HCT=28.
+
+SKIN:DUODERM OVER COCCYX;REPORTEDLY HAS DECUB-NOT SEEN. PIGTAIL DRAIN FROM PELVIC ABCESS DRAINING SM AMT REDDISH-TAN FLUID.
+
+ASSESS:RESP STATUS IMPROVED AFTER DIURESIS. BUT PT STILL O2 DEPENDANT. MAY BE TOO SEDATE FROM MSO4. UNCLEAR ETIOL OF DETERIORATION OF RESP STATUS. 
+
+PLAN: MONITOR ABG'S  AND VS CLOSELY. MINIMIZE SEDATING NARCOTICS. REPLETE ELECTROLYTES. KEEP O2 ON@ ALL TIMES. ORIENT PRN. NPO FOR NOW. ?OBTAIN CULTURES. 
+
+
+",,
+8025,21773,9993,0,2991-10-04 13:44:00 EST,2991-10-04 13:50:00 EST,3684,"N",54,"Nursing/Other",,"
+
+PT/RSD
+Physical therapy has been following patient for mobility and chest PT, aware of transfer to ICU.  Rx deferred today, [**Name8 (MD) 34**] RN pt not able to tolerate mobility/chest PT today secondary to current respiratory status.  Will continue to follow.
+Pager #[**Pager number 1468**]
+Time 2:45pm
+
+",,
+8025,21773,9993,0,2991-10-04 14:06:00 EST,2991-10-04 14:41:00 EST,3622,"N",54,"Nursing/Other","SHIFT UPDATE.","
+SHIFT UPDATE.
+PT. ASSESSMENT:
+
+NEURO:  A&OX3, MAE TO COMMANDS, C/O ABD AND LOWER BACK DISCOMFORT MEDICATED WITH SM. DOSES OF INTERMITENT MSO4.  FOR ANXIETY PT. MEDICATED WITH VERSED IN SM. DOSES ALSO WITH GOOD EFFECT.  OOB TO CHAIR WITH  MAX ASSIST X2.  DURING ANY TYPE OF EXERTION PT. VERY ANXIOUS AND O2 SAT DECREASING DOWN TO LOW 70'S HIGH 60'S.  WITH REASSURANCE PT. ABLE TO BE CALMED DOWN ALLOWING RESP RATE TO SLOW DOWN AND O2 SAT TO INCREASE TO LOW->MID 90'S.  
+CARDIAC:  ST WITH PVC, R IJ TRIPLE LUMEN INTACT WITH NS AT KVO AND TPN CURRENTLY AT KVO AND TO BE INCREASED TO REGULAR RATE WITH NEXT BAG.  R RAD ALINE CONT. TO BE APPROX. 20PT'S SYS HIGHER THAN CUFF PRESSURE.  CVP ALSO TENDING TO RUN NEGATIVE NUMBERS, SICU TEAM AWARE OF THIS.   CK'S CONT. TO BE CYCLED, 1ST AND 2ND SETS NEGATIVE, 3RD CK TO BE DRAWN TONIGHT.  BEDSIDE EKG DONE.
+RESP:  BS CONT. TO BE VERY COARSE THRU-OUT, [**Last Name (un) **] NON-PRODUCTIVE COUGH.  O2 REMAINS AT 6L NP & 100% NRB.  O2 SAT'S AT REST RANGE BETWEEN 87-96%, WITH ANY EXERTION O2 SAT'S DECREASING TO A LOW OF 70%.  PT. BROUGHT DOWN TO RADIOLOGY FOR CHEST CT TO R/O PE, PRELIMINARY SCAN NEG AND POT. FOR BILT. PNEUMONIAS.   
+GI/GU:  HOURLY URINES HUGE AFTER RECEIVING 20MG IV LASIX.  TALKED WITH SICU TEAM AND LASIX DECREASED TO 10MG IVP BID INSTEAD OF 20MG QD.  D/T LG. DIURESIS K LEVEL DROPPING TO 2.7 TREATED WITH TOTAL OF 80MG IVP KCL.  + BS THRU-OUT, L LOWER COLOSTOMY HAVING SOFT BROWNISH STOOL, STOMA FEELS WARM TO TOUCH.  R BUTTOCKS PIGTAIL CATH FLUSHED WHILE DOWN IN CT SCAN WITH TOTAL OF 40CC OF NS, DRAINING 20CC OF BROWNISH/REDDISH DRAINAGE.  PLAN TO HAVE PIGTAIL CATH IRRIGATED QSHIFT WITH 10CC NS.  TPN FOR NUTRITION.
+SKIN:  LOWER MIDLINE ABD INCSION, LOWER PORTION OF INCSION OTA AND DRESSED WITH NS PACKING.  BUTTUCKS DECUB ALSO CHANGED FOR FOUL SMELLING DRAINAGE.  DUODERM CHANGED.  WILL STAGE DECUB AT LEVEL [**3-5**], OSTOMY NURSE [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] FOLLOWING BOTH OSTOMY AND DECUB.  VENODYNE BOOTS ON FOR PREVENTION OF DVT.  
+PLAN:  CONT. TO MONITOR ABG'S AND K LEVELS, GET OFFICIAL REPORT OF CT SCANS.  CONT. WITH AGGRESSIVE PULM. WKUP.  OOB TO CHAIR AS TOLERATED. 
+
+",,
+8025,21773,9993,0,2991-10-04 16:56:00 EST,2991-10-04 17:09:00 EST,3441,"N",54,"Nursing/Other","NSICU NURSING RECIEVING NOTE","
+NSICU NURSING RECIEVING NOTE
+PT TO UNIT AT 1600 FROM CRSU.  TO CRSU FROM FLOOR FOR RESP DISTRESS; LASIX GIVEN WITH GOOD DIURESIS. TO CT  TO R/O PE WAS NEG.  ABD CT ALSO NEG FOR ABSCESS.  PT AT RISK FOR ABSCESS FROM BOWEL PERF.  
+PELVIC IR DRAIN WAS FLUSHED IN IR; FLUSH BID.  PLACED ON [**10-1**] FOR PELVIC FLUID ACCUM.  
+
+ON ARRIVAL PT SATS 60-70%.  ONCE SETTLED SATS INCREASED TO LOW/MID 90'S. PT ON NRB MASK 15L AND NC 6L. OSTOMY SITE SEEN BY OSTOMY NURSE; BAG CHANGED.  OSTOMY SEEN BY DR [**First Name (STitle) **].  STOMA BELOW SKIN SURFACE; MD AWARE.  ABD DRESSING CDI AT THIS TIME.  PT. GIVEN MSO4 2MG FOR GEN PAIN.  K LEVEL OF 3.8.  40 IV GIVEN.  ABG'S SENT 7.5/38/80/31/+5
+COCCYX DRSG ON [**Name5 (PTitle) 5318**] [**Name5 (PTitle) **] AT THIS TIME.  
+",,
+8025,21773,9993,0,2991-10-05 06:29:00 EST,2991-10-05 06:37:00 EST,3601,"N",54,"Nursing/Other",,"
+
+PT AWAKE AND ALERT BUT OBVIOUS RESP DISTRESS WHEN SPEAKING OR MOVING. SAO2 DROP TO 69- 79%. CONTINUES ON 100% NRB AND 6L NP
+HR IMPROVED; MED FOR PAIN Q3HRS WITH EFFECT
+""BUTT"" DRAIN IRRIGATED FREELY BUT MINIMAL DRNG NOTED
+",,
+8025,21773,9993,0,2991-10-05 10:34:00 EST,2991-10-05 10:44:00 EST,3774,"N",54,"Nursing/Other",,"
+
+PT QUICKLY DESATS W/ ANY DECREASED O2.  TACHYPNIC AND TACHYCARDIAC W/ DESATURATION.  MSO4 IV POR GEN PAIN/DISCOMFORT.  LUNGS COARSE T/O W/ RUL INSP WHEEZES.  
+",,
+8025,21773,9993,0,2991-10-05 14:58:00 EST,2991-10-05 15:03:00 EST,3684,"N",54,"Nursing/Other",,"
+
+Physical Therapy/RSD
+Physical therapy was following patient on floor, aware of transfer to ICU.  Pt's status reviewed.  Please re-consult when appropriate, do not feel pt will tolerate therapy at this time.
+Pager #[**Pager number 1468**] 
+",,
+8025,21773,9993,0,2991-10-05 17:30:00 EST,2991-10-05 17:58:00 EST,-1,"N",54,"Nursing/Other",,"
+
+PT SATS IN 70-80% RANGE, NOT RISING.  PT ANXIOUS, MEDICATION NOT HELPING RELAXATION.  ABGS DRAWN, RESULTS SHOWN TO PHYSICIAN.  [**Name10 (NameIs) **] PAGED, MASK VENTILATION STARTED.  100%FIO2, CPAP5, VT 800, PRESS SUPPORT 10.  SATS INCREASED TO HIGH 90S-100.  
+",,
+8025,21773,9993,0,2991-10-06 06:46:00 EST,2991-10-06 06:50:00 EST,3601,"N",54,"Nursing/Other",,"
+
+RESP DECOMPENSATION WITH SIMPLE MOVEMENT; CPAP MASK UNTIL 2AM WITH FAIRLY GOOD TOLERANCE BUT REQUIRED MED WITH MSO4
+",,
+8025,21773,9993,0,2991-10-06 12:50:00 EST,2991-10-06 13:03:00 EST,3209,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 0700-1500","
+NURSING PROGRESS NOTE 0700-1500
+NEURO--AXO X3. MAE SPONT AND TO COMMAND BUT WITH MUCH EFFORT AND MUCH RESP DECOMPENSATION. MS H. HAS VERBALIZED THAT SHE DOES NOT WANT TO BE INTUBATED. TEAM TO COME SPEAK WITH PT LATER TODAY. RECIEVING MSO2 AND ATIVAN FOR PAIN AND AGITATION. ALSO STARTED BACK ON PROZAC AND OXYCODONE.
+
+CARDIAC--TO RECEIVE 1UPRBC  WHEN AVAIL FOR HCT OF 27. REMAINS TACHY AT 120'S AND BP STABLE AT 130'S. NO VEA OBSERVED.CVP-[**5-9**]. BLOOD CULT SENT X2.
+
+RESP--BACK ON CPAP 75%X 16 AND IPS OF 10. DECOMPENSATED THIS AM TO SAT OF 75%. NTS FOR TENACIOUS THICK TAN SPUTUM. RESP TO INDUCE FOR PCP AND CX. LUNGS COARSE BILAT. SAO2 88-94 . 
+
+GI--RECEIVING TPN, NEEDED TO GET PO PILLS IN AND GIVEN JELLO TO DO SO. SHE TOLERATED THIS OK. COLOSTOMY DRAINING GOLDEN SOFT FORMED STOOL. CX SENT FOR C-DIFF. OSTOMY SITE IS RETRACTED , EVEN WITH BELLY SKIN.
+
+GU--FOLEY LEAKING LGR AMTS OF URINE X1, OTHERWISE DRAINING ~30 CCHR OF AMBER URINE.
+
+SKIN--BUTTOCKS WITH DUODERM INTACT. R GLUTEAL DRAIN SITE DRY, NOT CHANGED. DISTAL END OF ABD INCISION PACKED WITH DRY STERILE 4X8. SEROUS DRAINAGE NOT FOUL SMELLING.
+
+ID--AFEBRILE BUT BLOOD CULT AND STOOL CX SENT.
+
+ENDO--BS 130
+
+COPING--PT'S MOTHER HAS PHONED. THEY WILL BE IN LATER.
+
+A--RESP DISTRESS NEEDING MSO4 AND ATIVAN TO CALM ANXIETY.
+
+P--CON'T PULM TOILET. MEDICATE AS NEEDED. OFFER SUPPORT.
+PT TO RECEIVE PRBC WHEN AVAIL
+",,
+8025,21773,9993,,2991-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-7**] 10:19 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3999**]
+     Reason: DROP IN 02 SAT, R/O PNEUMO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with s/p sigmoid colectomy, idopathic pulmonary fibrosis,
+      Hartmans,  worsening oxygenation 
+     REASON FOR THIS EXAMINATION:
+      DROP IN 02 SAT
+      R/O PNEUMO
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP portable chest x-ray [**2991-10-7**].
+     
+     HISTORY:  Status post sigmoid colectomy, pulmonary fibrosis, worsening
+     oxygenation.  Comparison to a previous film of earlier on the same day.
+     
+     FINDINGS:  The ET tube, NG tube, and right IJ catheter remain in good
+     position.  There is no pneumothorax.  The heart appears slightly enlarged,
+     which may be due to the technique. The known extensive interstitial lung
+     disease is seen and without change. 
+     
+     IMPRESSION:  Extensive interstitial lung disease without change.
+
+",,
+8025,21773,9993,,2991-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2991-10-7**] 2:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3998**]
+     Reason: WORSENING OXYGENATION, S/P INTUBATION, S/P LINE CHANGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old woman with s/p sigmoid colectomy, idopathic pulmonary fibrosis,
+      Hartmans, colostomy s/p extubation with worsening oxygenation and chest pain. 
+       
+      Check s/p intubation
+      Check s/p orogastric tube placement.
+      S/P LINE CHANGE
+     REASON FOR THIS EXAMINATION:
+      WORSENING OXYGENATION
+      S/P INTUBATION
+      S/P LINE CHANGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Worsening oxygenation, status post intubation and line change.
+     Sigmoid colectomy, idiopathic pulmonary fibrosis.
+     
+     FINDINGS: AP view demonstrates that the patient is intubated the ETT with its
+     tip some 7 cm above the carina. An NG tube has been placed reaching far below
+     the diaphragm. The heart appears to be moderately enlarged without typical
+     configurational abnormality. Bilateral the lung fields demonstrate diffuse
+     small nodular and linear densities consistent with the diagnosis of pulmonary
+     fibrosis. Evidence for these abnormalities existed already a previous
+     examination of [**2991-10-4**]. Comparison demonstrates that the previously
+     identified nodular densities on the right base has cleared up somewhat but the
+     diffuse pattern of nodular density persists.
+     
+     Right internal jugular vein central venous line in unchanged position.
+
+",,
+8025,21773,9993,0,2991-10-07 04:30:00 EST,2991-10-07 04:45:00 EST,3440,"N",54,"Nursing/Other",,"
+
+Respiratory Care Note
+Patient remained overnight on full mask bipap through the vent. ABGS are still acidotic with Pco2 68-75, ph 7.26-7.31 Sats have been 89-90% PSV was increased from 10 to 12 cm without much change in gases. Breath sounds are mostly coarse with good aeration heard throughout.
+",,
+8025,21773,9993,0,2991-10-07 05:32:00 EST,2991-10-07 05:43:00 EST,3214,"N",54,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+CV:   AFEBRILE AND NORMOTENSIVE. CONTINUES TO PRESENT WITH SINUS TACHY 115-126 W/RARE PVC @ TIMES. CVP 3-8.  EARLIER LASIX EFFECTIVE, DIURESED 1600 OVER FIRST 2HOURS, THOUGH HUO DIMINSHED THROUGHOUT SHIFT.
+
+RESP:  (SEE RESPIRATORY NOTE ABOVE). REMAINS ON FACIAL BIPAP, BIL WRIST RESTRAINTS DUE TO ATTEMPTS TO DISCONNECT O2 TUBING/FACE MASK EARLY NOC.   REQUIRING ATIVAN AND MSO4 FOR COMFORT AND SEDATION..... COMFORT STATUS MAINTAINED FOR MOST OF NOC.  FAMILY AWARE OF POTENTIAL FOR INTUBATION, HAVE BEEN IN CONTACT THROUGH NOC AND AWARE OF PT'S COMFORT IN SPITE OF POOR ABG LEVELS.  
+",,
+8025,21773,9993,0,2991-10-07 19:07:00 EST,2991-10-07 19:37:00 EST,3409,"N",54,"Nursing/Other","nsg progress note","
+nsg progress note
+SEE FLOWSHEET FOR SPECIFICS.
+RESP-PT IN RESP DISTRESS THIS AM DESPITE CPAP MASK. PT INTUBATED. PT SXN FOR COPIOUS AMT THICK TAN SPUTUM. STARTED TO MSO4 AND ATIVAN GTT. DESPITE THIS, PT UNABLE TO TOL SIMV. ABG VERY POOR AN CPAP+PS. SEE FLOWSHEET. PT BRONCHED AND SXN FOR LG AMT THICK TAN SPUTUM. CX SENT. PT PARALYZED AND SEDATED. PT CURRENTLY ON SIMV AND PS, RATE 22, TV 500, PEEP 10, PS 15. FIO2 100%. 02 SAT 87-91%. LS WITH COARSE RHONCI.
+
+CV-AFEBRILE. PT DROPPED SBP TO 60'S.TEAM AWARE AND IN TO ASSESS. FLUID BOLUS GIVEN. NEO GTT STARTED, THEN CHANGED TO LEVO. PT CURRENLY ON LEVO GTT, SBP HIGH 90'S-100'S. TEAM AWARE. HR CON'T TACHY 120'S, ST. NO ECTOPY. SKIN PALE W+D. +PP. PBOOTS ON. TRIPLE LIMEN CHANGED OVER WIRE. TIP SENT FOR CX. NEW SITE WNL. 
+
+GI-ABD SOFT, NT/ND. OGT PLACED. WAS TO START TF, NO PUMP AVAIL AT THIS TIME. OGT CURRENTLY TO LWS WITH BILIOUS DRG. STOMA RETRACTED. + LOOSE GOLDEN STOOL. APPLIANCE CHANGED BY ETRN. DRAIN IN PLACE WITH SM SMT PURULENT DRG. TPN INFUSING. 
+
+GU-VOIDING VIA FOLEY. U/O BORDERLINE. TEAM AWARE. 
+
+SKIN-PT ON AIR MATTRESS. + SKIN BREAKDOWN ON BUTTOCKS. COVERED WITH DSD WHILE AWAITING DUODERM. 
+
+A-INTUBATED. PARALYZED AND SEDATED. LEVO GTT. 
+
+P-CON'T WITH CURRENT PLAN. FOLLOW BP. LEVO GTT.KEEP PARALYZED AND SEDATED TO MAXIMIZE VENTALATION. SKIN CARE. 
+",,
+8025,21773,9993,0,2991-10-08 05:30:00 EST,2991-10-08 05:41:00 EST,3440,"N",54,"Nursing/Other",,"
+
+Respiratory Care Note
+Patient is orally intubated with 7.5 oral et tube taped at 24 cm mark. Received on Simv mode but changed over to pressure control last evening to optimize abgs.Current settings are Pressure Control with insp pressure 34/ 10 of peep/ rate=24/1:1.7 ratio/90%FIO2. Gases are somewhat improved this morning with better oxygenation;maintain pco2 in 50s with ph over 7.22. Plan now is to slowly wean FIO2 per sats,maintain paralysation and sedation on Pressure control.
+",,
+8025,21773,9993,0,2991-10-08 06:14:00 EST,2991-10-08 06:37:00 EST,3214,"N",54,"Nursing/Other","NURSING UPDATE:","
+NURSING UPDATE:
+CV:  
+   RECEIVED PT W/HR IN 130'S, ESMOLOL GTTS STARTED @ 2000, INITIALLY EFFECTIVE HR DOWN 112-118 BUT SLOWLY INCREASED THROUGHOUT NOC, REACHING 130-140'S @ 0330.  ESMOLOL STOPPED AND DILTIAZEM GTTS STARTED @ 5MG/H W/ GOOD EFFECT. HR AND DECREASED, AND BP INCREASED.
+    INITIALLY LEVO GTTS INCREASED WITH GOAL OF SBP>100 WITH MINIMAL-> NO EFFECT.  NEO GTTS STARTED AND INCREASED TO MAX DOSE, STILL WITH MINIMAL EFFECT.  HYDROCORTISONE 300MG BOLUS GIVEN W 0400.  CHANGE FROM ESMOLOL TO DILTIAZEM GTTS INDUCED IMMEDIATE IMPROVEMENT IN BP ALLOWING LEVO TO BE WEANED TO VERY LOW DOSE, NEO GTTS CONT @ 5MCG/KG/MIN @ THIS TIME. NS BOLUS 500CC IV GIVEN @ 2100 DUE TO HUO OF 10CC, AND REPEATED @ 0400 FOR VOLUME SUPPORT. CVP 7-17.
+    REMAINS PARALYZED AND SEDATED ON CISATRACURIUM, ATIVAN AND MSO4 GTTS.
+
+RESP:
+    ABG @ 2000 70/74/7.21/30/93%.  VENT CHANGED FROM IMV->PCV (SEE RESP NOTE AND FLOW SHEET). ABG'S CONTINUED TO SHOW SLOW IMPROVEMENT THROUGH NOC...@ 0400 87/59/7.22/25/96%.
+    SXN SMALL AMOUNT THICK TAN TO WHITE ONLY.  CXR DONE SHOWING DIFFUSE WHITEOUT.
+
+SKIN INTEGRITY:
+    NO DRAINAGE FROM PELVIC DRAIN.  [**Last Name (un) **] WOUND PRESENTING WITH GRANULATION TISSUE AND SMALL AMOUNT SEROSANG DRAINAGE.  WCC CONTINUES TO RISE - 39.2 THIS AM.
+",,
+8025,21773,9993,0,2991-10-08 16:35:00 EST,2991-10-08 16:36:00 EST,3773,"N",54,"Nursing/Other",,"
+
+FOCUS:  CONDITION UPDATE
+D: PATIENT REMAINS ON PRESSURE CONTROL VENTILATION, FIO2 90%. BRONCHED TODAY BY HOUSE STAFF--TOLERATED PROCEDURE WELL. POS REMAINS IN THE 60S--UNABLE TO WEAN FIO2. PRESSORE REQUIRED TO BE INCREASED SLIGHTLY, CURRENTLY ON 6 MCG/KG/MIN OF NEO TO KEEP SBP>100. SEDATED AND PARALYZED. SEE FLOW SHEET FOR OTHER VSS. FAMILY IN AWARE OF SITUATION.
+",,
+8025,,9993,0,2991-10-09 03:07:00 EST,2991-10-09 03:14:00 EST,3096,"N",54,"Nursing/Other",,"
+
+RESPIRATORY CARE NOTE: PT RECEIVED INTUBATED, OET WAS PATENT AND SECURE. PT ALSO MECH VENTILATED, CURRENT SETTINGS ARE: PRESSURE CONTROL; INSP. PRESSURE 34, I:TIME; .8, FIXED I:E RATIO OF 1:1.7, PEEP 10, RATE 28, AND FIO2, 100%. WE MADE MINOR ADJUSTMENTS LAST EVENING TO PT RESP RATE, AND I: TIME, PT WAS FOUND TO HAVE A SIGNIFICANT RESP. ACIDOSIS, WE INCREASED THE MANDATORY RATE FROM 24 TO 28, AND DECREASED THE I:TIME FROM .9 TO .8, THIS HELPED, BUT PT REMAINS SL. ACIDOTIC. RN AS WELL AS MD IS AWARE, AND FINE WITH THIS. PT HAS RECEIVED MDI'S AS ORDERED, AS WELL AS SUCTIONING, AS NEEDED. ALL IS WELL AT THIS TIME.
+",,
+8025,,9993,0,2991-10-09 03:49:00 EST,2991-10-09 04:17:00 EST,3601,"N",54,"Nursing/Other",,"
+
+CV: REQUIRED LG AMTS OF PRESSOR SUPPORT (LEVO @ .2MCG AND NEO @ 8.0MCG) TO MAINTAIN SBP > 90 RANGE. HR 100-110 RANGE ?ACCELERATED JUNCTIONAL/AFIB EKG DONE AND DILTIZEM DRIP D'CD. ""P"" WAVES RETURNED RATE NOW 125-118 ST. (RESPONDS TO FLUID)
+
+RESP: PERSISTENT ACIDOSIS 7.14- 7.24 VENT CHANGES MADE (100% FIO2), 2AMPS NAHCO3 GIVEN. REMAINS PARALYZED AND SEDATED. SAO2 88-95%
+
+ID: TEMP 103.5- 102.5 PANCULTURED AND TYLENOL GIVEN. ? SOURCE ABD/BOWEL LACTIC LEVEL 2.6
+
+3(500CC) FLUID BOLUSES GIVEN WITH + RESPONSE OF INCREASED URINE/BP/HR 
+",,
+8025,,9993,0,2991-10-09 13:53:00 EST,2991-10-09 13:57:00 EST,3773,"N",54,"Nursing/Other",,"
+
+FOCUS: TREATEMENT NOTE
+D: PATIENT'S CONDITION VERY CRITICAL THIS MORNING. VERY POOR ABGS ON MAXIMAL SUPPORT FROM VENTILATOR. CONTINUES TO BE ACIDOTIC, REQUIRING MASSIVE AMOUNTS OF PRESSORS TO MAINTAIN A BLOOD PRESSURE >90. KIDNEY SHUTTING DOWN, WITH MINIMAL AMOUNT OF URINE OUTPUT TODAY.
+A: DR. [**Last Name (STitle) 266**] TALKED AT LEGNTH WITH FAMILY ABOUT GRAVITY OF SITUATION.FAMILY AWARE, PATIENT WILL NOT SURVIVE THIS. FAMILY KNEW OF PATIENT'S WISHES NOT TO BE KEPT ALIVE ON LIVE SUPPORT.  WITH HUSBAND, SONS, PATIENT'S MOTHER , SISTER AND BROTHER PRESENT, DECISION WAS MADE TO PROVIDE COMFORT MEASURE ONLY. NO PRESSORS, ONLY MINIMAL SUPPORT ON VENT. A
+A: PATIENT MADE COMFORTABLE ON ATIVAN/MSO4 GTTS, LEVO/NEO OFF. VENT TO 21% OXYGEN AND A RATE OF 6. FAMILY WITH PATIENT AT TIME OF DEATH. HO AWARE.
+",,

@@ -1,0 +1,2103 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8445,7634,,,3356-12-30 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3356-12-30**]     Discharge Date:  [**3357-1-12**]
+
+Date of Birth:   [**3276-1-12**]     Sex:  M
+
+Service:  NEUROLOGY
+
+ADDENDUM:
+
+MEDICATIONS ON DISCHARGE CORRECTED:
+1.  Aspirin 325 mg p.o. once daily.
+2.  Acetaminophen 325 to 650 mg p.o. q4-6hours p.r.n. fever
+or pain.
+3.  Keppra 1000 mg p.o. twice a day.
+4.  Tegretol 200 mg p.o. twice a day and an additional 400 mg
+p.o. q.noon.
+5.  Miconazole Powder.
+6.  Famotidine 20 mg p.o. twice a day.
+7.  Atenolol 37.5 mg p.o. once daily.
+8.  Lisinopril 5 mg p.o. once daily.
+9.  Fludrocortisone 0.1 mg p.o. three times a week on Monday,
+Wednesday and Saturday.
+10. Heparin subcutaneously 5000 units q12hours.
+11. Valacyclovir one gram p.o. twice a day for three days.
+
+HOSPITAL COURSE:  After discussion, it was determined that
+the patient did receive a full eleven day course of
+intravenous Acyclovir for presumed HSV encephalitis.  There
+have been conflicting reports about the actual duration
+needed for effective treatment for the HSV encephalitis.  It
+is indicated that ten days appears to be a full course,
+however, with other sources indicating fourteen to twenty-one
+days of being a more usual duration of antiviral treatment,
+we decided to finish his course of antiviral treatment with
+three days of Valacyclovir p.o. at one gram p.o. twice a day.
+Although we suspect that he most likely did not actually have
+HSV encphalitis, we cannot be sure and opted to complete the
+treatment as above. The patient is to follow-up with his
+neurologist, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], on [**3357-1-19**], as well as Dr. [**First Name8 (NamePattern2) **]
+[**Last Name (NamePattern1) **] and Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 1896**] in the Neurology Clinic on
+[**3357-4-21**], at 1:00 p.m.
+
+
+
+                          [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) 1983**] [**Name8 (MD) 835**], M.D.  [**MD Number **]
+
+Dictated By:[**Name8 (MD) 3111**]
+
+MEDQUIST36
+
+D:  [**3357-1-12**]  16:29
+T:  [**3357-1-12**]  18:43
+JOB#:  [**Job Number 11727**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name 835**]
+ on: [**First Name8 (NamePattern2) 46**] [**3357-1-13**] 9:56 AM
+(End of Report)
+
+
+",,
+8445,7634,,,3356-12-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3356-12-30**] 8:23 PM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 7796**]
+     Reason: SZ, UNRESPONSIVE, MASS IN PALATE ON CT
+     Admitting Diagnosis: SEIZURE
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with ?sz now unresponsive                                       
+     REASON FOR THIS EXAMINATION:
+      r/o mass, please obtain cuts through palate mass seen on CT                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Unresponsive with question of seizure.  Assess nasal mass seen on
+     prior CT.
+     
+     COMPARISON:  Head CT [**3356-12-30**] and [**3356-9-3**]; brain MRI [**11-7**],2003.
+     
+     TECHNIQUE:  Multiplanar T1 and T2-weighted gadolinium-enhanced MR of the brain
+     with susceptibility.
+     
+     FINDINGS:  There is a moderate amount of brain atrophy.  Diffuse increased
+     FLAIR signal in the periventricular white matter areas and punctate increased
+     FLAIR signal in the subcortical white matter areas is likely related to
+     chronic microvascular infarction.  There is no evidence of abnormal
+     susceptibility artifact to suggest intracranial hemorrhage.  There is no mass
+     effect, shift of normally midline structures, or hydrocephalus.  There is
+     fluid within the mastoid air cells bilaterally.
+     
+     Within the anterior maxilla, there is a 2.9 x 3.5 cm lobulated mass lesion
+     which demonstrates heterogeneous, moderately increased T2 signal and which
+     does not enhance.  This was present on the prior MR study of [**3356-10-30**],
+     but was not included in the field of imaging on the prior CT scan of [**9-4**], 2003. There is no associated high signal within the adjacent bone.
+     
+     Additional note is made of a 1.7 x 1.3 cm mass within the left parotid gland
+     which enhances and likely represents a pleomorphic adenoma, with an intra-
+     parotid lymph node being a secondary possibility.  This is unlikely to be
+     related to the maxillary mass described above.
+     
+     No other areas of abnormal contrast enhancement are appreciated.  Several
+     sequences are degraded by patient motion.
+     
+     IMPRESSION:
+     1.  Chronic-appearing, non-enhancing mass within the anterior maxilla.  Signal
+     intensity of this may represent fluid, as might be found in an incisive canal
+     cyst, or it may be cartilaginous in origin, possibly emanating from the nasal
+     septum.
+     2.  Left parotid gland mass, likely reflecting a pleomorphic adenoma.
+     3.  Mastoid fluid bilaterally.
+                                                                 (Over)
+
+     DATE: [**3356-12-30**] 8:23 PM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 7796**]
+     Reason: SZ, UNRESPONSIVE, MASS IN PALATE ON CT
+     Admitting Diagnosis: SEIZURE
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8445,7634,,,3356-12-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3356-12-30**] 5:15 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7795**]
+     Reason: eval for bleed                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with acute change in mental status, eyes deviated to right      
+     REASON FOR THIS EXAMINATION:
+      eval for bleed                                                                  
+     CONTRAINDICATIONS for IV CONTRAST:
+      allergy
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 1363**] [**First Name8 (NamePattern2) 114**] [**3356-12-30**] 8:00 PM
+      FLUID COLLECTION WITH BONE DESTRUCTION RELATED TO ANTERIOR HARD PALATE AND
+      LEFT MAXILLARY SINUS, INCOMPLETELY IMAGED. NO ACUTE INTRACRANIAL PATHOLOGY.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     HISTORY:  Acute change in mental status.  Eyes deviated to the right. Evaluate
+     for bleed.
+     
+     COMPARISON:  Comparison is made to prior head CT from [**3356-9-3**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There is a bilobed CSF density lesion posterior to the left
+     cerebellar hemisphere which has been previously described and has imaging
+     characteristics consistent with a giant cisterna magna.  This is unchanged.
+     There is global brain atrophy.  There is hypodensity in the periventricular
+     white matter consistent with chronic microvascular ischemic change.  There are
+     no major vascular territorial infarcts.  There is no intracranial hemorrhage.
+     
+     There is a fluid density lesion located in the subcutaneous tissues anterior
+     to the subcutaneous tissues just below the nose related to the upper lip.
+     There is destruction of a portion of the anterior wall of the left maxillary
+     sinus and the anterior portions of the hard palate.  This lesion is
+     incompletely imaged and was not included in the field of view on the prior
+     head CT.  However, this was present on [**11-7**] MRI and is unchanged in
+     size since that time.
+     
+     IMPRESSION:  No acute intracranial pathology. Destructive lesion involving the
+     anterior hard palate and left maxillary sinus which is incompletely imaged but
+     appears unchanged in size since the MRI from [**3356-11-6**].  This may
+     represent an infectious source such as a peridental abscess.  Clinical
+     correlation is suggested and correlation with physical exam is suggested.
+     Additional imaging of the facial bones could be considered to better
+     characterize the location and characteristics of this lesion.
+     
+
+",,
+8445,7634,10492,,3356-12-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3356-12-31**] 5:54 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7797**]
+     Reason: evalute for masses, infection                               
+     Admitting Diagnosis: SEIZURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with seizure.                                                   
+     REASON FOR THIS EXAMINATION:
+      evalute for masses, infection                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     PORTABLE AP CHEST:
+     
+     INDICATION:  Seizure.
+     
+     Since the previous cxr  of [**3356-11-17**], there has been placement of an NG tube
+     which terminates in the stomach with tip cephalad in the region of the fundus.
+     Cardiac and mediastinal contours are within normal limits for portable
+     technique. There is a new patchy alveolar opacity in the right perihilar
+     region.  There may be an additional area of opacity at the left base, as the
+     left hemidiaphragm is not as well demonstrated on the prior exam.
+     
+     IMPRESSION:  Patchy right perihilar alveolar opacity and possible additional
+     left basilar opacity.  In a patient with h/o seizure, aspiration should be
+     considered.  Infectious pneumonia is also possible.
+     
+     
+
+",,
+8445,7634,10492,0,3356-12-31 05:15:00 EST,3356-12-31 05:27:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+PT IS AN 80 YR OLD GENTLEMAN WHO WAS ADMITTED TO HOSP WITH SEIZURES AND MENTAL STATUS CHG'S. 
+PT ARRIVED FROM [**Location **] UNRESPONSIVE AND NOT MOVING ANY EXTREMETIES. PUPILS EQUAL AND REACTIVE. WHEN TURNING PT HE BEGAN TO OPEN EYES AND BLINK, AND SLOWLY BEGAN TO MOVE HIS LEFT ARM AND LEG. PT STILL UNABLE TO SPEAK. GRADUALLY WOULD LOOK AT [**Doctor First Name **] WHEN [**Doctor First Name **] CALLED OUT HIS NAME. UNABLE TO MOVE RIGHT SIDE AT FIRST, THEN AS NIGHT WORE ON HE BEGAN TO MOVE RIGHT ARM AND RIGHT LEG ON THE BED. MOVING LEFT SIDE NORMALLY WITH GOOD STRENGTH. PT'S GAG REFLEX ABSENT. NGT INSERTED WITHOUT ANY RESPONSE TO GAG REFLEX. HAS PRETTY GOOD COUGH REFLEX. 
+CV: PT IS NSR 80-90 WITHOUT ECTOPY. BP INITIALLY IN THE 170'S BUT SETTLED DOWN TO THE 140'S. RESP RATE IN THE TEENS. TEMP 99.8 PO/RECT.
+RESP: INITIALLY ON SIMPLE O2 MASK WITH O2 SAT 99-100% THIS WAS CHG'D TO 5L NASAL CANULA. O2 SAT'S IN THE HIGHT 90'S. LUNG SOUNDS CLEAR BUT HAS A CONGESTED COUGH. 
+GI: NGT PLACED, PT NPO. ABD SOFT NON TENDER WITH BOWEL SOUNDS PRESENT.NO STOOL DURING THE NIGHT. 
+GU: FOLEY CATH DRAINING LRG AMT'S OF PALE YELLOW URINE. IV FLUID CHG'D TO D51/2NS WITH 20KCL AT 80/HR. 
+SKIN: INTACT BUT DRY. HAS SOME RED SPOTS ON CHEST AREA. 
+LP DONE BY RESIDENT. FLUID CLEAR, OPENING PRESSURE 25 THEN SETTLED DOWN TO 14. SPEC SENT. 
+PT SEEN BY HIS OWN PHYSICIAN ON ARRIVAL TO THE UNIT. PT IS FULL CODE.
+WHILE IN THE ED PT HAD HEAD CT AND MRI DONE WHICH SHOWED MASS ON UPPER PALATE. PT TO START ON UNASYN AFTER ID APPROVAL. WBC 18. 
+
+",,
+8445,7634,10492,0,3356-12-31 16:36:00 EST,3356-12-31 17:02:00 EST,2815,"N",69,"Nursing/Other","Nursing Process Note: 0700-1900","
+Nursing Process Note: 0700-1900
+NEURO: Alert, nonverbal this shift though verbal at baseline.  Eyes open but does not follow commands.  Pupils reactive bilat.  EEG done showing some sz activity though no overt signs noted.  Given additional Valproate IV and Tegretol PO doses this shift as well as increase in sched. doses.  Able to move left arm with purposful movt and some movt noted at right arm as shift progressed.  Moving both legs.  Soft wrist restraint left hand to maintain integrity of lines.
+
+RESP: CXR showing opacities consistent with asp PNA; congested cough, nonproductive.  High flow humidified O2 to maintain sats >90%.  Chest PT done and NTS for mod amt yellow, thick sputum.  LS coarse throughout.  Sats consisently low 90s.  RR in 20s.
+
+C/V: HR 90s, no ectopy.  BP 110s/50-60s.  Receiving D5 1/2 NS with 20K @ 80hr cont.  
+
+GI: NPO.  Abdomen soft, present sounds.  No BM this shift.  NGT in place, patent for PO meds.  Placement checked via auscultation.
+
+GU: Foley patent for cyu; quantities sufficient.
+
+ENDO: FSQID, covered with SS insulin.
+
+ID: Tmax 103 rectally; received Tylenol with some effect.  Receiving Unasyn IV; CT scan revealed mass at palate/sinus; evaluated by ENT.  
+
+SOCIAL: Son and dtr in to visit; very pleasant and supportive.  Son [**Name (NI) **] is health care proxy-numbers in front of chart.
+
+PLAN: Monitor temp, resp status, neuro status
+      EEG in room for overnight monitoring
+      NPO
+      IV maintenance fluids
+      IV Abx
+
+
+
+",,
+8445,7634,10492,0,3357-01-01 06:22:00 EST,3357-01-01 06:37:00 EST,2768,"N",69,"Nursing/Other","MICU-B, NPN:","
+MICU-B, NPN:
+Neuro:  Pt. alert, opens eyes spontaneously, PERRLA @ 3mm, moves RUE, LUE, and RLE spontaneoudly- no spontaneous movement noted to LLE.  Attempting to speak but sounds mostly incomprehensible.  Tracks with eyes, seems to know name.  EEG done q 1 hr X 1 min.  No obvious signs of seizure activity.  Given extra dose 500mg IV for Valproic acid d/t low therapeutic level last p.m.  
+
+CV:  HR low 100's- 120's ST w/o ectopy.  SBP 120's-150's.  Easily palpable peripherals.  
+
+Resp:  O2Sats mid-high 90's on 100% face tent.  Spontaneously de Sats to mid 80's.  Does not respond to CPT d/t resistance to suctioning.  Face tent replaced with face mask @ 100%.  Nasal trumpet placed to R nare by RT to facilitate suctioning.  Pt. has very poor cough.  Lungs are coarse throughout.  
+
+Heme/lytes/micro:  T-max 102.8 rectally.  Blood cx's X2 sent, urine cx sent.  No labs ordered for this a.m.  ORL following for ? tx of palatal mass- rec.'s are for outpt. tx.  Antbx coverage includes Unasyn.  
+
+GI:  NPO.  Nutrition rec.'s starting TF's.  No BM.  +BS.
+
+GU:  Foley to gravity draining clear amber urine.  
+
+Derm:  D&I.
+
+Social:  FULL CODE.  Family involved. 
+",,
+8445,7634,10492,0,3357-01-01 17:20:00 EST,3357-01-01 17:48:00 EST,2815,"N",69,"Nursing/Other","Nursing Process Note: 0700-1900","
+Nursing Process Note: 0700-1900
+NEURO: Less interactive than previously noted from [**12-31**].  Not following commands and not tracking. Pupils reactive/brisk bilat 3mm. Moving left arm and leg; withdrawing to nailbed pressure.  Some jaw twitching noted correlating with increased RR >30; gave Ativan 0.5mg IV as ordered for abnormal facial movt.  EEG activity not conclusive for seizures as stated by neuro.  Continue to record activity Qhr.
+
+RESP:  LS continue coarse; NTS for moderate amt blood tinged sputum-culture sent.  No gag or cough.  RR spontaneously increases to >30 though sats remain mid to high 90s.  ABG 7.44/40/149; O2 titrated down to 60%.  
+
+ID: Continues with increased temp; Tmax 103.2 rectally.  Receiving Tylenol fairly regularly with minimal effect.  Unasyn d/c'd; started Ceftriaxone, Clindamycin, Acyclovir.  Bld/urine/sputum cx PND.
+
+C/V: HR low 100s; started Atenolol, Lisinopril, and Lopressor PRN for HR >100.  SBPs one teens up to 160.  
+
+GI: NPO.  Meds via NGT.  Abdomen soft, present sounds.  No BM this shift.   Past hx of C-Diff, placed on contact precautions.  Family states ruled negative at nursing home.  
+
+GU: Foley patent for amber urine; quantities sufficient.
+
+ENDO: Covered with ss insulin.
+
+SOCIAL: Lives at nsg home; family very supportive/involved and knowledgable re: tx/meds.
+
+DISPO: Full code
+
+PLAN: Lopressor IV for HR>100  (Q6hr PRN)
+      IV ABX
+      Stool for C-diff 
+      EEG record Q hr
+      Monitor temp/APAP PRN
+      FSBS QID
+",,
+8445,7634,10492,0,3357-01-01 18:46:00 EST,3357-01-01 18:54:00 EST,2815,"N",69,"Nursing/Other","Nursing Addendum: 0700-1900","
+Nursing Addendum: 0700-1900
+Valproic Acid level = 35; MD [**Location (un) 1080**] will write additional orders.
+Potassium = 3.2; gave Kcl 40MEQ via NGT at 1830.
+Please send trough Valproic acid level in AM.
+
+",,
+8445,7634,10492,,3357-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-2**] 11:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7798**]
+     Reason: eval infiltrate                                             
+     Admitting Diagnosis: SEIZURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old man with seizure.                                                  
+       
+     REASON FOR THIS EXAMINATION:
+      eval infiltrate                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest [**3357-1-2**].
+     
+     COMPARISON:  [**3356-12-31**].
+     
+     INDICATION:  Seizure.
+     
+     This is a repeat dictation for a previously lost report.
+     
+     A nasogastric tube remains in place, coiling in the proximal stomach.  Cardiac
+     silhouette is mildly enlarged but stable.  Previously noted right perihilar
+     opacity has improved, but there are worsening opacities in the retrocardiac
+     portions of both lower lobes and in the left perihilar region.  Small left
+     pleural effusion is noted.
+     
+     IMPRESSION:  Resolution of right perihilar opacity, but worsening opacities in
+     the retrocardiac region of both lower lobes, which could be due to recurrent
+     aspiration event in this patient with history of seizures.
+
+",,
+8445,7634,10492,,3357-01-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8445,7634,10492,0,3357-01-02 07:01:00 EST,3357-01-02 07:17:00 EST,2768,"N",69,"Nursing/Other","MICU-B, NPN:","
+MICU-B, NPN:
+Neuro:  Pt. non-verbal until end of shift when made attempts to speak but mostly mouthing words/incpmprehensible speech.  PERRLA @ 3mm, Moves RUE, LUE, RLE on bed but no movement noted to LLE.  EEG done approx. q 90 minutes this shift.  Gave total extra  750mg Valproic acid.  Trough pending.  Discussed possibility of HSV encephalitis with house staff, ? MRI for difinitive dx.
+
+CV:  HR 90's NSR w/o ectopy.  SBP 130's-150's.  Palpable peripherals.  Team asked for IVF D51/2 to be d/c'd d/t increasing coarseness of lung sounds.   Plan is to place better IV access.
+
+Resp:  O2Sats mid 90's on 60% Hi-flow mask.  de'Sat's X1 to mid 80's but responded well to suxn'ing.  RT rec'd. mucomyst- written for nebs but would like to use it as irrigant.  Lungs are coarse througout, increasingly diminished @ R base.  ? team to place A-line to follow ABG's.  
+
+Heme/lytes/micro:  Afebrile this shift.  Receiving Acyclovir for ? HSV encephalitis.  Clinda for pna.  All cx's NGTD.  Please send C.-diff. when possible.  
+
+GI:  NPO.  ? start TF's today. + BS, no BM.
+
+GU:  Foley to gravity draining amber clear urine.
+
+Derm:  D&I.
+
+Social:  FULL CODE.  Family involved.
+",,
+8445,7634,10492,0,3357-01-02 18:28:00 EST,3357-01-02 18:56:00 EST,2815,"N",69,"Nursing/Other","Nursing Process Note: 0700-1900","
+Nursing Process Note: 0700-1900
+NEURO: Increased interaction/movt beginning of shift.  Arousable to verbal/tactile stim.  Still not following commands as mental status remains relatively unchanged.  Continuing with EEG recordings.  Pupils 3mm/brisk bilat.  Valproic Acid dose decreased-level=54.  Tegretol=8.5.
+
+RESP: Continues on 50% humidified face mask. LS coarse.  Sats mid to high 90s.  CPT done with varying success; able to NTS for mod amt thick, yellow sputum early in shift.  RR spontaneously increases to >30 with no change in sats.  
+
+C/V: HR <100 consistently.  BP 130-140s/60s.   IVF d/c'd; KVO only.  Pulses easily palpable. Repleted with IV KPhos for Phos 1.3
+
+GI: Started TF Impact with fiber; currently @ 20cc/hr toward goal of 85cc/hr.  Abdomen soft, present sounds.  
+
+GU: Foley patent for amber urine; quantities sufficient.
+
+ENDO: Covered with SS insulin
+
+ID: Afebrile; receiving IV Clinda, acyclovir, Cef.
+
+SOCIAL: Family in; given update by SICU team.
+
+PLAN: Increase TF Q4 hrs for goal 85cc/hr.  Next advance 2000.
+      Monitor resp status
+      Follow up with chem sent at 1830
+      EEG recording 
+",,
+8445,7634,10492,0,3357-01-03 06:30:00 EST,3357-01-03 06:50:00 EST,2768,"N",69,"Nursing/Other","MICU-B, NPN:","
+MICU-B, NPN:
+Neuro:  Pt. waxes/wanes.  Aroused to voice but unresponsive verbally and withdrawing only from noxious stimuli.  PERRLA @ 3mm.  EEG done approx. q 90 minutes.  More alert following events such as nasopharyngeal suxn'ing/bathing/blood draws.  ? verbally responsive to noxious stimuli this a.m.
+
+CV:  HR 80's-90's NSR wo/o ectopy.  SBP 100's-150's.  Easily palpable peripherals.  Peripheral IV's d/c'd- able to replace with 18g X 1 to R ant. forearm.  
+
+Resp:  O2Sats high 90's on 50% face mask.  Spontaneously de'Sats to mid 80's- responds positively to aggressive suxn'ing via nasal trumpet.  Able to suxn. very copious thick tan sputum from what sounds like upper airway.  Very poor cough, impaired gag.  Receives CPT from PT.  LUngs sound coarse throughout.  ABG this a.m. 7.46, 43, 81.  
+
+Heme/lytes/micro:  HIT Ab sent d/t plaetlet ct. 51 this a.m.  K+ 3.4 repleted with 60 mEq KCl.  Hung 40mEq KCl in 500cc but d/c'd @ 5:00 d/t K+ 4.4 with a.m. labs.  Mg 1.8 repleted with 2g MgSo4, Mg this a.m. 2.4.  Afebrile.  Clinda., Ceftaz. for asp. pnx.  Acyclovir for ? HSV encephalopathy.  
+
+GI:  Impact with fiber advanced to 60cc hr with minimal residuals via NGT to L nare.  Goal is 80cc/hr.  +BS, no BM.  
+
+GU:  Foley to gravity draining clear yellow urine.
+
+Derm:  D&I.
+
+Social:  FULL CODE.  Family involved.
+",,
+8445,7634,10492,0,3357-01-03 17:26:00 EST,3357-01-03 17:48:00 EST,2560,"N",69,"Nursing/Other",,"
+
+
+FULL CODE    Universal Precautions    Allergy: Dilantin
+
+
+Neuro:  Occ opens eyes spont, occ to name.  Not following commands.  Moving upper extrems spont - L better than R; will move R leg spont/stim, but L leg will move with deep stim.  Minimal cough reflex - will cough when NT sx cath is completely inserted.  No gag reflex.  Occ grunts.  Pt has not received any sedation. No further EEG testing and it will be removed by EEG tomorrow.  EEGs were inconclusive per neuro team.  Valproic acid and tegretol doses changed.
+
+Cardiac:  HR=60-80s, NSR w/ Occ PACs.  BP=130-150/60s.  +perpiph pulses, no edema, extrems cool. On Lisinopril and Atenelol.
+
+Resp:  40% FM w/ 02 sat 96-98%.  Suctioning less secretions via nasal trumpet as the day went on - still thick,tan.  Maintained 02 sat well thru-out the day.  BS coarse prior to sx at times, but then cleared.  CPT done.
+
+GI/GU:  Abd soft, +BS, no BM.  TF Impact w/ fiber at goal = 70cc/hr w/ minimal resids (20cc).  Pepcid d/c'd and started on protonix.  Foley cath w/ clear yellow urine.  
+
+Other:  Does not appear to be in any discomfort.  Skin intact
+
+Antibx:  febrile.  On clindamycin, ceftriaxone and acyclovir
+
+Social:  Spoke to son on phone this am and Daughter was in to visit this afternoon. 
+
+Labs:  FS=150s - covered by ISSC; HIT antibodies negative.
+
+Plan:  Continue to monitor neuro/cardiac/resp status.  Monitor labs - rx as ordered.  
+",,
+8445,7634,10492,,3357-01-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-4**] 5:54 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7799**]
+     Reason: please compare                                              
+     Admitting Diagnosis: SEIZURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old man with seizure.                                                 
+         
+     REASON FOR THIS EXAMINATION:
+      please compare                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Seizure.
+     
+     A SINGLE AP UPRIGHT VIEW: Comparison:  [**3357-1-2**].
+     
+     The heart shows slight LV enlargement.  The pulmonary vessels are within
+     normal limits, allowing for posture.  There is again evidence of ill-defined
+     patchy pulmonary infiltrates/atelecatasis in both lung bases.  There is also
+     blunting of the left cp angle, suggesting a  small effusion.  These findings
+     could be due to aspiration pneumonitis.  An ET tube is noted extending into
+     the lower portion of the stomach.  Bilateral [**Location (un) 766**] rods are again noted
+     in the lumbar region.
+     
+     IMPRESSION:  The appearances are essentially unchanged since [**1-2**].  Bibasilar
+     pulmonary infiltrates are noted, consistent with aspiration pneumonitis.
+     There is minimal improvement at this time, if any.
+     
+     
+
+",,
+8445,7634,10492,0,3357-01-04 07:02:00 EST,3357-01-04 07:10:00 EST,1951,"N",69,"Nursing/Other",,"
+
+NPN NOcs:
+     Nuero: See careview for specifics. MAE. opens eyes to voice. does not follow commands. words garbled. No seizure activity.
+     ID: tmax 101. HO notified. blood cx and UA sent as ordered. CXR done. tylenol given. on Acyclovir/Clinda.
+     rESP: requiring frequent sx later in shift for thick tan secretions. Sats high 90's. rr 20's. LS intermittently course. cpt done lightly x 2. remains on 40% hiflow neb. recieved albuterol neb x 1 for wheezing.
+     CV: sbp 130's-140's. HR 70's80's with pvc's. On lisinopril and atenolol. 
+     GU: UO 40-100. 
+     GI: tf's at max. no residual. no stool.
+     endo: fsbs requiring ss coverage x 1. 
+     A/P: pt with temp spike o/n. Neuro status essentially unchanged. requiring frequent pulmonary toilet. plan is for 1 more eeg this am, then eeg to be dc'd. 
+",,
+8445,7634,10492,0,3357-01-04 10:56:00 EST,3357-01-04 11:03:00 EST,1711,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 0700-1100","
+NURSING PROGRESS NOTE 0700-1100
+NEURO--PT MORE ALERT AS THE MORNING PASSES. HE IS AWAKE AND SPEAKS IN INCOMPREHENSIBLE SOUNDS. DOES NOT FOLLOW COMMANDS. MAE SPONT BUT NOT TO COMMAND. EEG LEADS TO COME OFF TODAY. POSSIBLE MRI TOMORROW. NO SEIZURE ACTIVITY NOTICED. ANTISEIZURE DRUG DOSAGE INCREASED.
+
+GI--TOL TUBE FEEDS WITH MIN RESIDUAL. LGR LIQUID STOOL THIS AM.
+
+GU--UO >40 CC HR.
+
+CARDIAC--BP STABLE. K+3.3. RECEIVED 30 MEQ PNGT. TO RECEIVE ADDITIONAL 30 PNTG AND 40MEQ IN 500 CC D5W. PT IS HAVING FREQUENT PVC'S.
+
+RESP--NTS X2 FOR SMALL AMTS OF THICK TAN SPUTUM. NASAL TRUMPET D/CED BECAUSE MUCOUS PLUG WOULD NOT ALLOW FOR CATHETER TO PASS. SAO2 ON HI FLOW 40% 97%.
+
+SKIN--INTACT.
+
+COPING--NO FAMILY MEMBERS HAVE PHONED THIS AM.
+
+A--MENTAL STATUS IMPROVING FROM EARLIER TODAY.
+
+P==CON'T PULM TOILET. CON'T TO REORIENT AND REDIRECT AS NEEDED. PROVIDE SAFETY TO PT.
+
+",,
+8445,7634,10492,0,3357-01-04 17:47:00 EST,3357-01-04 17:56:00 EST,2720,"N",69,"Nursing/Other",,"
+
+MICU Nursing Progress Note 11a-7p
+Neuro-
+Cont to be alert to stimuli, Not FC, MAE, spont speaking garbled words.  EEG leads taken off. antisz rx cont. Improved overall. Neuro rec>tegretol levels therapeutic, MRI wed [**1-5**]
+Resp-
+Probable asp pnx. Cool neb .40 w/ sat 95%, desat to 88-89% on RA. BS-upper clear/course w/ intermittent exp wheezes, lower course, good airiation. CPT bilat given q4-5hr w/ good prod of sputum via nst sx q4h-thick tan. RR 20-23.
+CV- 
+Stable- 13-150/50's, HR  55-65 NSR;cont on CAD rx.
+Fluids/Nut/GI
+Impact w/ fiber @ 70/h=goal, BS+, NT, ND, soft. Small brown stool x3. IVF @ kvo. u/o 50-100/hr. I=2695/O=2360.
+ID-
+afebrile, only + cx is of sputum, BC are pending. wbc 12k.
+A/P
+s/p sz event, now improving, more alert, rx given, achieving tx levels tegretol.
+Propable asp pnx, on antibx, afebrile, cont CPT.
+Social-Family visiting and calling. All updated. Neuro page #given for them to obtain direct info.
+",,
+8445,7634,10492,,3357-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-5**] 6:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7800**]
+     Reason: assess for infiltrate                                       
+     Admitting Diagnosis: SEIZURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         80 year old man with seizure.                                                
+           
+     REASON FOR THIS EXAMINATION:
+      assess for infiltrate                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Seizure, ?infiltrate.
+     
+     Comparison is made to the prior chest x ray on [**3357-1-4**].
+     
+     SUPINE AP CHEST: There is an NG tube present in stable position. The heart and
+     mediastinal contours are unchanged. There has been interval improvement and
+     re-expansion of the ill-defined bibasilar patchy opacities. There is again
+     noted bilateral [**Location (un) 766**] rods in the lumbar region.
+     
+     IMPRESSION: Further clearing of bilateral infiltrate/atelectasis at the lung
+     bases.
+
+",,
+8445,7634,10492,,3357-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-5**] 1:21 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 7801**]
+     Reason: Please aquire DWIs, and T1 w gad and T2 coronals            
+     Admitting Diagnosis: SEIZURE
+      Contrast: MAGNEVIST Amt: 13
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old man with ?sz has PLEDS from left temporal and fluctuating LOC. 
+      Please evaluate for encephalitis, stroke, or structural abnormalities. Thx
+     REASON FOR THIS EXAMINATION:
+      Please aquire DWIs, and T1 w gad and T2 coronals                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fluctuating loss of consciousness.
+     
+     TECHNIQUE: Multiplanar T1 and T2 images of the brain pre contrast, T1 coronal
+     images post contrast.  Susceptibility, FLAIR, and diffusion-weighted images
+     were also obtained.  13 cc of Magnevist was used for this examination.
+     
+     Comparison is made to [**3356-12-30**].
+     
+     FINDINGS:
+     MRI OF THE BRAIN WITH AND WITHOUT GADOLINIUM:
+     
+     There is a moderate amount of brain atrophy with widening of the sulci and
+     ventricles bilaterally, unchanged from the prior study.  FLAIR images
+     demonstrate several areas of bilateral punctate increased signal intensity
+     within the periventricular white matter consistent with small vessel ischemic
+     disease, also unchanged from the prior study.  There are no new areas of
+     increased signal intensity.
+     
+     Diffusion-weighted images show no areas of abnormally slowed diffusion.
+     Susceptibility images show no areas of abnormal susceptibility artifact to
+     suggest acute intracranial hemorrhage.  There is no shift of normally midline
+     structures noted.  There is no abnormal enhancement on post-gadolinium images
+     to suggest parenchymal mass.  The hippocampi and temporal lobes appear
+     symmetric, and are unchanged in appearance from the prior study.
+     
+     Again is noted a lobulated mass lesion in the anterior maxilla which shows
+     increased T2 signal and no enhancement post contrast.  This is also unchanged
+     in appearance.  There is mucosal thickening in the right maxillary sinus.
+     
+     IMPRESSION:  No evidence of acute infarction or intracranial hemorrhage.  No
+     parenchymal mass lesion is noted on the post-contrast images.  Symmetric
+     appearance to the hippocampi and temporal lobes without evidence of acute
+     encephalitis.  Overall, there has been no change in the appearance of the
+     brain compared with the study of [**3356-12-30**].
+                                                                 (Over)
+
+     DATE: [**3357-1-5**] 1:21 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 7801**]
+     Reason: Please aquire DWIs, and T1 w gad and T2 coronals            
+     Admitting Diagnosis: SEIZURE
+      Contrast: MAGNEVIST Amt: 13
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8445,7634,10492,,3357-01-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-5**] 1:21 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 7801**]
+     Reason: Please aquire DWIs, and T1 w gad and T2 coronals            
+     Admitting Diagnosis: SEIZURE
+      Contrast: MAGNEVIST Amt: 13
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old man with ?sz has PLEDS from left temporal and fluctuating LOC. 
+      Please evaluate for encephalitis, stroke, or structural abnormalities. Thx
+     REASON FOR THIS EXAMINATION:
+      Please aquire DWIs, and T1 w gad and T2 coronals                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fluctuating loss of consciousness.
+     
+     TECHNIQUE: Multiplanar T1 and T2 images of the brain pre contrast, T1 coronal
+     images post contrast.  Susceptibility, FLAIR, and diffusion-weighted images
+     were also obtained.  13 cc of Magnevist was used for this examination.
+     
+     Comparison is made to [**3356-12-30**].
+     
+     FINDINGS:
+     MRI OF THE BRAIN WITH AND WITHOUT GADOLINIUM:
+     
+     There is a moderate amount of brain atrophy with widening of the sulci and
+     ventricles bilaterally, unchanged from the prior study.  FLAIR images
+     demonstrate several areas of bilateral punctate increased signal intensity
+     within the periventricular white matter consistent with small vessel ischemic
+     disease, also unchanged from the prior study.  There are no new areas of
+     increased signal intensity.
+     
+     Diffusion-weighted images show no areas of abnormally slowed diffusion.
+     Susceptibility images show no areas of abnormal susceptibility artifact to
+     suggest acute intracranial hemorrhage.  There is no shift of normally midline
+     structures noted.  There is no abnormal enhancement on post-gadolinium images
+     to suggest parenchymal mass.  The hippocampi and temporal lobes appear
+     symmetric, and are unchanged in appearance from the prior study.
+     
+     Again is noted a lobulated mass lesion in the anterior maxilla which shows
+     increased T2 signal and no enhancement post contrast.  This is also unchanged
+     in appearance.  There is mucosal thickening in the right maxillary sinus.
+     
+     IMPRESSION:  No evidence of acute infarction or intracranial hemorrhage.  No
+     parenchymal mass lesion is noted on the post-contrast images.  Symmetric
+     appearance to the hippocampi and temporal lobes without evidence of acute
+     encephalitis.  Overall, there has been no change in the appearance of the
+     brain compared with the study of [**3356-12-30**].
+                                                                 (Over)
+
+     DATE: [**3357-1-5**] 1:21 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 7801**]
+     Reason: Please aquire DWIs, and T1 w gad and T2 coronals            
+     Admitting Diagnosis: SEIZURE
+      Contrast: MAGNEVIST Amt: 13
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8445,7634,10492,0,3357-01-05 03:45:00 EST,3357-01-05 03:58:00 EST,2768,"N",69,"Nursing/Other","MICU-B, NPN:","
+MICU-B, NPN:
+Neuro:  Spontaneously alert, opening eyes with periods of agitation- swings legs over siderails.  Frequent incomprehensible speech with occasional clear, brief statements like, ""Don't do that.""  PERRLA @ 2mm, MAE independently but leans towards L side.Prelim. results of cont. EEG shows PLEDS, or indicator of subcortical abnormality as per team.  Pt. does have chronic bony cyst above upper palate in mouth- ORL examined and determined it could be addressed as outpt.  ? MRI today.
+
+CV:  HR 70's-90's NSR with occ. multi-form PVC's.  SBP 120's-150's, easily palpable peripheral pulses.  ? EF 30%.
+
+Resp: Lungs are coarse upper lobes, diminished @ bases.  O2Sats mid 90's on 40% Hi-flow humidified mask.  Does not always clear own secretions well, requires nasopharyngeal suxn'ing.  
+
+Heme/lytes/micro:  Afebrile this shift.  Grew g neg. rods to sputum [**1-1**], tx'd for asp. pna.  Acyclovir for ? HSV encephalopathy.  Team  added on HSV PCR to CSF taken [**12-30**].  MRSA/VRE screen sent.  Has h/o C.Diff.  FSBG qid.
+
+GI:  TF's Impact with fiber @ 70cc/hr with minimal residuals.  +BS.  Fecal incontinence bag applied- stool is OB neg.  
+
+GU:  Foley to gravity draining claer yellow urine.  Goal is to keep pt. euvolemic.  
+
+Derm:  D&I.
+
+Social:  FULL CODE but advanced directive is in chart.  Pt. signed statement indicating that he would not want measures taken to prolong his life should he be remain in a vegetative state w/o hope of recovery.  
+",,
+8445,7634,10492,0,3357-01-05 17:20:00 EST,3357-01-05 17:46:00 EST,2815,"N",69,"Nursing/Other","Nursing Process Note: 0700-1900","
+Nursing Process Note: 0700-1900
+NEURO: Intermittent periods of increased movt/garbled speech alternating with periods of lethargy.  Does not follow commands.  MAE, purposeful movt toward face mask.  Sent for MRI today; neuro team questioning additional sz activity.  Received total of 3mg Ativan IV during MRI.
+
+C/V: Held Atenolol for SBP <110. Will reasses before end of shift. HR 80s, no ectopy.
+
+RESP: Ineffective cough, receiving CPT by RN and PT.  NTS for thick, tan sputum, blood tinged sputum; difficult entering airway.  Sats remaine mid 90s on 40% Hum face mask.  LS coarse bilat.
+
+GI: Abdomen soft, nondist.  Liquid brn stool sent for C-diff today.  TF Impact with fiber at goal rate of 71cc/hr via NGT.
+
+GU: Foley patent for CYU.  
+
+ID: Afebrile this shift.  Receiving Levo/Vanco/Acyclovir.
+
+ENDO: Covered with SS insulin.
+
+SOCIAL: Family in to visit; encouraged by ability to speak some words.
+
+DISPO: Full code; continues to be ICU patient secondary to frequent resp needs.
+
+PLAN: Tegretol dose increased; needs to receive total of 800mg today;        please give 200mg at 2000 this eve then back to normal dosing.
+      EEG ordered
+      Freq pulmonary assessment
+      IV/PO ABX
+",,
+8445,7634,10492,0,3357-01-06 03:38:00 EST,3357-01-06 04:03:00 EST,2768,"N",69,"Nursing/Other","MICU-B, NPN:","
+MICU-B, NPN:
+Neuro:  Pt. alert and opening eyes spontaneously throughout shift but unable to follow commands.  MAE independently, PERRLA @2mm.  Received X1 extra dose Tegretol @ 400mg.  Latest head imaging done [**1-5**] does not show new findings form [**12-30**].  Pt. is verbal but speech is garbled and is not relevant to time/place when comprehensible.  Needs to be tranferred OOB to chair.
+
+CV:  HR 70's-90's NSR with occ. multi-form PVC's.  SBP 110's- 150's.  Peripheral pulses are palpalbe.  
+
+Resp:  O2Sats mid-high 90's on 40% humidified mask.  De'Sats to mid 80's when removes mask.  Lungs are coarse with transient I/E wheezes and diminished @ bases.  Very productive cough but is unable tot completely clear upper airway.  Attempted to suxn. pt. both oro-pharyngeally and [**Last Name (un) **]-pharyngeally but pt. very resisitent- combative and biting @ suxn. catheter.  Receives CPT during [**Name6 (MD) 206**] from RN and PT.  
+
+Heme/lytes/micro:  HIT Ab negative.  Afebrile this shift.  Tx'd with Vanco./Levo./Falgyl for g- rods to sputum, likely asp. pna. from seizure.  Nasal swabs neg. for VRE, MRSA screen pending.  CSF cx neg., U cx neg., HSV PCR pending- will cont. Acyclovir until results back.  
+Stool sent for C.Diff. FSBG qid, cover per RISS.
+
+GI:  TF' Impact with fiber @ 70cc/hr are @ goal with minimal residuals.  +BS, stooling liquid brown stool into fecal incontinence bag.  
+
+GU:  Foley to gravity draining clear yellow urine.  
+
+Derm:  D&I.
+
+Social:  FULL CODE, ? if this is in accordance with pt.'s real wishes per advanced directive in front of chart.  Family's goal is to get pt. back to [**Doctor First Name 5763**] Bay nursing home.  
+",,
+8445,7634,,,3357-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-7**] 4:39 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7802**]
+     Reason: eval ngt placement                                          
+     Admitting Diagnosis: SEIZURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          80 year old man with seizure, and confusion. s/p ngt placement              
+                                           
+     REASON FOR THIS EXAMINATION:
+      eval ngt placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check nasogastric tube placement in patient with seizure and
+     confusion.
+     
+     PORTABLE CHEST:  An upright view was obtained at 4:46 P.M. is compared to
+     [**3357-1-5**].  The nasogastric tube is coiled in the pharynx and in the thoracic
+     esophagus.  The tip is in the lower cervical esophagus. The right perihilar
+     opacities, most likely representing aspiration is not significantly changed.
+     The left lung is clear.
+     
+     IMPRESSION:  Coiled nasogastric tube with tip in cervical esophagus.
+
+",,
+8445,7634,,,3357-01-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-7**] 6:02 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7803**]
+     Reason: new ngt placement                                           
+     Admitting Diagnosis: SEIZURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           80 year old man with seizure, and confusion. s/p ngt placement             
+                                             
+     REASON FOR THIS EXAMINATION:
+      new ngt placement                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check nasogastric tube placement in patient with seizure and
+     confusion.
+     
+     PORTABLE CHEST: Semi upright view obtained at 6:10 P.M. is compared to study
+     from one hour earlier.  The distal end of the nasogastric tube is now coiled
+     in the stomach with the tip projecting over the left upper quadrant of the
+     abdomen.  The right perihilar pulmonary opacities shows continued improvement.
+     
+     IMPRESSION:  Nasogastric tube tip in stomach.
+
+",,
+8445,7634,,,3357-01-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-8**] 11:31 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7804**]
+     Reason: check NG tube placementevaluate pneumonia                   
+     Admitting Diagnosis: SEIZURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            80 year old man with seizure, and confusion. s/p ngt placement            
+                                               
+     REASON FOR THIS EXAMINATION:
+      check NG tube placementevaluate pneumonia                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 80 year old man with seizure and confusion status post NG tube
+     placement.
+     
+     Comparison is made to prior study dated [**3357-1-7**]. The tip of the NG tube is in
+     the body of the stomach. Right perihilar pulmonary opacity is unchanged.
+     
+
+",,
+8445,7757,,,3357-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-19**] 2:53 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7805**]
+     Reason: 81 yo male with pmh cad now with hypotension
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with 
+     REASON FOR THIS EXAMINATION:
+      81 yo male with pmh cad now with hypotension
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypotension.
+     
+     COMPARISONS: [**3357-1-8**]
+     
+     PORTABLE AP CHEST:  The heart is enlarged. There is pulmonary vascular
+     engorgement with prominence of the interstitium. There is no right pleural
+     effusion. The left costophrenic angle is obscured by overlying artifact. There
+     are no focal consolidations. The bones are unremarkable.
+     
+     IMPRESSION:  Findings consistent with mild heart failure, new since the prior
+     study.
+
+",,
+8445,7757,,,3357-01-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-19**] 4:16 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7806**]
+     Reason: CHANGE IN MENTAL STAUS, EYES DEVIATED TO RIGHT , LETHARGY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       80 year old man with acute change in mental status, eyes deviated to right     
+       
+     REASON FOR THIS EXAMINATION:
+      fall - lethargy                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGxb WED [**3357-1-19**] 6:22 PM
+      No ICH. Chronic changes -- nothing new since [**3356-12-30**].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Change in mental status. Eyes deviated to the right.
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     COMPARISON: [**3356-12-30**].
+     
+     FINDINGS: The image quality is somewhat degraded by patient motion. There is
+     no evidence of intra- or extra-axial hemorrhage. There is no shift of normally
+     midline structures or mass effect. The ventricles, cisterns, and sulci are
+     prominent but unchanged.
+     
+     There is a bilobed CSF density lesion posterior to the left cerebellar
+     hemisphere which is unchanged and likely represents a giant cisterna magna.
+     
+     There is hypoattenuation of the periventricular white matter consistent with
+     chronic microvascular angiopathy. The [**Doctor Last Name 30**]-white matter differentiation is
+     preserved. There are no ossseous or soft tissue abnormalities. The mastoid air
+     cells and visualized paranasal sinuses are clear.
+     
+     IMPRESSION: No evidence of intracranial hemorrhage and no change from prior
+     study. Chronic changes as described.
+     
+     
+
+",,
+8445,7757,10493,,3357-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-20**] 1:01 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7807**]
+     Reason: line placement, r/o PTX                                     
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             80 year old man with seizure, and confusion. s/p ngt placement           
+                                                 
+     REASON FOR THIS EXAMINATION:
+      line placement, r/o PTX                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM:
+     
+     History of seizure and confusion with CV line placement.
+     
+     Right jugular CV line is in mid SVC.  No pneumothorax and no change in
+     appearance of the heart or lungs since the previous film of [**3357-1-19**].
+     The patient is s/p fusion upper lumbar spine.
+
+",,
+8445,7757,10493,,3357-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-20**] 12:57 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7809**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o other intraabdominal etiology, C.diff colitis.          
+     Admitting Diagnosis: HYPOTENSION
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with WBC # 46, admitted with sepsis, likely urosepsis v. 
+      secondary to C.diff.
+     REASON FOR THIS EXAMINATION:
+      r/o other intraabdominal etiology, C.diff colitis.                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Sepsis.  Clinical suspicion for urinary tract infection or C.
+     difficile colits as source of infection.
+     
+     COMPARISON:  No prior studies.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis with oral contrast and 150 cc of IV optiray.
+      Coronal reconstructions were performed.
+     
+     ABDOMEN CT WITH IV CONTRAST:  Atelectasis present at both lung bases.  There
+     are several small low-attenuation lesions within the liver, which are
+     nonspecific in appearance.  There is a large calcified granuloma within the
+     upper pole of the spleen.  The gallbladder, pancreas and adrenal glands are
+     unremarkable.  Multiple renal cysts are present bilaterally, with the largest
+     cyst in the upper pole of the right kidney measures 4.2 x 5.1 cm.  The
+     nasogastric tube terminates within the stomach.  There is no mesenteric or
+     retroperitoneal lymphadenopathy.  There is no free air or free fluid.
+     
+     There is an infrarenal abdominal aortic aneurysm measuring 5.3 cm in AP
+     diameter and 4.7 cm in transverse diameter.  The aneurysm contains a large
+     anterior thrombus.  The celiac, superior mesenteric, inferior mesenteric and
+     bilateral renal arteries are patent.  Incidental note is made of a replaced
+     right hepatic artery.
+     
+     PELVIC CT WITH IV CONTRAST:  There is diffuse thickening of the colon wall,
+     consistent with pancolitis.  If there is a confirmed C. difficile infection,
+     then this represents C. difficile colitis.  Otherwise, other infectious or
+     inflammatory causes cannot be distinguished.  There is no perforation or
+     abscess. The small bowel is unremarkable. The prostate is markedly enlarged,
+     measuring 6 x 7 cm. There is bladder wall thickening, probably secondary to
+     prostatic enlargement. A Foley catheter is seen within the bladder.  There is
+     no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Surgical rods are present within the lumbar spine.  There are
+     no suspicious lytic or sclerotic lesions within the visualized osseous
+     structures.
+     
+     CT RECONSTRUCTIONS:  Coronal reconstructions confirm the presence of diffuse
+                                                                 (Over)
+
+     DATE: [**3357-1-20**] 12:57 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7809**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o other intraabdominal etiology, C.diff colitis.          
+     Admitting Diagnosis: HYPOTENSION
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     colon wall thickening consistent with pancolitis.
+     
+     IMPRESSION:
+     1)  Diffuse colon wall thickening consistent with pancolitis, which may
+     represent C. difficile colitis in the appropriate clinical setting. This was
+     discussed with the resident covering for Dr. [**Last Name (STitle) 7810**] at 4:20 pm on [**3357-1-20**].
+     2)  Infrarenal abdominal aortic aneurysm measuring 5.3 cm in AP diameter.
+     3)  Small non-specific low attenuation liver lesions.
+     4)  Marked prostatic enlargement.
+     
+
+",,
+8445,7757,10493,,3357-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-20**] 12:57 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7809**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o other intraabdominal etiology, C.diff colitis.          
+     Admitting Diagnosis: HYPOTENSION
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with WBC # 46, admitted with sepsis, likely urosepsis v. 
+      secondary to C.diff.
+     REASON FOR THIS EXAMINATION:
+      r/o other intraabdominal etiology, C.diff colitis.                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Sepsis.  Clinical suspicion for urinary tract infection or C.
+     difficile colits as source of infection.
+     
+     COMPARISON:  No prior studies.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis with oral contrast and 150 cc of IV optiray.
+      Coronal reconstructions were performed.
+     
+     ABDOMEN CT WITH IV CONTRAST:  Atelectasis present at both lung bases.  There
+     are several small low-attenuation lesions within the liver, which are
+     nonspecific in appearance.  There is a large calcified granuloma within the
+     upper pole of the spleen.  The gallbladder, pancreas and adrenal glands are
+     unremarkable.  Multiple renal cysts are present bilaterally, with the largest
+     cyst in the upper pole of the right kidney measures 4.2 x 5.1 cm.  The
+     nasogastric tube terminates within the stomach.  There is no mesenteric or
+     retroperitoneal lymphadenopathy.  There is no free air or free fluid.
+     
+     There is an infrarenal abdominal aortic aneurysm measuring 5.3 cm in AP
+     diameter and 4.7 cm in transverse diameter.  The aneurysm contains a large
+     anterior thrombus.  The celiac, superior mesenteric, inferior mesenteric and
+     bilateral renal arteries are patent.  Incidental note is made of a replaced
+     right hepatic artery.
+     
+     PELVIC CT WITH IV CONTRAST:  There is diffuse thickening of the colon wall,
+     consistent with pancolitis.  If there is a confirmed C. difficile infection,
+     then this represents C. difficile colitis.  Otherwise, other infectious or
+     inflammatory causes cannot be distinguished.  There is no perforation or
+     abscess. The small bowel is unremarkable. The prostate is markedly enlarged,
+     measuring 6 x 7 cm. There is bladder wall thickening, probably secondary to
+     prostatic enlargement. A Foley catheter is seen within the bladder.  There is
+     no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Surgical rods are present within the lumbar spine.  There are
+     no suspicious lytic or sclerotic lesions within the visualized osseous
+     structures.
+     
+     CT RECONSTRUCTIONS:  Coronal reconstructions confirm the presence of diffuse
+                                                                 (Over)
+
+     DATE: [**3357-1-20**] 12:57 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7809**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o other intraabdominal etiology, C.diff colitis.          
+     Admitting Diagnosis: HYPOTENSION
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     colon wall thickening consistent with pancolitis.
+     
+     IMPRESSION:
+     1)  Diffuse colon wall thickening consistent with pancolitis, which may
+     represent C. difficile colitis in the appropriate clinical setting. This was
+     discussed with the resident covering for Dr. [**Last Name (STitle) 7810**] at 4:20 pm on [**3357-1-20**].
+     2)  Infrarenal abdominal aortic aneurysm measuring 5.3 cm in AP diameter.
+     3)  Small non-specific low attenuation liver lesions.
+     4)  Marked prostatic enlargement.
+     
+
+",,
+8445,7757,10493,,3357-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-20**] 12:57 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7809**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o other intraabdominal etiology, C.diff colitis.          
+     Admitting Diagnosis: HYPOTENSION
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with WBC # 46, admitted with sepsis, likely urosepsis v. 
+      secondary to C.diff.
+     REASON FOR THIS EXAMINATION:
+      r/o other intraabdominal etiology, C.diff colitis.                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Sepsis.  Clinical suspicion for urinary tract infection or C.
+     difficile colits as source of infection.
+     
+     COMPARISON:  No prior studies.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis with oral contrast and 150 cc of IV optiray.
+      Coronal reconstructions were performed.
+     
+     ABDOMEN CT WITH IV CONTRAST:  Atelectasis present at both lung bases.  There
+     are several small low-attenuation lesions within the liver, which are
+     nonspecific in appearance.  There is a large calcified granuloma within the
+     upper pole of the spleen.  The gallbladder, pancreas and adrenal glands are
+     unremarkable.  Multiple renal cysts are present bilaterally, with the largest
+     cyst in the upper pole of the right kidney measures 4.2 x 5.1 cm.  The
+     nasogastric tube terminates within the stomach.  There is no mesenteric or
+     retroperitoneal lymphadenopathy.  There is no free air or free fluid.
+     
+     There is an infrarenal abdominal aortic aneurysm measuring 5.3 cm in AP
+     diameter and 4.7 cm in transverse diameter.  The aneurysm contains a large
+     anterior thrombus.  The celiac, superior mesenteric, inferior mesenteric and
+     bilateral renal arteries are patent.  Incidental note is made of a replaced
+     right hepatic artery.
+     
+     PELVIC CT WITH IV CONTRAST:  There is diffuse thickening of the colon wall,
+     consistent with pancolitis.  If there is a confirmed C. difficile infection,
+     then this represents C. difficile colitis.  Otherwise, other infectious or
+     inflammatory causes cannot be distinguished.  There is no perforation or
+     abscess. The small bowel is unremarkable. The prostate is markedly enlarged,
+     measuring 6 x 7 cm. There is bladder wall thickening, probably secondary to
+     prostatic enlargement. A Foley catheter is seen within the bladder.  There is
+     no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Surgical rods are present within the lumbar spine.  There are
+     no suspicious lytic or sclerotic lesions within the visualized osseous
+     structures.
+     
+     CT RECONSTRUCTIONS:  Coronal reconstructions confirm the presence of diffuse
+                                                                 (Over)
+
+     DATE: [**3357-1-20**] 12:57 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7809**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o other intraabdominal etiology, C.diff colitis.          
+     Admitting Diagnosis: HYPOTENSION
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     colon wall thickening consistent with pancolitis.
+     
+     IMPRESSION:
+     1)  Diffuse colon wall thickening consistent with pancolitis, which may
+     represent C. difficile colitis in the appropriate clinical setting. This was
+     discussed with the resident covering for Dr. [**Last Name (STitle) 7810**] at 4:20 pm on [**3357-1-20**].
+     2)  Infrarenal abdominal aortic aneurysm measuring 5.3 cm in AP diameter.
+     3)  Small non-specific low attenuation liver lesions.
+     4)  Marked prostatic enlargement.
+     
+
+",,
+8445,7757,10493,,3357-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-20**] 12:57 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7809**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o other intraabdominal etiology, C.diff colitis.          
+     Admitting Diagnosis: HYPOTENSION
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with WBC # 46, admitted with sepsis, likely urosepsis v. 
+      secondary to C.diff.
+     REASON FOR THIS EXAMINATION:
+      r/o other intraabdominal etiology, C.diff colitis.                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Sepsis.  Clinical suspicion for urinary tract infection or C.
+     difficile colits as source of infection.
+     
+     COMPARISON:  No prior studies.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis with oral contrast and 150 cc of IV optiray.
+      Coronal reconstructions were performed.
+     
+     ABDOMEN CT WITH IV CONTRAST:  Atelectasis present at both lung bases.  There
+     are several small low-attenuation lesions within the liver, which are
+     nonspecific in appearance.  There is a large calcified granuloma within the
+     upper pole of the spleen.  The gallbladder, pancreas and adrenal glands are
+     unremarkable.  Multiple renal cysts are present bilaterally, with the largest
+     cyst in the upper pole of the right kidney measures 4.2 x 5.1 cm.  The
+     nasogastric tube terminates within the stomach.  There is no mesenteric or
+     retroperitoneal lymphadenopathy.  There is no free air or free fluid.
+     
+     There is an infrarenal abdominal aortic aneurysm measuring 5.3 cm in AP
+     diameter and 4.7 cm in transverse diameter.  The aneurysm contains a large
+     anterior thrombus.  The celiac, superior mesenteric, inferior mesenteric and
+     bilateral renal arteries are patent.  Incidental note is made of a replaced
+     right hepatic artery.
+     
+     PELVIC CT WITH IV CONTRAST:  There is diffuse thickening of the colon wall,
+     consistent with pancolitis.  If there is a confirmed C. difficile infection,
+     then this represents C. difficile colitis.  Otherwise, other infectious or
+     inflammatory causes cannot be distinguished.  There is no perforation or
+     abscess. The small bowel is unremarkable. The prostate is markedly enlarged,
+     measuring 6 x 7 cm. There is bladder wall thickening, probably secondary to
+     prostatic enlargement. A Foley catheter is seen within the bladder.  There is
+     no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  Surgical rods are present within the lumbar spine.  There are
+     no suspicious lytic or sclerotic lesions within the visualized osseous
+     structures.
+     
+     CT RECONSTRUCTIONS:  Coronal reconstructions confirm the presence of diffuse
+                                                                 (Over)
+
+     DATE: [**3357-1-20**] 12:57 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7809**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: r/o other intraabdominal etiology, C.diff colitis.          
+     Admitting Diagnosis: HYPOTENSION
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     colon wall thickening consistent with pancolitis.
+     
+     IMPRESSION:
+     1)  Diffuse colon wall thickening consistent with pancolitis, which may
+     represent C. difficile colitis in the appropriate clinical setting. This was
+     discussed with the resident covering for Dr. [**Last Name (STitle) 7810**] at 4:20 pm on [**3357-1-20**].
+     2)  Infrarenal abdominal aortic aneurysm measuring 5.3 cm in AP diameter.
+     3)  Small non-specific low attenuation liver lesions.
+     4)  Marked prostatic enlargement.
+     
+
+",,
+8445,7757,10493,,3357-01-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-20**] 2:07 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7808**]
+     Reason: NGT placement                                               
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              80 year old man with seizure, and confusion. s/p ngt placement          
+                                                   
+     REASON FOR THIS EXAMINATION:
+      NGT placement                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  NG tube placement, confusion.
+     
+     Low AP radiograph demonstrates the NG tube tip overlying the gastric fundus.
+     This is in satisfactory position.  Surgical hardware overlies the mid lumbar
+     spine.  The lower lung zones appear clear.  Note the lung apices are not
+     included in this radiograph.
+     
+     IMPRESSION:
+     
+     Satisfactory positioning of the NG tube.
+     
+
+",,
+8445,7757,10493,0,3357-01-20 05:25:00 EST,3357-01-20 05:36:00 EST,2702,"N",69,"Nursing/Other","MICU Nursing Progress Note","
+MICU Nursing Progress Note
+Neuro:  Pt confused.  Pt con't talks aloud inappropriate words.  Pt in 4pt restraints.  Pt follows commands inconsistantly.  Pt MAE.
+
+Cardiac:  Pt in SR/ST HR 90-110, BP stable in 110 sys on .15mcg/k/min levophed.  Wean as tolerated.  Pt needed multiple lyte repleation.  Pt recieved 500cc NS bolus.  CVP 4-7.  Pt has significant cardiac hx please monitor for signs of heart failure.
+
+Resp:  Pt on 4L NC.  Having much difficulty getting an O2 sat I believe box is broken, initially 97%.  BS clear decreased in bases.  Pt has strong cough.
+
+GI:  Pt has L nare NGT clamped, able to place meds.  +BS, -BM since arrival to ICU.  Pt has +hx for C-diff, multiple stool cx sent.  Pt has FIB in place.
+
+GU:  Pt has f/c with marginal u/o.  Amber in color and clear.  Pt suspected to be in urosepsis.  Pt on NS at 100cc/hr.
+
+Skin:  Pts peri area completely excoriated, tpl cream in room with nystatin.
+
+Access:  Pt has R IJ TL, L rad [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 2725**] x2.
+",,
+8445,7757,10493,0,3357-01-20 17:42:00 EST,3357-01-20 18:12:00 EST,2807,"N",69,"Nursing/Other",,"
+
+NPN 7a-7p
+
+Events: Levophed titrated off, down to CT this afternoon
+
+Neuro: A&Ox1 (person only), Hx dementia, looking for wife (who has since past), pt confused and disorganized, intermittently agitated and combative which increased when sundowning, pt rc'd a total of 7.5mg Haldol IV and 2mg Ativan IV this evening and continues to be agitated (almost successfully pulled out his A-line earlier), no seizure activity noted this shift, continues on tegretol, denies pain
+
+CV: HR 80-90's, NSR no ectopy, NBP 90-140's/40-60's, EKG done, CVP 5-15 (goal >8), levophed titrated off at 1145, MAP's >65, potassium repleted in am, +PP/csm
+
+Resp: LS clear throughout with diminished bases, Sats 96-99% on 2-4L nc, RR 14-20, Sats down to high 80's when agitated and restless
+
+GI: +bs, +loose green stool (2 rectal bags and 1 mushroom catheter), tolerated free water boluses and baricat (for abdominal CT)
+
+GU: u/o 90-130cc clear and yellow, maintenance fluid changed to kvo
+
+ID: Tmax 97.4, wbc 33.8 (46.1 on [**3357-1-19**]), pan cx'd in ED, blood cx sent, started on IV vanco and flagy, Ceftriaxone awaiting ID approval, +c-diff, stool cx sent
+
+Integ: perineum excoriated [**1-31**] to constant loose stooling, treated with topical cream/analgesic
+
+Social: daughter in to visit and son called for updates, very supportive
+
+Access: L radial A-line, sharp waveform, dressing changed; Multi-lumen RIJ, sharp waveform, and PIV REJ
+
+Code: DNR/DNI
+",,
+8445,7757,10493,0,3357-01-21 06:11:00 EST,3357-01-21 06:35:00 EST,2421,"N",69,"Nursing/Other",,"
+
+npn 7p-7a (see also careview for objective data)
+
+dx: urosepsis; hypotension, change in mental status, diarrhea
+
+neuro/c-v:
+remains very confused; observed to pull at ngt and other lines if let able to; therefore soft restraints used to prevent pt from self harm/injury; b/p labile depending on whether awake or asleep; when awake, sbp 150-160, when [**Doctor Last Name 5**], pt hypotensive, requiring low doses of levophed at times;  moves all exytremities against resistance; recewived haldol and ativan overnight for restlessness, hypertension;
+   admission hypotension likely d/t sepsis;
+
+resp:
+remains on 2-4 l nc O2; pt w/out observed resp difficulty or extra effort; 
+
+g-i:
+h/o c-diff; hospitalized in [**November 3356**] for asp pna; receiving flagyl;
+pt also s/p baricat, therefore chalky/white quality added to green liquid stool; mushroom cath inserted at hs to protect peri-area skin;
+
+g-u:
+urine clear yellow, qs via patent foley; a.m. creatinine 2.9, stable from 15:00 yest afternoon;
+
+skin:
+peri-area reddned, sore to pt when hygiene care received; rectal incontinence bag leaked despite repeated applications of new bags, therefore changed to mushroom cath; skin protection improved, mushrooom cath effective in collecting and draining urine; proective ointment applied to peri-area after cleansing;
+
+i.d.
+afebrile overnight; on abx; lactic acid 2.6 yest, down from 3.9
+
+access: 
+lines patent; sites wnl's;
+
+PLAN:
+1) continue abx
+2) protective hygiene cares
+3) lectrolyte replacements prn
+4) pt DNR/DNI
+5) npo for aspiration risk; ngt in place for meds and H2O
+6) anti-seizure meds
+7) provide for comfort for pt
+",,
+8445,7757,10493,0,3357-01-21 17:28:00 EST,3357-01-21 18:03:00 EST,2148,"N",69,"Nursing/Other","Micu Nursing Progress Notes","
+Micu Nursing Progress Notes
+Cardiac:  B/P 140-160/60-70,  HR 90's.  His B/P has been increasing slowly during the day so that  his lopressor was restarted at 12.5mg at 12n.  THis did nothing to his B/P so he was given a second 12.5mg at 14:30His B/P decreased slightly to the 160's/ but around 1800 was back to 170-180/80's.  The lopressor was increased to 25mg and the first dose given at 1800.
+
+Resp:  O2 3l NC with O2 sats 96-99%.  RR 20-27.  Breath sounds clear.  
+
+ID:  Temp has been 98.1-99.4, he remains on vanco IV and PO, flagyl and ceftriaxone.
+
+GU:  Foley draining clear urine, U/O 50-100cc/hr.  
+
+GI:  He remains NPO to rest colon.  He continues to have large amounts of green liquid stool via mushroom catheterh.
+
+Neuro:  Pt has been somulant, arousable to voice but doesn't follow commands.  He has been mumbling incomprehable sounds most of the day.  He has been MAE but has not been combative as described yesterday.  He remains restrainted by the wrists so that he will not pull out his NGT, which he has tried to do several times.  However his leg restraints have been removed and he has not tried to kick or get OOB since.  
+
+Social:  One of his sons called this am and was updated on his condition.  One of his daughters came to visit and his condition was discussed and all questions answered.
+
+Plan:  continue to monitor B/P, I&O and resp status.  If he remains sable he could get called out in the AM.
+",,
+8445,7757,10493,0,3357-01-22 05:02:00 EST,3357-01-22 05:14:00 EST,2078,"N",69,"Nursing/Other",,"
+
+NPN 7p-7a
+
+Events:  Pt. aggitated throughout the evening.  MSO4 given per resident's recommendation that pt. becomes acutely more delirious when having lower back pain.  2mg MSO4 given, did not appear to help.  25mg of Trazadone given which seemingly helped pt. calm and [**Doctor Last Name 5**] intermitently throughout the night.  Pt. SBP remains elevated. Lopressor increased to TID (25mg), may consider increasing to 50mg.  Pt. remains disoriented, confused with 1:1 observer.
+
+Review of systems:
+
+Neuro-  Agitation and pain treated as mentioned.  Pt. very confused all night with garbled speech saying ""1945.. build a wall near the other wall..."" .  Despite reorientation, pt. did not understand whereabouts.  Picking at foley catheter and CVP monitor.  Conts with 1:1 observer, would continue trazadone throughout the day.  
+
+Resp-  Pt. received on 3-4L NC.  Sat's 92-94%.  LS- very diminished with poor airation throughout.  ? atelectasis.  Mouth incredible dry and irratating.  Humidified O2 with shovel mask intiated.  Conts at 50-70% fio2.  ABG sent at MN d/t agitation 7.44/28/70/20- pt. mildly hypoxic.  Pt. with poor gag, weak cough.  High risk for nosocomial pna as not able to use IS or cough/ deep breath with prompting.  
+
+CV-  HR 70-80's.  BP 130-180's poorly controlled.  Lopressor increased to TID 25mg.  Would favor increasing or ordering IV for breakthrough hypertension.  Skin intact, red bottom s/t diarrhea. K+ 3.4 this evening; 40meQ given.  Am labs pending.
+
+GI-  Pt. conts with green liquid stool.  C.diff +.  Conts on flagyl.  NPO on PPI.  NGT for meds. ? start TF today.
+
+GU-  U/O adequate 40-60cc/hr.  D51/2 NS at 100cc/hr started overnoc.   
+
+ID-  Pt. remains on Vanco PO, IV (d/c'd), flagyl, ceftriaxone for c.diff, urosepsis, ? asp. pna.  
+
+Social-  no calls from family.  
+",,
+8445,7757,,,3357-01-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-24**] 3:22 PM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 7811**]
+     Reason: r/o aspiration                                              
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with C. difficile colitis and h/o aspiration PNA                
+     REASON FOR THIS EXAMINATION:
+      r/o aspiration                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 81 year old man with history of aspiration pneumonia.  Evaluate
+     aspiration.
+     
+     VIDEO OROPHARYNGEAL SWALLOW:  The study was performed in conjunction with the
+     speech and swallow service.  Various consistencies of barium were administered
+     to the patient.  With thin consistencies there is spillover into the piriform
+     sinuses both before and after the swallow phase with trace penetration.  There
+     is trace aspiration of thin consistencies after the swallow from the residue
+     spilling over from the piriform sinuses.  There is a spontaneous cough
+     associated with this trace aspiration however it is not fully effective.
+     Acute cough is more effective.  A 13 mm barium pill passes freely without
+     holdup.  For full details please see the speech swallow report in the
+     patient's online medical record.
+     
+     IMPRESSION: Trace aspiration of thin consistencies.
+
+",,
+8445,7757,,,3357-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-26**] 2:37 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7812**]
+     Reason: eval for pna/CHF.  -(film already done).                    
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               80 year old man with altered mental status, hypoxia.                   
+     REASON FOR THIS EXAMINATION:
+      eval for pna/CHF.  -(film already done).                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Altered mental status, assess for pneumonia or heart failure.
+     
+     SUPINE PORTABLE FRONTAL RADIOGRAPH.  Comparison is made to [**1-5**], [**1-19**], and
+     [**3357-1-20**].
+     
+     There is stable cardiomegaly.  A right IJ line is present within the mid SVC
+     and unchanged in position.  There has been increasing left retrocardiac
+     opacification consistent with atelectasis/consolidation.  In addition, there
+     are patchy ill-defined opacities within the right lower and mid lung zones
+     which are more prominent compared to the prior studies.  The pulmonary
+     vasculature appears normal.  There are no pleural effusions.  There is no
+     pneumothorax.
+     
+     IMPRESSION:  Cardiomegaly.  No CHF.  Increasing opacity at the left
+     retrocardiac region which may represent atelectasis or consolidation.  Patchy
+     opacities on the right may represent early pneumonic consolidation.
+
+",,
+8445,7757,,,3357-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-26**] 2:50 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7813**]
+     Reason: please evaluate for hemorrhage or ischemic stroke.          
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        80 year old man with recent HSV encephalitis and C. difficile colitis with 
+      acute change in mental status, unresponsive today. Has [**Last Name (un) 7814**]-[**Doctor Last Name 7815**] 
+      respiration.
+     REASON FOR THIS EXAMINATION:
+      please evaluate for hemorrhage or ischemic stroke.                              
+     CONTRAINDICATIONS for IV CONTRAST:
+      allergy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of recent herpes simplex virus encephalitis and C-
+     dificil colitis with acute change in mental status.
+     
+     TECHNIQUE:  Axial images of the head were obtained from the occiput to the
+     vertex without IV contrast.
+     
+     COMPARISON:  HEAD CT of [**3357-1-19**].
+     
+     HEAD CT:  There is no acute intracranial hemorrhage.  There is diffuse
+     widening of the sulci and prominence of the ventricles consistent with
+     cerebral atrophy.  Again noted is a left posterior fossa bilobed CSF density
+     area.  This may represent a subarachnoid cyst vs. prominent cisterna magna.
+     Periventricular low attenuation white matter changes are present and are
+     unchanged.  These are consistent with areas of chronic microvascular
+     infarction. There is no mass effect and no shift of normally midline
+     structures.  The basal cisterns and grey/white matter differentiation are
+     unremarkable.
+     
+     The mastoid air cells and visualized paranasal sinuses are normally aerated.
+     The posterior calvarium was not included on the images.  No fractures are
+     identified within the visualized portions of the skull.
+     
+     IMPRESSION:
+     
+     No acute intracranial hemorrhage.  No large territorial infarct.  The exam is
+     unchanged from [**3357-1-19**].
+     
+     
+
+",,
+8445,7757,,,3357-01-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-26**] 3:34 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 7816**]
+     Reason: please evaluate for toxic megacolon                         
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with C. difficile colitis, now unresponsive                     
+     REASON FOR THIS EXAMINATION:
+      please evaluate for toxic megacolon                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN, SINGLE FILM
+     
+     History of C difficile colitis and unresponsiveness.
+     
+     There is gas and retained contrast throughout the colon.  No evidence for
+     megacolon.  Status post lumbar spine fusion with posterior instumentation in
+     situ.
+
+",,
+8445,7757,,,3357-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-1-27**] 2:11 PM
+     SCROTAL U.S.                                                    Clip # [**Clip Number (Radiology) 7817**]
+     Reason: Hydrocele vs. Scrotal hernia vs. infectious vs. cancer      
+     Admitting Diagnosis: HYPOTENSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with C. difficile colitis. Has enlarged right testicle with 
+      scrotal erythema.
+     REASON FOR THIS EXAMINATION:
+      Hydrocele vs. Scrotal hernia vs. infectious vs. cancer                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 81 y/o male with clostridium difficile colitis, scrotal erythema and
+     enlarged right scrotum.
+     
+     FINDINGS: There is a moderate right hydrocele. The right epididymal head
+     contains a few small cysts, the largest of which is approximately 5 mm in
+     diameter. There is increased flow throughout the right epididymal head and
+     markedly increased flow, size and heterogeneity of the tail of the right
+     epididymis. The right epididymal tail measures approximately 2.6 cm by 2.2 cm
+     in diameter. The right testicle is homogeneous in appearance without mass or
+     increased flow. The left testicle is normal in appearance and homogeneous in
+     echo texture without intratesticular mass or increased flow. The left
+     epididymal head contains a 5 mm rounded anechoic cyst, the left epididymal
+     tail is grossly normal in appearance. There is a small amount of fluid
+     adjacent to the left testicle. Normal pulsatile flow can be visualized in both
+     testicles.
+     
+     IMPRESSION: 1) Severe epididymitis on the right with a moderate right
+     hydrocele and a small left hydrocele. Findings were called to house staff at
+     approximately 15:07 hours.
+
+",,
+8445,,,,3357-04-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-4-13**] 8:38 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7818**]
+     Reason: FALL.R/O BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with s/p fall                                                   
+     REASON FOR THIS EXAMINATION:
+      r/o bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: VK WED [**3357-4-13**] 9:34 PM
+      no bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  81 year old post fall.
+     
+     TECHNIQUE:  Contiguous axial images through the brain without IV contrast.
+     
+     COMPARISON:  [**3357-1-26**].
+     
+     There is no acute intracranial hemorrhage or shift of normally midline
+     structures.  The sulci and ventricles are prominent consistent with age-
+     related atrophy.  There are several scattered hypodensities in the subcortical
+     white matter consistent with small vessel ischemic disease.  These are
+     unchanged from the prior study.
+     
+     The osseous structures are unremarkable.  The mastoid air cells and visualized
+     paranasal sinuses are clear.  The soft tissues are unremarkable.
+     
+     IMPRESSION:  No acute intracranial hemorrhage.  Unchanged appearance of the
+     brain. 
+
+",,
+8445,,,,3357-04-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-4-13**] 8:39 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 7819**]
+     Reason: FALL. R/O FX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with s/p fall                                                   
+     REASON FOR THIS EXAMINATION:
+      r/o injury                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: VK WED [**3357-4-13**] 11:08 PM
+      Degenerative changes, no fracture.
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 81-year-old post fall.
+     
+     TECHNIQUE:  CT of the spine without IV contrast.
+     
+     FINDINGS:  In the sagittal projection, the C1 through upper portion of T1
+     vertebral bodies are visualized.  There are degenerative changes in the lower
+     cervical spine with narrowing of the disc space and vacuum phenomenon at C5-6.
+     Facet arthropathy is also seen throughout the cervical spine, with vacuum
+     phenomenon at C7-T1.  No fractures are identified.  The prevertebral soft
+     tissues are normal.  There is normal vertebral body height and alignment.
+     There is no cord compression.
+     There  is a small amount of fluid in the left mastoid air cells.
+     
+     IMPRESSION:  No fractures. 
+     
+
+",,
+8445,,,,3357-04-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-4-13**] 8:39 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 7819**]
+     Reason: FALL. R/O FX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old man with s/p fall                                                   
+     REASON FOR THIS EXAMINATION:
+      r/o injury                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: VK WED [**3357-4-13**] 11:08 PM
+      Degenerative changes, no fracture.
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 81-year-old post fall.
+     
+     TECHNIQUE:  CT of the spine without IV contrast.
+     
+     FINDINGS:  In the sagittal projection, the C1 through upper portion of T1
+     vertebral bodies are visualized.  There are degenerative changes in the lower
+     cervical spine with narrowing of the disc space and vacuum phenomenon at C5-6.
+     Facet arthropathy is also seen throughout the cervical spine, with vacuum
+     phenomenon at C7-T1.  No fractures are identified.  The prevertebral soft
+     tissues are normal.  There is normal vertebral body height and alignment.
+     There is no cord compression.
+     There  is a small amount of fluid in the left mastoid air cells.
+     
+     IMPRESSION:  No fractures. 
+     
+
+",,
+8445,,,,3357-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-6-27**] 3:19 PM
+     RIB UNILAT, W/ AP CHEST RIGHT; HEB REB PRO FEE ONLY             Clip # [**Clip Number (Radiology) 7820**]
+     Reason: RALES - CHEST PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**Hospital **] REHAB PATIENT
+     ACCOUNT# 876042
+     U# U31982
+     
+     INDICATION: Rales left base and right rib pain.
+     
+     A single frontal view of the chest with two views of the mid and lower right
+     rib cage are provided.  There are no prior films for comparison.  There are
+     several healing fractures in the lateral aspect of the lower right rib cage,
+     probably involving right ribs eight, nine and ten.  No acute rib fracture is
+     identified.  The cardiac silhouette is enlarged.  The aorta is tortuous. There
+     is no mediastinal or hilar mass.  There is no evidence of CHF.  There is
+     subtle increase in density in the left lower perihilar region, of uncertain
+     significance.  Early/limited pneumonia here cannot be excluded.
+     
+     IMPRESSION: 1) Healing fractures lower right rib cage laterally.
+     
+     2) No evidence of acute rib fracture or pneumothorax.
+     
+     3) Cannot rule out early/limited pneumonia left lower perihilar region.
+     
+     Findings telephoned to the nurse caring for this patient.
+     
+
+",,
+8445,,,,3357-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-6-27**] 3:19 PM
+     RIB UNILAT, W/ AP CHEST RIGHT; HEB REB PRO FEE ONLY             Clip # [**Clip Number (Radiology) 7820**]
+     Reason: RALES - CHEST PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**Hospital **] REHAB PATIENT
+     ACCOUNT# 876042
+     U# U31982
+     
+     INDICATION: Rales left base and right rib pain.
+     
+     A single frontal view of the chest with two views of the mid and lower right
+     rib cage are provided.  There are no prior films for comparison.  There are
+     several healing fractures in the lateral aspect of the lower right rib cage,
+     probably involving right ribs eight, nine and ten.  No acute rib fracture is
+     identified.  The cardiac silhouette is enlarged.  The aorta is tortuous. There
+     is no mediastinal or hilar mass.  There is no evidence of CHF.  There is
+     subtle increase in density in the left lower perihilar region, of uncertain
+     significance.  Early/limited pneumonia here cannot be excluded.
+     
+     IMPRESSION: 1) Healing fractures lower right rib cage laterally.
+     
+     2) No evidence of acute rib fracture or pneumothorax.
+     
+     3) Cannot rule out early/limited pneumonia left lower perihilar region.
+     
+     Findings telephoned to the nurse caring for this patient.
+     
+
+",,
+8445,,,,3357-08-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-8-22**] 3:06 PM
+     ABDOMEN (SUPINE ONLY); HEB REB PRO FEE ONLY                     Clip # [**Clip Number (Radiology) 7821**]
+     Reason: ABD PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**Hospital **] REHAB PATIENT #31982/ROOM #507 NORTH.
+     
+     AP SUPINE ABDOMEN.
+     
+     INDICATION:  Abdominal pain.
+     
+     FINDINGS:  Spinal fusion hardware is noted from L1 to L4 with wide
+     laminectomy defects.  The bowel gas pattern is unremarkable.
+     
+     There is marked distention of the urinary bladder up at least to the level of
+     the umbilicus. 
+
+",,
+8445,,,,3357-08-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-8-22**] 6:20 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 7822**]
+     Reason: r/o pna                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81M c/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2575**] pain, fever, cough                                                 
+     REASON FOR THIS EXAMINATION:
+      r/o pna                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     DATE OF EXAM:  [**3357-8-22**].
+     
+     INDICATION:  Abdominal pain, fever, cough.
+     
+     PORTABLE AP CHEST:  Comparison is made to [**3357-1-26**].  The previously
+     seen right internal jugular central venous line has been removed.  The cardiac
+     size is upper limits of normal.  There is no overt CHF or pleural effusion.
+     The previously seen right upper lobe and possibly middle lobe opacity is
+     improved.  There is a patchy area of opacity within the right lower lobe,
+     particularly the superior segment, which is suspicious for early pneumonia.
+     There is improved aeration of the left lower lobe.  There is increased opacity
+     in the retrocardiac left lower lobe as well which could be atelectasis or
+     early pneumonia. Calcified pleural plaques are present bilaterally.
+     
+     IMPRESSION:  Likely early right lower lobe pneumonia.  Left lower lobe
+     atelectasis versus early pneumonia.
+     
+
+",,
+8445,,,,3357-08-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-8-22**] 11:53 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 7823**]
+     Reason: r/o diverticulitis, abscess, appendicitis, colitis          
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81M w/ dementia, uncooperative, w/ lower [**Last Name (un) 2575**] tenderness, guaiac pos stool.     
+     REASON FOR THIS EXAMINATION:
+      r/o diverticulitis, abscess, appendicitis, colitis                              
+     CONTRAINDICATIONS for IV CONTRAST:
+      allergy
+     ______________________________________________________________________________
+     WET READ: SMLe TUE [**3357-8-23**] 12:33 AM
+      stable aortic aneurysm.
+      no diverticulitis,
+      no obstruction.
+      neg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: An 81-year-old man with lower abdominal tenderness.
+     
+     TECHNIQUE: Multiple axial images of the abdomen and pelvis were obtained
+     without IV contrast.  No IV contrast was given secondary to the patient's
+     elevated creatinine.  Oral contrast was used.
+     
+     CT OF THE ABDOMEN WITH ORAL CONTRAST AND WITHOUT IV CONTRAST: A few images
+     through the lung bases demonstrate subsegmental atelectasis of the right lower
+     lobe.  There is minimal dependent atelectasis at the left base as well.
+     
+     Evaluation of intraabdominal organs is limited due to the lack of IV contrast.
+     Given this limitation, the liver spleen and pancreas are unremarkable.  There
+     is no significant change from [**3357-1-20**].  There are numerous cysts seen in both
+     kidneys, unchanged.  Evaluation of these cysts is limited due to the lack of
+     IV contrast.  The loops of bowel are unremarkable. There is no bowel wall
+     thickening.  There is no free-air or free-fluid in the abdomen.  Oral contrast
+     reaches the sigmoid colon.  There is no diverticulosis or diverticulitis.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST: There is a Foley catheter in the bladder
+     which is relatively decompresssed with a focus of air present within it
+     presumably Foley catheter insertion.  The prostate is enlarged, unchanged.
+     Again seen is an infrarenal abdominal aortic aneurysm measuring 5.4 x 4.6 cm,
+     unchanged.
+     
+     BONE WINDOWS: No suspicious lytic or blastic lesions.  The patient has had
+     lumbar laminectomies, with fusion rods.
+     
+     IMPRESSION:
+     1.  No bowel obstruction.
+     2.  No diverticlulosis or diverticulitis.  No abscesses or fluid collections
+     identified.
+     3.  Stable appearance of infrarenal abdominal aortic aneurysm.
+     4.  Subsegmental collapse of the right lower lobe.
+     
+                                                                 (Over)
+
+     DATE: [**3357-8-22**] 11:53 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 7823**]
+     Reason: r/o diverticulitis, abscess, appendicitis, colitis          
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8445,,,,3357-08-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-8-22**] 11:53 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 7823**]
+     Reason: r/o diverticulitis, abscess, appendicitis, colitis          
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81M w/ dementia, uncooperative, w/ lower [**Last Name (un) 2575**] tenderness, guaiac pos stool.     
+     REASON FOR THIS EXAMINATION:
+      r/o diverticulitis, abscess, appendicitis, colitis                              
+     CONTRAINDICATIONS for IV CONTRAST:
+      allergy
+     ______________________________________________________________________________
+     WET READ: SMLe TUE [**3357-8-23**] 12:33 AM
+      stable aortic aneurysm.
+      no diverticulitis,
+      no obstruction.
+      neg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: An 81-year-old man with lower abdominal tenderness.
+     
+     TECHNIQUE: Multiple axial images of the abdomen and pelvis were obtained
+     without IV contrast.  No IV contrast was given secondary to the patient's
+     elevated creatinine.  Oral contrast was used.
+     
+     CT OF THE ABDOMEN WITH ORAL CONTRAST AND WITHOUT IV CONTRAST: A few images
+     through the lung bases demonstrate subsegmental atelectasis of the right lower
+     lobe.  There is minimal dependent atelectasis at the left base as well.
+     
+     Evaluation of intraabdominal organs is limited due to the lack of IV contrast.
+     Given this limitation, the liver spleen and pancreas are unremarkable.  There
+     is no significant change from [**3357-1-20**].  There are numerous cysts seen in both
+     kidneys, unchanged.  Evaluation of these cysts is limited due to the lack of
+     IV contrast.  The loops of bowel are unremarkable. There is no bowel wall
+     thickening.  There is no free-air or free-fluid in the abdomen.  Oral contrast
+     reaches the sigmoid colon.  There is no diverticulosis or diverticulitis.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST: There is a Foley catheter in the bladder
+     which is relatively decompresssed with a focus of air present within it
+     presumably Foley catheter insertion.  The prostate is enlarged, unchanged.
+     Again seen is an infrarenal abdominal aortic aneurysm measuring 5.4 x 4.6 cm,
+     unchanged.
+     
+     BONE WINDOWS: No suspicious lytic or blastic lesions.  The patient has had
+     lumbar laminectomies, with fusion rods.
+     
+     IMPRESSION:
+     1.  No bowel obstruction.
+     2.  No diverticlulosis or diverticulitis.  No abscesses or fluid collections
+     identified.
+     3.  Stable appearance of infrarenal abdominal aortic aneurysm.
+     4.  Subsegmental collapse of the right lower lobe.
+     
+                                                                 (Over)
+
+     DATE: [**3357-8-22**] 11:53 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 7823**]
+     Reason: r/o diverticulitis, abscess, appendicitis, colitis          
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8445,,,,3357-08-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-8-22**] 3:06 PM
+     ABDOMEN (SUPINE ONLY); HEB REB PRO FEE ONLY                     Clip # [**Clip Number (Radiology) 7821**]
+     Reason: ABD PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**Hospital **] REHAB PATIENT #31982/ROOM #507 NORTH.
+     
+     AP SUPINE ABDOMEN.
+     
+     INDICATION:  Abdominal pain.
+     
+     FINDINGS:  Spinal fusion hardware is noted from L1 to L4 with wide
+     laminectomy defects.  The bowel gas pattern is unremarkable.
+     
+     There is marked distention of the urinary bladder up at least to the level of
+     the umbilicus. 
+
+",,
+8445,,,,3357-09-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-9-22**] 3:40 PM
+     ABDOMEN (SUPINE ONLY); HEB REB PRO FEE ONLY                     Clip # [**Clip Number (Radiology) 7824**]
+     Reason: URINARY RETENTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**Hospital **] REHAB INTERPRETATION ONLY.
+     
+     ABDOMEN.
+     
+     HISTORY:  Urinary retention.
+     
+     COMPARISON:  [**3357-8-22**].
+     
+     L1 through L4 are transfixed with [**Location (un) 766**] rods.  Bowel gas pattern is non-
+     specific.  Compared to the prior study, the large soft tissue opacity in the
+     lower mid-pelvis is not seen.  Presumably, this was a very distended bladder
+     on the prior study.  However, clinical correlation is advised.
+     
+     IMPRESSION:  The previously noted large opacity in the mid-pelvis is no longer
+     seen on today's film.  Clinical correlation is advised.
+
+",,
+8445,,,,3357-09-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-9-22**] 3:40 PM
+     ABDOMEN (SUPINE ONLY); HEB REB PRO FEE ONLY                     Clip # [**Clip Number (Radiology) 7824**]
+     Reason: URINARY RETENTION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     [**Hospital **] REHAB INTERPRETATION ONLY.
+     
+     ABDOMEN.
+     
+     HISTORY:  Urinary retention.
+     
+     COMPARISON:  [**3357-8-22**].
+     
+     L1 through L4 are transfixed with [**Location (un) 766**] rods.  Bowel gas pattern is non-
+     specific.  Compared to the prior study, the large soft tissue opacity in the
+     lower mid-pelvis is not seen.  Presumably, this was a very distended bladder
+     on the prior study.  However, clinical correlation is advised.
+     
+     IMPRESSION:  The previously noted large opacity in the mid-pelvis is no longer
+     seen on today's film.  Clinical correlation is advised.
+
+",,
+8445,,,,3357-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-10-3**] 3:09 PM
+     RIB UNILAT, W/ AP CHEST LEFT; HEB REB PRO FEE ONLY              Clip # [**Clip Number (Radiology) 7825**]
+     Reason: LEFT CHEST PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HRC PATIENT #H76042.
+     
+     LEFT RIBS WITH AP CHEST.
+     
+     INDICATION:  Pain left posterior chest wall status-post fall.  Assess for
+     fracture.
+     
+     FINDINGS:  Allowing for dark radiographic technique, no obvious left-sided rib
+     fractures are detected.  Fusion rods are noted in the upper lumbar spine.  A
+     roughly 1.5 cm rounded calcification is seen in the left upper quadrant, felt
+     to be of no clinical significance.
+     
+     The chest, compared with [**3357-6-27**], shows no acute process.  The lungs are
+     clear.  No pneumothorax, effusion, or CHF.
+     
+     IMPRESSION:  No acute process identified in the left ribs or chest.
+
+",,
+8445,,,,3357-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-10-3**] 3:09 PM
+     RIB UNILAT, W/ AP CHEST LEFT; HEB REB PRO FEE ONLY              Clip # [**Clip Number (Radiology) 7825**]
+     Reason: LEFT CHEST PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HRC PATIENT #H76042.
+     
+     LEFT RIBS WITH AP CHEST.
+     
+     INDICATION:  Pain left posterior chest wall status-post fall.  Assess for
+     fracture.
+     
+     FINDINGS:  Allowing for dark radiographic technique, no obvious left-sided rib
+     fractures are detected.  Fusion rods are noted in the upper lumbar spine.  A
+     roughly 1.5 cm rounded calcification is seen in the left upper quadrant, felt
+     to be of no clinical significance.
+     
+     The chest, compared with [**3357-6-27**], shows no acute process.  The lungs are
+     clear.  No pneumothorax, effusion, or CHF.
+     
+     IMPRESSION:  No acute process identified in the left ribs or chest.
+
+",,
+8445,,,,3357-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-10-11**] 3:42 PM
+     HIP UNILAT MIN 2 VIEWS LEFT; HEB REB PRO FEE ONLY               Clip # [**Clip Number (Radiology) 7826**]
+     Reason: PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HRC PATIENT #31982/507 NORTH.
+     
+     CLINICAL HISTORY:  Pain in left hip and thigh.
+     
+     LEFT HIP AND THIGH:  No bony or soft tissue abnormality is seen.  No lytic or
+     blastic lesions are seen.  No degenerative changes are identified.
+     
+     IMPRESSION:  Normal hip.  Normal femur.
+
+",,
+8445,,,,3357-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-10-11**] 3:42 PM
+     HIP UNILAT MIN 2 VIEWS LEFT; HEB REB PRO FEE ONLY               Clip # [**Clip Number (Radiology) 7826**]
+     Reason: PAIN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HRC PATIENT #31982/507 NORTH.
+     
+     CLINICAL HISTORY:  Pain in left hip and thigh.
+     
+     LEFT HIP AND THIGH:  No bony or soft tissue abnormality is seen.  No lytic or
+     blastic lesions are seen.  No degenerative changes are identified.
+     
+     IMPRESSION:  Normal hip.  Normal femur.
+
+",,
+8445,,,,3357-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-11-7**] 3:15 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 7827**]
+     Reason: FEVER / RLL RALES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     The films were obtained at the [**Hospital3 7828**] Center and submitted for
+     official interpretation only.
+     
+     HRC PATIENT #31982.
+     
+     HISTORY:  Fever and right lower lobe rales.
+     
+     CHEST, ONE VIEW:
+     
+     COMPARISON:  [**3357-6-27**].
+     
+     The heart is enlarged with an LV configuration.  There is minor atelectasis at
+     the left base.  There is no vascular congestion, focal area of consolidation,
+     or pleural effusion.  There is no significant change from the prior exam
+     allowing for differences in inspiration.  There is suggestion of an old
+     fracture involving the right proximal humerus.
+     
+     IMPRESSION:  Left lower lobe atelectasis.  No focal pneumonia, particularly on
+     the right in the area of clinical concern.
+
+",,
+8445,,,,3357-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3357-11-7**] 3:15 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 7827**]
+     Reason: FEVER / RLL RALES
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     The films were obtained at the [**Hospital3 7828**] Center and submitted for
+     official interpretation only.
+     
+     HRC PATIENT #31982.
+     
+     HISTORY:  Fever and right lower lobe rales.
+     
+     CHEST, ONE VIEW:
+     
+     COMPARISON:  [**3357-6-27**].
+     
+     The heart is enlarged with an LV configuration.  There is minor atelectasis at
+     the left base.  There is no vascular congestion, focal area of consolidation,
+     or pleural effusion.  There is no significant change from the prior exam
+     allowing for differences in inspiration.  There is suggestion of an old
+     fracture involving the right proximal humerus.
+     
+     IMPRESSION:  Left lower lobe atelectasis.  No focal pneumonia, particularly on
+     the right in the area of clinical concern.
+
+",,

@@ -1,0 +1,391 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8887,10232,,,3221-01-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3221-1-13**]              Discharge Date:   [**3221-1-15**]
+ 
+Date of Birth:  [**3147-4-5**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zestril
+ 
+Attending:[**First Name3 (LF) 4053**] 
+Chief Complaint:
+SOB and dizziness
+ 
+Major Surgical or Invasive Procedure:
+endoscopy
+ 
+History of Present Illness:
+73 y/o female with h/o metastatic adrenal CA (liver, kidney, 
+thyroid), adrenal insufficiency on steroids since [**3199**], and s/p 
+right hip arthroplasty [**3220-8-12**] secondary to AVN who presents with 
+SOB and dizziness for two days. SHe states that two days ago she 
+noticed the SOB with ambulation and decided to present to the 
+hospital today because the SOB got worse and she also noticed 
+dizziness on ambulation. She denied any abdominal pain or 
+changes in the color of her stool. She checks her stool 
+frequently and never noticed any blood or melena. She also 
+denies any N,V or jaundice. 
+She reports hitting her knee about 2 weeks ago and took Advil 
+2tbl BID for 10 days. She reports having had a colonoscopy many 
+years prior which was normal but does not recall the colonoscopy 
+here at [**Hospital1 83**] in [**3216**] that showed a polyp.
+
+ROS: negative for CP, dysuria, jaundice, fever, night sweats, LE 
+edema. positive for chills since yesterday and weight loss since 
+her THR.
+.
+In the ED, the patient was found to have a hct of 22. She had a 
+NG lavage that showed old blood in the stomach, that cleared 
+quickly. She also had melena in her vault. SHe was 
+hemodynamically stable the whole time. She received Famotidine 
+20mg iv, Dexamethasone 10mg iv and 2 U of PRBC. She reports that 
+after the NG tube she developed some mild abominal pain in her 
+lower quadrant.
+ 
+Past Medical History:
+1. Metastatic adrenal cortical ca w/ known adrenal 
+insufficiency, on steroids since [**3199**], post bilateral 
+adrenalectomy treated with mitotane, complicated by metastases 
+to the liver status post partial lobectomy in 4/03, more 
+recently complicated by metastases to the left supraclavicular 
+region and left retroperitoneum status post surgical resection 
+in [**3220**] 
+2. Drainage of the left knee for septic arthritis in [**3209**] 
+following a fracture. 
+3. A lower anterior resection for stage II rectal 
+adenocarcinoma.  
+4. Resection of 2 parathyroid adenomas. 
+5. s/p ccy
+6. s/p hepatic lobectomy as above for metastases
+7. s/p right hip arthroplasty on [**3220-8-10**] secondary to AVN right 
+femoral head
+8. Osteoarthritis
+ 
+Social History:
+She denies tobacco use, denies alcohol use. She lives in 
+[**Location **] with her husband and one son. She has three children, 
+two sons and one daughter and four grandchildren. She is 
+independent in her ADLs.
+ 
+Family History:
+Father died in his 70s of an aneurysm in his abdomen. Mother 
+died in her 90s of a stroke. She has one sister who died of a 
+heart attack in her 50s and three brothers, one of whom has had 
+bypass surgery and two others who are alive and well. 
+ 
+Physical Exam:
+VS T 99.5  BP 116/53  HR  93  RR 24  O2Sat 100% on 2L
+Gen: NAD, AAOx3
+HEENT: NC/AT, PERRLA, mmm, pale conjunctiva
+NECK: no LAD, JVD at 6cm
+COR: S1S2, regular rhythm, no r/g, [**2-14**] high pitched murmur over 
+precordium non radiating  
+PULM: CTA b/l, no wheezing or rhonchi
+ABD: + bowel sounds, soft, nd, mild tenderness over lower 
+abdomen, no rebound or guarding 
+Skin: warm extremities, no rash, multiple small ecchymosis over 
+the chest and arms
+EXT: 2+ DP, no edema/c/c
+Neuro: moving all extremities, following commands, PERRLA
+.
+EKG: HR 80, SR, normal axis, LBBB, no changes to prior
+.
+CXR: Heart and mediastinum and lungs are unremarkable.  No 
+pneumothorax or sizable effusions
+ 
+Pertinent Results:
+[**3221-1-13**] 10:34PM   HCT-24.1*
+[**3221-1-13**] 05:10PM   PT-13.4* PTT-22.5 INR(PT)-1.2*
+[**3221-1-13**] 04:11PM   HGB-7.6* calcHCT-23 O2 SAT-68 CARBOXYHB-2.6 
+MET HGB-0.1
+[**3221-1-13**] 04:00PM   GLUCOSE-138* UREA N-55* CREAT-1.0 SODIUM-138 
+POTASSIUM-4.5 CHLORIDE-106 TOTAL CO2-17* ANION GAP-20
+[**3221-1-13**] 04:00PM   estGFR-Using this
+[**3221-1-13**] 04:00PM   LD(LDH)-164 CK(CPK)-25* TOT BILI-0.1
+[**3221-1-13**] 04:00PM   cTropnT-<0.01
+[**3221-1-13**] 04:00PM   CK-MB-NotDone
+[**3221-1-13**] 04:00PM   CALCIUM-8.9 PHOSPHATE-4.4 MAGNESIUM-2.1
+[**3221-1-13**] 04:00PM   HAPTOGLOB-55
+[**3221-1-13**] 04:00PM   WBC-13.4* RBC-2.61*# HGB-7.3*# HCT-22.2*# 
+MCV-85 MCH-28.0 MCHC-33.0 RDW-17.4*
+[**3221-1-13**] 04:00PM   NEUTS-83.9* BANDS-0 LYMPHS-12.7* MONOS-2.0 
+EOS-0.7 BASOS-0.7
+[**3221-1-13**] 04:00PM   PLT COUNT-305.
+.
+IMAGING: [**1-13**] CTA: CTA OF THE CHEST:  There is no evidence of 
+pulmonary embolism.  There is atherosclerotic disease of the 
+aorta and great vessels, notably with narrowing of the left 
+subclavian vein lumen proximally unchanged compared to the 
+previous study.  There are multiple small mediastinal lymph[**MD Number 510**] that do not meet CT criteria for pathologic enlargement.  
+There is no pericardial or pleural effusion.  There is no 
+pneumothorax.  The airways appear patent to the level of the 
+segmental bronchi bilaterally.  Lungs show minimal dependent 
+atelectasis. BONE WINDOWS:  There is a stable mild compression 
+fracture of T12 with minimal retropulsion of the superior 
+endplate towards the spinal canal. Note is again made of an 
+atrophic right kidney with a 4.6 cm nonobstructing stone at its 
+lower pole, seen on limited images of the upper abdomen. 
+.
+[**3221-1-14**] CXR: No acute cardiopulmonary process. 
+
+ 
+Brief Hospital Course:
+# GIB: upper GIB, secondary to PUD in conjunction with Ibuprofen 
+consumption over the last days. GI was consulted on this patient 
+and did an EGD on the first day of hospitalization which 
+revealed duodenal ulcers one of whichrequired cautery to stop 
+slow ooze of blood.  The patient remained hemodynamically stable 
+and without  hematemesis.  She was transferred to the floor, 
+where her hematocrit remained stable, she tolerated a PO diet 
+and remained symptom free.  She was started on a PPI twice 
+daily.  H pylori serologies were sent; results were pending at 
+the time of discharge.  The patient was instructed to follow up 
+with her PCP for these results. 
+.
+# Adrenal carcinoma: no evidence of recurrence, but concerning 
+in the context of weight loss since THR. Mitotane was held 
+throughout her hospitalization and restarted upon discharge.
+.
+# Adrenal insufficiency: absolute insufficiency in the context 
+of bilateral resection.  The patient was given stress dose 
+steroids with hydrocortisone 100mg Q6h, which covers 
+glucocorticoids and mineralocorticoid activity for 24 hours, 
+then was restarted on her home regimen of dexamethasone and 
+fludrocortisone. 
+
+# Hypothyroid- the patient was continued on her outpatient 
+regimen. 
+
+FULL CODE
+ 
+Medications on Admission:
+ASPIRIN E.C. 81mg
+DEXAMETHASONE 5mg BID
+FLUDROCORTISONE 100 MCG QD
+LEVOXYL 50MCG QD
+MITOTANE 500 MG QD
+NORVASC 10MG QD
+ 
+Discharge Medications:
+1. Levothyroxine Sodium 25 mcg IV DAILY 
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours): 
+Take 1 tablet twice daily for 1 month, then 1 tablet once daily 
+indefinitely. .
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+3. Dexamethasone 2 mg Tablet Sig: 2.5 Tablets PO Q12H (every 12 
+hours).  
+4. Fludrocortisone 0.1 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+5. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Norvasc 10 mg Tablet Sig: One (1) Tablet PO once a day.  
+7. Mitotane 500 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Upper GI Bleed, PUD, anemia
+Secondary: Adrenal Insufficiency 
+ 
+Discharge Condition:
+Good- Hct stable, pain free, vitals stable, tolerating PO's, 
+ambulating well. 
+ 
+Discharge Instructions:
+*During this admission [**Doctor First Name **] have been treated for anemia due to a 
+bleeding ulcer in your small intestine.  
+*Please continue to take all medications as prescribed. We have 
+started a medication called Pantoprazole.  [**Doctor First Name 10**] should take the 
+Pantoprazole twice daily for 1 month, then continue taking one 
+pill daily indefinitely.   
+*Do not take Ibuprofen (also called Advil, Motrin) or Naprosyn 
+(Aleve).  [**Doctor First Name 10**] may use Acetominophen (Tylenol) as needed for 
+pain. 
+*Avoid fatty, spicy or acidic foods.
+*Do not resume taking Aspirin until instructed to do so by your 
+doctor.
+*Call your doctor or come to the emergency room immediately if 
+[**Doctor First Name **] develop dark, black or bloody stools, vomiting, shortness of 
+breath, lightheadedness, dizzyness, chest pain, or any other 
+concerning symptom. 
+ 
+Followup Instructions:
+Follow up with your PCP next week, call to make an appointment.  
+[**Doctor First Name 10**] had serologies for H. Pylori sent while [**Doctor First Name **] were in the 
+hospital; your PCP should follow up on these results.  
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3917**] MD [**MD Number 4061**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1703**] MD [**Last Name (un) 1704**] [**3221-1-15**] @ 1454
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+ on: TUE [**3221-1-26**] 11:33 AM
+(End of Report)
+
+
+",,
+8887,10232,11049,0,3221-01-14 04:49:00 EST,3221-01-14 05:08:00 EST,8598,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note 1900-0700
+
+73 year old female with a PMH of metastatic adrenal CA with mets to the liver, kidney and thyroid (surgical intervention for all mets), s/p ccy, and OA.  She presented to EW with c/o dizziness and SOB.  HCT noted to be 22, NG lavage showing old blood and was quick to clear.  Melena noted when MD [**First Name (Titles) 6268**] [**Last Name (Titles) 4136**] exam.  She was hemodynamically stable.  She was given pecid IV, ordered for 2 UPRBC and transferred to the MICU for further monitoring
+
+
+Neuro:  A&Ox3, denies pain.  MAE, independently moving in bed
+
+Resp:  Lungs CTA bilaterally, RR even and unlabored rate 20-25.  Sats 95 of greater on 2 LNC
+
+Cardio:  SR in 80's no ectopy.  No edema noted.  + 2pt/dp, Being r/o for MI, AM enzymes pending
+
+GI:  NPO, + BS in 4 quadrents, ab non tender, non distended.  No BM this shift
+
+Renal:  Voiding clear yellow urine via Bedpan.  + 2 liters since admission, negative 300 for day.  AM BUN 42, crdat 0.9
+
+Heme:  HCT up to 28 after 2 uPRBC, coags WNL
+
+ID:  Running temp in low 100's, tylenol given with little effect.  U/A sent AM WBC 16.2
+
+Skin:  Intact, no issues
+
+FEN:  K 4.3, Mg 1.8, Na 141, Ca 7.3
+
+Social:  Husband and son accompanied patient from EW, Husband is family spokesperson
+
+Plan:  
+
+1.  GI consult
+2.  NPO for ? EGD
+3.  Follow serial HCTs
+4.  Monitor GI status
+5.  Routine ICU care and monitoring
+6.  Emotional support to patient and family
+",,
+8887,,39903,0,3222-04-08 17:42:00 EST,3222-04-08 17:43:00 EST,3928,"N",53,"Nursing/Other",,"
+
+reecieved pt from [**Hospital Ward Name 3**] 2 intubated for airway protection. sx'd for scant secretions. weaned to PSV.... awaiting ABG, line recently placed.
+",,
+8887,,39903,0,3222-04-08 18:40:00 EST,3222-04-08 18:40:00 EST,3928,"N",53,"Nursing/Other",,"
+
+requested by resident to keep pt on A/C while on pressors.
+",,
+8887,,39903,0,3222-04-08 18:40:00 EST,3222-04-08 18:43:00 EST,8889,"N",53,"Nursing/Other","Nursing Admit Note","
+Nursing Admit Note
+Pt admitted from [**Hospital Ward Name 3**] 2 s/p seizure. RN transported pt to head CT. EEG done on admission to SICU. See Carevue/FHP for details. Levophed gtt started for labile BP. Pt's husband at bedside, updated by MICU team. Continue neuro checks, monitor hemodynamics, resp status, labs. 
+",,
+8887,,39903,0,3222-04-09 05:22:00 EST,3222-04-09 05:25:00 EST,3440,"N",53,"Nursing/Other",,"
+
+Resp Care
+Remains intubated and ventilated overnight. RSBI this morning = 59. Currently on 5/5/40%. Last abgs on a/c showed resp alkalosis. Suctioned for moderate amounts of thick white sputum.
+",,
+8887,,39903,0,3222-04-09 07:44:00 EST,3222-04-09 07:52:00 EST,3439,"N",53,"Nursing/Other",,"
+
+afebrile.  b/p very labile levo gtt on/off/on to keep map>65
+cvp 7-2. urine output 80-40cc/hr.
+neuro-pt unresponsive most of shift @ 0300 shakes head no when asked to open eyes/moving lips as if trying to talk. clamps down mouth
+during mouth care. perl. no spontaneous/purposeful mvmt to extremies. withdrawns to painful stimuli.
+",,
+8887,,39903,0,3222-04-09 15:09:00 EST,3222-04-09 15:31:00 EST,3535,"N",53,"Nursing/Other",,"
+
+Neuro opens eyes when asked, tries to mouth words, nods to questions, pupils equal and reactive, not moving her UE started to move her lower extremities to command. Scheduled for MRI today of head and neck. Not requiring any pain med.
+CVS HR 56-78 sb to nsr without ectopy, bp continues on .015mcg/kg/min  of levophed to maintain maps > 65. Given 1 liter of NS for cvp 4, cvp now 10, Skin w+d pp+
+resp on cpap 40% 5/5 resp rate 16-20 abg 7.39/24/211/15/-8 lungs coarse to clear suctioned for small amt white sputum
+gu u/o > 30cc I+O essentially even
+gi to start on probalance full strength 10cc after MRI, abd snt bs+ small amt of soft brown stool
+endo ss insulin not required
+ID afebrile on zoysn
+access rt femoral aline, rij 2 periph
+a. metastatic adrenal ca s/p adreniectomy, right hepatic resection. rectal adenocarcinoma, found unresponsive on [**Hospital Ward Name **] 2, [**3222-4-8**] intubated for airway protection not moving UE
+p. wean levophed as tolerated, start TF, Neuro signs q 2 hrs, will wean to extubate tommorrow if patient off pressor and more awake
+",,
+8887,,39903,0,3222-04-09 16:58:00 EST,3222-04-09 17:00:00 EST,3928,"N",53,"Nursing/Other",,"
+
+pt remained on PSV through shift without incidence, also transported to MRI for image of head. Sx'd for minimal secretions. Plan is for probable extubation in AM.
+",,
+8887,,39903,0,3222-04-10 05:35:00 EST,3222-04-10 05:38:00 EST,3971,"N",53,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remains on CPAP/PSV support with no parameter changes made throughout the night.  Recent abg results determined a compensated respiratory alkalemia with excellent oxygenation.
+
+RSBI = 37 on 0-PEEP and 5 cm PSV.
+",,
+8887,,39903,0,3222-04-10 06:32:00 EST,3222-04-10 06:41:00 EST,3439,"N",53,"Nursing/Other",,"
+
+vss. weaned off levo gtt with fliud bolus's 500cc x3 along with maintenence ivf 100cc/hr. cvp went from [**3-14**] after volume given.
+urine output 80-20cc/hr. 
+neuro: perl.  pt opens eyes to voice. nodding head to ?'s. slight movement to lower extremies. no mvmt to ue.
+t. fdg started @ 10cc/hr probalance via ngt. abd. soft. +bs    bm x2
+soft formed stool.
+perineal area reddened-barrier cream applied. miconazole pdwr ordered.
+pt had mod. amt bloody discharge from vaginal area-micu resid made aware-not a [**Last Name **] problem.
+ 
+",,
+8887,,39903,0,3222-04-10 16:54:00 EST,3222-04-10 17:00:00 EST,3409,"N",53,"Nursing/Other","NSG NOTE","
+NSG NOTE
+SEE FLOWSHEET FOR SPECIFICS. 
+
+NEURO-PT AWAKE, ORIENTED TO PERSON, OTHERWISE CONFUSED. NO MOVEMENT OF ARMS. WIGGLES FEET TO COMMAND AT TIMES. PERRL. ON DILANTIN. NO SZ. 
+
+CV-HR/BP STABLE. SKIN W+D. +PP.
+
+RESP-EXTUABTED THIS AM. TOL WELL. O2 SAT 100% ON 4LNC. LS DECREASED. 
+NARD NOTED. 
+
+GI-ABD SOFT,NT/ND. +BS. TOL TF VIA NGT. WILL ADVANCE TO GOAL AS TOL. 
+
+GU-VOIDING VIA FOLEY CL YELLOW URINE. PT WITH BLOODY VAGINAL DRG WITH CLOTS. TEAM REPORTEDLY AWARE. 
+
+COMFORT-DENIES PAIN AND APPEARS COMFORTABLE. 
+
+ENDO-SSRI. 
+
+ID-AFEB. ON ABX. 
+
+SOCAIL-SUPPORTIVE FAMILY IN TO VISIT AND UPDATED BY MICU TEAM AND DR. [**Last Name (STitle) 6269**]. 
+
+P-CON'T WITH CURRENT PLAN. MONITOR FOR CHAGNES. ADVANCE TF AS TOL. SUPPORT. 
+",,
+8887,,39903,0,3222-04-11 06:28:00 EST,3222-04-11 06:45:00 EST,3601,"N",53,"Nursing/Other","condition update","
+condition update
+S/P MENTAL STATUS CHANGES.
+See carevue for detailed info 
+Alert to name but otherwise talks ""ragtime"". voice has a soft whisper.
+constantly smiling. 
+BP stable off levophed but urines/CVP low. MICU team aware fluid bolus of 500ml given x1 with marginal improvement.
+Nasal prongs weaned to off keeping SaO2 99-100
+POC:
+pending path, family meeting 
+",,
+8887,,39903,0,3222-04-11 18:15:00 EST,3222-04-11 18:28:00 EST,6295,"N",53,"Nursing/Other","NPN: 07-1930","
+NPN: [**8-/3144**]
+EVENTS: pelvic exam performed by MICU team [**3-12**] vaginal bleeding. GYN consult to follow
+
+ROS: 
+
+NEURO: patient remains minimally responsive & lethargic. withdraws to nailbed pressure with lower extremities, minimal to no movement with upper extremities. will weakly squeeze your hand with her left hand, but not consistantly. does not withdraw to nailbed pressure with upper extremities. speech is garbled at best, although occasionally can make out words > oriented to self and ""[**Location (un) **]"" ""[**Location (un) **]"", not to hospital or date. horizontal nystagmus noted and right sided facial twitching noted as well > team aware
+
+CV: HR 60-80s, SR. no ectopy noted. BP stable. slightly hyptensive intermittantly. aline dampened. +[**3-13**] peripheral edema
+
+RESP: LS clear, dim at bases. O2 sat 98-100% on RA
+
+GI: TF advanced to goal via NGT. abd s/nt/nd. +bs. no bm today. 
+
+GU: foley with marginal urine out. clear yellow
+
+ENDO: BS covered with RISS
+
+ID: zosyn and vanco as ordered. 
+
+SKIN: intact
+
+SOCIAL: son, daughter &husband  visiting today. 
+
+PLAN: cervical spine MRI. transfer to floor when bed available. monitor & support as indicated.
+
+
+",,

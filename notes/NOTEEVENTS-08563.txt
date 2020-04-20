@@ -1,0 +1,421 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8563,29286,,,2749-07-08 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2749-7-8**]              Discharge Date:   [**2749-7-10**]
+ 
+Date of Birth:  [**2679-2-8**]             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2052**] 
+Chief Complaint:
+Back and bilateral lower leg pain
+ 
+Major Surgical or Invasive Procedure:
+Axillary bifemoral bypass graft with PTFE
+ 
+History of Present Illness:
+The patient is a 70 y/o F with known h/o AAA who has had 
+increasing lumbar and bilateal lower extremity [**Last Name (un) 11906**] for 1.5 
+months.  She has had recent accelerating with progression of her 
+symptoms.  Pt reports pain, numbness, back pain, and cool 
+mottled extremities below the waist.
+ 
+Past Medical History:
+HTN, AAA x 5 cm, Chronic lower back pain
+ 
+Social History:
+Pt is married with children
+ 
+Family History:
+Non contributory
+ 
+Physical Exam:
+HR 94  BP 126/78
+Elderly woman in pain. Speaks appropriately.
+RRR
+CTAB
+Abd soft, nontender, no hernias
+Palpable radial pulses bilaterally
+R femoral pulse -- None
+L femoral pulse -- Weak
+R > L leg mottled
+Legs cold
+ 
+Brief Hospital Course:
+Pt was taken from the ER straight to the operating room where an 
+emergent R axillary-bifemoral bypass graft was performed with 
+PTFE to restore blood flow to the lower extremities after an 
+acute aortic occlusion.  Postopreatively, the patient initially 
+did well.  She was quickly extubated.  Within a short amount of 
+time the patient began to have problems maintaining adequate 
+blood pressure requiring the use of pressors.  She was found to 
+have an acute metabolic acidosis for which the patient was 
+placed on a bicarbonate drip.  Over the course of the next 12 to 
+18 hours the patients condition worsened.  A swan ganz catheter 
+was placed to better monitor the patient's needs.  She was found 
+to have low SVO2's, High SVR's, low PAD's/CVP's/Wedges.  The 
+patient was bolused many liters of fluid.  Because the patient's 
+cardiac output/index were low she was tried on milrinone.  This 
+did not in effect help.  It only made her tachycardic.  
+Meanwhile the patient began to have respiratory distress.  
+Emergent tracheostomy was performed as endotracheal intubation 
+was not an option due to pharyngeal edema.  Persistent lactic 
+acidosis and developing renal failure then prompted consultation 
+with the general surgery service.  The patient was then taken to 
+the OR for abdominal exploration.  The patient had ischemic 
+right colon but it did not appear dead.  No resection was 
+performed.  Furthermore, the pt's hemodynamics improved with 
+abdominal decompression indicating abdominal compartment 
+syndrome.  Over the next day the patient required large amounts 
+of fluid and began to develop further problems with hemodynamic 
+stability.  In the early morning of [**2746-7-10**] the patient was being 
+turned and became suddenly unable to be ventilated.  The patient 
+was amboo'd.  Airway resistence was strikingly high.  
+Auscultation revealed decreased breath sounds on the L lung 
+field.  An emergent chest tube was placed with immediate 
+drainage of about 1400 cc of serosanguinous fluid.  CO2 
+detectors were used to insure CO2 exchange which was confirmed 
+present.  A stat blood gas showed a PCO2 in the 20's and a PO2 
+in the 200's.  Meanwhile, the pt began to brady down and become 
+asystolic.  CPR was performed for approximately 20 minutes while 
+numerous chemical modalities were tried to revive the patient.  
+Ultimately we were unsuccessful, and the patient was declared 
+dead at 443 am on [**2749-7-10**].
+ 
+Medications on Admission:
+Lipitor, Tamoxifen, Motrin, Atenolol, HCTZ, ASA
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Aortic occlusion
+Axillary bifemoral bypass graft with PTFE
+Ischemic colon
+Respiratory failure
+Cardiac arrest
+Metabolic acidosis
+Abdominal compartment syndrome
+Pleural effusion
+Shock
+AAA
+Mesenteric ischemia
+Exploratory laparotomy
+Coagulopathy
+Acute renal failure
+ 
+Discharge Condition:
+Deceased
+ 
+Discharge Instructions:
+Post mortem exam requested by family
+ 
+Followup Instructions:
+None
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1567**] MD [**MD Number 1568**]
+ 
+Completed by: [**Name6 (MD) **] [**Last Name (NamePattern4) **] MD [**MD Number 11907**] [**2749-7-10**] @ 1137
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: MON [**2749-7-11**] 6:28 AM
+(End of Report)
+
+
+",,
+8563,29286,,,2749-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2749-7-8**] 11:39 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 9048**]
+     Reason: Position of CVL.                                            
+     Admitting Diagnosis: OCCLUDED RIGHT LEG
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 year old woman s/p swan-ganz catheter via Left SC.                         
+                           
+     REASON FOR THIS EXAMINATION:
+      Position of CVL.                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Please check positioning of central venous line.
+     
+     AP SUPINE CHEST:  Compared to film of 5 hours prior.  Left subclavian line
+     unchanged in position.  Surgical staples over the right axilla.  Interval
+     placement of left subclavian Swan-Ganz catheter with its tip in intralobar
+     branch of the right main pulmonary artery.  Stable cardiomegaly.  Low lung
+     volumes.  Unchanged appearance of bibasilar atelectasis, and probable right
+     pleural effusion.  There may be a small pleural effusion as well.  No
+     pneumothorax is identified.
+     
+     IMPRESSION: Swan-Ganz catheter with its tip in an inferior intralobar branch
+     of the right pulmonary artery; no pneumothorax.  No other significant interval
+     change.
+     
+
+",,
+8563,29286,,,2749-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2749-7-8**] 3:50 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 9049**]
+     Reason: s/p trach                                                   
+     Admitting Diagnosis: OCCLUDED RIGHT LEG
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         70 year old woman s/p trach at bedside                                       
+            
+     REASON FOR THIS EXAMINATION:
+      s/p trach                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  70-year-old woman status post tracheostomy at bedside.
+     
+     AP SUPINE PORTABLE CHEST:  Compared to film of 3 hours prior, there has been
+     interval tracheostomy, in satisfactory position.  There is no pneumothorax.
+     Surgical staples are again seen overlying the right axilla.  The heart remains
+     mildly enlarged.  Again identified is bibasilar atelectasis, with a likely
+     layering effusion on the right.  There is no evidence of overt congestive
+     heart failure.  A Swan-Ganz catheter is seen with its tip unchanged in
+     position.  NG line again identified.
+     
+     IMPRESSION: Tracheostomy. Bibasilar atelectasis with probable layering right-
+     sided effusion.
+     
+
+",,
+8563,29286,,,2749-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2749-7-8**] 3:50 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 9049**]
+     Reason: s/p trach                                                   
+     Admitting Diagnosis: OCCLUDED RIGHT LEG
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         70 year old woman s/p trach at bedside                                       
+            
+     REASON FOR THIS EXAMINATION:
+      s/p trach                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  70-year-old woman status post tracheostomy at bedside.
+     
+     AP SUPINE PORTABLE CHEST:  Compared to film of 3 hours prior, there has been
+     interval tracheostomy, in satisfactory position.  There is no pneumothorax.
+     Surgical staples are again seen overlying the right axilla.  The heart remains
+     mildly enlarged.  Again identified is bibasilar atelectasis, with a likely
+     layering effusion on the right.  There is no evidence of overt congestive
+     heart failure.  A Swan-Ganz catheter is seen with its tip unchanged in
+     position.  NG line again identified.
+     
+     IMPRESSION: Tracheostomy. Bibasilar atelectasis with probable layering right-
+     sided effusion.
+     
+
+",,
+8563,29286,,,2749-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2749-7-8**] 11:39 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 9048**]
+     Reason: Position of CVL.                                            
+     Admitting Diagnosis: OCCLUDED RIGHT LEG
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 year old woman s/p swan-ganz catheter via Left SC.                         
+                           
+     REASON FOR THIS EXAMINATION:
+      Position of CVL.                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Please check positioning of central venous line.
+     
+     AP SUPINE CHEST:  Compared to film of 5 hours prior.  Left subclavian line
+     unchanged in position.  Surgical staples over the right axilla.  Interval
+     placement of left subclavian Swan-Ganz catheter with its tip in intralobar
+     branch of the right main pulmonary artery.  Stable cardiomegaly.  Low lung
+     volumes.  Unchanged appearance of bibasilar atelectasis, and probable right
+     pleural effusion.  There may be a small pleural effusion as well.  No
+     pneumothorax is identified.
+     
+     IMPRESSION: Swan-Ganz catheter with its tip in an inferior intralobar branch
+     of the right pulmonary artery; no pneumothorax.  No other significant interval
+     change.
+     
+
+",,
+8563,29286,,,2749-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2749-7-8**] 7:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9047**]
+     Reason: s/p line placement                                          
+     Admitting Diagnosis: OCCLUDED RIGHT LEG
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman s/p line placement                                            
+     REASON FOR THIS EXAMINATION:
+      s/p line placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Line placement.
+     
+     COMPARISON: None.
+     
+     SUPINE AP PORTABLE CHEST:  The left subclavian line ends in the distal SVC. A
+     row of skin sutures projects over the superior right hemithorax.  The heart is
+     enlarged.  The lung volumes are low.  Bibasilar atelectasis is present.  A
+     right pleural effusion is present.  There may be a small left pleural
+     effusion.  There is no pneumothorax.
+     
+     IMPRESSION:
+     1)  Satisfactory position of the left subclavian catheter.  No pneumothorax.
+     2)  Right pleural effusion and bibasilar atelectasis.
+
+",,
+8563,29286,10661,0,2749-07-08 05:45:00 EST,2749-07-08 06:00:00 EST,5692,"N",1,"Nursing/Other",,"
+
+Pt. to SICU at 0515 from PACU after ax bifem bypass graft with PTFE (gortec graft).  Transfer to SICUb on HCO3 gtt, neo, hep, insulin.  Bil LE dusky, mottled, faint monophasic PT with doppler.
+
+Neuro:  A+OX3, follows commands, MAE.  c/o back pain.  1mg Ativan IV prior to CL placement. 
+
+Cardio:  NSR, with rare PVC's.  SBP on arrival 60's, Neo maxed and 1L LR bolus given to increase SBP 90's.  Levophed started and Neo wean for goal MAP >60.  Bil LE mottled and cold.  Faint monophasic PT with doppler only.  CL placed at bedside at 0655.
+
+Respir:  Diminished bil at bases, O2 sat 100 on 6L face mask.
+
+GI:  Abd is round and firm.  +BSX4.  NPO.
+
+GU:  foley.  oliguric, continue to bolus.
+
+SKIN:  right ax dressing CDI, DSD.  Left and right groin sites with DSD, CDI.
+
+POC:  Monitor CVP, continue monitoring hemodyn.  ?future intub.
+
+
+",,
+8563,29286,10661,0,2749-07-08 16:15:00 EST,2749-07-08 16:38:00 EST,41,"N",1,"Nursing/Other",,"
+
+signifcant events: attempted to intubated pt, unable to ventilate code called, please refer to code sheet for medication administration, pt trached. pt hypotensive needed  alot of lr boluses. please see carevue for specific vital signs and titration of iv medications.
+
+nuero: pt does open her eyes when [**Doctor First Name **] call her name, pupils equal and reactive to light. pt follows commands.  recieved fentanyl 50mcg x2 for agigation with good effect.
+
+pain: pt recieved 1mg of iv morphine earlier in day with some effect.
+
+pulm: pt trached at bedside. please see flow sheet for vent setting. lung dimished at bases. pt has bronchscopy done. 
+
+cards: pt  tacycardic, hypotensive and cardiac output low and cardiac index low, iv levophed as high as 1.2 mcg/kg/min, pt has recieved mutiple fluid boluses.  pt recieved bolus of milnirone over 10min. and gtt started at .26 mcg/kg/min, milnirone shut off  when pt became hypotensive. cardiac echo done at bedside.
+
+gi: og tube placed by dr. [**Last Name (STitle) **].
+
+incison: grion staples intact, feet cold, purple mottled, doppler pt pulses bil. in both legs. site marked above right grion incision with black marker for doppler  graft site.
+
+gu: u/o 0-5cc/hr, dr.[**First Name4 (NamePattern1) 1243**] [**Last Name (NamePattern1) **] and dr. [**First Name8 (NamePattern2) 5947**] [**Name (STitle) 5948**] aware.
+
+id: temp: 101.6,dr. [**Last Name (STitle) **] aware, pt recieved tylenol pr.
+
+f/e:  most recent blood sugar 178, insulin gtt increased to 3u/hr.
+
+social: family meeting with dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], dr. [**First Name8 (NamePattern2) 5947**] [**Name (STitle) 5948**], dr. [**Last Name (STitle) 5949**].
+
+plan: continue to monitor, pt to go to or.
+",,
+8563,29286,10661,0,2749-07-08 18:06:00 EST,2749-07-08 18:10:00 EST,41,"N",1,"Nursing/Other",,"
+
+add: tooth broken during intubation.
+",,
+8563,29286,10661,,2749-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2749-7-9**] 8:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9050**]
+     Reason: asses interval change                                       
+     Admitting Diagnosis: OCCLUDED RIGHT LEG
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 year old woman s/p line placement                                           
+       
+     REASON FOR THIS EXAMINATION:
+      asses interval change                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Line placement.
+     
+     There is no appreciable change in the appearance of the chest since the last
+     chest x-ray of [**2749-7-8**] at 3:45 p.m.
+                                                                           
+
+",,
+8563,29286,10661,0,2749-07-09 04:48:00 EST,2749-07-09 05:02:00 EST,378,"N",1,"Nursing/Other","POST OP EX LAP FOR MESENTERIC ISCHEMIA","
+POST OP EX LAP FOR MESENTERIC ISCHEMIA
+NEURO: PT AWAKE, NODDING, FOLLOWING COMMANDS. PERL.  MAE, HAS SENSATION IN FEET.
+
+CV: TEMP TO 100.1.  HR RESPNDS TO FLUID BOLUSES, AS DOES BP.   LEVOPHED TITRATED TO MAINTAIN SBP > 90. MAP> 60. 
+
+PULM: BS CLEAR.  TRACH OOZING SERO-SANG AT INSERTION/SUTURE SITES.  SX SM AMTS BLOODY.  FIO2 DECR TO 70%, PEEP 12, RATE UP TO 18 WITH IMPROVEMENT IN ABG'S.
+
+GI: ORAL GT TO LCWS, DRAINING SM AMT DARK BLOODY.  NASAL PACKING IN PLACE.  ABD WOUND OPEN, COVERED WITH OP SITE, JP TO WALL SX, DRAINED 700 CC SERO-SANG.  PAIN TX WITH MS 5 MG Q 2-3 HRS WITH RELIEF.  NO BOWEL SOUNDS.  DR [**First Name (STitle) **] IN, PLAN TO RETURN TO OR SUNDAY TO RE ASSESS BOWEL ISCHEMIA. 
+
+GU: U/O 5 CC/HR.  
+
+INCISIONS OOZING PINK SEROUS FLUID.  DOPPLER PULSES BOTH POST TIB AND FEMORAL SITES. 
+",,
+8563,29286,10661,0,2749-07-09 05:57:00 EST,2749-07-09 06:03:00 EST,5267,"N",1,"Nursing/Other",,"
+
+Respiratory Therapy 
+ Pt returned from Or at 20:00 Placed on A/C 100% 500X 12 PEEP 5. After severalABG pt currently on A/C 500X18 PEEP of 12 70%. for an ABG WNL. BS clear Sx for sml amts bldy secretions. Please See carevu and Nsg note for specifics.
+",,
+8563,29286,10661,0,2749-07-09 15:53:00 EST,2749-07-09 15:56:00 EST,6855,"N",1,"Nursing/Other",,"
+
+Pt remains vented on A/C 18, Vt 500, 60%, 12 peep. Attempted to decrease FI02 to 50% from 60%, pt de-saturated into the low 80's. BS: Ess clear, no frequent sx needed throughout most of the day. Pt resting comfortable on current settings. 02 sats in high 90's on 60%. Plan is to cont to rest pt on current vent settings and make any changes accordingly. 
+",,
+8563,29286,10661,0,2749-07-09 16:02:00 EST,2749-07-09 16:20:00 EST,6521,"N",1,"Nursing/Other","Nursing care note","
+Nursing care note
+See careview for specifics. 
+Neuro: Pt arousable moves all extremities. follows commands. PERL. Some agitation at times. Ativan gtt to be started. Fentanyl gtt at 75mcg/hr.
+
+Resp: Remains on CMV mode of ventilation. FiO2 decreased to 60%,500x18, PEEP 12. Lugs CTAB. Suctioning for scant blood tinged sputum. O2 sats>97%. Peak pressures 30's. Trach intact,no drainage.
+
+CV: Hyperdynamic numbers. SvO2 58-64. CO 3.6-5.0. Low grade fever. CVP 8-10. PAD 20-27. Requiring enormous fluid resucitation amounts to maintaing PAD >25. Requiring levophed .3-.6mcg/kg/min to keep MAP>60. CCO recalibrated. Bilat lower extremities cool & dusky. Color improved over shift. Bilateral pedal & posterior tibial pulses obtainable by doppler. Bilat femoral pulses by doppler. Groin incisions with staples oozing serosang. Right radial pulse remains palpable.
+
+GI: Abdomen open. Transparent dsg CDI. JP to LCWS draining moderate amounts serosang. OGT to LCWS draining small amounts bilious material. Neg BS.
+GU: Almost anuric.
+
+Labs: Mag & Ca replaced. Glucoses covered with insulin gtt. Lactic improving. Metabolic acidosis corrected with bicarb gtt. Note creatinine coninues to climb. Coninuing serial enzymes, abg's.
+
+Plan: Fluid resucitation as warranted by PA pressures/cvp. Titrate levo to keep MAP>60. Heparin gtt: check coags q6hours. Pt may be going to OR tomorrow(Sunday). Will order kinair bed for postop, as pt does not tolerate turning at this time.
+
+Social: Dr [**Last Name (STitle) 705**] spoke with son [**Name (NI) **]. Updated on pt's condition. Family meeting tentative for Monday (afternoon).
+",,
+8563,,10661,0,2749-07-10 04:36:00 EST,2749-07-10 05:09:00 EST,378,"N",1,"Nursing/Other",,"
+
+SEE FLOW SHEET FOR DETAILS
+
+NEURO: PT STARTED ON CISATRICURIUM.  UNABLE TO RESPOND. FENT AND ATIVAN DRIPS FOR SEDATION.
+
+CV: NSR/ST PAC'S. LEVOPHED TITRATED TO KEEP MAP >60. 
+
+PULM: EXP WHEEZES, COMBIVENT GIVEN.  FIO2 AT 60%, ABG'S BETTER BY 0300.  SX THICK BLOOD TINGED. 
+
+GI: OGT TO LCWS, DRAINING BILIOUS.  ABD TAUT, DISTENDED. 
+
+GU: MIN U/O, BLADDER PRESSURE 27.  CISATRICURIUM STARTED TO RELAX MUSCULATURE, REDUCED BLADDER PRESSURE TO 21. 
+
+SOD BICARB DRIP DECR TO 100 CC/HR AS PH = 7.39.  CALCIUM REPLETED SEVERAL TIMES.  INSULIN DRIP TITRATED TO BLOOD SUGAR. 
+HEPARIN DRIP OFF FOR INCR PTT. 
+
+AT O400 PT TURNED FOR BACK CARE AND CLEAN BED. PUMPS AND VENTILATOR ALARMING, DIFFICULT TO VENTILATE WITH AMBU BAG, UNABLE TO RUN MEDS VIA PUMPS,  LINES FLUSHED MANUALLY WITH SOME PRESSURE EXERTED.  AIR LEAKING AROUND TRACH, BP FALLING. CODE CALLED.  SEE CODE SHEET FOR DETAILS.  CT PLACED WITH >1000CC BLOODY DRAINAGE. UNABLE TO RESUCITATE PT.  TIME OF DEATH 443 AM.
+",,
+8563,,10661,0,2749-07-10 06:05:00 EST,2749-07-10 06:13:00 EST,5267,"N",1,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt presented with trach on full ventilatory support. Pt's third spacing increasing. Upon responding to high pressure alarm Pips over 55. Pt difficult to ambu at this time.Easy cap placed on [**Last Name (un) 130**] positive ABG revealed PaCO2 in mid 30's and PaO2 over 200.Please see carevue and nsg note for specifics.
+",,

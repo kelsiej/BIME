@@ -1,0 +1,1297 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8066,,,,3443-03-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-3-31**] 1:56 AM
+     ERCP S&I (74330)                                                Clip # [**Clip Number (Radiology) 4448**]
+     Reason: R/O CBD stone
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with jaundice and increased LFTs. Pt s/p recent ERCp with
+      sphincterotomy at outside Hospital for biliary stones.
+     REASON FOR THIS EXAMINATION:
+      R/O CBD stone
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  72 years old with jaundice and increased liver function tests.  
+     
+     ERCP:  16 spot images were taken during ERCP without a radiologist present,
+     are submitted for review.  There is slight tapering of the distal common bile
+     duct.  There is mild common bile duct dilatation, and moderate intrahepatic
+     biliary ductal dilatation.  The contours of the ducts are smooth and no
+     discrete masses within or impinging upon the ducts are noted.  There are no
+     filling defects identified.  Per the ERCP report, biopsies were obtained from
+     an edematous  major papilla, and a stent was placed.
+
+",,
+8066,6670,,,3443-04-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+                                                             
+Unit No:  [**Telephone/Fax (1) 11120**]
+Admission Date: [**3443-4-6**]
+Discharge Date: [**3443-4-10**]
+Date of Birth:  [**3371-3-22**]
+Sex:  M
+Service:  [**Last Name (un) 591**]
+
+
+CHIEF COMPLAINT:  Fever and abdominal pain.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 72-year-old
+white male with a history of hypertension, Type 2 diabetes
+mellitus who in the last two weeks has undergone two
+endoscopic retrograde cholangiopancreatography for biliary
+obstruction secondary to choledocholithiasis. Approximately
+two weeks earlier the patient had experienced nausea and
+vomiting, was seen at [**Hospital 1922**] Hospital. He underwent
+endoscopic retrograde cholangiopancreatography with biliary
+stone extraction and sphincterotomy on [**3443-3-23**]. He was
+discharged home after the endoscopic retrograde
+cholangiopancreatography however, he returned to the hospital
+with nausea and vomiting and jaundice with new onset ascites.
+His T Bili was elevated. He was transferred to [**Hospital1 74**] for endoscopic retrograde
+cholangiopancreatography which he underwent on [**3443-3-31**], this
+endoscopic retrograde cholangiopancreatography noted
+diffusely edematous duodenal wall and major papilla with
+tapering of the distal CVD and intrahepatic ductal
+dilatation. Findings raised concern for a small bowel
+microperforation. The patient was transferred back to [**Hospital 934**]
+Hospital where he was treated with antibiotics and discharged
+home on Levaquin. However, the patient continued to
+experience recurrent fever with nausea and abdominal pain and
+presented to [**Hospital1 75**] on [**3443-4-7**].
+
+PAST MEDICAL HISTORY:
+1. Hypertension.
+2. Type 2 Diabetes mellitus.
+3. Biliary obstruction, status post sphincterotomy, stone
+   removal on [**3443-3-23**], status post endoscopic retrograde
+   cholangiopancreatography with CVD stent placement on
+   [**3443-3-31**].
+
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:
+1. Paxil.
+2. Lasix.
+3. Glyburide.
+4. Spironolactone.
+5. Flomax.
+6. Lisinopril.
+
+
+SOCIAL HISTORY:  The patient lives alone, wife was recently
+deceased a few weeks before presentation. The patient reports
+a 30 pack year smoking history, he quit tobacco in [**3408**]. He
+denies alcohol or other elicit drug use.
+
+REVIEW OF SYMPTOMS:  On presentation the patient reports
+fever, chills, nausea, with some vomiting and abdominal pain.
+He denies recent chest pain, shortness of breath or
+lightheadedness.
+
+PHYSICAL EXAMINATION:  In general the patient is elderly, he
+appears ill. Head, eyes, ears, nose and throat: Pupils equal,
+round and reactive to light and accommodation. No scleral
+icterus, jugular venous distension, no lymphadenopathy noted.
+Cardiovascular: Regular rate and rhythm without murmur noted.
+Lungs: Mild crackles at the bases bilaterally. Abdomen:
+Moderately distended, soft, diffuse mild tenderness without
+rebound or guarding. Vital signs: Temperature 103.0, pulse
+87, blood pressure 94/55, respiratory rate 18, O2 sat 100% on
+three liters nasal cannula.
+
+BRIEF HOSPITAL COURSE:  As above the patient presented to
+[**Hospital1 75**] with complaints of fever
+with chills, nausea and abdominal pain. The vital signs
+obtained revealed the patient to be extremely febrile with
+hypotension and with a distended diffusely tender abdomen.
+The patient was admitted to the medical service with the
+diagnosis of sepsis secondary to recent endoscopic retrograde
+cholangiopancreatography instrumentation. He was started on
+broad spectrum antibiotics, fluid resuscitation was initiated
+and he was admitted to the medical intensive care unit
+service. The patient was started on intravenous antibiotics
+and fluid resuscitation. The patient remained stable in
+intensive care unit. The surgical team was consulted on [**3443-4-7**] and a paracentesis of the patient's ascitic
+peritoneal fluid was obtained, cultures were sent for
+specimen. A CT of the patient's abdomen and pelvis revealed
+diffuse pancreatitis with ascites. The patient continued to
+remainclinically stable. His fever defervesced, his blood pressue
+normalized with systolic pressures consistently in the 120's.
+He was transferred out of the unit on [**4-8**] to the floor. He
+did well overnight of [**4-8**] on the floor with the
+nasogastric tube still in place to wall suction. On the
+morning of [**4-9**] with the patient afebrile, in no pain,
+mentating well and requesting to have his nasogastric tube
+removed. The nasogastric tube was removed, the patient seemed
+to tolerate this well. However, in the afternoon of [**3443-4-9**]
+the patient after consuming some liquids the patient
+complained of increasing abdominal pain with nausea and
+vomiting. It was noted that he became hypotensive with
+systolic pressures into the 70's, fluid resuscitation was
+initiated by the medical service and the patient's pressure
+only responded transiently. He was transferred to the Unit to
+initiate more aggressive resuscitative efforts and a repeat CT
+scan of the abdomen and pelvis.  Ongoing surgical consultation
+service saw the patient in the Intensive careunit it was felt
+that the patient on examination showed signs of altered mental
+status, he complained of severe abdominal pain. On examination he
+was noted to have rebound with involuntary guarding and
+peritonitis. The CT scan revealed air throughout the pancreas
+raising the suspicion for necrosis of the patient's pancreas. He
+was quickly taken to the operating room after consent was
+obtained, the patient underwent exploratory laparotomy and
+necrotic infected pancreatitis was found and debridement was
+initiated.  During this exploration of the patient's abdomen it
+was noted that he had widespread necrosis of his pancreas and he
+became markedly unstable during the latter portions of the
+procedure.  After resuscitative efforts were initiated, in
+combination with the surgical and anesthesia team a ACLS protocol
+was initiated, resuscitative efforts continued for for 3-4 hours
+before the patient's condition became unsalvageable and he died.
+
+The patient's family was notified, the medical examiner as
+well was notified and appropriate steps were taken following
+the patient's death.
+
+
+FINAL DIAGNOSIS:
+1. Necrotizing infected pancreatitis
+2. Septic shock
+3. Mulitorgan system failure
+4. Diabetes
+5. Coronary artery disease
+
+
+
+
+
+                        [**First Name11 (Name Pattern1) 186**] [**Last Name (NamePattern4) 1919**], [**MD Number 11121**]
+
+Dictated By:[**Last Name (NamePattern1) 595**]
+MEDQUIST36
+D:  [**3443-4-10**] 10:28:14
+T:  [**3443-4-10**] 11:02:57
+Job#:  [**Job Number 11122**]
+
+                              
+
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: MON [**3443-4-24**] 12:45 PM
+(End of Report)
+
+
+",,
+8066,6670,,,3443-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-6**] 11:20 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 4451**]
+     Reason: eval for palcement and PTX                                  
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old man with left subclavian                                           
+       
+     REASON FOR THIS EXAMINATION:
+      eval for palcement and PTX                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post left subclavian line placement.
+     
+     COMPARISON:  Radiograph dated [**3443-4-6**].
+     
+     AP PORTABLE UPRIGHT VIEW CHEST: There is interval repositioning of
+     the left subclavian line now terminating in the SVC. The NG tube terminates
+     below the stomach.  The cardiac and mediastinal contours are stable.  There is
+     left basilar atelectasis and equivocal blunting of the left costophrenic
+     angle. The lungs are otherwise clear.
+     
+     IMPRESSION:  Status post left subclavian line repositioning now terminating
+     in the svc. No evidence of pneumothorax.
+
+",,
+8066,6670,,,3443-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-6**] 11:20 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 4451**]
+     Reason: eval for palcement and PTX                                  
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old man with left subclavian                                           
+       
+     REASON FOR THIS EXAMINATION:
+      eval for palcement and PTX                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post left subclavian line placement.
+     
+     COMPARISON:  Radiograph dated [**3443-4-6**].
+     
+     AP PORTABLE UPRIGHT VIEW CHEST: There is interval repositioning of
+     the left subclavian line now terminating in the SVC. The NG tube terminates
+     below the stomach.  The cardiac and mediastinal contours are stable.  There is
+     left basilar atelectasis and equivocal blunting of the left costophrenic
+     angle. The lungs are otherwise clear.
+     
+     IMPRESSION:  Status post left subclavian line repositioning now terminating
+     in the svc. No evidence of pneumothorax.
+
+",,
+8066,6670,,,3443-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-6**] 10:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4450**]
+     Reason: eval for ptx                                                
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with left subclavian                                            
+     REASON FOR THIS EXAMINATION:
+      eval for ptx                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post left subclavian line placement.
+     
+     COMPARISON:  No prior studies were available for comparison.  The subsequent
+     study performed one hour after this study was available at the time of
+     interpretation of this study.
+     
+     AP SUPINE VIEW OF THE CHEST:  A left subclavian line is seen entering the left
+     internal jugular vein.  No evidence of pneumothorax on this supine view.  The
+     NG tube terminates below the stomach.  There is equivocal blunting of the left
+     costophrenic angle, possibly representing a small effusion.  The lungs are
+     otherwise grossly clear.  The right costophrenic angle is not imaged.
+     
+     IMPRESSION:  Left subclavian line terminating in the left internal jugular
+     vein.  Subsequent study that was available at the time of interpretation of
+     this study demonstrates repositioning of the line in the left SVC.
+                                                                           
+
+",,
+8066,6670,,,3443-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-6**] 8:45 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4449**]
+     CT CHEST W/O CONTRAST
+     Reason: eval aorta                                                  
+     Field of view: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with hypotension and abd pain                                   
+     REASON FOR THIS EXAMINATION:
+      eval aorta                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 310**] [**Doctor First Name 114**] [**3443-4-6**] 10:13 PM
+      Diffuse pancreatitis.
+     WET READ AUDIT #1 [**First Name9 (NamePattern2) 310**] [**Doctor First Name 114**] [**3443-4-6**] 10:12 PM
+      Pancreatitis.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  72-year-old man with hypotension and abdominal pain status post
+     ERCP.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Multidetector phase array images were obtained from the thoracic
+     inlet through the pubic symphysis.  No intravenous contrast was administered.
+     
+     CT CHEST WITHOUT ORAL, WITHOUT INTRAVENOUS CONTRAST: Soft tissue imaging is
+     limited secondary to the lack of intravenous contrast. The heart, pericardium,
+     and great vessels are normal in caliber and contour. There is no bulky
+     mediastinal, hilar, or axillary lymphadenopathy.  There is no pleural or
+     pericardial effusion.  Both lungs show dependent changes at the bases without
+     nodules or masses.
+     
+     CT ABDOMEN WITHOUT ORAL, WITHOUT INTRAVENOUS CONTRAST:  There is decreased
+     attenuation of the pancreatic body, tail, and head with a significant amount
+     of peripancreatic soft tissue stranding, and free fluid.  Air within the
+     pancreatic duct is consistent with previous ERCP.  Additionally, biliary stent
+     extends from the right intrahepatic duct to the level of the duodenum.  Focal
+     air within the central intrahepatic biliary tree is consistent with prior
+     instrumentation.  Imaging of intraabdominal organs is severely limited
+     secondary to the lack of intravenous contrast.  The liver is homogeneous
+     without focal nodules or masses.  Bilateral adrenals, bilateral kidneys, and
+     intra-abdominal loops of large and small bowel are grossly unremarkable. There
+     is no mesenteric or retroperitoneal lymphadenopathy.  There is no free air.
+     
+     CT OF THE PELVIS WITHOUT ORAL, WITHOUT INTRAVENOUS CONTRAST:  Low-density free
+     fluid extends from the abdomen down into the pelvis.  Foley catheter is seen
+     within collapsed bladder.  Contrast from a presumed prior CT study is seen in
+     multiple diverticuli within the sigmoid, and ascending colon.  There are small
+     bilateral fat containing inguinal hernias.  There is no inguinal or pelvic
+     lymphadenopathy.  There is no free air.
+     
+     BONE WINDOWS:  Diffuse degenerative changes are seen along the thoracic and
+                                                                 (Over)
+
+     DATE: [**3443-4-6**] 8:45 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4449**]
+     CT CHEST W/O CONTRAST
+     Reason: eval aorta                                                  
+     Field of view: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     lumbar spine.  There are no suspicious lytic or sclerotic osseous
+     abnormalities.
+     
+     IMPRESSION:
+     
+     1)  No sign of aortic dissection.  Limited study, however, the aorta is normal
+     in contour and caliber throughout.
+     
+     2)  No free intraabdominal air.
+     
+     3)  Diffuse pancreatitis with enlargement of the organ, peripancreatic fluid,
+     and soft tissue stranding.
+     
+     4)  Right intrahepatic biliary drain with tip localized in the duodenum.
+     
+     5)  Sigmoid diverticulosis without evidence of diverticulitis.
+     
+     
+
+",,
+8066,6670,,,3443-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-6**] 8:45 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4449**]
+     CT CHEST W/O CONTRAST
+     Reason: eval aorta                                                  
+     Field of view: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with hypotension and abd pain                                   
+     REASON FOR THIS EXAMINATION:
+      eval aorta                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 310**] [**Doctor First Name 114**] [**3443-4-6**] 10:13 PM
+      Diffuse pancreatitis.
+     WET READ AUDIT #1 [**First Name9 (NamePattern2) 310**] [**Doctor First Name 114**] [**3443-4-6**] 10:12 PM
+      Pancreatitis.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  72-year-old man with hypotension and abdominal pain status post
+     ERCP.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Multidetector phase array images were obtained from the thoracic
+     inlet through the pubic symphysis.  No intravenous contrast was administered.
+     
+     CT CHEST WITHOUT ORAL, WITHOUT INTRAVENOUS CONTRAST: Soft tissue imaging is
+     limited secondary to the lack of intravenous contrast. The heart, pericardium,
+     and great vessels are normal in caliber and contour. There is no bulky
+     mediastinal, hilar, or axillary lymphadenopathy.  There is no pleural or
+     pericardial effusion.  Both lungs show dependent changes at the bases without
+     nodules or masses.
+     
+     CT ABDOMEN WITHOUT ORAL, WITHOUT INTRAVENOUS CONTRAST:  There is decreased
+     attenuation of the pancreatic body, tail, and head with a significant amount
+     of peripancreatic soft tissue stranding, and free fluid.  Air within the
+     pancreatic duct is consistent with previous ERCP.  Additionally, biliary stent
+     extends from the right intrahepatic duct to the level of the duodenum.  Focal
+     air within the central intrahepatic biliary tree is consistent with prior
+     instrumentation.  Imaging of intraabdominal organs is severely limited
+     secondary to the lack of intravenous contrast.  The liver is homogeneous
+     without focal nodules or masses.  Bilateral adrenals, bilateral kidneys, and
+     intra-abdominal loops of large and small bowel are grossly unremarkable. There
+     is no mesenteric or retroperitoneal lymphadenopathy.  There is no free air.
+     
+     CT OF THE PELVIS WITHOUT ORAL, WITHOUT INTRAVENOUS CONTRAST:  Low-density free
+     fluid extends from the abdomen down into the pelvis.  Foley catheter is seen
+     within collapsed bladder.  Contrast from a presumed prior CT study is seen in
+     multiple diverticuli within the sigmoid, and ascending colon.  There are small
+     bilateral fat containing inguinal hernias.  There is no inguinal or pelvic
+     lymphadenopathy.  There is no free air.
+     
+     BONE WINDOWS:  Diffuse degenerative changes are seen along the thoracic and
+                                                                 (Over)
+
+     DATE: [**3443-4-6**] 8:45 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4449**]
+     CT CHEST W/O CONTRAST
+     Reason: eval aorta                                                  
+     Field of view: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     lumbar spine.  There are no suspicious lytic or sclerotic osseous
+     abnormalities.
+     
+     IMPRESSION:
+     
+     1)  No sign of aortic dissection.  Limited study, however, the aorta is normal
+     in contour and caliber throughout.
+     
+     2)  No free intraabdominal air.
+     
+     3)  Diffuse pancreatitis with enlargement of the organ, peripancreatic fluid,
+     and soft tissue stranding.
+     
+     4)  Right intrahepatic biliary drain with tip localized in the duodenum.
+     
+     5)  Sigmoid diverticulosis without evidence of diverticulitis.
+     
+     
+
+",,
+8066,6670,,,3443-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-6**] 8:45 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4449**]
+     CT CHEST W/O CONTRAST
+     Reason: eval aorta                                                  
+     Field of view: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with hypotension and abd pain                                   
+     REASON FOR THIS EXAMINATION:
+      eval aorta                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 310**] [**Doctor First Name 114**] [**3443-4-6**] 10:13 PM
+      Diffuse pancreatitis.
+     WET READ AUDIT #1 [**First Name9 (NamePattern2) 310**] [**Doctor First Name 114**] [**3443-4-6**] 10:12 PM
+      Pancreatitis.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  72-year-old man with hypotension and abdominal pain status post
+     ERCP.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Multidetector phase array images were obtained from the thoracic
+     inlet through the pubic symphysis.  No intravenous contrast was administered.
+     
+     CT CHEST WITHOUT ORAL, WITHOUT INTRAVENOUS CONTRAST: Soft tissue imaging is
+     limited secondary to the lack of intravenous contrast. The heart, pericardium,
+     and great vessels are normal in caliber and contour. There is no bulky
+     mediastinal, hilar, or axillary lymphadenopathy.  There is no pleural or
+     pericardial effusion.  Both lungs show dependent changes at the bases without
+     nodules or masses.
+     
+     CT ABDOMEN WITHOUT ORAL, WITHOUT INTRAVENOUS CONTRAST:  There is decreased
+     attenuation of the pancreatic body, tail, and head with a significant amount
+     of peripancreatic soft tissue stranding, and free fluid.  Air within the
+     pancreatic duct is consistent with previous ERCP.  Additionally, biliary stent
+     extends from the right intrahepatic duct to the level of the duodenum.  Focal
+     air within the central intrahepatic biliary tree is consistent with prior
+     instrumentation.  Imaging of intraabdominal organs is severely limited
+     secondary to the lack of intravenous contrast.  The liver is homogeneous
+     without focal nodules or masses.  Bilateral adrenals, bilateral kidneys, and
+     intra-abdominal loops of large and small bowel are grossly unremarkable. There
+     is no mesenteric or retroperitoneal lymphadenopathy.  There is no free air.
+     
+     CT OF THE PELVIS WITHOUT ORAL, WITHOUT INTRAVENOUS CONTRAST:  Low-density free
+     fluid extends from the abdomen down into the pelvis.  Foley catheter is seen
+     within collapsed bladder.  Contrast from a presumed prior CT study is seen in
+     multiple diverticuli within the sigmoid, and ascending colon.  There are small
+     bilateral fat containing inguinal hernias.  There is no inguinal or pelvic
+     lymphadenopathy.  There is no free air.
+     
+     BONE WINDOWS:  Diffuse degenerative changes are seen along the thoracic and
+                                                                 (Over)
+
+     DATE: [**3443-4-6**] 8:45 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4449**]
+     CT CHEST W/O CONTRAST
+     Reason: eval aorta                                                  
+     Field of view: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+     lumbar spine.  There are no suspicious lytic or sclerotic osseous
+     abnormalities.
+     
+     IMPRESSION:
+     
+     1)  No sign of aortic dissection.  Limited study, however, the aorta is normal
+     in contour and caliber throughout.
+     
+     2)  No free intraabdominal air.
+     
+     3)  Diffuse pancreatitis with enlargement of the organ, peripancreatic fluid,
+     and soft tissue stranding.
+     
+     4)  Right intrahepatic biliary drain with tip localized in the duodenum.
+     
+     5)  Sigmoid diverticulosis without evidence of diverticulitis.
+     
+     
+
+",,
+8066,6670,10037,,3443-04-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-7**] 8:04 AM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 4452**]
+     Reason: Please mark for bedside paracentesis (to be performed by [**Doctor Last Name **]
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with h/o biliary obstruction p/w sepsis, ?pancreatitis, and 
+      ascites
+     REASON FOR THIS EXAMINATION:
+      Please mark for bedside paracentesis (to be performed by house officer).        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Abdominal ascites.  Please mark a spot for bedside paracentesis.
+     
+     ULTRASOUND LOCALIZATION:  The patient's abdomen was imaged within all 4
+     quadrants.  A moderate amount of abdominal ascites is present.  An appropriate
+     spot was marked on the skin of the left lower quadrant for a paracentesis to
+     be performed by the clinical staff.
+                                                                           
+
+",,
+8066,6670,10037,0,3443-04-07 04:08:00 EST,3443-04-07 04:39:00 EST,2519,"N",69,"Nursing/Other","NURSING ADMISSION AND PROGRESS NOTE 2400-0700","
+NURSING ADMISSION AND PROGRESS NOTE 2400-0700
+REPORT RECEIVED FROM ER.  PT ARRIVED VIA STRETCHER AND TX TO 778 WITH NO UNTOWARD INCIDENCE.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+THIS IS A 72 Y/O M PT W/ HX OF HTN, TYPE 2 DM, BILIARY OBSTRUCTION, S/P ERCP X 2 IN THE LAST 2 WEEKS.  PT INITIALLY PRESENTED TO [**Hospital **] HOSPITAL 2 WEEKS AGO C/O N/V.  PT UNDERWENT A STONE EXTRACTION AND SPHINCTEROTOMY ON [**3443-3-23**].  FOLLOWING HIS D/C HOME, HE CONTINUED TO HAVE N/V AND DEVLOPED JAUNDICE.  HE PRESENTED TO [**Hospital 2396**] HOSPITAL WHERE HE WAS FOUND TO HAVE NEW ASCITES.  PT WAS TX TO [**Hospital1 22**] FOR ERCP ON [**3443-3-31**] AND STENT PLACEMENT.  AT THE TIME, THERE WAS CONCERN THAT PRIOR ERCP/SPHINCTEROTOMY MAY HAVE LED TO MICROPERFORATION OF THE SMALL BOWEL LEADING TO SMALL BOWEL EDEMA/ASCITES.  PT WAS TX BACK TO [**Hospital 2396**] HOSPITAL  AND COVERED WITH BROAD ANTIBIOTICS- DC'D HOME.  THE PT REPORTED THAT HIS N/V CONTINUED AND HE SUFFERED FROM ANOREXIA, FEVER/CHILLS, AND INCREASED ABDOMINAL GIRTH.  PT REPRESENTED TO [**Hospital 2396**] HOSPITAL WHERE HE WAS FOUND TO BE FEBRILE AND WITH A SBP IN THE 70'S.  PT FLUID RESUSCITATED, LEVOPHED INITIATED AND TX TO [**Hospital1 22**].  ADMITTED TO MICU UNDER THE MUST SEPSIS PROTOCOL FOR FURTHER MANAGEMENT.  ABD CT SIGNIFICANT FOR PANCREATITIS.  SURGERY CONSULTED.
+
+NEURO:  PT IS ALERT AND ORIENTED X 3.  VERY PLEASANT.  SPEECH CLEAR, ABLE TO EXPRESS NEEDS WITHOUT DIFFICULTY.  MAE X 4 WITHOUT DIFFICULTY- ABLE TO REPOSITION HIMSELF IN BED.  PERRLA, 3/BRISK.  SLIGHT DROOP NOTED TO RT EYELID- ALTHOUGH PT IS ABLE TO OPEN RT EYE WIDE WHEN PROMPTED.  EQUAL STRENGTH NOTED TO BILATERAL UPPER AND LOWER EXTREMITIES.  AFEBRILE.  NO SEIZURE ACTIVITY NOTED.  NO C/O PAIN.
+
+RR:  NC 2 L.  BBS= ESSENTIALLY CLEAR.  NO DIFFICULTY BREATHING.  NO C/O SOB OR DYSPNEA.  STRONG COUGH EFFORT- UNPRODUCTIVE.  BILATERAL CHEST EXPANSION NOTED.  RR 15-20.  SP02 > OR = TO 95%.
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NSR, HR 80'S WITH NO SIGNS OF ECTOPY NOTED.  SBP > OR = TO 90- PT RECEIVED 500CC NS BOLUS AND IS ON LOW DOSE LEVOPHED- 0.01MCG/KG/MIN.  CVP 8-10.  SV02 80'S.  DENIES ANY CHEST PAIN.  PALPABLE PULSES NOTED TO BILATERAL RADIALS AND DORSALIS PEDIS.  INSERTION OF PRESEPT CATH/CVL TO LT SCL AND LT RADIAL ALINE. 
+
+GI:  ABD IS LARGE AND DISTENDED.  NON TENDER TO PALPATION.  BS X 4 QUADRANTS- HYPOACTIVE.  NGT IS SECURE AND PATENT, LARGE OUTPUT OF BILIOUS DRAINAGE.  PROPER PLCMT VERIFIED WITH AUSCULTATION OF 30CC/AIR.  NO C/O N/V/D.  ICE CHIPS ONLY AT THIS TIME.  ASCITES NOTED- TO HAVE PARACENTESIS IN AM.
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  YELLOW URINE WITH SEDIMENT IN ADEQUATE AMOUNTS.  
+
+INTEG:  GENERALIZED EDEMA NOTED- PT C/O THAT HE IS MORE SWOLLEN THAN USUAL.  OTHERWISE, NO SIGNS OF REDNESS OR BREAKDOWN NOTED TO BACK OR BUTTOCKS.  
+
+ID:  PT INITIATED VANCO, ZOSYN ABX REGIMEN.
+
+ENDO:  INSULIN GTT STARTED- TITRATING AS [**First Name8 (NamePattern2) **] [**Last Name (un) **] PROTOCOL.
+SOCIAL:  NO FAMILY CONTACT THIS SHIFT.
+
+PLAN:  
+
+1.  CVP 8-12, HAVE A STANDING ORDER TO BOLUS 500CC Q 5 MINUTES- IF NEED TO BOLUS MORE THAN 8
+",,
+8066,6670,10037,0,3443-04-07 04:09:00 EST,3443-04-07 04:39:00 EST,2519,"N",69,"Nursing/Other","NURSING ADMISSION AND PROGRESS NOTE 2400-0700","
+NURSING ADMISSION AND PROGRESS NOTE 2400-0700
+(Continued)
+L OF NS ARE GIVEN OVER A 4 HR PERIOD, PLEASE ASK MD TO RE-EVALUATE.
+
+2.  ONCE CVP > 8, MAP >65:  IF SVO2 IS < 70 AND HCT IS < 30- WILL TRANSFUSE WITH PRBCS.
+
+3.  LEVOPHED GTT PRN TO BE USED ONCE FLUID BOLUSES INCREASE CVP TO [**8-18**].    
+
+4.  INSULIN GTT TO BE TITRATED FOR BS >75 <150.
+
+5.  MUST SEPSIS PROTOCOL, CONTINUE SVO2 MONITORING.
+
+6.  PARACENTESIS THIS AM.
+
+PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]! 
+",,
+8066,6670,10037,0,3443-04-07 16:35:00 EST,3443-04-07 17:05:00 EST,2412,"N",69,"Nursing/Other",,"
+
+MICUB: 0700-1900 RN Note
+
+Neuro:  awake alert oriented x3 follows commands appropriately MAE randaom equal strength. Sleeping in naps pt states has been depressed since the Death of his wife 3wks ago (PCP put him on antidepresant).
+
+CV:  HR 78-85 NSR no ectopy, LSC inplace CVP 8-14 @0730 CVP 7 recieved FB 500cc x2. Goal CVP 8-10, IV NS 10cc/hr. L radial aline inplace Sharp wave form SBP 100/120-55-56 MAS>70 Started shift on Levophed 0.01mcg/kg/min wean to of by 1000. Hemodynamically stable. Cont on Sepsis protocol SVCO2 78-84. Lactate trending down 3.2/1.7/1.4, Mag 1.9, Ca 7.7 ICA 1.04
+Heme:  Hct 29.2/28.5 recieved 1UPRBC. 
+
+Resp:  RR 18-24 reg, Dyspneic when pos flat. O2 2L/min NC Sats 94-98%. Lungs cklear crackles@ bases. 
+
+ID: T-max 100.8. WBC 16.2/19 On Vanco/zosyn
+
+GI:  abd firm distended/ascites. + BS. NGT R nares to LCS dr [**Last Name (STitle) **] amt Green bile >1L this shift.  No c/o Nausea. Remains NPO. 
+Abd U/S + ascites, Diagnostic Paracentesis LLQ removed  60cc. Plan fluid removal tap 24-48hrs pending status. 
+
+EndO:  FSBS Q1hr Insulin gtt titrated per protocol. 
+
+GU:  foley u/p 15-120cc/hr Yellow cloudy urine. BUN 28 creat 1.9.
+
+Social:  Started shift DNR/DNI. team diacussed pt decision and he expressed that he was feeling depressed since wife death. after review of status pt decided to be full code status. Many family SON/close friends visited. 
+  
+",,
+8066,6670,10037,,3443-04-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-8**] 10:34 AM
+     US ABD LIMIT, SINGLE ORGAN; -59 DISTINCT PROCEDURAL SERVICE     Clip # [**Clip Number (Radiology) 4454**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: please do liver u/s with dopplers to evaluate portal flow   
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with recent ERCPs, now with unexplained ascites                 
+     REASON FOR THIS EXAMINATION:
+      please do liver u/s with dopplers to evaluate portal flow                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  72-year-old man with recent ERCP, with ascites.  Please do
+     Doppler of the portal flow.
+     
+     COMPARISONS:  None. Prior ultrasound guided biopsy only.
+     
+     TECHNIQUE: Right upper quadrant ultrasound.
+     
+     FINDINGS:  The examination is somewhat limited by body habitus.  There is
+     equivocal intrahepatic biliary ductal dilatation, as well as definite
+     dilatation of the extrahepatic common bile duct up to 11 mm in diameter.  The
+     echotexture of the liver is difficult to evaluate on this study but is perhaps
+     slightly coarse.  No focal lesions are identified.  There is ascites
+     surrounding the liver.
+     
+     There are multiple small shadowing stones in the gallbladder.  The gallbladder
+     is partly contracted, not distended.  There is slight wall thickening with
+     edema, which can be seen in intrinsic liver disease, such as hepatitis,
+     hypoproteinemia, CHF, or other edematous states.  Cholecystitis is less likely
+     because of the lack of distention.  There is no pericholecystic fluid
+     collection, although slight wall edema is seen.  The main, right, left portal
+     veins demonstrate appropriate hepatopetal flow.
+     
+     Of note, image 34 shows a color Doppler image apparently without flow in the
+     left portal vein, but the subsequent image shows normal flow, confirming that
+     this represents an artifact.
+     
+     IMPRESSION:
+     
+     1)  Probably slight coarse hepatic echotexture.
+     
+     2)  Extrahepatic biliary ductal dilatation, with likely intrahepatic biliary
+     ductal dilatation as well.
+     
+     3)  Ascites.
+     
+     4)  Minimal gallbladder wall thickening, but no distention.
+     
+     5)  Cholelithiasis.
+     
+     6)  Appropriate hepatopetal flow of the main portal vein and its primary
+     branches.
+                                                                 (Over)
+
+     DATE: [**3443-4-8**] 10:34 AM
+     US ABD LIMIT, SINGLE ORGAN; -59 DISTINCT PROCEDURAL SERVICE     Clip # [**Clip Number (Radiology) 4454**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: please do liver u/s with dopplers to evaluate portal flow   
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+8066,6670,10037,,3443-04-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-8**] 6:00 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4453**]
+     Reason: eval for infiltrate/effusion.                               
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        72 year old man with left subclavian                                          
+         
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate/effusion.                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Chest, single AP film.
+     
+     History of left subclavian CV line placement.
+     
+     The left CV line overlies lysed proximal SVC.  No pneumothorax.  NG tube is in
+     stomach.  There are low lung volumes and bibasilar linear atelectases as
+     previously demonstrated.
+                                                                           
+
+",,
+8066,6670,10037,,3443-04-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-8**] 10:34 AM
+     US ABD LIMIT, SINGLE ORGAN; -59 DISTINCT PROCEDURAL SERVICE     Clip # [**Clip Number (Radiology) 4454**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: please do liver u/s with dopplers to evaluate portal flow   
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with recent ERCPs, now with unexplained ascites                 
+     REASON FOR THIS EXAMINATION:
+      please do liver u/s with dopplers to evaluate portal flow                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  72-year-old man with recent ERCP, with ascites.  Please do
+     Doppler of the portal flow.
+     
+     COMPARISONS:  None. Prior ultrasound guided biopsy only.
+     
+     TECHNIQUE: Right upper quadrant ultrasound.
+     
+     FINDINGS:  The examination is somewhat limited by body habitus.  There is
+     equivocal intrahepatic biliary ductal dilatation, as well as definite
+     dilatation of the extrahepatic common bile duct up to 11 mm in diameter.  The
+     echotexture of the liver is difficult to evaluate on this study but is perhaps
+     slightly coarse.  No focal lesions are identified.  There is ascites
+     surrounding the liver.
+     
+     There are multiple small shadowing stones in the gallbladder.  The gallbladder
+     is partly contracted, not distended.  There is slight wall thickening with
+     edema, which can be seen in intrinsic liver disease, such as hepatitis,
+     hypoproteinemia, CHF, or other edematous states.  Cholecystitis is less likely
+     because of the lack of distention.  There is no pericholecystic fluid
+     collection, although slight wall edema is seen.  The main, right, left portal
+     veins demonstrate appropriate hepatopetal flow.
+     
+     Of note, image 34 shows a color Doppler image apparently without flow in the
+     left portal vein, but the subsequent image shows normal flow, confirming that
+     this represents an artifact.
+     
+     IMPRESSION:
+     
+     1)  Probably slight coarse hepatic echotexture.
+     
+     2)  Extrahepatic biliary ductal dilatation, with likely intrahepatic biliary
+     ductal dilatation as well.
+     
+     3)  Ascites.
+     
+     4)  Minimal gallbladder wall thickening, but no distention.
+     
+     5)  Cholelithiasis.
+     
+     6)  Appropriate hepatopetal flow of the main portal vein and its primary
+     branches.
+                                                                 (Over)
+
+     DATE: [**3443-4-8**] 10:34 AM
+     US ABD LIMIT, SINGLE ORGAN; -59 DISTINCT PROCEDURAL SERVICE     Clip # [**Clip Number (Radiology) 4454**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: please do liver u/s with dopplers to evaluate portal flow   
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+8066,6670,10037,,3443-04-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-8**] 10:34 AM
+     US ABD LIMIT, SINGLE ORGAN; -59 DISTINCT PROCEDURAL SERVICE     Clip # [**Clip Number (Radiology) 4454**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: please do liver u/s with dopplers to evaluate portal flow   
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with recent ERCPs, now with unexplained ascites                 
+     REASON FOR THIS EXAMINATION:
+      please do liver u/s with dopplers to evaluate portal flow                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  72-year-old man with recent ERCP, with ascites.  Please do
+     Doppler of the portal flow.
+     
+     COMPARISONS:  None. Prior ultrasound guided biopsy only.
+     
+     TECHNIQUE: Right upper quadrant ultrasound.
+     
+     FINDINGS:  The examination is somewhat limited by body habitus.  There is
+     equivocal intrahepatic biliary ductal dilatation, as well as definite
+     dilatation of the extrahepatic common bile duct up to 11 mm in diameter.  The
+     echotexture of the liver is difficult to evaluate on this study but is perhaps
+     slightly coarse.  No focal lesions are identified.  There is ascites
+     surrounding the liver.
+     
+     There are multiple small shadowing stones in the gallbladder.  The gallbladder
+     is partly contracted, not distended.  There is slight wall thickening with
+     edema, which can be seen in intrinsic liver disease, such as hepatitis,
+     hypoproteinemia, CHF, or other edematous states.  Cholecystitis is less likely
+     because of the lack of distention.  There is no pericholecystic fluid
+     collection, although slight wall edema is seen.  The main, right, left portal
+     veins demonstrate appropriate hepatopetal flow.
+     
+     Of note, image 34 shows a color Doppler image apparently without flow in the
+     left portal vein, but the subsequent image shows normal flow, confirming that
+     this represents an artifact.
+     
+     IMPRESSION:
+     
+     1)  Probably slight coarse hepatic echotexture.
+     
+     2)  Extrahepatic biliary ductal dilatation, with likely intrahepatic biliary
+     ductal dilatation as well.
+     
+     3)  Ascites.
+     
+     4)  Minimal gallbladder wall thickening, but no distention.
+     
+     5)  Cholelithiasis.
+     
+     6)  Appropriate hepatopetal flow of the main portal vein and its primary
+     branches.
+                                                                 (Over)
+
+     DATE: [**3443-4-8**] 10:34 AM
+     US ABD LIMIT, SINGLE ORGAN; -59 DISTINCT PROCEDURAL SERVICE     Clip # [**Clip Number (Radiology) 4454**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: please do liver u/s with dopplers to evaluate portal flow   
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+8066,6670,10037,0,3443-04-08 05:27:00 EST,3443-04-08 05:51:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALAMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVRIONMENT SECURED FOR SAFETTY.
+
+DX:  PANCEATRITIS, QUESTIONABLE PERFORATION, SEPSIS
+
+NEURO:  PT ALERT AND ORIENTED X3- VERY PLEASANT.  ABLE TO [**Doctor Last Name **] FOR MOST OF SHIFT- PT PLEASED WITH THIS AS HE ""HAS NOT SLEPT IN ALMOST 2 DAYS"".  FEELS WELL RESTED.  PERRLA, 3/BRISK.  MAE X 4 WITHOUT DIFFICULTY.  ABLE TO REPOSITION HIMSELF AND ASSIST WITH CARE WITHOUT DIFFICULTY.  AFEBRILE.  NO SEIZURE ACTIVITY NOTED.
+
+RR:  BBS= ESSENTIALLY CLEAR TO BILATERAL UPPER LOBES, COARSE WITH CRACKLES TO BASES.  2L NC- UNABLE TO WEAN- WILL DROP SATS TO HIGH 80'S WITHOUT 02.  STRONG COUGH EFFORT.  NO C/O SOB ALTHOUGH DOES HAVE SOME DYSPNEA WHEN LAYING FLAT.  BILATERAL CHEST EXPANSION NOTED.  RR 15-20. SP02 > OR = TO 95%.
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  DENIES ANY CHEST PAIN.  NSR, HR 80'S WITH NO SIGNS OF ECTOPY.  SVO2 MONITORING CONTINUES- 80'S.  SBP > OR = TO 100 WITH NO HYPER OR HYPOTENSIVE CRISIS NOTED.  ABLE TO MAINTAIN WITHOUT PRESSERS OR FLUID BOLUSES.  PALPABLE PULSES NOTED TO BILATERAL RADIALS AND DORSALIS PEDIS.  LT RADIAL ALINE IS SECURE AND PATENT- REZEROED AND RECALIBRATED DURING THE SHIFT.  RT SCL CVL IS SECURE AND PATENT.  
+
+GI:  ABD IS LARGE, DISTENDED, ASCITES. BS X 4 QUADRANTS. PLAN FOR TAP IN 24-48 HOURS IF WORSENS.  DIAGNOSTIC TAP DONE [**3443-4-7**].  NGT IS SECURE AND PATENT.  PROPER PLCMT AS VERIFIED WITH AUSCULTATION OF 30CC/AIR.  ICE CHIPS ONLY.  NO C/O N/V/D.  LARGE AMOUNTS OF GREEN BILIOUS DRAINAGE NOTED.  1L EMPTIED THIS SHIFT.  PASSING FLATUS.  NO BM THIS SHIFT.  
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.
+
+INTEG:  NO SIGNS OF BREAKDOWN NOTED TO BACK OR BUTTOCKS.  
+
+ENDO:  PT CONTINUES ON INSULIN GTT- TITRATING AS [**First Name8 (NamePattern2) **] [**Last Name (un) **] PROTOCOL.  
+
+ID:  ZOSYN DOSAGE INCREASED. WBC THIS AM IS 20.  
+
+SOCIAL:  LARGE AMOUNTS OF FAMILY IN TO VISIT. ALL QUESTIONS ANSWERED, NO ISSUES.
+
+PLAN:  WEAN OFF OF INSULIN GTT AS PT WILL TOLERATE.  CONTINUE TO MONITOR AS PER SEPSIS PROTOCOL. SURGERY CONSULTED BUT WILL MANAGE PANCREATITIS MEDICALLY FOR NOW.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]!
+",,
+8066,6670,10037,0,3443-04-08 18:07:00 EST,3443-04-08 18:13:00 EST,5714,"N",69,"Nursing/Other","Nursing Progress Note 0700-1900 hours:","
+Nursing Progress Note 0700-1900 hours:
+** full code
+
+** access: left sc tlc
+
+** precautions: universal
+
+** please see nursing transfer note for additional info. 
+
+Pt is A & O x3 and states he is feeling much better.  WBC remains high but afebrile.  Pt admitted here with diagnosis of pancreatitis and peritonitis and is on abx to cover this.  Aline removed without event. NGT in place-clamped since this am-residual of 85cc with md aware-possibility to start ice chips and sips of liquid if surgery agrees.  foley ion place-draining adequate urine.  pt without GI symptoms.  No bm; is passing gas.  Aware of tx to floor.  Full ICU course can be read on transfer note and additional data per carevue. 
+",,
+8066,6670,10037,,3443-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-9**] 8:29 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 4457**]
+     Reason: Please perform upright CXR stat to assess for free air      
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           72 year old man w/ pancreatitis,  GNR bacteremia/sepsis from SBP, w/ 
+      increasing abd pain hypotensive   
+     REASON FOR THIS EXAMINATION:
+      Please perform upright CXR stat to assess for free air                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Chest, single AP film.
+     
+     History of pancreatitis with bacteremia, sepsis, and hypertension.
+     
+     NG tube is in stomach.  There are low lung volumes.  Allowing for this, heart
+     size is borderlined.  There are bibasilar opacities consistent with
+     atelectases and possible associated small pleural effusions, essentially
+     unchanged since the prior film of April of the same date if allowance is made
+     for technical differences.  No pneumothorax, and no evidence for CHF.
+                                                                           
+
+",,
+8066,6670,10037,,3443-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-9**] 3:20 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 4456**]
+     Reason: please assess abd/NGT                                       
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         72 year old man w/ pancreatitis,  GNR bacteremia/sepsis from SBP s/p 
+      reinsertion of NGT
+     REASON FOR THIS EXAMINATION:
+      please assess abd/NGT                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN  SINLE AP VIEW:
+     
+     HISTORY:  NG tube placement.
+     
+     The tip of NG tube is in body of stomach.
+
+",,
+8066,6670,10037,,3443-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-9**] 3:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4455**]
+     Reason: s/p ? aspiration while vomiting                             
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         72 year old man w/ pancreatitis,  GNR bacteremia/sepsis from SBP             
+     REASON FOR THIS EXAMINATION:
+      s/p ? aspiration while vomiting                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM:
+     
+     HISTORY:  Pancreatitis and bacteremia with vomiting and possible aspiration.
+     
+     There are low lung volumes.  Allowing for this, heart size is normal.  Again
+     demonstrated are bibasilar atelectases, slightly increased since the prior
+     film of [**3443-4-8**] and there is now partial obscuration of the left
+     hemidiaphragm consistent with consolidation in the left lower lobe.  NG tube
+     extends below diaphragm.  No pneumothorax.
+     
+     IMPRESSION:  Bibasilar atelectases and possible area of consolidation in the
+     left lower lobe, slightly increased since prior film of [**3443-4-8**].
+                                                                           
+
+",,
+8066,6670,10037,,3443-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-9**] 11:29 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4458**]
+     CT RECONSTRUCTION
+     Reason: Please evaluate for duodenal perforation.                   
+     Admitting Diagnosis: SEPSIS
+     Field of view: 44
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old man with hypotension and abd pain.                                 
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for duodenal perforation.                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Hypotension, abdominal pain, and rigid abdomen.  History of ERCP
+     with duodenal microperforation.
+     
+     COMPARISON:  Torso CT of [**3443-4-6**].
+     
+     TECHNIQUE:  Axial multidetector CT images of the abdomen and pelvis were
+     obtained with oral gastrografin.  Intravenous contrast was withheld secondary
+     to the patient's poor renal function.
+     
+     ABDOMEN CT WITHOUT CONTRAST:  There are small bilateral pleural effusions and
+     associated bibasilar atelectasis, left greater than right.  No pericardial
+     effusion is identified.  There is a moderate-sized hiatal hernia.
+     
+     Oral contrast opacifies the esophagus, stomach, duodenum, and proximal small
+     bowel.  However, the duodenum is not well distended.  In the presence of
+     ascites and absence of intravenous contrast, it is difficult to precisely
+     define the bowel wall.  However, there are several extralumenal small gas
+     bubbles adjacent to the second portion of the duodenum, consistent with
+     microperforation.
+     
+     There is a moderate amount of ascites, increased since the previous study,
+     including increased amount of fluid in the lesser sac. There is also increased
+     amount of air in the lesser sac, some of which appears tubular and may be
+     located in the pancreatic ductal branches, and some of which is nondependent
+     free air. These findings may be related to air leak from duodenal perforation.
+     However, the pancreatic head and neck cannot be distinguished from the
+     surrounding fluid, and necrotizing pancreatitis with superimposed infection
+     cannot be excluded on the current limited noncontrast exam.
+     
+     There are stones in the gallbladder. There is a stent extending from the right
+     hepatic bile duct through the common duct into the duodenum. There is no
+     intrahepatic biliary ductal dilatation. The liver parenchyma, spleen, adrenal
+     glands, and the left kidney appear unremarkable on limited noncontrast
+     evaluation. There is a 2 mm nonobstructing stone in the mid/lower right
+     kidney.
+     
+     PELVIS CT WITHOUT CONTRAST:  There is an increased amount of ascites compared
+     to the previous study.  There is a Foley catheter in the bladder.  Small
+     bowel, colon, and rectum appear unremarkable on limited evaluation without
+                                                                 (Over)
+
+     DATE: [**3443-4-9**] 11:29 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4458**]
+     CT RECONSTRUCTION
+     Reason: Please evaluate for duodenal perforation.                   
+     Admitting Diagnosis: SEPSIS
+     Field of view: 44
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     intravenous contrast.
+     
+     BONE WINDOWS:  Degenerative changes are present in the lower lumbar spine and
+     sacroiliac joints.
+     
+     Preliminary report of duodenal microperforation was discussed with Dr. [**First Name8 (NamePattern2) 258**]
+     [**Last Name (NamePattern1) **] at 11:45 p.m. on [**3443-4-9**]. Inability to excluded necrotizing
+     pancreatitis with superimposed infection was discussed with Dr. [**Last Name (STitle) 4459**] at
+     8:55 am on [**3443-4-10**].
+     
+     IMPRESSION:
+     
+     1)  Findings suspicious for microperforation in the second portion of the
+     duodenum.
+     
+     2)  Moderate ascites, increased since the previous study, with increased fluid
+     and air in the lesser sac.  While these findings may be related to duodenal
+     perforation, necrotizing pancreatitis with superimposed infection cannot be
+     excluded.
+     
+     3)  Cholelithiasis.
+     4)  Non-obstructing right renal stone.
+     4)  Bilateral pleural effusions and bibasilar atelectasis, left greater than
+     right.
+     
+                                                                           DFDkq
+
+",,
+8066,6670,10037,,3443-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-9**] 11:29 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4458**]
+     CT RECONSTRUCTION
+     Reason: Please evaluate for duodenal perforation.                   
+     Admitting Diagnosis: SEPSIS
+     Field of view: 44
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old man with hypotension and abd pain.                                 
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for duodenal perforation.                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Hypotension, abdominal pain, and rigid abdomen.  History of ERCP
+     with duodenal microperforation.
+     
+     COMPARISON:  Torso CT of [**3443-4-6**].
+     
+     TECHNIQUE:  Axial multidetector CT images of the abdomen and pelvis were
+     obtained with oral gastrografin.  Intravenous contrast was withheld secondary
+     to the patient's poor renal function.
+     
+     ABDOMEN CT WITHOUT CONTRAST:  There are small bilateral pleural effusions and
+     associated bibasilar atelectasis, left greater than right.  No pericardial
+     effusion is identified.  There is a moderate-sized hiatal hernia.
+     
+     Oral contrast opacifies the esophagus, stomach, duodenum, and proximal small
+     bowel.  However, the duodenum is not well distended.  In the presence of
+     ascites and absence of intravenous contrast, it is difficult to precisely
+     define the bowel wall.  However, there are several extralumenal small gas
+     bubbles adjacent to the second portion of the duodenum, consistent with
+     microperforation.
+     
+     There is a moderate amount of ascites, increased since the previous study,
+     including increased amount of fluid in the lesser sac. There is also increased
+     amount of air in the lesser sac, some of which appears tubular and may be
+     located in the pancreatic ductal branches, and some of which is nondependent
+     free air. These findings may be related to air leak from duodenal perforation.
+     However, the pancreatic head and neck cannot be distinguished from the
+     surrounding fluid, and necrotizing pancreatitis with superimposed infection
+     cannot be excluded on the current limited noncontrast exam.
+     
+     There are stones in the gallbladder. There is a stent extending from the right
+     hepatic bile duct through the common duct into the duodenum. There is no
+     intrahepatic biliary ductal dilatation. The liver parenchyma, spleen, adrenal
+     glands, and the left kidney appear unremarkable on limited noncontrast
+     evaluation. There is a 2 mm nonobstructing stone in the mid/lower right
+     kidney.
+     
+     PELVIS CT WITHOUT CONTRAST:  There is an increased amount of ascites compared
+     to the previous study.  There is a Foley catheter in the bladder.  Small
+     bowel, colon, and rectum appear unremarkable on limited evaluation without
+                                                                 (Over)
+
+     DATE: [**3443-4-9**] 11:29 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4458**]
+     CT RECONSTRUCTION
+     Reason: Please evaluate for duodenal perforation.                   
+     Admitting Diagnosis: SEPSIS
+     Field of view: 44
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     intravenous contrast.
+     
+     BONE WINDOWS:  Degenerative changes are present in the lower lumbar spine and
+     sacroiliac joints.
+     
+     Preliminary report of duodenal microperforation was discussed with Dr. [**First Name8 (NamePattern2) 258**]
+     [**Last Name (NamePattern1) **] at 11:45 p.m. on [**3443-4-9**]. Inability to excluded necrotizing
+     pancreatitis with superimposed infection was discussed with Dr. [**Last Name (STitle) 4459**] at
+     8:55 am on [**3443-4-10**].
+     
+     IMPRESSION:
+     
+     1)  Findings suspicious for microperforation in the second portion of the
+     duodenum.
+     
+     2)  Moderate ascites, increased since the previous study, with increased fluid
+     and air in the lesser sac.  While these findings may be related to duodenal
+     perforation, necrotizing pancreatitis with superimposed infection cannot be
+     excluded.
+     
+     3)  Cholelithiasis.
+     4)  Non-obstructing right renal stone.
+     4)  Bilateral pleural effusions and bibasilar atelectasis, left greater than
+     right.
+     
+                                                                           DFDkq
+
+",,
+8066,6670,10037,,3443-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-9**] 11:29 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4458**]
+     CT RECONSTRUCTION
+     Reason: Please evaluate for duodenal perforation.                   
+     Admitting Diagnosis: SEPSIS
+     Field of view: 44
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old man with hypotension and abd pain.                                 
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for duodenal perforation.                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Hypotension, abdominal pain, and rigid abdomen.  History of ERCP
+     with duodenal microperforation.
+     
+     COMPARISON:  Torso CT of [**3443-4-6**].
+     
+     TECHNIQUE:  Axial multidetector CT images of the abdomen and pelvis were
+     obtained with oral gastrografin.  Intravenous contrast was withheld secondary
+     to the patient's poor renal function.
+     
+     ABDOMEN CT WITHOUT CONTRAST:  There are small bilateral pleural effusions and
+     associated bibasilar atelectasis, left greater than right.  No pericardial
+     effusion is identified.  There is a moderate-sized hiatal hernia.
+     
+     Oral contrast opacifies the esophagus, stomach, duodenum, and proximal small
+     bowel.  However, the duodenum is not well distended.  In the presence of
+     ascites and absence of intravenous contrast, it is difficult to precisely
+     define the bowel wall.  However, there are several extralumenal small gas
+     bubbles adjacent to the second portion of the duodenum, consistent with
+     microperforation.
+     
+     There is a moderate amount of ascites, increased since the previous study,
+     including increased amount of fluid in the lesser sac. There is also increased
+     amount of air in the lesser sac, some of which appears tubular and may be
+     located in the pancreatic ductal branches, and some of which is nondependent
+     free air. These findings may be related to air leak from duodenal perforation.
+     However, the pancreatic head and neck cannot be distinguished from the
+     surrounding fluid, and necrotizing pancreatitis with superimposed infection
+     cannot be excluded on the current limited noncontrast exam.
+     
+     There are stones in the gallbladder. There is a stent extending from the right
+     hepatic bile duct through the common duct into the duodenum. There is no
+     intrahepatic biliary ductal dilatation. The liver parenchyma, spleen, adrenal
+     glands, and the left kidney appear unremarkable on limited noncontrast
+     evaluation. There is a 2 mm nonobstructing stone in the mid/lower right
+     kidney.
+     
+     PELVIS CT WITHOUT CONTRAST:  There is an increased amount of ascites compared
+     to the previous study.  There is a Foley catheter in the bladder.  Small
+     bowel, colon, and rectum appear unremarkable on limited evaluation without
+                                                                 (Over)
+
+     DATE: [**3443-4-9**] 11:29 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 4458**]
+     CT RECONSTRUCTION
+     Reason: Please evaluate for duodenal perforation.                   
+     Admitting Diagnosis: SEPSIS
+     Field of view: 44
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     intravenous contrast.
+     
+     BONE WINDOWS:  Degenerative changes are present in the lower lumbar spine and
+     sacroiliac joints.
+     
+     Preliminary report of duodenal microperforation was discussed with Dr. [**First Name8 (NamePattern2) 258**]
+     [**Last Name (NamePattern1) **] at 11:45 p.m. on [**3443-4-9**]. Inability to excluded necrotizing
+     pancreatitis with superimposed infection was discussed with Dr. [**Last Name (STitle) 4459**] at
+     8:55 am on [**3443-4-10**].
+     
+     IMPRESSION:
+     
+     1)  Findings suspicious for microperforation in the second portion of the
+     duodenum.
+     
+     2)  Moderate ascites, increased since the previous study, with increased fluid
+     and air in the lesser sac.  While these findings may be related to duodenal
+     perforation, necrotizing pancreatitis with superimposed infection cannot be
+     excluded.
+     
+     3)  Cholelithiasis.
+     4)  Non-obstructing right renal stone.
+     4)  Bilateral pleural effusions and bibasilar atelectasis, left greater than
+     right.
+     
+                                                                           DFDkq
+
+",,
+8066,6670,10037,,3443-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-4-9**] 8:29 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 4457**]
+     Reason: Please perform upright CXR stat to assess for free air      
+     Admitting Diagnosis: SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           72 year old man w/ pancreatitis,  GNR bacteremia/sepsis from SBP, w/ 
+      increasing abd pain hypotensive   
+     REASON FOR THIS EXAMINATION:
+      Please perform upright CXR stat to assess for free air                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Chest, single AP film.
+     
+     History of pancreatitis with bacteremia, sepsis, and hypertension.
+     
+     NG tube is in stomach.  There are low lung volumes.  Allowing for this, heart
+     size is borderlined.  There are bibasilar opacities consistent with
+     atelectases and possible associated small pleural effusions, essentially
+     unchanged since the prior film of April of the same date if allowance is made
+     for technical differences.  No pneumothorax, and no evidence for CHF.
+                                                                           
+
+",,
+8066,6670,10037,,3443-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8066,,10037,0,3443-04-10 00:28:00 EST,3443-04-10 00:35:00 EST,2519,"N",69,"Nursing/Other","NURSING ADMISSION AND PROGRESS NOTE","
+NURSING ADMISSION AND PROGRESS NOTE
+THIS IS A 72 Y/P PT WITH PMH OF HTN, TYPE 2 DM, BILIARY OBSTRUCTION, S/P ERCP X 2 IN THE LAST 2 WEEKS.  PT INITIALLY PRESENTED TO [**Hospital **] HOSPITAL 2 WEEKS AGO C/O N/V.  PT HAD STONE EXTRACTION AND SPHINCTEROTOMY ON [**3443-3-23**].  FOLLOWING HIS D/C HOME, HE CONTINUED TO HAVE N/V AND DEVELOPED JAUNDICE.  PT THEN PRESENTED TO [**Hospital 2396**] HOSPITAL WHERE HE WAS FOUND TO HAVE NEW ASCITES.  PT TX TO [**Hospital1 22**] FOR ERCP ON [**3443-3-31**] AND STENT PLCMT.  AT THE TIME THERE WAS CONCERN THAT PRIOR ERCP/SPHINCTEROTOMY MAY HAVE LED TO MICROPERFORATION OF THE SMALL BOWEL LEADING TO BOWEL EDEMA AND ASCITES.  PT TX BACK TO [**Location (un) 2396**] S/P ERCP AND COVERED WITH BROAD ABX- WAS DC'D TO HOME FROM [**Location (un) 2396**].  THE PT REPORTED THAT HIS N/V CONTINUED AND HE SUFFERED FROM ANOREXIA, FEVER/CHILLS AND INCREASED ABD GIRTH.  PT REPRESENTED TO [**Hospital 2396**] HOSPITAL WHERE HE WAS FOUND TO BE FEBRILE AND WITH A SBP IN THE 70'S- ADMITTED TO THE MICU ON [**4-6**] UNDER THE MUST SEPSIS PROTOCOL.  PT DID WELL- WEANED OFF OF PRESSERS- PARACENTECIS OBTAINED DURING MICU STAY AND WAS TX TO CC7 ON [**3443-4-8**].  ON [**3443-4-9**], PT WAS FOUND TO HAVE AN ACUTE BELLY AND SBP IN THE 70'S- SEPTIC- TX BACK TO THE MICU, SURGERY CONSULTED AND ABD CT OBTAINED- PT NOW GOING TO THE OR FOR EXPLORATORY LAP AND TX TO SICU SERVICE.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **].
+",,
+8066,,,0,3443-04-10 06:12:00 EST,3443-04-10 06:14:00 EST,940,"N",-1,"Nursing/Other","Condition Update","
+Condition Update
+Patient arrived to SICU ~5am (see carevue flowsheet for specific time) sinus brady/hypotensive on levo/epi, vasopressin. Cardiopulmonary arrest record initiated please refer to record for specifc times and vitals. Family present and aware of situation in to see patient at 0715.
+",,

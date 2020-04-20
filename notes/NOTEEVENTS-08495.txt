@@ -1,0 +1,1200 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8495,9229,,,3236-06-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3236-6-6**]              Discharge Date:   [**3236-6-16**]
+ 
+Date of Birth:  [**3165-2-15**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 815**] 
+Chief Complaint:
+transfer from [**Hospital1 4392**] for hypotension and pneumonia and COPD 
+ 
+Major Surgical or Invasive Procedure:
+Arterial line (left hand)
+Left subclavian line
+PICC line placement
+
+ 
+History of Present Illness:
+71M with hx COPD, respiratory failure s/p trach, transferred for 
+hypotension, new infiltrate, sepsis. Came from [**Location (un) 3410**] ICU 
+with COPD flare when he was trached and peg'd. Pt transferred to 
+[**Hospital3 **] for vent weaning and has been off ventilator 
+support for the last 3 days. He had his trach downsized to size 
+6 and he was speaking with a Passy-Muir valve. Yesterday he had 
+a barium swallow. Barium swallow showed severe aspiration with 
+pudding, ineffective cough/clearance. No witnessed aspiration 
+event. This am pt had respiratory distress (desat) and was 
+placed back on the vent, became hypotensive. CVL (R fem) line 
+placed and pt started on levophed and dopamine. Received ceftaz, 
+clindamycin and vancomycin, 100mg hydrocortisone. CXR showed 
+large L infiltrate.  
+.  
+ROS: Unable to obtain [**2-7**] poor mental status
+
+ 
+Past Medical History:
+s/p ablation for dysrhythmia (per family)  
+end stage COPD  
+size 6 trach  
+
+ 
+Social History:
+Unknown
+ 
+Family History:
+Noncontributory
+ 
+Physical Exam:
+VS: 99.8 BP 71/45 HR 100 R 20 99%  
+AC 16 X 450 P5, FiO2 50% Ppeak 36  
+Gen: intubated, arouseable, but does not answer questions, not 
+sedated  
+HEENT: EOMI, PERRL  
+Neck: no LAD  
+Chest: decreased BS L side, expiratory wheezes throughout  
+CV: tachy, RRR, s1 s2 present, no mrg  
+Abd: soft, NT, ND +BS  
+Ext: no edema, no rash, R fem line in place  
+Neuro: moves all 4. A&O X 0.  
+
+ 
+Pertinent Results:
+Labs: From OSH, [**6-6**] notable for Cr 1.3, gap 1. WBC 3.0, Hct 
+36.4. plt clumped. ABG [**6-5**] 7.51/49/45
+.
+Studies:
+[**6-6**] CXR (OSH): Process predominantly in perihilar region on the 
+L side and L upper lobe with suspected patchy diffuse infiltrate 
+through the L lower lobe. 
+ 
+Brief Hospital Course:
+Mr. [**Known patient lastname 11800**] is a 71M with endstage COPD s/p trach who was 
+transferred from [**Hospital 4392**] Rehab with likely aspiration PNA and 
+sepsis. He arrived to the FICU in a very tenuous condition while 
+on 2 pressors. He was noted to be in hypoxic and hypercarbic 
+respiratory failure (hypoxic and hypercarbic), likely secondary 
+to endstage COPD coupled with aspiration pneumonia. He was 
+initially ventilated on AC mode via his trach. He was also noted 
+to be in septic shock and was significantly hypotensive (60/30s) 
+on 2 pressors on arrival to FICU. He was started on IVF, stress 
+dose steroids, and a 3 pressor regimen with Dopamine, Levophed 
+and Vasopressin. His blood pressure stabilized on this regimen. 
+.
+He was broadly covered with Vanc, Ceftazidime and Clindamycin at 
+the rehab. In the FICU he was transitioned to Zosyn, Levoflox 
+and Vanc. and maintained on a sepsis protocol. He was given 
+Albuterol MDI, Atrovent MDI and Flovent for COPD exacerbation. 
+His sputum cultures were significant for Ecoli (S to Zosyn) and 
+P. aeruginosa. His Levoflox and Vanc were discontinued.   
+.
+Mr. [**Known patient lastname 11800**] has a gradual improvement in his ventilation status 
+status during the hospitalization. He was noted to have an 
+APACHE score of >25 for which he was started on 96h of Xigris. 
+His sedation was eventually weaned off and his blood gases 
+improved.  His blood pressure remained stable off of pressors.  
+He did become hypernatremic with a sodium which peaked at 150.  
+This resolved with the addition of free water boluses to his 
+tube feedings. 
+.
+Transitioned to PS vent. Pressors weaned off o/n b/w [**6-10**]- [**6-11**]. 
+Had a trach mask trial on [**6-11**], which he failed.  He was noted to 
+be sig vol overloaded but he started autodiuresing as his vent 
+settings were weaned down.  His respiratory status improved and 
+he tolerated longer and longer periods on the trach mask.  His 
+antibiotics were converted to Zosyn 4.5g IV q8 once his blood 
+and sputum cultures grew sensitive E.Coli.  Due to his 
+bacteremia, he was to continue a course of 14 days for his 
+aspiration PNA with E.coli bacteremia (day#11 on discharge - 
+last dose [**3236-6-19**]).  Prior to discharge, patient was able to 
+complete wean from the vent and remained on a 50% trach mask. 
+. 
+Patient was transferred to his prior rehab hospital to continue 
+with trach management as well as to complete a 2 week course of 
+ABx.  Pt is to remain on tube feedings as he represents a 
+permanent swallow risk as evaluated by S&S. 
+ 
+Medications on Admission:
+Lidocaine jelly around trach  
+ativan 1mg q2h prn  
+tylenol 650 mg 4-6h prn  
+dulcolax 10 mg qd prn  
+morphine 1-2 mg SQ q1h prn  
+albuterol MDI q2h prn  
+duoneb QID prn  
+clindamycin 600 mg q8 IV (started [**6-2**])  
+colace 100 mg PO BID  
+Protonix 40 mg PO qD  
+Free H2o 250 ml q6 hr  
+Promod TF  
+Novasource Renal 30 mg TID  
+Fragmin 25000 SQ daily  
+combivent 4p q4hr  
+prednisone 60 mg daily  
+Ceftaz  
+Vanc 
+ 
+Discharge Medications:
+1. Piperacillin-Tazobactam 4.5 g Recon Soln Sig: 4.5 gram Recon 
+Solns Intravenous  Q8H (every 8 hours) for 3 days: Last doses on 
+[**3236-6-19**]).
+[**Month/Day/Year 841**]:*qs Recon Soln(s)* Refills:*0*
+2. Albuterol-Ipratropium 103-18 mcg/Actuation Aerosol Sig: Eight 
+(8) Puff Inhalation every six (6) hours.
+[**Month/Day/Year 841**]:*qs inhalations* Refills:*0*
+3. Fluticasone 110 mcg/Actuation Aerosol Sig: Four (4) Puff 
+Inhalation BID (2 times a day).
+[**Month/Day/Year 841**]:*qs inhalation* Refills:*2*
+4. Olanzapine 5 mg Tablet, Rapid Dissolve Sig: 0.5 Tablet, Rapid 
+Dissolve PO BID (2 times a day) as needed for anxiety.
+[**Month/Day/Year 841**]:*60 Tablet, Rapid Dissolve(s)* Refills:*0*
+5. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed for 
+constipation.
+[**Month/Day/Year 841**]:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+6. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day): Please give through G-tube.
+[**Month/Day/Year 841**]:*60 Capsule(s)* Refills:*2*
+7. Heparin (Porcine) 5,000 unit/mL Solution Sig: 5000 (5000) 
+units Injection TID (3 times a day).
+[**Month/Day/Year 841**]:*qs units* Refills:*2*
+8. Insulin Regular Human 100 unit/mL Solution Sig: as per scale 
+below units Injection three times a day: Check BS qid: 
+For BS 150-200, give 2 units. For 200-250, give 4 units.  For 
+250-300, give 6 units. For 300-350, give 8 units. For 350-400, 
+give 10 units. For >400, give 12 units and call doctor.
+[**Last Name (Titles) 841**]:*qs units* Refills:*2*
+9. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO once a day: 
+Hold for SBP<100.  
+10. Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: 
+Thirty (30) mg PO once a day.  
+11. Prednisone 5 mg Tablet Sig: as directed Tablet PO once a day 
+for 3 days: [**3236-6-17**]: 10mg
+[**3236-6-18**]: 5mg
+[**3236-6-19**]: 5mg
+[**3236-6-20**]: off. .  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital1 11801**]
+ 
+Discharge Diagnosis:
+Septic shock due to aspiration pneumonia
+E.Coli bacteremia from aspiration pneumonia
+COPD flare
+Pancreatitis
+
+ 
+Discharge Condition:
+stable to be discharged to rehab
+
+ 
+Discharge Instructions:
+Please take medications as outlined below. 
+. 
+If [**Doctor First Name **] develop fever, respiratory distress, difficulty 
+oxygenating on the venilator, vomiting, or any other concerning 
+symptoms, seek medical attention immediately.
+
+ 
+Followup Instructions:
+Please follow up with your doctor at the rehab as needed. 
+
+ 
+                             [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern4) 819**] MD [**MD Number 820**]
+ 
+Completed by: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6922**] MD [**MD Number 6923**] [**3236-6-16**] @ 1315
+Signed electronically by: DR. [**First Name8 (NamePattern2) 15**] [**Last Name (NamePattern1) **]
+ on: FRI [**3236-6-20**] 3:02 PM
+(End of Report)
+
+
+",,
+8495,9229,,,3236-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-6**] 3:40 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8323**]
+     Reason: line placement                                              
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       71 year old man with COPD/asthma who presentes with likely aspiration PNA.     
+       
+     REASON FOR THIS EXAMINATION:
+      line placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Likely aspiration pneumonia, line placement.
+     
+     COMPARISON:  Chest x-ray obtained three hours prior.
+     
+     FINDINGS:  A left subclavian central venous catheter has been placed with the
+     tip terminating satisfactorily in the lower SVC.  No pneumothorax is evident.
+     No other significant short interval changes are seen.
+
+",,
+8495,9229,,,3236-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-6**] 12:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8322**]
+     Reason: r/o PNA                                                     
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with COPD/asthma who presentes with likely aspiration PNA.      
+     REASON FOR THIS EXAMINATION:
+      r/o PNA                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  COPD, asthma, presents with likely aspiration pneumonia.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  The tracheostomy tube is present with the tip terminating at the
+     level of the thoracic inlet.  There is diffuse severe consolidation involving
+     the left hemithorax most pronounced in the left lower lobe.  Irregularity of
+     vascular markings in the right lung suggest background emphysema.  No
+     pneumothorax is present.  The costophrenic sulci are not fully seen.  Slight
+     fullness in the left hilus is noted.
+     
+     IMPRESSION:
+     1)  Severe diffuse left sided consolidation, most consistent with presumed
+     aspiration pneumonia.
+     2)  Emphysema.
+     3)  Fullness of the left hilum, possibly superimposed adenopathy. Continued
+     follow up after therapy is recommended.
+
+",,
+8495,9229,,,3236-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-6**] 3:40 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8323**]
+     Reason: line placement                                              
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       71 year old man with COPD/asthma who presentes with likely aspiration PNA.     
+       
+     REASON FOR THIS EXAMINATION:
+      line placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Likely aspiration pneumonia, line placement.
+     
+     COMPARISON:  Chest x-ray obtained three hours prior.
+     
+     FINDINGS:  A left subclavian central venous catheter has been placed with the
+     tip terminating satisfactorily in the lower SVC.  No pneumothorax is evident.
+     No other significant short interval changes are seen.
+
+",,
+8495,9229,10563,0,3236-06-06 16:43:00 EST,3236-06-06 16:58:00 EST,7964,"N",69,"Nursing/Other","Admit note:","
+Admit note:
+71 yr male PMHx: COPD, malnutrition and resp failure.  Per wife pt with malaise X1wk prior to hospitalization, then w/ syncopal episode, intubated by EMS and taken to OSH. approx. 3weeks ago.  Per report pt off vent on trach mask last noc.  A+OX3, doing well on trach mask.  Had MBS yesterday which showed frank aspiration including pudding thick liquids.  pt began w/ increasing SOB and discomfort last noc w/ temp to 101.4.  Started on clindamycin.  ABG 7.51/49/45(pao2)/38.  Pt restarted on vent w/ multiple changes made.  at 0400 unable to palpate pulses.  Pt given 1L NS bolus, pulses then palpable at some points.  SBP then 44 by palp.  started on dopamine and levo, pan cx done, pt received vanco and ceftaz at OSH.  Sent to [**Hospital1 22**] for further care.
+
+Arrived to room 409 at 1115.  Pt initially obtunded off sedation.  Received pt from EMS w/ BP 70's/40's.  Pressors titrated.  Pt received total 3L NS bolus' and started on Vasopressin.  Pt now on tripple pressors, Vented AC 450/8 X16 FiO2 50%.  Pt breathing over vent ~10bpm.  to be started on fentanyl/versed gtt for sedation.  As Dr. [**Last Name (STitle) **] feels hypotension may in part be r/t auto-peep.
+
+Lytes repleated as ordered.  LIJ pre-sep cath placed and MUST protocol started.  Lactate has been stable ~1.4.  T-max 99.3.  ABG 7.28/63/57/31.  UOP 150-250/hr.  CVP 12-13.  HR 90's to 1teens.  SR-ST.  PEG in place.  R fem line to be D/C'd.  ?cx needed of tip.
+
+Pt is now more alert, mouthing words and following commands.  Denies pain and MAE.  Many family and friends present.  In to visit [**2-8**] at a time.  Wife and children updated on pt status by Dr. [**Last Name (STitle) **].
+
+Plan:  Continue MUST protocol.  Continue to titrated pressors as able.  Sedation as ordered to control auto-peep.  
+",,
+8495,9229,10563,,3236-06-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-7**] 5:29 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8324**]
+     Reason: intubated, aspiration PNA                                   
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        71 year old man with COPD/asthma who presentes with likely aspiration PNA.    
+         
+     REASON FOR THIS EXAMINATION:
+      intubated, aspiration PNA                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 5:52 A.M., [**6-7**].
+     
+     HISTORY:  COPD and asthma.  Aspiration pneumonia.
+     
+     IMPRESSION:  AP chest compared to [**6-6**]:
+     
+     Extensive consolidation in the left lung accompanied by at least small left
+     pleural effusion has not worsened since [**6-6**].  Hyperinflation of the right
+     lung is due to emphysema.  Heart is normal size.  Tracheostomy tube is in
+     standard placement.  Tip of the left subclavian line projects over the mid
+     portion of the SVC.
+                                                                           
+
+",,
+8495,9229,10563,0,3236-06-07 04:51:00 EST,3236-06-07 05:26:00 EST,1303,"N",69,"Nursing/Other","NPN  1900-0700","
+NPN  1900-0700
+REsp:  Probable aspiration pna.  Poor abgs t/o shift c many vent changes.  Current settings are PCV f 22, 60% fio2, pt vols >500.  previous pH 7.2, pao2 72, co2 62.  abg sent at 0545 improved, see careview.  LS diminished t/o, coarse, sm amt tan secretions sx q4hrs, sats 93-97%. pt not overbreathing vent at this time.
+
+Neuro:  Currently sedated on Fent 50mcg/hr, Midaz .5mg/hr.  Opening eyes to stimuli, mae.  Earlier on shift, pt followed commands on same dosages, but sedation increased earlier to 100/2 when pt on AC to reduce pt's autopeep, pt may still have effects from higher dosages on board.  PERRL.
+
+ID:  WBC 4.  Tmax 99.0, now 98.4.  cont on sepsis protocol.  On flagyl, zosyn, levoflox, vanco.
+
+CV:  HR 90s-1teens, nsr, no ectopy.  Pressor dosages currently Levophed 1.66mcg, Pitressin 2.4 units, and Dopamine 3.0mcg.  Attempted to wean dopamine but pt very sensitive to it.  Pt hypotensive to sbp 70s when turning.  dropped bp to 70s one other time when not moving. Increased levophed temporarily until bp recovered.  goal map >65, maintained >70 except for these incidences.  CVP now 14, 500mls bolus x1 for cvp 7.0.  SVo2 up as high as 86, now 84.  Hct stable 41, K 4.3, Inr up to 2.2, Glu 159, lactate 1.4.  
+
+GI:  hypoactive BS, Abd soft, distended.  Started on TF at 10mls/hr x4 hrs via g tube,then d/c'd.  residual 110mls green fld.  No stool.  
+
+Gu/flds:  U/o 60-120mls/hr clear, yellow urine.  Pt fld positive 2.7L last 24hrs, positive .5L since midnoc.
+
+Skin:  Grossly intact.  R groin fem cath pulled and tip sent for cx. 
+ dsg C&D.  G tube insertion site C&D dsg changed.
+
+Access:  A-line wnl,  pre-sep cath wnl, piv R hand wnl.
+
+Plan:  Cont MUST protocol, next labs due at 1000.  Monitor BP, titrate pressors.  Titrate sedation to facilitate best ventilation.  Monitor CVP, svo2, sats, LS.     
+",,
+8495,9229,10563,0,3236-06-07 05:20:00 EST,3236-06-07 05:29:00 EST,650,"N",69,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+
+ Pt remain on ventilatory support via trach tube, We made muttiple change to correct resp acidosis and hypoxia. See Careview. AM CXR to follow in AM. BS are dim mod with NO adv BS ant. MDI""s adm as ordered with No changes noted in BS. We are sxtn for mod amt of thick tan secretions from trach. Plan: Continue present ICU monitoring, Sats & ABGs. Will follow.
+",,
+8495,9229,10563,0,3236-06-07 12:15:00 EST,3236-06-07 12:35:00 EST,7964,"N",69,"Nursing/Other","Nursing Progress Note 6/3/06 1300","
+Nursing Progress Note [**3236-6-7**] 1300
+71yr male admitted yesterday from [**Hospital **] rehab, started on MUST protocol for ?aspiration pna.  See admission note for HPI.  Pt recieved still on tripple pressors w/ tenuous BP this am.  Given 1L NS bolus for CVP 11.  CVP has since been 15-18.  Initially w/ increased pressor requirements; however, able to gently wean dopamine off.  Now slowly titrating Levophed.  
+
+Neuro:  Pt remains lightly sedated on fentanyl 50mcg/hr and Versed 0.5mg/hr.  Arouses easily to voice, mouthing words, denies pain. MAE. Appears comfortable.
+
+CV:  As above.  Continues on Levophed and Vasopressin.  HR 70's to 80's.  SR.  BP somewhat more stable this afternoon.  MAP's remain >65.
+PPP, capillary refill <3sec BLE.  Skin warm and dry t/o. 
+
+ID:  Remains afebrile.  Continues on IV vanco, zosyn, levaquin and flagyl.  SvO2 70's to mid 80's.  Receiving fluid bolus per PRN order to maintain CVP.  Lactate trending up this am 2.2.  Will recheck with next labs.  Plan per team to start xigris this afternoon.  Awaiting orders.
+
+Resp:  Remains trached and vented PC FiO2 60% rate 22. PEEP 10.  ABG on these settings somewhat improved at 7.28/47/69/23.  BBS now longer adventitious.  Somewhat diminshed t/o w/ airflow noted.  Pox 93-96%.  Snx q3-4hr for small to mod thick tan secretions.
+
+FEN:  Per report started on TF at 10ml/hr X4hr last noc.  Then D/C'd r/t residual >110ml.  BS absent this am, hypoactive at noon.  BS to 220, started on insulin gtt.  Electroylytes repleated as ordered.  Plan for 3units FFP for ? DIC.  INR 2.2.  Vit. K 10mg PO given as ordered.  Awaiting consent for blood products.  Team in to talk w/pt's wife to obtain consent.
+
+Social:  Wife and daughter in to visit pt.  Wife updated on pt status.  Spoke w/ MD's.  All questions answered.  Wife and family appreciative of care.  Deny further questions or concerns at this time.
+
+IV access:  R fem line D/C'd last noc. s/p Presep cath placed on L side yesterday.  PIV R hand puffy w/ questionable blood return.  Remains functional for now.  PIV placed LLA #20.
+",,
+8495,9229,10563,0,3236-06-07 16:31:00 EST,3236-06-07 16:54:00 EST,7964,"N",69,"Nursing/Other","Update 1730","
+Update 1730
+Consent for FFP obtained from wife by team.  3units FFP given as ordered.  CVP to 19.  BP remains stable.  
+
+Xigris started at 1600.  DOSED BY PHARMACY ACCORDING TO DRY WEIGHT OF 66.1KG THOUGH WEIGHT ON ADMISSION 80.5KG.  WEIGHT CHANGED IN ADT CENSUS AT 1600 AT START OF XIGRIS INFUSION.  LEVOPHED DOSE IN CAREVIEW REFLECTS THIS CHANGE.  LEVO WAS TITRATED DOWN FROM 28ML TO 22ML/HR AT THIS TIME.
+
+Repeat ABG sent 7.29/45/146/23, repeat specimen sent and PaO2 confirmed.  FiO2 decreased by RT to 50%.  Lactate 3.2  Team aware.
+
+Pt remained supine t/o shift r/t hemodynamic instability including severe hypotension w/ mouthcare in am, though has been more hemodynamically stable this afternoon.  Positioned on R side at 1700 and tolerated position change well.
+
+Plan:  Continue to titrate and wean pressors as able.  Continue current level of sedation. Per pharmacy it is important that xigris run without interuption.  Each bag lasts ~6hr.  Must notify pharmacy 2hr prior to next bag.  Monitor CBC as ordered and monitor for s/s bleeding r/t xigris.  
+",,
+8495,9229,10563,,3236-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-8**] 5:51 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8325**]
+     Reason: eval ETT                                                    
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         71 year old man with COPD/asthma who presentes with likely aspiration PNA.   
+           
+     REASON FOR THIS EXAMINATION:
+      eval ETT                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE VIEW ON [**6-8**].
+     
+     HISTORY:  COPD and asthma with likely aspiration pneumonia.  Check ET tube.
+     
+     FINDINGS:  These are two frontal semierect films of the chest.  Despite a
+     repeated film, the extreme left lateral chest is off the film.  There is dense
+     left lower lobe opacification consistent with volume loss/effusion/infiltrate.
+     There is also a more hazy alveolar infiltrate that is more prominent in the
+     lower than upper lobes on the left.  The right lung is clear with a small
+     right effusion.  Compared to the film from the prior day, there has been no
+     significant change.  The tracheostomy tube tip is at the thoracic inlet.  The
+     left subclavian line tip is in the distal SVC.
+                                                                           
+
+",,
+8495,9229,10563,0,3236-06-08 02:56:00 EST,3236-06-08 02:57:00 EST,6507,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on vent. No changes made, Suctioned mdo amt of tan secretions. will continue to monitor.
+",,
+8495,9229,10563,0,3236-06-08 05:17:00 EST,3236-06-08 05:39:00 EST,43,"N",69,"Nursing/Other","MICU Nursing Progress Note","
+MICU Nursing Progress Note
+  Respiratory: pt remains trached,vent with settings of PCV, PEEP 10cm, RR 22, driving pressure of 22,FIO2 50%, TV range 520-550cc minute ventilation 11-12 liters/min. suctioned q4hr for thick tan sputum. BS clear upper and diminished at the bases. improving ABG 7.33/44/100 sedated on fentanyl 50mcg/hr and versed at 0.5mg/hr. tolerating well. 
+  Cardiac: HR 60-80 Sinus arrythmia BP 88-100/50's cont on vasopressin and levophed. multiple attempts to wean levophed when dose is around the 0.1mcg/kg/min would drop BP into the 70's/ presently is on 0.120mcg/kg/min. Vasopressin remains at 2.4units/hr. CVP range has been 16-19 with SVO2 70-76%. 
+  ID: being treated for presumed aspiration PNA, cont on flaygl,vanco,levo, and zosyn. WBC this am up to 17. afebrile. cont on xigris at 24mcg/kg/min(using 66.1 as dry wt value) 
+  Neuro: sedated on fentanyl and versed. will respond to stimuli, grimaces with turning, sedate when settled. MAE, +cough,+gag. 
+  GI: abd distended, hypoactive BS, +flatus, NPO 
+  GU: foley in place, urine output has only been 15-20cc/hr. BUN up this morning to 41 with Creat slightly up to 1.1(up from 0.8) 
+  Plan: cont to support vent and pressors. attempt to wean as tolerated, follow coag while on xigris. antibx as ordered.  
+
+",,
+8495,9229,10563,0,3236-06-08 05:39:00 EST,3236-06-08 05:40:00 EST,43,"N",69,"Nursing/Other","Addendum: Nursing Progress Note","
+Addendum: Nursing Progress Note
+  Endo: was on IV insulin, titrated rate up to high of 3.5units/hr. FS downt o low of 78 stopped insulin. He cont to be off the IV insulin. 6am FS 111. 
+",,
+8495,9229,10563,0,3236-06-08 14:42:00 EST,3236-06-08 15:02:00 EST,7964,"N",69,"Nursing/Other","Shift Note: 0700-1900","
+Shift Note: 0700-1900
+Neuro:  Pt remains sedated on Fentanyl 50mcg/hr and Versed at 0.5mg/hr.  Remains easily arousable to voice.  Following commands inconsistently, denies pain.  MAE.  PERRLA.
+
+CV:  BP more stable today, able to titrate levophed significantly - see careview, though pt did not tolerate attempt w/ R side positioning this afternoon, with episode of hypotension.  HR remains 60's to 70's, SR.  Significant generalized edema t/o.  Peak lactate 3.2 yesterday, trending down to 1.8 today.  SVO2 70's.  CVP 18-20.
+
+Resp:  ABG's continue to improve.  Vent settings titrated multiple times t/o shift.  PCV Peek insp pressure 28 PEEP 8, FiO2 50% ABG 7.36/40/115/24.  Peek insp pressure decreased to 26 and PEEP to 6.  Will recheck ABG.  BBS remain somewhat diminshed t/o w/ better airflow today.  
+
+FEN:  TF were tried and stopped on [**6-6**] r/t high residuals.  BS now normoactive.  TF promote w/ fiber started.  Currently at 20ml/hr w/ minimal residuals.  Goal 40ml/hr.  Insulin gtt was stopped last noc for low FSBS.  Restarted at 1500 for FSBS >150.  See careview.  UOP ~20ml/hr t/o shift.  Fluid status +8L LOS.
+
+ID:  Per team sputum cx + E. Coli and Blood cx + E. coli and Pseudomonas.  vanco, flagyl and levoquin D/C'd.  Pt continues on Zosyn as ordered.  Remains afebrile.  WBC 1.2 on admit to 17.4 this am, now down to 12.2.  
+
+PT RECEIVING XIGRIS AS ORDERED: IMPORTANT PER PHARMACY XIGIRS TO RUN UNINTERRUPTED.  EACH BAG LASTS ~6HR.  MUST CALL PHARMACY 2HR PRIOR TO NEEDING NEXT BAG.  Xigris to run over 96hr total time as ordered.
+
+Social:  Wife is HCP, Wife and family have been in to visit past several days, though did not visit today.  Spoke w/ wife on phone and updated on pt status.  Per wife ok to share information w/ her sister [**First Name8 (NamePattern2) 2107**] [**Last Name (NamePattern1) 5856**].
+",,
+8495,9229,10563,0,3236-06-08 16:15:00 EST,3236-06-08 16:23:00 EST,6691,"N",69,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received on PCV as noted. BS diminished throughout with increased aeration after MDI's. Pinsp and PEEP weaned to keep driving pressure 20 with follow up ABG's within normal limits. IMV also, weaned. Planto continue with current mode of ventilation - wean settings as tolerated. 
+",,
+8495,9229,10563,,3236-06-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-9**] 5:49 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8326**]
+     Reason: eval ETT                                                    
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          71 year old man with COPD/asthma who presentes with likely aspiration PNA.  
+             
+     REASON FOR THIS EXAMINATION:
+      eval ETT                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Followup of aspiration pneumonia.
+     
+     Portable AP chest radiograph compared to [**3236-6-6**] and [**3236-6-8**].
+     
+     The patient is status post tracheostomy with satisfactory position of the
+     tracheostomy tube.
+     
+     The left subclavian line tip is in the distal portion of superior vena cava.
+     The extensive consolidation in the left lung, accompanied by  small left
+     pleural effusion is unchanged since [**6-6**].  There is an element of left
+     lower lobe consolidation, which is also grossly unchanged.  There is new right
+     lower lobe opacity and pleural effusion, which may represent additional focus
+     of aspiration.
+     
+     The prominent emphysematous changes in the upper lobes are unchanged.
+     
+     IMPRESSION:
+     1.  New right lower lobe pneumonia, possibly due to aspiration.
+     2.  Unchanged extensive left lung consolidation and left lower lobe
+     atelectasis.
+
+",,
+8495,9229,10563,0,3236-06-09 03:33:00 EST,3236-06-09 03:54:00 EST,7212,"N",69,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+Neuro; Pt. sedated with Fentanyl 50 mcg/hr and Versed 0.5 mg/hr. Pupils 2 mm round and reactive. No spontanous movements noted, does not follw commands but withdraws from painful stimuli. 
+
+Resp: trached on PCV initially with ABG pH 7.29, PaCO2 49 after PEEP down to 5 from 10 and RR down to 20 from 22. Pt. vent settings changed to A/C 500x 20 PEEP 5 and 50% FiO2. ABG improved to pH 7.32, PaCO2 45, PaO2 101. Pt. remains comfortable on current vent settings. LS coarse, suctioned several times this shift for thick yellow secretions. Sputum cx + for E-Coli. O2 sat remains in high 90's.
+
+CV: pt. on Levophed and Vasopressin. Levophed needed to be titrated up from 0.048 to 0.081 for SBP low 80's. ABP 80's-120's/50's-60's. HR 50's-60's, NSR with no ectopy noted. AM labs pending. Pt. on XIGRIS ordered to run uninterapted for 96 hr. Xigris started on [**6-7**] 1600. 
+
+GI; Peg tube in place. TF restarted last evening and up to goal rate until 0400 when needed to be stoped for residuals of 50-100 cc. BS 125-170's on Insulin gtt titreted [**First Name8 (NamePattern2) 34**] [**Last Name (un) 1605**] scale. Abd. softly distended, BS +. Pt. had small loose stool this shift.
+
+GU: Foley cath in place and urine output remains on the low side with 15-30cc/hr. Fluid balance +8.6L for LOS. Pt. has large amount of generalized edema oozing from hands. 
+
+Access: L a-line, L SC TLC and one PIV. 
+
+ID: Afebrile. WBC trending down. Blood cx from [**6-6**] pending. Sputum Cx + for E-coli. Only on Zosyn for abx. Lactate 1.8.
+
+Social: Pt. is end stage COPD, full code at this time. No calls or visit form family this shift.
+
+Plan: Cont. to wean levophed as tolerated. Cont. IV abx. Ventilatory support at this time. Unable to perform RSBI this AM due to apnea.
+
+",,
+8495,9229,10563,0,3236-06-09 04:09:00 EST,3236-06-09 04:13:00 EST,1017,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt. remains trached with #6 [**Last Name (un) 2319**] TTS H20 cuff. Initally on PCV changed to AC with Paws< 30/ Plateau's 14-16.
+Abgs: respiratory acidosis improved with change to AC, shortened I time.
+Bs: coarse bilat with occ. scattered rhonchi. Sxn'd x1 for thick yellow.
+Plan: cont. to support, rsbi terminated d/t apnea > 30s.
+",,
+8495,9229,10563,0,3236-06-09 16:39:00 EST,3236-06-09 16:45:00 EST,6691,"N",69,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received on AC as noted. BS diminished and coarse with expiratory wheezes. Pt suctioned for large amts thick, yellow secretions. MDI's given - BS clear with improved aeration. IMV weaned - pt in synch with vent. Sedation weaned to increase pt's spontaneous respirations. Follow up ABG reveals increase in PaCO2 from 45 to 52. Plan to remain on current settings at this time.  
+",,
+8495,9229,10563,0,3236-06-09 17:49:00 EST,3236-06-09 18:06:00 EST,6155,"N",69,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+Neuro: Pt weaned off sedation, as of 1830 pt with eyes wide open attempting to loosen hands from bilat. restraints and lifting chest from bed, getting occasional 1mg boluses of Versed for anxiety, not following commands, SR up x 4.
+
+Resp: Lungs Coarse bilat., sx'd moderate thick yellow secretions, on AC 50%/500 x 16/Peep 5, O2 sats 98-100%, ABG 7.29/52/96/26, sedation turned off and team waiting for spontaneous RR before obtaining next ABG.  
+
+CV: HR 55-64 SB-SR with rare PAC's, BP's 88-118/50-60's, Vasopressin @ 2.4 u/hr, Levophed @.032 mcg/kg/min, Xigris @ 24.1mcg/kg/hr for 96hr. (therapy started on [**3236-6-7**]). +2 General edema, upper extremities weeping serous fld.
+
+ID: T max 96.2, continue Zosyn IV.
+
+Endo: FBS 90's-171, Insulin gtt at 3.0u/hr.
+
+GI: BS (+), Promote with Fiber at 40cc/hr. x 3 liquid BM's, FIB intact.
+
+GU: Foley intact draining amber clear urine in adequate amts.
+
+Skin: Intact.
+
+Social: Wife and Sister-in-law (wife verbalized that sister-in-law can be given info. about pt's care) called and given update. Family verbalizes u/s of plan of care.
+
+Plan: Monitor VS, wean pressors, titrate insulin gtt per protocol, obtain ABG at 1930.
+
+
+",,
+8495,9229,10563,,3236-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-10**] 8:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8327**]
+     Reason: assess interval change in PNA                               
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           71 year old man with COPD/asthma who presentes with likely aspiration PNA. 
+      Now intubated.          
+     REASON FOR THIS EXAMINATION:
+      assess interval change in PNA                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 7:36 [**Initials (NamePattern4) **] [**6-10**].
+     
+     HISTORY:  COPD, asthma and aspiration.
+     
+     IMPRESSION:  AP chest compared to [**6-6**] through 5:
+     
+     Mild pulmonary edema, predominantly in the right lower lung, has worsened
+     since [**6-8**], stable since [**6-9**], accompanied by increasing small right
+     pleural effusion.  Severe left lung consolidation has improved slightly since
+     [**6-6**], with stable small-to-moderate left pleural effusion.  The heart size
+     normal.  Tracheostomy tube and left central venous lines in standard
+     placements.  No pneumothorax.
+                                                                           
+
+",,
+8495,9229,10563,0,3236-06-10 04:06:00 EST,3236-06-10 04:17:00 EST,977,"N",69,"Nursing/Other","MICU NPN","
+MICU NPN
+NEURO: FENTANYL AND VERSED REMAIN OFF BUT PT. DOES GET RESTLESS AND THRASHES IN BED AT TIMES ESPECIALLY WHEN DOING ANY CAR TO HIM, HE WAS BOLUSED WITH 1-2MG OF VERSED AND 50MCG OF FENTANYL DURING THESE EPISODES AND SETTLES DOWN. RESPONDS TO PAIN AND HIS NAME.
+
+RESP: TRACHED, CONTINUES ON VENT WITH SETTINGS A/C 500X16 PEEP OF 5, FIO2 40%, AM GAS 7.29/53/79, NO VENT CHANGES. SX. FOR SMALL AMTS. OF WHITE/YELLOW SPUTUM.
+
+CV: CONTINUES ON LEVOPHED IS PRESENTLY AT .032MCG/KG/HR, DID TRY TO WEAN OVERNIGHT BUT BECOMES HYPOTENSIVE, CONTINUES ON VASOPRESSIN ALSO AT 2.4U/HR.
+
+ID: HAS BEEN AFREBRILE ALL NIGHT CONTINUES ON XIGRIS INFUSION.
+
+GI: TUBE FEEDS AT GOAL AT 40CC/HR. RECTAL BAG IN PLACE DRAINING LOOSE BROWN STOOL.
+
+GU: U/O 30-40CC/HR VIA FOLEY.
+
+SKIN: RIGHT HAND IS OOZING CLEAR/YELLOW FLUID ? FROM AN OLD IV SITE, LEFT ARM IS LEAKING FLUID ALSO, SOFTSORB WITH CHUX OVER THEM TO EACH UPPER EXTREMITY.
+
+ENDO: CONTINUES ON INSULIN GTT, IS NOW AT 2U/HR. SEE CAREVUE FOR FS RESULTS.
+
+SOCIAL: WIFE AND CHILDREN WERE IN LAST NIGHT, THEY WERE UPDATED ON PT'S CONDITION.
+
+PLAN: CONTINUE WITH PRESENT CARE, IV ABX. WEAN OFF PRESSORS AS TOLERATED. DECREASE VENT SETTINGS AS TOLERATED.
+",,
+8495,9229,10563,0,3236-06-10 04:51:00 EST,3236-06-10 04:53:00 EST,1017,"N",69,"Nursing/Other","RESP CARE","
+RESP CARE
+PT. REMAINS TRACHED ON VENT WITH NO CHANGES OVERNIGHT WITH EXCEPTION OF FIO2. (SEE CV FOR DETAILS).
+BS; COARSE BILAT. SXN'D FOR MINIMAL YELLOW THICK. MDIS GIVEN AS ORDERED.
+ABGS:RESP. ACIDOSIS WITH MARGINAL OXYGENATION.
+PLAN:CONT. TO SUPPORT.
+",,
+8495,9229,10563,0,3236-06-10 16:07:00 EST,3236-06-10 16:14:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Pt has had periods of aggitation today, this morning it was treated with boluses of fent and midaz with good sedation.  This afternoon I asked his to stop shaking the bed, reoriented him, he denied pain, anxiety, denied seeing or hearing anything unusual.  He has been ordered for haldol but has not needed it.
+
+CV:  Able to wean on the levo and vasopressin, conts on the Xigris, he has not required fluid boluses today.  He conts to have periods of bradycardia with APCs.
+
+Resp:  Changed to PSV from A/C, ABG on PS 10/5/40% was 7.34/46/82, his FI02 was decreased to 30%. LS coarse to exp wheezes, he conts on inhalers.
+
+GI:  Tolerating his TF, conts to have loose stool.
+
+GU:  U/O has been 40-70cc/hr, he is 1200cc pos since MN, no plans to diurese.
+
+Endo:  Conts on 2 units/hr of insulin through the day.
+
+Soc:  His wife called and spoke with the resident, no visitors today.
+",,
+8495,9229,10563,0,3236-06-10 17:48:00 EST,3236-06-10 17:49:00 EST,1039,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt weaned to Psv with good results [**10-9**] last abg 734/46/82/26/-[**1-/3225**] weaned fio2 to 35. plan to continue to wean support as tol. 
+",,
+8495,9229,10563,,3236-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-11**] 3:14 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8329**]
+     Reason: Please re-exam for catheter exchange, right PICC.Thanks!    
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              71 year old man with COPD/asthma who presentes with likely aspiration   
+      PNA.  Now intubated.          
+     REASON FOR THIS EXAMINATION:
+      Please re-exam for catheter exchange, right PICC.Thanks!                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  COPD and asthma, advancement of right PICC.
+     
+     COMPARISON:  [**3236-6-11**] at 11:25.
+     
+     UPRIGHT AP VIEW OF THE CHEST:  The right PICC has been advanced with tip now
+     lying in the mid SVC.  Tracheostomy tube and left subclavian central venous
+     catheter are in standard positions.  Cardiac and mediastinal contours are
+     unchanged.  There is persistent left lower lobe opacity likely representing
+     pneumonia with small pleural effusion.  Hilar haziness, left greater than
+     right, represents mild pulmonary edema, slightly improved in the interval. 
+     There is no pneumothorax.
+     
+     IMPRESSION:  Right PICC tip in the mid SVC.
+                                                                           
+
+",,
+8495,9229,10563,,3236-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-11**] 12:03 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 8328**]
+     Reason: PLease ead for right PICC placement! Thanks! [**Doctor First Name 6417**]       
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             71 year old man with COPD/asthma who presentes with likely aspiration  
+      PNA.  Now intubated.          
+     REASON FOR THIS EXAMINATION:
+      PLease ead for right PICC placement! Thanks! [**Doctor First Name 6417**]                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  COPD/asthma, presents with likely aspiration pneumonia.
+     
+     COMPARISON:  [**3236-6-10**].
+     
+     FINDINGS:  A right-sided PICC line has been placed with the tip terminating in
+     the region of the right brachiocephalic vein.  A tracheostomy tube, left
+     subclavian catheter, and G-tube are unchanged.  Left lung consolidation and
+     pleural effusion persist.  There is again note of background emphysematous
+     changes.  Prominence of pulmonary vascularity likely reflects superimposed
+     failure, which is also unchanged.
+
+",,
+8495,9229,10563,,3236-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-11**] 8:13 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8330**]
+     Reason: central line d/ced, she has a new PIC in place, please check
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               71 year old man with COPD/asthma who presentes with likely aspiration  
+        PNA.  Now intubated.          
+     REASON FOR THIS EXAMINATION:
+      central line d/ced, she has a new PIC in place, please check to see if the PIC 
+      migrated with the removal of the central line.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     71-year-old male with COPD, asthma and likely aspiration pneumonia, now status
+     post removal of central line and concern for PICC line migration.
+     
+     COMPARISON:  [**3236-6-11**], at 14:26.
+     
+     AP UPRIGHT PORTABLE CHEST:  Tracheostomy tube is in unchanged position.  There
+     has been interval removal of the left subclavian central catheter.  A right-
+     sided PICC line remains with tip in the proximal SVC.  Cardiac and mediastinal
+     contours are unchanged.  Otherwise the appearance of the chest is not
+     significantly changed compared to prior study five hours ago.  There remains
+     persistent left pleural opacity likely pneumonia with a small pleural
+     effusion.  Hilar haziness is suggestive of pulmonary edema.  There is no
+     pneumothorax.
+     
+     IMPRESSION:  Right PICC line terminates in the proximal SVC.
+     
+
+",,
+8495,9229,10563,,3236-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-11**] 8:13 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8330**]
+     Reason: central line d/ced, she has a new PIC in place, please check
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               71 year old man with COPD/asthma who presentes with likely aspiration  
+        PNA.  Now intubated.          
+     REASON FOR THIS EXAMINATION:
+      central line d/ced, she has a new PIC in place, please check to see if the PIC 
+      migrated with the removal of the central line.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     71-year-old male with COPD, asthma and likely aspiration pneumonia, now status
+     post removal of central line and concern for PICC line migration.
+     
+     COMPARISON:  [**3236-6-11**], at 14:26.
+     
+     AP UPRIGHT PORTABLE CHEST:  Tracheostomy tube is in unchanged position.  There
+     has been interval removal of the left subclavian central catheter.  A right-
+     sided PICC line remains with tip in the proximal SVC.  Cardiac and mediastinal
+     contours are unchanged.  Otherwise the appearance of the chest is not
+     significantly changed compared to prior study five hours ago.  There remains
+     persistent left pleural opacity likely pneumonia with a small pleural
+     effusion.  Hilar haziness is suggestive of pulmonary edema.  There is no
+     pneumothorax.
+     
+     IMPRESSION:  Right PICC line terminates in the proximal SVC.
+     
+
+",,
+8495,9229,10563,,3236-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-11**] 3:14 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 8329**]
+     Reason: Please re-exam for catheter exchange, right PICC.Thanks!    
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              71 year old man with COPD/asthma who presentes with likely aspiration   
+      PNA.  Now intubated.          
+     REASON FOR THIS EXAMINATION:
+      Please re-exam for catheter exchange, right PICC.Thanks!                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  COPD and asthma, advancement of right PICC.
+     
+     COMPARISON:  [**3236-6-11**] at 11:25.
+     
+     UPRIGHT AP VIEW OF THE CHEST:  The right PICC has been advanced with tip now
+     lying in the mid SVC.  Tracheostomy tube and left subclavian central venous
+     catheter are in standard positions.  Cardiac and mediastinal contours are
+     unchanged.  There is persistent left lower lobe opacity likely representing
+     pneumonia with small pleural effusion.  Hilar haziness, left greater than
+     right, represents mild pulmonary edema, slightly improved in the interval. 
+     There is no pneumothorax.
+     
+     IMPRESSION:  Right PICC tip in the mid SVC.
+                                                                           
+
+",,
+8495,9229,10563,0,3236-06-11 03:02:00 EST,3236-06-11 03:19:00 EST,760,"N",69,"Nursing/Other","Micu nsg progress note","
+Micu nsg progress note
+Neuro- Pt alert and able to follow commands. Still with intermittent periods of agitation with increased bp and hr. Shaking in bed. Given mso4 1mgx2 with some improvement. Pt sleeping in short naps. Later given 2mg haldol without much change. Does respond to frequent reassurance.
+Resp- Trached/vented on psv 10/5 with tv 500-700 rr 16-20. Suctioned for mod amts thick yellow secretions. Abg on above settings 64/39/7.40. Being tx for ? aspiration pneumonia. Remains afebrile.
+Cardiac- Bp and hr remain stable off levo/vaso. Not requiring fluid boluses. Cont with total body anacaria with weeping of arms. Pt with good urine output (see flow Sheet)
+Gi- Tolerating tube feeds- promote with fiber increased to 50cc/hr with goal of 70cc/hr. Cont to pass loose brown stool via rectal bag. Cont on insulin gtt at 2u/hr with fs 112-130. 
+
+",,
+8495,9229,10563,0,3236-06-11 04:05:00 EST,3236-06-11 04:08:00 EST,1017,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt. remains trached with #6 [**Last Name (un) 2319**] H20 cuff. No changes made overnight. Vt's 500-600cc RR 16-24bpm.
+Bs: coarse bilat. sxn'd occ. for thick yellow.
+abgs:within acceptable parameters.
+Plan: RSBI 40, cont. to wean ips.
+",,
+8495,9229,10563,0,3236-06-11 15:33:00 EST,3236-06-11 15:43:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Awake and alert, following commands.  At times he appears anxious but he refuses to take anything for it.
+
+CV:  He has had a SBP of 140-170s today, HR 90s-100s, occationally he will drop his BP to the 130s and HR to the 70s-80s but not for long.  No CV meds were added today.  His Xigris has now ended.
+
+Resp:  I&E wheezes, conts on inhalers.  He conts on PSV, he was tried on [**5-9**] but is HR and BP increased, his ABG on the was 7.42/44/60; he as placed back on  [**10-9**].  He did have short trache mask trial (10 min) which he did not tolerate and asked to go back on the vent.  He conts to have thick yellow sputum, trache site is pink with a mod amount of secreations around it.
+
+GI:  Conts on TF and is now at his new goal rate of 70cc/hr, loose brown stool conts.
+
+GU:  He is autodiuresing, 200-300cc/hr, he is ~ 1800cc neg since MN, the team would like him to be 2000cc neg for the day, if he is not at this than he will be given lasix.
+
+Endo:  Conts on a 2 units/hr of insulin, his BS have been 115-122.
+
+Soc:  His wife called, she was very happy to hear that he has been doing well, she and his daughter plan to visit him this evening.
+
+",,
+8495,9229,10563,0,3236-06-11 16:54:00 EST,3236-06-11 16:58:00 EST,102,"N",69,"Nursing/Other",,"
+
+resp care
+pt received and remains on psv 10/5/35%. tolerates well but did not tolerate a reduction in ps or a trach mask trial. dyspneic with pursed lip breathing with minimal interventions. bilateral wheezing, some improvement with mdi's administered q4 and prn. sxning thick sputum. pt has #6 [**Last Name (un) **] with 10 cc's H20 filled cuff. deflated cuff, pt unable to vocalize even a whisper ,only audible wheezing and increased wob. c/w very slow wean as pt remains fluid overloaded and bronchospastic with no pulmonary reserve. 
+",,
+8495,9229,10563,,3236-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-12**] 5:52 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8331**]
+     Reason: extubated                                                   
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            71 year old man with COPD/asthma who presentes with likely aspiration 
+      PNA.  Now intubated.          
+     REASON FOR THIS EXAMINATION:
+      extubated                                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Followup of a known aspiration pneumonia.
+     
+     Portable AP chest radiograph compared to [**3236-6-11**].
+     
+     There is marked decrease in the left entire lung consolidation as well as in
+     the right lower lobe opacity.  There is improvement of bilateral pulmonary
+     edema. The left lower lobe consolidation due to atelectasis is unchanged as
+     well as bilateral small pleural effusion.
+     
+     The tracheal tip is in standard position and the PICC line tip is in the mid
+     superior vena cava.
+     
+     IMPRESSION:
+     
+     1.  Improvement of the bilateral pulmonary consolidation.
+     
+     2.  Bilateral pleural effusion and unchanged left lower lobe  atelectasis.
+
+",,
+8495,9229,10563,,3236-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-12**] 2:59 PM
+     UNILAT UP EXT VEINS US LEFT PORT                                Clip # [**Clip Number (Radiology) 8332**]
+     Reason: r/o L arm DVT                                               
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with asymmetrical swelling of L arm                             
+     REASON FOR THIS EXAMINATION:
+      r/o L arm DVT                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Asymmetric swelling of the left arm.
+     
+     COMPARISONS:  None.
+     
+     LEFT UPPER EXTREMITY ULTRASOUND:  2D, color, and Doppler waveform imaging was
+     obtained of the left internal jugular, subclavian, axillary, brachial, and
+     basilic veins.  Normal compressibility, waveforms, and augmentation were
+     demonstrated.  No intraluminal thrombus was identified.  Of note, the left
+     cephalic vein was not visualized.
+     
+     IMPRESSION:  No evidence of left upper extremity deep vein thrombosis.
+                                                                           
+
+",,
+8495,9229,10563,0,3236-06-12 02:42:00 EST,3236-06-12 02:49:00 EST,760,"N",69,"Nursing/Other","Micu nsg progress note","
+Micu nsg progress note
+Neuro- Alert and able to follow commands. Denies pain. Pt sleeping very little but refusing meds.
+Resp- Remains trach/vented on ps 10/5 with good tv stable sats. Suctioned for mod amts thick yellow secretions. Remains afebrile.
+Cardiac- Stable bp/hr. Cont to autodiuresis. ~2liters neg at 12m. Edema on arms and legs much improved.
+Gi- Cont on goal tube feeds at 70cc/hr. Passing brown liquid stool via rectal bag. Recieving insulin s/s.
+Plan- Cont to wean as tolerated. Increase activity as able. Sceen for rehab.
+",,
+8495,9229,10563,0,3236-06-12 04:56:00 EST,3236-06-12 05:00:00 EST,419,"N",69,"Nursing/Other",,"
+
+Resp Care
+Pt remains trached and ventilated on cpap/psv with no remarkable changes overnight. Resp rate in 15-20 range with tidal volumes 400-500cc, appears comfortable. Breath sounds with expir wheezes, prolonged expiration. Suctioned for moderate amounts of thick yellow sputum. Given Combivent/flovent inhalers q4. RSBI=56
+",,
+8495,9229,10563,0,3236-06-12 15:04:00 EST,3236-06-12 15:17:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Pt has been alert, OOB to a chair with a [**Doctor Last Name **] lift x2 hrs, pleasant, cooperating with his care, communicating with lip reading by staff.
+
+CV:  He was started on captopril at noon, this afternoon his SBP increased to the 180s, DBP 90s-100 and HR to the low 100s - this may be due to him being on a trache collar.  His captopril was increased to 12.5 TID from 6.25.
+
+Resp:  LS coarse to wheezes, he was sx for thick yellow sputum.  His PS was decreased to [**5-9**], he was put on a trache collar x2 hrs, he said that he felt fine but his HR increaed from the 80s to the low 100s and his BP increased to the 180s-90s.  His steroids conts to be weaned, he is now on 4mg prednisone QD.
+
+GI: Conts on TF at his goal rate of 70cc/hr
+
+GU:  Conts to have a good u/o though not as brisk as yesterday, he is presently ~ 500cc neg since MN.  His sodium conts to be elevated at 150, his free water boluses were increased to 250cc q4hrs.
+
+Endo:  BS 202 - given 4 units reg insulin, he does not have a history of diabetes, as his steroids are weaned than it is felt that his BS will decrease.
+
+Dispo:  [**Hospital1 93**] was in to screen him, they have beds so he will probably be able to return there tomorrow.
+",,
+8495,9229,10563,0,3236-06-12 16:16:00 EST,3236-06-12 16:18:00 EST,7743,"N",69,"Nursing/Other",,"
+
+BS coarse crackles; one incident of wheezing clearing with Combivent MDI. Pt weaned to trach collar x 2 hrs with NAD. Attempted leak test but only minimal leak present. Back on vent for Echo with PSV increased to 10 for increased f and WOB with hypertension. Suctioned for several thick white plugs.
+",,
+8495,9229,10563,,3236-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-13**] 5:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8333**]
+     Reason: eval trach, r/o effusions, eval lung fields                 
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                71 year old man with COPD/asthma who presentes with likely aspiration 
+      PNA, with trach in place       
+     REASON FOR THIS EXAMINATION:
+      eval trach, r/o effusions, eval lung fields                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 5:07 A.M.
+     
+     HISTORY:  COPD, asthma and likely aspiration pneumonia.
+     
+     IMPRESSION:  AP chest compared to [**6-11**] and 8:
+     
+     Pulmonary edema has cleared since [**6-11**].  Consolidation in the left mid and
+     lower lung zones and moderate left pleural effusion are unchanged. 
+     Small-to-moderate right pleural effusion has increased.  Heart size is normal.
+     Tracheostomy tube is unchanged in position, oriented obliquely across the
+     subglottic trachea.  The diameter of the tube is approximately one-third of
+     the tracheal diameter.  Clinical evaluation recommended.
+                                                                           
+
+",,
+8495,9229,10563,,3236-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-13**] 4:48 PM
+     US ABD LIMIT, SINGLE ORGAN PORT                                 Clip # [**Clip Number (Radiology) 8334**]
+     Reason: Rule out gallstone, CBD dilatation.                         
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with pancreatitis, rule out gallstone, CBD dilatation.          
+     REASON FOR THIS EXAMINATION:
+      Rule out gallstone, CBD dilatation.                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pancreatitis, evaluate for gallstones.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  Liver echotexture appears unremarkable and no evidence of focal
+     mass.  Portal vein appears patent with normal direction of flow.  Patient is
+     status post cholecystectomy.  Common duct does not appear dilated.  No
+     shadowing stone seen in the duct.  Right kidney measures 12.2 cm.  There is no
+     evidence of hydronephrosis or stones.  No intrahepatic billiary ductal
+     dilitation.
+     
+     IMPRESSION:  Patient is status post cholecystectomy.  Common duct does not
+     appear dilated.  No choledochal lithiasis.
+
+",,
+8495,9229,10563,0,3236-06-13 02:00:00 EST,3236-06-13 02:11:00 EST,7281,"N",69,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+THIS IS A 71YO MALE WITH HX. COPD, RESP. FAILURE S/P TRACH PLACEMENT, TRANSFERRED FROM [**Location (un) **] ICU WITH HYPOTENSION, NEW INFILTRATES AND SEPSIS. HE WAS TRANSFERRED TO [**Hospital1 **] CARE FOR VENT WEANING AND HAD BEEN OFF FOR 3 DAYS. PT. HAD BARIUM SWALLOW WHICH SHOWED SEVERE ASPIRATION WITH PUDDING AND INEFFECTIVE COUGH CLEARANCE. ON [**6-6**] HE WAS NOTED TO BE IN RESP. DISTRESS AND BECAME HYPOTENSIVE. IN EW HE RECEIVED ANTIBIOTICS AND WAS PLACED ON PRESSORS. TRANSFERRED HERE TO MSICU FOR TX. OF ASP. PNEUMONIA.
+
+SINCE HIS ADMISSION HERE ON [**6-6**] HE DAS BEEN WEANED OFF ALL PRESSORS AND HAS BEEN ON TRACH COLLAR TRIALS. (YESTERDAY HE LASTED 2 HOURS). REP FROM [**Hospital1 **] CARE WAS IN YESTERDAY TO EVALUATE PT. AND PLAN IS TO TRANSFER HIM BACK FOR FURTHER VENT WEANING.
+
+NEURO: PT. ALERT AND ORIENTED. COMMUNICATES BY MOUTHING WORDS. OOB TO CHAIR WITH [**Doctor Last Name 482**] LIFT. NO PAIN ISSUES AT THIS TIME.
+
+RESP: PT. WITH TRACK. AT THIS TIME HE IS ON CPAP [**5-14**]. BREATH SOUNDS COARSE WITH EXP. WHEEZES AT TIMES (RESOLVE WITH NEBS) SUCTIONED Q2-3 HOURS FOR THICK YELLOW SECRETIONS. 
+
+CVS: PT. NSR/ST. SBP LOW 100'S TO 140'S (INCREASED TO 180'S WITH AGITATION) GENERALIZED EDEMA NOTED. U/S OF LEFT ARM DONE YESTERDAY D/T INCREASED SWELLING NOTED. RESULTS NEGATIVE) + PULSES AFEBRILE.
+
+GI: ABD. SOFT. BS+. PEG TUBE IN PLACE WITH PROMOTE WITH FIBER AT 70CC/HR (GOAL RATE) TOLERATING WELL. PT. HAS LARGE LOOSE BM LAST NIGHT GUIAC NEGATIVE.
+
+GU: FOLEY WITH GOOD UO. PT. CONTINUES TO RECEIVE FREE WATER BOLUSES OF 250CC Q4H FOR SODIUM OF 150.
+
+SKIN: INTACT
+
+ACCESS: R AC PICC LINE
+
+PLAN: ? D/C TO [**Hospital1 **] CARE IF BED AVAILABLE AND PT. ACCEPTED. CONTINUE WITH CURRENT POC. FAMILY IN TO VISIT LAST NIGHT AND TO BE IN AGAIN THIS AM. AM LABS PENDING 
+",,
+8495,9229,10563,0,3236-06-13 02:33:00 EST,3236-06-13 02:35:00 EST,6507,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains on vent. Trached with #6 [**Last Name (un) **]. suctioned from mod amt of thick yellow secretions. No changes made. Mdis given. Rsbi 35. Plan to continue trach trials.
+",,
+8495,9229,10563,0,3236-06-13 13:07:00 EST,3236-06-13 13:27:00 EST,511,"N",69,"Nursing/Other",,"
+
+RESP: NO VENT CHANGES TODAY. SATS LOWER TODAY. 92-94% DESPITE FREQ. SUCTIONING FOR THICK WHITE SECRETIONS. COARSE-INSP. WHEEZES. COMBIVENT CHANGED TO Q4HRS. NO TRACH COLLAR TRIAL EITHER. 
+GI: C/O ABD PAIN WITH PALPATION THIS AM. HOWEVER NOT THIS PM. PEG DRSG [**Name5 (PTitle) **]-PURELENT DRAINAGE NOTED. WAS TOL. TF'INGS WELL WITHOUT RESIDUALS. INCONT. 2X OF SOFT BROWN STOOL. TF'INGS OFF FOR U/S. THIS PM. CONT. WITH FREE WATER BOLUSES.
+RENAL: AUTODIURESING. 
+CV: TOL. CAPTOPRIL WHICH WAS INCREASED FOR NEXT DOSE. 
+ID: PURELENT DRAINAGE FROM PEG NOTED. CX'S SENT FROM TRACH AND PEG SITES. WBC'S 19.8, UP FROM YESTERDAY. TEMP 99.6-99.4. ABD PAIN THIS AM-LIPASE AND AMYLASE ELEVATED. POSSIBLE PANCREATITIS VS GALLSTONES. STOOL SENT FOR C=DIFF. NO FURTHER DRAINAGE FROM HIS RIGHT ARM. 
+ENDOC: SSI FOR BS'S. MG+ PO GIVEN. K+ PHOS GIVEN EARLIER. NA 148-SLIGHTLY IMPROVED FROM [**6-12**]. 
+NEURO: ALERT AND ORIENTATED. PT. UPSET THAT HE'S NOT GOING TO REHAB TODAY, ESPECIALLY AFTER HEARING ABOUT POSSIBLE PANCREATITIS DX.  NO CONTACT WITH HIS FAMILY.
+ACCESS: PATENT PICC.
+PLAN: NO BED AVAILABLE AT [**Hospital1 **] TIL MON IF HE IS STILL ABLE TO GO. DISCHARGE SUMMARY AND PLAN IS COMPLETE. NEED ONLY TO UPDATE.  
+",,
+8495,9229,10563,0,3236-06-13 15:24:00 EST,3236-06-13 15:26:00 EST,1069,"N",69,"Nursing/Other","Resp Care Note:","
+Resp Care Note:
+   Patient weaned on PSV and is presently on a 40% trach collar and appears comfortable. Bs with mild exp wheezing at times. He receives Combivent Q4 and Albuterol prn. He has been suctioned for med amounts of thick white sputum. Plan to continue with weaning as tolerated.
+",,
+8495,9229,10563,0,3236-06-13 17:41:00 EST,3236-06-13 17:47:00 EST,1277,"N",69,"Nursing/Other",,"
+
+cared for this pt from 1500=1900: 
+
+pt had bedside ultsnd for abd pain. no current c/o pain. pt had GB removed years ago and also r/o pancreatitis as wbc is up today in scenerio of steroids being decreased. amylase and lipase up today.
+
+pt is auto diuresing and should have lytes drawn at 2000 to monitor.
+
+[**Hospital1 **] care will not be able to take pt until monday and pt may be developing a new infection/ problem today.  pt is upset at poss setback and needs encouragement.  pt has new order for ativen for anxiety.
+
+gi: tf on hold since 1400 for us but can prob restart. 
+
+1800 glucose =136 
+
+
+",,
+8495,9229,10563,0,3236-06-14 01:43:00 EST,3236-06-14 01:50:00 EST,7281,"N",69,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+PLEASE SEE CAREVIEW FOR ADM. INFORMATION AND OBJECTIVE DATA.
+
+PT. WAS TO BE DISCHARGED BACK TO [**Hospital **] REHAB YESTERDAY, HOWEVER, HIS AMYLASE AND LIPASE WERE INCREASED YESTERDAY ALONG WITH AN INCREASE IN WBC'S. HE HAD AN ABDOMINAL U/S YESTERDAY WHICH WAS NEGATIVE. CULTURES WERE SENT OF SPUTUM AND PEG @ TRACH SITE AS WELL. WILL CONTINUE TO MONITOR CLOSELY. BED AT [**Hospital1 **] WILL BE OPEN FOR HIM MONDAY IF IS MEDICALLY CLEARED.
+
+NEURO: PT. ALERT AND ORIENTED X3. COMMUNICATES BY MOUTHING WORDS APPROPRIATELY. FOLLOWS COMMANDS. OOB TO CHAIR WITH [**Doctor Last Name 482**] LIFT ASSIST. NO PAIN ISSUES AT THIS TIME.
+
+RESP: PT. WITH #6 TRACH. ON CPAP 40%/[**10-9**]. HE WAS ON TRACH COLLAR TRIAL YESTERDAY X 2 HOURS AND TOLERATED WELL. BREATH SOUNDS CLEAR. DIMINISHED IN BASES. SUCTIONED Q2-3 HOURS FOR SMALL AMOUNTS OF THICK YELLOW SECRETIONS.
+
+CVS: PT. NSR/ST WITHOUT ECTOPY. SBP LOW 100'S TO 140'S. + PULSES. EDEMA NOTED IN ALL EXTREMITIES. AFEBRILE AT THIS TIME.
+
+GI: PT. HAS PEG TUBE WITH PROMOTE WITH FIBER AT 70CC/HR (GOAL RATE) PT. HAD 2 MED. SIZED BMS LAST NIGHT GUIAC NEGATIVE. ABD. SOFT. BS+
+
+GU: FOLEY IN PLACE WITH GOOD UO. AUTODIURESING.
+
+SKIN: INTACT
+
+ACCESS: L AC PICC. 
+
+PLAN: AT THIS TIME CONTINUE WITH CURRENT POC. TRACH TRIALS AS TOLERATED. NO CONTACT WITH FAMILY THIS SHIFT. PT. REMAINS FULL CODE 
+",,
+8495,9229,10563,0,3236-06-14 02:57:00 EST,3236-06-14 03:04:00 EST,1154,"N",69,"Nursing/Other",,"
+
+Resp: Rec'd pt on psv 5/5/40%. Pt has #6 [**Last Name (un) **] trach. BS are mostly clear noc, with occasional wheeze. Suctioned for small amounts of thick yellow secretions. MDI's administered Q4 hrs atr/alb prn with noted improvement. No abg's. RSBI=55. Plan to continue to wean with trach collar trials as tolerated.
+",,
+8495,9229,10563,0,3236-06-14 16:01:00 EST,3236-06-14 16:03:00 EST,1039,"N",69,"Nursing/Other","Respiratory care","
+Respiratory care
+pt recieved on cpap weaned to trachcollar 40%.  MDI's as ordered. Vent on standby at bedside.
+",,
+8495,9229,10563,0,3236-06-14 16:05:00 EST,3236-06-14 16:26:00 EST,7212,"N",69,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+Neuro: Pt. alert, trached and on trach collar since 830 am. Pt. trying to mouth out words. MAE. Anxious this AM asking if wife is [**Name2 (NI) 5857**] in. Medicated with Ativn 0.5mg via GT x1 with good effect. Pt.'s daughter in to visit.
+
+Resp: On trach collar since this AM and tolerating well. Asking frequently to be suctioned but only small amounts of thin white sputum. O2 sat 95-98%. RR easy. LS dim. On Prednisone taper.
+
+CV: VSS. NBP 130-165/58-83, HR 80's-105 NSR with rare PVCs. R PICC intact. Edema to lower ext. and L hand. Pedal pulses easy.
+
+GU: Foley cath in place and draining large amounts of light yellow urine. Urine Lytes sent and Pt. ordered for D5W @125cc/hr x1L. Pt.'s Na 147 this AM and he cont. to recive free water boluses via GT. 
+Pt.'s daughter states that Pt. has hx of UTIs and has c/o urgency and pain. MD made aware and UA and Cx sent. Results pending. Fluid status -2.8L for 24 hr and +2.0L for LOS.
+
+GI: Pt. on TF Promote w/fiber at 70cc/hr (goal rate), tolerating well with 5cc of residuals. Pt. had two loose brown stools this shift. Abd. soft, denies pain, BS+.
+
+Skin: Pt. noted to have red yeast like rash to peri area. MD made aware. Micanazole powder to area with double guard cream. 
+
+ID: Pt. cont. on Zosyn via PICC. Afebrile. WBC 17.8.
+Social; Pt. is a full code. Pt.'s daughter in to to visit today. 
+
+Plan: Pt. is waiting for bed at rehab. 
+
+",,
+8495,9229,10563,0,3236-06-15 04:34:00 EST,3236-06-15 04:46:00 EST,43,"N",69,"Nursing/Other","MICU Nursing Progress Note","
+MICU Nursing Progress Note
+  Neuro: sleeping on and off during the night, calm and cooperative, able to communicate by mouthing words to staff. following commands. 
+  Respiratory: pt cont on the trach nemb, FIO2 50%, O2 sat remain 96-98% all night. suctioned at pt request but only small amount of white sputum BS clear upper and diminished at the bases. 
+  Cardiac: HR 70-80 NSR, no VEA, BP stable 120-130/60's finished the liter of D5W then changed to 0.45% NS at 75cc/hr. serum NA 143 this am. 
+  GU: foley in place, cont with high diuresis of averaging 400-500cc/hr. urine light yellow. 
+  GI: PEG in place, recieving TF of promote with fiber at 70cc/hr. (goal rate) no stool tonight. still receiving 250cc Q4hr free water boluses.  denies any abd pain tonight, though does c/o bladder spasm from foley. 
+  Access: right AC PICC
+  endo: coverage according to SS insulin. did recieve 4units of regular at 12am. none at 6am. 
+  ID: afebrile, WBC 18. cont on zosyn. 
+  Plan: transfer to [**Hospital1 **] on Monday. cont to support. 
+",,
+8495,9229,10563,0,3236-06-15 15:21:00 EST,3236-06-15 15:36:00 EST,7212,"N",69,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+Neuro; Pt. alert and communicates by mouthing out words. Speech to evaluate pasy-muir valve to aid with communication. Much less anxious today. 
+
+CV: VSS. BP 110's/60's, HR 74-86 NSR with no ecopy noted. Mg. and Phos repleated today. +[**1-7**] pedal edema. Na level improving. Labs in AM.
+
+Resp: Pt. on trach collar since [**6-14**] AM and tolerating well with no s/s of resp. distress. O2 sat mid to high 90's on 50% trach collar. Suction per Pt. request for minimal amouts of thin white secretions. 
+
+GU/GI; Tolerating TF at goal rate with min. residuals. Cont. with free H2O flushes q 4 hr. Abd. soft, non tender, BS+. No stool this shift. Foley cath draining 300-400cc/hr of light yellow urine. U/A from [**6-14**] neg for nitrates and leucocytes, cx pending. 
+
+Access: R PICC. 
+
+Skin: Skin intact. red rash to peri area improving with mycostatin powder. pt. declined being repositioned, preffered to stay on his back.
+
+ID: Afebrile, WBC 18.6 today. Cont. on Zosyn.
+
+Social; pt. is a full code family in to visit today. Plan is to d/c Pt. to rehab when bed avlb. possibly Monday.
+",,
+8495,9229,10563,0,3236-06-15 16:58:00 EST,3236-06-15 17:01:00 EST,1039,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains on trach collar, tol well. MDI as ordered, suctioned for small amts of white secrections.
+",,
+8495,9229,10563,,3236-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3236-6-16**] 5:41 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 8335**]
+     Reason: assess interval change in PNA                               
+     Admitting Diagnosis: CHRONIC [**Last Name (un) 3711**] PULM DISEASE;SEPSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                 71 year old man with COPD/asthma who presentes with likely 
+      aspiration  PNA, with trach in place       
+     REASON FOR THIS EXAMINATION:
+      assess interval change in PNA                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 5:45 [**Initials (NamePattern4) **] [**6-16**].
+     
+     HISTORY:  COPD, asthma and aspiration pneumonia.
+     
+     IMPRESSION:  AP chest compared to [**6-11**] through 9:
+     
+     Hyperinflation indicates COPD.  Persistence of consolidation in the left lower
+     lobe and leftward mediastinal shift suggests that at least now there is a
+     large component of atelectasis.  Moderate left and small right pleural
+     effusion, stable.  Heart size normal.  Tracheostomy tube is canted and the
+     caliber appears smaller than standard given the size of the patient's trachea.
+     Clinical evaluation is needed.
+                                                                           
+
+",,
+8495,,10563,0,3236-06-16 00:05:00 EST,3236-06-16 00:53:00 EST,8179,"N",69,"Nursing/Other",,"
+
+neuro: alert, obeys to commands, calm and cooperative. sleeping most    of  the night. denies pain or discomfort. responds and converses by mouthing words to staff and by non-verbal cues. 
+
+respi: continues on 50% high flow nebulizer via trache collar, no S/Sx     
+of respiratory distress. suctioned whitish thick sputum per request and PRN. good in asking for his inhaler, clear lung fields. tachyneic at start of shift, regular since 2200, O2 sat ranges from 95-98% 
+
+cardio: normal sinus rhythm with occasional PAC's and rare PVCs,        [**1-7**]/min. BP within normal parameters. +[**1-7**] pedal edema, pulse easily palpable 
+
+gastro: continues on promote with fiber @ 70 cc/hr via peg tube, very   minimal residual ( less than 5 cc ), received 250cc free water every 4hrs tolerated well. abdomen soft, non tender. + bowel sounds, + moderate amount of golden brown loose stool,negative guaiac test.
+
+gu : foley cath patent, with adequate amount of clear light yellow 
+urine.
+
+endo : on insulin sliding scale, [**Hospital1 1421**] checked q6hrs. 138 mg/dl @   midnight. still on prednisone taper
+
+id : afebrile, continues on IV Zosyn q8hrs 
+
+skin : suferficial excoriation @ coccyx, periarea reddened + rash. 
+treatment done with nystatin powder and double guard ointment.
+
+IV line : PICC line R antecubital patent with 0.9% NS at KVO rate.     redness noted around insertion site. 
+
+social: possible transfer back to [**Hospital1 93**]. Page 2 and d/c summary started.
+
+
+",,
+8495,,10563,0,3236-06-16 04:15:00 EST,3236-06-16 04:18:00 EST,7780,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt. tended to for routine trach care and administration of scheduled MDIs.  PT. doing well, BS with occ. Exp wheezes which clear with MDIs and aeration remains decreased. Trach cuff inflated and pt. wearing trach collar all shift.
+",,

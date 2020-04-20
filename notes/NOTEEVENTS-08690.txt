@@ -1,0 +1,1152 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8690,11947,,,3375-06-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3375-6-25**]              Discharge Date:   [**3375-7-1**]
+ 
+Date of Birth:  [**3285-7-13**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 388**] 
+Chief Complaint:
+fall
+ 
+Major Surgical or Invasive Procedure:
+Suture repair of scalp laceration 
+Intubation 
+Transfusion of 1 U of PRBC
+
+ 
+History of Present Illness:
+89 y/o male with history of HTN who was found at the bottom of 
+the stairs in his home, ?LOC, found with a large right occipital 
+lac and awake and confused/agitated. Brought to the [**Hospital1 83**] ED, 
+intubated for airway protection. 
+ 
+Past Medical History:
+HTN
+GI bleed
+Left hip repair
+ 
+Social History:
+lives with wife
+ 
+Family History:
+Noncontributory
+ 
+Physical Exam:
+on arrival to ED
+
+vitals Temp 97.3 HR 85 BP 110/69 RR 16 sats 99% intubated, 
+sedated on propofol drip
+HEENT: PERRLA, large posterior scalp laceration, neck supple, OP 
+clear, midface stable
+CHEST: no deformity, BS equal bilaterally
+CV: regular, harsh murmur loudest at RUSB with radiation into 
+neck
+ABD: soft, NTND, no masses FAST negative
+RECTAL: normal tone, guiac negative
+EXT: WWP, DP pulses 2+ symmetric
+NEURO: paralyzed, sedated
+ 
+Pertinent Results:
+[**3375-6-25**] 06:15PM BLOOD WBC-22.4* RBC-3.93* Hgb-11.8* Hct-35.3* 
+MCV-90 MCH-30.1 MCHC-33.5 RDW-15.9* Plt Ct-547*
+[**3375-6-29**] 06:43AM BLOOD WBC-15.9* RBC-3.47* Hgb-10.2* Hct-30.2* 
+MCV-87 MCH-29.5 MCHC-33.9 RDW-15.7* Plt Ct-400
+[**3375-6-25**] 06:15PM BLOOD Glucose-167* UreaN-13 Creat-0.8 Na-133 
+K-4.4 Cl-96 HCO3-19* AnGap-22*
+[**3375-6-29**] 06:43AM BLOOD Glucose-131* UreaN-13 Creat-0.5 Na-135 
+K-4.3 Cl-100 HCO3-28 AnGap-11
+[**3375-6-25**] 06:15PM BLOOD CK(CPK)-107 Amylase-33
+[**3375-6-26**] 08:32PM BLOOD CK(CPK)-704*
+[**3375-6-27**] 11:00AM BLOOD CK(CPK)-601*
+[**3375-6-25**] 06:15PM BLOOD CK-MB-5
+[**3375-6-27**] 03:12AM BLOOD CK-MB-26* MB Indx-3.3 cTropnT-0.13*
+[**3375-6-27**] 11:00AM BLOOD CK-MB-15* MB Indx-2.5 cTropnT-0.16*
+
+[**3375-6-25**] CT chest/ABD/Pelvis
+IMPRESSION:
+1) Extensive atherosclerotic disease.
+2) Emphysematous changes of the lungs.
+3) Precarinal and pretracheal lymphadenopathy, nonspecific 
+finding.
+4) Extensive degenerative disease of the spine.
+5) Right seventh and eighth rib fractures, that appear chronic 
+and partially healed.
+
+[**3375-6-26**] Head CT
+IMPRESSION: No evidence of acute intracranial hemorrhage or 
+displaced skull fracture.
+[**3375-6-26**] C-spine CT
+IMPRESSION: Extensive degenerative changes of the cervical spine 
+with no evidence of acute fracture or malalignment
+
+[**3375-7-2**] right hip x-ray
+IMPRESSION: No evidence of right-sided hip fracture. Should 
+strong clinical suspicion for right hip injury persist, 
+performance of either nuclide examination or MRI is recommended 
+to exclude nondisplaced fracture in this area
+
+ 
+Brief Hospital Course:
+[**Date range (1) 12090**] After intubation in the ED the patient was taken for 
+further imaging studies. He had CT of the head/c-spine/torso 
+which revealed no new acute injury or finding. The patient's 
+large right posterior scalp laceration was repaired in ED. The 
+patient was then transferred to the ICU for close monitoring. He 
+remained in the TSICU for several days. During this time he was 
+transfused 1 U of PRBC. He had an episode of flash pulmonary 
+edema thought to be [**3-15**] fluid overload and was successfully 
+diuresed with lasix. His vent was weaned and the patient was 
+extubated on HD 2. Based on history and physical exam it was 
+thought the patient's fall was [**3-15**] syncope. Cardiology was 
+consulted and an ECHO was obtained and the patient was found to 
+have moderated to severe Aortic Stenosis. The patient also had 
+an increase in his cardiac enzymes [**3-15**] several episodes of 
+hypotension and anemia related to his bleeding (demand 
+ischemia). Troponins were negative
+
+[**Date range (1) 12091**] The patient was transferred to the floor where he 
+continued to improve. He was evaluated by physical therapy who 
+felt he would benefit from acute rehab. He will followup with 
+Dr. [**Last Name (STitle) **] after discharge; patient has declined surgical 
+intervention for his aortic stenosis at this time. Instead he 
+was started on a beta-blocker and this was continued at 
+discharge. 
+
+ 
+Medications on Admission:
+lisinopril
+ 
+Discharge Medications:
+1. Ranitidine HCl 150 mg Tablet Sig: One (1) Tablet PO twice a 
+day.  
+2. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 
+4 to 6 hours) as needed.  
+3. Metoprolol Tartrate 25 mg Tablet Sig: 0.5 Tablet PO BID (2 
+times a day).
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 4282**] - [**Location (un) 4283**]
+ 
+Discharge Diagnosis:
+Scalp laceration
+status post fall
+hypertension
+aortic valve stenosis
+syncope
+
+ 
+Discharge Condition:
+Good
+ 
+Discharge Instructions:
+[**Name8 (MD) **] MD or go to ER for temp >101, persistent pain, nausea or 
+vomiting, or any other questions.  The sutures in your head will 
+come out at your follow-up appoitment.  Please do not take your 
+lisinopril.  Take metoprolol instead.  Please do not drive until 
+[**Doctor First Name **] are cleared by cardiology to do so.
+ 
+Followup Instructions:
+With your PCP next week.  Call for an appointment.
+
+With trauma clinic in 1 week if your PCP does not take out your 
+sutures.  Please call for an appointment.  [**Telephone/Fax (1) 2117**].  
+
+With Dr. [**Last Name (STitle) **], cardiology.  Please call to schedule an 
+appointment.  [**Telephone/Fax (1) 1539**].
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 397**] MD [**MD Number 398**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1518**] MD [**MD Number 1519**] [**3375-8-16**] @ 1238
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: WED [**3375-8-16**] 3:18 PM
+(End of Report)
+
+
+",,
+8690,11947,,,3375-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-25**] 6:12 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 9927**]
+     Reason: r/o fx                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with fall down 10 stars                                         
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     No studies available for comparison.
+     
+     TECHNIQUE:  Axial images of the C-spine were obtained.  Coronal and sagittal
+     reformatted images were also obtained.
+     
+     FINDINGS:  There are extensive degenerative changes at multiple levels with
+     anterior and posterior endplate osteophytes and endplate sclerosis at multiple
+     levels.  There are degenerative changes at the facet joints at multiple
+     levels, most pronounced at C5-6.  There is a likely Schmorl's node at the
+     right aspect of the inferior portion of C6.  An NG tube and ET tube are seen
+     in the esophagus and airway respectively.  There is no prevertebral soft
+     tissue swelling.  There is mild straightening of the cervical lordosis.
+     
+     IMPRESSION:  Extensive degenerative changes of the cervical spine with no
+     evidence of acute fracture or malalignment.
+                                                                           
+
+",,
+8690,11947,,,3375-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-25**] 6:12 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 9927**]
+     Reason: r/o fx                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with fall down 10 stars                                         
+     REASON FOR THIS EXAMINATION:
+      r/o fx                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     No studies available for comparison.
+     
+     TECHNIQUE:  Axial images of the C-spine were obtained.  Coronal and sagittal
+     reformatted images were also obtained.
+     
+     FINDINGS:  There are extensive degenerative changes at multiple levels with
+     anterior and posterior endplate osteophytes and endplate sclerosis at multiple
+     levels.  There are degenerative changes at the facet joints at multiple
+     levels, most pronounced at C5-6.  There is a likely Schmorl's node at the
+     right aspect of the inferior portion of C6.  An NG tube and ET tube are seen
+     in the esophagus and airway respectively.  There is no prevertebral soft
+     tissue swelling.  There is mild straightening of the cervical lordosis.
+     
+     IMPRESSION:  Extensive degenerative changes of the cervical spine with no
+     evidence of acute fracture or malalignment.
+                                                                           
+
+",,
+8690,11947,,,3375-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-25**] 6:03 PM
+     TRAUMA #2 (AP CXR & PELVIS PORT) PORT                           Clip # [**Clip Number (Radiology) 9925**]
+     Reason: r/o fx ptx                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with fell down stairs                                           
+     REASON FOR THIS EXAMINATION:
+      r/o fx ptx                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  89-year-old man fell down stairs, rule out pneumothorax or
+     fracture.
+     
+     TRAUMA TWO SERIES (AP CHEST AND AP PELVIS):  No priors for comparison.
+     Endotracheal tube is identified, approximately 6 cm above the carina.  There
+     is no evidence to suggest pneumothorax on this single AP supine film.  Please
+     see the dedicated chest CT for a more sensitive evaluation.  Heart size within
+     normal limits.  Mediastinal contours are unremarkable.  Overlying the left
+     hilum, there is an abnormal contour of unclear etiology.  This may represent
+     overlap shadow from the aortic arch and a prominent pulmonary vessel; however,
+     attention to this should be paid on the chest CT.  Heart size within normal
+     limits.  The lungs are otherwise clear without evidence of contusion.  No
+     evidence of fracture is seen within the thorax.  Left bipolar femoral
+     prosthesis, without evidence of hardware loosening.  Rightfemoral deformity,
+     underlying supcapital fracture difficult to exclude. Severe degenerative
+     changes of the lower lumbosacral spine without evidence of obvious fracture.
+     No other fracture is identified within the pelvis.
+     
+     IMPRESSION:
+     1) Right femoral varus deformity; underlying subcapital fracture not excluded,
+     see CT Torso to follow
+     2) Endotracheal tube in satisfactory position.  No pneumothorax identified on
+     this supine film.
+     3) Abnormal left hilar contour. This likely represents overlap from the aortic
+     arch and the pulmonary vasculature; however, given the trauma setting,
+     attention to this area on chest CT is also recommended.
+     
+
+",,
+8690,11947,,,3375-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-25**] 6:13 PM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 9928**]
+     CT RECONSTRUCTION; -59 DISTINCT PROCEDURAL SERVICE
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+     Reason: chest abd pelvis r/o bleed                                  
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with fall down 10 stars                                         
+     REASON FOR THIS EXAMINATION:
+      chest abd pelvis r/o bleed                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JJMl SUN [**3375-6-25**] 8:26 PM
+      Old right rib fractures.
+      Extensive degenerative changes of the spine.
+      Extensive atherosclerotis disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     TECHNIQUE:  MDCT acquired images of the chest, abdomen, and pelvis were
+     obtained after the administration of IV contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is extensive atherosclerotic disease
+     of the aorta.  There is no evidence of dissection.  There is a 14 mm
+     precarinal lymph node and multiple smaller pretracheal lymph nodes.  There are
+     no pathologically enlarged hilar or axillary lymph nodes.  The heart and
+     pericardium are grossly unremarkable.  Note is made of coronary artery
+     calcifications and possible aortic valve calcifications.  Likely emphysematous
+     related changes with small cystic areas demonstrated within the lung
+     parenchyma, most pronounced in the right upper lobe.  There is bilateral
+     dependent atelectasis.  There is basilar atelectasis versus scarring.  Note is
+     made of compressive atelectasis of the right lower lobe secondary to large
+     vertebral body osteophytes.  There is no pleural effusion or pneumothorax.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  An NG tube is demonstrated terminating in
+     the duodenum.  The liver, gallbladder, spleen, pancreas, adrenal glands, and
+     kidneys are grossly unremarkable.  The kidneys enhance and excrete contrast
+     symmetrically.  There is no intraperitoneal free air or free fluid.  There is
+     slight stranding of the mesenteric fat diffusely, a nonspecific sign.  There
+     is slight stranding of the subcutaneous tissues, suggestive of possible edema.
+     There are no pathologically enlarged mesenteric or retroperitoneal lymph nodes
+     by CT criteria.  There is no free air or free fluid.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley catheter in a
+     decompressed bladder.  There is air in the bladder consistent with recent
+     catheterization.  The pelvic structures are obscured secondary to artifact
+     from the patient's metallic left hip prosthesis.  No gross abnormalities
+     detected of the rectum or sigmoid colon.  No evidence of pelvic free fluid.
+     There is no pelvic or inguinal lymphadenopathy identified.  Extensive
+     atherosclerotic disease of the intrapelvic arterial structures is
+     demonstrated.
+                                                                 (Over)
+
+     DATE: [**3375-6-25**] 6:13 PM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 9928**]
+     CT RECONSTRUCTION; -59 DISTINCT PROCEDURAL SERVICE
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+     Reason: chest abd pelvis r/o bleed                                  
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Bone windows demonstrate a left total hip replacement with a scoliotic
+     curvature of the spine and extensive degenerative disease of the spine.  The
+     alignment is grossly normal.  There are right seventh and eighth rib
+     fractures that appear to be chronic. There is a mixed lytic and sclerotic
+     focus in the left iliac bone of unknown significance.
+     
+     IMPRESSION:
+     1)  Extensive atherosclerotic disease.
+     2)  Emphysematous changes of the lungs.
+     3)  Precarinal and pretracheal lymphadenopathy, nonspecific finding.
+     4)  Extensive degenerative disease of the spine.
+     5)  Right seventh and eighth rib fractures, that appear chronic and partially
+     healed.
+
+",,
+8690,11947,,,3375-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-25**] 6:13 PM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 9928**]
+     CT RECONSTRUCTION; -59 DISTINCT PROCEDURAL SERVICE
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+     Reason: chest abd pelvis r/o bleed                                  
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with fall down 10 stars                                         
+     REASON FOR THIS EXAMINATION:
+      chest abd pelvis r/o bleed                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JJMl SUN [**3375-6-25**] 8:26 PM
+      Old right rib fractures.
+      Extensive degenerative changes of the spine.
+      Extensive atherosclerotis disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     TECHNIQUE:  MDCT acquired images of the chest, abdomen, and pelvis were
+     obtained after the administration of IV contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is extensive atherosclerotic disease
+     of the aorta.  There is no evidence of dissection.  There is a 14 mm
+     precarinal lymph node and multiple smaller pretracheal lymph nodes.  There are
+     no pathologically enlarged hilar or axillary lymph nodes.  The heart and
+     pericardium are grossly unremarkable.  Note is made of coronary artery
+     calcifications and possible aortic valve calcifications.  Likely emphysematous
+     related changes with small cystic areas demonstrated within the lung
+     parenchyma, most pronounced in the right upper lobe.  There is bilateral
+     dependent atelectasis.  There is basilar atelectasis versus scarring.  Note is
+     made of compressive atelectasis of the right lower lobe secondary to large
+     vertebral body osteophytes.  There is no pleural effusion or pneumothorax.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  An NG tube is demonstrated terminating in
+     the duodenum.  The liver, gallbladder, spleen, pancreas, adrenal glands, and
+     kidneys are grossly unremarkable.  The kidneys enhance and excrete contrast
+     symmetrically.  There is no intraperitoneal free air or free fluid.  There is
+     slight stranding of the mesenteric fat diffusely, a nonspecific sign.  There
+     is slight stranding of the subcutaneous tissues, suggestive of possible edema.
+     There are no pathologically enlarged mesenteric or retroperitoneal lymph nodes
+     by CT criteria.  There is no free air or free fluid.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley catheter in a
+     decompressed bladder.  There is air in the bladder consistent with recent
+     catheterization.  The pelvic structures are obscured secondary to artifact
+     from the patient's metallic left hip prosthesis.  No gross abnormalities
+     detected of the rectum or sigmoid colon.  No evidence of pelvic free fluid.
+     There is no pelvic or inguinal lymphadenopathy identified.  Extensive
+     atherosclerotic disease of the intrapelvic arterial structures is
+     demonstrated.
+                                                                 (Over)
+
+     DATE: [**3375-6-25**] 6:13 PM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 9928**]
+     CT RECONSTRUCTION; -59 DISTINCT PROCEDURAL SERVICE
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+     Reason: chest abd pelvis r/o bleed                                  
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Bone windows demonstrate a left total hip replacement with a scoliotic
+     curvature of the spine and extensive degenerative disease of the spine.  The
+     alignment is grossly normal.  There are right seventh and eighth rib
+     fractures that appear to be chronic. There is a mixed lytic and sclerotic
+     focus in the left iliac bone of unknown significance.
+     
+     IMPRESSION:
+     1)  Extensive atherosclerotic disease.
+     2)  Emphysematous changes of the lungs.
+     3)  Precarinal and pretracheal lymphadenopathy, nonspecific finding.
+     4)  Extensive degenerative disease of the spine.
+     5)  Right seventh and eighth rib fractures, that appear chronic and partially
+     healed.
+
+",,
+8690,11947,,,3375-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-25**] 6:13 PM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 9928**]
+     CT RECONSTRUCTION; -59 DISTINCT PROCEDURAL SERVICE
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+     Reason: chest abd pelvis r/o bleed                                  
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with fall down 10 stars                                         
+     REASON FOR THIS EXAMINATION:
+      chest abd pelvis r/o bleed                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JJMl SUN [**3375-6-25**] 8:26 PM
+      Old right rib fractures.
+      Extensive degenerative changes of the spine.
+      Extensive atherosclerotis disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     TECHNIQUE:  MDCT acquired images of the chest, abdomen, and pelvis were
+     obtained after the administration of IV contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is extensive atherosclerotic disease
+     of the aorta.  There is no evidence of dissection.  There is a 14 mm
+     precarinal lymph node and multiple smaller pretracheal lymph nodes.  There are
+     no pathologically enlarged hilar or axillary lymph nodes.  The heart and
+     pericardium are grossly unremarkable.  Note is made of coronary artery
+     calcifications and possible aortic valve calcifications.  Likely emphysematous
+     related changes with small cystic areas demonstrated within the lung
+     parenchyma, most pronounced in the right upper lobe.  There is bilateral
+     dependent atelectasis.  There is basilar atelectasis versus scarring.  Note is
+     made of compressive atelectasis of the right lower lobe secondary to large
+     vertebral body osteophytes.  There is no pleural effusion or pneumothorax.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  An NG tube is demonstrated terminating in
+     the duodenum.  The liver, gallbladder, spleen, pancreas, adrenal glands, and
+     kidneys are grossly unremarkable.  The kidneys enhance and excrete contrast
+     symmetrically.  There is no intraperitoneal free air or free fluid.  There is
+     slight stranding of the mesenteric fat diffusely, a nonspecific sign.  There
+     is slight stranding of the subcutaneous tissues, suggestive of possible edema.
+     There are no pathologically enlarged mesenteric or retroperitoneal lymph nodes
+     by CT criteria.  There is no free air or free fluid.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley catheter in a
+     decompressed bladder.  There is air in the bladder consistent with recent
+     catheterization.  The pelvic structures are obscured secondary to artifact
+     from the patient's metallic left hip prosthesis.  No gross abnormalities
+     detected of the rectum or sigmoid colon.  No evidence of pelvic free fluid.
+     There is no pelvic or inguinal lymphadenopathy identified.  Extensive
+     atherosclerotic disease of the intrapelvic arterial structures is
+     demonstrated.
+                                                                 (Over)
+
+     DATE: [**3375-6-25**] 6:13 PM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 9928**]
+     CT RECONSTRUCTION; -59 DISTINCT PROCEDURAL SERVICE
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+     Reason: chest abd pelvis r/o bleed                                  
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Bone windows demonstrate a left total hip replacement with a scoliotic
+     curvature of the spine and extensive degenerative disease of the spine.  The
+     alignment is grossly normal.  There are right seventh and eighth rib
+     fractures that appear to be chronic. There is a mixed lytic and sclerotic
+     focus in the left iliac bone of unknown significance.
+     
+     IMPRESSION:
+     1)  Extensive atherosclerotic disease.
+     2)  Emphysematous changes of the lungs.
+     3)  Precarinal and pretracheal lymphadenopathy, nonspecific finding.
+     4)  Extensive degenerative disease of the spine.
+     5)  Right seventh and eighth rib fractures, that appear chronic and partially
+     healed.
+
+",,
+8690,11947,,,3375-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-25**] 6:13 PM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 9928**]
+     CT RECONSTRUCTION; -59 DISTINCT PROCEDURAL SERVICE
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+     Reason: chest abd pelvis r/o bleed                                  
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with fall down 10 stars                                         
+     REASON FOR THIS EXAMINATION:
+      chest abd pelvis r/o bleed                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JJMl SUN [**3375-6-25**] 8:26 PM
+      Old right rib fractures.
+      Extensive degenerative changes of the spine.
+      Extensive atherosclerotis disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     TECHNIQUE:  MDCT acquired images of the chest, abdomen, and pelvis were
+     obtained after the administration of IV contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is extensive atherosclerotic disease
+     of the aorta.  There is no evidence of dissection.  There is a 14 mm
+     precarinal lymph node and multiple smaller pretracheal lymph nodes.  There are
+     no pathologically enlarged hilar or axillary lymph nodes.  The heart and
+     pericardium are grossly unremarkable.  Note is made of coronary artery
+     calcifications and possible aortic valve calcifications.  Likely emphysematous
+     related changes with small cystic areas demonstrated within the lung
+     parenchyma, most pronounced in the right upper lobe.  There is bilateral
+     dependent atelectasis.  There is basilar atelectasis versus scarring.  Note is
+     made of compressive atelectasis of the right lower lobe secondary to large
+     vertebral body osteophytes.  There is no pleural effusion or pneumothorax.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  An NG tube is demonstrated terminating in
+     the duodenum.  The liver, gallbladder, spleen, pancreas, adrenal glands, and
+     kidneys are grossly unremarkable.  The kidneys enhance and excrete contrast
+     symmetrically.  There is no intraperitoneal free air or free fluid.  There is
+     slight stranding of the mesenteric fat diffusely, a nonspecific sign.  There
+     is slight stranding of the subcutaneous tissues, suggestive of possible edema.
+     There are no pathologically enlarged mesenteric or retroperitoneal lymph nodes
+     by CT criteria.  There is no free air or free fluid.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley catheter in a
+     decompressed bladder.  There is air in the bladder consistent with recent
+     catheterization.  The pelvic structures are obscured secondary to artifact
+     from the patient's metallic left hip prosthesis.  No gross abnormalities
+     detected of the rectum or sigmoid colon.  No evidence of pelvic free fluid.
+     There is no pelvic or inguinal lymphadenopathy identified.  Extensive
+     atherosclerotic disease of the intrapelvic arterial structures is
+     demonstrated.
+                                                                 (Over)
+
+     DATE: [**3375-6-25**] 6:13 PM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 9928**]
+     CT RECONSTRUCTION; -59 DISTINCT PROCEDURAL SERVICE
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+     Reason: chest abd pelvis r/o bleed                                  
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Bone windows demonstrate a left total hip replacement with a scoliotic
+     curvature of the spine and extensive degenerative disease of the spine.  The
+     alignment is grossly normal.  There are right seventh and eighth rib
+     fractures that appear to be chronic. There is a mixed lytic and sclerotic
+     focus in the left iliac bone of unknown significance.
+     
+     IMPRESSION:
+     1)  Extensive atherosclerotic disease.
+     2)  Emphysematous changes of the lungs.
+     3)  Precarinal and pretracheal lymphadenopathy, nonspecific finding.
+     4)  Extensive degenerative disease of the spine.
+     5)  Right seventh and eighth rib fractures, that appear chronic and partially
+     healed.
+
+",,
+8690,11947,,,3375-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-25**] 6:13 PM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 9928**]
+     CT RECONSTRUCTION; -59 DISTINCT PROCEDURAL SERVICE
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+     Reason: chest abd pelvis r/o bleed                                  
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with fall down 10 stars                                         
+     REASON FOR THIS EXAMINATION:
+      chest abd pelvis r/o bleed                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JJMl SUN [**3375-6-25**] 8:26 PM
+      Old right rib fractures.
+      Extensive degenerative changes of the spine.
+      Extensive atherosclerotis disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     TECHNIQUE:  MDCT acquired images of the chest, abdomen, and pelvis were
+     obtained after the administration of IV contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is extensive atherosclerotic disease
+     of the aorta.  There is no evidence of dissection.  There is a 14 mm
+     precarinal lymph node and multiple smaller pretracheal lymph nodes.  There are
+     no pathologically enlarged hilar or axillary lymph nodes.  The heart and
+     pericardium are grossly unremarkable.  Note is made of coronary artery
+     calcifications and possible aortic valve calcifications.  Likely emphysematous
+     related changes with small cystic areas demonstrated within the lung
+     parenchyma, most pronounced in the right upper lobe.  There is bilateral
+     dependent atelectasis.  There is basilar atelectasis versus scarring.  Note is
+     made of compressive atelectasis of the right lower lobe secondary to large
+     vertebral body osteophytes.  There is no pleural effusion or pneumothorax.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  An NG tube is demonstrated terminating in
+     the duodenum.  The liver, gallbladder, spleen, pancreas, adrenal glands, and
+     kidneys are grossly unremarkable.  The kidneys enhance and excrete contrast
+     symmetrically.  There is no intraperitoneal free air or free fluid.  There is
+     slight stranding of the mesenteric fat diffusely, a nonspecific sign.  There
+     is slight stranding of the subcutaneous tissues, suggestive of possible edema.
+     There are no pathologically enlarged mesenteric or retroperitoneal lymph nodes
+     by CT criteria.  There is no free air or free fluid.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley catheter in a
+     decompressed bladder.  There is air in the bladder consistent with recent
+     catheterization.  The pelvic structures are obscured secondary to artifact
+     from the patient's metallic left hip prosthesis.  No gross abnormalities
+     detected of the rectum or sigmoid colon.  No evidence of pelvic free fluid.
+     There is no pelvic or inguinal lymphadenopathy identified.  Extensive
+     atherosclerotic disease of the intrapelvic arterial structures is
+     demonstrated.
+                                                                 (Over)
+
+     DATE: [**3375-6-25**] 6:13 PM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 9928**]
+     CT RECONSTRUCTION; -59 DISTINCT PROCEDURAL SERVICE
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+     Reason: chest abd pelvis r/o bleed                                  
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Bone windows demonstrate a left total hip replacement with a scoliotic
+     curvature of the spine and extensive degenerative disease of the spine.  The
+     alignment is grossly normal.  There are right seventh and eighth rib
+     fractures that appear to be chronic. There is a mixed lytic and sclerotic
+     focus in the left iliac bone of unknown significance.
+     
+     IMPRESSION:
+     1)  Extensive atherosclerotic disease.
+     2)  Emphysematous changes of the lungs.
+     3)  Precarinal and pretracheal lymphadenopathy, nonspecific finding.
+     4)  Extensive degenerative disease of the spine.
+     5)  Right seventh and eighth rib fractures, that appear chronic and partially
+     healed.
+
+",,
+8690,11947,,,3375-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-25**] 6:13 PM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 9928**]
+     CT RECONSTRUCTION; -59 DISTINCT PROCEDURAL SERVICE
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+     Reason: chest abd pelvis r/o bleed                                  
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with fall down 10 stars                                         
+     REASON FOR THIS EXAMINATION:
+      chest abd pelvis r/o bleed                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JJMl SUN [**3375-6-25**] 8:26 PM
+      Old right rib fractures.
+      Extensive degenerative changes of the spine.
+      Extensive atherosclerotis disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     TECHNIQUE:  MDCT acquired images of the chest, abdomen, and pelvis were
+     obtained after the administration of IV contrast.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is extensive atherosclerotic disease
+     of the aorta.  There is no evidence of dissection.  There is a 14 mm
+     precarinal lymph node and multiple smaller pretracheal lymph nodes.  There are
+     no pathologically enlarged hilar or axillary lymph nodes.  The heart and
+     pericardium are grossly unremarkable.  Note is made of coronary artery
+     calcifications and possible aortic valve calcifications.  Likely emphysematous
+     related changes with small cystic areas demonstrated within the lung
+     parenchyma, most pronounced in the right upper lobe.  There is bilateral
+     dependent atelectasis.  There is basilar atelectasis versus scarring.  Note is
+     made of compressive atelectasis of the right lower lobe secondary to large
+     vertebral body osteophytes.  There is no pleural effusion or pneumothorax.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  An NG tube is demonstrated terminating in
+     the duodenum.  The liver, gallbladder, spleen, pancreas, adrenal glands, and
+     kidneys are grossly unremarkable.  The kidneys enhance and excrete contrast
+     symmetrically.  There is no intraperitoneal free air or free fluid.  There is
+     slight stranding of the mesenteric fat diffusely, a nonspecific sign.  There
+     is slight stranding of the subcutaneous tissues, suggestive of possible edema.
+     There are no pathologically enlarged mesenteric or retroperitoneal lymph nodes
+     by CT criteria.  There is no free air or free fluid.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley catheter in a
+     decompressed bladder.  There is air in the bladder consistent with recent
+     catheterization.  The pelvic structures are obscured secondary to artifact
+     from the patient's metallic left hip prosthesis.  No gross abnormalities
+     detected of the rectum or sigmoid colon.  No evidence of pelvic free fluid.
+     There is no pelvic or inguinal lymphadenopathy identified.  Extensive
+     atherosclerotic disease of the intrapelvic arterial structures is
+     demonstrated.
+                                                                 (Over)
+
+     DATE: [**3375-6-25**] 6:13 PM
+     CT CHEST W/CONTRAST; CT 150CC NONIONIC CONTRAST                 Clip # [**Clip Number (Radiology) 9928**]
+     CT RECONSTRUCTION; -59 DISTINCT PROCEDURAL SERVICE
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST
+     Reason: chest abd pelvis r/o bleed                                  
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Bone windows demonstrate a left total hip replacement with a scoliotic
+     curvature of the spine and extensive degenerative disease of the spine.  The
+     alignment is grossly normal.  There are right seventh and eighth rib
+     fractures that appear to be chronic. There is a mixed lytic and sclerotic
+     focus in the left iliac bone of unknown significance.
+     
+     IMPRESSION:
+     1)  Extensive atherosclerotic disease.
+     2)  Emphysematous changes of the lungs.
+     3)  Precarinal and pretracheal lymphadenopathy, nonspecific finding.
+     4)  Extensive degenerative disease of the spine.
+     5)  Right seventh and eighth rib fractures, that appear chronic and partially
+     healed.
+
+",,
+8690,11947,,,3375-06-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-25**] 6:10 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 9926**]
+     Reason: r/o bleed                                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with fall down 10 stars                                         
+     REASON FOR THIS EXAMINATION:
+      r/o bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JJMl SUN [**3375-6-25**] 7:14 PM
+      No evidence of acute intracranial hemorrhage or depressed skull fracture.
+      Scalp hematoma.
+      Ethmoid and sphenoid mucosal thickening.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post fall.
+     
+     No studies available for comparison.
+     
+     TECHNIQUE:  Axial images of the head were obtained without IV contrast.
+     
+     CT OF THE HEAD WITHOUT CONTRAST:  No evidence of acute intra or extra-axial
+     hemorrhage.  The [**Doctor Last Name 30**]-white matter differentiation is preserved.  There is no
+     hydrocephalus or shift of normally midline structures.  Bone windows
+     demonstrate no evidence of depressed skull fracture.  There is minimal mucosal
+     thickening of the left sphenoid sinus.  The visualized portions of the
+     maxillary and frontal sinuses are well aerated.  There is slight mucosal
+     thickening of the ethmoid sinuses.  The mastoid air cells are well
+     pneumatized.  Note is made of calcification along the falx cerebri.  There is
+     high-density material at the patient's right posterior scalp consistent with
+     the patient's known scalp laceration and hematoma.
+     
+     IMPRESSION:  No evidence of acute intracranial hemorrhage or displaced skull
+     fracture.
+                                                                           
+
+",,
+8690,11947,10810,,3375-06-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-26**] 9:24 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9929**]
+     Reason: eval for chf                                                
+     Admitting Diagnosis: HEAD INJURY;S/P FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with decreased Oxygen sats                                      
+     REASON FOR THIS EXAMINATION:
+      eval for chf                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of trauma and respiratory distress with decreased oxygen saturations.
+     
+     Heart size is borderline for technique.  There are diffuse bilateral ill
+     defined predominantly perihilar and lower zone opacities consistent with
+     pulmonary edema.  No pneumothorax.  Findings are new since the prior study of
+     [**3375-6-25**].
+     
+     IMPRESSION:  New rapid development of bilateral pulmonary opacities consistent
+     with pulmonary edema.  Correlate clinically and will followup after therapy to
+     reevaluate.  Appearances may also be seen in with massive aspiration.
+
+",,
+8690,11947,10810,0,3375-06-26 02:36:00 EST,3375-06-26 02:40:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT sedated and on mech vent as per Carevue. Lung sounds ess clear after suct sm th white sput. ABGs stable able to switch to PSV with good result; RSBI good. Plan to wean to extub today.
+",,
+8690,11947,10810,0,3375-06-26 06:19:00 EST,3375-06-26 07:13:00 EST,3570,"N",54,"Nursing/Other","TSICU Nsg Admit Note","
+TSICU Nsg Admit Note
+   Pt is a 89 y/o male who was found at the bottom of the stairs in his home, ? LOC, found w/ large right occipital lac and awake and confused/agitated.  Brought to [**Hospital1 22**] EW, intubated for airway protection.  Pt taken to scan which showed no injuries, pt hypertensive in the EW w/ HR up to 100's and SBP up to 190/100, pt given sedation to no avail yet when med w/ lopressor 5mg pt became hypotensive transiently.  Pt brought to TSICU at 2100 intubated and sedated on propofol at 10mcgs/kg/min, 
+
+PMHx:  HTN, GIbleeds
+
+Pshx: left hip repair, abdominal incision
+
+NKDA's , meds : lisinopril (?compliance per son)
+
+  Current ROS
+
+Neuro- pt on and off propofol at 10-20mcgs/kg/min, when light at best neuro exam pt w/ PERL at 3-4mm briskly rx, Pt opens eyes to voice, MAE's yet not specifically following commands.  Very restless, agitated, trying to sit up to get oob, good strength in extremities, equal bilaterally. Cervical collar on, attempts to keep pt on log roll. No other sedation recieved.
+
+CV- pt in sinus w/ pac's and PVC's intermittantly, pt hypotensive at times w/ SBP as low as into the 70's, Pt given fluid bolus times one w/ good results and this AM hct down from 35 to 25, repeat spec pending yet in the meantime pt transfused w/ one unit PRBC's, CPK's being cycled and lights repleted.  Pt con't to be hypotensive at times w/ low diastolic BP , please see flow sheet for exact pressures.
+
+Resp- pt on CMV initially w/ good ABG, switched to CPAP and is tolerating it well, repeat ABG pnd this AM.  Pt saturating well, BS's coarse to clear bilaterally, pt suctioned for thick pale white tenacious secretions.  Strong cough and gag present.
+
+GI- abd soft nondistended, OGT w/ scant aspirates, pt on protonix.
+
+GU- pt w/ foley, urine slightly blood tinged, good u/o over night.
+
+Endo- pt being covered by sliding scale.
+
+ID- t max 99.8, wbc's elevated, pt getting kefzol q 8hrs as ordered.
+
+Skin- right occipital lac intact w/ sutures, much less bloody oozing over  the course of the shift, left pinky finger w/ small degloving injury covered w/ adaptic and DSD.  Skin otherwise intact.
+
+A/P- pt con't slightly hypotensive when sedated.  Monitor neuro status and reorient frequently, ? extubate when cleared by [**Last Name (un) 6093**] this AM, check post transfusiom hct.
+",,
+8690,11947,10810,0,3375-06-26 16:31:00 EST,3375-06-26 17:23:00 EST,3826,"N",54,"Nursing/Other",,"
+
+NPN
+N: PT EXTUBATED THIS AM AND CONFUSED/AGITATED SINCE. VERY ACTIVE/SWINGING LEGS OVER BEDRAILS, PICKING AT PIV'S/LEADS/O2. DID NOT RESPOND TO DOSES OF HALDOL TOTALLING 20MG OVER 2 1/2HRS. DID HAVE GOOD RESPONSE TO PRN ATIVAN 1-2MG. RIKER SCALE 4 AFTER ATIVAN. ORIENTED TO SELF. KNEW WIFE/[**Hospital1 **] NAMES AND KNEW HE LIVED IN [**Location 6094**]. NOT ORIENTED TO TIME/PLACE. C-COLLAR REMAINS ON. SPINE CLEARED. OOB TO CHAIR X2HRS. 
+
+CV: HD STABLE. NORMOTENSIVE. RECEIVING LOPRESSOR 5MG/Q6HR. NSR 90'S-110 WITH OCC PVC/PAC. BP 110-120/60-70. MG REPLETED. HCT 26 AFTER TRANSFUSION OF 1U PC. NO FURTHER TRANSFUSION GIVEN PER DR [**Last Name (STitle) 2094**].
+
+R: EXTUBATED AT 9AM TO FACETENT 50%. LUNGS OCC COURSE/DIM AT BASES. COUGHS AND CLEARS. FACENTENT INCREASED TO 100% AS SATS STARTING TO DRIFT 89-90% WHEN ASLEEP. RR TEENS-20'S.
+
+GI: ABD SOFT/+BS. OGT D/C'D. TOOK SIPS OF H2O FROM CUP WITHOUT S/S ASPIRATION. CONT IVF D51/2 WITH 20KCL/AT 80CC/HR.
+
+GU: URINE DRAINING FROM FOLEY IN ADEQ AMTS CLEAR YELLOW. 40-50CC/HR.
+
+ID: AFEBRILE. KEFZOL ATC.
+
+ENDO: GLUCOSE REQUIRING SS COVERAGE. 
+
+SOC: PTS WIFE/SON/AND DAUGHTER IN TO VISIT. UPDATED ON PLAN.
+
+A/P: PT CAN TRANSFER TO FLR WHEN BED AVAILABLE. TRANSFER WITH 1:1 SITTER FOR SAFETY.
+
+
+",,
+8690,11947,10810,0,3375-06-26 16:51:00 EST,3375-06-26 16:54:00 EST,3975,"N",54,"Nursing/Other",,"
+
+Respiratory Care Note:
+   Patient weaned and extubated without incident. Voice and cough intact. BS with good aeration bilat. Plan to continue to wean FIO2 as tolerated.
+",,
+8690,11947,10810,,3375-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-27**] 4:09 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 9931**]
+     Reason: funny shadow on left                                        
+     Admitting Diagnosis: HEAD INJURY;S/P FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        89 year old man with decreased Oxygen sats           s/p lasix                
+                  
+     REASON FOR THIS EXAMINATION:
+      funny shadow on left                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypoxia, CHF.
+     
+     PORTABLE UPRIGHT FRONTAL RADIOGRAPH.  Comparison is made to study performed 12
+     hours earlier.
+     
+     FINDINGS:
+     There is persistent, but improved appearance of congestive heart failure seen
+     on the prior study.  There is an apparent more focal area of opacification in
+     the right lower lung field, which may represent superimposed area of
+     consolidation.  Linear opacity seen in the left hemithorax likely represents a
+     skin fold.  There is no pneumothorax.
+     
+     These findings were communicated to Dr. [**First Name4 (NamePattern1) 9932**] [**Last Name (NamePattern1) 9933**] at the completion of the
+     study.
+                                                                           
+
+",,
+8690,11947,10810,,3375-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-27**] 4:09 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 9931**]
+     Reason: funny shadow on left                                        
+     Admitting Diagnosis: HEAD INJURY;S/P FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        89 year old man with decreased Oxygen sats           s/p lasix                
+                  
+     REASON FOR THIS EXAMINATION:
+      funny shadow on left                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypoxia, CHF.
+     
+     PORTABLE UPRIGHT FRONTAL RADIOGRAPH.  Comparison is made to study performed 12
+     hours earlier.
+     
+     FINDINGS:
+     There is persistent, but improved appearance of congestive heart failure seen
+     on the prior study.  There is an apparent more focal area of opacification in
+     the right lower lung field, which may represent superimposed area of
+     consolidation.  Linear opacity seen in the left hemithorax likely represents a
+     skin fold.  There is no pneumothorax.
+     
+     These findings were communicated to Dr. [**First Name4 (NamePattern1) 9932**] [**Last Name (NamePattern1) 9933**] at the completion of the
+     study.
+                                                                           
+
+",,
+8690,11947,10810,,3375-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-27**] 4:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9930**]
+     Reason: eval for improvement in CHF                                 
+     Admitting Diagnosis: HEAD INJURY;S/P FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       89 year old man with decreased Oxygen sats           s/p lasix                 
+                
+     REASON FOR THIS EXAMINATION:
+      eval for improvement in CHF                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Decreased oxygen saturation, status post Lasix.
+     
+     TECHNIQUE:  Single portable AP view of the chest was obtained, compared with
+     examination performed yesterday.
+     
+     FINDINGS:  Cardiac and mediastinal silhouettes remain stable.  There is
+     minimal improvement in the appearance of bilateral patchy alveolar opacities,
+     with persistent appearance of retrocardiac opacity.  While the right side
+     looks slightly better, the left side appears unchanged.  No evidence of
+     pneumothorax.
+     
+     IMPRESSION:  Minimal improvement in congestive failure pattern.
+                                                                           
+
+",,
+8690,11947,10810,0,3375-06-27 06:49:00 EST,3375-06-27 07:15:00 EST,3660,"N",54,"Nursing/Other",,"
+
+nsg note: 1900 [**6-26**] to 0700 [**6-27**]
+
+events of shift: pt had 2 episodes of decreased sats with bilat rales improved ith ms [**First Name (Titles) **] [**Last Name (Titles) 1752**]. triponin elevated this am.
+
+review of systems: pt very lethargic, opens eyes r arely will answer when spoken to in one or two word responses. confused as to time and place. moving all extremities, very strong attempting to get oob by swinging his legs out. pt with posey restraint and then soft wrist restraints. pt pulling off oxygen equipt. sats drop with out o2.
+given ativan 1 mgs with limited response. ms 2 mgs given at 4am and 6am with good effect.
+
+cv/resp: pt bp stable, hr fluctuating between 90's to 120. in sinus with many apc's and some pvc's. responds well to lopressor. 10 meq kcl given after first lasix dose k at 3am 4.0 
+pt was extremly restless from 7 to 9pm then became very congested with rales, chest film looked like failure sats at this time were dropping into the 80's and o2 delivery increased then sats sat at 92%. pt given lasix and gotten oob to cardiac chair. at this point pt calmed down and fell asleep. sats rose to 98 % pt diureses >600ccs. pt slept well until 2am then slowly got restless again by 4am pt back in bed and again dropping sats,  and congested with rales. troponin came back .13. pt givem asa per rectum, 20 more of lasix, and 2mgs ms. again pt calmed and slept. repeat chest film done at 5am.  pt with weak cough not producing sputum.
+
+gi abd soft no stool nothing by mouth ivf at 80 ccs per hr slowed then put to kvo 2nd to pulmonary congestion.  reg insulin given at 8pm not neded at last check,
+
+afebrile till 6am now temp 100.1 wbc >20 remains on cefzol.
+
+head lac with staples intact oozing scant amts of ser/sang drainage.
+",,
+8690,11947,10810,0,3375-06-27 14:15:00 EST,3375-06-27 14:23:00 EST,4045,"N",54,"Nursing/Other",,"
+
+See [**Name6 (MD) 54**] data, MD notes/orders. Neuro: Sleepy most of the day, more lucid and able to converse appropriately and follow commands. [**Last Name (LF) **], [**First Name3 (LF) **] with equal strength. No pain voiced when questioned. Sr with occ pacs/pvcs noted. Sbp low 100's. He required levophed at low dose for several hours for sbp in 70-80 range and maps less then 50. Hct 25 from 28, team aware, no transfusion ordered at this time.12 lead ekg taken with no acute changes noted. Cardiac enzymes trending down. Pulm: Weaned down to 3L nc with 02 sats 98-100%. Lungs clear, rales noted at right base. GU: Uo 22-60cc/hr. GI: Abd flat,soft,bs+. Pt taking sips of clear liguids whith assist. Endo: Ssc with regular insulin. Glucose 51-57 this afternoon. 12.5 gm D50 given with glucose rising to 121 and pt appearing more alert. Skin: Grossly intact, peripheral pulses strong. Scalp lac open to air, clean and dry. Soc: Family in, spoke with team with all questions answered sastisfactorily. P: Continue to monitor hemodynamics and neuro status, Increase activity and nutrition as ordered and indicated. Keep family up to date on plan of care. Clear neck ligaments when pt more alert and able to participate in exam. ?transfer to floor in am if medically stable. 
+",,
+8690,11947,10810,0,3375-06-28 04:46:00 EST,3375-06-28 04:55:00 EST,3510,"N",54,"Nursing/Other","t-sicu nsg note:","
+t-sicu nsg note:
+neuro- very pleasant, cooperative, asking appropriate questions regarding his prognosis, rehab etc. mae's w/ nl strength, oriented to person and place, strong productive cough, perrla 2mm.
+
+resp- bs cta, rr 14-18, sao2 92% on rm air, 98-100% on 2lnc of 70%ft.
+
+cvs- tm 100po, hr 80's-90's nsr w/ freq apc and occ ->freq pvc,  holosystolic murmur, k+ 3.7 repleted slowly d/t peripheral line. hct went from 25 to 27 following 1uprbc presently receiving 2nd uprbc. 20lasix ivp given w/ blood.
+
+gi- abd soft, non distended, +bs, +flatus.
+
+gu- foley draining cyu, responds well to lasix.
+
+endo- slightly labile bs 153->90 
+
+skin- lac on occiput w/ sutures intact, sm amt s/s drainage, finger w/ dsd, coccyx reddens quickly, pt maintained s->s all noc.
+
+a: stable night, slept well, tol bld tx uneventfully.
+
+p: monitor vs per routine, enc c+db, replete lytes, monitor heme status. echo today.
+",,
+8690,11947,10810,0,3375-06-28 16:31:00 EST,3375-06-28 16:39:00 EST,4226,"N",54,"Nursing/Other",,"
+
+TSICU NPN 7A-7P:
+
+EVENTS: ECHO--PT HAS SIGNIFICANT ATRIAL VALVE STENOSIS. SPOKE WITH CARDIOLOGY AND CARDIOTHORACIC SURGERY TODAY RE OPTIONS. PT STILL NEEDS TO SPEAK WITH FAMILY AND WILL MOST LIKELY BE TREATED AS AN OUTPATIENT. OOB TO CHAIR. EATING REGULAR DIET. FAMILY AT BEDSIDE.
+
+NEURO: ORIENTED X2. PLEASANT AND COOPERATIVE. MAE WELL. PERL. DENIES PAIN. MOVES WELL OUT OF BED.
+
+CV: SR WITH FREQ. PVCS AND PACS. COLOR PINK. SKIN WARM AND DRY. PALP DP AND PT PULSES BILAT. NO EDEMA. BP STABLE. PO LOPRESSOR.
+
+RESP: ON ROOM AIR AT THIS TIME SATS 94-99%. DENIES SHORTNESS OF BREATH. LUNG SOUNDS CLEAR THROUGHOUT. PERIOD OF I/E WHEEZING EARLY ON IN SHIFT. RESOLVED ON ITS OWN.
+
+GI: TOLERATING DIET. +BOWEL SOUNDS. DENIES NAUSEA.
+
+GU: FOLEY WITH CLEAR YELLOW URINE. NO IVF. KEEPING FLUID RESTRICTED.
+
+ENDO: NO COVERAGE WITH RISS REQUIRED TODAY.
+
+HEME: NO NEW ISSUES. CARDIOLOGY WANT HCT >30. NOT RECHECKED POST-TRANSFUSION PER TEAM.
+
+ID: AFEBRILE. ALL ABX DISCONTINUED.
+
+SKIN: LAC TO BACK OF HEAD SUTURED, SCANT AMOUNTS SEROSANG DRAINAGE. LEFT FINGER WITH DEGLOVING INJURY. DSD IN PLACE. BACK PINK OVER BONY PROMINENCES.
+
+SOCIAL: SUPPORTIVE WIFE AND CHILDREN IN AND UPDATED. PRESENT FOR DISCUSSION WITH CARDIOLOGISTS.
+
+PLAN: D/C TO FLOOR. SEE TRANSFER NOTE. MAY BE ABLE TO GO HOME IN DAY OR SO AND BE TREATED BY CARDIOLOGY AS AN OUTPATIENT. MAINTAIN ORIENTAION. MONITOR FLUID STATUS. ONGOING EMOTIONAL SUPPORT FOR PT AND FAMILY.
+",,
+8690,11947,10810,0,3375-06-29 03:54:00 EST,3375-06-29 04:02:00 EST,4450,"N",54,"Nursing/Other","nursing progress note","
+nursing progress note
+
+neuro: alert, oriented x2, slightly more confused last evening, appropriate overnight. moving x4, follows commands. perrla.
+
+resp: ls clear bilat, o2 sats stable on ra. rr teens. denies sob.
+
+cv: vss, afebrile. ppp bilat. hr nsr, 80s-90s, many pac's, pvc's. denies cp/distress. 
+
+gi: tol fluids overnight. bs present, bm x2, mod amt loose brown stools. 
+
+gu: foley patent clear concentrated urine. 
+
+endo: bg's stable, insulin coverage per scale.
+
+id: afebrile. 
+
+skin: lac to scalp healing, old bloody drainage noted. pt denies pain to site.
+
+social: no family contact overnight. pt spoken to by cardiology attending regarding reasons for pt not to drive from this point forward.  reinforced discussion overnight, pt brought up conversation later on in evening, seemed to understand rationale and safety risks if pt were to continue driving.  pt stated ""its ok, my wife can drive when I need to be somewhere"". 
+
+a/p: 89 yo male s/p syncopal episode at home, fell, striking head, sustained lac to scalp. found to have severe aortic stenosis, mild MR, TR per echo report. future plan for medical management of cardiac issues. pt stable at present, awaiting transfer to floor when bed available.
+
+ 
+",,
+8690,11947,,,3375-06-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3375-6-30**] 1:41 PM
+     HIP UNILAT MIN 2 VIEWS RIGHT                                    Clip # [**Clip Number (Radiology) 9934**]
+     Reason: r/out fracture                                              
+     Admitting Diagnosis: HEAD INJURY;S/P FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with right hip pain ?of subcapital fracture on prior imaging 
+      studies 
+     REASON FOR THIS EXAMINATION:
+      r/out fracture                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right hip pain, questionable subcapital fracture on prior imaging
+     studies, evaluate for fracture.
+     
+     FINDINGS:  The question of a possible hip injury is initiated on a previous
+     portable pelvis trauma examination of [**3375-6-25**].  The right hip was
+     demonstrated in markedly neck foreshortened projection with the leg rotated
+     externally.  Overlying structures of the trauma board precluded any detailed
+     analysis of the area.  The present examination includes an AP view of the
+     pelvis demonstrating the presence of a left-sided total hip joint replacement
+     and the right-sided hip in moderate external rotation.  The right-sided hip
+     joint, joint distance is preserved and moderate degree of degenerative
+     manifestations is present in the form of increased sclerosis of the acetabular
+     contours and osteophytic prominences at the edges.  No evidence of fracture is
+     present and the periarticular soft tissue structures are quite normal.  An AP
+     cone-down view of the right hip frontal projection again demonstrates the hip
+     joint in moderate lateral external rotation not quite freeing the lateral
+     cervical wall which is partially superimposed by the trochanter.  There is,
+     however, no suspicion for any acute fracture.  Frog view also demonstrates
+     normal alignment of the femoral head within the acetabulum and no evidence of
+     hip fracture can be identified.  Surprisingly, the patient demonstrates
+     moderate amount of arterial wall calcifications in the femoral artery and its
+     tributaries.
+     
+     IMPRESSION:  No evidence of right-sided hip fracture.  Should strong clinical
+     suspicion for right hip injury persist, performance of either nuclide
+     examination or MRI is recommended to exclude nondisplaced fracture in this
+     area.
+                                                                           
+
+",,

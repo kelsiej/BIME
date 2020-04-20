@@ -1,0 +1,318 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8292,1301,,,3443-08-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3443-8-11**]        Discharge Date: [**3443-8-18**]
+
+Date of Birth:  [**3348-4-17**]        Sex:  F
+
+Service:  NSU
+
+
+HISTORY OF PRESENT ILLNESS:  The patient is a [**Age over 90 **]-year-old
+right-handed woman who was previously healthy and in [**3443-7-4**] started developing difficulty with word finding and
+writing letters.  Now has had worsening symptoms times one
+week and also some question of slight right-sided weakness.
+The patient has had a right ear lesion removed with unknown
+pathology.
+
+PHYSICAL EXAMINATION:  The patient was awake and alert with
+aphasia.  Good comprehension.  Following multi-step commands.
+Word finding difficulty.  No left or right confusion.
+Extraocular movements intact.  Cranial nerves II through XII
+were intact.  Her motor strength was 4 plus in the deltoids
+bilaterally, [**6-7**] in biceps, triceps and grasp.  IP was 4 on
+the right and 5 on the left.  Quads 4 plus on the right and 5
+on the left.  Otherwise, all other muscle groups were [**6-7**]
+bilaterally.  Her sensation was intact to light touch.
+
+RADIOLOGY:  Her head CT showed a left parietal 3 cm lesion
+with hemorrhage and edema.
+
+HOSPITAL COURSE:  She was admitted to the Neurosurgery
+Service.  She was admitted to the Intensive Care Unit for
+close neurologic observation.  She had an MRI scan which
+confirmed the presence of this left parietal lesion.  She was
+seen by Dr. [**Last Name (STitle) **] and Dr. [**First Name (STitle) **] who recommended possible
+radiation treatment.  MRI scan showed this lesion that looked
+most like a primary brain tumor.  The patient was also seen
+by the Radiation Oncology Service who recommended a possible
+biopsy followed by radiation.  The family, in discussion with
+the patient, had decided that she did not want any treatment.
+The patient was therefore seen by Physical Therapy and
+Occupational Therapy and found to require a short
+rehabilitation stay prior to discharge to home.  Her
+neurologic status remained stable.  She was started on some
+Decadron with improvement of her word finding difficulties.
+Her vital signs remained stable throughout her hospital stay.
+
+DISCHARGE MEDICATIONS:  Include famotidine 20 mg p.o. b.i.d.,
+heparin 5000 units subcu q. 12h., Colace 100 mg p.o. b.i.d.,
+verapamil 80 p.o. q. 8h., Dilantin 100 mg p.o. t.i.d.,
+Decadron currently 6 mg IV q. 4h., Valsartan 80 p.o. q. day,
+pilocarpine one drop O.D. q. 8h., lisinopril 20 p.o. q. day.
+
+CONDITION ON DISCHARGE:  Stable at the time of discharge.
+
+FOLLOW UP:  No follow up from Neurosurgery is required unless
+requested by the patient.  At this time condition is stable.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], [**MD Number 804**]
+
+Dictated By:[**Last Name (NamePattern1) 805**]
+MEDQUIST36
+D:  [**3443-8-17**] 15:03:53
+T:  [**3443-8-17**] 16:08:42
+Job#:  [**Job Number 11496**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 470**] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 46**] [**3443-8-31**] 4:39 PM
+(End of Report)
+
+
+",,
+8292,1301,,,3443-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-8-11**] 10:56 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 6642**]
+     Reason: please assess for mass                                      
+     Admitting Diagnosis: LEFT PATIETAL MASS
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with left mass                                                
+     REASON FOR THIS EXAMINATION:
+      please assess for mass                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **] year old with left hemispheric mass identified on CT performed
+     earlier the same day.
+     
+     TECHNIQUE:  Multiplanar T1 and T2W brain imaging including diffusion weighted
+     imaging and post Gadolinium imaging in multiple planes was performed.
+     
+     FINDINGS:  There is an approximately 3 cm irregularly marginated
+     heterogeneously enhancing mass in the left frontoparietal region.  The mass is
+     in the deep centrum semiovale and abuts the body and atrium of the left
+     lateral ventricle.  There is associated vasogenic edema and slight compressive
+     effect on the adjacent left lateral ventricle.  There is no shift of normally
+     midline structures and there is no hydrocephalus.  There is also a faint area
+     of enhancement in the white matter overlying the right lateral ventricle in
+     the frontal lobe.  There are no extra-axial collections.  The osseous
+     structures and soft tissues are unremarkable.  The major vascular flow
+     patterns are normal.
+     
+     IMPRESSION:  Enhancing mass in the left frontoparietal white matter with
+     associated vasogenic edema is consistent with a neoplasm.  The differential
+     includes primary neoplasm of the brain such as a glioblastoma multiforme vs. a
+     metastasis.  The area of faint enhancement overlying the right lateral
+     ventricle suggests the possibility of multifocal neoplastic process.
+
+",,
+8292,1301,,,3443-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-8-11**] 10:56 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 6642**]
+     Reason: please assess for mass                                      
+     Admitting Diagnosis: LEFT PATIETAL MASS
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with left mass                                                
+     REASON FOR THIS EXAMINATION:
+      please assess for mass                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **] year old with left hemispheric mass identified on CT performed
+     earlier the same day.
+     
+     TECHNIQUE:  Multiplanar T1 and T2W brain imaging including diffusion weighted
+     imaging and post Gadolinium imaging in multiple planes was performed.
+     
+     FINDINGS:  There is an approximately 3 cm irregularly marginated
+     heterogeneously enhancing mass in the left frontoparietal region.  The mass is
+     in the deep centrum semiovale and abuts the body and atrium of the left
+     lateral ventricle.  There is associated vasogenic edema and slight compressive
+     effect on the adjacent left lateral ventricle.  There is no shift of normally
+     midline structures and there is no hydrocephalus.  There is also a faint area
+     of enhancement in the white matter overlying the right lateral ventricle in
+     the frontal lobe.  There are no extra-axial collections.  The osseous
+     structures and soft tissues are unremarkable.  The major vascular flow
+     patterns are normal.
+     
+     IMPRESSION:  Enhancing mass in the left frontoparietal white matter with
+     associated vasogenic edema is consistent with a neoplasm.  The differential
+     includes primary neoplasm of the brain such as a glioblastoma multiforme vs. a
+     metastasis.  The area of faint enhancement overlying the right lateral
+     ventricle suggests the possibility of multifocal neoplastic process.
+
+",,
+8292,1301,,,3443-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-8-11**] 1:09 PM
+     ABDOMEN (SUPINE ONLY) PORT                                      Clip # [**Clip Number (Radiology) 6643**]
+     Reason: eval ngt                                                    
+     Admitting Diagnosis: LEFT PATIETAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      eval ngt                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE FILM:
+     
+     HISTORY: NG tube placement.
+     
+     Distal end of the NG tube overlies the distal body of stomach.
+
+",,
+8292,1301,,,3443-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3443-8-11**] 5:55 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6641**]
+     Reason: change in ICH?                                              
+     Admitting Diagnosis: LEFT PATIETAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with intracranial mass surronded with blood                   
+     REASON FOR THIS EXAMINATION:
+      change in ICH?                                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intracranial mass surrounded with hemorrhage change and
+     hemorrhage is questioned.
+     
+     Axial non-contrast CT scans of the brain were obtained.
+     
+     No previous studies are available for comparison.
+     
+     FINDINGS:
+     
+     There is hypodensity and swelling of the left frontal and parietal white
+     matter, with abnormality extending into the internal and external capsules and
+     superior left temporal lobe white matter.  An ill-defined mass with
+     attenuation like that of grey matter is identified in the left centrum
+     semiovale.  There is a small area of associated hemorrhage.  The left lateral
+     ventricle is flattened.  There is no evidence of midline shift.  The basal
+     cisternal spaces are wide.  Within the right hemisphere there are patchy areas
+     of decreased attenuation, consistent with microvascular ischemia and
+     infarction.
+     
+     The visualized paranasal sinuses and mastoids are clear.
+     
+     IMPRESSION:
+     
+     There is a left hemispheric mass with a small amount of hemorrhage.  This may
+     represent a primary neoplasm or metastasis.  Clinical correlation is
+     recommended.
+     
+
+",,
+8292,1301,10313,0,3443-08-11 06:59:00 EST,3443-08-11 07:50:00 EST,889,"N",1,"Nursing/Other","NSICU Border Nursing Note 1900-700:","
+NSICU Border Nursing Note 1900-700:
+HPI: [**Age over 90 1956**] yo female who presented to BID-[**Location (un) 3623**] with complaints of worsening ""problem with finding words"" per son times one week at home in addition to right-sided motor deficit, ie. ""writing name on paper.""
+Son calling PCP and PCP instructing son to bring patient to hospital. At BID-[**Location (un) 3623**], pt found to be neuroally intact, hypertensive and tachycardic, HR 120s and BPs 200s and given Lopressor 5mg IVP with result. CT Scan showing left fronto-parietal mass, 3cmm in size and adjacent 1cm bleed. INR 2.2 and given 5mg of Vit K and sent to [**Hospital1 22**] ED. 
+
+ED:In ED arrived hypertensive int the 200s and receiving additional dose of Lopressor 5mg IVP and started on Nipride drip. Remained neuroally intact, described as ""pleasant and sweet"" by [**Name8 (MD) **] RN with complaints of being tired. [**Name8 (MD) **] RN also stating ""gets frustrated when can't say what's on her mind."" No CT Scan repeated on admission. Decadron and Dilatin load started. Additional Vit K given of 2.5mg. 4UFFP started and attempted Aline place but unsuccesful. CKMB and Trop sent but negative for cardiac event, in  addition to negative EKG.
+
+S-""I can't!""
+
+MS:Arriving to CCU pleasant, speech somewhat garbled but able to understand, following commands appropriately but much difficulty with finding words, appears to be frustrated and get upset. Later pt unable to state location, name or month.  Becoming increasing agitated post aline insertion, pulling out PIVs and attempting to get out of bed but falling to right side. Puil exam with noted changed from what has been previously documented prior in ED and OSH, left pupil 2mms and sluggish, right pupil 8mm and non-reactive, facial droop noted, right upper extremetie leaning more to one-side, moving right lower extremetie on bed and left side unaffected and remaining with normal strength. Following commands inappropriately but making purposeful movements. Dr. [**Last Name (STitle) 1603**] at bedside and witnessing changes. Haldol ordered and given in increments of 1-3mg totaling 10mg this morning. Pt more sedate and dozing intermitently but when awake will attempt to sit up and needing constant reminding of location and disease process. Call for sitter placed to clinical advisor and will arrive this morning. On call for emergent CT Scan this morning. 
+
+CV:HR 80-100s, Afib with no noted ectopy, SBPs 90-160s, Nipride at .5mcg/kg/min and recently shut off for BP in the 90s now that pt more sedate this morning. BP currently running 90-100s off Nipride gtt. K within normal limits, Ca and Mg repleted this morning. No further doses of Lopressor required of recieved since arrival to unit.
+
+RESP:Breath sounds diminshed throughout. O2Sats 93-95% on RA. 2L placed and sat 99-100%. Denies difficulty breathing. 
+
+GU/GI:Foley placed in [**Hospital1 22**] ED with good result, hourly urine outputs 100cc/hr or greater. Urine clear and yellow in appearance. UA sent in [**Hospital1 22**] ED and (-). With agitation did become nauseas with dry heaves but did not vomit, given 4mg of Zofran given with effect. Abd soft with positive bowels 
+",,
+8292,1301,10313,0,3443-08-11 07:00:00 EST,3443-08-11 07:50:00 EST,889,"N",1,"Nursing/Other","NSICU Border Nursing Note 1900-700:","
+NSICU Border Nursing Note 1900-700:
+(Continued)
+sounds, non-tender to palpation.
+
+ID:Afebrile. WBC stable. No issues.
+
+HEME:HCT and PLTs stable. 4U FFP give without incident. 
+
+SKIN:Left lower extremetie with large contusion post attempted aline placement, area open to air with no hematoma palpated.
+
+SOC: Widowed and lives independently at home. Does own laundry, cooking, and performs all ADLs. Has two sons, one of which, [**Doctor Last Name **] who is health care proxy. Informal family meeting discussed with [**Doctor Last Name **] and [**Doctor Last Name 5602**] wife, who have been very close contact with patient and feel that invasive procedures should not be persued unless the outcome would improve pt's quality of life and are not ready to make any final deciscions until more information was given to them  by neurosurgery attending through futher testing. If invasive procedures should arrive or change in condition please call [**Doctor Last Name **]. Pt remains full code!
+
+A:[**Age over 90 1956**] yo female with no significant PMH who was doing well at home until presenting to hospital with stroke like symptoms. In hospital found to have left fronto-parietal mass with adjacent bleed and now with new neuro changes. Awaiting CT Scan and MRI of head. 
+
+Continue Q1H neuro checks
+Follow PT/INR as needed
+CT/scan and MRI of head with questionable furhter studies to work-up primary site
+Continue to emotionally support
+",,
+8292,1301,10313,0,3443-08-11 15:52:00 EST,3443-08-11 16:28:00 EST,5525,"N",1,"Nursing/Other","Nursing Shift Note","
+Nursing Shift Note
+S: Pt not clearly verbal and not following commands.
+
+O: Neuro- Pt orientation very labile, at present, pt sleeping in bed=> not responsive to verbal commands, withdrew to noxious stimuli, no hand squeeze on command, however will attempt to to sit upright/move in bed at times.  CT and MRI today revealed mass in right frontal/parietal lobe-likely aggressive primary brain CA per Neuro-[**Doctor First Name **].
+
+   Resp: Lungs diminished in all fields, althougg difficult to auscultate d/t poor exam cooperation,  SpO2 on 2LNC 96-97%, 0 SOB noted
+
+   Car- Pt remains in AF-90's 0 ectopy noted.  BP stable-goal sbp 90-140 per NSICU team, Nipride titrated up/down for adequate control-currently off and BP well-controlled w/ zestril/diovan.  A-Line in right radial-sharp wave form noted.
+
+   GI- Pt remains NPO d/t poor ability to protect airway.  NGT placed to administer meds, confirmed by Xray and functional.  Pt BS+ x 4, abd soft NT,ND, 0 BM this shift
+
+   GU- Foley patent and draining pale yellow urine.  Serum Na this AM down to 127-pt started on NS w/ 20 K at 80 cc/hr, repeat Na 135, change to 1/2 ns w/ 20 k , 1st liter up.  good UOP this shift, I+O per flow
+   Skin-  Ecchymotic areas at Bilat wrist area, to ulnar notch at left, to wrist at right r/t attempted  A-Line placement-purple, non-blanching.  B wrist restraints for safety-off at present d/t family present. 
+   Musk-gait not assessed, muscle strength difficult to assess d/t pt not following commands
+
+A:  Pt is [**Age over 90 1956**] y.o. female admitted from [**Hospital1 **]-[**Location (un) **] w/ acute change in MS, and workup of potential CVA, and diagnosis of likely parietal brain tumor.  Son is HCP and does not wish aggressive therapies undertaken however, does wish in the event of resp arrest to have pt intubated to provide pt w/ opportunity to have some brief contact w/ family.  MD's in to explain this to family and in agreement w/ treatment plan.
+
+P:  Continue q1h neuro checks, monitor VS closely and follow for ABP between 90-140, maintain NGT patency, await further plan for further CT's, pt is currently DNR only.
+",,
+8292,1301,10313,0,3443-08-12 05:15:00 EST,3443-08-12 05:49:00 EST,889,"N",1,"Nursing/Other","NSICU Border Nursing Note 1900-0700:","
+NSICU Border Nursing Note 1900-0700:
+S-""I know I'm gettin' good care!""
+
+O-MS:Wax and wanes with neuro exam. Responding to painful and rarely occasional verbal stimuli, sedated on the previous shift for radiological studies. Neuro exam improving as night progress, beginning to speak coherently and make sense, still remaining somewhat confused asking for ""cup of tea"" and ""a doctor."" Nodding appropriately and MAEs to command with good strength and purposeful movement. Later pt returning back to somnolent state and unresponsive at times to deep painful stimuli. Dr. [**First Name (STitle) **] covering resident overnight aware of changes. Restraints removed and less agitated but still attempts to sit up but leans to right-side. Does pick at lines. Sitter at bedside for constant re-orientation. Dilantin level around MN 13. Continues IV Decadron, and PO Dilantin.
+
+CV:Hemodynamically stable of Nipride drip. HR 80-100s, Afib with no noted ectopy. SBP via radial aline, 100-140s. BPs will occasionally trend up into the 150s with restlessness and trend back down on own. 
+Nipride remaining off this shift. 
+
+RESP:Breath sounds coarse in upper airways. Orally suctioned without improvement in secretions. O2Sats 93-95% on 2L and increased to 4L and currently 97-100%. Breathing unlabored and appearing regular.
+
+GU/GI:Foley patent. HUO trending down to 15cc/hr times one hour despite 1/2NS c 20KCL at 80cc/hr. Later trending up on own and not requiring IVF bolus. BUN/Creat stable. Abd soft with (+) BSs and non-tender to palpation. NGT in place and clamped. 
+
+ID:Afebrile. No issues. 
+
+SKIN: Multiple ecchymotic areas on bilateral upper arms from needle sticks. 
+
+ACC: Left PIV infiltrating. Attempted 2nd placement but unsuccesful, Skin very thin and frail. One PIV in place. 
+
+A/P: [**Age over 90 1956**] yo elderly female with primary inoperable brain tumor with adjacent bleed doing fair on current medical management. Remains DNR but if airway is compromised will intubate.
+",,
+8292,1301,10313,0,3443-08-12 17:21:00 EST,3443-08-12 17:45:00 EST,488,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S/O:
+
+NEURO: NEURO VS UNCHANGED WITH IMPROVING ORIENTATION AND ALERTNESS BY EVENING. PT A/OX2 WITH NEGLECT AND SLIGHT WEAKNESS OF THE LEFT SIDE BUT MAE, ABLE TO TAKE A FEW STEPS TO THE CHAIR. PUPILS UNCHANGED, RIGHT 6MM AND FIXED WITH IRREGULAR SHAPE, LEFT 2-3MM AND SLUGGISH. PT STILL HAS DIFFICULTY WITH WORD FINDING AND SPEECH IS SLIGHTLY SLURRED. DILANTIN CONT PO WITH NO EVIDENCE OF SZ ACTIVITY. DEXAMETHASONE CONT Q4H IV. 
+
+CV: TACHY AND HYPERTENSIVE AT TIMES, VERAPAMIL RESTARTED WITHOUT EFFECT SO 5MG IV LOPRESSOR PUSHED WITH HR DEC TO 100'S AF. NO VEA. VALSARTAN AND LISINOPRIL RESTARTED. K WNL.
+
+RESP: LUNGS CLEAR/DIMINISHED WITHOUT COUGH. SATS IN HIGH 90'S ON 2LNP.
+
+ID: AFEB. NO ABX.
+
+GI: ABD SOFT, POS BS. NO STOOL. TF STARTED AND INC TO 20CC/HR. GOAL RATE 60CC/HR, PROMOTE WITH FIBER. FS < 150 SO NO S INSULIN COVERAGE. 
+
+GU: URINE CLEAR, INC OUTPUT IN EVENING. 
+
+SOCIAL: SONS AND DAUGHTER IN LAW IN TODAY. UPDATED ON CONDITION BY RN. TALKING ABOUT REHAB AND PROGNOSIS. PT STILL DNR BUT WILL INTUBATE PER FAMILY.  
+
+A/P: IMPROVING NEURO STATUS. CONT TO FOLLOW Q2H, PT CAN BE CALLED OUT TO FLOOR. CONT WITH DEXAMETHASONE Q4H. RE-ASSESS CARDIAC MEDS AND TITRATE UP IF NEEDED. CONT WITH SITTER FOR SAFETY OVERNIGHT AND REASSESS NEED IN AM. 
+",,
+8292,1301,10313,0,3443-08-12 21:29:00 EST,3443-08-12 21:35:00 EST,478,"N",1,"Nursing/Other","CCU NPN 7P-11P","
+CCU NPN 7P-11P
+S/O: See vs/objective data per care vue.  Afebrile, hr remains elevated in the 100's afib with no vea noted. Bp 130-150's, r radial aline dc'd. Lungs clear throughout, no cough or sputum. o2 at 2lnp with sats in the upper 90's. Foley drng clear yellow urine, has tubed feedings at 20cc/hr with no residuals. Remains alert, able to state her name but unable to state where she is, if given multiple choice will pick that she is in hospital. Has a r arm drift, but if able to look at arm will keep it raised.  Able to raise lower extrems and keep them raised off bed.  Pupils hard to assess. R pupil irreg large and irreg shaped with  no reaction, l pupil very small and unable to determine if reactive or not. Her speech is slightly garbled and has a hard time finding the words that she needs.
+",,

@@ -1,0 +1,1304 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8225,,,,3149-09-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-1**] 8:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5974**]
+     Reason: tube placement?                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with s/p intubation                                             
+     REASON FOR THIS EXAMINATION:
+      tube placement?                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PORTABLE
+     
+     INDICATION:  74-year-old man status post intubation, evaluate for tube
+     placement.
+     
+     CHEST PORTABLE:  There is cardiomegaly.  The mediastinal and hilar contours
+     are unremarkable.  The pulmonary vasculature is normal.  There is a 2.5 cm
+     nodule in the left mid lung zone.  There are no pleural effusions.  An ET tube
+     is identified in satisfactory position 5.0 cm from the carina.
+     
+     IMPRESSION:
+     1.  2.5 cm nodule in the left lung as described above.  This is concerning for
+     primary lung cancer and further evaluation with chest CT is recommended.
+     2.  ET tube in satisfactory position.
+     3.  Cardiomegaly without evidence for CHF.  Findings were discussed with Dr.
+     [**First Name4 (NamePattern1) 1529**] [**Last Name (NamePattern1) 5975**].
+                                                                           
+
+",,
+8225,,,,3149-09-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-1**] 8:55 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5976**]
+     Reason: hemorrhagic stroke vs/ mass?                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with report hemorrhagic stroke from outside hospital            
+     REASON FOR THIS EXAMINATION:
+      hemorrhagic stroke vs/ mass?                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 5977**] [**Doctor First Name 114**] [**3149-9-1**] 9:34 PM
+      intraparenchmal hemorrhage in left frontal lobe; neoplasm seems more likely
+      than stroke, although latter possible; mr could be helpful to discern
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATIONS:  74-year-old man with hemorrhagic stroke reported from outside
+     hospital.
+     
+     COMPARISONS:  None available.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  In the posterior left frontal lobe, there is an ovoid hemorrhage
+     within the parenchyma, with central hypodensity, measuring 2.2 x 2.5 cm in
+     axial dimensions with surrounding vasogenic edema.  In spite of repeating the
+     imaging, motion artifact limits the evaluation to some degree as the patient
+     had difficulty cooperating with the examination.  There is no mass effect,
+     hydrocephalus, or shift of the normally midline structures.  Basal cisterns
+     are not effaced.  There is mucosal thickening in the right maxillary sinus and
+     considerable secretions in the nasal cavity and nasopharynx which can be seen
+     in intubation.
+     
+     IMPRESSION:  Well-defined ovoid intraparenchymal hemorrhage in the left
+     frontal lobe with mild surrounding vasogenic edema.  The appearance is
+     nonspecific, but is probably more concerning for an underlying hemorrhagic
+     neoplastic process, than for a hemorrhagic infarct, given its ovoid and
+     well-defined appearance.
+     
+     NOTE ADDED AT ATTENDING REVIEW: I agree that the surrounding vasogenic edema
+     is worrisome. However, this could be a benign finding if the CT were performed
+     some time (for example 24 hours or longer) after the hemorrhage. If this were
+     the case, then the edema could be a reaction to the hematoma itself, rather
+     than to an underlying neoplasm. If there are prior studies, these would be
+     helpful for comparison. Similarly, [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5978**] that an MR examination would be
+     helpful. If this does not demonstrate a neoplasm, or other cause of the
+     hemorrhage, then serial follow up imaging would be indicated to confirm
+     resolution of the hemorrhage with no evidence of tumor growth.
+
+",,
+8225,9854,10228,,3149-09-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3149-9-2**]              Discharge Date:   [**3149-9-11**]
+ 
+Date of Birth:  [**3075-7-3**]             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Sulfa (Sulfonamides)
+ 
+Attending:[**First Name3 (LF) 3127**] 
+Addendum:
+Called Mr. [**Known patient lastname 11385**] family regarding follow-up in Neurosurgery 
+clinic at [**Last Name (NamePattern1) 462**] Suite 3B 3rd floor on [**3149-9-16**] between 
+10am to 12pm to get your stitches removed.
+ 
+Discharge Disposition:
+Home with Service
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3135**] MD [**MD Number 3136**]
+ 
+Completed by: [**Name6 (MD) 971**] [**Name8 (MD) **] MD [**MD Number 972**] [**3149-9-14**] @ 1158
+Signed electronically by: DR. [**First Name8 (NamePattern2) 3137**] [**Last Name (NamePattern1) **]
+ on: WED [**3149-9-14**] 11:59 AM
+(End of Report)
+
+
+",,
+8225,9854,10228,,3149-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-2**] 3:19 AM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 5979**]
+     Reason: ? massPlease also perform MRA                               
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with ICH, likely udnerlying mass                                
+     REASON FOR THIS EXAMINATION:
+      ? massPlease also perform MRA                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old man with intracranial hemorrhage seen on recent non-
+     contrast head CT.  Please evaluate for underlying mass.
+     
+     COMPARISON:  Non-contrast head CT [**3149-9-1**].
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images were performed before and
+     after the administration of intravenous gadolinium.  Diffusion-weighted
+     imaging was also performed.  3D time-of-flight with multiplanar
+     reconstructions was also performed.
+     
+     MRI BRAIN WITHOUT AND WITH INTRAVENOUS CONTRAST:  Again seen is
+     intraparenchymal hemorrhage within the left temporal lobe which demonstrates
+     surrounding edema, best seen on the axial FLAIR images.  No other foci of
+     hemorrhage are identified.  There is no evidence of midline shift or
+     hydrocephalus.  With the administration of intravenous gadolinium, there is no
+     evidence of enhancing mass lesion in this region, or other regions of the
+     brain.  No abnormal enhancing foci are identified.
+     
+     IMPRESSION:  Left temporal lobe hemorrhage with surrounding vasogenic edema
+     without definite evidence for an underlying mass.  The differential diagnosis
+     for these findings still includes an underlying mass and followup MRI is
+     recommended to exclude this entity. Other differential considerations are a
+     small vascular malformation, or amyloid angiopathy as a cause for this
+     hemorrhage.
+     
+     TECHNIQUE:  3D time-of-flight with multiplanar reformations was performed.
+     
+     MRA BRAIN:  The circle of [**Location (un) 220**] and its major branches are patent.  There is
+     no evidence of hemodynamically significant stenosis or aneurysmal dilatation.
+     The right vertebral artery is dominant.
+     
+     IMPRESSION:  Normal MRA of the brain without evidence for stenosis or
+     aneurysm.
+     
+
+",,
+8225,9854,10228,,3149-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-2**] 3:19 AM
+     MR HEAD W & W/O CONTRAST; MRA BRAIN W/O CONTRAST                Clip # [**Clip Number (Radiology) 5979**]
+     Reason: ? massPlease also perform MRA                               
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with ICH, likely udnerlying mass                                
+     REASON FOR THIS EXAMINATION:
+      ? massPlease also perform MRA                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old man with intracranial hemorrhage seen on recent non-
+     contrast head CT.  Please evaluate for underlying mass.
+     
+     COMPARISON:  Non-contrast head CT [**3149-9-1**].
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images were performed before and
+     after the administration of intravenous gadolinium.  Diffusion-weighted
+     imaging was also performed.  3D time-of-flight with multiplanar
+     reconstructions was also performed.
+     
+     MRI BRAIN WITHOUT AND WITH INTRAVENOUS CONTRAST:  Again seen is
+     intraparenchymal hemorrhage within the left temporal lobe which demonstrates
+     surrounding edema, best seen on the axial FLAIR images.  No other foci of
+     hemorrhage are identified.  There is no evidence of midline shift or
+     hydrocephalus.  With the administration of intravenous gadolinium, there is no
+     evidence of enhancing mass lesion in this region, or other regions of the
+     brain.  No abnormal enhancing foci are identified.
+     
+     IMPRESSION:  Left temporal lobe hemorrhage with surrounding vasogenic edema
+     without definite evidence for an underlying mass.  The differential diagnosis
+     for these findings still includes an underlying mass and followup MRI is
+     recommended to exclude this entity. Other differential considerations are a
+     small vascular malformation, or amyloid angiopathy as a cause for this
+     hemorrhage.
+     
+     TECHNIQUE:  3D time-of-flight with multiplanar reformations was performed.
+     
+     MRA BRAIN:  The circle of [**Location (un) 220**] and its major branches are patent.  There is
+     no evidence of hemodynamically significant stenosis or aneurysmal dilatation.
+     The right vertebral artery is dominant.
+     
+     IMPRESSION:  Normal MRA of the brain without evidence for stenosis or
+     aneurysm.
+     
+
+",,
+8225,9854,10228,,3149-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-2**] 4:45 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 5980**]
+     CT PELVIS W/CONTRAST
+     Reason: ? mass                                                      
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with ICH, likely underlying mass; pulmonary nodule and history 
+      of melanoma
+     REASON FOR THIS EXAMINATION:
+      ? mass                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old man with intracranial hemorrhage, likely underlying
+     mass, pulmonary nodule, and history of melanoma.
+     
+     COMPARISON:  No prior studies are available for comparison.
+     
+     TECHNIQUE:  Multidetector CT scanning of the chest, abdomen and pelvis was
+     performed after the administration of oral and intravenous contrast. 
+     Non-contrast images of the abdomen as well as 3-minute delayed images of the
+     kidneys were obtained.
+     
+     CT OF THE CHEST:  No pathologically enlarged axillary, mediastinal, or hilar
+     lymphadenopathy is identified.  Small axillary and mediastinal nodes are seen.
+     The heart, pericardium, and great vessels appear normal, apart from
+     atherosclerosis of the coronary arteries.  In the left lower lobe, seen on
+     series 3, image 37, is a lobulated 1.6 x 1.7 cm mass.  In addition, there is a
+     nonspecific area of ground-glass opacity in the right upper lobe.  A nodular
+     peripheral opacity measuring 7 mm in the left upper lobe, near the lung apex
+     is also seen.  Small amount of atelectasis is identified in the right lung
+     base.  No pleural effusions are seen.
+     
+     CT OF THE ABDOMEN:  An 8-mm hypodensity in the right lobe of the liver
+     posteriorly is suggestive of a hemangioma.  The liver parenchyma is otherwise
+     normal.  The gallbladder, adrenal glands, spleen, and pancreas appear normal. 
+     The kidneys enhance and excrete contrast symmetrically.  In the inferior pole
+     of the left kidney is a 1.2-cm rounded structure, with an attenuation of 14
+     Hounsfield units on the non-contrast images.  It does not demonstrate
+     enhancement.  No pathologic mesenteric or retroperitoneal lymphadenopathy is
+     identified.  The loops of bowel are normal in caliber without evidence of
+     focal dilation or bowel wall thickening.  The appendix is visualized and is
+     normal.  Scattered sigmoid diverticula are seen without evidence of
+     diverticulitis.  No free fluid is seen in the abdomen.
+     
+     CT OF THE PELVIS:  The prostate is enlarged with a lobulated appearance, more
+     prominent on the right, it measures 7.1 x 5.6 cm in axial dimension.  A Foley
+     catheter is within the bladder lumen, with associated non-dependent air.  No
+     pathologic pelvic or inguinal lymphadenopathy is identified.  No free fluid is
+     seen in the pelvis.
+     
+     OSSEOUS STRUCTURES:  No concerning lytic or sclerotic lesions are identified. 
+                                                                 (Over)
+
+     DATE: [**3149-9-2**] 4:45 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 5980**]
+     CT PELVIS W/CONTRAST
+     Reason: ? mass                                                      
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     No subcutaneous nodules are identified.
+     
+     IMPRESSION:
+     1.  Left lower lobe lung mass.  Smaller nodule in the left upper lobe, and
+     small region of ground-glass opacity in the right upper lobe.
+     2.  8-mm hypodensity in the liver with characteristics suggestive of a
+     hemangioma.
+     3.  Exophytic non-enhancing lesion arising off of the lower pole of the left
+     kidney.
+     4.  Enlarged lobular prostate gland.
+                                                                           
+
+",,
+8225,9854,10228,,3149-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-2**] 4:45 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 5980**]
+     CT PELVIS W/CONTRAST
+     Reason: ? mass                                                      
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with ICH, likely underlying mass; pulmonary nodule and history 
+      of melanoma
+     REASON FOR THIS EXAMINATION:
+      ? mass                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old man with intracranial hemorrhage, likely underlying
+     mass, pulmonary nodule, and history of melanoma.
+     
+     COMPARISON:  No prior studies are available for comparison.
+     
+     TECHNIQUE:  Multidetector CT scanning of the chest, abdomen and pelvis was
+     performed after the administration of oral and intravenous contrast. 
+     Non-contrast images of the abdomen as well as 3-minute delayed images of the
+     kidneys were obtained.
+     
+     CT OF THE CHEST:  No pathologically enlarged axillary, mediastinal, or hilar
+     lymphadenopathy is identified.  Small axillary and mediastinal nodes are seen.
+     The heart, pericardium, and great vessels appear normal, apart from
+     atherosclerosis of the coronary arteries.  In the left lower lobe, seen on
+     series 3, image 37, is a lobulated 1.6 x 1.7 cm mass.  In addition, there is a
+     nonspecific area of ground-glass opacity in the right upper lobe.  A nodular
+     peripheral opacity measuring 7 mm in the left upper lobe, near the lung apex
+     is also seen.  Small amount of atelectasis is identified in the right lung
+     base.  No pleural effusions are seen.
+     
+     CT OF THE ABDOMEN:  An 8-mm hypodensity in the right lobe of the liver
+     posteriorly is suggestive of a hemangioma.  The liver parenchyma is otherwise
+     normal.  The gallbladder, adrenal glands, spleen, and pancreas appear normal. 
+     The kidneys enhance and excrete contrast symmetrically.  In the inferior pole
+     of the left kidney is a 1.2-cm rounded structure, with an attenuation of 14
+     Hounsfield units on the non-contrast images.  It does not demonstrate
+     enhancement.  No pathologic mesenteric or retroperitoneal lymphadenopathy is
+     identified.  The loops of bowel are normal in caliber without evidence of
+     focal dilation or bowel wall thickening.  The appendix is visualized and is
+     normal.  Scattered sigmoid diverticula are seen without evidence of
+     diverticulitis.  No free fluid is seen in the abdomen.
+     
+     CT OF THE PELVIS:  The prostate is enlarged with a lobulated appearance, more
+     prominent on the right, it measures 7.1 x 5.6 cm in axial dimension.  A Foley
+     catheter is within the bladder lumen, with associated non-dependent air.  No
+     pathologic pelvic or inguinal lymphadenopathy is identified.  No free fluid is
+     seen in the pelvis.
+     
+     OSSEOUS STRUCTURES:  No concerning lytic or sclerotic lesions are identified. 
+                                                                 (Over)
+
+     DATE: [**3149-9-2**] 4:45 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 5980**]
+     CT PELVIS W/CONTRAST
+     Reason: ? mass                                                      
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     No subcutaneous nodules are identified.
+     
+     IMPRESSION:
+     1.  Left lower lobe lung mass.  Smaller nodule in the left upper lobe, and
+     small region of ground-glass opacity in the right upper lobe.
+     2.  8-mm hypodensity in the liver with characteristics suggestive of a
+     hemangioma.
+     3.  Exophytic non-enhancing lesion arising off of the lower pole of the left
+     kidney.
+     4.  Enlarged lobular prostate gland.
+                                                                           
+
+",,
+8225,9854,10228,,3149-09-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-2**] 4:45 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 5980**]
+     CT PELVIS W/CONTRAST
+     Reason: ? mass                                                      
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with ICH, likely underlying mass; pulmonary nodule and history 
+      of melanoma
+     REASON FOR THIS EXAMINATION:
+      ? mass                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old man with intracranial hemorrhage, likely underlying
+     mass, pulmonary nodule, and history of melanoma.
+     
+     COMPARISON:  No prior studies are available for comparison.
+     
+     TECHNIQUE:  Multidetector CT scanning of the chest, abdomen and pelvis was
+     performed after the administration of oral and intravenous contrast. 
+     Non-contrast images of the abdomen as well as 3-minute delayed images of the
+     kidneys were obtained.
+     
+     CT OF THE CHEST:  No pathologically enlarged axillary, mediastinal, or hilar
+     lymphadenopathy is identified.  Small axillary and mediastinal nodes are seen.
+     The heart, pericardium, and great vessels appear normal, apart from
+     atherosclerosis of the coronary arteries.  In the left lower lobe, seen on
+     series 3, image 37, is a lobulated 1.6 x 1.7 cm mass.  In addition, there is a
+     nonspecific area of ground-glass opacity in the right upper lobe.  A nodular
+     peripheral opacity measuring 7 mm in the left upper lobe, near the lung apex
+     is also seen.  Small amount of atelectasis is identified in the right lung
+     base.  No pleural effusions are seen.
+     
+     CT OF THE ABDOMEN:  An 8-mm hypodensity in the right lobe of the liver
+     posteriorly is suggestive of a hemangioma.  The liver parenchyma is otherwise
+     normal.  The gallbladder, adrenal glands, spleen, and pancreas appear normal. 
+     The kidneys enhance and excrete contrast symmetrically.  In the inferior pole
+     of the left kidney is a 1.2-cm rounded structure, with an attenuation of 14
+     Hounsfield units on the non-contrast images.  It does not demonstrate
+     enhancement.  No pathologic mesenteric or retroperitoneal lymphadenopathy is
+     identified.  The loops of bowel are normal in caliber without evidence of
+     focal dilation or bowel wall thickening.  The appendix is visualized and is
+     normal.  Scattered sigmoid diverticula are seen without evidence of
+     diverticulitis.  No free fluid is seen in the abdomen.
+     
+     CT OF THE PELVIS:  The prostate is enlarged with a lobulated appearance, more
+     prominent on the right, it measures 7.1 x 5.6 cm in axial dimension.  A Foley
+     catheter is within the bladder lumen, with associated non-dependent air.  No
+     pathologic pelvic or inguinal lymphadenopathy is identified.  No free fluid is
+     seen in the pelvis.
+     
+     OSSEOUS STRUCTURES:  No concerning lytic or sclerotic lesions are identified. 
+                                                                 (Over)
+
+     DATE: [**3149-9-2**] 4:45 PM
+     CT ABD W&W/O C; CT CHEST W/CONTRAST                             Clip # [**Clip Number (Radiology) 5980**]
+     CT PELVIS W/CONTRAST
+     Reason: ? mass                                                      
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     No subcutaneous nodules are identified.
+     
+     IMPRESSION:
+     1.  Left lower lobe lung mass.  Smaller nodule in the left upper lobe, and
+     small region of ground-glass opacity in the right upper lobe.
+     2.  8-mm hypodensity in the liver with characteristics suggestive of a
+     hemangioma.
+     3.  Exophytic non-enhancing lesion arising off of the lower pole of the left
+     kidney.
+     4.  Enlarged lobular prostate gland.
+                                                                           
+
+",,
+8225,9854,10228,0,3149-09-02 03:47:00 EST,3149-09-02 04:14:00 EST,1070,"N",1,"Nursing/Other",,"
+
+PLEASE REFER TO CAREVUE FOR COMPLETE ASSESSMENT AND SPECIFICS:
+PT TRANSFERRED FROM ED AT APPROXIMATELY 2AM, INTUBATED AND ON PROPOFOL GTT. WAKE-UP DONE AND PT GOT VERY AGITATED W/ INC BP, SITIING UP ATTEMPTING TO REACH ETT. PPF TITRATED AND NEO TO BE STARTED DUE TO LABILE BP. PT NOT FOLLOWING COMMANDS, PUPILS 2MM BRISK, POSTURING W/ UE'S WHEN NOXIOUS STIMULI APPLIED, WITHDRAWS W/ LE'S. HEAD MRI AND CT TORSO PENDING. MONITOR VS, LABS, NEURO STATUS. ?CL PLACEMENT FOR ACCESS.
+
+",,
+8225,9854,10228,0,3149-09-02 05:08:00 EST,3149-09-02 05:15:00 EST,894,"N",1,"Nursing/Other",,"
+
+RESP CARE: Pt recieved intubated/on vent settings per carevue. Vt/Fi02  decreased per ABGs. Lungs clear bilat. Sxd thick yellow sputum. No RSBI due to absence of spont RR this am. To MRI this am to evaluate ? head mass.
+",,
+8225,9854,10228,0,3149-09-02 16:40:00 EST,3149-09-02 16:40:00 EST,102,"N",1,"Nursing/Other",,"
+
+resp care
+recieved pt in mri, transported without incident. eventually weaned and extubated, which he has tolerated very well. 
+",,
+8225,9854,10228,0,3149-09-03 03:31:00 EST,3149-09-03 03:35:00 EST,1084,"N",1,"Nursing/Other","Condition Update A:","
+Condition Update A:
+Please refer to careview and remarks for details.
+
+Pt sleeping, easily arousable, oriented to name only. Continues to be aphasic. Following commands, MAEs with normal strength. No seizure activity. Pt denies pain. Pt auto diuressing. Pt tolerated a dinner of Chinese food sitting at a 90 degree angle. Pt unable to do IS so deep breathing excercises done. LS CTA. Labs pending.
+
+PLAN: Transfer to floor when bed available. Follow labs. Neuro exam per orders. Provide support to pt and family. 
+",,
+8225,9854,10228,0,3149-09-03 16:34:00 EST,3149-09-03 16:49:00 EST,420,"N",1,"Nursing/Other","npn","
+npn
+Neuro- pt mae and able to ambulate up to chair, cont confused/aphasic. pearl. dilantin changed to po - no seizure activity noted. waiting for [**Hospital Ward Name **] 5 bed. (see neuro flow sheet for full eval).
+
+Pt on room air- lungs clear bilat. tol house diet. family in most of day. neuro md (attending) spoke with pts wife this am- (wife is health care proxy) pts son that is a P.A. in [**Doctor First Name 487**] expressing frustration this am and demanding to speak with md [**First Name (Titles) **] [**Last Name (Titles) **] and neuro medicine md for updates on pts condition. [**Name8 (MD) **] md's spoke with son this am. Son observed to be writing down ? pager #'s or names from pt assignment board. Nsg supervisor aware. No other issues with remaining family members.(all remaining members have been quite [**Last Name (un) **]).  
+",,
+8225,9854,10228,0,3149-09-04 04:48:00 EST,3149-09-04 05:00:00 EST,626,"N",1,"Nursing/Other","focus hemodynmics","
+focus hemodynmics
+data: neuro: confused but very pleasant. laughing. unable to answer questions correctly. moves all extremities on the bed. pupils #2 bilaterally and reacts briskly. no complaints of headaches. dexamethasone iv given as ordered. 
+
+resp: breath sounds clear. on room air and sats 98, no difficulty with breathing. 
+
+cardiac: remains in nsr. 
+
+gI abd soft and passing flatus. no stool. taking pos ok. 
+
+
+action: bedrest tonite. neuro signs q1hr. family updated regarding condition. pt is confused but  pleasant. pt will go the regular floor today. 
+
+respnse: monitor closely. 
+",,
+8225,9854,,,3149-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-6**] 11:13 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5986**]
+     Reason: eval PTX                                                    
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         74 year old man with s/p CT guided bx then afternoon w/PTX                   
+                                
+     REASON FOR THIS EXAMINATION:
+      eval PTX                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lung nodule, status post biopsy.
+     
+     COMPARISONS:  Comparison is made to [**3149-9-6**].
+     
+     FINDINGS:  Heart size is normal.  NG tube tip extending below the limits of
+     the radiograph in the stomach.  Left IJ central line with the tip in the lower
+     SVC.  Pulmonary vasculature is normal without evidence of CHF.  There is again
+     noted a left lower lobe lung nodule.  There is deep sulcus sign consistent
+     with a moderate-sized pneumothorax.
+     
+     IMPRESSION:  Moderate-sized pneumothorax, status post biopsy of lung nodule.
+                                                                           
+
+",,
+8225,9854,,,3149-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-6**] 2:05 PM
+     CHEST (SINGLE VIEW); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5983**]
+     Reason: r/o ptx post lung bx.  Please perform at 2pm.
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with left lower lobe pulmonary nodule, hx melanoma.  Post lung
+      bx.
+     REASON FOR THIS EXAMINATION:
+      r/o ptx post lung bx.  Please perform at 2pm.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE PORTABLE AP CHEST RADIOGRAPH
+     
+     INDICATION:  74-year-old male with left lower lobe pulmonary nodule and
+     history of melanoma, evaluate pneumothorax.
+     
+     COMPARISON:  Single portable AP chest radiograph from three hours prior.
+     
+     FINDINGS:  Left apical pneumothorax unchanged in size and appearance.  Left
+     middle lung field pulmonary nodule again visualized and unchanged. 
+     Cardiomediastinal silhouette is stable in appearance.  No pleural effusions or
+     right pneumothorax identified.  The lungs are otherwise clear.
+     
+     IMPRESSION:  Stable left apical pneumothorax.
+                                                                           
+
+",,
+8225,9854,,,3149-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-6**] 9:00 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5985**]
+     Reason: chest pain acute ? interval change                          
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old man with s/p CT guided bx then afternoon w/PTX                     
+                            
+     REASON FOR THIS EXAMINATION:
+      chest pain acute ? interval change                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  PTX post-CT guided biopsy.
+     
+     AP BEDSIDE SUPINE CHEST RADIOGRAPH.  Since examination five hours earlier on
+     same day, the right PTX has considerably diminished in size.  There is
+     interval placement of satisfactorily positioned ET and NG tubes.  Again noted
+     is the almost 2 cm lung mass overlying left lower thorax.  Right lung clear
+     and no vascular congestion, consolidations, or demonstrable effusions.
+     
+     IMPRESSION:  Short interval diminution left PTX.
+                                                                           
+
+",,
+8225,9854,,,3149-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-6**] 9:00 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5985**]
+     Reason: chest pain acute ? interval change                          
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       74 year old man with s/p CT guided bx then afternoon w/PTX                     
+                            
+     REASON FOR THIS EXAMINATION:
+      chest pain acute ? interval change                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  PTX post-CT guided biopsy.
+     
+     AP BEDSIDE SUPINE CHEST RADIOGRAPH.  Since examination five hours earlier on
+     same day, the right PTX has considerably diminished in size.  There is
+     interval placement of satisfactorily positioned ET and NG tubes.  Again noted
+     is the almost 2 cm lung mass overlying left lower thorax.  Right lung clear
+     and no vascular congestion, consolidations, or demonstrable effusions.
+     
+     IMPRESSION:  Short interval diminution left PTX.
+                                                                           
+
+",,
+8225,9854,,,3149-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-6**] 2:05 PM
+     CHEST (SINGLE VIEW); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5983**]
+     Reason: r/o ptx post lung bx.  Please perform at 2pm.
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with left lower lobe pulmonary nodule, hx melanoma.  Post lung
+      bx.
+     REASON FOR THIS EXAMINATION:
+      r/o ptx post lung bx.  Please perform at 2pm.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SINGLE PORTABLE AP CHEST RADIOGRAPH
+     
+     INDICATION:  74-year-old male with left lower lobe pulmonary nodule and
+     history of melanoma, evaluate pneumothorax.
+     
+     COMPARISON:  Single portable AP chest radiograph from three hours prior.
+     
+     FINDINGS:  Left apical pneumothorax unchanged in size and appearance.  Left
+     middle lung field pulmonary nodule again visualized and unchanged. 
+     Cardiomediastinal silhouette is stable in appearance.  No pleural effusions or
+     right pneumothorax identified.  The lungs are otherwise clear.
+     
+     IMPRESSION:  Stable left apical pneumothorax.
+                                                                           
+
+",,
+8225,9854,,,3149-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-6**] 11:23 AM
+     CHEST (SINGLE VIEW); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 5982**]
+     Reason: r/o ptx post lung bx
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with left lower lobe pulmonary nodule, hx melanoma.  Post lung
+      bx.
+     REASON FOR THIS EXAMINATION:
+      r/o ptx post lung bx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Single portable AP chest radiograph.
+     
+     COMPARISON:  [**3149-9-1**], single portable AP chest radiograph.
+     
+     FINDINGS:  Cardiomediastinal silhouette is normal in appearance.  A
+     mild-to-moderate left apical pneumothorax is identified.  Density identified
+     within the left middle lung field corresponding to biopsied mass of known
+     metastatic disease.  No pleural effusions or right-sided pneumothorax
+     identified.  Lungs are otherwise clear.  The hilar structures are normal.
+     
+     IMPRESSION:  Left apical mild-to-moderate pneumothorax.  Left middle lung
+     field opacity approximately 2 cm in greatest diameter corresponding to the
+     patient's known metastatic lesion.
+                                                                           
+
+",,
+8225,9854,,,3149-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-6**] 9:12 AM
+     CT FINE NEEDLE ASP; CT GUIDED NEEDLE PLACTMENT                  Clip # [**Clip Number (Radiology) 5981**]44 MOD SEDATION, FIRST 30 MIN.
+     Reason: ? primary versus metastatic -please biopsy Left lower lung n
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man h/o melanoma p/w L frontotemporal mass and left lower lung 
+      nodule. 
+     REASON FOR THIS EXAMINATION:
+      ? primary versus metastatic -please biopsy Left lower lung nodule               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  CT-guided lung biopsy.  [**3149-9-6**].
+     
+     CLINICAL HISTORY:  74-year-old man with a history of melanoma, presenting with
+     left frontotemporal mass and left lower lobe nodule.  ? primary versus
+     metastatic.  Please biopsy left lower lobe nodule.
+     
+     PROCEDURE:  After the procedure was explained to the patient and to the
+     patient's son, informed consent was obtained from the patient and from his
+     son.  A timeout was performed to ensure accuracy.
+     
+     Preprocedure CT scan again revealed a 1.6 x 1.6 cm well-demarcated mass in the
+     left lower lobe.  The patient was placed in the prone position, and an optimal
+     entry site was identified at the left lower posterior chest via a lower
+     intercostal approach.  The area was cleansed and draped in the usual sterile
+     fashion.  Lidocaine 1% was administered locally down to the level of the
+     pleura.  Under CT guidance, a 19-French introducer was inserted with proper
+     positioning in the mass, confirmed by CT.  A 20-gauge Franseen needle was
+     subsequently inserted via the introducer and fine needle aspiration was
+     performed.  The specimen was handed to the on-site cytopathologist.  A second
+     aspiration was performed and handed to the cytopathologist who deemed the
+     specimen adequate.
+     
+     The patient tolerated the procedure well.  A small left pneumothorax was
+     identified.  Chest radiograph to be obtained immediately after the procedure
+     and subsequently to monitor status of small pneumothorax.
+     
+     Staff radiologist, Dr. [**Last Name (STitle) 1533**], was present during the procedure.
+     
+     Conscious sedation was provided, utilizing divided doses of 1 mg of Versed and
+     50 mcg of fentanyl, during an intraservice time of 35 minutes, during which
+     time the patient's hemodynamic parameters were continuously monitored.
+     
+     IMPRESSION:
+     1.  CT guided fine needle aspiration of left lower lobe lung mass.
+     2.  Small post-procedural left pneumothorax.
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3149-9-6**] 9:12 AM
+     CT FINE NEEDLE ASP; CT GUIDED NEEDLE PLACTMENT                  Clip # [**Clip Number (Radiology) 5981**]44 MOD SEDATION, FIRST 30 MIN.
+     Reason: ? primary versus metastatic -please biopsy Left lower lung n
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+8225,9854,,,3149-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-6**] 9:12 AM
+     CT FINE NEEDLE ASP; CT GUIDED NEEDLE PLACTMENT                  Clip # [**Clip Number (Radiology) 5981**]44 MOD SEDATION, FIRST 30 MIN.
+     Reason: ? primary versus metastatic -please biopsy Left lower lung n
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man h/o melanoma p/w L frontotemporal mass and left lower lung 
+      nodule. 
+     REASON FOR THIS EXAMINATION:
+      ? primary versus metastatic -please biopsy Left lower lung nodule               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  CT-guided lung biopsy.  [**3149-9-6**].
+     
+     CLINICAL HISTORY:  74-year-old man with a history of melanoma, presenting with
+     left frontotemporal mass and left lower lobe nodule.  ? primary versus
+     metastatic.  Please biopsy left lower lobe nodule.
+     
+     PROCEDURE:  After the procedure was explained to the patient and to the
+     patient's son, informed consent was obtained from the patient and from his
+     son.  A timeout was performed to ensure accuracy.
+     
+     Preprocedure CT scan again revealed a 1.6 x 1.6 cm well-demarcated mass in the
+     left lower lobe.  The patient was placed in the prone position, and an optimal
+     entry site was identified at the left lower posterior chest via a lower
+     intercostal approach.  The area was cleansed and draped in the usual sterile
+     fashion.  Lidocaine 1% was administered locally down to the level of the
+     pleura.  Under CT guidance, a 19-French introducer was inserted with proper
+     positioning in the mass, confirmed by CT.  A 20-gauge Franseen needle was
+     subsequently inserted via the introducer and fine needle aspiration was
+     performed.  The specimen was handed to the on-site cytopathologist.  A second
+     aspiration was performed and handed to the cytopathologist who deemed the
+     specimen adequate.
+     
+     The patient tolerated the procedure well.  A small left pneumothorax was
+     identified.  Chest radiograph to be obtained immediately after the procedure
+     and subsequently to monitor status of small pneumothorax.
+     
+     Staff radiologist, Dr. [**Last Name (STitle) 1533**], was present during the procedure.
+     
+     Conscious sedation was provided, utilizing divided doses of 1 mg of Versed and
+     50 mcg of fentanyl, during an intraservice time of 35 minutes, during which
+     time the patient's hemodynamic parameters were continuously monitored.
+     
+     IMPRESSION:
+     1.  CT guided fine needle aspiration of left lower lobe lung mass.
+     2.  Small post-procedural left pneumothorax.
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3149-9-6**] 9:12 AM
+     CT FINE NEEDLE ASP; CT GUIDED NEEDLE PLACTMENT                  Clip # [**Clip Number (Radiology) 5981**]44 MOD SEDATION, FIRST 30 MIN.
+     Reason: ? primary versus metastatic -please biopsy Left lower lung n
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+8225,9854,,,3149-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-6**] 9:12 AM
+     CT FINE NEEDLE ASP; CT GUIDED NEEDLE PLACTMENT                  Clip # [**Clip Number (Radiology) 5981**]44 MOD SEDATION, FIRST 30 MIN.
+     Reason: ? primary versus metastatic -please biopsy Left lower lung n
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man h/o melanoma p/w L frontotemporal mass and left lower lung 
+      nodule. 
+     REASON FOR THIS EXAMINATION:
+      ? primary versus metastatic -please biopsy Left lower lung nodule               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  CT-guided lung biopsy.  [**3149-9-6**].
+     
+     CLINICAL HISTORY:  74-year-old man with a history of melanoma, presenting with
+     left frontotemporal mass and left lower lobe nodule.  ? primary versus
+     metastatic.  Please biopsy left lower lobe nodule.
+     
+     PROCEDURE:  After the procedure was explained to the patient and to the
+     patient's son, informed consent was obtained from the patient and from his
+     son.  A timeout was performed to ensure accuracy.
+     
+     Preprocedure CT scan again revealed a 1.6 x 1.6 cm well-demarcated mass in the
+     left lower lobe.  The patient was placed in the prone position, and an optimal
+     entry site was identified at the left lower posterior chest via a lower
+     intercostal approach.  The area was cleansed and draped in the usual sterile
+     fashion.  Lidocaine 1% was administered locally down to the level of the
+     pleura.  Under CT guidance, a 19-French introducer was inserted with proper
+     positioning in the mass, confirmed by CT.  A 20-gauge Franseen needle was
+     subsequently inserted via the introducer and fine needle aspiration was
+     performed.  The specimen was handed to the on-site cytopathologist.  A second
+     aspiration was performed and handed to the cytopathologist who deemed the
+     specimen adequate.
+     
+     The patient tolerated the procedure well.  A small left pneumothorax was
+     identified.  Chest radiograph to be obtained immediately after the procedure
+     and subsequently to monitor status of small pneumothorax.
+     
+     Staff radiologist, Dr. [**Last Name (STitle) 1533**], was present during the procedure.
+     
+     Conscious sedation was provided, utilizing divided doses of 1 mg of Versed and
+     50 mcg of fentanyl, during an intraservice time of 35 minutes, during which
+     time the patient's hemodynamic parameters were continuously monitored.
+     
+     IMPRESSION:
+     1.  CT guided fine needle aspiration of left lower lobe lung mass.
+     2.  Small post-procedural left pneumothorax.
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3149-9-6**] 9:12 AM
+     CT FINE NEEDLE ASP; CT GUIDED NEEDLE PLACTMENT                  Clip # [**Clip Number (Radiology) 5981**]44 MOD SEDATION, FIRST 30 MIN.
+     Reason: ? primary versus metastatic -please biopsy Left lower lung n
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+8225,9854,,,3149-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-6**] 5:21 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5984**]
+     Reason: Need to see if PTX is stable.                               
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man s/p lung biopsy with a PTX                                      
+     REASON FOR THIS EXAMINATION:
+      Need to see if PTX is stable.                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old male status post lung biopsy.  Followup pneumothorax.
+     
+     TECHNIQUE:  PA and lateral views of the chest.
+     
+     FINDINGS:  The heart is of normal size.  Mediastinal and hilar contours are
+     within normal limits.  There is again noted a left lower lobe lung nodule,
+     which was biopsied and a moderate left apical pneumothorax which is unchanged
+     when compared to prior study.
+     
+     IMPRESSION:  Unchanged pneumothoraces status post biopsy of lung mass.
+                                                                           
+
+",,
+8225,9854,,,3149-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-6**] 11:23 AM
+     CHEST (SINGLE VIEW); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 5982**]
+     Reason: r/o ptx post lung bx
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with left lower lobe pulmonary nodule, hx melanoma.  Post lung
+      bx.
+     REASON FOR THIS EXAMINATION:
+      r/o ptx post lung bx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Single portable AP chest radiograph.
+     
+     COMPARISON:  [**3149-9-1**], single portable AP chest radiograph.
+     
+     FINDINGS:  Cardiomediastinal silhouette is normal in appearance.  A
+     mild-to-moderate left apical pneumothorax is identified.  Density identified
+     within the left middle lung field corresponding to biopsied mass of known
+     metastatic disease.  No pleural effusions or right-sided pneumothorax
+     identified.  Lungs are otherwise clear.  The hilar structures are normal.
+     
+     IMPRESSION:  Left apical mild-to-moderate pneumothorax.  Left middle lung
+     field opacity approximately 2 cm in greatest diameter corresponding to the
+     patient's known metastatic lesion.
+                                                                           
+
+",,
+8225,9854,,,3149-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-6**] 11:13 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5986**]
+     Reason: eval PTX                                                    
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         74 year old man with s/p CT guided bx then afternoon w/PTX                   
+                                
+     REASON FOR THIS EXAMINATION:
+      eval PTX                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lung nodule, status post biopsy.
+     
+     COMPARISONS:  Comparison is made to [**3149-9-6**].
+     
+     FINDINGS:  Heart size is normal.  NG tube tip extending below the limits of
+     the radiograph in the stomach.  Left IJ central line with the tip in the lower
+     SVC.  Pulmonary vasculature is normal without evidence of CHF.  There is again
+     noted a left lower lobe lung nodule.  There is deep sulcus sign consistent
+     with a moderate-sized pneumothorax.
+     
+     IMPRESSION:  Moderate-sized pneumothorax, status post biopsy of lung nodule.
+                                                                           
+
+",,
+8225,9854,10229,,3149-09-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-7**] 5:22 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5989**]
+     Reason: r/o pneumothorax                                            
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           74 year old man with s/p CT guided bx c/b PTX                              
+     REASON FOR THIS EXAMINATION:
+      r/o pneumothorax                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old man status post CT-guided biopsy complicated by
+     pneumothorax.
+     
+     COMPARISON:  Comparison is made to study performed eight hours earlier.
+     
+     AP CHEST:  Left-sided central line again seen with tip overlying the SVC. 
+     Cardiac and mediastinal contours appear stable.  Again seen is a left-sided
+     pneumothorax, slightly decreased in size compared to prior study.  Left lower
+     lung nodule again identified.
+     
+     IMPRESSION:  Slight decrease in size of moderate sized left pneumothorax. 
+     Otherwise little change from prior study.
+                                                                           
+
+",,
+8225,9854,10229,,3149-09-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-7**] 5:22 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5989**]
+     Reason: r/o pneumothorax                                            
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           74 year old man with s/p CT guided bx c/b PTX                              
+     REASON FOR THIS EXAMINATION:
+      r/o pneumothorax                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old man status post CT-guided biopsy complicated by
+     pneumothorax.
+     
+     COMPARISON:  Comparison is made to study performed eight hours earlier.
+     
+     AP CHEST:  Left-sided central line again seen with tip overlying the SVC. 
+     Cardiac and mediastinal contours appear stable.  Again seen is a left-sided
+     pneumothorax, slightly decreased in size compared to prior study.  Left lower
+     lung nodule again identified.
+     
+     IMPRESSION:  Slight decrease in size of moderate sized left pneumothorax. 
+     Otherwise little change from prior study.
+                                                                           
+
+",,
+8225,9854,10229,,3149-09-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-7**] 9:29 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5988**]
+     Reason: Monitor pneumothorax                                        
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          74 year old man with s/p CT guided bx then afternoon w/PTX                  
+                                  
+     REASON FOR THIS EXAMINATION:
+      Monitor pneumothorax                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pneumothorax.
+     
+     COMPARISONS:  Comparison is made to [**3149-9-6**].
+     
+     TECHNIQUE:  AP upright single view of the chest.
+     
+     FINDINGS:  There is a moderate left-sided pneumothorax which remains
+     unchanged.  The left lower lobe lung nodule is also unchanged.  The heart and
+     mediastinum are within normal limits and unchanged.
+     
+     IMPRESSION:  Unchanged moderate left pneumothorax, status post lung biopsy.
+                                                                           
+
+",,
+8225,9854,10229,,3149-09-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-7**] 12:27 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5987**]
+     Reason: interval change                                             
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with frontotemporal mass s/p CT guided lung biopsy.             
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old with frontotemporal mass status post CT-guided lung
+     biopsy.  Evaluate for interval change.
+     
+     TECHNIQUE: Non-contrast head CT scan.
+     COMPARISON STUDY: [**3149-9-1**] non-contrast head CT scan.
+     
+     FINDINGS: There remains an ovoid left mid-temporal focus of hemorrhage with
+     significant surrounding vasogenic edema, unchanged in size and appearance from
+     the prior CT of [**3149-9-1**].  As stated in the prior MRI report, an underlying
+     neoplasm remains a possibility.  No other foci of intra- or extra- axial
+     hemorrhage are identified.  Though limited, on the non-contrast study, no
+     focal mass effect or shift of normally midline structures is seen.  The [**Doctor Last Name 30**]-
+     white matter differentiation is preserved.  The ventricles, sulci, and
+     cisterns are unremarkable.  Mild right maxillary mucosal thickening is seen.
+     No focal osseous abnormality is noted.
+     
+     IMPRESSION:  No interval change is seen.  Differential diagnosis remains as
+     given in the MR brain report of [**3149-9-2**].  No new foci of hemorrhage
+     appreciated.
+     
+     ADDENDUM: A 4mm osteoma arises from the outer table of the left parietal bone,
+     at the vertex.
+
+",,
+8225,9854,10229,0,3149-09-07 03:37:00 EST,3149-09-07 03:50:00 EST,7431,"N",53,"Nursing/Other","Focus Condition Update","
+Focus Condition Update
+See flowsheet for specific info
+
+Neuro: Pt sedated on Propofol, agitated and combative at times, attempting to sit up and pulling on restraints.  Opens eyes to pain, pupils pinpoint, equal.  Not following commands.  Pt to CT, no new bleeding noted.  Extra Dilantin dose given.
+
+CV: Pressure low at times to 80's systolic.  NSR with rare PVC.  K+ repleted.  SBP 85-180, HR 80-120's.
+
+Resp: Intubated on [**Hospital Ward Name 3**] 5.  CMV, 5 peep, 40%.  lots of oral secretions.  Sux'd for moderate amount of thick clear secretions.
+
+GI: NPO, abd soft, BS+, BM upon arrival to unit, formed brown stool.
+
+GU: Foley placed upon arrival to unit, patent, UO WNL. 
+
+Endo: RISS
+
+Plan: Q 1hr neuro checks
+      Titrate Propofol to sedation.
+      Monitor resp status.
+      
+",,
+8225,9854,10229,0,3149-09-07 03:46:00 EST,3149-09-07 03:52:00 EST,4038,"N",53,"Nursing/Other",,"
+
+Resp: Rec'd pt intubated with ett #7.5 taped @ 22 lip transferred from [**Hospital Ward Name 3**] 5. Place on a/c 14/500/100%/5+. Alarms on and functioning. Ambu/syringe @ hob. BS are clear with some coarsness which clear following suctioning. Suctioned for small amounts of tan secretions which improved to white towards end of shift. Following Xray ett needed to be withdrawn to 19 @ lip due to position near carina. 02 sats @ 100%. Trip to CT results in some improvement from prior CT performed. AM ABG 7.42/37/226/25. Vent changes to decrease fio2 to 50, then 40%. No further changes noted.  
+",,
+8225,9854,10229,,3149-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-8**] 8:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5990**]
+     Reason: r/o ptx                                                     
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            74 year old man with s/p CT guided bx c/b PTX                             
+       
+     REASON FOR THIS EXAMINATION:
+      r/o ptx                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Followup of left-sided pneumothorax.
+     
+     Portable AP chest radiograph compared to [**3149-9-7**].
+     
+     Slight _____ in the size of moderate left pneumothorax now being of
+     mild-to-moderate size.  The position of the left central jugular line is
+     unchanged, standard.
+     
+     No evidence of active cardiopulmonary process.
+                                                                           
+
+",,
+8225,9854,10229,,3149-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-8**] 11:44 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5992**]
+     Reason: r/o bleeding                                                
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man s/p steriotactic biopsy                                         
+     REASON FOR THIS EXAMINATION:
+      r/o bleeding                                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post stereotactic biopsy.
+     
+     COMPARISONS:  Head CT of [**3149-9-8**].
+     TECHNIQUE:  Axial MDCT images through the brain without IV contrast.
+     
+     FINDINGS:  Patient is status post stereotactic biopsy, with corresponding
+     focal calvarial defect.  Small amount of postoperative changes extracranially,
+     without evidence of significant post-biopsy intracranial hemorrhage.  Stable
+     appearance of the large hemorrhagic focus in the left temporal lobe with
+     prominent surrounding vasogenic edema, also unchanged.  No other foci of
+     intra- or extra-axial hemorrhage are identified.  No other short interval
+     change.
+     
+     IMPRESSION:  Expected post-biopsy changes without significant new intracranial
+     hemorrhage.  Stable appearance of the large left temporal hemorrhagic focus
+     and surrounding edema.
+
+",,
+8225,9854,10229,,3149-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3149-9-8**] 5:55 PM
+     CT STEREOTAXIS W/ CONTRAST                                      Clip # [**Clip Number (Radiology) 5991**]
+     Reason: please perform CT for localization                          
+     Admitting Diagnosis: INTRACRANIAL HEMORRHAGE
+      Contrast: OPTIRAY Amt: 85
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with frame for stereotactic biopsy                              
+     REASON FOR THIS EXAMINATION:
+      please perform CT for localization                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT HEAD
+     
+     INDICATION:  Planning for stereotactic biopsy.
+     
+     TECHNIQUE:  CT scan of the head was performed with a stereotactic frame in
+     place using intravenous contrast.
+     
+     FINDINGS:  A rounded hemorrhage is again identified in the left temporal lobe
+     as described previously.  This hemorrhage has not significantly changed,
+     though the degree of surrounding edema appears slightly increased allowing for
+     differences in technique.  No new lesions are identified.  The appearance of
+     the brain parenchyma is unchanged.  Incidental note is made that the left
+     frontal pin of the stereotactic frame appears to traverse through the inner
+     table of the skull.  No other changes are seen in the short interval.
+                                                                           
+
+",,
+8225,9854,10229,0,3149-09-08 04:18:00 EST,3149-09-08 04:29:00 EST,6910,"N",53,"Nursing/Other","condition update","
+condition update
+neuro: alert and oriented x's 3,  will intermittantly have significant receptive aphasia, i.e. answering ""I feel fine, thank [**Doctor First Name **]"" when asked if he likes baseball.  Moves all extremities to command with equal and normal strength.  Denies pain. Pupils are equal and reactive. Neuro checks q 4 hrs.  No seizure activy, dilantin/kepra continue.  Brain mass biopsy today. 
+cv: nsr 60's without ectopy.  sbp within goal of 100-140.  K+ and Mag+ repleted. 
+resp: ls clear/diminished. 02 removed this am, sat remains 98% on room air. 
+gi: npo after midnight for biopsy. abd. soft, nontender, no bm overnight, +bs. 
+gu: foley draining adquate amts. clear yellow urine. 
+endo: no ssri coverage necessary
+ID: afebrile.
+plan: or today for biopsy, emotional support, neuro checks q 4 hrs, transfer to floor when bed available.  
+
+",,
+8225,9854,10229,0,3149-09-08 15:42:00 EST,3149-09-08 15:47:00 EST,5694,"N",53,"Nursing/Other",,"
+
+Please See Carevue for Specifics.
+
+A+OX3, MAE, follows commands, speech is clear, no pronator drift, denies HA, blurry vision, or double vision.  +gag, +cough.  pt is NPO for brain biopsy which is scheduled as an add on case for [**3149-9-8**].  Pt is anxious for exam, 0.5mg Ativan adm IV with good effect, pt was able to state relief.
+
+POC:  Pt to have halo and intubated in SICUa prior to brain biopsy in OR.  Monitor hemodynamics and neuro status closely.  Family aware of plan, pt aware of plan.  Continue to offer emotional support to pt and family.
+",,
+8225,9854,10229,0,3149-09-08 17:41:00 EST,3149-09-08 17:43:00 EST,7975,"N",53,"Nursing/Other",,"
+
+Respiratory Care: Pt intubated for biopsy of the brain. ETT 7.5, 22@lip. Pt on AC settings. Plan is to wean of vent as tolerated after procedure for extubation.
+",,
+8225,,,,3149-09-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 5993**]
+     Reason: NON SMALL CELL LUNG CA, INITIAL STAGING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     RADIOPHARMECEUTICAL DATA:
+        21.8 mCi F-18 FDG ([**3149-9-17**]);
+     INDICATION: 74 year old man with left lung nodule, presenting for staging.  
+     History of melanoma. 
+      
+     METHODS: Approximately 1 hour after intravenous administration of F-18
+     fluorodeoxyglucose (FDG), noncontrast CT images were obtained for attenuation
+     correction and for fusion with emission PET images. [The noncontrast CT images
+     are not used to diagnose disease independently of the PET images.]  A series of
+     overlapping emission PET images was then obtained. The fasting blood glucose
+     level, measured by glucometer before injection of FDG, was 107 mg/dL. The area
+     imaged spanned the region from the skull base to the mid thighs. 
+      
+     Computed tomography (CT) images were co-registered and fused with emission PET
+     images to assist with the anatomic localization of tracer uptake.  The
+     determination of the site of tracer uptake seen on PET data can have important
+     implications regarding the significance of that uptake. 
+      
+     INTERPRETATION:  There is no prior PET-CT available for comparison. The known
+     left temporal mass was not in the field of view. 
+      
+     There is focal abnormal uptake of FDG in known left lower lobe nodule (SUVmax
+     11.3).  This lobulated nodule measures approximately 16 x 17 mm and is similar
+     in appearance to the recent diagnostic CT dated [**3149-9-2**].  There is no abnormal
+     FDG uptake in the biapical scarring. There is no focal abnormal FDG uptake in
+     the mediastinum.  
+      
+     In the abdomen, no focal abnormal FDG uptake is seen. In the left pelvis, there
+     is a small focus of increased FDG uptake (SUVmax 4.1) that appears to localize
+     to an approximately 6 mm nodule located in the mesenteric fat. 
+      
+     In the left upper thigh, there is an FDG-avid soft tissue nodule (SUVmax 15.8). 
+     It measures approximately 19 x 15 mm and is located posterior to the femur and
+     between the adductor magnus and gluteus maximus muscles. 
+      
+     Physiologic activity is seen in the brain, gastrointestinal tract and urinary
+     tract. 
+      
+     IMPRESSION: FDG-avid soft tissue nodules in the left lower lobe, left posterior
+     thigh and left pelvis.  No FDG-avid mediastinal adenopathy.  Given the patient's
+     past medical history and the distribution of these lesions, favor metastatic
+     melanoma over primary lung cancer. 
+                                                                           
+                                                                 (Over)
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 5993**]
+     Reason: NON SMALL CELL LUNG CA, INITIAL STAGING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+             [**First Name8 (NamePattern2) 580**] [**Last Name (NamePattern1) 581**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 545**] [**Last Name (NamePattern1) 546**], M.D.     Approved: WED [**3149-9-21**] 4:26 PM
+
+
+             Date Mailed: [**3149-9-22**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,

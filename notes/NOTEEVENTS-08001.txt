@@ -1,0 +1,303 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8001,,,,2789-01-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2789-1-14**] 10:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3706**]
+     Reason: intubated pt                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with ich                                                      
+     REASON FOR THIS EXAMINATION:
+      intubated pt                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intracranial hemorrhage, intubated.
+     
+     There are no prior studies for comparison.
+     
+     AP SUPINE OF THE CHEST:  There is an endotracheal tube present with the tip
+     terminating approximately 3.5 cm above the carina.   There is also an NG tube
+     present with the tip at the level of the GE junction with note of the sideport
+     in the distal esophagus.  This should be advanced further.  The heart and
+     mediastinal contours are within normal limits.  There are linear atelectatic
+     changes in the left mid lung zone.  There are no pleural effusions. The
+     osseous structures demonstrate minor degenerative changes.
+     
+     IMPRESSION:
+     1.  Satisfactory placement of endotracheal tube.
+     2.  NG tube should be advanced further to the stomach.
+     3.  Linear atelectatic changes.
+
+",,
+8001,5880,,,2789-01-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**2789-1-14**]        Discharge Date: [**2789-1-16**]
+
+Date of Birth:                    Sex:  F
+
+Service:
+
+
+HISTORY OF PRESENT ILLNESS:  [**Known patient firstname 2145**] [**Known patient lastname 11015**] is a 40-year old
+female with a past medical history of AFib, rheumatoid
+arthritis, anemia, CHF, and coronary artery disease who
+presents from an outside hospital with an intraventricular
+bleed. The patient's husband found his wife, who had been
+left at home alone briefly, on the toilet slumped over the
+right leaning her head against the wall. The patient was able
+to answer questions, but was slightly confused and unable to
+ambulate. The patient was brought to [**Hospital **] Hospital and
+found to have a intraventricular bleed with an INR of 3.4.
+the patient was given FFP and then to deteriorate while at
+the hospital, becoming increasingly somnolent. The patient
+was intubated and then transferred to [**Hospital1 797**].
+
+PAST MEDICAL HISTORY:  Remarkable for rheumatoid arthritis,
+anemia, CHF, CAD, and GERD.
+
+MEDICATIONS AT THE TIME OF ADMISSION:  Coumadin, iron,
+Protonix, Lasix, digoxin, potassium, diltiazem, prednisone,
+and metoprolol.
+
+PHYSICAL EXAMINATION:  She was intubated, not awake. Vital
+signs were stable. Last sedative medications given 45 minutes
+prior to the exam. The pupils were 2 mm to 3 mm bilaterally
+and fixed. She did have positive corneal reflexes. She was
+moving all four extremities to painful stimuli. Did not
+follow commands. The toes were downgoing bilaterally.
+
+RADIOLOGIC STUDIES:  A CAT scan did show an intraventricular
+hemorrhage.
+
+LABORATORY DATA:  INR was 1.4, PT of 14.9, PTT of 28.2. White
+blood cells of 11.1, hematocrit of 36.5, and platelets of
+368.
+
+HOSPITAL COURSE:  The patient was admitted and a long
+discussion was had with the family in regard to options, and
+the family discussed with each other, and given the patient's
+DNR status they wished for her to be treated medically but
+not surgically. Her INR was reversed to be less than 1.3. She
+was started on neuro checks every hour and was transferred
+from the emergency room to the ICU. She had a repeat CAT scan
+on [**1-15**] which was unchanged and continued to show the
+extensive intraventricular hemorrhage. On exam, she remained
+intubated. She was able to move all four extremities to pain
+and did localize; however, she had a slight right paresis. On
+[**1-16**] - per the family's request - the patient was made
+comfort measures only. She then expired on [**2789-1-16**]
+at approximately 19:00.
+
+
+
+                        [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4634**], MD [**MD Number 11016**]
+
+Dictated By:[**Last Name (NamePattern1) 3198**]
+MEDQUIST36
+D:  [**2789-5-9**] 10:59:56
+T:  [**2789-5-9**] 11:51:58
+Job#:  [**Job Number 11017**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: [**Doctor First Name 46**] [**2789-6-22**] 11:32 AM
+(End of Report)
+
+
+",,
+8001,5880,,,2789-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2789-1-15**] 4:22 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 3709**]
+     Reason: assess for interval change                                  
+     Admitting Diagnosis: INTRAVENTRICULAR HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with interventricular hemorrhage                              
+     REASON FOR THIS EXAMINATION:
+      assess for interval change                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intraventricular hemorrhage.
+     
+     COMPARISON:  Earlier, same day.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  Allowing for differences in technique, there has been no change in
+     the appearance of a large volume of hemorrhage within the septum
+     pellucidum and corpus callosum. There is fairly extensive intraventricular
+     hemorrhage. There is a tiny amount of hemorrhage within the interpeduncular
+     cistern. Again noted, is a moderate amount of edema surrounding the
+     septal and intraventricular hematoma.  The size of the ventricles is
+     unchanged. There is no shift of the normally midline structures.  There is no
+     sign of fracture or bone destruction.  The nasal sinuses and orbits are
+     unremarkable.
+     
+     IMPRESSION
+     1.  Stable appearance of septal hematoma and intraventricular hemorrhage.
+     2.  Trace subarachnoid hemorrhage.
+     
+     
+
+",,
+8001,5880,,,2789-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2789-1-15**] 4:22 PM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 3709**]
+     Reason: assess for interval change                                  
+     Admitting Diagnosis: INTRAVENTRICULAR HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with interventricular hemorrhage                              
+     REASON FOR THIS EXAMINATION:
+      assess for interval change                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intraventricular hemorrhage.
+     
+     COMPARISON:  Earlier, same day.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  Allowing for differences in technique, there has been no change in
+     the appearance of a large volume of hemorrhage within the septum
+     pellucidum and corpus callosum. There is fairly extensive intraventricular
+     hemorrhage. There is a tiny amount of hemorrhage within the interpeduncular
+     cistern. Again noted, is a moderate amount of edema surrounding the
+     septal and intraventricular hematoma.  The size of the ventricles is
+     unchanged. There is no shift of the normally midline structures.  There is no
+     sign of fracture or bone destruction.  The nasal sinuses and orbits are
+     unremarkable.
+     
+     IMPRESSION
+     1.  Stable appearance of septal hematoma and intraventricular hemorrhage.
+     2.  Trace subarachnoid hemorrhage.
+     
+     
+
+",,
+8001,5880,,,2789-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2789-1-15**] 12:45 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 3707**]
+     Reason: assess size of ventricular hemorrhage                       
+     Admitting Diagnosis: INTRAVENTRICULAR HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old woman with osh ct w/ bleed                                          
+     REASON FOR THIS EXAMINATION:
+      assess size of ventricular hemorrhage                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JHjc SUN [**2789-1-15**] 2:01 AM
+      extensive intraventricular hemorrhage with 3.0 cm oval area of hemorrhage with
+      hematocrit effect in the region of the septum pellucidum.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Outside hospital CT with bleed, patient found unresponsive, on
+     Coumadin.
+     
+     There are no prior studies available for comparison.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is extensive centered in the corpus callosum
+     with rupture into both lateral ventricles. There is blood filling the entire
+     left lateral ventricle. There is partial filling of the right lateral
+     ventricle with sparing of the frontal and temporal horns. An oval roughly 3.5
+     x 2.3 cm area of acute hemorrhage with a hematocrit effect is seen in the
+     region of the septum pellicudum, inferior to the cingulate gyrus and
+     projecting into the right lateral ventricle. There are diffuse periventricular
+     and subcortical white matter hyperdensities consistent with small vessel
+     ischemic change. There is no shift of normally midline structures or
+     hydrocephalus.  The visualized paranasal sinuses and osseous structures are
+     unremarkable.
+     
+     IMPRESSION:
+     1.  Extensive intraventricular hemorrhage surrounding a corpus callosum
+     hematoma. The differential diagnosis would include an underlying vascular
+     malformation, a ruptured aneurysm, esp a mycotic aneurysm, or a bleeding
+     neoplasm. An MRI may be helpful for further evaluation.
+     2.  Chronic small vessel ischemic change.
+     
+
+",,
+8001,5880,,,2789-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2789-1-15**] 10:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3708**]
+     Reason: please assess NGT placement after advancement 4 cm          
+     Admitting Diagnosis: INTRAVENTRICULAR HEMORRHAGE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       84 year old woman with ich s/p NGT placement with tip in GE junction           
+                           
+     REASON FOR THIS EXAMINATION:
+      please assess NGT placement after advancement 4 cm                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Interval advancement of NG tube. Assess position.
+     
+     PORTABLE AP CHEST, 1 VIEW: Since the prior study of 12 hours earlier, the NG
+     tube has been advanced with side port just beyond the GE junction and tip in
+     the stomach. No other significant changes are appreciated. ETT is in
+     satisfactory position.
+
+",,
+8001,5880,9964,0,2789-01-15 06:25:00 EST,2789-01-15 06:29:00 EST,3944,"N",53,"Nursing/Other","Resp Care","
+Resp Care
+84 yo female received through ER>SICU from OSH s/p IVH. Intubated for transport/AWP. Remains intubated sedated. Settings weaned see carview for details.
+abg: vent induced resp. alkalosis with hyperoxia (prior to changes)
+Bs: coarse, equal bilat. secreations minimal.
+Plan: Maintain current support.
+",,
+8001,5880,9964,0,2789-01-15 07:25:00 EST,2789-01-15 07:35:00 EST,4489,"N",53,"Nursing/Other","NURSING NOTE","
+NURSING NOTE
+     ADMIT FROM ER INTUBATED WITH VENTRICULAR BLEED AND HYDROCEPHALUS. PT FOUND CONFUSED AT HOME BY HER HUSBAND, TALKING BUT UNABLE TO WALK. TO [**Hospital **] HOSPITAL, HEAD CT SHOWED BLEED AND SHE WAS TRANSFERED TO [**Hospital1 22**].
+     ONCE HERE SHE WAS INTUBATED FOR AIRWAY PROTECTION, HEAD CT REPEATED.  TRANSFERED TO SICU AT 0400. ON PROPOFOL AT 5 MCG. PUPILS EQUAL AND REACTIVE. MOVING ALL EXTREMITIES. SOFT WRIST RESTRAINTS ON TO PROTECT HER ET TUBE.
+     PAN CULTURED FOR TEMPERATURE OF 102.2. DR. [**Last Name (STitle) 2580**] AWARE OF FEVER, TYLENOL 650 MG GIVEN RECTALLY. TEMP DOWN TO 101 AT 0500.
+     LABS DRAWN AND CALCIUM AND POTASSIUM LOW, REPLETIONS CURRENTLY INFUSING. ( SEE CARE VUE FOR SPECIFICS)
+     CONTINUE TO MONITER LYTES, NEURO STATUS, HEMODYNAMICS.
+",,
+8001,5880,9964,0,2789-01-15 15:07:00 EST,2789-01-15 15:12:00 EST,3196,"N",53,"Nursing/Other",,"
+
+Respiratory Care:
+Pt has been maintained on simv w/rr = 12 not generally overbreathing
+this rate. Withdrawal is being considered after a short attempt to see if she comes around. Ve = 5-6L. A trip to CT Scan is upcomming this PM
+for head views to follow the bleed. Check CareVue for more details.
+",,
+8001,5880,9964,0,2789-01-15 19:32:00 EST,2789-01-15 19:42:00 EST,4004,"N",53,"Nursing/Other","Condition Update A:","
+Condition Update A:
+Please refer to careview and remarks for details.
+
+Pt lightly sedated on PPF gtt. No movement from RUE, localizing BLE and LUE. PERL 2mm bilat brisk to slug. When off PFF gtt open ou to voice, not following commands. Slight grimacing with turning, small boluses of PPF admin.
+
+LS CTA. After pm care desat to 88, RR 40, TV 0.180-0.243. Suctioned for small/mod amount of yellow thick secretions. Specimen sent. 
+
+Family in to visit. Spoke with Dr. [**Last Name (STitle) **] [**Last Name (NamePattern4) 2579**]. Pt DNR. Family awaiting grandson from out of state. Priest called and will visit tonight.
+
+PLAN: Cont to monitor neuro signs, resp status, comofrt level, I/O. Provide emotional support to family. Cont with ICU care and monitoring. Call H.O. for changes.
+",,
+8001,5880,9964,0,2789-01-15 23:49:00 EST,2789-01-15 23:59:00 EST,5219,"N",53,"Nursing/Other",,"
+
+[**1-15**] TO [**1-16**]    2004 
+   PT REMAINS SEDATED ON PROPOFOL PT TESTED OFF PROPOFOL SOME UPPER EXTEMITY SPASTIC MOTION AND GAGING 
+   RESP ON VENT A/C 12 TV 500 FIO2 50 PEEP 5 SCANT SPUTUM NOTED
+   HEART AFF RATES 120 POOR PULSES NOTED 
+   GI HYPOACTIVE B/S 
+   SUPPORTIVE CARE FAMILY ALL IN AGREEMENT FOR [**Known patient firstname **] [**Last Name (NamePattern1) 107**] REMOVED FROM LIFE SUPPORT  GOOD DYNAMICS
+",,
+8001,5880,9964,0,2789-01-16 05:20:00 EST,2789-01-16 05:20:00 EST,3944,"N",53,"Nursing/Other","Resp Care","
+Resp Care
+Pt. remains intubated/sedated overnight with no vent changes made. Plan is to terminally extubate sometime today.
+",,
+8001,5880,9964,0,2789-01-16 18:27:00 EST,2789-01-16 18:29:00 EST,6085,"N",53,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+See Carvue for specifics:  Pt made CMO today.  Per family request pt remained intubated on CPAP with 0/0 Fi02 set at RA.  Morphine gtt titrated to comfort.  Family at bedside emotional support given as needed.
+",,

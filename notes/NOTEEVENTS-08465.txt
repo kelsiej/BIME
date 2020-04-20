@@ -1,0 +1,506 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8465,2469,,,3347-03-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3347-3-24**]        Discharge Date: [**3347-4-8**]
+
+Date of Birth:  [**3268-9-17**]        Sex:  M
+
+Service:  CSU
+
+
+HISTORY OF PRESENT ILLNESS:  This is a 78 year old gentleman
+who was resuscitated after a witnessed arrest in the field.
+After the arrest the patient was transported to [**Hospital 737**] and subsequently transferred to [**Hospital1 74**].  Cardiac catheterization done at
+the outside hospital showed 50 percent left main, 70 percent
+LAD proximally and 99 percent distal lesion.  Ejection
+fraction by echocardiogram at outside hospital was read as 50
+percent.  Patient was referred to Dr. [**Last Name (STitle) **] for coronary
+artery bypass grafting.
+
+PAST MEDICAL HISTORY:
+1. Atrial fibrillation.
+2. Left bundle branch block.
+3. Coronary artery disease.
+4. Status post myocardial infarction.
+5. Hypercholesterolemia.
+6. Gastroesophageal reflux disease.
+7. Hypertension.
+
+
+SOCIAL HISTORY:  Patient lives with his wife.  Denies tobacco
+use.  Admits to drinking two to three glasses of wine per
+week.
+
+PREOPERATIVE MEDICATIONS:
+1. Procamide.
+2. Enteric coated aspirin 325 mg P.O. q day.
+3. Coreg 12.5 mg P.O. q day.
+4. Lipitor 10 mg P.O. q day.
+5. Zestril 2.5 mg P.O. q day.
+
+
+HOSPITAL COURSE:  The patient was admitted to [**Hospital1 74**], evaluated for surgery.  On
+evaluation, review of the cardiac catheterization films
+revealed that the patient's inferior ejection fraction was
+approximately 20 percent.  Patient was taken to the operating
+room on [**3347-3-27**] with Dr. [**Last Name (STitle) **] where a coronary artery
+bypass graft times three with a LIMA to LAD and saphenous
+vein graft to diagonal and saphenous vein graft to OM.
+Please see operative note for full details.  Total
+cardiopulmonary bypass time was 36 minutes, crossclamp time
+51 minutes.  Patient was transferred to the Intensive Care
+Unit on dobutamine infusion with good hemodynamics.  In the
+operating room by transesophageal echocardiogram the
+patient's ejection fraction was estimated to be approximately
+25 percent which improved to 40 percent post cardiopulmonary
+bypass plus the addition of inotropic support.  Patient was
+weaned and extubated from the mechanical ventilation on his
+first postoperative evening.  The dobutamine was weaned off
+on postoperative day number one with continued good
+hemodynamics.  Patient was started on low dose Lopressor
+which he tolerated well.  On the night of postoperative day
+number one patient went into rapid atrial fibrillation with
+subsequent hypotension.  Patient was given Lopresor and
+amiodarone due to hypotension.  The patient was started on
+Neo-Synephrine.  During this patient did not have pulmonary
+artery catheter but signs of cardiac output were good.
+
+Postoperative day number two electrophysiology service was
+consulted and the patient would undergo attempted EP
+cardioversion and anesthesia administered adequate sedation
+and cardioversion was attempted times three.  On the second
+and third attempts at 360 joules patient had two beats of
+sinus rhythm and subsequently returned to atrial
+fibrillation.  At that time it was decided to continue the
+patient on amiodarone and to attempt cardioversion at a later
+date.  In addition, the electrophysiology team had been
+consulted for placement of an AICD due to patient's
+preoperative cardiac arrest.  Also on postoperative day
+number two patient was found by laboratory data to have a
+sodium of 127.  The day previously, postoperative day number
+one the patient's sodium was 130.  Patient had a moderate to
+large amount of urine output without any administration of
+Lasix.  A renal consult was obtained for management of the
+hyponatremia with the laboratory data of the plasma
+osmolarity of 264 and a urine osmolarity of 352 it was felt
+that the patient was having SIADH versus heart failure
+related ADH really.  He recommended fluid restriction and
+Lasix administration as needed.  Patient's sodium slowly
+began to rise after declining on postoperative day three to
+126 and ultimately rose to 134.
+
+Postoperative day number three patient continued in atrial
+fibrillation requiring Ancef and continued on amiodarone
+infusion.  Preliminary coagulation studies were checked.
+Prior to starting patient on heparin for anticoagulation it
+was noted that the patient had an elevated PTT and
+examination of prior laboratory data showed that the patient
+had consistently had PTTs in the mid 50s.  Hematology consult
+was obtained and on laboratory examination it was determined
+that patient had a lupus anticoagulant and elevated
+anticardiolipin antibody titer.  In light of this it was
+recommended that patient be started on heparin for
+anticoagulation as this patient made patient hypercoagulable
+and recommended as patient's PTTs were elevated factor 10A
+level should be followed.  Also on postoperative day number
+three patient was taken by the electrophysiology service for
+implantation of automatic implantable cardiac defibrillator.
+Patient had a [**Company **] AICD with DDD pacing facilities,
+model number 7289 implanted on [**3347-3-31**].  Patient
+tolerated this procedure well.  During the implantation of
+the AICD patient was converted into sinus rhythm.
+
+On postoperative day number seven it was found that patient's
+platelet count was decreasing, had been 113 on postoperative
+day number five, had dropped to 79 on postoperative day
+number six and was 70 on postoperative day number seven.
+Patient had previously had a heparin antibody sent which was
+negative.  However, repeat heparin antibody sent at the time
+was subsequently positive and the heparin infusion was
+discontinued.  Per the recommendation of hematology patient
+was started on lepirudin as well as Coumadin.
+
+On postoperative day number eight patient went back into
+atrial fibrillation, continued to require low dose Neo-
+Synephrine which was eventually weaned off on postoperative
+day number nine.  Patient had been started on beta blocker,
+continued on amiodarone and by postoperative day number nine
+patient was transferred from the Intensive Care Unit to the
+regular side of the hospital.  Patient had converted from
+atrial fibrillation to AV paced and after less than 24 hours
+of patient being on the lepirudin infusion and two doses of
+Coumadin patient was found to have a PPD greater than 150 and
+an INR of 2.2.  The lepirudin infusion was stopped and
+consultation with the hematology service recommended if
+patient's INR remains greater than 2 to not restart the
+lepirudin infusion.  Physical therapy was working with the
+patient.  It was recommended patient would benefit from acute
+rehabilitation and by postoperative day 11 patient was taken
+to the electrophysiology laboratory for testing of the AICD.
+It was found to be functioning properly.  By postoperative
+day number 11 patient was cleared for discharge to
+rehabilitation.
+
+CONDITION ON DISCHARGE:  Temperature maximum 99.9, pulse 85,
+A sensed to be paced.  Blood pressure 112/64, respiratory
+rate 18 on room air, oxygen saturation 95 percent.  Patient's
+weight on [**4-7**] is 83.3 kilograms, preoperatively the
+patient weighed 80 kilograms.  Laboratory data:  White blood
+cell count 10.9, hematocrit 31.7, platelet count 132.  Sodium
+134, potassium 4.4, chloride 99, bicarb 28, BUN 14,
+creatinine 0.8, glucose 101, ALT of 45, AST of 32, alkaline
+phosphatase 77, albumin 2.8.  PT 18.5, INR 2.3, PTT 17.1.
+Neurologically patient is awake, alert, oriented times three,
+globally weak in all extremities, nonfocal examination.
+Heart is regular rate and rhythm with a II/VI systolic
+ejection murmur, no rub.  Respiratory:  Breath sounds are
+rhonchorous bilaterally.  Gastrointestinal:  Positive bowel
+sounds.  Abdomen:  Soft, nontender, nondistended.  Patient is
+tolerating regular diet although has a poor appetite and
+significant incursion poor P.O. intake.  Sternal incision:
+The staples are intact.  There is no erythema or drainage.
+Lower extremity vein harvest site is clean, dry and intact.
+There is trace to 1+ pitting edema of lower extremities.
+Chest x-ray from [**4-6**] showed bibasilar atelectasis, small
+bilateral effusion.  No evidence of congestive heart failure.
+
+DISCHARGE DIAGNOSES:
+1. Coronary artery disease.
+2. Status post VF arrest.
+3. Status post coronary artery bypass graft.
+4. Status postoperative atrial fibrillation.
+5. Status post AICD permanent pacemaker insertion.
+6. Postoperative SIADH.
+7. Positive heparin antibodies.
+8. Positive lupus anticoagulant.
+9. Elevated anticardiolipin antibody titer.
+
+
+DISCHARGE MEDICATIONS:
+1. Percocet 2.5/325 1 to 2 tablets P.O. q 4 to 6 hours p.r.n.
+2. Colace 100 mg P.O. B.I.D
+3. Protonix 40 mg P.O. q  day.
+4. Aspirin 81 mg P.O. q day.
+5. Coumadin dose to be determined for [**4-8**] based on
+   laboratory data from morning of 5/15.  The Coumadin should
+   be titrated for a goal INR of 2.0 to 2.5.
+6. Carvedilol 6.25 mg P.O. B.I.D
+7. Amiodarone 400 mg P.O. B.I.D times seven days, then 400 mg
+   P.O. q day times seven days, then 100 mg P.O. q day.
+8. Albuterol-Atrovent Nebulizer treatments q 6 hours p.r.n.
+9. Lipitor 10 mg P.O. q day.
+
+Patient is to be discharged to [**Hospital6 11753**] in
+[**Location (un) 11754**] on [**4-8**] in stable condition.  Patient is to follow
+up with Dr. [**First Name (STitle) **] in one to two weeks.  Patient is to follow
+up with Dr. [**Last Name (STitle) **] in three to four weeks.  Patient has an
+appointment for evaluation on [**4-11**] at 11:30 and patient
+should follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 11755**] in hematology in
+three months.
+
+
+
+                        [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **], MD 2229
+
+Dictated By:[**Last Name (NamePattern4) 2435**]
+MEDQUIST36
+D:  [**3347-4-7**] 16:16:23
+T:  [**3347-4-7**] 18:26:02
+Job#:  [**Job Number 11756**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: SAT [**3347-4-8**] 10:14 AM
+(End of Report)
+
+
+",,
+8465,2469,10518,0,3347-03-27 17:21:00 EST,3347-03-27 17:38:00 EST,3083,"N",54,"Nursing/Other","PT UPDATE","
+PT UPDATE
+  PT ARRIVED FROM OR AT 1230 S/P CABG X3.
+
+  NEURO: PT REVERSED AND OFF PROPOFOL SINCE 1500-REMAINS SLEEPY; BUT EASILY AROUSABLE TO VOICE-OPENS EYES ONLY TO VOICE. FOLLOWS ALL COMMANDS AND MAE TO COMMAND.
+
+  RESP: PT NOW ON CPAP WITH SATS 100 AND RR 16-20. BS CLEAR, DECREASED IN BASES. PT WAS GRADE 3 VIEW INTUB.; SO HAS TO BE PERFECTLY READY FOR EXTUB.
+
+  CV: HR 80-90 WITH OCCAS-FREQUENT PVC'S-LYTES REPLETED WITH NO CHANGE IN PVC'S. INITIALLY PT HYPOTENSIVE AND HYPOVOLEMIC. LEVO TITRATED AND RX WITH FLUID AND PC'S. LAST HOUR OR SO PT AT TIMES HYPERTENSIVE-LEVO ON AND OFF. PT ON 5 DOBUT. WITH INITIAL CI 2.8-DOWN TO 1.8. FICK CHECKED AND 2.87. NO CHANGE IN DOBUT. DOSE AT THIS TIME.
+
+  GU: PT AUTODIURESING WHEN FIRST ARRIVED-HAS SLOWED DOWN TO 100/HR.
+
+  GI: OGT-LCWS-SCANT DRG.
+
+   LAB: ION CA AND MG REPLETED. K LOW OF 4.2; DESPITE LG DIURESIS-HAS RECEIVED 20MEQ KCL ONLY. HCT 24.8-GIVEN 2 PC AND UP TO 31. BS 178 AND GTT STARTED-CONT TO BE TITRATED.
+
+   OTHER: CT DRG MINIMAL. SM AMT DRG ON STERNAL DSG-HAS NOT INCREASED. PT MED WITH IV MSO4 X1 FOR DISCOMFORT-WITH GOOD RELIEF AND COMF SINCE. PT'S FRIEND-[**Doctor Last Name 373**] WHO IS SPOKESPERSON-IN TO VISIT X2. 
+
+
+   A/P: PT STILL SOMEWHAT SLEEPY-DOES NOT SEEM READY TO EXTUB. REMAINS CALM AND APPROPRIATE. NOW SOMEWHAT HYPERTENSIVE WITH VERY SIMILAR PA NUMBERS TO HYPOTENSIVE EPISODES-CVP7 AND PAD 15. CONT TO TITRATE LEVO-NTG PRN. EXTUB. WHEN MORE AWAKE.
+",,
+8465,2469,10518,0,3347-03-28 03:18:00 EST,3347-03-28 03:30:00 EST,4219,"N",54,"Nursing/Other",,"
+
+[**3347-3-28**] B:
+
+Neuro: a and o x 3, mae, following commands correctly, mso4 for pain.
+
+Cardiac: nsr in the 90's with frequent pvc's, continues dobuta gtt, going by cardiac fics for indexes which have all been good, svo2's running in the 60 range, palpible pedial pulses, skin warm dry and intact, a-febrile, +2 edema inextremities, did get 1 liter of lr for low cvp's this shift.
+
+Resp: dim inbases, did vagal hr down with sxning pre extubation and did come back up on own shortly after, on 2 liters nc satting at 99% post extubation gas is good, no leak in ct system which is draining scant sero-sang.
+
+Skin: chest with dsd with old moderate serosang drainage from or, ct dsds are cdi, right leg ace is cdi.
+
+Gi/gu: tolerating ice chips, abd soft round and nontender with hypoactive bowel sounds,continues riss gtt, making good u/o.
+
+Plan: increase activity, monitor blood sugars, monitor ci's, monitor u/o, monitor for increase ectopy, encourage to cough and deep breath.
+",,
+8465,2469,10518,0,3347-03-28 16:41:00 EST,3347-03-28 16:48:00 EST,3892,"N",54,"Nursing/Other","7am-7pm update","
+7am-7pm update
+Neuro: pt alert and oreianted x3. MAE and able to follow commands.
+
+CV; pt remains NSR/ST, occasionally pvc's noted. HR 80-100's. BP 90-140's/50-60's. MAP 60-90's. pt becomes slightly hypertensive and tachycardic with activity. dobutamine gtt weaned to off this am (per [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 429**] NP). svo2 66-72. CI by fick > 2.0. PA line dc'd this afternoon and introducer left intact. pt started on lopressor this afternoon. DP's palpable and pt's by doppler. hct stable.
+
+resp: LS clear with dim bases bil. pt on 2 L nc, o2 sats 96-98%. pt using IS. pt with strong nonproductive cough. abg wnl. CT's dc'd this afternoon. 
+
+gi/gu: pt with + bs. tolerting cardiac diet. foley draining clear yellow urine. UO adequate.
+
+endo: BS in the 140's -> treated with ss reg insulin per protocol
+
+activity/comfort: percocets for pain ~ q4h. pt oob to chair x2. pt ambualted with 2 assist. steady gait
+
+plan: pain control, pulm toliet, monitor lytes/hct/bs, advance diet and activity as tolerated, ?? [**Hospital Ward Name **] 2 in am
+",,
+8465,2469,10518,0,3347-03-29 01:09:00 EST,3347-03-29 01:14:00 EST,4068,"N",54,"Nursing/Other",,"
+
+CSRU NOTE:
+
+NEURO: A/O X 3, MAE, very pleasant and cooperative.
+
+CV: NSR-ST 90's-115's, with occasional to frequent PVC's, short run of SVT->lopressor 5mg IV and Mg+2gm given with good effect, lytes repleted, PP+, afebrile, pacer on backup Ademand 60.
+
+RESP: Lung clear, diminished at bases, 02 @ 2L via NC with sats.>97%, using IS, productive cough.
+
+GI: Abd. soft, BS+, no BM this shift.
+
+GU: Foley cath. intact, draining clear yellow urine, autodiuresing.
+
+PAIN: no c/o pain.
+
+ENDO: RISS per unit protocol.
+
+PLAN: Continue to monitor CV status, replete electrolytes as needed, increase activity, transfer to floor  in a.m.?
+",,
+8465,2469,10518,0,3347-03-29 02:20:00 EST,3347-03-29 02:24:00 EST,4068,"N",54,"Nursing/Other",,"
+
+CSRU addendum:
+
+CV: Pt. went into RAF with rates of 140's with frequent multifocal PVC'[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] [**Last Name (NamePattern1) 429**], NP made aware, Lopressor 5mg IV given in addition to Amio. 150mg IV bolus. Started on Neo. gtt. to maintain SBP>90, Mg+ 2gm bolus given as well. HR decreased to 110's-120's and continues to have frequent PVC's, amio.gtt. started. Pt. remained talkative and asymtomatic throughout this time.  Continue to monitor closely.
+",,
+8465,2469,10518,0,3347-03-29 16:22:00 EST,3347-03-29 16:31:00 EST,4183,"N",54,"Nursing/Other","7a-7p","
+7a-7p
+
+NEURO: ALERT AND ORIENTED. MAE AND FOLLOWS COMMANDS. OOB TO CHAIR WITH MINIMAL ASSIST. PROPOFOL GIVEN BY ANASTHESIA FOR PROCEDURE, PT SEDATED FOR APPROX 10MIN. PLEASANT AND COOPERATIVE.
+
+RESP: LS CLEAR WITH DIM BASES. ABLE TO WEAN O2 TO RA, SATS>96%. USING IS TO 1000, NO ENCOURAGEMENT NEEDED. EXPECTORING MIN AMOUNTS OF THICK YELLOW SPUTUMN.
+
+CV: AFIB 100-120'S. FREQUENT PVC'S NOTED. CARDIOVERTED THIS PM 200J X3. NO CONVERSION. ?NEED FOR ABLATION. NEO TITRATED FOR SBP>90. PAPABLE PEDAL PULSES. SOME GENERALIZED EDAM NOTE. TEMP PACING WIRES ATTACHED AND PACEMAKER OFF. SEE FLOW SHHET FOR LABS, NA 126. 
+
+ENDO: BG'S NOT TREATED PT NPO.
+
+GI/GU: BS+. PT NPO FOR CARDIOVERSION AND ?ABLATION. NO BM THIS SHIFT. AUTODIURESING MOD AMOUNTS OF C/Y/U. 
+
+PLAN: NPO. ?ABLATION. MONIOTR LABS AND NA, ALL IV MEDS INFUSED WITH NS. TITRATE NEO FOR SBP>90. PULM TOILETING. INCREASE DIET AND ACTIVITY AS ORDERED.
+",,
+8465,2469,10518,0,3347-03-30 01:01:00 EST,3347-03-30 01:08:00 EST,4068,"N",54,"Nursing/Other",,"
+
+CSRU NOTE:
+
+NEURO: A/O X 3, MAE, very pleasant and cooperative.
+
+CV: Continues in AFIB with rates 100-120's with frequent PVC's and occassional PAC's, continues on neo. gtt. to maintain SBP>90, able to wean to .50mcg/kg/min, continues on amio.gtt. @ 0.5mg, V wires tested, not sensing and capturing appropriately 100%, pacer turned off because of inappropriate pacing spikes, PP+, afebrile. Continues to be hyponatremic, serum Na+ levels drawn Q6 hours, on fluid restriction, all gtts. mixed in nacl, serum coritsol and urine lytes sent.
+
+RESP: Lungs clear, diminished at bases, on RA with sats. 97%, using IS up to 1000ml, productive cough.
+
+GI: Abd.soft, BS+
+
+GU: Foley intact, draining clear yellow urine, adequate HUO.
+
+PAIN: no c.o pain.
+
+PLAN: ?ablation for AF, continue to monitor and treat ectopy, wean neo. if BP tolerates, replete electrolytes, monitor Na+, fluid restriction.
+",,
+8465,2469,10518,0,3347-03-30 13:18:00 EST,3347-03-30 13:29:00 EST,4183,"N",54,"Nursing/Other","7A-3P","
+7A-3P
+
+NEURO: ALERT AND ORIENTED. MAE AND FOLLOWS COMMANDS. NO C/O PAIN THIS SHIFT. AMBULATED AROUND UNIT WITH MINIMAL ASSIST.
+
+RESP: LS CLEAR WITH DIM BASES. O2 SATS 96-99% ON RA. USING IS UP TO [**Telephone/Fax (1) 175**]. 
+
+CV: AFIB 100-130'S. FREQUENT PVC'S. LOPRESSOR 2.5MG IV GIVEN X2 AS WELL AS AMIO BOLUS THIS AM FOR HR 130'S. CONTINUES ON AMIO GTT AND NEO GTT TITRATED FOR SBP>90. PAPABLE PEDAL PULSES. COAGS ELEVATED THIS AM, ? CAUSE. ?NEED FOR HEPARIN GTT FOR A FIB. WIRES ATTACHED TO PACER AND PACER TURNED OFF. SEE FLOW SHEET FOR LABS. (NA 128, CONTINUE TO CHECK TID)
+
+ENDO: ELEVATED BG'S TREATED PER SSRI.
+
+GI/GU: BS+. ABD SOFT. TOLERATING PO'S. CONTINUES ON FLUID RESTRICTION. AUTODIURESING C/Y/U. FOLEY DC'D @ 1430. NO BM THIS SHIFT. + FLATUS.
+
+PLAN: NEO TO MAINTAIN SBP>90. CONTINUE AMIO GTT. MONITOR LABS (COAGS/NA). MONITOR RYTHYM. INCREASE DIET AND ACTIVITY AS TOLERATED.
+",,
+8465,2469,10518,1,3347-03-30 13:18:00 EST,3347-03-30 13:31:00 EST,4183,"Y",54,"Nursing/Other","7A-3P","
+7A-3P
+CONTINUE AMIO GTT AS ORDERED. (18 HOURS EXPIRED->REORDERED TO CONTINUE) SCHELDULED FOR AICD PLACEMENT TOMORROW.
+",,
+8465,2469,10518,0,3347-03-31 04:11:00 EST,3347-03-31 04:24:00 EST,4158,"N",54,"Nursing/Other",,"
+
+NEURO: A+ox3, MAE, Follows commands.
+
+CV: RAF 100-130's. Given 5mg iv lopressor once. Afterwards, required neo gtt because sbp in 80's from lopressor. Neo gtt started @ .25mcg/k/min. SBP up > 100. Continues to have freq. pvc's. Repleted Ca++ and Mg. 
+
+RESP: Lungs are clear w/ dim bases. Spo2 > 95% RA.
+
+GU: Urinating adequate amts cyu.
+
+GI: NPO.
+
+PLAN: Monitor lytes, Coags, Npo, AICD placement today. Maintain fluid restriction.
+",,
+8465,2469,10518,0,3347-03-31 16:40:00 EST,3347-03-31 16:45:00 EST,4045,"N",54,"Nursing/Other",,"
+
+D: See [**Name6 (MD) 54**] data, MD notes/orders. Neuro: Pt a&o x3. CV: Afib with hr 1teens to 160's with increase in activity. Hr comes back to baseline with rest. Neo gtt weaned slowly to .15mcg/kg/min keeping sbp equal to or >90. Amiodorone gtt continues at .5mg/min. Pulm: RA sat 97%, lungs clear with fine rales at bases, pcxr taken this am. GU: Pt voids in urinal 100-200cc q1-2hr. GI: NPO for procedure, had small bm on bsc. Skin: Surfaces intact, pulses palpable, 2+ pedal/leg edema noted. Pt transported to cath lab for aicd placement in early afternoon, return to room pending and will be another hour +/- per cath lab nurse. Pts friend ""[**Doctor First Name **]"". updated.
+",,
+8465,2469,10518,0,3347-03-31 18:31:00 EST,3347-03-31 18:36:00 EST,4045,"N",54,"Nursing/Other",,"
+
+Adendum: Pt returned from cathlab s/p placement of DDD permanent pacemaker. Please see procedure notes and pacer literature for data and [** 54**] for vs. Pt hemodynamically stable, monitor show 100% vpacing. SBP 120-140. Left arm in sling, dressing at pacemaker insertion site d&i. Pt denies pain or other distress. Pt placed in high fowlers and evening meal offered. Full report given to oncoming shift, pt with call light in hand.
+",,
+8465,2469,10518,0,3347-04-01 03:18:00 EST,3347-04-01 03:23:00 EST,3760,"N",54,"Nursing/Other","7p-7a","
+7p-7a
+CV:  Pt had permanent pacer/AICD placed today. Rhythm is a-sense and v-pace with a rate in the 70-80s.  Epicardial wires protected and secured to chest. No ectopy.  Afebrile.  BP stable.  Aline began to dampen, blood could not be drawn back, and oozing-aline d/c'd.
+
+PULM:  1L/NC with sats 97%.  Attempted room air, sats dropped to 91-92%.  Lungs clear.  Uses IS with encouragement.  
+
+NEURO:  Oriented.  Benadryl given for [**Doctor Last Name 5**], worked very well.  Bedrest as until a.m.  Sling on left arm.
+
+GU:  Voiding on own.
+
+GI:  Active bowel sounds.  Ate dinner after cath lab.  No BM.
+
+PLAN:  Bed rest and sling.  Wean FIO2.  Change amio to po?  No heparin per cath lab due to heme consult.
+",,
+8465,2469,10518,0,3347-04-01 16:53:00 EST,3347-04-01 17:00:00 EST,4045,"N",54,"Nursing/Other",,"
+
+Neuro: A&O x 3. CV: Asensing/vpaced. See cardiology note for adjustments made this morning. 20meq KCL given po for K level 4.1. Pt recieved one unit prbc for hct 26. Pulm: Room air sats 93-96%. Lungs with fine scattered rales that improve somewhat after coughing. Pt using IS independently with good technique. GU: Pt voids 200-300cc clear yellow urine q 2-3hrs. Seen by renal this am who are following hyponatremia. Am Na 131, 129 this pm. Pt has had some restriction of fluid and is using salt in small quantity with meals. GI: Taking meals with good appetite, bs+, abd soft. Activity: Sling in place on left arm until 1700,pt oob in chair most of day, back in bed this evening for removal of temporary pacer wires. Comfort: Pacemaker insertion site achiness releived with 1 percocet po. P: Transfer to telemtry floor when bed available.
+",,
+8465,2469,10518,0,3347-04-02 06:02:00 EST,3347-04-02 06:10:00 EST,3401,"N",54,"Nursing/Other","Update","
+Update
+O: cv status: perm ddd pacer pacing rate 80.Isolated burst rapid hr ? svt vs vt. Sbp stable throughout.
+skin [**Male First Name (un) **] and dry 
+
+resp status: rm air sats 94-96% bbs clear ^ lobes few crackles lt>rt. Cough w/o raising sputum.
+
+neuro status: sleeping in long naps. Med w perc 1tab x 1 for discomfort lt shoulder pacer insertion site-> w gd effect.aaoriented 
+
+gi status: glucose managed w riss protocol. Taking in cl liqs po. Leaking liq stool w passing flatus-> oob to commode sm formed soft brwn stool + liq stool guiac neg.Abd soft distend nontender + bowel snds.
+
+gu status: vding sm amts amber urine.
+
+heme/id: still receiving vanco post proced. Per hematology lab Factor 10 to be drawn/run after 7am-> call before lab draw.
+
+A/P: Stable.? transfer to [**Hospital Ward Name **] 2. Labs to be drawn w factor 10.
+",,
+8465,2469,10518,0,3347-04-02 17:23:00 EST,3347-04-02 17:29:00 EST,4206,"N",54,"Nursing/Other","CSRU Nursing Progress Note","
+CSRU Nursing Progress Note
+Neuro:  Pt A&O x3 OOB all day and ambulated x1.  Pt doing very well, denies pain.
+
+Cardiac:  Pt V-paced HR in the 80's.  BP stable in low 100-110 sys.  Pt started on Heparin at 500 u/hr, not following PTT, following factor X A.  Goal is .3-.7.  Please draw q6 hours.  Results of 1600 draw still pending, has to be sent to east campus and please notify lab at 74262 30min prior to draw to start machine.  Lytes repleated.
+
+Resp:  Pt on RA O2 sat 96-98%.  BS clear in upper airway rales in the bases.
+
+GI:  Small BM x2.  Good appetite, +BS.  OOB to commode.
+
+GU:  Pt voiding via urinal.
+
+Access:  Very poor only 1 IV.
+
+Pt needs txr note written for floor tomorrow.
+",,
+8465,2469,10518,0,3347-04-03 05:35:00 EST,3347-04-03 05:54:00 EST,3401,"N",54,"Nursing/Other","Update","
+Update
+O: cv status: vpaced(perm pacer)-> rafib to 130's. additional lopr 25mg po & lopr 15mg total iv. Mgso4 2gms ivpb. Poor rate control w same. Amiod bolus150mg/ gtt@ 1mg/m x6 then 0.5mg x 18hrs. Now w improved rate control. sbp bdline w rapid hr&  transiently in response to iv lopressor.Repleted k+ w lasix 10mg iv dosing for crackles throughout bilat.
+
+resp status:  O2 added @ 2lpm prophylac w rapid hr. ^ audible exp wheeze by 0300 crackles noted to apices. Dr [**Last Name (STitle) 151**] updated lasix 10 iv ordered w excellent response. -> clear ^ lobes dimins lower lobes after diuresing 1liter urine in 2hrs.  
+
+neuro status: aaoriented, follows simple commands. slept in brief naps overnight.denies pain or discomf.
+
+gi status: up to commode x 1 overnight w liq lt brwn stool. abd distended, soft, +bowel snds-> hyperactive. Passing lg amts flatus & sm liq stool. colace held.
+
+gu status: uop as noted above. Vdg small amts cl yellow urine-> lasix w excellent response.
+
+heme/id: tmax 98.6. wbc flat. hct 29. hematology following pt. See pt chart for recommendations. Factor X sent to east campus w  Factor X labs to be run after 0700.? check hit antibody in view of plt ct.
+
+A/P: rapid afib rate controlled w amiod. Decr amiod gtt to 0.5mg/min at 1000. Replete lytes as necessary.Titrate heparin per heme recommendations.pcxr this am. [**Hospital Ward Name 3**] 2 transfer on hold for now.
+",,
+8465,2469,10518,0,3347-04-03 15:56:00 EST,3347-04-03 16:05:00 EST,4206,"N",54,"Nursing/Other","CSRU Nursing Progress Note","
+CSRU Nursing Progress Note
+Neuro:  Pt A&O x3.  Pt OOB in am then became hypotensive and placed back into bed.  Pt to get OOB once more for meals.
+
+Cardiac:  Pt in AF/V-paced at times however poorly controlled HR 93-114, no ectopy.  pt given 2.5mg IV lopressor for HR, BP then became very low, 78/47, no MS changes.  Pt placed back to bed.  Pt started on Neo currently at .3 mcg/k/min perpherially, please monitor closely.  BP  now low 100/60's sys.  Pts heparin increased to 750u/hr, factor XA pending, goal .3-.7.  Please con't to monitor platelets, they con't to drop.  Pt decreased to .5mg/min amio gtt, minimal effect.
+
+Resp:  Pt on 2L via NC.  O2 sat 97%.  BS clear in upper airway, rales in bases and rising, bilaterally.
+
+GI:  Pt has poor appetite.  +BS, -BM.
+
+GU:  Pt voids via urinal.
+
+ID:  Afebrile.
+
+Endo:  Requiring coverage via RISS.
+
+Monitor for signs of increased fluid overload, monitor platelets, HR, BP closely.  Please follow factor X A in lue of PTT q6 hours.  Test will be run overnight.  HIT sent off.
+",,
+8465,2469,10518,1,3347-04-03 15:56:00 EST,3347-04-03 17:45:00 EST,4206,"Y",54,"Nursing/Other","CSRU Nursing Progress Note","
+CSRU Nursing Progress Note
+Pt given additional 1mg IV lopressor for HR in 120-130.  HR increases and BP drops when sitting in chair.  Pt con't on perph neo, when spoke to NP [**Doctor Last Name 430**], hand evaluated, slightly purple, NP [**Doctor Last Name 430**] said it was okay.
+",,
+8465,2469,10518,0,3347-04-04 00:56:00 EST,3347-04-04 01:02:00 EST,4068,"N",54,"Nursing/Other",,"
+
+CSRU NOTE:
+
+NEURO: A/O X 3, MAE, very pleasant and cooperative.
+
+CV: Continues in AFIB with rates of 95-110 with occassional PVC's noted, on neo. gtt. to maintain SBP>90, amio.gtt. @ 0.5 dc'd at 0400, heparin gtt. increased to 900U/hr, goal of Factor Xa of .3-.7, will continue to monitor, DDD, PP+, afebrile.
+
+RESP: Lungs clear with crackles at bases, 02 @ 2L via NC with sats>97%, using IS, productive cough.
+
+GI: Abd. soft, BS+
+
+GU: Voiding via urinal, clear yellow urine.
+
+ENDO: RISS per unit protocol.
+
+PLAN: Continue to monitor Factor Xa level to adjust heparin gtt., wean neo. gtt. as BP tolerates, monitor CV and RESP system, pulmonary toilet.
+",,
+8465,2469,10518,0,3347-04-04 16:02:00 EST,3347-04-04 16:12:00 EST,4045,"N",54,"Nursing/Other",,"
+
+D: Please see [**Name6 (MD) 54**] data, MD notes/orders. Neuro: A&O x3 CV: In afib this am with rate 120 up to 157 with activity. Converted to Asensing/Vpacing in late morning after 2.5mg IV lopressor. Po carvediol and amiodorone also given at that time. Neo gtt in place to keep sbp >90  Heparin gtt currently at 1100u/hr.  Pulm: RA sats 98% at rest and with activity. Lungs clear with fine scattered rales at bases. GU: Using urinal to void 100-300cc urine q2-3hrs. GI: Abd soft, bs+, lg bm x 1 this shift. Endo: Per ssc. Activity: Amublated length of unit this afternoon tolerating activity well. P: Continue to wean neo gtt as tolerated keeping sbp >90. Monitor for recurring afib. Titrate heparin to keep factor 10 between 0.3 and 0.7. ?Transfer to telemetry tomorrow. R: Neo currently at 0.17mcg/kg/min, factor 10 pending. 
+",,
+8465,2469,10518,0,3347-04-05 00:50:00 EST,3347-04-05 00:55:00 EST,4068,"N",54,"Nursing/Other",,"
+
+CSRU NOTE:
+
+NEURO: A/O X 3, MAE, very pleasant and cooperative.
+
+CV: DDD a-sensing,v-pacing @ 80, with no ectopy noted, BP stable, neo. weaned to off at start of shift, continues on heparin gtt. @ 1100U/hr, last Factor Xa @ 1700=.47 (therapeutic), stil awaiting results of 2200 lab draw, continue to follow and adjust heparin gtt. as appropriate, PP+, afebrile.
+
+RESP: Lungs clear with some crackles at bases, on RA with sats. 99%, using IS well.
+
+GI: Abd. soft, BS+
+
+GU: Voiding via urinal clear yellow urine.
+
+ENDO: RISS per unit protocol.
+
+PLAN: Continue to monitor CV status, monitor Factor Xa to adjust for heparin dosage Q6 hours, possible transfer to [**Hospital Ward Name **] 2?
+",,
+8465,2469,10518,0,3347-04-05 03:40:00 EST,3347-04-05 03:41:00 EST,4068,"N",54,"Nursing/Other",,"
+
+CSRU Addendum:
+
+LAB RESULTS:
+
+Factor Xa drawn @ 2300->1.0
+Dr. [**Last Name (STitle) 151**] made aware. Heparin gtt. stopped for one hour and then resumed @ 950U/hr. Next lab draw will be at 1030. Oncoming nurse made aware.
+",,

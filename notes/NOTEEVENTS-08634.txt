@@ -1,0 +1,1256 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8634,10601,,,2900-07-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2900-7-16**]              Discharge Date:   [**2900-7-23**]
+ 
+Date of Birth:  [**2832-7-18**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Hydrochlorothiazide / Tramadol Hcl
+ 
+Attending:[**First Name3 (LF) 1045**] 
+Chief Complaint:
+Massive hemoptysis
+Brain masses
+ 
+Major Surgical or Invasive Procedure:
+Rigid bronchoscopy, flex bronchoscopy, tumor destruction, 
+brushings
+
+ 
+History of Present Illness:
+67yo male h/o afib, Etoh abuse, transferred from [**Hospital3 2177**] 
+[**7-16**] after presenting with syncope.  On w/u found to have L 
+sided brain lesion and chest CT showing carinal and RUL masses. 
+Bronch with biopsy done with increasing hemoptysis so 
+transferred to [**Hospital1 83**].  At [**Hospital1 **] underwent rigid bronch revealing 
+RUL likely lung CA with 100% occlusion.  Decision made to start 
+XRT therapy for chest.
+ 
+Past Medical History:
+lung mass with brain mass
+hemoptysis
+chronic afib
+GERD
+?seizure disorder
+Etoh abuse
+umbilical hernia
+HTN
+psoriasis
+chronic venous stasis
+neuropathy
+cholelithiasis
+ 
+Social History:
+100+ pack year history
+Previous etoh abuse
+no IVDU
+Lives with wife.
+ 
+Family History:
+NC
+ 
+Physical Exam:
+T97.8 P78 BP130/64 R18 sat 95% RA
+Gen: NAD
+HEENT: EOMI, PERRL, clear conj
+ENT: MMM, poor dentition
+CV: Irregularly irregular, no mrg
+Chest: decreased BS RUL and bilat LL, no wheeze
+Abd: NT, soft, +bs; +umbilical hernia
+Ext: no edema
+Neuro: [**3-26**] except [**12-27**] R wrist extensors/flexors and 4/5 L 
+triceps; CNs [**1-3**] intact except slight central VII on R; alert 
+and oriented x3
+ 
+Pertinent Results:
+[**2900-7-16**] 08:30PM   FIBRINOGE-390
+[**2900-7-16**] 08:30PM   PT-11.9 PTT-27.8 INR(PT)-1.0
+[**2900-7-16**] 08:30PM   PLT COUNT-200
+[**2900-7-16**] 08:30PM   WBC-5.4 RBC-2.66* HGB-8.5* HCT-23.8* MCV-90 
+MCH-31.9 MCHC-35.7* RDW-16.3*
+[**2900-7-16**] 08:30PM   ALBUMIN-3.5 CALCIUM-9.3 PHOSPHATE-3.8 
+MAGNESIUM-1.8
+[**2900-7-16**] 08:30PM   LD(LDH)-130 ALK PHOS-106 TOT BILI-0.6
+[**2900-7-16**] 08:30PM   GLUCOSE-135* UREA N-10 CREAT-0.8 SODIUM-131* 
+POTASSIUM-3.9 CHLORIDE-99 TOTAL CO2-23 ANION GAP-13
+
+CT chest/abd/pelvis IMPRESSION:
+1. Two right lung masses; one located posteriorly in the right 
+upper lobe within the parenchyma, the other located in the right 
+hilum. It is unclear if the mass located in the parenchyma 
+represents primary tumor in the hilar mass, a nodal met. Other 
+nodes are located in the right hilum and within the mediastinum. 
+The appearance of these lesions are worrisome for lung 
+carcinoma.
+2. Small pleural-based lesions within left lung also suspicious 
+for malignancy.
+3. Pockets of mediastinal air tracking into the soft tissues of 
+the neck consistent with patient's recent history of 
+bronchoscopy.
+4. Low attenuation lesion of right lobe of thyroid indeterminate 
+for metastatic lesion.
+5. Likely a metastatic lesion of left iliac [**Doctor First Name 456**].
+
+MRI brain: IMPRESSION:
+Features most likely due to metastases, bilateral mid frontal, 
+right posterior parietal, and dural-based metastasis in the 
+anterior part of the tentorium cerebelli.
+
+FNA, Lung, right upper lobe mass at right mainstem bronchus: 
+  POSITIVE FOR MALIGNANT CELLS consistent with non-small cell 
+carcinoma. 
+
+ 
+Brief Hospital Course:
+67yo male admitted after episode of hemoptysis after bronch at 
+[**Hospital 11999**] hospital.  Began treatments for lung CA with XRT.
+
+1) Hemoptysis: After bronch at outside hospital, hematocrit 
+remained stable after transfer and bronch here.  No further 
+episodes of significant bleeding.
+
+2) Lung CA: Pt had imaging done that showed metastatic disease, 
+including to brain.  Biopsy revealed non small cell lung CA.  
+Patient started on XRT to chest here.  Plan to get further 
+evaluation by pulmonary oncology with treatment plans for after 
+XRT to be made.  Will return to get final of 10 total XRT 
+treatments next week.
+
+3) Brain Mets: Pt appropriate while here with neuro deficits as 
+outlined in physical exam.  Patient had mapping done for planned 
+brain XRT.  Patient given dexamethasone 4mg q6 hours while in 
+hospital.  Spoke with radiation oncology and decreased to 
+dexamethasone 4mg q8 hours on discharge.  Can continue to taper 
+up or down as outpatient.
+
+4) Atrial fibrillation: Remained in irregular rhythm while here. 
+ Stopped anticoagulation after bleed.  Continue digoxin.  Also 
+atenolol decreased to 50mg qday.  No events while in patient.
+
+5) Social: Met with social work while in patient.  Patient 
+remains up beat, wants to fight.  Helped to arrange for possible 
+transportation to [**Hospital1 83**] in future.  Wants to continue to receive 
+care here.
+ 
+Medications on Admission:
+On transfer:
+cymbalta 30mg bid
+decadron 4mg IV q6hours
+digoxin 0.125mg qday
+folate
+MVI
+protonix 40mg qday
+tenormin 100mg qday
+ventolin nebs
+thiamine
+ 
+Discharge Medications:
+1. Duloxetine 30 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO BID (2 times a day).  
+2. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+3. Digoxin 125 mcg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+4. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+5. Thiamine HCl 100 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+6. Dexamethasone 4 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours).
+Disp:*60 Tablet(s)* Refills:*2*
+7. Zolpidem 5 mg Tablet Sig: One (1) Tablet PO HS (at bedtime) 
+as needed for insomnia.
+Disp:*30 Tablet(s)* Refills:*1*
+8. Atenolol 50 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+9. Ipratropium Bromide 17 mcg/Actuation Aerosol Sig: Two (2) 
+Puff Inhalation BID (2 times a day).
+Disp:*1 1* Refills:*2*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Non small cell lung cancer with metastatic disease to the brain
+Hemoptysis from lung cancer
+
+ 
+Discharge Condition:
+Good
+
+ 
+Discharge Instructions:
+Continue to take all of your medications.  Please call your 
+doctor if [**Doctor First Name **] become more confused, develop significant 
+headaches, develop fevers, chills.
+ 
+Followup Instructions:
+Provider: [**First Name8 (NamePattern2) 144**] [**Name11 (NameIs) 798**], MD [**MD Number 150**]:[**Telephone/Fax (1) 2824**] 
+Date/Time:[**2900-8-5**] 3:00
+Provider: [**Name10 (NameIs) **],HEM/ONC HEMATOLOGY/ONCOLOGY-CC9 
+Date/Time:[**2900-8-5**] 3:00
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1053**] MD [**MD Number 1054**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1053**] MD [**MD Number 1054**] [**2900-7-23**] @ 1515
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: FRI [**2900-7-23**] 3:15 PM
+(End of Report)
+
+
+",,
+8634,10601,,,2900-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-7-16**] 8:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9455**]
+     Reason: COUGH, PRE OP
+     Admitting Diagnosis: RIGHT UPPER LOBE MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with R lobe lesion & hemoptysis for stent tomorrow              
+     REASON FOR THIS EXAMINATION:
+      ?                                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right lobe lesion.
+     
+     PORTABLE UPRIGHT CHEST RADIOGRAPH WITHOUT COMPARISONS.
+     
+     Right upper lobe consolidation is seen.  The remainder of the lungs are clear.
+     The cardiac and mediastinal silhouettes appear within normal limits in this
+     rotated examination.  No pleural effusions are evident.
+     
+     IMPRESSION:  Right upper lobe consolidation.  Given the clinical history, this
+     may represent the lesion which is described.
+     
+
+",,
+8634,10601,10746,,2900-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-7-17**] 3:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9456**]
+     Reason: evaluate rul infiltrate                                     
+     Admitting Diagnosis: RIGHT UPPER LOBE MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       67 year old man with R lobe lesion & hemoptysis s/p apc                        
+     REASON FOR THIS EXAMINATION:
+      evaluate rul infiltrate                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  AP chest performed on [**2900-7-17**].
+     
+     HISTORY:  67-year-old man with right upper lobe lesion.
+     
+     FINDINGS:  Comparison is made to prior study from [**2900-7-16**].
+     
+     There is again seen a area of consolidation within the right upper lobe which
+     is unchanged from prior.  There is new emphysematous gas seen within the lower
+     neck.  Question whether the patient has had recent intervention in this area.
+     The cardiac silhouette is slightly enlarged.  There is no signs for pulmonary
+     edema or large pleural effusions.  The left CP angle has been cut off from the
+     study.
+     
+     IMPRESSION:
+     
+     1.  Unchanged right upper lobe consolidation.
+     
+     2.  There is gas seen in the soft tissues of the lower right neck.  Please
+     correlate with any recent intervention since the previous study.
+     
+     
+
+",,
+8634,10601,10746,0,2900-07-17 03:01:00 EST,2900-07-17 03:24:00 EST,8110,"N",54,"Nursing/Other","Nursing Note:","
+Nursing Note:
+Pt admitted from [**Hospital6 **] for possible stent placement today.  Pt admitted initially to OSH for s/p fall and ""blacking out"" spells for more than a week. Pt with c/o right arm weakness x9days. Admitted for CVA and ?seizure disorder. Head CT showed left side lesion and a large parietal infarct with edema. Chest CT showed mediastinal mass near the pulmonary artery. Pt with hemoptysis.  A bronch was performed which showed bleeding from mass. 
+
+Neuro:  AAO x3. Perl 4mm brisk. Full eom. MAE.  Right arm weakness.  Able to lift and hold with rt arm but unable to grasp objects.  Pt states that his weakness is improving.  Normal strength with other extremeties. Speech clear. Tongue midline. No dysphagia. Good cough.
+
+Resp:  Lungs coarse. Sats 96% on 2lnc.  Nonproductive cough.  
+
+CV:  Afib without ectopy.  HR 50's. PIV x2. D5NS at 60cc/hr.  Pulses palpable. Abrasion to Rt arm. Mg and K repleted.  Afebrile.  HCT 23.7. Team aware.  BP 130/50's. 
+
+Gi/Gu:  Abdoment soft, flat.  +bS. NPO since midnight.  Voiding. urine sent for UA.  
+
+Plan:  To OR for ablation? or stent placement?  Monitor hct q6hr and lytes. Neuro checks. PT/OT. Pulmonary toilet.
+",,
+8634,10601,10746,0,2900-07-17 15:22:00 EST,2900-07-17 15:32:00 EST,2345,"N",54,"Nursing/Other",,"
+
+NEURO: APPEARS INTACT, ORIENTED X 3, MAE, RT HAND WEAKER THAN LT BUT ABLE TO SQUEEZE AND HE STATES THAT THAT HAS IMPROVED.
+
+CARDIAC: AF. 2UNIT OF CELLS ^, TO HAVE 2ND AFTER.
+
+RESP: CS DIMMINISHED IN BASES, CNR. RIGID BRONCH WITH ABLASTION AT 1330. TOLERATED PROCEDURE WELL.  VSS. VOIDED POST PROCEDURE.
+
+GI: NPO PRE PROCEDURE. 
+
+GU: VOIDING CLEAR YELLOW.
+
+ENDO: FOLLOWING PROTOCOL WITH Q 6 H GLUCOSES.
+
+PAIN: DEINIES.
+
+PLAN: ?TRANSFER TO F2 IN AM, TOLD NEEDS 1 DOSE OF RADIATION PRIOR TO HIS GOING BACK TO [**Hospital6 **], ? MONDAY. NEEDS 2ND UNIT CELLS AND HCT AT 2000.
+",,
+8634,10601,10746,0,2900-07-18 00:41:00 EST,2900-07-18 00:51:00 EST,2518,"N",54,"Nursing/Other",,"
+
+SEE CAREVUE FOR Q1H VS, I&O, Q4H CV ASSESSMENTS, LABS AND ALL OBJECTIVE DATA.
+
+NEURO: A&O X 3, PLEASANT AND COOPERATIVE. RUE WEAKER THAN OTHER EXTREMITIES. RESPONDED TO ADMINISTRATION OF DECADRON ""THAT IS FOR MY BRAIN SWELLING, RIGHT?""
+
+CV: ATRIAL FIB WITH VR 55-80(CHRONIC). HEMODYANICALLY STABLE, PALPABLE PEDAL PULSES. TOLERATED PRBC. AFEBRILE. D5NS AT 60CC/HR
+
+PULM:  LUNGS FAIRLY CLEAR.  RESPONDED WELL TO ATROVENT NEB RX. STRONG COUGH. SATS >95% ON 2L N/C.  
+
+ENDO:  4 UNITS REGULAR INSULIN SC AT 2400 FOR BS 144.
+
+GI: ABDOMEN SOFT, + BS. TAKING CLEAR LIQUIDS WELL. NO DIFFICULTY SWALLOWING.
+
+GU:  VOIDING SMALL AMTS CLEAR AMBER URINE IN URINAL.
+
+SOCIAL: NO VISITORS OR PHONE INQUIRIES. ""I'M PROBABLY GOING HOME TOMORROW AND GET MY RADIATION AT THE [**Hospital3 **].""
+
+PLAN:  TRANSFER TO [**Hospital Ward Name **] 2 IN AM.  ONCOLOGY TO MEET WITH PT AND WIFE TO DETERMINE RADIATION RX'S. PULM HYGIENE.  
+",,
+8634,10601,,,2900-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-7-19**] 8:55 AM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 9457**]
+     Reason: please evaluate head mass, likely lung mx                   
+     Admitting Diagnosis: RIGHT UPPER LOBE MASS
+      Contrast: MAGNEVIST Amt: 16
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with new lung mass, seen to have head mass at OSH, p/w seizure 
+      and hemoptysis.
+     REASON FOR THIS EXAMINATION:
+      please evaluate head mass, likely lung mx                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old man with new lung mass, presented with seizures send
+     hemoptysis, to evaluate the head mass, likely a metastasis.
+     
+     PRIOR STUDIES:  None.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted Imaging was performed with IV
+     contrast and diffusion-weighted imaging.
+     
+     FINDINGS:  There are two focal enhancing lesions in the corticomedullary
+     junction in bilateral mid frontal regions, the largest on the left side
+     measuring 1.2 x 1.1 x 2 cm.  There is moderate perilesional edema.  However,
+     there is no evidence of mass effect.  In addition, there is thickening and
+     heterogeneous enhancement focally in the anterior tentorium cerebelli
+     measuring 1.0 x 0.5 cm, series 10, image 19, series 8, image 10.  This most
+     likely represents dural metastasis.  In addition, on the FLAIR images (series
+     11, image 20), there is a tiny hyperintense focus in the right posterior
+     parietal corticomedullary region with a tiny focus of enhancement on the
+     contrast images.  This could represent another focus of metastasis.  The
+     ventricles and extra-axial CSF spaces are normal.  The visualized portions of
+     the paranasal sinuses and the orbits are unremarkable.  The osseous and the
+     soft tissue structures are unremarkable.
+     
+     On the diffusion-weighted images, no abnormality is noted.
+     
+     IMPRESSION:
+     
+     Features most likely due to metastases, bilateral mid frontal, right posterior
+     parietal, and dural-based metastasis in the anterior part of the tentorium
+     cerebelli.
+     
+     
+
+",,
+8634,10601,,,2900-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-7-19**] 10:06 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9458**]
+     CT PELVIS W/CONTRAST
+     Reason: staging for lung mass, likely lung cancer                   
+     Admitting Diagnosis: RIGHT UPPER LOBE MASS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with new lung mass, and head mass, p/w hemoptysis.              
+     REASON FOR THIS EXAMINATION:
+      staging for lung mass, likely lung cancer                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old man with new lung mass and head mass with hemoptysis,
+     staging for lung mass, likely lung cancer.
+     
+     TECHNIQUE:  Contrast-enhanced axial CT images of the thorax, abdomen and
+     pelvis were obtained with coronally and sagittally reformatted images.
+     
+     CT OF THE THORAX WITH INTRAVENOUS CONTRAST:  The right lobe of the thyroid
+     demonstrates a low attenuation lesion measuring 16 x 17 mm.  This is not
+     adequately characterized and correlation with U/S could be performed .
+     Significant right hilar and mediastinal lymphadenopathy is noted. Mediastinal
+     lymphadenopathy is located in the pretracheal and subcarinal areas of the
+     mediastinum with smaller lymph nodes noted perivascularly.  No axillary
+     lymphadenopathy is identified.  Lung windows reveal at least two definitive
+     right lung masses, the first is seen in series 3, image 19, and is located in
+     the right upper lobe posteriorly measuring approximately 28 x 19 mm.  Another
+     mass measuring 39 x 42 mm in series 3, image 24 is now located in the right
+     hilar region, it is heterogeneous in appearance and seems to abut the right
+     mainstem bronchus as well as the right side of the carina.  It also likely
+     abuts the right pulmonary artery.  It is unclear if this represents primary
+     tumor or a nodal metastasis from the previously described right upper lobe
+     mass.  Prominent inflammatory change is noted surrounding both of these
+     lesions. A pleural-based nodule is seen in the left lung on series 3, image
+     48, and measures approximately 6 mm.  Other small areas of focal nodularity
+     are located in series 3, image 32 in the left lung abutting the pleura
+     posterolaterally as well as within the right middle lobe on series 3 image 41.
+     In the right upper lobe, persistence of the azygos fissure is noted with a
+     prominent azygos vein within the fissure.   .
+     
+     Within the mediastinum and tracking into the soft tissues of the neck, several
+     small pockets of free air are noted.  These are likely related to patient's
+     recent history of bronchoscopy.  The heart demonstrates calcification of the
+     coronary arteries.  The pericardium is unremarkable.  The airways appear
+     patent to the level of the segmental bronchi bilaterally.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  The liver, gallbladder, spleen,
+     pancreas, adrenal glands, and kidneys are unremarkable.  The visualized small
+     and large bowel are unremarkable.  Periportal lymph nodes are noted, some of
+     which measure up to 1.3 cm in the short axis of unclear clinical significance.
+     No retroperitoneal lymphadenopathy is noted.  No intra-abdominal free air is
+                                                                 (Over)
+
+     DATE: [**2900-7-19**] 10:06 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9458**]
+     CT PELVIS W/CONTRAST
+     Reason: staging for lung mass, likely lung cancer                   
+     Admitting Diagnosis: RIGHT UPPER LOBE MASS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     seen.  Intra-abdominal soft tissue stranding is noted most significantly
+     around the kidneys bilaterally, likely related to mild anasarca.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The rectum, sigmoid colon,
+     bladder, and prostate are unremarkable.  Calcification of the internal iliac
+     arteries and aorta is identified.  No pathological lymphadenopathy is noted.
+     No pelvic free fluid is seen.
+     
+     SOFT TISSUE AND BONE:  A small ventral fat herniation into the anterior
+     abdominal wall is noted.  On series 3, image 86, an approximately 14-mm soft
+     tissue nodule is seen posterior to the ilia and is of unclear clinical
+     significance.  Bone windows reveal a 16 x 20 mm lytic lesion of the left iliac
+     [**Doctor First Name 2055**] with cortical thinning, likely a metastatic lesion.  No other suspicious
+     lesions are identified on bone windows.
+     
+     RECONSTRUCTIONS:  Coronal and sagittal reconstructions support the above
+     findings.
+     
+     IMPRESSION:
+     1.  Two right lung masses; one located posteriorly in the right upper lobe
+     within the parenchyma, the other located in the right hilum.  It is unclear if
+     the mass located in the parenchyma represents primary tumor in the hilar mass,
+     a nodal met.  Other nodes are located in the right hilum and within the
+     mediastinum.  The appearance of these lesions are worrisome for lung
+     carcinoma.
+     
+     2.  Small pleural-based lesions within left lung also suspicious for
+     malignancy.
+     
+     3.  Pockets of mediastinal air tracking into the soft tissues of the neck
+     consistent with patient's recent history of bronchoscopy.
+     
+     4.  Low attenuation lesion of right lobe of thyroid indeterminate
+     for metastatic lesion.
+     
+     5.  Likely a metastatic lesion of left iliac [**Doctor First Name 2055**].
+     
+     These results were relayed to Dr. [**First Name4 (NamePattern1) 1435**] [**Last Name (NamePattern1) 9459**] at the time of this
+     dictation.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2900-7-19**] 10:06 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9458**]
+     CT PELVIS W/CONTRAST
+     Reason: staging for lung mass, likely lung cancer                   
+     Admitting Diagnosis: RIGHT UPPER LOBE MASS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+8634,10601,,,2900-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-7-19**] 10:06 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9458**]
+     CT PELVIS W/CONTRAST
+     Reason: staging for lung mass, likely lung cancer                   
+     Admitting Diagnosis: RIGHT UPPER LOBE MASS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with new lung mass, and head mass, p/w hemoptysis.              
+     REASON FOR THIS EXAMINATION:
+      staging for lung mass, likely lung cancer                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old man with new lung mass and head mass with hemoptysis,
+     staging for lung mass, likely lung cancer.
+     
+     TECHNIQUE:  Contrast-enhanced axial CT images of the thorax, abdomen and
+     pelvis were obtained with coronally and sagittally reformatted images.
+     
+     CT OF THE THORAX WITH INTRAVENOUS CONTRAST:  The right lobe of the thyroid
+     demonstrates a low attenuation lesion measuring 16 x 17 mm.  This is not
+     adequately characterized and correlation with U/S could be performed .
+     Significant right hilar and mediastinal lymphadenopathy is noted. Mediastinal
+     lymphadenopathy is located in the pretracheal and subcarinal areas of the
+     mediastinum with smaller lymph nodes noted perivascularly.  No axillary
+     lymphadenopathy is identified.  Lung windows reveal at least two definitive
+     right lung masses, the first is seen in series 3, image 19, and is located in
+     the right upper lobe posteriorly measuring approximately 28 x 19 mm.  Another
+     mass measuring 39 x 42 mm in series 3, image 24 is now located in the right
+     hilar region, it is heterogeneous in appearance and seems to abut the right
+     mainstem bronchus as well as the right side of the carina.  It also likely
+     abuts the right pulmonary artery.  It is unclear if this represents primary
+     tumor or a nodal metastasis from the previously described right upper lobe
+     mass.  Prominent inflammatory change is noted surrounding both of these
+     lesions. A pleural-based nodule is seen in the left lung on series 3, image
+     48, and measures approximately 6 mm.  Other small areas of focal nodularity
+     are located in series 3, image 32 in the left lung abutting the pleura
+     posterolaterally as well as within the right middle lobe on series 3 image 41.
+     In the right upper lobe, persistence of the azygos fissure is noted with a
+     prominent azygos vein within the fissure.   .
+     
+     Within the mediastinum and tracking into the soft tissues of the neck, several
+     small pockets of free air are noted.  These are likely related to patient's
+     recent history of bronchoscopy.  The heart demonstrates calcification of the
+     coronary arteries.  The pericardium is unremarkable.  The airways appear
+     patent to the level of the segmental bronchi bilaterally.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  The liver, gallbladder, spleen,
+     pancreas, adrenal glands, and kidneys are unremarkable.  The visualized small
+     and large bowel are unremarkable.  Periportal lymph nodes are noted, some of
+     which measure up to 1.3 cm in the short axis of unclear clinical significance.
+     No retroperitoneal lymphadenopathy is noted.  No intra-abdominal free air is
+                                                                 (Over)
+
+     DATE: [**2900-7-19**] 10:06 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9458**]
+     CT PELVIS W/CONTRAST
+     Reason: staging for lung mass, likely lung cancer                   
+     Admitting Diagnosis: RIGHT UPPER LOBE MASS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     seen.  Intra-abdominal soft tissue stranding is noted most significantly
+     around the kidneys bilaterally, likely related to mild anasarca.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The rectum, sigmoid colon,
+     bladder, and prostate are unremarkable.  Calcification of the internal iliac
+     arteries and aorta is identified.  No pathological lymphadenopathy is noted.
+     No pelvic free fluid is seen.
+     
+     SOFT TISSUE AND BONE:  A small ventral fat herniation into the anterior
+     abdominal wall is noted.  On series 3, image 86, an approximately 14-mm soft
+     tissue nodule is seen posterior to the ilia and is of unclear clinical
+     significance.  Bone windows reveal a 16 x 20 mm lytic lesion of the left iliac
+     [**Doctor First Name 2055**] with cortical thinning, likely a metastatic lesion.  No other suspicious
+     lesions are identified on bone windows.
+     
+     RECONSTRUCTIONS:  Coronal and sagittal reconstructions support the above
+     findings.
+     
+     IMPRESSION:
+     1.  Two right lung masses; one located posteriorly in the right upper lobe
+     within the parenchyma, the other located in the right hilum.  It is unclear if
+     the mass located in the parenchyma represents primary tumor in the hilar mass,
+     a nodal met.  Other nodes are located in the right hilum and within the
+     mediastinum.  The appearance of these lesions are worrisome for lung
+     carcinoma.
+     
+     2.  Small pleural-based lesions within left lung also suspicious for
+     malignancy.
+     
+     3.  Pockets of mediastinal air tracking into the soft tissues of the neck
+     consistent with patient's recent history of bronchoscopy.
+     
+     4.  Low attenuation lesion of right lobe of thyroid indeterminate
+     for metastatic lesion.
+     
+     5.  Likely a metastatic lesion of left iliac [**Doctor First Name 2055**].
+     
+     These results were relayed to Dr. [**First Name4 (NamePattern1) 1435**] [**Last Name (NamePattern1) 9459**] at the time of this
+     dictation.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2900-7-19**] 10:06 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9458**]
+     CT PELVIS W/CONTRAST
+     Reason: staging for lung mass, likely lung cancer                   
+     Admitting Diagnosis: RIGHT UPPER LOBE MASS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+8634,10601,,,2900-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-7-19**] 10:06 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9458**]
+     CT PELVIS W/CONTRAST
+     Reason: staging for lung mass, likely lung cancer                   
+     Admitting Diagnosis: RIGHT UPPER LOBE MASS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with new lung mass, and head mass, p/w hemoptysis.              
+     REASON FOR THIS EXAMINATION:
+      staging for lung mass, likely lung cancer                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  67-year-old man with new lung mass and head mass with hemoptysis,
+     staging for lung mass, likely lung cancer.
+     
+     TECHNIQUE:  Contrast-enhanced axial CT images of the thorax, abdomen and
+     pelvis were obtained with coronally and sagittally reformatted images.
+     
+     CT OF THE THORAX WITH INTRAVENOUS CONTRAST:  The right lobe of the thyroid
+     demonstrates a low attenuation lesion measuring 16 x 17 mm.  This is not
+     adequately characterized and correlation with U/S could be performed .
+     Significant right hilar and mediastinal lymphadenopathy is noted. Mediastinal
+     lymphadenopathy is located in the pretracheal and subcarinal areas of the
+     mediastinum with smaller lymph nodes noted perivascularly.  No axillary
+     lymphadenopathy is identified.  Lung windows reveal at least two definitive
+     right lung masses, the first is seen in series 3, image 19, and is located in
+     the right upper lobe posteriorly measuring approximately 28 x 19 mm.  Another
+     mass measuring 39 x 42 mm in series 3, image 24 is now located in the right
+     hilar region, it is heterogeneous in appearance and seems to abut the right
+     mainstem bronchus as well as the right side of the carina.  It also likely
+     abuts the right pulmonary artery.  It is unclear if this represents primary
+     tumor or a nodal metastasis from the previously described right upper lobe
+     mass.  Prominent inflammatory change is noted surrounding both of these
+     lesions. A pleural-based nodule is seen in the left lung on series 3, image
+     48, and measures approximately 6 mm.  Other small areas of focal nodularity
+     are located in series 3, image 32 in the left lung abutting the pleura
+     posterolaterally as well as within the right middle lobe on series 3 image 41.
+     In the right upper lobe, persistence of the azygos fissure is noted with a
+     prominent azygos vein within the fissure.   .
+     
+     Within the mediastinum and tracking into the soft tissues of the neck, several
+     small pockets of free air are noted.  These are likely related to patient's
+     recent history of bronchoscopy.  The heart demonstrates calcification of the
+     coronary arteries.  The pericardium is unremarkable.  The airways appear
+     patent to the level of the segmental bronchi bilaterally.
+     
+     CT OF THE ABDOMEN WITH INTRAVENOUS CONTRAST:  The liver, gallbladder, spleen,
+     pancreas, adrenal glands, and kidneys are unremarkable.  The visualized small
+     and large bowel are unremarkable.  Periportal lymph nodes are noted, some of
+     which measure up to 1.3 cm in the short axis of unclear clinical significance.
+     No retroperitoneal lymphadenopathy is noted.  No intra-abdominal free air is
+                                                                 (Over)
+
+     DATE: [**2900-7-19**] 10:06 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9458**]
+     CT PELVIS W/CONTRAST
+     Reason: staging for lung mass, likely lung cancer                   
+     Admitting Diagnosis: RIGHT UPPER LOBE MASS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     seen.  Intra-abdominal soft tissue stranding is noted most significantly
+     around the kidneys bilaterally, likely related to mild anasarca.
+     
+     CT OF THE PELVIS WITH INTRAVENOUS CONTRAST:  The rectum, sigmoid colon,
+     bladder, and prostate are unremarkable.  Calcification of the internal iliac
+     arteries and aorta is identified.  No pathological lymphadenopathy is noted.
+     No pelvic free fluid is seen.
+     
+     SOFT TISSUE AND BONE:  A small ventral fat herniation into the anterior
+     abdominal wall is noted.  On series 3, image 86, an approximately 14-mm soft
+     tissue nodule is seen posterior to the ilia and is of unclear clinical
+     significance.  Bone windows reveal a 16 x 20 mm lytic lesion of the left iliac
+     [**Doctor First Name 2055**] with cortical thinning, likely a metastatic lesion.  No other suspicious
+     lesions are identified on bone windows.
+     
+     RECONSTRUCTIONS:  Coronal and sagittal reconstructions support the above
+     findings.
+     
+     IMPRESSION:
+     1.  Two right lung masses; one located posteriorly in the right upper lobe
+     within the parenchyma, the other located in the right hilum.  It is unclear if
+     the mass located in the parenchyma represents primary tumor in the hilar mass,
+     a nodal met.  Other nodes are located in the right hilum and within the
+     mediastinum.  The appearance of these lesions are worrisome for lung
+     carcinoma.
+     
+     2.  Small pleural-based lesions within left lung also suspicious for
+     malignancy.
+     
+     3.  Pockets of mediastinal air tracking into the soft tissues of the neck
+     consistent with patient's recent history of bronchoscopy.
+     
+     4.  Low attenuation lesion of right lobe of thyroid indeterminate
+     for metastatic lesion.
+     
+     5.  Likely a metastatic lesion of left iliac [**Doctor First Name 2055**].
+     
+     These results were relayed to Dr. [**First Name4 (NamePattern1) 1435**] [**Last Name (NamePattern1) 9459**] at the time of this
+     dictation.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2900-7-19**] 10:06 AM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 9458**]
+     CT PELVIS W/CONTRAST
+     Reason: staging for lung mass, likely lung cancer                   
+     Admitting Diagnosis: RIGHT UPPER LOBE MASS
+      Contrast: OPTIRAY Amt: 130
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+8634,10601,,,2900-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8634,10601,,,2900-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-7-20**] 2:27 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9460**]
+     Reason: s/p TBNA                                                    
+     Admitting Diagnosis: RIGHT UPPER LOBE MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        67 year old man with R lobe lesion & hemoptysis s/p apc                       
+       
+     REASON FOR THIS EXAMINATION:
+      s/p TBNA                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  History of right lobe lesion status post transbronchial
+     needle aspiration.  Patient with hemoptysis.
+     
+     PORTABLE AP CHEST RADIOGRAPH:  Comparison is made to prior radiograph from
+     [**2900-7-17**].  The right upper lobe opacity is unchanged.  No pneumothorax
+     is evident.  The left lung is clear.  The heart size is normal with no
+     pulmonary vascular congestion or pleural effusions.  The enlarged right hilum
+     is unchanged which correlates to the mass seen on CT scan.
+     
+     IMPRESSION:  Persistent right upper lobe opacity and right hilar mass
+     unchanged from prior radiograph.  No pneumothorax.
+
+",,
+8634,,,,2900-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 9461**]
+     Reason: LUNG CA; INTIAL STAGING (NON SMALL CELL)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     RADIOPHARMECEUTICAL DATA:
+        20.7 mCi F-18 FDG ([**2900-8-18**]);
+     INDICATION:  68 year old male with non-small cell lung cancer. 
+      
+     METHODS: Approximately 1 hour after intravenous administration of F-18 
+     fluorodeoxyglucose (FDG), noncontrast CT images were obtained for attenuation
+     correction and for fusion with emission PET images. [The noncontrast CT images
+     are not used to diagnose disease independently of the PET images.]  A series of
+     overlapping emission PET images was then obtained. The fasting blood glucose
+     level, measured by glucometer before injection of FDG, was 92 mg/dL. The area
+     imaged spanned the region from the skull base to the mid thigh. 
+      
+     Computed tomography (CT) images were co-registered and fused with emission PET
+     images to assist with the anatomic localization of tracer uptake.  The
+     determination of the site of tracer uptake seen on PET data can have important
+     implications regarding the significance of that uptake. 
+      
+     INTERPRETATION:  There is no FDG avid disease in the head and neck. In the right
+     upper lobe, a 25 x 15 mm solid, spiculated mass ([**12/2851**]) is strongly FDG avid
+     with a max SUV of 16.7 and appears slightly larger than on prior CT dated
+     [**2900-7-19**]. Surrounding subpleural cystic change is also FDG avid with a max SUV of
+     2.8.  Bulky right perihilar lymphadenopathy  has a max SUV of 14.2.  Low level
+     FDG avidity associated with a 14 x 11 mm lobulated nodule adjacent to the right
+     minor fissure ([**12/2867**]) has a max SUV of 2.5. Increased FDG avidity is seen
+     diffusely in the right middle lobe with a max SUV of 2.7.   
+      
+     In the left lung, an 8 mm subpleural nodule in the left lower lobe ([**12/2877**]) and a
+     nodule in the left lung base ([**12/2884**]) are not FDG avid. Increased FDG avidity is
+     associated with a diffuse region of paraseptal thickening and nodularity in the
+     left upper lobe, with a max SUV of 3.6. Multiple prominent mediastinal lymph
+     nodes are mildly FDG avid.  A representative subcarinal lymph node ([**12/2861**])
+     measures 17 mm in short axis and has a max SUV of 3.0. 
+      
+     Below the diaphragm, a single FDG avid, soft tissue density lesion in the right
+     buttock subcutaneous fat measures 1 cm (2/136), with a max SUV of 15.8.  A 9mm
+     soft tissue density lesion in the spinal canal (2/142) and adjacent to the left
+     S1 nerve root has a max SUV of 16.4.  A 26 x 17 mm left iliac bone lesion
+     (2/150) has a max SUV of 26.6. 
+      
+     CT images demonstrate a lytic appearing focus in the occipital bone is not FDG
+     avid and likely represents a venous [**Doctor Last Name **].  Additional CT findings include: mild
+     mucosal thickening in the right maxillary sinus, dense atherosclerosis and
+     coronary artery calcifications, gynecomastia, a small umbilical hernia,
+     gallstones, mild edema in the surrounding soft tissues. 
+      
+     Physiologic uptake is seen in the imaged brain, salivary glands, larynx, liver,
+     GI and [**Hospital Unit Name 755**] systems.  
+                                                                 (Over)
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 9461**]
+     Reason: LUNG CA; INTIAL STAGING (NON SMALL CELL)
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+        
+     IMPRESSION:  1. FDG avid, right upper lobe lung nodule consistent with patient's
+     known lung cancer.  2.  FDG avid, right perihilar lymphadenopathy is concerning
+     for metastatic spread of tumor. Additional metastases are seen in the spinal
+     canal, adjacent to the left S1 nerve root, the subcutaneous tissues overlying
+     the right buttock, and the left iliac bone.  3. Low level FDG avid nodular
+     opacities in the right middle lobe, left upper lobe are more consistent with an
+     infectious/inflammatory etiology.    
+                                                                           
+
+             [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1850**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 545**] [**Last Name (NamePattern1) 546**], M.D.     Approved: TUE [**2900-8-24**] 3:39 PM
+
+
+             Date Mailed: [**2900-8-25**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8634,,,,2900-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-8-25**] 5:29 PM
+     CTA CHEST W&W/O C &RECONS                                       Clip # [**Clip Number (Radiology) 9463**]
+     Reason: eval for PE, PNA, volume overload                           
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with lung cancer, brain cancer, now with increased SOB over the 
+      past 2-3 days
+     REASON FOR THIS EXAMINATION:
+      eval for PE, PNA, volume overload                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: KLMn WED [**2900-8-25**] 6:25 PM
+      new consolidative opacities in both lungs as well larger pleural effusion on
+      the left.  no central or segmental pulmonary embolism.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  68-year-old man with lung cancer, brain cancer, now shortness of
+     breath.  
+     
+     COMPARISON:  [**2900-8-18**].
+     
+     TECHNIQUE:  Multidetector CT scanning of the chest was performed before and
+     after the administration of intravenous contrast.  Multiplanar reformations
+     were obtained.
+     
+     CT OF THE CHEST:  No central or segmental filling defects are identified
+     within the pulmonary arteries to suggest embolism.  The heart is mildly
+     enlarged.  The pericardium appears unremarkable.  The bulky right hilar mass
+     is again seen, narrowing the right mainstem bronchus, and encasing the
+     pulmonary vessels. Multiple mediastinal nodes are stable in appearance.  There
+     has been an increase in the moderate left pleural effusion, and there is a new
+     small right pleural effusion.
+     
+     Multifocal consolidative opacities are new, and there is progression of the
+     previously seen ground glass opacities, involving the left upper lobe, the
+     right middle lobe, both lower lobes. A more nodular region of opacity is seen
+     in the right upper lung measuring 1.7 cm, best seen on series 3, image 21, in
+     the region of prior FDG avidity.
+     
+     The superior aspect of the liver, stomach, and spleen appear unremarkable.
+     
+     OSSEOUS STRUCTURES:  No concerning lytic or sclerotic lesions are identified. 
+     
+     IMPRESSION:  
+     1.  Multifocal consolidative and ground glass opacities consistent with
+     pneumonia.
+     2.  Right hilar mass narrowing the right mainstem bronchus, and right upper
+     lobe nodule again seen.
+     3.  No evidence of central or segmental pulmonary embolism.
+     4.  Increase in the size of bilateral pleural effusions.
+                                                                 (Over)
+
+     DATE: [**2900-8-25**] 5:29 PM
+     CTA CHEST W&W/O C &RECONS                                       Clip # [**Clip Number (Radiology) 9463**]
+     Reason: eval for PE, PNA, volume overload                           
+      Contrast: OPTIRAY Amt: 80
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8634,,,,2900-08-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-8-25**] 4:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9462**]
+     Reason: ? chf                                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         67 year old man with R lobe lesion & hemoptysis s/p apc    sob               
+            
+     REASON FOR THIS EXAMINATION:
+      ? chf                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Single portable AP chest radiograph.
+     
+     INDICATION:  67-year-old male with known right lung lesion, now presenting
+     with hemoptysis and shortness of breath.
+     
+     COMPARISON:  Single portable AP chest radiograph [**2900-7-20**].
+     
+     FINDINGS:  New confluent patchy opacity identified within the entire left lung
+     field and right lower lobe.  Given the relative asymmetric nature with sparing
+     in the right upper lobe, multilobar pneumonia more likely, with diffuse
+     pulmonary hemorrhage less likely.  No definite pleural effusions or
+     pneumothoraces are identified.
+     
+     Please refer to CTA dated the same date for further characterization of
+     parenchymal disease.
+
+",,
+8634,,,,2900-08-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-8-27**] 7:27 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9464**]
+     Reason: place 2 lumen PICC                                          
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 54**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with poor access and lung cancer                                
+     REASON FOR THIS EXAMINATION:
+      place 2 lumen PICC                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PICC LINE PLACEMENT:
+     
+     INDICATION:  68-year-old man with lung cancer needs IV access.
+     
+     Details of the procedure were explained to the patient.
+     
+     RADIOLOGIST:  Dr. [**Last Name (STitle) 389**] was performing the procedure.
+     
+     TECHNIQUE:  Using sterile technique and local anesthesia, the left basilic
+     vein was localized with ultrasound and punctured under direct ultrasound
+     guidance using a micropuncture set.  Hard copies of ultrasound images were
+     obtained before and immediately after establishing intravenous access.  A
+     peel-away sheath was then placed.  A dual lumen PICC line was then placed over
+     the wire through the sheath and its tip positioned in SVC under fluoroscopic
+     guidance.  Position of the catheter was confirmed by chest x-ray in one view.
+     A guidewire and the sheath were then removed.  The catheter was secured to the
+     skin.  A sterile dressing was applied.
+     
+     The total length of the catheter 42 cm.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided dual-lumen
+     PICC line placement via the left basilic vein with the tip positioned in SVC.
+     
+     
+     
+
+",,
+8634,,,,2900-08-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-8-27**] 7:27 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9464**]
+     Reason: place 2 lumen PICC                                          
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 54**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with poor access and lung cancer                                
+     REASON FOR THIS EXAMINATION:
+      place 2 lumen PICC                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PICC LINE PLACEMENT:
+     
+     INDICATION:  68-year-old man with lung cancer needs IV access.
+     
+     Details of the procedure were explained to the patient.
+     
+     RADIOLOGIST:  Dr. [**Last Name (STitle) 389**] was performing the procedure.
+     
+     TECHNIQUE:  Using sterile technique and local anesthesia, the left basilic
+     vein was localized with ultrasound and punctured under direct ultrasound
+     guidance using a micropuncture set.  Hard copies of ultrasound images were
+     obtained before and immediately after establishing intravenous access.  A
+     peel-away sheath was then placed.  A dual lumen PICC line was then placed over
+     the wire through the sheath and its tip positioned in SVC under fluoroscopic
+     guidance.  Position of the catheter was confirmed by chest x-ray in one view.
+     A guidewire and the sheath were then removed.  The catheter was secured to the
+     skin.  A sterile dressing was applied.
+     
+     The total length of the catheter 42 cm.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided dual-lumen
+     PICC line placement via the left basilic vein with the tip positioned in SVC.
+     
+     
+     
+
+",,
+8634,,,,2900-08-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-8-27**] 7:27 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9464**]
+     Reason: place 2 lumen PICC                                          
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 54**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with poor access and lung cancer                                
+     REASON FOR THIS EXAMINATION:
+      place 2 lumen PICC                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PICC LINE PLACEMENT:
+     
+     INDICATION:  68-year-old man with lung cancer needs IV access.
+     
+     Details of the procedure were explained to the patient.
+     
+     RADIOLOGIST:  Dr. [**Last Name (STitle) 389**] was performing the procedure.
+     
+     TECHNIQUE:  Using sterile technique and local anesthesia, the left basilic
+     vein was localized with ultrasound and punctured under direct ultrasound
+     guidance using a micropuncture set.  Hard copies of ultrasound images were
+     obtained before and immediately after establishing intravenous access.  A
+     peel-away sheath was then placed.  A dual lumen PICC line was then placed over
+     the wire through the sheath and its tip positioned in SVC under fluoroscopic
+     guidance.  Position of the catheter was confirmed by chest x-ray in one view.
+     A guidewire and the sheath were then removed.  The catheter was secured to the
+     skin.  A sterile dressing was applied.
+     
+     The total length of the catheter 42 cm.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided dual-lumen
+     PICC line placement via the left basilic vein with the tip positioned in SVC.
+     
+     
+     
+
+",,
+8634,,,,2900-08-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-8-27**] 7:27 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9464**]
+     Reason: place 2 lumen PICC                                          
+     Admitting Diagnosis: PNEUMONIA
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 54**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      68 year old man with poor access and lung cancer                                
+     REASON FOR THIS EXAMINATION:
+      place 2 lumen PICC                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PICC LINE PLACEMENT:
+     
+     INDICATION:  68-year-old man with lung cancer needs IV access.
+     
+     Details of the procedure were explained to the patient.
+     
+     RADIOLOGIST:  Dr. [**Last Name (STitle) 389**] was performing the procedure.
+     
+     TECHNIQUE:  Using sterile technique and local anesthesia, the left basilic
+     vein was localized with ultrasound and punctured under direct ultrasound
+     guidance using a micropuncture set.  Hard copies of ultrasound images were
+     obtained before and immediately after establishing intravenous access.  A
+     peel-away sheath was then placed.  A dual lumen PICC line was then placed over
+     the wire through the sheath and its tip positioned in SVC under fluoroscopic
+     guidance.  Position of the catheter was confirmed by chest x-ray in one view.
+     A guidewire and the sheath were then removed.  The catheter was secured to the
+     skin.  A sterile dressing was applied.
+     
+     The total length of the catheter 42 cm.
+     
+     The patient tolerated the procedure well.  There were no immediate
+     complications.
+     
+     IMPRESSION:  Uncomplicated ultrasound and fluoroscopically guided dual-lumen
+     PICC line placement via the left basilic vein with the tip positioned in SVC.
+     
+     
+     
+
+",,
+8634,,,,2900-08-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-8-28**] 2:50 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9465**]
+     Reason: Please evaluate for pulmonary process                       
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          67 year old man with R lobe lesion & hemoptysis s/p bronch now with acute 
+      desaturation        
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for pulmonary process                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right lobe lesion, hemoptysis, status post bronchoscopy, with
+     acute desaturation.
+     
+     TECHNIQUE:  Single portable AP upright radiograph was compared with
+     examination from three days ago.
+     
+     FINDINGS:  There has been slight interval improvement in the right lower lobe
+     peripheral opacity, although there has been slight interval worsening of
+     opacities seen at the left lung apex.  The remainder of the lung fields
+     appears essentially unchanged since the prior examination with confluent
+     opacity seen involving the entire left lung and the right lower lobe.
+     
+     IMPRESSION: Overall, the severity of opacities is not significantly changed
+     since the prior study.
+
+",,
+8634,,,,2900-08-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-8-28**] 12:30 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 9466**]
+     Reason: r/o pathology, assess fluid status                          
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with R lobe lesion & hemoptysis s/p bronch now with acute  
+      desaturation        
+     REASON FOR THIS EXAMINATION:
+      r/o pathology, assess fluid status                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2900-8-28**] at 13:16
+     
+     INDICATION:  Desaturation.
+     
+     COMPARISON:  [**2900-8-28**] at 03:04.
+     
+     FINDINGS:
+     
+     The distribution of airspace interstitial findings is not significantly
+     changed, although there is less opacity in the left upper lobe.  No new areas
+     of involvement are seen.  There is no pneumothorax.
+     
+     IMPRESSION:  Slightly better aeration in the left upper lung field, but
+     overall, not a great deal of change compared to prior.
+                                                                           
+
+",,
+8634,,,,2900-08-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2900-8-28**] 12:30 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 9466**]
+     Reason: r/o pathology, assess fluid status                          
+     Admitting Diagnosis: PNEUMONIA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      67 year old man with R lobe lesion & hemoptysis s/p bronch now with acute  
+      desaturation        
+     REASON FOR THIS EXAMINATION:
+      r/o pathology, assess fluid status                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**2900-8-28**] at 13:16
+     
+     INDICATION:  Desaturation.
+     
+     COMPARISON:  [**2900-8-28**] at 03:04.
+     
+     FINDINGS:
+     
+     The distribution of airspace interstitial findings is not significantly
+     changed, although there is less opacity in the left upper lobe.  No new areas
+     of involvement are seen.  There is no pneumothorax.
+     
+     IMPRESSION:  Slightly better aeration in the left upper lung field, but
+     overall, not a great deal of change compared to prior.
+                                                                           
+
+",,
+8634,,,,2900-08-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,

@@ -1,0 +1,898 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8043,12173,,,2536-07-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2536-7-16**]              Discharge Date:   [**2536-7-19**]
+ 
+Date of Birth:  [**2473-12-9**]             Sex:   M
+ 
+Service: CMED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 340**] 
+Chief Complaint:
+Vfib arrest.
+ 
+Major Surgical or Invasive Procedure:
+Telemetry.
+Maintained on endotracheal intubation.
+Arterial line.
+Subclavian central line.
+
+ 
+History of Present Illness:
+62y/o M found down in field with v fib-->arrest after completing 
+a 2 mile bike ride. Down for approx. 5 min before CPR and 10 min 
+before EMS arrival, shocked for VFib x 4, intubated, given epi, 
+lidocaine, atropine and -> to OSH. In OSH, was in/out of VT, 
+shocked x 6, and started on amiodarone, stabilising in probable 
+junctional rhythm. CT showed occipital hematoma from fall with 
+likely contracoup left frontal subdural hematoma and contusion, 
+also small subarachnoid. 
+ 
+Past Medical History:
+- CAD s/p CABG
+- stents and s/p balloon angioplasty revision
+- DM2
+- HTN 
+ 
+Social History:
+SocHx: Married, bank worker/chamber of commerce/sedentary. 
+Remote tobacco history, occ. EtOH, -IVDA.  
+
+ 
+Family History:
+FamHx: MI mother & father, 55 y/o and ~70y/o respectively.  
+
+ 
+Physical Exam:
+Deceased. Time of death: 3.33pm, [**2536-7-19**].
+ 
+Pertinent Results:
+[**Known patient lastname 11085**],[**Known patient firstname **]: [**Hospital1 83**] Neurophysiology Detail - CCC Record #[**Telephone/Fax (1) 11086**] 
+
+04-1819D - CCC 
+REPORT APPROVED DATE:[**2536-7-18**] 
+TEST DATE: [**2536-7-17**] 
+INTERPRETED BY: [**Last Name (LF) 3808**],[**First Name3 (LF) **] L.
+
+FINDINGS: 
+ABNORMALITY#1: The background rhythm is low voltage. At 2 
+microvolt
+amplification [**Hospital1 **]-frontal beta activity is visible and there is
+intermittent theta frequency activity with a 1 Hz delta 
+frequency
+background rhythm. This delta frequency slowing appears 
+synchronous with
+the cardiac monitor and may reflect a pulse artifact.
+BACKGROUND: As above.
+HYPERVENTILATION: Was not performed due to the patient's 
+clinical
+condition.
+INTERMITTENT PHOTIC STIMULATION: Was not performed since this 
+was a
+portable study.
+[**Doctor Last Name **]: Normal [**Doctor Last Name 314**] architecture was not seen.
+CARDIAC MONITOR: Sinus tachycardia with a rate of 108 beats per 
+minute.
+IMPRESSION: This is an abnormal portable EEG due to the low 
+voltage
+background activity. [**Hospital1 **]-frontal beta activity is present as is
+intermittent theta frequency slowing of the background rhythm. A 
+delta
+frequency background rhythm is also present and may reflect a 
+pulsation
+artifact. Painful stimulation during the recording did not alter 
+the
+background rhythm. These findings suggest a severe 
+encephalopathy and
+could be consistent with hypoxic injury from cardiac arrest but
+medication effects are also possible. No epileptiform activity 
+was seen.
+A narrow complex tachycardia was noted on the cardiac monitor.
+OBJECT: 62 year old man with a history of recent cardiac arrest.
+Evaluate for seizures.
+ 
+
+ 
+Brief Hospital Course:
+The patient was transferred to [**Hospital1 83**] from an OSH. He was 
+cardiovascularly supported in the CCU, with the hope that the 
+neurological sequelae of his vfib arrest might resolve. However, 
+CT imaging determined that extensive severe anoxic brain injury 
+had occurred. In conjunction with the patient's poor clinical 
+presentation on neurological exam, this indicated a very poor 
+prognosis. The patient was placed on comfort measures on [**2536-7-19**] 
+and extubated. The patient's cardiovascular status began to 
+deteriorate. Pt. died at 3.33pm.
+ 
+Medications on Admission:
+Amiodarone HCl 0.5 mg/min IV INFUSION Duration: 18 Hours  
+Acetaminophen 325-650 mg PO Q4-6H:PRN  
+Insulin SC (per Insulin Flowsheet) Sliding Scale 
+Levofloxacin 500 mg IV ONCE Duration: 1 Doses  
+Metronidazole 500 mg IV Q8H  
+Propofol 5-20 mcg/kg/min IV DRIP TITRATE TO sedation  
+Pantoprazole 40 mg PO Q24H  
+Aspirin 325 mg PO QD  
+Amiodarone HCl 400 mg PO TID  
+
+ 
+Discharge Medications:
+None.
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+Patient's family has selected a funeral home in [**State 1877**].
+ 
+Discharge Diagnosis:
+Ventricular fibrillation leading to severe anoxic brain injury.
+ 
+Discharge Condition:
+Deceased.
+ 
+Discharge Instructions:
+None.
+ 
+Followup Instructions:
+None.
+ 
+                             [**First Name11 (Name Pattern1) 190**] [**Last Name (NamePattern4) 352**] MD [**MD Number 353**]
+ 
+Completed by: [**Name6 (MD) **] [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **] [**MD Number 2279**] [**2536-7-19**] @ 1604
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 190**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 189**]
+ on: [**Doctor First Name 46**] [**2536-7-19**] 4:28 PM
+(End of Report)
+
+
+",,
+8043,12173,,,2536-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2536-7-16**] 6:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4130**]
+     Reason: ETT placement? change in cardiopulm status?                 
+     Admitting Diagnosis: V-TACH ARREST;SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man CAD s/p CABG. intubated after cardiopulm arrest                 
+     REASON FOR THIS EXAMINATION:
+      ETT placement? change in cardiopulm status?                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Intubated patient after cardiopulmonary arrest.
+     
+     TECHNIQUE: Single portable AP view of the chest was obtained without
+     comparison.
+     
+     FINDINGS:  There is an ET tube in place, with the tip approximately 4 cm above
+     the carina.  NG tube is also seen, extending through the stomach beyond the
+     inferior border of the film.  The cardiac silhouette is probably within normal
+     limits given the portable AP technique. The entire lateral portion of the
+     right hemithorax has been coned off from view.  No evidence of pneumothorax or
+     definite pleural effusions.
+     
+     IMPRESSION: Appropriate  positioning of ET tube.  No significant abnormalities
+     in the visualized portions of the lungs.
+
+",,
+8043,12173,,,2536-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2536-7-16**] 12:00 PM
+     TRAUMA #2 (AP CXR & PELVIS PORT) PORT                           Clip # [**Clip Number (Radiology) 4123**]
+     Reason: check tube position, eval for disease                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with cardiac arrest, SDH                                        
+     REASON FOR THIS EXAMINATION:
+      check tube position, eval for disease                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Trauma, cardiac arrest, subdural hemorrhage. Evaluate endotracheal
+     tube position.
+     
+     COMPARISON: None.
+     
+     AP SUPINE VIEW OF THE CHEST: An endotracheal tube is identified with tip in
+     appropriate location approximately 4 cm from the carina. The heart is normal
+     in size. The patient is status post median sternotomy and CABG. There is mild
+     upper zone vascular redistribution and vascular indistinctness, findings
+     consistent with mild congestive heart failure. No pleural effusions or
+     pneumothorax is identified. The soft tissues and osseous structures are
+     unremarkable.
+     
+     AP VIEW OF THE PELVIS: No fractures or dislocations are identified. The hips
+     and sacroiliac joints are preserved. No soft tissue masses are seen.
+     
+     IMPRESSION:
+     1. Satisfactory placement of endotracheal tube.
+     2. Mild congestive heart failure.
+     3. No fracture or dislocation identified within the pelvis.
+     
+
+",,
+8043,12173,,,2536-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2536-7-16**] 12:32 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4129**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Eval for injury                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with s/p fall with SDH                                          
+     REASON FOR THIS EXAMINATION:
+      Eval for injury                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDdp MON [**2536-7-16**] 1:35 PM
+      no acute traumatic injury in abdomen or pelvis.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Trauma, status post fall with subdural hemorrhage. Evaluate for
+     abdominal injury.
+     
+     COMPARISON: None.
+     
+     TECHNIQUE: Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis following the administration of 150 cc of IV
+     Optiray. Nonionic contrast was administered secondary to trauma. Multiplanar
+     reconstructions were performed.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST: Bibasilar atelectasis is present. 
+     No effusions are present. There is diffuse fatty infiltration of the liver
+     without evidence of focal hepatic masses. The spleen, pancreas, adrenal
+     glands, kidneys, ureters, stomach, and loops of large and small bowel are all
+     within normal limits. The gallbladder is unremarkable. Nasograstric tube is
+     identified with tip in the fundus of the stomach. Multiple subcentimeter lymph
+     nodes are identified within the periceliac region. None of these lymph nodes
+     meets CT criteria for pathologic enlargement. There is no free fluid or free
+     air. The abdominal aorta is heavily calcified with atherosclerotic disease
+     noted. No evidence of aortic dissection, aneurysmal dilatation, or intramural
+     hematoma is seen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: Distal ureters, bladder, rectum, sigmoid
+     colon, and prostate are within normal limits. There is no free fluid. A Foley
+     catheter is seen within the bladder. No significant pelvic or inguinal
+     lymphadenopathy is identified.
+     
+     BONE WINDOWS: No suspicious lytic or sclerotic lesions are seen. No fractures
+     are identified.
+     
+     CT RECONSTRUCTIONS: Coronal and sagittal reconstructions were essential in
+     delineating the absence of acute traumatic injury within the abdomen and
+     pelvis.
+     
+     IMPRESSION:
+     1. No evidence of acute traumatic injury within the abdomen or pelvis.
+     2. Diffuse fatty infiltration of the liver without evidence of focal hepatic
+                                                                 (Over)
+
+     DATE: [**2536-7-16**] 12:32 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4129**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Eval for injury                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     masses.
+     3. Bibasilar atelectasis with tiny left pleural effusion
+     4. Small subcentimeter mesenteric lymph nodes within the periceliac region.
+     None of these lymph nodes meets CT criteria for pathologic enlargement.
+     
+
+",,
+8043,12173,,,2536-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2536-7-16**] 12:32 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4129**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Eval for injury                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with s/p fall with SDH                                          
+     REASON FOR THIS EXAMINATION:
+      Eval for injury                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDdp MON [**2536-7-16**] 1:35 PM
+      no acute traumatic injury in abdomen or pelvis.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Trauma, status post fall with subdural hemorrhage. Evaluate for
+     abdominal injury.
+     
+     COMPARISON: None.
+     
+     TECHNIQUE: Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis following the administration of 150 cc of IV
+     Optiray. Nonionic contrast was administered secondary to trauma. Multiplanar
+     reconstructions were performed.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST: Bibasilar atelectasis is present. 
+     No effusions are present. There is diffuse fatty infiltration of the liver
+     without evidence of focal hepatic masses. The spleen, pancreas, adrenal
+     glands, kidneys, ureters, stomach, and loops of large and small bowel are all
+     within normal limits. The gallbladder is unremarkable. Nasograstric tube is
+     identified with tip in the fundus of the stomach. Multiple subcentimeter lymph
+     nodes are identified within the periceliac region. None of these lymph nodes
+     meets CT criteria for pathologic enlargement. There is no free fluid or free
+     air. The abdominal aorta is heavily calcified with atherosclerotic disease
+     noted. No evidence of aortic dissection, aneurysmal dilatation, or intramural
+     hematoma is seen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: Distal ureters, bladder, rectum, sigmoid
+     colon, and prostate are within normal limits. There is no free fluid. A Foley
+     catheter is seen within the bladder. No significant pelvic or inguinal
+     lymphadenopathy is identified.
+     
+     BONE WINDOWS: No suspicious lytic or sclerotic lesions are seen. No fractures
+     are identified.
+     
+     CT RECONSTRUCTIONS: Coronal and sagittal reconstructions were essential in
+     delineating the absence of acute traumatic injury within the abdomen and
+     pelvis.
+     
+     IMPRESSION:
+     1. No evidence of acute traumatic injury within the abdomen or pelvis.
+     2. Diffuse fatty infiltration of the liver without evidence of focal hepatic
+                                                                 (Over)
+
+     DATE: [**2536-7-16**] 12:32 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4129**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Eval for injury                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     masses.
+     3. Bibasilar atelectasis with tiny left pleural effusion
+     4. Small subcentimeter mesenteric lymph nodes within the periceliac region.
+     None of these lymph nodes meets CT criteria for pathologic enlargement.
+     
+
+",,
+8043,12173,,,2536-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2536-7-16**] 12:32 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4129**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Eval for injury                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with s/p fall with SDH                                          
+     REASON FOR THIS EXAMINATION:
+      Eval for injury                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDdp MON [**2536-7-16**] 1:35 PM
+      no acute traumatic injury in abdomen or pelvis.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Trauma, status post fall with subdural hemorrhage. Evaluate for
+     abdominal injury.
+     
+     COMPARISON: None.
+     
+     TECHNIQUE: Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis following the administration of 150 cc of IV
+     Optiray. Nonionic contrast was administered secondary to trauma. Multiplanar
+     reconstructions were performed.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST: Bibasilar atelectasis is present. 
+     No effusions are present. There is diffuse fatty infiltration of the liver
+     without evidence of focal hepatic masses. The spleen, pancreas, adrenal
+     glands, kidneys, ureters, stomach, and loops of large and small bowel are all
+     within normal limits. The gallbladder is unremarkable. Nasograstric tube is
+     identified with tip in the fundus of the stomach. Multiple subcentimeter lymph
+     nodes are identified within the periceliac region. None of these lymph nodes
+     meets CT criteria for pathologic enlargement. There is no free fluid or free
+     air. The abdominal aorta is heavily calcified with atherosclerotic disease
+     noted. No evidence of aortic dissection, aneurysmal dilatation, or intramural
+     hematoma is seen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: Distal ureters, bladder, rectum, sigmoid
+     colon, and prostate are within normal limits. There is no free fluid. A Foley
+     catheter is seen within the bladder. No significant pelvic or inguinal
+     lymphadenopathy is identified.
+     
+     BONE WINDOWS: No suspicious lytic or sclerotic lesions are seen. No fractures
+     are identified.
+     
+     CT RECONSTRUCTIONS: Coronal and sagittal reconstructions were essential in
+     delineating the absence of acute traumatic injury within the abdomen and
+     pelvis.
+     
+     IMPRESSION:
+     1. No evidence of acute traumatic injury within the abdomen or pelvis.
+     2. Diffuse fatty infiltration of the liver without evidence of focal hepatic
+                                                                 (Over)
+
+     DATE: [**2536-7-16**] 12:32 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4129**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: Eval for injury                                             
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     masses.
+     3. Bibasilar atelectasis with tiny left pleural effusion
+     4. Small subcentimeter mesenteric lymph nodes within the periceliac region.
+     None of these lymph nodes meets CT criteria for pathologic enlargement.
+     
+
+",,
+8043,12173,,,2536-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2536-7-16**] 12:31 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 4125**]
+     Reason: eval for fx                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with s/p fall with SDH                                          
+     REASON FOR THIS EXAMINATION:
+      eval for fx                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     NAME OF PATIENT:  [**Known patient firstname 4126**] [**Known patient lastname 4127**].
+     
+     [**Telephone/Fax (1) 4128**].
+     
+     DATE OF STUDY:  [**2536-7-16**].
+     
+     INDICATIONS:  62 year old man status post fall with subdural hematoma.
+     Evaluation for fracture requested.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Axial non-contrast CT images of the cervical spine were obtained,
+     and sagittal and coronal reconstructions were performed.
+     
+     FINDINGS:  There is overall normal alignment of the cervical spine with no
+     subluxations.  There are calcifications, and possibly ossifications, of the
+     anterior longitudinal ligament at multiple levels consistent with degenerative
+     changes.  There is no significant disc, vertebral, or paraspinal abnormality
+     seen.  There is a possible small fracture on the distal upper spinous process
+     of the T1 vertebra.  However, the observed separate bony fragment may
+     represent unfused ossification.  Clinical correlation is suggested- is there
+     point tenderness at this locale? There is no other sign of fracture of the
+     component vertebrae. Although CT is not able to provide intrathecal detail,
+     the spinal cord appears normal in the visualized portion in the upper cervical
+     spine. There is an endotracheal tube passing through the airway and a
+     nasogastric tube passing through the esophagus.
+     
+     IMPRESSION:  Question of small fracture of the distal supraspinous process of
+     T1, which may also represent an unfused ossification center.  Clinical
+     correlation is advised.
+     
+     
+
+",,
+8043,12173,,,2536-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2536-7-16**] 12:31 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 4125**]
+     Reason: eval for fx                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with s/p fall with SDH                                          
+     REASON FOR THIS EXAMINATION:
+      eval for fx                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     NAME OF PATIENT:  [**Known patient firstname 4126**] [**Known patient lastname 4127**].
+     
+     [**Telephone/Fax (1) 4128**].
+     
+     DATE OF STUDY:  [**2536-7-16**].
+     
+     INDICATIONS:  62 year old man status post fall with subdural hematoma.
+     Evaluation for fracture requested.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Axial non-contrast CT images of the cervical spine were obtained,
+     and sagittal and coronal reconstructions were performed.
+     
+     FINDINGS:  There is overall normal alignment of the cervical spine with no
+     subluxations.  There are calcifications, and possibly ossifications, of the
+     anterior longitudinal ligament at multiple levels consistent with degenerative
+     changes.  There is no significant disc, vertebral, or paraspinal abnormality
+     seen.  There is a possible small fracture on the distal upper spinous process
+     of the T1 vertebra.  However, the observed separate bony fragment may
+     represent unfused ossification.  Clinical correlation is suggested- is there
+     point tenderness at this locale? There is no other sign of fracture of the
+     component vertebrae. Although CT is not able to provide intrathecal detail,
+     the spinal cord appears normal in the visualized portion in the upper cervical
+     spine. There is an endotracheal tube passing through the airway and a
+     nasogastric tube passing through the esophagus.
+     
+     IMPRESSION:  Question of small fracture of the distal supraspinous process of
+     T1, which may also represent an unfused ossification center.  Clinical
+     correlation is advised.
+     
+     
+
+",,
+8043,12173,,,2536-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2536-7-16**] 12:31 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4124**]
+     Reason: Eval for change                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with s/p fall with SDH                                          
+     REASON FOR THIS EXAMINATION:
+      Eval for change                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  62-year-old man S/P fall with subdural hematoma.  
+     
+     COMPARISONS:  None available at this time.  We spoke with the intensive care
+     team, which will try to provide the previous films.  However, the patient was
+     transferred from an outside hospital, where he was found to have a subdural
+     hematoma on imaging.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  Over the left parietal area, there is prominent scalp soft tissue
+     swelling.  Over the right frontal convexity, there is a thin subdural hematoma
+     with dense blood products of likely recent origin.  Also, there is evidence of
+     subarachnoid hemorrhage in the sulci of the anterior right frontal lobe and
+     laterally in the right posterior frontal lobe.  There is no hydrocephalus,
+     mass effect, or shift of the normally mid-line structures.  The ventricles,
+     cisterns, and sulci are unremarkable.  There is no effacement of the sulci.
+     There is no evidence of major vascular territorial infarction.  There is no
+     definite evidence of fracture.  There is mucosal thickening in the left
+     maxillary sinus, left sphenoid sinus and central ethmoid air cells.  The
+     patient is intubated.  The mastoid air cells appeared normally aerated.
+     
+     IMPRESSION:  1)  Subdural hematoma along the right frontal convexity with
+     adjacent subarachnoid hemorrhages, but no significant mass effect.
+     2)  Soft tissue swelling over the left posterior calvarium.
+     3)  No definite evidence of fracture.  Once available, we will review the
+     previous study.
+     
+
+",,
+8043,12173,,,2536-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2536-7-16**] 6:53 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4131**]
+     Reason: r/o pneumothorax.                                           
+     Admitting Diagnosis: V-TACH ARREST;SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       62 year old man CAD s/p CABG. intubated after cardiopulm arrest s/p central 
+      line in the left subclavian.                
+     REASON FOR THIS EXAMINATION:
+      r/o pneumothorax.                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Status post central line placement.  Evaluate for pneumothorax.
+     
+     TECHNIQUE:  Single portable AP view of the chest was obtained, compared with
+     the examination performed one hour previously.
+     
+     FINDINGS:  The endotracheal tube tip remains 3.5 cm above the carina.  There
+     has been interval placement of the left sided subclavian venous catheter, with
+     the tip at the confluence of the right and left brachiocephalic veins.  The
+     sternotomy sutures remain unchanged in appearance.  The cardiomediastinal
+     silhouette remains stable.  No new pulmonary opacities, pleural effusions, or
+     evidence of pneumothorax is seen.  Note that the right costophrenic angle has
+     been coned off of this examination.
+     
+     IMPRESSION:  Interval placement of the left subclavian central venous catheter
+     with the tip in the upper SVC.  No evidence of pneumothorax.
+
+",,
+8043,12173,10011,0,2536-07-16 17:00:00 EST,2536-07-16 17:06:00 EST,69,"N",1,"Nursing/Other",,"
+
+61 yr old male admitted to ER post cardiac arrest. Found down with laceration on back of hear. Head CT indicated (R) frontal hemorrhage.ABG indicates metabolic acidosis,febrile with temp 100.8,febrile,hyperglycemic will continue to follow.
+",,
+8043,12173,10011,0,2536-07-16 17:10:00 EST,2536-07-16 17:41:00 EST,615,"N",1,"Nursing/Other","CCU Admission Note: Alt in CV s/p cardiac arrest","
+CCU Admission Note: Alt in CV s/p cardiac arrest
+O: Intubated.
+
+Upon arrival to CCU, pt intubated and on Amiodarone drip.
+
+CV: HR 110-150s ST with occ PVCs and 6beat run NSVT. BP 120-130/60-70s, a-line placed with correaltion ot NBP. Amiodarone drip at 0.5mg/min (decreased at 1500) for 18h infusion. K+4.2 Mg 2.1 CKs 1937/3823  MB 70/142 trending up. 12p Troponin 2.29. Echo: 20-25% (down from previous reading). LE pulses palpable, feet cool and pale.
+
+RESP: RR 20-30 O2 sat >95% on vent settings: A/C 700/14/60%/5. Last ABG 7.32/28/126/15  Lactate 9.7 (up from 6.9). 
+
+NEURO: C-Spine collar in place. Left eye ecchymotic and swollen. Appears to be withdrawing to pain (needle sticks). Not following commands. Pupils: R 3mm left 4mm, both sluggishly reactive. CT at [**Hospital1 22**], shows no change in hematoma. Neurology following. Propofol started during line insertion, but IV infiltrated. Pt given Fentanyl 100mcg IVP for sedation. 
+
+GI/ENDO: Abdomen obese, hypoactive bowel sounds. OGT in place. Pt vomitted approx 50cc of bilious drainage. OGT intermittently connected to sxn. BS 304, covered with SSC. 
+
+GU: Approx 100c of yellow urine via foley catheter. BUN/Cr 30/1.7
+
+ACCESS: PIV 18g rhand. left radial a-line placed. Awaiting central line placement. 
+
+ID: T 99.8-100.4 WBC 24.2 (up from 18.7). Flagyl ordered, but not given d/t access issues. 1 set blood cx and Urine cx sent. 
+
+A: s/p cardiac arrest and known CV history. SDH with C-spine collare in place. 
+
+P: Follow VS, labs. Address sedation once access obtained. Antbx administration once access obtained. Consider insulin drip for elevated BS.
+",,
+8043,12173,10011,,2536-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2536-7-17**] 8:53 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4133**]
+     Reason: Please image [**2536-7-17**] early AM. Are the subdural and subarach
+     Admitting Diagnosis: V-TACH ARREST;SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with subdural and small subarachnoid hematoma and left frontal 
+      lobe contusion.
+     REASON FOR THIS EXAMINATION:
+      Please image [**2536-7-17**] early AM. Are the subdural and subarachnoid hematomas 
+      improving or worsening? Please evaluate left frontal lobe contusion.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATIONS: A 62-year-old man with subdural and subarachnoid hematoma and
+     left frontal lobe contusion.   Question of whether subdural and subarachnoid
+     hematomas are improving or worsening.  Please evaluate left frontal lobe
+     contusion. Additional history is that the patient had a prolonged cardiac
+     arrest.
+     
+     COMPARISONS:  Non-contrast head CT of [**2536-7-16**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There has been redistribution of the hemorrhage products, but no
+     evidence of new hemorrhage.  There is intraventricular hemorrhage layering in
+     both occipital horns.  However, there is no hydrocephalus, mass effect, or
+     shift of the normally midline structures.  There is subtle effacement of the
+     sulci bilaterally and posteriorly with a possible loss of [**Doctor Last Name 30**]-white matter
+     distinction.  However, there is no evidence of major vascular territorial
+     infarction.  The patient is intubated, and there is fairly unchanged mucosal
+     thickening in the paranasal sinuses.
+     
+     IMPRESSION:
+     
+     1) Some redistribution of the known subarachnoid hemorrhage with
+     intraventricular hemorrhage seen in the occipital horns bilaterally, but no
+     new intracranial hemorrhage or mass effect.
+     
+     2) Subtle effacement of the posterior sulci of the cerebral hemispheres with
+     question of reduced [**Doctor Last Name 30**]-white matter differentiation.  If there is concern
+     clinically regarding the possibility of anoxic brain injury or infarction, an
+     MR [**First Name (Titles) 619**] [**Last Name (Titles) 4134**]-weighted imaging or a repeat head CT may be helpful.
+     
+     3) Unchanged mucosal thickening of the paranasal sinuses and soft-tissue
+     swelling over the left posterior calvarium.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2536-7-17**] 8:53 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 4133**]
+     Reason: Please image [**2536-7-17**] early AM. Are the subdural and subarach
+     Admitting Diagnosis: V-TACH ARREST;SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+
+",,
+8043,12173,10011,,2536-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2536-7-17**] 7:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4132**]
+     Reason: ETT placement? evidence of CHF or PNA?                      
+     Admitting Diagnosis: V-TACH ARREST;SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        62 year old man CAD s/p CABG. intubated after cardiopulm arrest s/p central  
+      line in the left subclavian.                
+     REASON FOR THIS EXAMINATION:
+      ETT placement? evidence of CHF or PNA?                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest [**2536-7-17**] compared to previous study of one day earlier.
+     
+     INDICATION:  Evaluate endotracheal tube placement.
+     
+     An endotracheal tube and left subclavian vascular catheter remain in
+     satisfactory position.  Cardiac and mediastinal contours are stable.
+     Pulmonary vascularity is within normal limits for technique.  There are patchy
+     and linear opacities in the retrocardiac region bilaterally which appears
+     slightly improved since the recent study.  The remainder of the lungs appear
+     clear, but the periphery of the right mid and lower lung zone have been
+     excluded from the stomach and cannot be fully assessed.  There is no evidence
+     of pneumothorax.
+     
+     IMPRESSION:  Slight improvement in retrocardiac opacities likely due to
+     atelectasis.  Resolving aspiration is within the differential diagnosis.
+
+",,
+8043,12173,10011,0,2536-07-17 05:10:00 EST,2536-07-17 05:18:00 EST,313,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:neuro=unresponsive-does not respond to noxious stimuli w movement, but does respond w elevation of bp. propofol gtt for resp/bp control- off @ 0600. 
+  pulm=intubated & vented. am abg-acceptable w sats upper 90's. breath sounds=course throughout.
+  cv=st w pvc's. bp trending upwards off propofol. ck's contin upwards. 
+  gi=ogt-bilious.
+  gu=positive i&o.
+  endo=insulin gtt w fsbs trending to baseline.
+  id=febrile. abx-flagyl & levoflox.
+  labs=am sent.
+  social=family present till 2000. hopefull of good outcome.
+
+a:unresponsive.
+
+p:?resume propofol gtt after rounds. freq neuro cks. head ct scan today-[**7-17**]. contin present management. support family-realisticly.
+
+
+",,
+8043,12173,10011,0,2536-07-17 05:20:00 EST,2536-07-17 05:24:00 EST,1504,"N",1,"Nursing/Other",,"
+
+Resp Care Note.
+
+Pt remains unresponsive after V-Fib/arrest and fall resulting in sub-dural hematoma. He is vented on ac 700x14, now at 50%. 5 am ABG is 7.39,34,111. Pt is on propophol but becomes agitated when this is withdrawn.
+",,
+8043,12173,10011,0,2536-07-17 16:24:00 EST,2536-07-17 17:09:00 EST,958,"N",1,"Nursing/Other","Nursing Progress Note 7a-7p","
+Nursing Progress Note 7a-7p
+
+S: Pt remains intubated and nonresponsive.
+
+O: Please see flow for objective data. Tele sinus tach with frequent PVC's early this am. K repleted with decrease in frequency. Pt remains hypertensive and tachycardiac started on Lopressor 12.5mg tolerated well so dose increased to 25mg BID with decrease in HR. IV Amiodorone d'cd as per order. Started on 400mg TID via NG Tube.
+
+Resp: Pt remains intubated A/C .6 700 14 5 peep. Lungs coarse throughout. Suctioned for mod amt of thick tan sputum via ET Tube. Suctioned for lg amts of thick green nasal secretions early this am. Please see flow sheet for abgs.
+
+Neuro: Pt remains unresponsive to painful stimuli off of Propofol. No purposeful movement noted. R pupil is larger than L, both are slugglish but reactive to light. When Propofol dc'd for exams, pt with increased HR, BP and RR. Head CT this am shows loss of [**Doctor Last Name **]/white matter differentiation.  Neuro and team aware. EEG done this afternoon. Results pending.  MRI cancelled d/t CT results.
+
+GU/GI: Pt remains NPO.  NG Tube to LIS brown gastric secretions noted.
+Abd is soft with hypoactive bowel sounds.  Hct down to 37.3 from 43.5  Foley draining good amts of yellow urine.  Creat down to 1.5.
+
+ID: TM 100.3 orally. Second set of bld cultures drawn. Conts on Flagyl and Levo for possible aspiration. Given Tylenol via NG x's 1. WBC down to 15.4 from 24.2.
+
+Endo: Pt remains on insulin drip.  Drip tritated up to 10u/hr for goal BS 90-151.
+
+Social: Wife, sister and daughter here today. Wife spoke with Dr [**First Name (STitle) 37**] regarding poor prognosis after head CT today. Wife appropriately upset regarding news very tearful at times. Family is waiting for pts son to arrive from [**Country 683**] tomorrow night. Priest here at family's request. Wife verbalizing pts desire to be an organ donor. House staff aware.  Pt is full code at present.
+
+A&P: 62 yo man s/p VT/VF arrest with significant neurological impairment. Cont with POC. Propofol as needed for comfort.  Awaiting sons arrival before withdrawal of care and possible organ donation is discussed further with family. Cont to support family.
+",,
+8043,12173,10011,0,2536-07-17 17:31:00 EST,2536-07-17 17:36:00 EST,69,"N",1,"Nursing/Other",,"
+
+Patient remains on mechanical ventilation, non-responsive. Awaitting  family to discuss plan of care.Good ABG,suctioned prn,responds to painfll stimuli but not to commands.
+",,
+8043,12173,10011,,2536-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2536-7-18**] 7:29 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4135**]
+     Reason: evaluate ET tube and line placement                         
+     Admitting Diagnosis: V-TACH ARREST;SUBDURAL HEMATOMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man CAD s/p CABG. intubated after cardiopulm arrest.                
+     REASON FOR THIS EXAMINATION:
+      evaluate ET tube and line placement                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  62-year-old man with CABG.
+     
+     TECHNIQUE:  Portable AP chest radiograph.
+     
+     COMPARISON:  [**2536-7-17**].
+     
+     FINDINGS:  The tracheal tube is terminating in the trachea, which has not been
+     changed since the previous study.  The tip of the central venous catheter is
+     in the SVC.  There is no pneumothorax.
+     
+     The heart is normal in size. The patient is status post sternectomy and CABG.
+     
+     There are bilateral patchy opacities below the hilum, which were present on
+     the previous study.  Findings are most consistent with bilateral atelectasis.
+     Otherwise lungs are clear.  Pulmonary vasculature is well within normal
+     limits.
+     
+     No suspicious lesion is identified in the upper abdomen.
+     
+     IMPRESSION:
+     
+     Continued patchy opacities below the hilum, suggesting atelectasis.
+
+",,
+8043,12173,10011,0,2536-07-18 04:00:00 EST,2536-07-18 04:26:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+O:  ID:  TM 101R.  to 99po.  tylenol x2.  contin. on flagyl/levo IV. WBC 14
+
+CV: HR 106-120's ST. occas. PVC. BP 150-180/70s.  hydralazine 20mg q6hr started with mild responce.  also contin. lopressor 25mg pgt. CPK trendind down 4600-4300.  
+neuro:  pt. unresponsive to noxious stim. no spont. movement. HR/BP elevated with suctioning /turning.  see flow sheet for neuro signs. neck brace on for cspine safety. logrolled q4h for skin care. no breakdown. 
+resp: AC 700x14/.60/5peep.  spont. overbreathing.  RR 16-21.  LS clear to  scatt. rhonchi.  suctioned for thick tan secretions.  
+lasix 20mg followed by 40mg IV: u/o poor from foley but with large amt. of urine from around foley.   attempts to flush foley unsuccessful. foley d/c'd and sediment found blocking.  #16F replaced.  600cc u/o.  contin. to drain for total 1.6L for night.  
+
+K+ 3.5:  20KCL IV replaced.  
+
+GI:  OGT draining bile total 200cc.  clamped for meds alternating with LIS.  ABD soft, absent BS.
+heme: HCT 36. INR 1.2.
+
+no calls from family
+A:  no change from previous.  remains unrespons.  
+P:  follow temp.  tylenol.  antibiotics.  hydral/lopressor for rate/pressure.  
+follow neuro for change.  family support today when family will be coming together and making decisions.  
+",,
+8043,12173,10011,0,2536-07-18 04:11:00 EST,2536-07-18 04:16:00 EST,1047,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remains on ventilatory support with no changes made throughout the night to any parameters.  Last abg result determined adequate acid-base balance with good oxygenation on the current settings.
+
+No RSBI at this time due to the patient's hemodynamic instability.
+",,
+8043,12173,10011,0,2536-07-18 13:31:00 EST,2536-07-18 13:47:00 EST,620,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s: no response, orally intubated
+o: pls see carevue flowsheet for complete vs/data/events
+neuro: unchanged. bp ^'d off pressors. no purposeful movements. cont to overbreathe a/c vent rate to mid 30s at times. no gag, no cough. pupils small and sluggishly reactive.
+awaiting neurology to speak w family and update on prognosis.
+cv: hr and bp climbing after propofol dc'd this am. switched to iv lopressor now at 15mg q6hr. and cont on hydralazine 20mg q6hr. bp range 140-180/60-80. hr 110-130s st w occ pvcs. 
+resp: a/c 700 x14, overbreathing to 20-38. min secretions. scatt course. fio2 decreased to 40% with sat 96-98%.
+gi: remains npo. min gastric secretions. abd benign, no bm.
+endo: bs 130-150. on insulin gtt at 9u/hr currently.
+gu: good uop. cont on ivf 1/2ns at 100cc/hr. cr 1.5.
+id: t max 101.8r, given tylenol. cont on flagyl and levo for ?aspiration. 
+social: family arriving from out of town. wife present and talking about husband's wishes to not live in this state. discussing organ donation w neob. awaiting neuro for an update. pt's son to arrive from [**Country **] this evening.
+a: s/p cardiac arrest w anoxic brain injury. no improvement in nuero exam. bp and hr poorly controlled.
+p: follow neuro exam. assess response to cardiac meds. provide support to pt and family. await outcome of discussion w neuro and poss plan for withdrawal of lifesupport +/- organ donation.
+",,
+8043,12173,10011,0,2536-07-18 16:04:00 EST,2536-07-18 16:14:00 EST,69,"N",1,"Nursing/Other",,"
+
+Patient remains on mechanical ventilation ,unresponsive. Expecting son to arrive from [**Country 683**] this evening. family and neurology team plan to meet to discuss patient medical care. cardiac arrested with anoxic brain injury. Placed patient on PSV to assess breathing,RR increased to 40 wittin a few seconds. No ABG drawn observing sat will continue to follow.
+",,
+8043,12173,10011,,2536-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8043,,10011,0,2536-07-19 04:18:00 EST,2536-07-19 04:39:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+O:  
+
+neuro:  pt. contin. with no change. unresponsive to noxious stim. no spont. movement other than mouth movements during oral suctioning.  pupils 2mm and NR.  corneals neg.  
+contin. on labetolol for BP/HR control.  HR coming down to 80's SR, rare PVC. HR dipping to 60's x2-3 rebounding to 80's. no drop in BP.   BP 120-130's/50's.  labetolol weaned 2mg->.5mg/min.  
+
+lopressor d/c'd [**7-18**].  hydralazine IV held during night with labetolol infusing.  HO aware.  
+contin. amiodarone per OGT.  
+
+GU:  u/o total 600cc over 12hr.  concentrated. 
+IVF D5 1/2 NS at 125cc/hr. 
+
+endo: insulin gtt 5-11u/hr.  FS 243->184.  remains NPO.  
+GI:  ABD soft,  small amts. bile aspirated from OGT.  
+
+social:  wife and family all here and sitting with pt. in eve.  Son from [**Country 683**] here at 2130.  wife and family initially stating that they did not want to prolong any suffering  and that they were planning on withdrawing care last night.  However, They decided to wait untill a meeting could be arranged with Dr. [**Last Name (STitle) 3498**] from neurology so that there could be a final discussion and exam.  Dr. [**Last Name (STitle) **] from CCU gave family option to withdraw last night or wait until today and meet with neuro.  The family (wife and ~ 6 children ) will be back ~ 10am.  they left ~ 12am.  
+
+P:  family meeting with CCU team and neuro team.  anticipate withdrawl of care today.  
+- contin. supportive care. insulin gtt/labetolol/IVAB/tylenol.   
+",,
+8043,,10011,0,2536-07-19 05:37:00 EST,2536-07-19 05:38:00 EST,1047,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remains on ventilatory support with no changes made to any support parameters.  Family meeting to be held today regarding further interventional efforts.  No RSBI performed.
+",,
+8043,,10011,0,2536-07-19 15:29:00 EST,2536-07-19 15:37:00 EST,958,"N",1,"Nursing/Other","Nursing Prgress Note","
+Nursing Prgress Note
+
+Please see flow sheet for objective data.  Pt remains unresponsive.  Family had meeting with medical staff and decision was made to make pt CMO.  Pt was started on MSO4 drip and extubated a short time later.  Pt experiencing some resp distress so Mso4 drip titrated up for comfort. Pt expired at approx 330pm with family present. House staff in to speak with family. Organ bank contacted.
+",,

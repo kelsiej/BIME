@@ -1,0 +1,1502 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8992,17534,,,2778-11-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2778-11-29**]     Discharge Date:  [**2778-12-4**]
+
+Date of Birth:   [**2690-4-17**]     Sex:  M
+
+Service:  CCU
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 88-year-old
+male with a history of atrial fibrillation, chronic renal
+insufficiency, status post abdominal aortic aneurysm repair
+in [**2770**], presenting with the acute onset of chest pain and
+presyncope on the morning of admission.
+
+The patient was in his usual state of health until the
+morning of admission when he developed the acute onset of
+chest pressure and lightheadedness after awaking.  Emergency
+Medical Service was called, and the patient was noted to be
+bradycardic to a heart rate of 20 to 40 and hypotensive.  The
+patient was given atropine times two and started on a
+dopamine drip.  Mental status was initially lethargic, but
+then the patient was alert and oriented times three.  Heart
+rate improved with atropine.
+
+The patient was brought to the Emergency Department.  An
+electrocardiogram was obtained on arrival to the Emergency
+Department which showed evidence of inferior ST elevations
+along with a slow atrial fibrillation with a regularized
+narrow complex escape rhythm.  He was administered atropine
+and dopamine.
+
+The patient was taken emergently to the cardiac
+catheterization laboratory.  Cardiac catheterization revealed
+a total occlusion of the posterior left ventricular and a
+right-dominant circulation.  Additionally, diffuse disease of
+the left anterior descending artery (up to 80% proximally)
+was identified.  Hemodynamics revealed a cardiac index
+of 1.4, with a pulmonary artery saturation of 48%, and a
+pulmonary capillary wedge pressure of 19.  The patient
+received a stent in his posterior left ventricular branch.
+
+Status post cardiac catheterization, in recovery, the patient
+received 0.5 mg p.o. intravenous Ativan for restlessness of
+the lower extremities.  Soon after receiving Ativan, the
+patient became agitated with orientation decreased and
+slurred speech.  The symptoms did not improve with 0.2 mg of
+flunisolide.  A CT scan of the had was done to rule out a
+head bleed.  The CT was negative for a bleed.  The patient
+was then transferred to the Coronary Care Unit.
+
+PAST MEDICAL HISTORY:
+1.  Atrial fibrillation (on Coumadin).
+2.  Chronic renal insufficiency.
+3.  Status post left nephrectomy.
+4.  Status post abdominal aortic aneurysm repair in [**2770**].
+5.  Hypertension.
+6.  Echocardiogram done in [**2776**] revealed an ejection fraction
+of 50% to 55%.
+
+MEDICATIONS ON ADMISSION:   Metoprolol 50 mg p.o. b.i.d.,
+hydrochlorothiazide 12.5 mg p.o. b.i.d., Zestril 10 mg p.o.
+b.i.d., Synthroid 0.1 mg p.o. q.d., Coumadin 5 mg p.o. q.h.s.
+five days of the week along with 7.5 mg p.o. q.h.s. two days
+of the week, Xalatan eyedrops q.p.m., Cosopt eyedrops q.a.m.
+and q.p.m., Alphagan eyedrops q.a.m. and q.p.m.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  The patient quit tobacco 50 years ago.
+
+FAMILY HISTORY:   The patient denies a family history of
+coronary artery disease.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Physical examination
+on admission revealed a blood pressure of 176/60, heart rate
+of 88, respiratory rate of 18, oxygen saturation of 97% on 4
+liters nasal cannula.  In general, the patient is an
+88-year-old Caucasian male, appearing mildly agitated and
+restless.  Alert and oriented only to person.  Head and neck
+examination revealed pupils were equal, round, and reactive
+to light.  Sclerae were anicteric.  The oropharynx was clear.
+Neck revealed jugular venous pressure was about 10 cm.  There
+were no carotid bruits.  Chest with mild bibasilar rales.  No
+wheezes or rhonchi.  Good aeration throughout.
+Cardiovascular examination revealed a normal first heart
+sound and second heart sound.  Rhythm was irregularly
+irregular.  There was a 2/6 systolic ejection murmur at the
+left lower sternal border.  No rubs or gallops.  The abdomen
+was soft, nontender, and nondistended.  There were good bowel
+sounds in all four quadrants.  No masses.  Extremities
+revealed no clubbing, cyanosis or edema.  Peripheral pulses
+were 2+.  Neurologic examination revealed the patient was
+alert and oriented times two to person and place.  The
+patient had difficulty speaking, appeared confused, was only
+able to follow some commands.  The patient was moving all
+four extremities.  Pupils were equal, round, and reactive to
+light.  Tongue was midline.  Face was symmetric.
+
+Note:  The rest of this dictation will be continued at a
+later time.
+
+
+
+                          [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) 846**] [**Name8 (MD) **], M.D.  [**MD Number 1080**]
+
+Dictated By:[**Name8 (MD) 3417**]
+
+MEDQUIST36
+
+D:  [**2779-3-15**]  17:16
+T:  [**2779-3-16**]  09:31
+JOB#:  [**Job Number 12565**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+ on: WED [**2779-5-2**] 11:37 AM
+(End of Report)
+
+
+",,
+8992,17534,,,2778-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-11-29**] 5:53 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12329**]
+     Reason: to eval for bleed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man s/p cath now with new mental status changes.  Though given
+      ativan recently, no improvement in MS [**First Name (Titles) 619**] [**Last Name (Titles) 12330**].  Pt on coumadin and
+      given heparin in cath lab.  
+       
+      STAT CT to r/o bleed.
+       
+      Please call [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] 90238 with results.
+       
+      Thanks.
+     REASON FOR THIS EXAMINATION:
+      to eval for bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Status post cath. New mental status changes.  Anticoagulated.
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     HEAD CT W/O CONTRAST:  There is no intra or extra-axial hemorrhage. There is
+     no shift of normally midline structures. The ventricles and sulci are within
+     normal limits.  No major vascular territorial infarct is seen.  Note is made
+     of a left retinal band.  Mild mucosal thickening is seen within the maxillary,
+     ethmoid, and sphenoid sinuses.
+     
+     IMPRESSION:  No evidence of acute intracranial hemorrhage.
+
+",,
+8992,17534,,,2778-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-11-29**] 11:25 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12328**]
+     Reason: PT FOUND DOWN, BRADYCARDY, R/O EDEMA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with found down and bradycardic.[**Doctor Last Name 3660**] 95653
+     REASON FOR THIS EXAMINATION:
+      r/o edema
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 88-year-old man with bradycardia. Rule out pulmonary edema. The
+     patient has a history of renal cell carcinoma.
+     
+     COMPARISONS:  Chest CT dated [**2778-1-17**].
+     
+     PORTABLE AP CHEST:  The cardiac or mediastinal and hilar contours are
+     unchanged as compared to the CT scout. Increased opacity along the upper right
+     mediastinum is unchanged from the prior study and appears to be related to
+     known right apical scarring. Linear opacities in the left retrocardiac region
+     could represent atelectasis or an early infiltrate. There is no evidence of
+     pulmonary vascular congestion or pulmonary edema. There are no pleural
+     effusions. The soft tissues and osseous structures are unremarkable.
+     
+     IMPRESSION: No pulmonary edema. Possible subsegmental atelectasis or early
+     infiltrate in the left lower lobe.
+
+",,
+8992,17534,11183,0,2778-11-29 20:22:00 EST,2778-11-29 20:41:00 EST,1741,"N",69,"Nursing/Other","micu nsg","
+micu nsg
+PT TRANS FROM CATH LAB TO MICU FOR OBSERVATION AFTER CARDIAC INTERVENTION.  PT DEVELOPED CRUSHING CHEST PRESSURE THIS AM AND CAME TO EW WHERE HE DEVELOPED BRADYCARDIA TO 20'S AND WAS TREATED WITH 2AMPS ATROPINE.  PT HR RETURNED.  PMED HX SIG FOR AFIB (ON COUMADIN) AAA REPAIR, NEPHRECTOMY SEC TO RENAL CA.  PT HAD 2 LESIONS, LAD AND RCA, RCA REPAIRED.  DEVELOPED MS CHANGES AFTER RECEIVING ATIVAN AND FENT IN HOLDING AREA.  PT WITH SLURRED SPEECH PERRL, ABLE TO MOVE ALL EXTREMITIES.  HEAD CT DONE, NO ACUTE BLEED.
+CURRENT ROS
+NEURO--PT ORIENTED X1-2, SPEECH REMAINS SLURRED.  PERRL AT 4MM BILAT.  RIGHT KNEE IN IMMOBILIZER SEC TO GROIN SHEATH.  MOVES ALL OTHER EXTREMIITES WITHOUT DIFF.  PICKING PULLING AT EQUIPMENT AND SHEETS, ATTEMPTING TO GET OOB ON OWN.  CURRENTLY HAS SITTER.
+CARD--DENIES CP. ON NITRO GTT, TITRATING FOR BP 130-160/.  RIGHT GROIN SHEATH DSG INTACT, NO PALPABLE HEMATOMA.  RIGHT WRIST WITH DSG AND PRESSURE BRACLET INTACT.  PULSES DIFF TO PALPATE.  HR 80-90'S AFIB WITH OCCAS PVC.  
+GI--ABD BENIGN.
+GU--FOLEY CATH PLACED BY UROLOGY WITH CLEAR YELLOW URINE.
+RESP--ON 3L NC, HAVING DIFF GETTING SATS DUE TO COOL EXTREMITES AND PT REMOVING EQUIPMENT.  
+SOCIAL--WIFE AND DAUGHTER IN WITH PT.  PT'S DAUGHTER IS RN HERE.
+",,
+8992,17534,11183,0,2778-11-30 06:29:00 EST,2778-11-30 06:53:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+C-V - HR 50-70 Afib with occas pvcs and a coule episodes of bigeminy. IV NTG titrated to maintain BP 140-160/50's. Currently infusing at 40mcgs/min. Pt maintained [**Female First Name (un) **] flat position all noc. No bleeding noted from r groin site. Sheath and r wrist band dcd by cardiac fellow at 2115 last eve. Dp and PT pulses [**12-24**]+. 4+ r radial pulse. Ext warm with nl cap refill. Pt c/o chest discomfort only with movement and lasting seconds. Medicated with tylenol po with some relief. Second set of enzymes showed CPK 844 with MB 61.
+ 
+Resp - Lungs clear, diminished at bases. 02 sat 94-100 on 3lnc. No cough noted.
+
+Neuro - Pt awake most of the noc. Initially attempting to climb oob and pulling at iv's. Sitter implemented. Alert and oriented x 2, intermittently x 3. Speech became more clear during the evening. Rambling thoughts. MAE. PERRLA. + gag.
+
+GI - Abd soft. +bs. Drinking h20 without difficulty. No stool this shift.
+
+GU/F/E - Foley draining clear yellow urine. u/a sent. Minor bleeding noted at meatus, but pt pulled on catheter. Per urology, foley should be kept in place for the next 3 - 5 days. U/o at lest 30cc/hr. IV d51/2 ns x 1 liter. K 5.9 last eve, Repeat K 5.6 at 0100. K at 6 am pend. Pt also received 2 gms mgso4 iv. 
+
+Access - 2 peripheral ivs( #20 gauge).
+
+Social - Wife and dtr visited and called last eve.
+  
+
+
+",,
+8992,17534,11183,0,2778-11-30 09:51:00 EST,2778-11-30 09:58:00 EST,2291,"N",69,"Nursing/Other","Focus; NURSING PROGRESS NOTE.","
+Focus; NURSING PROGRESS NOTE.
+REVEIW OF SYSTEMS-
+NEURO- PATIENT ALERT AND OREINTED X3. COOPERATIVE WITH CARE. STILL HAS A SITTER. WILL SEE HOW HE DOES AFTER MOVE TO SEE IF SITTER CAN BE DC'D
+RESP- ON 3L NC SATS IN THE MID 90'S. BS CLEAR ANTERIORLY DIMINISHED AT THE BASES.
+CARDIAC- HR IN THE 50-60'S AFIB WITH FREQUENT PVC'S OCCASIONALLY IN BIGEMONY. TEAM DR [**Last Name (STitle) **] AWARE. ZESTRIL DC'D TILL CREAT CHECKED THIS PM. ON ASA, LOPRESSOR AND PLAVIX. ALSO ON HCTZ. RIGHT WRIST SITE AND RIGHT FEM SITE C AND D. NO BLEEDING OR HEMATOMA. POS PALP DP, PT AND RADIAL PULSES.  
+GI- TOLERATING RENAL CARDIAC DIET. ABD SOFT WITH POS BS. PASSING FLATUS. 
+GU- HAS FOLEY IN THAT WAS PUT IN BY UROLOGY. IT IS TO REMAIN IN 3-5 DAYS. TO START ON FLOMAX PER UROLOGY. CAN HAVE DITROPAN FOR C/O OF BLADDER SPASMS. HE HAS NOT REQUIRED THIS. BUN AND CREAT STABLE POST CATH. CREAT TO BE CHECKED AT 1700. HAS HAD SMALL AMOUNTS OF BLOOD FROM URETHRA AROUND CATH. 
+SOCIAL- HAS SUPPORTIVE WIFE AND DAUGHTER. DAUGHTER IS A NURSE [**First Name (Titles) **] [**Last Name (Titles) 22**].
+DISPO TO TELE BED ON [**Hospital Ward Name **] 2 OR 3. REMAINS A FULL CODE.
+
+",,
+8992,,,,2778-12-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-12-13**] 12:25 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12331**]
+     Reason: increase SOB. chest congestion s/p recent MI  ? infiltrate  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with  h/o MI now -increase fatigue and cough and ?chest
+      congestion ? CHF ? inflitrate 
+     REASON FOR THIS EXAMINATION:
+      increase SOB. chest congestion s/p recent MI  ? infiltrate  Vs. CHF 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Shortness of breath.
+     
+     CHEST PA & LATERAL: Comparison is made to the prior film dated [**2778-11-29**]. The
+     patient is rotated to the right. The heart is again noted to be mildly
+     enlarged, but no evidence of upper zone redistribution. No evidence of
+     pulmonary edema. Note is made of a patchy infiltrate at lingula, which was not
+     present on the prior study. Infectious etiology cannot be ruled out. No
+     evidence of pleural effusion or pneumothorax.
+     
+     Visualized osseous structures are unremarkable.
+     
+     IMPRESSION: Patchy infiltrate at the lingula and pneumonia cannot be ruled
+     out.
+
+",,
+8992,,,,2778-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2778-12-17**] 12:11 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 12332**]
+     Reason: rising white count, resolving PNA, evaluate for effusion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with  h/o MI now -increase fatigue and cough and ?chest
+      congestion ? CHF ? inflitrate 
+     REASON FOR THIS EXAMINATION:
+      rising white count, resolving PNA, evaluate for effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Chest two views, PA and lateral.
+     
+     History of fatigue, cough and chest congestion with increasing white cell
+     count.  To evaluate for pneumonia.
+     
+     There is cardiomegaly but no evidence for CHF.  There is flattening of the
+     diaphragms consistent with COPD.  There is an area of consolidation in the
+     lingula and a focal ill-defined opacity is also noted in the posterior
+     costophrenic region on the left in the lateral view consistent with a small
+     area of consolidation in the posterobasal segment of the left lower lobe.
+     
+     IMPRESSION:  Lingular pneumonia and probable small area of pneumonia in left
+     lower lobe posteriorly.  No CHF.  COPD.
+
+",,
+8992,,,,2779-01-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-1-10**] 12:22 PM
+     ART EXT (REST ONLY)                                             Clip # [**Clip Number (Radiology) 12333**]
+     Reason: GANGRENE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Arterial duplex lower extremity.
+     
+     REASON:  Gangrene, decreased pulses.
+     
+     FINDINGS:  Duplex evaluation was performed of both lower extremity arterial
+     systems at rest.
+     
+     On the right, Doppler tracings are monophasic at the femoral, popliteal and
+     dorsalis pedis.  The are absent at the posterior tibial level.  The ankle-
+     brachial index is 0.60.  Pulse volume recordings showed significant drop-off
+     at the calf level and are flatline at the metatarsals.
+     
+     On the left, Doppler tracings are monophasic at all levels from the femoral
+     through the dorsalis pedis.  The ankle-brachial index is 0.64.  Pulse volume
+     recordings also showed significant drop-off at the calf level and are flatline
+     at the metatarsals.
+     
+     IMPRESSION:  Significant aortobi-iliac disease.  There is likely a significant
+     component of superficial femoral artery and tibial disease, but that cannot be
+     clearly determined by this test.
+     
+     
+
+",,
+8992,,,,2779-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-1-16**] 11:42 AM
+     MRA PELVIS; MR LEG ANGIOGRAM BILAT                              Clip # [**Clip Number (Radiology) 12334**]
+     MR RECONSTRUCTION IMAGING; MR RECONSTRUCTION IMAGING
+     -59 DISTINCT PROCEDURAL SERVICE; -59 DISTINCT PROCEDURAL SERVICE
+     MR DOUBLE DOSE CONTRAST
+     Reason: Gangrene bilat feet (aorta + bilat runoff requested).
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with 
+     REASON FOR THIS EXAMINATION:
+      Gangrene bilat feet (aorta + bilat runoff requested).
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bilateral gangrene of the feet.  Recent angioplasty and RCA stent
+     for CAD.  Catheterization via the brachial approach.  Patient has aorto-
+     bifemoral bypass graft.
+     
+     TECHNIQUE:  Dynamic moving table three station MR angiography from the distal
+     aorta to the feet was performed at 1.5T.  2D TOF of both feet and tibial
+     regions were obtained.  Axial true FISP through the pelvis performed.  40 cc
+     Magnevist administered without complication. Multiplanar reconstructions were
+     generated and evaluated.
+     
+     LOWER EXTREMITY MR ANGIOGRAPHY:  No focal stenosis is seen within the distal
+     aorta.  The aorto-bifemoral bypass graft is widely patent.
+     
+     Right:
+     On the right, there is no focal narrowing of the common or external iliac
+     artery.  The common femoral artery is patent.  The superficial femoral artery
+     is occluded for a long segment, from its origin to just above the adductor
+     hiatus.  There are extensive collateral vessels off the profunda that
+     reconstitute the distal SFA.   No focal stenoses are present within the
+     popliteal artery.  There is straight line flow to the foot via an anterior
+     tibial artery with a single  mild focal stenosis is seen within the proximal
+     anterior tibial artery. The posterior tibial artery is occluded at its origin.
+     The peroneal artery has multifocal areas of narrowing, and is visualized to
+     just above the ankle joint.  At the foot, there is a good caliber dorsalis
+     pedis artery but no posterior tibial vessel.
+     
+     Left:
+     On the left, the common and external iliac artery and common femoral arteries
+     show no focal narrowing.  There is a long segment of occlusion of the
+     superficial femoral artery, from its origin to the level of the knee joint
+     popliteal artery.  The below knee popliteal artery is patent.  There is
+     straight line run off to the foot via a posterior tibial artery.  The peroneal
+     artery also has straight line flow to the ankle.  A 4 cm segment of occlusion
+     is present within the proximal third of the anterior tibial artery.  It is
+     reconstituted and has straight line flow to the foot where it gives off a good
+     caliber dorsalis pedis artery.  There is also a good caliber left posterior
+     tibial vessel.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**2779-1-16**] 11:42 AM
+     MRA PELVIS; MR LEG ANGIOGRAM BILAT                              Clip # [**Clip Number (Radiology) 12334**]
+     MR RECONSTRUCTION IMAGING; MR RECONSTRUCTION IMAGING
+     -59 DISTINCT PROCEDURAL SERVICE; -59 DISTINCT PROCEDURAL SERVICE
+     MR DOUBLE DOSE CONTRAST
+     Reason: Gangrene bilat feet (aorta + bilat runoff requested).
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1) Widely patent aorto-bifemoral bypass graft.
+     2) Long segmental occlusions of both superficial femoral arteries from the
+     origins.
+     3) Straight line flow to the right foot via a right anterior tibial artery
+     with  a good dorsalis pedis as the lone supply to the foot.
+     4) On the left, there is straight line flow to the foot via the posterior
+     tibial artery.   A 4cm  segmental occlusion of the mid left AT is present with
+     distal reconstitution and good caliber dorsalis pedis and posterior tibial
+     vessels.
+
+",,
+8992,,,,2779-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-1-16**] 11:42 AM
+     MRA PELVIS; MR LEG ANGIOGRAM BILAT                              Clip # [**Clip Number (Radiology) 12334**]
+     MR RECONSTRUCTION IMAGING; MR RECONSTRUCTION IMAGING
+     -59 DISTINCT PROCEDURAL SERVICE; -59 DISTINCT PROCEDURAL SERVICE
+     MR DOUBLE DOSE CONTRAST
+     Reason: Gangrene bilat feet (aorta + bilat runoff requested).
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with 
+     REASON FOR THIS EXAMINATION:
+      Gangrene bilat feet (aorta + bilat runoff requested).
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bilateral gangrene of the feet.  Recent angioplasty and RCA stent
+     for CAD.  Catheterization via the brachial approach.  Patient has aorto-
+     bifemoral bypass graft.
+     
+     TECHNIQUE:  Dynamic moving table three station MR angiography from the distal
+     aorta to the feet was performed at 1.5T.  2D TOF of both feet and tibial
+     regions were obtained.  Axial true FISP through the pelvis performed.  40 cc
+     Magnevist administered without complication. Multiplanar reconstructions were
+     generated and evaluated.
+     
+     LOWER EXTREMITY MR ANGIOGRAPHY:  No focal stenosis is seen within the distal
+     aorta.  The aorto-bifemoral bypass graft is widely patent.
+     
+     Right:
+     On the right, there is no focal narrowing of the common or external iliac
+     artery.  The common femoral artery is patent.  The superficial femoral artery
+     is occluded for a long segment, from its origin to just above the adductor
+     hiatus.  There are extensive collateral vessels off the profunda that
+     reconstitute the distal SFA.   No focal stenoses are present within the
+     popliteal artery.  There is straight line flow to the foot via an anterior
+     tibial artery with a single  mild focal stenosis is seen within the proximal
+     anterior tibial artery. The posterior tibial artery is occluded at its origin.
+     The peroneal artery has multifocal areas of narrowing, and is visualized to
+     just above the ankle joint.  At the foot, there is a good caliber dorsalis
+     pedis artery but no posterior tibial vessel.
+     
+     Left:
+     On the left, the common and external iliac artery and common femoral arteries
+     show no focal narrowing.  There is a long segment of occlusion of the
+     superficial femoral artery, from its origin to the level of the knee joint
+     popliteal artery.  The below knee popliteal artery is patent.  There is
+     straight line run off to the foot via a posterior tibial artery.  The peroneal
+     artery also has straight line flow to the ankle.  A 4 cm segment of occlusion
+     is present within the proximal third of the anterior tibial artery.  It is
+     reconstituted and has straight line flow to the foot where it gives off a good
+     caliber dorsalis pedis artery.  There is also a good caliber left posterior
+     tibial vessel.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**2779-1-16**] 11:42 AM
+     MRA PELVIS; MR LEG ANGIOGRAM BILAT                              Clip # [**Clip Number (Radiology) 12334**]
+     MR RECONSTRUCTION IMAGING; MR RECONSTRUCTION IMAGING
+     -59 DISTINCT PROCEDURAL SERVICE; -59 DISTINCT PROCEDURAL SERVICE
+     MR DOUBLE DOSE CONTRAST
+     Reason: Gangrene bilat feet (aorta + bilat runoff requested).
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1) Widely patent aorto-bifemoral bypass graft.
+     2) Long segmental occlusions of both superficial femoral arteries from the
+     origins.
+     3) Straight line flow to the right foot via a right anterior tibial artery
+     with  a good dorsalis pedis as the lone supply to the foot.
+     4) On the left, there is straight line flow to the foot via the posterior
+     tibial artery.   A 4cm  segmental occlusion of the mid left AT is present with
+     distal reconstitution and good caliber dorsalis pedis and posterior tibial
+     vessels.
+
+",,
+8992,,,,2779-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-1-16**] 11:42 AM
+     MRA PELVIS; MR LEG ANGIOGRAM BILAT                              Clip # [**Clip Number (Radiology) 12334**]
+     MR RECONSTRUCTION IMAGING; MR RECONSTRUCTION IMAGING
+     -59 DISTINCT PROCEDURAL SERVICE; -59 DISTINCT PROCEDURAL SERVICE
+     MR DOUBLE DOSE CONTRAST
+     Reason: Gangrene bilat feet (aorta + bilat runoff requested).
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with 
+     REASON FOR THIS EXAMINATION:
+      Gangrene bilat feet (aorta + bilat runoff requested).
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bilateral gangrene of the feet.  Recent angioplasty and RCA stent
+     for CAD.  Catheterization via the brachial approach.  Patient has aorto-
+     bifemoral bypass graft.
+     
+     TECHNIQUE:  Dynamic moving table three station MR angiography from the distal
+     aorta to the feet was performed at 1.5T.  2D TOF of both feet and tibial
+     regions were obtained.  Axial true FISP through the pelvis performed.  40 cc
+     Magnevist administered without complication. Multiplanar reconstructions were
+     generated and evaluated.
+     
+     LOWER EXTREMITY MR ANGIOGRAPHY:  No focal stenosis is seen within the distal
+     aorta.  The aorto-bifemoral bypass graft is widely patent.
+     
+     Right:
+     On the right, there is no focal narrowing of the common or external iliac
+     artery.  The common femoral artery is patent.  The superficial femoral artery
+     is occluded for a long segment, from its origin to just above the adductor
+     hiatus.  There are extensive collateral vessels off the profunda that
+     reconstitute the distal SFA.   No focal stenoses are present within the
+     popliteal artery.  There is straight line flow to the foot via an anterior
+     tibial artery with a single  mild focal stenosis is seen within the proximal
+     anterior tibial artery. The posterior tibial artery is occluded at its origin.
+     The peroneal artery has multifocal areas of narrowing, and is visualized to
+     just above the ankle joint.  At the foot, there is a good caliber dorsalis
+     pedis artery but no posterior tibial vessel.
+     
+     Left:
+     On the left, the common and external iliac artery and common femoral arteries
+     show no focal narrowing.  There is a long segment of occlusion of the
+     superficial femoral artery, from its origin to the level of the knee joint
+     popliteal artery.  The below knee popliteal artery is patent.  There is
+     straight line run off to the foot via a posterior tibial artery.  The peroneal
+     artery also has straight line flow to the ankle.  A 4 cm segment of occlusion
+     is present within the proximal third of the anterior tibial artery.  It is
+     reconstituted and has straight line flow to the foot where it gives off a good
+     caliber dorsalis pedis artery.  There is also a good caliber left posterior
+     tibial vessel.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**2779-1-16**] 11:42 AM
+     MRA PELVIS; MR LEG ANGIOGRAM BILAT                              Clip # [**Clip Number (Radiology) 12334**]
+     MR RECONSTRUCTION IMAGING; MR RECONSTRUCTION IMAGING
+     -59 DISTINCT PROCEDURAL SERVICE; -59 DISTINCT PROCEDURAL SERVICE
+     MR DOUBLE DOSE CONTRAST
+     Reason: Gangrene bilat feet (aorta + bilat runoff requested).
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1) Widely patent aorto-bifemoral bypass graft.
+     2) Long segmental occlusions of both superficial femoral arteries from the
+     origins.
+     3) Straight line flow to the right foot via a right anterior tibial artery
+     with  a good dorsalis pedis as the lone supply to the foot.
+     4) On the left, there is straight line flow to the foot via the posterior
+     tibial artery.   A 4cm  segmental occlusion of the mid left AT is present with
+     distal reconstitution and good caliber dorsalis pedis and posterior tibial
+     vessels.
+
+",,
+8992,,,,2779-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-1-16**] 11:42 AM
+     MRA PELVIS; MR LEG ANGIOGRAM BILAT                              Clip # [**Clip Number (Radiology) 12334**]
+     MR RECONSTRUCTION IMAGING; MR RECONSTRUCTION IMAGING
+     -59 DISTINCT PROCEDURAL SERVICE; -59 DISTINCT PROCEDURAL SERVICE
+     MR DOUBLE DOSE CONTRAST
+     Reason: Gangrene bilat feet (aorta + bilat runoff requested).
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with 
+     REASON FOR THIS EXAMINATION:
+      Gangrene bilat feet (aorta + bilat runoff requested).
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bilateral gangrene of the feet.  Recent angioplasty and RCA stent
+     for CAD.  Catheterization via the brachial approach.  Patient has aorto-
+     bifemoral bypass graft.
+     
+     TECHNIQUE:  Dynamic moving table three station MR angiography from the distal
+     aorta to the feet was performed at 1.5T.  2D TOF of both feet and tibial
+     regions were obtained.  Axial true FISP through the pelvis performed.  40 cc
+     Magnevist administered without complication. Multiplanar reconstructions were
+     generated and evaluated.
+     
+     LOWER EXTREMITY MR ANGIOGRAPHY:  No focal stenosis is seen within the distal
+     aorta.  The aorto-bifemoral bypass graft is widely patent.
+     
+     Right:
+     On the right, there is no focal narrowing of the common or external iliac
+     artery.  The common femoral artery is patent.  The superficial femoral artery
+     is occluded for a long segment, from its origin to just above the adductor
+     hiatus.  There are extensive collateral vessels off the profunda that
+     reconstitute the distal SFA.   No focal stenoses are present within the
+     popliteal artery.  There is straight line flow to the foot via an anterior
+     tibial artery with a single  mild focal stenosis is seen within the proximal
+     anterior tibial artery. The posterior tibial artery is occluded at its origin.
+     The peroneal artery has multifocal areas of narrowing, and is visualized to
+     just above the ankle joint.  At the foot, there is a good caliber dorsalis
+     pedis artery but no posterior tibial vessel.
+     
+     Left:
+     On the left, the common and external iliac artery and common femoral arteries
+     show no focal narrowing.  There is a long segment of occlusion of the
+     superficial femoral artery, from its origin to the level of the knee joint
+     popliteal artery.  The below knee popliteal artery is patent.  There is
+     straight line run off to the foot via a posterior tibial artery.  The peroneal
+     artery also has straight line flow to the ankle.  A 4 cm segment of occlusion
+     is present within the proximal third of the anterior tibial artery.  It is
+     reconstituted and has straight line flow to the foot where it gives off a good
+     caliber dorsalis pedis artery.  There is also a good caliber left posterior
+     tibial vessel.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**2779-1-16**] 11:42 AM
+     MRA PELVIS; MR LEG ANGIOGRAM BILAT                              Clip # [**Clip Number (Radiology) 12334**]
+     MR RECONSTRUCTION IMAGING; MR RECONSTRUCTION IMAGING
+     -59 DISTINCT PROCEDURAL SERVICE; -59 DISTINCT PROCEDURAL SERVICE
+     MR DOUBLE DOSE CONTRAST
+     Reason: Gangrene bilat feet (aorta + bilat runoff requested).
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1) Widely patent aorto-bifemoral bypass graft.
+     2) Long segmental occlusions of both superficial femoral arteries from the
+     origins.
+     3) Straight line flow to the right foot via a right anterior tibial artery
+     with  a good dorsalis pedis as the lone supply to the foot.
+     4) On the left, there is straight line flow to the foot via the posterior
+     tibial artery.   A 4cm  segmental occlusion of the mid left AT is present with
+     distal reconstitution and good caliber dorsalis pedis and posterior tibial
+     vessels.
+
+",,
+8992,,,,2779-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-1-16**] 11:42 AM
+     MRA PELVIS; MR LEG ANGIOGRAM BILAT                              Clip # [**Clip Number (Radiology) 12334**]
+     MR RECONSTRUCTION IMAGING; MR RECONSTRUCTION IMAGING
+     -59 DISTINCT PROCEDURAL SERVICE; -59 DISTINCT PROCEDURAL SERVICE
+     MR DOUBLE DOSE CONTRAST
+     Reason: Gangrene bilat feet (aorta + bilat runoff requested).
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with 
+     REASON FOR THIS EXAMINATION:
+      Gangrene bilat feet (aorta + bilat runoff requested).
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bilateral gangrene of the feet.  Recent angioplasty and RCA stent
+     for CAD.  Catheterization via the brachial approach.  Patient has aorto-
+     bifemoral bypass graft.
+     
+     TECHNIQUE:  Dynamic moving table three station MR angiography from the distal
+     aorta to the feet was performed at 1.5T.  2D TOF of both feet and tibial
+     regions were obtained.  Axial true FISP through the pelvis performed.  40 cc
+     Magnevist administered without complication. Multiplanar reconstructions were
+     generated and evaluated.
+     
+     LOWER EXTREMITY MR ANGIOGRAPHY:  No focal stenosis is seen within the distal
+     aorta.  The aorto-bifemoral bypass graft is widely patent.
+     
+     Right:
+     On the right, there is no focal narrowing of the common or external iliac
+     artery.  The common femoral artery is patent.  The superficial femoral artery
+     is occluded for a long segment, from its origin to just above the adductor
+     hiatus.  There are extensive collateral vessels off the profunda that
+     reconstitute the distal SFA.   No focal stenoses are present within the
+     popliteal artery.  There is straight line flow to the foot via an anterior
+     tibial artery with a single  mild focal stenosis is seen within the proximal
+     anterior tibial artery. The posterior tibial artery is occluded at its origin.
+     The peroneal artery has multifocal areas of narrowing, and is visualized to
+     just above the ankle joint.  At the foot, there is a good caliber dorsalis
+     pedis artery but no posterior tibial vessel.
+     
+     Left:
+     On the left, the common and external iliac artery and common femoral arteries
+     show no focal narrowing.  There is a long segment of occlusion of the
+     superficial femoral artery, from its origin to the level of the knee joint
+     popliteal artery.  The below knee popliteal artery is patent.  There is
+     straight line run off to the foot via a posterior tibial artery.  The peroneal
+     artery also has straight line flow to the ankle.  A 4 cm segment of occlusion
+     is present within the proximal third of the anterior tibial artery.  It is
+     reconstituted and has straight line flow to the foot where it gives off a good
+     caliber dorsalis pedis artery.  There is also a good caliber left posterior
+     tibial vessel.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**2779-1-16**] 11:42 AM
+     MRA PELVIS; MR LEG ANGIOGRAM BILAT                              Clip # [**Clip Number (Radiology) 12334**]
+     MR RECONSTRUCTION IMAGING; MR RECONSTRUCTION IMAGING
+     -59 DISTINCT PROCEDURAL SERVICE; -59 DISTINCT PROCEDURAL SERVICE
+     MR DOUBLE DOSE CONTRAST
+     Reason: Gangrene bilat feet (aorta + bilat runoff requested).
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1) Widely patent aorto-bifemoral bypass graft.
+     2) Long segmental occlusions of both superficial femoral arteries from the
+     origins.
+     3) Straight line flow to the right foot via a right anterior tibial artery
+     with  a good dorsalis pedis as the lone supply to the foot.
+     4) On the left, there is straight line flow to the foot via the posterior
+     tibial artery.   A 4cm  segmental occlusion of the mid left AT is present with
+     distal reconstitution and good caliber dorsalis pedis and posterior tibial
+     vessels.
+
+",,
+8992,,,,2779-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-1-16**] 11:42 AM
+     MRA PELVIS; MR LEG ANGIOGRAM BILAT                              Clip # [**Clip Number (Radiology) 12334**]
+     MR RECONSTRUCTION IMAGING; MR RECONSTRUCTION IMAGING
+     -59 DISTINCT PROCEDURAL SERVICE; -59 DISTINCT PROCEDURAL SERVICE
+     MR DOUBLE DOSE CONTRAST
+     Reason: Gangrene bilat feet (aorta + bilat runoff requested).
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      88 year old man with 
+     REASON FOR THIS EXAMINATION:
+      Gangrene bilat feet (aorta + bilat runoff requested).
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bilateral gangrene of the feet.  Recent angioplasty and RCA stent
+     for CAD.  Catheterization via the brachial approach.  Patient has aorto-
+     bifemoral bypass graft.
+     
+     TECHNIQUE:  Dynamic moving table three station MR angiography from the distal
+     aorta to the feet was performed at 1.5T.  2D TOF of both feet and tibial
+     regions were obtained.  Axial true FISP through the pelvis performed.  40 cc
+     Magnevist administered without complication. Multiplanar reconstructions were
+     generated and evaluated.
+     
+     LOWER EXTREMITY MR ANGIOGRAPHY:  No focal stenosis is seen within the distal
+     aorta.  The aorto-bifemoral bypass graft is widely patent.
+     
+     Right:
+     On the right, there is no focal narrowing of the common or external iliac
+     artery.  The common femoral artery is patent.  The superficial femoral artery
+     is occluded for a long segment, from its origin to just above the adductor
+     hiatus.  There are extensive collateral vessels off the profunda that
+     reconstitute the distal SFA.   No focal stenoses are present within the
+     popliteal artery.  There is straight line flow to the foot via an anterior
+     tibial artery with a single  mild focal stenosis is seen within the proximal
+     anterior tibial artery. The posterior tibial artery is occluded at its origin.
+     The peroneal artery has multifocal areas of narrowing, and is visualized to
+     just above the ankle joint.  At the foot, there is a good caliber dorsalis
+     pedis artery but no posterior tibial vessel.
+     
+     Left:
+     On the left, the common and external iliac artery and common femoral arteries
+     show no focal narrowing.  There is a long segment of occlusion of the
+     superficial femoral artery, from its origin to the level of the knee joint
+     popliteal artery.  The below knee popliteal artery is patent.  There is
+     straight line run off to the foot via a posterior tibial artery.  The peroneal
+     artery also has straight line flow to the ankle.  A 4 cm segment of occlusion
+     is present within the proximal third of the anterior tibial artery.  It is
+     reconstituted and has straight line flow to the foot where it gives off a good
+     caliber dorsalis pedis artery.  There is also a good caliber left posterior
+     tibial vessel.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**2779-1-16**] 11:42 AM
+     MRA PELVIS; MR LEG ANGIOGRAM BILAT                              Clip # [**Clip Number (Radiology) 12334**]
+     MR RECONSTRUCTION IMAGING; MR RECONSTRUCTION IMAGING
+     -59 DISTINCT PROCEDURAL SERVICE; -59 DISTINCT PROCEDURAL SERVICE
+     MR DOUBLE DOSE CONTRAST
+     Reason: Gangrene bilat feet (aorta + bilat runoff requested).
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1) Widely patent aorto-bifemoral bypass graft.
+     2) Long segmental occlusions of both superficial femoral arteries from the
+     origins.
+     3) Straight line flow to the right foot via a right anterior tibial artery
+     with  a good dorsalis pedis as the lone supply to the foot.
+     4) On the left, there is straight line flow to the foot via the posterior
+     tibial artery.   A 4cm  segmental occlusion of the mid left AT is present with
+     distal reconstitution and good caliber dorsalis pedis and posterior tibial
+     vessels.
+
+",,
+8992,,,,2779-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-4-18**] 11:05 AM
+     WRIST(3 + VIEWS) LEFT; HAND (AP, LAT & OBLIQUE) LEFT            Clip # [**Clip Number (Radiology) 12335**]
+     Reason: S/P FALL ON CONCRETE, R/O FX ? SRS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     LEFT HAND AND WRIST, THREE VIEWS.
+     
+     HISTORY:  Fall and pain.
+     
+     No definite recent fracture. Fine transverse sclerotic line likely related to
+     closed physis. Severe degenerative changes are present in the first
+     carpometacarpal joint. There is calcification in the radial artery. if
+     symptoms persist suggest re-xray in 7-10 days.
+
+",,
+8992,,,,2779-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-4-18**] 11:05 AM
+     WRIST(3 + VIEWS) LEFT; HAND (AP, LAT & OBLIQUE) LEFT            Clip # [**Clip Number (Radiology) 12335**]
+     Reason: S/P FALL ON CONCRETE, R/O FX ? SRS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     LEFT HAND AND WRIST, THREE VIEWS.
+     
+     HISTORY:  Fall and pain.
+     
+     No definite recent fracture. Fine transverse sclerotic line likely related to
+     closed physis. Severe degenerative changes are present in the first
+     carpometacarpal joint. There is calcification in the radial artery. if
+     symptoms persist suggest re-xray in 7-10 days.
+
+",,
+8992,,,,2779-09-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-9-13**] 7:06 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 12336**]
+     Reason: OSTEOMYOLITIS LEFT SECOND TOE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      preop                                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Osteomyelitis left second toe, preoperative exam.
+     
+     PA and lateral chest radiograph dated [**2779-9-13**] is compared with the PA and
+     lateral radiograph dated [**2778-12-17**].
+     
+     There is moderate cardiomegaly.  There is flattening of the diaphragms
+     consistent with COPD.  No areas of consolidation are identified.  The lungs
+     are clear.  There are no pleural effusions.  No pneumothorax identified.
+     Osseous structures unremarkable.
+     
+     IMPRESSION:  No evidence of acute cardiopulmonary disease.
+     
+
+",,
+8992,,,,2779-09-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-9-13**] 7:06 PM
+     FOOT AP,LAT & OBL LEFT                                          Clip # [**Clip Number (Radiology) 12337**]
+     Reason: eval for osteo 2nd toe                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with ulcer                                                      
+     REASON FOR THIS EXAMINATION:
+      eval for osteo 2nd toe                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     LEFT FOOT, 3 VIEWS:
+     
+     History of ulcer second digit.  To evaluate for osteomyelitis.
+     
+     No fracture.  There is osteopenia.  No definite evidence for osteomyelitis and
+     no radiopaque foreign bodies.  There are hammer toes digits two to five
+     inclusive.
+
+",,
+8992,,,,2779-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-9-14**] 1:00 PM
+     ART EXT (REST ONLY)                                             Clip # [**Clip Number (Radiology) 12338**]
+     Reason: Evaluate blood flow to feet.                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with non-healing ulcer of L second toe.                         
+     REASON FOR THIS EXAMINATION:
+      Evaluate blood flow to feet.                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Nonhealing left foot ulcer.
+     
+     FINDINGS:  Monophasic wave forms at all levels involving both lower
+     extremities.  The ABI measurements are inaccurate due to vessel
+     noncompressibility.  Volume recordings demonstrate wave form widening at all
+     levels and extremely low amplitude at the popliteal levels and distally,
+     bilaterally.
+     
+     IMPRESSION:  Bilateral aortoiliac disease.  There is likely an element of
+     tibial disease bilaterally as well.
+
+",,
+8992,,,,2779-09-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-9-17**] 11:44 AM
+     MRA LEG W&W/OC BILAT; MRA PELVIS                                Clip # [**Clip Number (Radiology) 12339**]
+     MR RECONSTRUCTION IMAGING
+     Reason: Evaluate for disease of LLE arteries.                       
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with non-healing LLE toe ulcer. MRA performed [**2779-1-16**] here at 
+      [**Hospital1 117**] demonstrated poor flow to LLE, bypass surgery deferred because patient 
+      was in poor state of health. Now being considered for revascularization. 
+      Patient has history of AAA repair with aortobifemoral bypass graft. 
+      Conventional contrast angiogram contra-indicated in this patient because of 
+      compromised renal function with solitary kidney.
+     REASON FOR THIS EXAMINATION:
+      Evaluate for disease of LLE arteries.                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PLEASE SEE COMBINED REPORT UNDER CLIP #[**Clip Number (Radiology) 12340**]
+
+",,
+8992,,,,2779-09-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-9-17**] 11:44 AM
+     MRA LEG W&W/OC BILAT; MRA PELVIS                                Clip # [**Clip Number (Radiology) 12339**]
+     MR RECONSTRUCTION IMAGING
+     Reason: Evaluate for disease of LLE arteries.                       
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with non-healing LLE toe ulcer. MRA performed [**2779-1-16**] here at 
+      [**Hospital1 117**] demonstrated poor flow to LLE, bypass surgery deferred because patient 
+      was in poor state of health. Now being considered for revascularization. 
+      Patient has history of AAA repair with aortobifemoral bypass graft. 
+      Conventional contrast angiogram contra-indicated in this patient because of 
+      compromised renal function with solitary kidney.
+     REASON FOR THIS EXAMINATION:
+      Evaluate for disease of LLE arteries.                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PLEASE SEE COMBINED REPORT UNDER CLIP #[**Clip Number (Radiology) 12340**]
+
+",,
+8992,,,,2779-09-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-9-17**] 11:44 AM
+     MRA LEG W&W/OC BILAT; MRA PELVIS                                Clip # [**Clip Number (Radiology) 12339**]
+     MR RECONSTRUCTION IMAGING
+     Reason: Evaluate for disease of LLE arteries.                       
+      Contrast: MAGNEVIST Amt: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with non-healing LLE toe ulcer. MRA performed [**2779-1-16**] here at 
+      [**Hospital1 117**] demonstrated poor flow to LLE, bypass surgery deferred because patient 
+      was in poor state of health. Now being considered for revascularization. 
+      Patient has history of AAA repair with aortobifemoral bypass graft. 
+      Conventional contrast angiogram contra-indicated in this patient because of 
+      compromised renal function with solitary kidney.
+     REASON FOR THIS EXAMINATION:
+      Evaluate for disease of LLE arteries.                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PLEASE SEE COMBINED REPORT UNDER CLIP #[**Clip Number (Radiology) 12340**]
+
+",,
+8992,,,,2779-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 12341**]
+     Reason: OBSERVATION FOR SUSPECTED CARDIOVASCULAR DISEASE. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB:
+     Persantine was infused intravenously for approximately 4 minutes at a  dose of 
+     approximately 0.142 mg/kg/min.  There were no anginal symptoms or ST changes.
+      
+     HISTORY:  Eighty-nine year old man who presents for preoperative evaluation 
+     prior to peripheral vascular surgery.
+      
+     INTERPRETATION:  One to three minutes after the cessation of infusion, 
+     MIBI was administered IV.
+      
+     Image Protocol: Gated SPECT.
+      
+     Resting perfusion images were obtained with thallium.
+     Tracer was injected 15 minutes prior to obtaining the resting images.
+      
+     Stress images demonstrate a severe perfusion defect at the basilar portion of
+     the inferior wall.
+      
+     Resting perfusion images demonstrate this defect to be partially reversible.
+      
+     Ejection fraction calculated from gated wall motion images obtained after
+     Persantine administration shows a left ventricular ejection fraction of
+     approximately 47%.  Due to the lack of counts at the basilar portion of the
+     inferior wall, that portion of the ventricle is unable to be evaluated for wall
+     motion.  The remainder of the ventricle shows mild global hypokinesis.
+      
+     IMPRESSION:  Ischemia of the basilar portion of the inferior wall.  Mild global
+     hypokinesis with EF 47%. /nkg 
+                                                                           
+
+             [**First Name8 (NamePattern2) 809**] [**Name8 (MD) 810**], M.D.
+             [**Last Name (NamePattern5) 65**], M.D.          Approved: WED [**2779-9-19**] 9:56 AM
+
+
+             Date Mailed: [**2779-9-20**]                     West [**Medical Record Number 12342**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8992,,,,2779-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-9-18**] 6:15 AM
+     MRA LEG W/O C BILAT; REPEAT, (REQUEST BY RADIOLOGIST)           Clip # [**Clip Number (Radiology) 12340**]
+     Reason: MRI FOLLOW-UP OF LEG ANGIO FOR CALF EXTENSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Nonhealing ulcer of the left second toe. Patient with a history
+     of aortobifem graft.
+     
+     COMPARISON:  Direct comparison is made to a prior MRI of the lower extremities
+     dated [**2779-1-16**].
+     
+     TECHNIQUE:  Three station MR angiogram was performed with a 3D FAME sequence
+     performed after a timing run and utilizing a fluoro trigger technique.
+     Approximately 40 cc of Gadolinium was utilized.  Axial 2D time of flight
+     images were obtained through the region of the ankles and subsequently from
+     the level of the knee joint to the ankles. Multiplanar reconstructions were
+     generated and evaluated on a work station.
+     
+     MR LOWER EXTREMITIES WITHOUT AND WITH CONTRAST:
+     
+     AORTA: No focal stenosis. Small saccular aneurysm identified in the distal
+     aorta in the region of the proximal anastomosis of the graft. The neck of this
+     aneurysm has maximal linear dimensions in the craniocaudal direction of 2.1 cm
+     and in the AP direction of 1.2 cm.  The aneurysm itself has maximum axial
+     dimensions of 1.5 cm in the AP direction and 1.2 cm in the transverse
+     direction.
+     
+     PELVIS: An aorto- biiliac graft is identified with distal anastomotic sites at
+     the external iliac arteries. This graft appears within normal limits except
+     for the aforementioned small aneurysm adjacent to the proximal anastomotic
+     site.
+     
+     RIGHT:
+     Graft segment to the common femoral artery is widely patent. The superficial
+     femoral artery is occluded for a long segment from its origin to just above
+     the adductor hiatus. There is reconstitution of the most distal superficial
+     femoral artery. No focal stenoses are present within the popliteal artery.
+     There is straight line flow to the foot via an anterior tibial artery with a
+     single mild focal stenosis identified within the proximal anterior tibial
+     artery.  Both the posterior tibial artery and the peroneal arteries have
+     multifocal areas of narrowing and both are visualized to just above the ankle
+     joint.
+     
+     Right foot: There is a good caliber dorsalis pedis artery, no posterior tibial
+     vessel.
+     
+     LEFT:
+     Graft to CFA is widely patent. There is a long segment occlusion of the
+     superficial femoral artery and the more proximal above the knee popliteal
+     artery. There is reconstitution of a short segment of the above the knee
+     popliteal artery with good flow identified in the below the knee popliteal
+     artery.  There is straight line run off to the foot via a posterior tibial
+     artery. The peroneal artery also has straight line flow to the ankle. A 4 cm
+                                                                 (Over)
+
+     DATE: [**2779-9-18**] 6:15 AM
+     MRA LEG W/O C BILAT; REPEAT, (REQUEST BY RADIOLOGIST)           Clip # [**Clip Number (Radiology) 12340**]
+     Reason: MRI FOLLOW-UP OF LEG ANGIO FOR CALF EXTENSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     segment of occlusion is present within the proximal 1/3rd of the anterior
+     tibial artery.  It is reconstituted more distally and has straight line flow
+     to the foot where it gives off a good caliber dorsalis pedis artery.  There is
+     also a good caliber left posterior tibial vessel extending below the ankle
+     joint.
+     
+     Direct comparison with the prior MRI examination dated [**2779-1-16**] shows no
+     significant interval change.
+     
+     MULTIPLANAR RECONSTRUCTIONS:  These were essential in delineating the anatomy
+     and pathology as described above.
+     
+     IMPRESSION:
+     
+     1.  Widely patent aorto-biiliac bypass graft.
+     2.  Long segmental occlusions of both superficial femoral arteries from their
+     origins as described above.
+     3.  Straight line flow to the right foot via the right anterior tibial artery
+     with a good quality dorsalis pedis.
+     4.  On the left there is a straight line flow to the foot via posterior tibial
+     artery.  A 4 cm segmental occlusion of the mid left anterior tibial artery is
+     present with distal reconstitution and good caliber dorsalis pedis artery and
+     posterior tibial artery below the ankle joint.
+     
+     
+     
+
+",,
+8992,,,,2779-09-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-9-18**] 6:15 AM
+     MRA LEG W/O C BILAT; REPEAT, (REQUEST BY RADIOLOGIST)           Clip # [**Clip Number (Radiology) 12340**]
+     Reason: MRI FOLLOW-UP OF LEG ANGIO FOR CALF EXTENSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Nonhealing ulcer of the left second toe. Patient with a history
+     of aortobifem graft.
+     
+     COMPARISON:  Direct comparison is made to a prior MRI of the lower extremities
+     dated [**2779-1-16**].
+     
+     TECHNIQUE:  Three station MR angiogram was performed with a 3D FAME sequence
+     performed after a timing run and utilizing a fluoro trigger technique.
+     Approximately 40 cc of Gadolinium was utilized.  Axial 2D time of flight
+     images were obtained through the region of the ankles and subsequently from
+     the level of the knee joint to the ankles. Multiplanar reconstructions were
+     generated and evaluated on a work station.
+     
+     MR LOWER EXTREMITIES WITHOUT AND WITH CONTRAST:
+     
+     AORTA: No focal stenosis. Small saccular aneurysm identified in the distal
+     aorta in the region of the proximal anastomosis of the graft. The neck of this
+     aneurysm has maximal linear dimensions in the craniocaudal direction of 2.1 cm
+     and in the AP direction of 1.2 cm.  The aneurysm itself has maximum axial
+     dimensions of 1.5 cm in the AP direction and 1.2 cm in the transverse
+     direction.
+     
+     PELVIS: An aorto- biiliac graft is identified with distal anastomotic sites at
+     the external iliac arteries. This graft appears within normal limits except
+     for the aforementioned small aneurysm adjacent to the proximal anastomotic
+     site.
+     
+     RIGHT:
+     Graft segment to the common femoral artery is widely patent. The superficial
+     femoral artery is occluded for a long segment from its origin to just above
+     the adductor hiatus. There is reconstitution of the most distal superficial
+     femoral artery. No focal stenoses are present within the popliteal artery.
+     There is straight line flow to the foot via an anterior tibial artery with a
+     single mild focal stenosis identified within the proximal anterior tibial
+     artery.  Both the posterior tibial artery and the peroneal arteries have
+     multifocal areas of narrowing and both are visualized to just above the ankle
+     joint.
+     
+     Right foot: There is a good caliber dorsalis pedis artery, no posterior tibial
+     vessel.
+     
+     LEFT:
+     Graft to CFA is widely patent. There is a long segment occlusion of the
+     superficial femoral artery and the more proximal above the knee popliteal
+     artery. There is reconstitution of a short segment of the above the knee
+     popliteal artery with good flow identified in the below the knee popliteal
+     artery.  There is straight line run off to the foot via a posterior tibial
+     artery. The peroneal artery also has straight line flow to the ankle. A 4 cm
+                                                                 (Over)
+
+     DATE: [**2779-9-18**] 6:15 AM
+     MRA LEG W/O C BILAT; REPEAT, (REQUEST BY RADIOLOGIST)           Clip # [**Clip Number (Radiology) 12340**]
+     Reason: MRI FOLLOW-UP OF LEG ANGIO FOR CALF EXTENSION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     segment of occlusion is present within the proximal 1/3rd of the anterior
+     tibial artery.  It is reconstituted more distally and has straight line flow
+     to the foot where it gives off a good caliber dorsalis pedis artery.  There is
+     also a good caliber left posterior tibial vessel extending below the ankle
+     joint.
+     
+     Direct comparison with the prior MRI examination dated [**2779-1-16**] shows no
+     significant interval change.
+     
+     MULTIPLANAR RECONSTRUCTIONS:  These were essential in delineating the anatomy
+     and pathology as described above.
+     
+     IMPRESSION:
+     
+     1.  Widely patent aorto-biiliac bypass graft.
+     2.  Long segmental occlusions of both superficial femoral arteries from their
+     origins as described above.
+     3.  Straight line flow to the right foot via the right anterior tibial artery
+     with a good quality dorsalis pedis.
+     4.  On the left there is a straight line flow to the foot via posterior tibial
+     artery.  A 4 cm segmental occlusion of the mid left anterior tibial artery is
+     present with distal reconstitution and good caliber dorsalis pedis artery and
+     posterior tibial artery below the ankle joint.
+     
+     
+     
+
+",,
+8992,,,,2779-09-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-9-20**] 3:52 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 12343**]
+     Reason: s/p line placement.  please check position, r/o PTX         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      89 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      s/p line placement.  please check position, r/o PTX                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, SINGLE AP FILM.
+     
+     HISTORY:  CV line placement.  To evaluate for ptx.
+     
+     The IJ cv line is in proximal SVC.  No pneumothorax.  There is cardiomegaly
+     with mild upper zone redistribution.  No definite pulmonary consolidation or
+     pleural effusions in this single view.
+     
+
+",,
+8992,,,,2779-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-9-24**] 8:08 AM
+     ART DUP EXT LO UNI;F/U; CLINICAL RESEARCH [**Doctor First Name 607**]                 Clip # [**Clip Number (Radiology) 12344**]
+     Reason: graft surveillance                                          
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:
+     
+     The impression should be changed to:
+     
+     IMPRESSION:  Widely patent left femoral-popliteal bypass graft without
+     evidence of stenosis.
+
+
+     DATE: [**2779-9-24**] 8:08 AM
+     ART DUP EXT LO UNI;F/U; CLINICAL RESEARCH [**Doctor First Name 607**]                 Clip # [**Clip Number (Radiology) 12344**]
+     Reason: graft surveillance                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       89 year old man with non-healing ulcer of L second toe now s/p LLE bypass 
+      [**2779-9-20**]                        
+     REASON FOR THIS EXAMINATION:
+      graft surveillance                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON:  Patient with nonhealing ulcer status post lower extremity bypass.
+     Perform follow up surveillance.
+     
+     FINDINGS:  Duplex evaluation is performed of the left femoral-popliteal bypass
+     graft.  Peak systolic velocities in cm per second are as follows:  98, 78,
+     135, 137 in the native proximal vessel, proximal anastomosis, distal
+     anastomosis and native distal vessel respectively.  Throughout the body of the
+     graft velocities range from 94 to 148.
+     
+     IMPRESSION:  Widely patent left femoral-popliteal bypass graft with evidence
+     of stenosis.
+
+",,
+8992,,,,2779-09-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-9-24**] 8:08 AM
+     ART DUP EXT LO UNI;F/U; CLINICAL RESEARCH [**Doctor First Name 607**]                 Clip # [**Clip Number (Radiology) 12344**]
+     Reason: graft surveillance                                          
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:
+     
+     The impression should be changed to:
+     
+     IMPRESSION:  Widely patent left femoral-popliteal bypass graft without
+     evidence of stenosis.
+
+
+     DATE: [**2779-9-24**] 8:08 AM
+     ART DUP EXT LO UNI;F/U; CLINICAL RESEARCH [**Doctor First Name 607**]                 Clip # [**Clip Number (Radiology) 12344**]
+     Reason: graft surveillance                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       89 year old man with non-healing ulcer of L second toe now s/p LLE bypass 
+      [**2779-9-20**]                        
+     REASON FOR THIS EXAMINATION:
+      graft surveillance                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON:  Patient with nonhealing ulcer status post lower extremity bypass.
+     Perform follow up surveillance.
+     
+     FINDINGS:  Duplex evaluation is performed of the left femoral-popliteal bypass
+     graft.  Peak systolic velocities in cm per second are as follows:  98, 78,
+     135, 137 in the native proximal vessel, proximal anastomosis, distal
+     anastomosis and native distal vessel respectively.  Throughout the body of the
+     graft velocities range from 94 to 148.
+     
+     IMPRESSION:  Widely patent left femoral-popliteal bypass graft with evidence
+     of stenosis.
+
+",,
+8992,,,,2779-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-10-26**] 10:21 AM
+     ART DUP EXT LO UNI;F/U; CLINICAL RESEARCH [**Doctor First Name 607**]                 Clip # [**Clip Number (Radiology) 12345**]
+     Reason: GRAFT SURVEILLANCE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Surveillance of left femoral-popliteal bypass in an 89-year-old
+     man.
+     
+     TECHNIQUE AND FINDINGS: [**Doctor Last Name **] scale, color Doppler and spectral Doppler
+     examinations were performed in the native arteries and bypass of the left
+     lower extremity.
+     
+     The graft is patent and its diameter is measured at 0.43 cm proximally and
+     0.47 cm distally.
+     
+     The peak systolic velocities are 87 cm/sec in the native left common femoral
+     artery above the bypass, 200 cm/sec at the proximal bypass anastomosis, 160
+     cm/sec in the proximal upper third of the bypass, 127 to 143 cm/sec in the
+     mid-third of the bypass, 117 to 140 cm/sec in the distal third of the bypass,
+     127 cm/sec at the distal bypass anastomosis, and 118 cm/sec in the distal
+     native left popliteal artery.
+     
+     CONCLUSION: Patent left femoral-popliteal bypass graft.
+
+",,
+8992,,,,2779-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2779-10-26**] 10:21 AM
+     ART DUP EXT LO UNI;F/U; CLINICAL RESEARCH [**Doctor First Name 607**]                 Clip # [**Clip Number (Radiology) 12345**]
+     Reason: GRAFT SURVEILLANCE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Surveillance of left femoral-popliteal bypass in an 89-year-old
+     man.
+     
+     TECHNIQUE AND FINDINGS: [**Doctor Last Name **] scale, color Doppler and spectral Doppler
+     examinations were performed in the native arteries and bypass of the left
+     lower extremity.
+     
+     The graft is patent and its diameter is measured at 0.43 cm proximally and
+     0.47 cm distally.
+     
+     The peak systolic velocities are 87 cm/sec in the native left common femoral
+     artery above the bypass, 200 cm/sec at the proximal bypass anastomosis, 160
+     cm/sec in the proximal upper third of the bypass, 127 to 143 cm/sec in the
+     mid-third of the bypass, 117 to 140 cm/sec in the distal third of the bypass,
+     127 cm/sec at the distal bypass anastomosis, and 118 cm/sec in the distal
+     native left popliteal artery.
+     
+     CONCLUSION: Patent left femoral-popliteal bypass graft.
+
+",,
+8992,14632,11184,0,2780-03-21 16:41:00 EST,2780-03-21 16:54:00 EST,3874,"N",54,"Nursing/Other","Summery 7am-7pm","
+Summery 7am-7pm
+Admitted to NICU po day #2 fem-[**Doctor Last Name **] on l leg. Pt has long Hx of CAD,PVD,AS,AI renal insuffciency,colectomy etc.
+ NEURO; A/O x3 MAEW pt has had glaucoma. Pupils reactive. Previous nurse reports that pt did get somewhat confused at noc.
+
+Resp.4l/nc sats99% also on face tent lung sounds course.Loose cough non-productive.
+
+CV; chronic AF(controlled), dop on 8mcg now from 15mcg on arrival.continue to ween. SG left IJ. Continuous SVO2 moniter has questionable report ABG's sent at 1730. l radial arterial line healthy.L groin and l leg inc well approx. lower leg has drsg. Also pt has DSD on left foot from toe amputation [**1-21**]
+
+GU; F/C draining cl yellow urine. pt has scant amt of blood around meatus.
+
+GI; BS active Taking ice chips and meds with sip of water 
+
+Social; Wife and daughter here-supportive
+",,
+8992,14632,11184,0,2780-03-22 01:33:00 EST,2780-03-22 01:53:00 EST,3876,"N",54,"Nursing/Other",,"
+
+7p-7a; Full assessment in flow sheet.
+
+neuro: A+OX3. Follow commands. clear speech. MAE. PERL - 5mm - glaucoma. Strong cough and gag reflex. [**Last Name **] problem swallowing [**Name2 (NI) 3852**] and water. Pain in L. foot per pt - relief wih PO med. Pt c/o of increase tired and want to [**Doctor Last Name 5**], but can't. No mental status change with increase in metabolic acidotic. 
+
+resp; Coarse lung sound in upper lobes, dimish at bases. 4l NC - SaO2- >95 %. Productive cough of yellow/thick secretion. Please see flow sheet for ABG. At 2300 pt was intubated for increase metabolic acidotic, no inc RR (18-22) per pt, and needed rest . 2Amp of bicarb given. and propofol drip started for sedation. [**Female First Name (un) 6400**] daughter notify and came in to visit - all questions answer by Dr. [**Last Name (STitle) 4071**]. 
+
+cv; Afib without ectopy - with occ NSR (p present), control 70-90 HR. Dopamine drip titrate to MAP >60. Warm, dry, slight lower ext edema. Pulses doppler for DP and Post tib bilaterally. R>L. 
+
+gu/gi; soft abd. +BSX4. no bm. Foley patent. urine output 18-30 (MD aware). Skin intact. L. femoral sites - d/c/i. L. foot - d/c/i. 
+
+plan; Continue to monitor. 
+",,
+8992,14632,11184,0,2780-03-22 04:09:00 EST,2780-03-22 04:14:00 EST,3550,"N",54,"Nursing/Other",,"
+
+PT.INTUBATED AT APPROX.2300 WITH MET.ACIDOSIS, PLACED ON [**Last Name (un) **] VENT. WITH INITIAL SETTINGS OF 500-AC.14-100%-5 PEEP, ABGON THIS SETTIGN=7.20,38,157,16,-12,100%. DECREASED F102 TO 50% SOON AFTER. PT.APPEARS COMFORTABLE. HE IS 89 YRS OLD WITH HX OF COLON CA, MI, CRI, AND CAD.HE HAS HAD A RT.FEM.BYPASS RECENTLY.
+",,
+8992,14632,11184,0,2780-03-22 04:16:00 EST,2780-03-22 04:21:00 EST,3876,"N",54,"Nursing/Other",,"
+
+Addendum;
+
+Change in Rhythm from QRS - .12 to .16 (LBBB), qt - .40 to .44. Controll a fib. EKG done. Dr. [**First Name (STitle) **] and [**Doctor Last Name 4071**] notify. Lab order CK-MB, LFT and HIT (inc INR - all heparin remove from line). Cardiac Index (2.4) and CO (4.2) remain the same.  
+",,
+8992,14632,11184,0,2780-03-22 17:22:00 EST,2780-03-22 17:34:00 EST,3441,"N",54,"Nursing/Other","nsg progress note","
+nsg progress note
+Neuro- Pt is a+o x3, moves all ext on bed.
+
+Hemodynamics- pa line in place, pcwp 12-14 and cvp 5-8. pt received at 7 am on dopamine gtt up to 13 mcg/kg/[**Name8 (MD) **], md aware and levo gtt started to keep map >60. Requiring up to .112 mcg/kg/min. urine output decrease to less than 30/hr. 250 cc bolus given x2. dopamine wean to off. levo gtt weaning this pm after pt extubated. 
+
+Resp- rec this am on simv, weaned to cpap with acceptable abg and rr <20 with spont tidal vol >400. extubated at 4 pm. sats decreasing to 87-90 with hh face tent, changed to non rebreather with sao2 95-98. coughing with reminders, tan sputum, sputum cx sent, lungs coarse bilat. ph this am metabolic acidosis, nahco3 gtt with 150 meq nahco3. ph up to 7.41, gtt off temporarly this pm, but ph decrease to 7.33, to restart bicarb gtt.  
+
+Vascular- bilat lower ext pulses dopplerable, left foot dsd w/o drg, 2nd toe amputated and site blackned. md aware, unchanged from previous.  
+",,
+8992,14632,11184,0,2780-03-22 22:18:00 EST,2780-03-22 22:20:00 EST,3876,"N",54,"Nursing/Other",,"
+
+
+Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) 1538**] notify of abnormal hemodynamic, urine output and labs. No new orders at present. Continue to monitor. 
+",,
+8992,14632,11184,0,2780-03-23 04:51:00 EST,2780-03-23 05:04:00 EST,3876,"N",54,"Nursing/Other",,"
+
+7p-7a; Full assessment in flow sheet. 
+
+neuro; A+OX3. Clear to garble speech. Answer appropriately. Follow commands. No pain per pt. MAE - upper stronger than lower. Slept most of night. 
+
+cv; Control afib/aflutter without ectopy. QRS - . 16-20, Qt. .40. Inverted T. BP 73-98-30-38. Low SBP 70 at 2000 - Dr. [**Last Name (STitle) **] and Dr [**Last Name (STitle) **] notify - LR bolus of 250 given. Good effect SBP 80'. Both Dr. [**Last Name (STitle) **] SVO2 >70 and SBP >75. afebrile. Warm, dry, no edema. CVP 2-6. Please see flow sheet for hemodynamic numbers.
+
+resp; Coarse lung sound bilaterally. Remain metabolic acidotic. IVF - D5W with 150 meq bicarb. Encourage deep breathing and coughing. Productive cough yellow/white/thick sputum. Chest PT and vibration done. Pt us IS while awake. Pt on nonrebreather -12L (>97%) all night, change to 6l and shovel mask in AM (>95%). Albuterol neb treatment X2 given for expiratory wheezes in upper lobes bilaterally. HO notify of all ABG - no new order.
+
+gu/gi; soft abd. +BSX4. no bm. foley patent. urine, yellow, clear 12-30 cc/hr ([**Name6 (MD) **] and MD aware). 
+
+skin; left groin suture site - d/c/i. Ruddy lower extremeties. Warm, dry, dopplerable DP and post tib. L. femoral site - d/c/i, small ss drainage. L. foot - blacken big toes and site of 2nd toes amputee, notify MD of color and smell.
+
+AM lab done. Lytes replace.
+
+Plan: Continue to monitor. 
+",,
+8992,14632,11184,0,2780-03-23 16:07:00 EST,2780-03-23 16:19:00 EST,3919,"N",54,"Nursing/Other",,"
+
+[**3-23**] NPN:
+Neuro: Pt alert and oriented today. following all commands and MAE. Wrist restraints off. 
+CV: SBP 80's to 100. CO trending down, MD aware, vascular notified, see flowsheet. Hct sent, 30.1. Pedal pulses palpable with doppler. R foot warm and multipodous boot added.
+Resp: Strong cough and able to raise tan colored sputum, removing with Yankauer. Lungs sound coarse and diminished in bases. Albuterol neb given for sats of 89-90% with excellent effect.
+GI/GU: UOP slowing to teens this afternoon, MD notified and 250cc bolus given with fair effect, UOP improving. Abd. soft with faint BS present. Diet advanced to clears today, and pt tolerating sips of water with assist and supervision. 
+Afebrile 
+",,
+8992,14632,11184,0,2780-03-24 04:25:00 EST,2780-03-24 04:41:00 EST,3772,"N",54,"Nursing/Other","CONDITON UPDATE","
+CONDITON UPDATE
+D: pt alert and oriented. Cardiac index  remains greater than 2. svo2  is 50-66, Swan continues to not wedge. Pad remains 15-29. cvp is [**3-26**]. Urine output is 15-27cc/hr of amber  colored urine. Hr remains 70-88 afib with rare pvc's. sbp 80-130/40;s by aline. Dr. [**First Name (STitle) **] aware. Breath sounds are coarse. Pt remains on 70% face tent and 6l of nc. Vascular incisions   are clean and dry  with a small amt of serous/sanginous drainage from calf  incision.  left greata nd second toe are  necrotic and dry. dsd applied. Inr elevated to 6.6 this am. Dr. [**First Name (STitle) **] is aware.  left dp/pt pulses are dopplerable 
+A: fluid fluid  continues  at 80cc/hr. Fluid  bolus x 2 for  low urine  output. Aggressive pulmonary toilet and encouragment to cough and deep breathe. follow  coags. 
+R; pulmonary status is marginal.  urine output up to approx mid  twenties. inr up to 6.6 no treatment at this  time. pad is currently 18 and cvp is  8. Svo2 remains  it the 60's.  
+",,
+8992,14632,11184,0,2780-03-24 17:18:00 EST,2780-03-24 17:47:00 EST,3790,"N",54,"Nursing/Other","CONDITION UPDATE:","
+CONDITION UPDATE:
+D/A:  T MAX 97.8
+
+NEURO:  PT REMAINS TIRED, A+OX3, MAE'S.  GENERALIZED DISCOMFORT THIS AM, TREATED WITH TYLENOL WITH GOOD EFFECT.  PT LESS ATTENTIVE IN EVENING, APPEARS TIRED.  CONTINUES TO ANSWER QUESTIONS APPROPRIATELY.
+
+CV:  HR 80'S-90'S AFIB WITH PVC'S.  ABP 80'S-120'S/40'S-50'S. PT WILL TRANSIENTLY GO BELOW GOAL MAP > 60 AND THEN RETURN TO GOAL RANGE.  CVP 9-12, PA ~ 50/18, NO PCWP ATTEMPTED DUE TO HIGH INR AND REPORT OF UNABLE TO WEDGE FROM PREVIOUS SHIFT.  CO ~ 4.0, CI ~ 2.5.  INR CONTINUES TO RISE, 8.8 @ 1400, (1800 LAB PENDING.).  VASCULAR TEAM AND DR. [**Last Name (STitle) **] UPDATED THROUGH OUT DAY BY DR. [**Last Name (STitle) 1363**].  PER DR. [**Last Name (STitle) **], TO FOLLOW SERIAL HCT'S, MONITOR FOR S+S OF BLEEDING.   HCT @ 1400 STABLE @ 34.2.  1800 LABS PENDING.  PLT COUNT SLIGHTLY IMPROVED TO 56 FROM 47.  NO S+S OF ACTIVE BLEEDING.  + DOPPLERABLE PULSES BILAT LE'S.  GROIN SITE WITH STAPLES, C,D+I.  LOWER LEG INCISION WITH STAPLES AND SMALL AMOUNT SERO-SANG DRG.  LEFT FOOT WITH DRY NECROTIC AREA AS NOTED PRE-OP.  
+
+RESP:  LS COARSE-CRACKLES-CLEAR.  ABG @ 1330:  7.30, 44, 65, -4, 23, 92 ON 6 L/M NC AND 70% HUMIDIFIED OPEN FACE TENT.  ALBUTEROL NEB GIVEN, HI FLOW HUMIDIFIED O2 APPLIED, VENTI MASK WITH 100% FIO2 APPLIED.  REPEAT ABG: 7.29, 39, 80, -6, 20, 95.  LASIX 20MG GIVEN WITH NO EFFECT, 40MG GIVEN WITH ALSO MINIMAL-NO EFFECT.  CHEST PT DONE, HESITANT TO DO SO NOW WITH INR ELEVATED.  PT WITH WEAK [**Last Name (LF) **], [**First Name3 (LF) **] RAISE SMALL AMOUNTS OF THICK BROWN SPUTUM.
+
+GI:  SIPS OF CLEARS THIS AM WITH PT AT > 45 DEGREE ANGLE AND PT APPEARED TO SWALLOW WITHOUT ASPIRATING.  IVF HL, THEN INCREASED TO 30 CC'S HOUR FOR BETTER GLUCOSE CONTROL.  + BS, NO BM.
+
+GU:  FOLEY-BSD WITH CLEAR  AMBER URINE.
+
+ENDO:  GLUCOSE LEVELS TRENDING DOWN, 81-79-58-49.  [**11-22**] AMP D50 GIVEN WITH IMPROVEMENT TO 72.  ANOTHER [**11-22**] AMP D 50 GIVEN WITH EFFECT PENDING.  
+
+SX:  PT'S WIFE AND DAUGHTER VISITED TODAY AND SPOKE WITH DR. [**Last Name (STitle) 1363**] ABOUT CODE STATUS.  FAMILY REQUESTS DNR IN THE EVENT OF CARDIAC ARREST.  FAMILY IS WILLING TO INTUBATE IF THE PROGNOSIS IS FOR A < 24 HOUR PERIOD, IF FOR LONG TERM, WOULD DECLINE.  DR. [**Last Name (STitle) 1363**] TO SPEAK WITH DR. [**Last Name (STitle) **] AND PLACE ORDER IN POE.
+
+R:  HIGH INR, LOW GLUCOSE, CONCERNING RESPIRATORY STATUS.
+
+P:  CONTINUE WITH CLOSE MONITORING AND MANAGEMENT.  SERIAL HCT'S AND MONITORING FOR S+S OF ACTIVE BLEEDING.  MONITOR RESP STATUS -VS- HEMODYNAMICS  (FINE LINE DIURESES VS FLUID).  PT AND FAMILY SUPPORT.  CONTINUE TO FOLLOW PLATELET LEVELS.
+",,
+8992,,11184,0,2780-03-25 03:35:00 EST,2780-03-25 03:55:00 EST,3950,"N",54,"Nursing/Other","CONDITION UPDATE","
+CONDITION UPDATE
+PLEASE SEE CAREVUE FLOWSHEET FOR SPECIFICS.
+NEURO: PT DOZING INTERMITTENTLY. EASILY AWAKENS. ORIENTED X3 THROUGH NIGHT. FOLLOWS COMMANDS. MOVES ALL EXTREMITIES. DENIES PAIN.
+RESP: LS DIMINISHED ON RIGHT, FAINT CRACKLES AT LEFT BASE. WEAK, NONPRODUCTIVE COUGH. CHEST PT NOT DONE DUE TO PT'S ELEVATED INR. O2 SATS ON 6L BY NASAL CANNULA AND 95% VIA HIGH FLOW MASK DOWN TO LOW 90'S THIS AM (UNCHANGED AFTER LR BOLUS). ACIDOSIS WORSENING THIS AM WITH PH DOWN TO 7.26. MD [**Location (un) **] INFORMED.
+CV: TEMP 97 TO 96.5. AFIB CONTINUES. RARE PVC'S. INR UP TO 11.9 IN EVE. MD'[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] AND [**Doctor Last Name **] INFORMED. AM INR PENDING. MAP DOWN TO 50S OVERNOC WHEN PT SLEEPING. BS AND U/O ALSO LOW AT THIS TIME, AND PT SL DIFFICULT TO ARROUSE. MD [**Location (un) **] INFORMED. 1 AMP D50 GIVEN. BS IMPROVED AND PT MORE ALERT, BUT NO CHANGE IN MAP OR U/O. MDS [**Last Name (LF) **], [**First Name3 (LF) **], AND ALXOPOULOS INFORMED. 500CC LR BOLUS ORDERED AND GIVEN. MAP IMPROVED TO 60 OR GREATER, BUT NO CHANGE IN U/O. MD [**Location (un) **] INFORMED. PA PRESSURES, CCO AND CCI STABLE, BUT SVO2 DOWN TO 50S. MD'[**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] AND [**Doctor Last Name **] INFORMED. PCWP NOT ATTEMPTED DUE TO ELEVATED INR. 
+GI: ABD SOFT. FAINT BS. NO N/V.
+GU: U/O DOWN TO <20 CC/HOUR X 5 HOURS. NO IMPROVEMENT AFTER LR BOLUS. MD'S INFORMED.
+ENDO: FSBG'S CONT TO TREND DOWN. D50 GIVEN PRN.
+PLAN: MONITOR CLOSELY. ASSESS FOR ANY SIGNS OF BLEEDING. MONITOR PA CATH VALUES. AWAIT FORTHER INPUT/PLAN FROM TEAM.
+",,
+8992,,11184,0,2780-03-25 05:32:00 EST,2780-03-25 05:35:00 EST,3950,"N",54,"Nursing/Other","ADDENDUM","
+ADDENDUM
+AT APPROX 6AM PT DESASTTING TO 80S, SBP DOWN TO 80S. PT INCREASINGLY LETHARGIC AND DIFFICULT TO ARROUSE. ABG AS DOCUMENTED IN CAREVUE. NRB REPLIED WITH NO EFFECT, HIFLOW MASK REPLACED. MD [**Location (un) **] IN ROOM. LEVOPHED GTT STARTED TO MAINTAIN SBP 120S. CURRENTLY AT 120S WITH GTT AT .2MCK/KG/MIN. CXR OBTAINED. RESULTS PENDING.
+",,
+8992,,11184,0,2780-03-25 16:00:00 EST,2780-03-25 16:23:00 EST,-1,"N",54,"Nursing/Other","Nursing note","
+Nursing note
+Awake and lethargic throughout morning. Not able to speak coherently but following commands.
+Remains in afib with occasional to frequent PVC's seen.  Levo conts to maintain SBP >120 and MAP >60.  INR 13.7. Given 1u FFP. Dopplerable peripheral pulses. Denies chest pain. Cardiac echo repeated. 
+LS diminished bilat throughout with crackles at RLL. CXR shows bilat pleural effusions. O2 by hi-flow mask and NC. Sats 96-98 with occasional drops. Enc to deep breathe.  ABG shows worsening resp status.  Family aware of this and after discussion with Pt decided against intubation.  
+Abd soft with hypoactive BS. NPO d/t lethargy and difficulty clearing secretions. 
+Foley patent. UOP < 20cc/h of amber urine.
+Plan: Family wishes Pt to be made DNR/DNI.  This was discussed with Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) 340**] and appropriate order written.  
+
+Addendum: Pt's SBP dropped to 50's.  Dobutamine and Levo increased and Epi given IVP.  Pts family came back to bedside and asked that pressors be stopped.  Dr. [**Last Name (STitle) 6401**] at bedside to discuss and pressors were withdrawn gradually. Pt given MS for resp distress.  Family at bedside until Pt's vital signs ceased. Pt pronounced at 16:32. 
+",,

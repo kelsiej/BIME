@@ -1,0 +1,1136 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8586,15169,,,3299-02-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3299-2-3**]       Discharge Date:  [**3299-2-11**]
+
+Date of Birth:   [**3262-3-19**]       Sex:  F
+
+Service:  CARDIAC INTENSIVE CARE UNIT
+
+CHIEF COMPLAINT:  Chest pain and shortness of breath.
+
+HISTORY OF PRESENT ILLNESS:  This is an unfortunate
+36-year-old, gravida 2, para 2, [**Location 5881**] speaking female
+with a past medical history of sinus venosus ASD, anomalous
+pulmonary return and Eisenmenger's physiology, which was
+diagnosed in [**3296**]-2002, on home oxygen, who presented with
+chest pain and shortness of breath on [**2-3**].
+
+The patient was initially admitted to a medical floor with
+oxygen saturations of 88% on 100% nonrebreather.  At the time
+of presentation, review of systems was positive for dyspnea
+on exertion, shortness of breath, pleuritic chest pain,
+chronic fevers, however, no syncope or palpitations.  The
+patient of note, may have had mechanical difficulty with her
+home oxygen equipment.
+
+During the initial work-up, a CT angiogram was positive for
+progression of her known pulmonary embolus despite a
+therapeutic INR.  She was started on Lovenox on the medical
+floor.  She was peristently hypoxemic with obvious increased
+work of breathing.  The decision was made to see if pulmonary
+vasodilators would improve her condition and hemodynamic
+assessment was planned in the cardiac catheterization
+laboratory.
+
+The patient was brought to the Catheterization Lab on
+[**2-6**] for a right heart catheterization. She was noted
+initially to become nearly unresponsive on transfer to the scale
+for weighing, but spontaneously resolved.  During the
+catheterization, her right atrial pressures were noted to be
+elevated, right ventricle systolic pressure of 100, pulmonary
+arterial pressure of 100-110, mean pulmonary artery pressure in
+the 70s.  She had a systemic pAO2 of 25, with a +/- response to a
+nitric-oxide trial.  Saturations remained in the 40s to 50s
+despite intervention and there profound right to left shunting
+continued.
+
+Due to her severe systemic hypoxemia, obvious cardiogenic shock
+and worsening hemodynamics, she was transferred to the Cardiac
+Intensive Care Unit where she continued to do rather poorly.  She
+was responding to voice but was unable to speak in full
+sentences.  Her arterial saturations remained in the 40% range.
+Her blood gas returned with a pH of 7.17, CO2 of 41, and a pAO2
+of 26.
+
+She did receive some bicarb at that time in an attempt to correct
+her acidosis.  CPAP was also initiated to try to increase her
+oxygen saturations, and she was also started on Dopamine for
+pressor support in an effort to reduce right to left shunt.
+
+She survived throughout the night and was followed by the CCU
+Team d[**MD Number 1142**] the rest of her admission.
+
+PAST MEDICAL HISTORY:  1.  Eisenmenger's diagnosed in [**3297**].
+2.  ASD (sinus venosum).  3.  Home oxygen dependent.  4.
+Chronic pulmonary embolus secondary to extreme pulmonary
+hypertension.
+
+MEDICATIONS:  Oxygen, Coumadin 2 mg q.d.
+
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+
+SOCIAL HISTORY:  She is a single, [**Location 5881**] speaking
+woman, who came here about 1�� years ago.  She is an illegal
+alien.  She has two children, boy and an 11-year-old
+daughter, who live with her father and step-mother in [**Country 11942**].
+
+FAMILY HISTORY:  Question of ASD in father/son.  Primary care
+physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) **], [**Company **].
+
+PHYSICAL EXAMINATION:  Vital signs:  Temperature 97��, blood
+pressure 95/52, heart rate 100-130, respirations 30, oxygen
+saturation 40-50% on 100% nonrebreather.  General:  Lethargic
+and cachectic woman.  HEENT:  JVP at 9-10 cm.  Pupils equal,
+round and reactive to light and accommodation.  Oropharynx
+dry.  Pulmonary:  Clear to auscultation anteriorly.  No
+wheezes rubs, or rhonchi.  Cardiovascular:  Hyperdynamic.
+Right ventricular heave.  No murmurs, rubs, or gallops.  PMI
+5-10 cm.  Abdomen:  Normoactive bowel sounds.  Soft,
+nontender, nondistended.  No hepatosplenomegaly.
+Extremities:  No clubbing, cyanosis, or edema.  Neurological:
+Intact.
+
+LABORATORY DATA:  WBC 10.7, hematocrit 50.9 down from 63 on
+admission, platelet count 173; INR 1.8; bicarb 18, sodium
+135, potassium 4.1, BUN 10, creatinine 0.6, glucose 87; ALT
+12, AST 15, alkaline phosphatase 57, total bilirubin 1;
+urinalysis with 26 WBCs, no RBCs; CK of 120, troponin less
+than 0.3; HCG quantitative less than 5;
+
+CTA showed increased thickness in extent of mural thrombus
+and a markedly dilated proximal pulmonary artery with some
+irregularity in the mural thrombus at the bifurcation of the
+right pulmonary artery, new small right pleural effusion,
+stable, a morphos calcification of the dome of the liver, no
+renal stones or abnormal pathology.
+
+Electrocardiogram showed normal sinus rhythm at 92, right
+ventricular hypertrophy with repolarization, abnormal V1-V5,
+right axis deviation.
+
+HOSPITAL COURSE:  This is a 36-year-old female with
+Eisenmenger's physiology, chronic pulmonary emboli and chest
+pain.  The patient with inarguably significant disease now,
+who is status post catheterization confirming anatomy and
+increased right-sided pressure.  She became clinically much
+worse than on admission with depressed oxygen saturations on
+100% nonrebreather, with increased symptoms, increased
+lethargy, and dismal ABG.
+
+She had partial response to nitric oxide, and Catheterization
+Lab suggested possible response to other vasodilators.  She
+was therefore started on Flolan 0.5 ng/kg/min the night of
+admission as salvage therapy and was slowly titrated up daily to
+3 ng/kg/min.
+
+Supportive measures were also begun including Dopamine drip,
+which over the next several days was slowly titrated down to
+off, a Heparin drip for her PEs, CPAP/oxygen support, packed
+red blood cells to increase to oxygen delivery, and Levaquin
+was continued for a urinary tract infection.
+
+She was determined to be CPR not indicated secondary to the
+irreversibility of her cardiopulmonary anatomy.
+
+She was followed closely by the Pulmonary Hypertension
+Service (Dr. [**Last Name (STitle) **]), Pharmacy department, the Ethics Service,
+Case Management, and further congenital heart disease input via
+telephone was obtained from [**Hospital3 1802**].
+
+Her right pleural effusion was monitored closely via exam and
+repeat chest x-ray; however, she was always considered too
+high risk for diagnostic or therapeutic tap.
+
+Her many social issues were addressed during her stay in the
+CCU.  Family members were found and contacted.  Her cousin,
+[**First Name4 (NamePattern1) 11943**] [**Last Name (NamePattern1) 11944**], was deeply involved.  [**Location 11945**] Embassy
+and community in [**Location (un) 210**] were also involved in helping with
+translation and providing support for the patient.  An
+attempt was made to have her daughter and stepmother, who do
+not have visas to visit from [**Country 3702**].  The American
+Consulate in [**Country 3702**] was consulted who did decline the
+request.  This was then pursued by contacting the U.S.
+Embassy.
+
+Discussions of how the patient would afford the Flolan and
+have the Flolan administered while she was at home was
+initiated during this stay.  She was also determined not to
+be eligible for a heart/lung transplant secondary to her
+illegal immigrant status in the United States.
+
+She remained somewhat stable, although critically ill for
+several days.  Her oxygen saturations remained in the 40-50s,
+and it was unclear as to whether the Flolan was providing any
+clear benefit at this time.
+
+By [**2-9**], her creatinine had begun to increase.  Renal was
+consulted and attributed her acute renal failure to
+hypotension, as well as recent administration of intravenous
+contrast.  Intravenous fluids were limited in order to try to
+prevent fluid overload.  A renal ultrasound revealed
+hyperechoic kidneys but no overt obstructions.
+
+Her liver function tests, as well as her amylase and lipase
+were noted as well to increase, likely consistent with a
+shocked pancreas/liver.  A right upper quadrant ultrasound
+revealed an enlarged liver with prominent hepatic but patent
+veins.
+
+On the morning of [**2-11**] after morning rounds, we were
+called in by the nurse who noted that she had become
+unresponsive while she was being turned.  This came on
+abruptly.  The patient was noted to be apneic with
+[**Last Name (un) **]-[**Doctor Last Name **] breathing.  Eyes were deviated to the right
+initially and then moved to midline.  The pupils were
+unresponsive to light.  She became bradycardiac.  She was
+given Morphine for comfort, and slowly her heart rate and
+respiration rate decreased.  She expired around 10 a.m.
+
+The likely cause of death clinically seemed to be either
+pulmonary embolus or a cerebrovascular accident.  Her family
+members were contacted.  Her family in [**Country 3702**] did give
+permission for an autopsy, and the death certificate was
+filled out.
+
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number 1867**]
+
+Dictated By:[**Last Name (NamePattern1) 11946**]
+MEDQUIST36
+
+D:  [**3299-4-6**]  17:19
+T:  [**3299-4-6**]  19:00
+JOB#:  [**Job Number 11947**]
+
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: WED [**3299-4-8**] 9:16 AM
+(End of Report)
+
+
+",,
+8586,15169,,,3299-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-3**] 2:51 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9235**]
+     Reason: r/o pneumo
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old woman with hypoxia, SOB
+     REASON FOR THIS EXAMINATION:
+      r/o pneumo
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Hypoxia and shortness of breath in patient with known Eisenmenger's
+     syndrome.
+     
+     COMPARISON: [**3297-12-17**].
+     
+     FINDINGS: The cardiac silhouette is enlarged. The bilateral central pulmonary
+     arteries are markedly dilated centrally with peripheral pruning. This
+     appearance is unchanged and consistent with longstanding pulmonary
+     hypertension. The lungs are otherwise clear with no pleural effusions and no
+     pneumothorax.
+     
+     IMPRESSION: Stable appearance of enlarged heart and markedly enlarged central
+     pulmonary arteries consistent with known diagnosis of Eisenmenger's syndrome.
+     There is no evidence of heart failure or pneumonia.
+
+",,
+8586,15169,,,3299-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-3**] 3:14 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 9236**]
+     CT PELVIS W&W/O C ; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o PE, r/o renal colic
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old woman with h/o PEs, Eisenmengers syndrome, with severe right flank
+      pain
+     REASON FOR THIS EXAMINATION:
+      r/o PE
+      r/o renal colic
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Severe right flank pain and chest pain in patient with
+     history of pulmonary emboli and history of Eisenmenger's syndrome.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lung apices to the
+     pubic symphysis.  Precontrast images were obtained from the lung bases to the
+     pubic symphysis.  Subsequently, 100 cc of Optiray contrast was injected
+     intravenously and a CTA was performed of the lungs.  Delayed images were then
+     obtained of the abdomen and pelvis.  No oral contrast was used.
+     
+     Comparison is made to the prior pulmonary CTA of [**3297-12-19**].
+     
+     CT CHEST WITH IV CONTRAST (PULMONARY CTA):  The heart is enlarged and
+     unchanged.  The pericardium and aorta are unremarkable.  The central pulmonary
+     arteries are again noted to be markedly dilated with diffuse mural thrombus
+     and calcifications.  The filling defects representing thrombus have increased
+     in size and thickness since the prior study, predominantly in the interlobar
+     segments and segments posterior and lateral in the lower lobes.  The filling
+     defects are predominantly eccentric and mural which is more suggestive of a
+     chronic increase in the thrombotic process as opposed to a recent acute
+     pulmonary embolus, though the latter cannot be definitively excluded.
+     Associated with the increased wall thrombus is narrowing of the associated
+     pulmonary arterial lumen.  Stable atelectasis versus scarring is noted at the
+     lung bases and left apex.  No focal consolidations or findings to suggest
+     focal infarction of the pulmonary parenchyma are seen.  There is a new small
+     right pleural effusion.  A tiny nodule at the right lung base is again seen
+     and unchanged.  Multiplanar reformations confirm the above findings.
+     
+     CT ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  An amorphous calcification
+     at the liver dome is again seen and unchanged when compared to prior studies.
+     The liver is otherwise normal.  The gallbladder, spleen, adrenal glands,
+     kidneys, and ureters are normal.  Specifically, no renal stones,
+     hydronephrosis, or hydroureter are seen.  The pancreas and visualized loops of
+     small and large bowel are unremarkable.  There is no free fluid, free air, or
+     lymphadenopathy.
+     
+     CT PELVIS WITHOUT AND WITH INTRAVENOUS CONTRAST:  The distal ureters and
+     urinary bladder are normal with no renal stones.  The uterus and adnexa are
+                                                                 (Over)
+
+     DATE: [**3299-2-3**] 3:14 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 9236**]
+     CT PELVIS W&W/O C ; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o PE, r/o renal colic
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     unremarkable.  There is a small amount of free pelvic peritoneal fluid.  There
+     is no lymphadenopathy.
+     
+     No suspicious lytic or sclerotic osseous lesions are present.
+     
+     IMPRESSION:
+     1.  Interval increase in thickness and extent of mural thrombus in markedly
+     dilated proximal pulmonary arteries, with some irregularity in the mural
+     thrombus at the bifurcation of the right pulmonary artery.  The abnormality
+     appears eccentric and mural which suggests that this may be progression of
+     chronic disease, however an acute pulmonary embolism cannot be definitively
+     excluded. The heart is stablely enlarged and the pulmonary arteries also are
+     stable in their caliber which is consistent with diagnosis of Eisenmenger's
+     disease.
+     2.  New small right pleural effusion.
+     3.  Stable amorphous calcification in the dome of the liver.
+     4.  No evidence of renal stones or other acute pathological process in the
+     abdomen or pelvis.
+     
+     
+
+",,
+8586,15169,,,3299-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-3**] 3:14 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 9236**]
+     CT PELVIS W&W/O C ; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o PE, r/o renal colic
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old woman with h/o PEs, Eisenmengers syndrome, with severe right flank
+      pain
+     REASON FOR THIS EXAMINATION:
+      r/o PE
+      r/o renal colic
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Severe right flank pain and chest pain in patient with
+     history of pulmonary emboli and history of Eisenmenger's syndrome.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lung apices to the
+     pubic symphysis.  Precontrast images were obtained from the lung bases to the
+     pubic symphysis.  Subsequently, 100 cc of Optiray contrast was injected
+     intravenously and a CTA was performed of the lungs.  Delayed images were then
+     obtained of the abdomen and pelvis.  No oral contrast was used.
+     
+     Comparison is made to the prior pulmonary CTA of [**3297-12-19**].
+     
+     CT CHEST WITH IV CONTRAST (PULMONARY CTA):  The heart is enlarged and
+     unchanged.  The pericardium and aorta are unremarkable.  The central pulmonary
+     arteries are again noted to be markedly dilated with diffuse mural thrombus
+     and calcifications.  The filling defects representing thrombus have increased
+     in size and thickness since the prior study, predominantly in the interlobar
+     segments and segments posterior and lateral in the lower lobes.  The filling
+     defects are predominantly eccentric and mural which is more suggestive of a
+     chronic increase in the thrombotic process as opposed to a recent acute
+     pulmonary embolus, though the latter cannot be definitively excluded.
+     Associated with the increased wall thrombus is narrowing of the associated
+     pulmonary arterial lumen.  Stable atelectasis versus scarring is noted at the
+     lung bases and left apex.  No focal consolidations or findings to suggest
+     focal infarction of the pulmonary parenchyma are seen.  There is a new small
+     right pleural effusion.  A tiny nodule at the right lung base is again seen
+     and unchanged.  Multiplanar reformations confirm the above findings.
+     
+     CT ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  An amorphous calcification
+     at the liver dome is again seen and unchanged when compared to prior studies.
+     The liver is otherwise normal.  The gallbladder, spleen, adrenal glands,
+     kidneys, and ureters are normal.  Specifically, no renal stones,
+     hydronephrosis, or hydroureter are seen.  The pancreas and visualized loops of
+     small and large bowel are unremarkable.  There is no free fluid, free air, or
+     lymphadenopathy.
+     
+     CT PELVIS WITHOUT AND WITH INTRAVENOUS CONTRAST:  The distal ureters and
+     urinary bladder are normal with no renal stones.  The uterus and adnexa are
+                                                                 (Over)
+
+     DATE: [**3299-2-3**] 3:14 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 9236**]
+     CT PELVIS W&W/O C ; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o PE, r/o renal colic
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     unremarkable.  There is a small amount of free pelvic peritoneal fluid.  There
+     is no lymphadenopathy.
+     
+     No suspicious lytic or sclerotic osseous lesions are present.
+     
+     IMPRESSION:
+     1.  Interval increase in thickness and extent of mural thrombus in markedly
+     dilated proximal pulmonary arteries, with some irregularity in the mural
+     thrombus at the bifurcation of the right pulmonary artery.  The abnormality
+     appears eccentric and mural which suggests that this may be progression of
+     chronic disease, however an acute pulmonary embolism cannot be definitively
+     excluded. The heart is stablely enlarged and the pulmonary arteries also are
+     stable in their caliber which is consistent with diagnosis of Eisenmenger's
+     disease.
+     2.  New small right pleural effusion.
+     3.  Stable amorphous calcification in the dome of the liver.
+     4.  No evidence of renal stones or other acute pathological process in the
+     abdomen or pelvis.
+     
+     
+
+",,
+8586,15169,,,3299-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-3**] 3:14 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 9236**]
+     CT PELVIS W&W/O C ; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o PE, r/o renal colic
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old woman with h/o PEs, Eisenmengers syndrome, with severe right flank
+      pain
+     REASON FOR THIS EXAMINATION:
+      r/o PE
+      r/o renal colic
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Severe right flank pain and chest pain in patient with
+     history of pulmonary emboli and history of Eisenmenger's syndrome.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lung apices to the
+     pubic symphysis.  Precontrast images were obtained from the lung bases to the
+     pubic symphysis.  Subsequently, 100 cc of Optiray contrast was injected
+     intravenously and a CTA was performed of the lungs.  Delayed images were then
+     obtained of the abdomen and pelvis.  No oral contrast was used.
+     
+     Comparison is made to the prior pulmonary CTA of [**3297-12-19**].
+     
+     CT CHEST WITH IV CONTRAST (PULMONARY CTA):  The heart is enlarged and
+     unchanged.  The pericardium and aorta are unremarkable.  The central pulmonary
+     arteries are again noted to be markedly dilated with diffuse mural thrombus
+     and calcifications.  The filling defects representing thrombus have increased
+     in size and thickness since the prior study, predominantly in the interlobar
+     segments and segments posterior and lateral in the lower lobes.  The filling
+     defects are predominantly eccentric and mural which is more suggestive of a
+     chronic increase in the thrombotic process as opposed to a recent acute
+     pulmonary embolus, though the latter cannot be definitively excluded.
+     Associated with the increased wall thrombus is narrowing of the associated
+     pulmonary arterial lumen.  Stable atelectasis versus scarring is noted at the
+     lung bases and left apex.  No focal consolidations or findings to suggest
+     focal infarction of the pulmonary parenchyma are seen.  There is a new small
+     right pleural effusion.  A tiny nodule at the right lung base is again seen
+     and unchanged.  Multiplanar reformations confirm the above findings.
+     
+     CT ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  An amorphous calcification
+     at the liver dome is again seen and unchanged when compared to prior studies.
+     The liver is otherwise normal.  The gallbladder, spleen, adrenal glands,
+     kidneys, and ureters are normal.  Specifically, no renal stones,
+     hydronephrosis, or hydroureter are seen.  The pancreas and visualized loops of
+     small and large bowel are unremarkable.  There is no free fluid, free air, or
+     lymphadenopathy.
+     
+     CT PELVIS WITHOUT AND WITH INTRAVENOUS CONTRAST:  The distal ureters and
+     urinary bladder are normal with no renal stones.  The uterus and adnexa are
+                                                                 (Over)
+
+     DATE: [**3299-2-3**] 3:14 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 9236**]
+     CT PELVIS W&W/O C ; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o PE, r/o renal colic
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     unremarkable.  There is a small amount of free pelvic peritoneal fluid.  There
+     is no lymphadenopathy.
+     
+     No suspicious lytic or sclerotic osseous lesions are present.
+     
+     IMPRESSION:
+     1.  Interval increase in thickness and extent of mural thrombus in markedly
+     dilated proximal pulmonary arteries, with some irregularity in the mural
+     thrombus at the bifurcation of the right pulmonary artery.  The abnormality
+     appears eccentric and mural which suggests that this may be progression of
+     chronic disease, however an acute pulmonary embolism cannot be definitively
+     excluded. The heart is stablely enlarged and the pulmonary arteries also are
+     stable in their caliber which is consistent with diagnosis of Eisenmenger's
+     disease.
+     2.  New small right pleural effusion.
+     3.  Stable amorphous calcification in the dome of the liver.
+     4.  No evidence of renal stones or other acute pathological process in the
+     abdomen or pelvis.
+     
+     
+
+",,
+8586,15169,,,3299-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-3**] 3:14 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 9236**]
+     CT PELVIS W&W/O C ; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o PE, r/o renal colic
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old woman with h/o PEs, Eisenmengers syndrome, with severe right flank
+      pain
+     REASON FOR THIS EXAMINATION:
+      r/o PE
+      r/o renal colic
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Severe right flank pain and chest pain in patient with
+     history of pulmonary emboli and history of Eisenmenger's syndrome.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lung apices to the
+     pubic symphysis.  Precontrast images were obtained from the lung bases to the
+     pubic symphysis.  Subsequently, 100 cc of Optiray contrast was injected
+     intravenously and a CTA was performed of the lungs.  Delayed images were then
+     obtained of the abdomen and pelvis.  No oral contrast was used.
+     
+     Comparison is made to the prior pulmonary CTA of [**3297-12-19**].
+     
+     CT CHEST WITH IV CONTRAST (PULMONARY CTA):  The heart is enlarged and
+     unchanged.  The pericardium and aorta are unremarkable.  The central pulmonary
+     arteries are again noted to be markedly dilated with diffuse mural thrombus
+     and calcifications.  The filling defects representing thrombus have increased
+     in size and thickness since the prior study, predominantly in the interlobar
+     segments and segments posterior and lateral in the lower lobes.  The filling
+     defects are predominantly eccentric and mural which is more suggestive of a
+     chronic increase in the thrombotic process as opposed to a recent acute
+     pulmonary embolus, though the latter cannot be definitively excluded.
+     Associated with the increased wall thrombus is narrowing of the associated
+     pulmonary arterial lumen.  Stable atelectasis versus scarring is noted at the
+     lung bases and left apex.  No focal consolidations or findings to suggest
+     focal infarction of the pulmonary parenchyma are seen.  There is a new small
+     right pleural effusion.  A tiny nodule at the right lung base is again seen
+     and unchanged.  Multiplanar reformations confirm the above findings.
+     
+     CT ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  An amorphous calcification
+     at the liver dome is again seen and unchanged when compared to prior studies.
+     The liver is otherwise normal.  The gallbladder, spleen, adrenal glands,
+     kidneys, and ureters are normal.  Specifically, no renal stones,
+     hydronephrosis, or hydroureter are seen.  The pancreas and visualized loops of
+     small and large bowel are unremarkable.  There is no free fluid, free air, or
+     lymphadenopathy.
+     
+     CT PELVIS WITHOUT AND WITH INTRAVENOUS CONTRAST:  The distal ureters and
+     urinary bladder are normal with no renal stones.  The uterus and adnexa are
+                                                                 (Over)
+
+     DATE: [**3299-2-3**] 3:14 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 9236**]
+     CT PELVIS W&W/O C ; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o PE, r/o renal colic
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     unremarkable.  There is a small amount of free pelvic peritoneal fluid.  There
+     is no lymphadenopathy.
+     
+     No suspicious lytic or sclerotic osseous lesions are present.
+     
+     IMPRESSION:
+     1.  Interval increase in thickness and extent of mural thrombus in markedly
+     dilated proximal pulmonary arteries, with some irregularity in the mural
+     thrombus at the bifurcation of the right pulmonary artery.  The abnormality
+     appears eccentric and mural which suggests that this may be progression of
+     chronic disease, however an acute pulmonary embolism cannot be definitively
+     excluded. The heart is stablely enlarged and the pulmonary arteries also are
+     stable in their caliber which is consistent with diagnosis of Eisenmenger's
+     disease.
+     2.  New small right pleural effusion.
+     3.  Stable amorphous calcification in the dome of the liver.
+     4.  No evidence of renal stones or other acute pathological process in the
+     abdomen or pelvis.
+     
+     
+
+",,
+8586,15169,,,3299-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-3**] 3:14 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 9236**]
+     CT PELVIS W&W/O C ; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o PE, r/o renal colic
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old woman with h/o PEs, Eisenmengers syndrome, with severe right flank
+      pain
+     REASON FOR THIS EXAMINATION:
+      r/o PE
+      r/o renal colic
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Severe right flank pain and chest pain in patient with
+     history of pulmonary emboli and history of Eisenmenger's syndrome.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lung apices to the
+     pubic symphysis.  Precontrast images were obtained from the lung bases to the
+     pubic symphysis.  Subsequently, 100 cc of Optiray contrast was injected
+     intravenously and a CTA was performed of the lungs.  Delayed images were then
+     obtained of the abdomen and pelvis.  No oral contrast was used.
+     
+     Comparison is made to the prior pulmonary CTA of [**3297-12-19**].
+     
+     CT CHEST WITH IV CONTRAST (PULMONARY CTA):  The heart is enlarged and
+     unchanged.  The pericardium and aorta are unremarkable.  The central pulmonary
+     arteries are again noted to be markedly dilated with diffuse mural thrombus
+     and calcifications.  The filling defects representing thrombus have increased
+     in size and thickness since the prior study, predominantly in the interlobar
+     segments and segments posterior and lateral in the lower lobes.  The filling
+     defects are predominantly eccentric and mural which is more suggestive of a
+     chronic increase in the thrombotic process as opposed to a recent acute
+     pulmonary embolus, though the latter cannot be definitively excluded.
+     Associated with the increased wall thrombus is narrowing of the associated
+     pulmonary arterial lumen.  Stable atelectasis versus scarring is noted at the
+     lung bases and left apex.  No focal consolidations or findings to suggest
+     focal infarction of the pulmonary parenchyma are seen.  There is a new small
+     right pleural effusion.  A tiny nodule at the right lung base is again seen
+     and unchanged.  Multiplanar reformations confirm the above findings.
+     
+     CT ABDOMEN WITHOUT AND WITH INTRAVENOUS CONTRAST:  An amorphous calcification
+     at the liver dome is again seen and unchanged when compared to prior studies.
+     The liver is otherwise normal.  The gallbladder, spleen, adrenal glands,
+     kidneys, and ureters are normal.  Specifically, no renal stones,
+     hydronephrosis, or hydroureter are seen.  The pancreas and visualized loops of
+     small and large bowel are unremarkable.  There is no free fluid, free air, or
+     lymphadenopathy.
+     
+     CT PELVIS WITHOUT AND WITH INTRAVENOUS CONTRAST:  The distal ureters and
+     urinary bladder are normal with no renal stones.  The uterus and adnexa are
+                                                                 (Over)
+
+     DATE: [**3299-2-3**] 3:14 PM
+     CTA CHEST W&W/O C &RECONS; CT ABD W&W/O C                       Clip # [**Clip Number (Radiology) 9236**]
+     CT PELVIS W&W/O C ; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: r/o PE, r/o renal colic
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     unremarkable.  There is a small amount of free pelvic peritoneal fluid.  There
+     is no lymphadenopathy.
+     
+     No suspicious lytic or sclerotic osseous lesions are present.
+     
+     IMPRESSION:
+     1.  Interval increase in thickness and extent of mural thrombus in markedly
+     dilated proximal pulmonary arteries, with some irregularity in the mural
+     thrombus at the bifurcation of the right pulmonary artery.  The abnormality
+     appears eccentric and mural which suggests that this may be progression of
+     chronic disease, however an acute pulmonary embolism cannot be definitively
+     excluded. The heart is stablely enlarged and the pulmonary arteries also are
+     stable in their caliber which is consistent with diagnosis of Eisenmenger's
+     disease.
+     2.  New small right pleural effusion.
+     3.  Stable amorphous calcification in the dome of the liver.
+     4.  No evidence of renal stones or other acute pathological process in the
+     abdomen or pelvis.
+     
+     
+
+",,
+8586,15169,,,3299-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-5**] 9:49 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9237**]
+     Reason: please eval for infiltrate                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       36 year old woman with hypoxia, SOB                                            
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrate                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:   Hypoxia and SOB. 
+     
+     PORTABLE AP CHEST: Comparison is made to previous films from  two days
+     earlier.
+     
+     The heart is enlarged. There is massive enlargement of the central pulmonary
+     arteries.  New in the interval since the prior radiograph is the presence of a
+     moderate sized right pleural effusion. The left lung remains clear.
+     
+     IMPRESSION:
+     
+     1.  Massive enlargement of the central pulmonary arteries, consistent with
+     pulmonary artery hypertension.  This is in keeping with Eisenmenger's Syndrome
+     due to known septal defect.
+     
+     2. New moderate sized right pleural effusion. It is difficult to exclude
+     underlying infection in the right lower lobe.
+
+",,
+8586,15169,10694,0,3299-02-06 18:28:00 EST,3299-02-06 18:41:00 EST,187,"N",1,"Nursing/Other",,"
+
+36 YR OLD C SINUS VENOUS ASD EISENMENER SYNDROME ,PULMONARY HYPERTENSION AND PS THROMBUS SP NEAR HYPOXIC ARREST DURING CATH IN CCU FOR FLOLAN.
+
+ST NO ECTOPY.BP 88/104 SYS . STARTED ON HEPARIN 400U . ART/[**Last Name (un) **] SHEATH IN R FEMORAL.NO BLEEDING ,PALP DISTAL PULSES. CO R SIDED PLEURITIC PAIN .RX C MSO4 . 
+
+SAT READING 45,100% NON REBREATHER . BS CL /DIMINISHED IN BASES .
+
+MAY HAVE CL LIQS BUT REFUSES FOR NOW 
+
+FOLEY MIN AMBER URINE .
+
+PT TEARFUL ,CONVERSING C INTERPRETER . DISCUSSED C DR [**Last Name (STitle) **] FOR FLOLAN RX, POOR PROGNOSIS WITHOUT THERAPY .AT PRESENT NO NAME OR NUMBER OF NEXT OF [**Doctor First Name **] OR FRIEND KNOWN TO CQALL,PT REFUSED TO GIVE NUMBER TO INTERPRETER AS HSE FELT TOO ILL .DOES NOT WANT PRIEST NOW .INTERPRETER WILL RETURN TO TRY TO GET COMMUNITY RESOURCES TO HELP
+
+MEDICATE FOR PAIN
+RO PREGNANCY 
+NEEDS BLOOD TRANSFUSION
+PTT IN 6 HRS 
+
+",,
+8586,15169,10694,,3299-02-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-7**] 8:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9238**]
+     Reason: assess progression of r pleural effusion and infiltrate- new
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        36 year old woman with hypoxia, SOB   Eisenmenger's syndrome                  
+                             
+     REASON FOR THIS EXAMINATION:
+      assess progression of r pleural effusion and infiltrate- new temp spike and 
+      incr. WBC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Eisenmenger's syndrome. Hypoxia. New fever spike and increasing white
+     count.
+     
+     PORTABLE AP CHEST, ONE VIEW: Comparison [**3299-2-5**]. The heart is markedly
+     enlarged. There are large nodular densities in the region of the hila, which
+     from prior CT scan were shown to represent pulmonary arteries, unchanged.
+     There is opacification of the left lower hemithorax with obscuration of the
+     diaphragm. This is consistent with a moderate sized right pleural effusion.
+     Underlying infection in the right lower lobe cannot be excluded. The right
+     upper lung and left lung are grossly clear and there is no left effusion.
+     
+     IMPRESSION: No significant change from [**3299-2-5**]. Moderate right effusion.
+     Cannot exclude underlying right lower lobe pneumonia. Cardiomegaly with
+     markedly enlarged central pulmonary arteries, consistent with history of
+     Eisenmenger's syndrome.
+     
+     dtf
+
+",,
+8586,15169,10694,0,3299-02-07 05:25:00 EST,3299-02-07 06:17:00 EST,526,"N",1,"Nursing/Other","ccu npn 7p-7a","
+ccu npn 7p-7a
+S: ""Aqua""
+
+O:Please see carevue for VS and objective data.
+
+CVS: HR 108-130'S NST, rare vea noted. K+4.8. BP ranges 80-110/40-60 with MAPs 58-80. Tolerated the start of IV Flolan at 2000 at  0.5ng/kg/min=2.4CC/hour with current concentration. IV Dopamine started at 5mcg/kg/min. IV Heparin at 900u/hour with 0000 PTT 77.2, PT 20.7 with INR 2.8. AM coags pnd. Right groin with arterial aline and venous sheath D/I with transparent dressing without palp. hematoma. Distal pulses palp. HCT 50-48, given one unit PRBCs to aid in oxygenation, tolerated well. Given 1mg Mso4 x 2 (one for anxiety with mask ventilation and once for c/o of mild right sided chest pain, with good effect both times.) 
+
+Resp: Initially on 100% NRB and 5L N/C, with sats 40's. abg 26/41/7.16/15/-5 sat 26%, treated with 2amps sodium bicarb IVP at 2130 and started on mask ventilation 100%, 5PS and 3 peep. improved acidosis with serial abgs as per flow. Last abg 27/42/7.39/26/-1. Tachypneic with  RR 26-30'S, TV 500-700's with one brief drop in TV<200 after washing, turning and changing sheets. Improved over 15min. of rest. Sats remain 40's-70%,  rarely shot up to 88 not lasting long enough to draw abg. 
+Lungs clear, diminished bases dependently. Fingers clubbing with cyanosis, occ. cyanotic at lips. One episode of small amount of  hemoptysis after strong cough. 
+
+GI:GU: Taking po's, requesting water and gingerale. No N/V. Abdomen soft with +BS, no stool. Foley to drainage with clear, amber urine. U/O 3-35cc/hour. I/O remains +. 
+
+ID: Initially afebrile and tolerated transfusion. Temp spike at 0430 to 101.2 po, BCX2 and urine sent, no sputum at that time. Treated with po tylenol 650mg x1, conts on po Levofloxacin qd, given at 2000. 
+
+Neuro: Pt. initially lethargic but arousable. Pt. A/A/OX3 via interpreter. Unable to speak in full sentences with labored breathing noted. Communicating with RN with few english words as above. Nods appropriately to simple questions. Able to communicate pain with 1-2 words and hand gestures, using nursing call light appropriately. Following simple commands and cooperative with care. MAE. Smiled a couple of times. Slept at intervals. 
+
+ACCESS: At present, 2 peripheral IVs, venous sheath and arterial aline via right femoral groin. 
+
+A: severe pulmonary HTN, hypoxia with R to L Shunt, treated with Flolan/Dopamine. 
+
+P: Cont to monitor hemodynamics, maintain Dopamine, Flolan and Heparin at present. Monitor resp. status closely, abgs as indicated. Mask ventilation at present. Follow up with am labs. Monitor temp, follow up with cultures sent, cont. Levofloxacin. Comfort and emotional support to Pt. PT. has been made DNR/DNI as CPR and intubation are not indicated as per Dr. [**First Name4 (NamePattern1) 5984**] [**Last Name (NamePattern1) **]
+",,
+8586,15169,10694,0,3299-02-07 06:53:00 EST,3299-02-07 06:55:00 EST,526,"N",1,"Nursing/Other","addenduem","
+addenduem
+when changing pt's bed linen this am noted, blood drainage from vaginal area, pt is currently menstrating. Pad placed. CCU team notified while Pt. is on IV Heparin. 
+",,
+8586,15169,10694,0,3299-02-07 17:53:00 EST,3299-02-07 18:48:00 EST,492,"N",1,"Nursing/Other","CCU NURSING PROGRESS 7A-7P PPH/EISENMENGER SYNDROME","
+CCU NURSING PROGRESS 7A-7P PPH/EISENMENGER SYNDROME
+S.  SPEAKS PORTUGUESE CREOLE
+
+O.  SEE CAREVUE FLOWSHEET FOR COMPLETE VS, OBJECTIVE DATA
+
+CV:  BP 103-123/60-70 ON DOPAMINE AT 5MCGS/KG; FLOLAN INCREASED TO 
+1 NG/KG OR 4.8ML/HR; HEPARIN DECREASED TO 750U/HR AT 1530 SEC TO COFFEE GROUND EMESIS; HR 110-117 ST NO VEA; R FEMORAL ART SHEATH D/C'D SITE LOOKS C+D, + PULSES, TRANSPARENT DSG IN PLACE; L RADIAL A-LINE PLACED, HAS PIV'S X2, TLC PLACED THROUGH R VENOUS SHEATH; NO C/O PAIN THIS SHIFT
+
+ID: TEMP 99-99.7 PO - WBC 15 THIS AM, REPEAT PND; TYLENOL 650 PO X2
+
+RESP:  SATS RANGING 37-90%, W/O SIGNIFICANT CHANGE IN PO2'S - LAST ABG
+7.39/45/25/28/0; PT CONTINUES TO HAVE FREQUENT HEMOPTYSIS, LUNGS DIMINSHED BUT CLEAR TO FEW BASILAR CRACKLES 
+
+HEME:  HCT 49 - GOAL 50'S-60, 1 UNIT PRBC'S GIVEN OVER 4 HOURS, REPEAT HCT PENDING; VOMITTED X 1 < 100CC COFFEE GROUNDS W/FEW BLOODY CLOTS
+PROTONIX IV 80MG X1 - TO START 40MG IV BID IN AM, PT IS MENSTRATING MOD-HEAVY W/CLOTS X1
+
+GI:  TAKING SMALL SIPS W/MEDS ONLY, VOMITTED AS ABOVE, NO STOOL
+
+GU:  FOLEY IN PLACE, 20-40CC/HR AMBER TO YELLOW URINE; 2 LITERS POSITIVE TODAY
+
+NEURO:  AWAKE, ALERT, AND ORIENTED, CONVERSING IN SHORT W/FAMILY MEMBERS IN NATIVE LANGUAGE
+
+SOCIAL:  AS OF THIS AM, NO CONTACT W/ FAMILY MEMBERS KNOWN, SEVERAL CONTACT MEMBERS/FREINDS HAVE NOW BEEN CONTACTED; PT HAS HAD VISITS BY ""COUSINS"", PASTOR OF CHURCH, MANY FAMILY MEMBERS HAVE CALLED, PT HAS SPOKEN W/[**Doctor Last Name **] - A FRIEND IN [**Name2 (NI) 322**], SPOKE W/STEP-MOTHER IN [**Country **], FAMILY MEMBERS FROM [**Country **] HAVE SPOKEN W/MD'S, ENCOURAGED TO COME TO VISIT PT IN U.S.; ISSUE THAT 11 YEAR OLD CHILD DOES NOT HAVE A VISA, WORKING ON PERMISSION/WAVER, APPARENTLY PT LIVES IN APARTMENT IN [**Hospital1 322**] W/2 ROOMATES; USED TO LIVE W/COUSIN [**Name (NI) 5985**] [**Name2 (NI) **] WHO CALLED, WILL COME TO VISIT; PT HAS BEEN TOLD THROUGH FAMILY MEMBERS THAT SHE NEEDS TO BE ON AN IV MEDICINE FOR THE REST OF HER LIFE; CASE MANAGER AND SOCIAL WORKER BOTH CONTACTED TODAY
+
+A:  PULMONARY HTN/ASD/EISENMENGERS SYNDROME W/R-L SHUNT/PA THROMBUS
+
+P:  MONITOR BP/ABG'S/O2 SATS ON FLOLAN/DOPAMINE, CONTINUE TITRATE FLOLAN AS MD'S ORDER, PT AT RISK SECONDARY TO R-L SHUNT - **NEEDS CAREFUL MONITORING FOR AIR BUBBLES IN TUBING SECONDARY TO RISK FROM SHUNT**; ASSESS FOR SOB/CP; CONTINUE MAKING FAMILY CONTACTS FOR PT; PT/FAMILY EDUCATION REGARDING PT'S CONDITION, FOLLOW HCT AND TRANSFUSE AS NEEDED; CONTINUE SUPPORT PT/FAMILY.
+
+",,
+8586,15169,10694,0,3299-02-08 04:51:00 EST,3299-02-08 05:41:00 EST,526,"N",1,"Nursing/Other","ccu npn 7p7a","
+ccu npn 7p7a
+S: ""Gingerale""
+
+O: Please see carevue for VS and objective data
+
+CVS: Hemodynamically stable this shift. HR 98-113 ST, no vea noted. BP ranges 109-130/70-80 with MAPs 80-100's. IV Dopamine conts at 5mcg/kg/min. IV Flolan conts at 1ng/kg/min=4.8CC/hour. IV Heparin at 750u/hour with PTT 65.9, decreased to 650u/hour at 2330, am pnd. Right groin D/I with transparent dressing, no palp hematoma, distal pulses palp. Denies CP, SOB. 
+
+resp: Remains on 100% NRB with 5L n/c. Oximetry sats 50-70's, abgs remain with baseline P02S 27-30, last abg at 0400 27/39/7.41/26/-1 47%. Oximetry reading at that was 86. Lungs clear with right base diminished with fine rales dependently. RR 20'S. Clubbing of fingers with cyanosis. Strong productive 
+
+ID: Tmax 99.2 po, am WBC 13.9 with pnd diff. Conts on po levafloxacin. 
+
+GI:GU; Po's taken, 2 episodes of emesis after strong cough, bile with small amount of coffee grounds, quaiac +. CCU team aware. Hct stable 52.2-53.1. Foley to drainage patent and intact with clear yellow urine, U/O 15-50cc/hour. Pt. menstrating in small amounts. 
+
+Access: 2 peripheral IV's patent and intact, Left radial aline. Right groin with TLC and venous port patent and intact. 
+
+A: Hemodynamically stable on IV Flolan, Dopamine, Heparin. 
+
+P: Cont to monitor hemodynamics, plan to increase Flolan in am. Follow up with am labs, PTT pnd on Heparin. Cont to monitor hcts, GI status. Monitor temps and follow up with cultures pnd. Comfort and emotional support to Pt. 
+",,
+8586,15169,10694,0,3299-02-08 17:45:00 EST,3299-02-08 18:10:00 EST,492,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE 7A-7P","
+CCU NURSING PROGRESS NOTE 7A-7P
+S. ""AGUA""
+
+O.  SEE CAREVUE FLOWSHEET FRO COMPLETE VS, OBJECTIVE DATA
+
+CV:  REMAINS ON FLOLAN - INCREASED TO 2 NG/KG - 9.6 ML/HR; DOPAMINE WEANED FROM 5MCGS TO 2 MCGS/KG W/BP FROM 120'S TO 94-100/50-60'S
+HR 100'S DOWN TO 85-95 SR W/RARE ECTOPY, 7 BEAT RUN NSVT X1, HEPARIN INCREASED TO 750U/HR FOR PTT 47.3
+
+RESP:  100% NRB + 5L N/C W/SATS 40-50'S, LUNGS RALES AT BASES R>L
++ COUGH W/HEMOPTYSIS IN AM, COUGH ROBITUSSIN X2 W/GOOD EFFECT
+
+ID: AFEB, WBC DOWN TO 14
+
+HEME:  TRANSFUSED 1 UNIT PRBC'S, POST HCT 55
+
+GI:  POOR PO INTAKE, SM SIPS H2O, GINGERALE, NO STOOL, VOMITTED SM AMT BILEOUS LIQ W/BLOODY FLECKS AFTER COUGHING; ZOFRAN GIVEN IV X1 W/EXCELLENT EFFECT
+
+GU:  FOLEY IN PLACE DRAINING SM AMTS CLEAR YELLOW-AMBER URINE; CR BUMPED TO 1.8 THIS AM - DOPAMINE DECREASED IN ATEMPT TO IMPROVE RENAL BLOOD FLOW
+
+SOCIAL:  MANY FRIENDS, ""FAMILY"" MEMBERS IN TO VISIT IN/OUT THROUGHOUT DAY;""COUSIN"" [**Female First Name (un) 5986**] HICKS WHO PATIENT USED TO LIVE WITH VISITED W/PT FOR LONG TIME, TELEPHONE NUMBERS ARE (H)[**Telephone/Fax (1) 5987**] AND (W)[**Telephone/Fax (1) 5988**]; [**Female First Name (un) 5986**] LIVES IN [**Location 772**] AND USED TO TAKE PT TO [**Hospital **] HOSP FOR APPOINTMENT W/DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 5989**]; PER [**Female First Name (un) 5986**], PATIENT DECIDED TO MOVE OUT AND THEN STOPPED TAKING CARE OF HERSELF MEDICALLY; SITUATION REGARDING PATIENT'S CONDITION AS WELL AS FLOLAN THERAPY EXPLAINED TO [**Female First Name (un) 5986**]; SHE IS WILLING TO HAVE PT COME BACK TO LIVE W/HER IF/WHEN SHE GOES HOME BUT SHE SAYS IT WOULD BE THE PT'S CHOICE; OTHER FAMILY, [**Doctor First Name **] (COUSIN) AND [**First Name8 (NamePattern2) 5990**] [**Last Name (NamePattern1) **] WHO LIVE ON [**Street Address 5991**] AS THE PATIENT IN [**Hospital1 322**] ALSO IN TO VISIT; TEL #[**Telephone/Fax (1) 5992**]; THEY ALSO SAID THEY WOULD LIKE TO HELP CARE FOR HER WHEN SHE GOES HOME.
+
+A:  TOLERATING INCREASED DOSE OF FLOLAN BUT W/LITTLE EFFECT ON ABG'S/SATS; DOPAMINE SUCCESSFULLY DECREASED TO RENAL RANGE
+MANY SUPPORT SYSTEMS IN TO VISIT
+
+P:  CONTINUE INCREASE FLOLAN AS ORDERED [**Name8 (MD) **] MD'S AND ASSESS EFFECT
+    REPEAT PTT ON INCREASED HEPARIN, ROBITUSSIN FOR COUGH, ZOFAN FOR VOMITTING; ASSESS RENAL FUNCTION ON DECREASED DOPAMINE/INCREASED FLOLAN; KEEP PT INFORMED OF CONDITION VIA INTERPRETERS, SUPPORT PT/FAMILY; CASE MANAGEMENT/SOCIAL SEVICE FOLLOW-UP IN AM.
+",,
+8586,15169,10694,,3299-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-9**] 9:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9239**]
+     Reason: Please evaluate for pulm edema, infiltrates                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         36 year old woman with hypoxia, SOB   Eisenmenger's syndrome                 
+                               
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for pulm edema, infiltrates                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Shortness of breath and hypoxia.
+     
+     FINDINGS: Single view compared to that done on [**2-7**], for the same indications.
+     Overall, no significant interval change i.e. multichamber cardiac enlargement
+     including the left atrium, bilateral hilar masses, presumed prominent
+     pulmonary vasculature, free layering right sided pleural effusion and
+     associated underlying atelectasis/infiltrate.
+
+",,
+8586,15169,10694,,3299-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-9**] 4:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9240**]
+     Reason: assess rij line placement, assess for ptx                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          36 year old woman with hypoxia, SOB   Eisenmenger's syndrome, pe's now s/p 
+      rij line placement                                          
+     REASON FOR THIS EXAMINATION:
+      assess rij line placement, assess for ptx                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE AP FILM
+     
+     Right jugular central venous line placement.
+     
+     Right jugular central venous line is in the mid-SVC.  No pneumothorax.  No
+     other [**Doctor Last Name 9241**] since the prior study of the same date.
+     
+
+",,
+8586,15169,10694,0,3299-02-09 03:55:00 EST,3299-02-09 04:20:00 EST,526,"N",1,"Nursing/Other","ccu npn 7p-7a","
+ccu npn 7p-7a
+S:""Aqua.""
+
+O: Please see carevue for VS and objective data, 
+
+CVS: Hemodynamically stable with HR 70-80'S NSR, rare PVC noted. BP ranges via left radial aline, 90-100's/50-60's, MAPs 60-70. IV Flolan conts at 2ng/kg/min=9.6cc/hour. Last bag change at 0200.IV Dopamine conts at 2mcg/kg/min.IV Heparin at 750u/hour with PTT 53.5. All drips infusing via right femoral TLC with venous side port. Site D/I, no palp. hematoma, distal pulses palp. Pt. denies chest pain or difficulty breathing. 
+
+Resp: Remains on 100% NRB with 5L N/C. Last abg 29/46/7.34/26/-2 sat 43%, oximetry sats 40-50's%. Lungs clear with decreased in base, fine rales in right base dependently. Less tachypneic this shift. RR 17- mid 20's. Cough supressed with Guaifenesin-Dextromethorphan. No hemoptysis this shift. Hct stable at 55.8. clubbing and cyanosis of fingers at baseline.  
+
+GI:GU: Minimal po's taken without N/V this shift. Foley to drainage with clear, yellow to amber urine , u/o down to 8-10cc/hour. Am creat pnd, started D5NS at 100cc/hour at 0330 secondary to poor po intake and emesis over past 2 days. Pt. menstrating with small flow. 
+
+ID: Tmax 99.0, 650mg po tylenolx1, po Levofloxacin decreased to 250mg po qd secondary to rising creat. 
+
+Neuro: Pt. A/A/OX3 via friends visiting and interpreting. Pt. able to request water and position change. Answers simple questions. Cooperative and appreciative of care. Occasional smile. MAE, follows commands. 
+
+A: Hemodynamically stable on Flolan, Dopamine, Heparin. 
+
+P: Cont to monitor hemodynamics, plan to increase Flolan and may wean Dopamine in am. Follow up with am labs. PTT goal 50-60. Monitor u/o and Pt's response to IVF. Encourage po intake and food as n/v has subsided.  Cont to work on social issues, comfort and emotional support to Pt. 
+",,
+8586,15169,10694,0,3299-02-09 16:35:00 EST,3299-02-09 16:56:00 EST,958,"N",1,"Nursing/Other","CCU Nsg Progress Note 7a-7p","
+CCU Nsg Progress Note 7a-7p
+
+O:  Vital signs as per flow sheet.  Sinus rhythm without VEA. Flolan increased to 3ng/kg/min (14.4cc).  Tolerating well thus far.  Dopa continues at 2mcgs/kg/min.  IV Heparin dc'd for placement of RIJ triple lumen.  CVP 8-10. Clubbing and cyanosis remain. HCT 55.6.  No transfusion today.
+
+Resp: Remains on 100% NRB and 5l NP.  O2 sats range between 35-50.  Abg drawn to confirm, 7.32 27 47.  Little change in oxygenation with increase dose of Flolan.  R pleural effusion by CXR. Lungs with rales scattered throughout bases.  Coughing and raising bld tinged sputum.
+
+GU/GI:  Continues to tolerate po's poorly.  Vague c/o N/V  Tx'd with Zofran 2mgIV with some effect.  Abd is soft with bowel sounds present. Given 1liter of D5NS over 10hrs with no change in urine output. Range 5-45/hr. Will gently hydrate after placement of line is confirmed.  Creat today 1.8 which remains elevated.
+
+Neuro:  Pt is awake and responding appropriately to commands with the help of translator.  MAE.
+
+Social:  Seen by social service early this am.  Pt remains concerned that both her children get here to visit her.  Process is in the works.  Difficult to know what pt understands about her situation but states that she is afraid and overwhelmed by lots of info.
+
+A&P:  Stable hemodynamically with increase dose of Flolan.  Restart Heparin once R rem sheath has been dc'd. Hydrate as per orders. Monitor I&O closely. Emotional support.
+",,
+8586,15169,10694,,3299-02-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-10**] 8:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9242**]
+     Reason: please assess all lines, etc.                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           36 year old woman with hypoxia, SOB   Eisenmenger's syndrome, pe's now s/p 
+       rij line placement                                          
+     REASON FOR THIS EXAMINATION:
+      please assess all lines, etc.                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 36 y/o female with history of Eizenmenger's syndrome, now with
+     hypoxia and dyspnea.
+     
+     TECHNIQUE: Portable AP chest.
+     
+     COMPARISON: [**3299-2-9**].
+     
+     FINDINGS: The right IJ central venous catheter remains in stable, satisfactory
+     position. The heart is enlarged. There is marked dilatation of the central
+     pulmonary arteries, particularly on the left side, consistent with the
+     patient's history of Eizenmenger's syndrome and likely pulmonary hypertension.
+     Allowing for the supine technique, there is no pulmonary vascular congestion.
+     There is a moderate sized right pleural effusion which appears slightly larger
+     in the interval. It is associated with compression atelectasis of the adjacent
+     right lower lobe and extends into the minor fissure.
+     
+     IMPRESSION: Slight interval increase in size of right pleural effusion.
+     Otherwise, stable appearance of the chest.
+
+",,
+8586,15169,10694,,3299-02-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-10**] 11:45 AM
+     ABDOMEN U.S. (PORTABLE); DUPLEX DOPP ABD/PEL                    Clip # [**Clip Number (Radiology) 9243**]
+     Reason: Please assess RUQ and urinary system.  ? obstruction.  Pleas
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old woman with Eisenmengers, shock liver, ARF                           
+     REASON FOR THIS EXAMINATION:
+      Please assess RUQ and urinary system.  ? obstruction.  Please include Dopplers 
+      for Budd-chiari
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Eisenmenger's syndrome, shocked liver and acute renal failure.
+     
+     Abdominal ultrasound was performed.  There is a right pleural effusion.  The
+     liver is enlarged with prominent hepatic veins.  There is no focal masses or
+     abnormalities.  There is no intra or extrahepatic bile duct dilatation.  The
+     gallbladder contains sludge without evidence of cholecystitis.  The right
+     kidney is hyperechoic and measures 10.9 cm and is without hydronephrosis,
+     masses or nephrolithiasis.  The left kidney measures 12 cm without
+     hydronephrosis, masses or nephrolithiasis.  The spleen measures 11.4 cm.  The
+     portal vein has hepatopetal flow.  Flow within the hepatic veins is within
+     normal limits.
+     
+     IMPRESSION:
+     
+     1)  Enlarged liver with prominent hepatic veins that are patent.
+     2)  Hyperechoic kidneys as described.  
+
+",,
+8586,15169,10694,,3299-02-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-10**] 11:45 AM
+     ABDOMEN U.S. (PORTABLE); DUPLEX DOPP ABD/PEL                    Clip # [**Clip Number (Radiology) 9243**]
+     Reason: Please assess RUQ and urinary system.  ? obstruction.  Pleas
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      36 year old woman with Eisenmengers, shock liver, ARF                           
+     REASON FOR THIS EXAMINATION:
+      Please assess RUQ and urinary system.  ? obstruction.  Please include Dopplers 
+      for Budd-chiari
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Eisenmenger's syndrome, shocked liver and acute renal failure.
+     
+     Abdominal ultrasound was performed.  There is a right pleural effusion.  The
+     liver is enlarged with prominent hepatic veins.  There is no focal masses or
+     abnormalities.  There is no intra or extrahepatic bile duct dilatation.  The
+     gallbladder contains sludge without evidence of cholecystitis.  The right
+     kidney is hyperechoic and measures 10.9 cm and is without hydronephrosis,
+     masses or nephrolithiasis.  The left kidney measures 12 cm without
+     hydronephrosis, masses or nephrolithiasis.  The spleen measures 11.4 cm.  The
+     portal vein has hepatopetal flow.  Flow within the hepatic veins is within
+     normal limits.
+     
+     IMPRESSION:
+     
+     1)  Enlarged liver with prominent hepatic veins that are patent.
+     2)  Hyperechoic kidneys as described.  
+
+",,
+8586,15169,10694,0,3299-02-10 04:01:00 EST,3299-02-10 04:29:00 EST,142,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""Thank [**Doctor First Name **]""
+O-Neuro-speaking very little English but pleasant and cooperative.
+Dozing most of evening/night , quiet with sad affect. MAE, moaning with turning in bed and holding onto right IJ TLC site. Received MSO4 1mg IV x2 with some relief. 
+CV-Flolan at 3ng/kg/min. VSS, weaned off low dose Dopamine gtt by midnight. MAPS >65. CVP 12-15. Heparin restarted at 2015 at 750u/hr after right fem sheath removed at 1915. PTT pnd this am. Right groin site no hematoma, pedal pulses intact. Right leg immobilizer removed with some swelling noted right upper thigh, HO aware.
+Resp- Less labored this night with rr 18-24, O2 sats 48-51% LS BBR.
+Occ cough with thick tan blood tinged sputum. 
+ID low grade temp 100R off levo.
+GI-taking minimal po's still having intermittant nausea on zofran, albumin 1.2 +BS, abd soft non distended AST 771, ALT 684. 
+GI- foley minimal urine output 5-10cc/hr with BUN/CR 39/1.8 at 2000.
+Urine concentrated amber color/clear. +menses with low flow
+Social-Distant cousins into visit this evening. Asking questions regarding pt status. According to a cousin the pt thinks that she is 
+doing much better, but does not understand that she could die from this. Possibly have translator available for rounds in am with team.
+A/P-Renal failure with low urine output. Follow O2 sats closely and monitor CVP. Make pt comfortable.
+",,
+8586,15169,10694,0,3299-02-10 15:38:00 EST,3299-02-10 16:09:00 EST,958,"N",1,"Nursing/Other","CCU Nsg Progres Note 7a-7p","
+CCU Nsg Progres Note 7a-7p
+
+O:  CV:  Remains in sinus rhythm.  BP stable off Dopa.  Continues on 3ng/kg/min of Flolan. No changes to be made in dosage today.  CVP 8-14.  IV Heparin at 750u/hr PTT 52.
+
+Resp:  Respirations are slow and unlabored able to sit upright in bed.  RR 16-28.  Shortness of breath, much less with activity. O2 sat 40's-50's. O2 100% NRB and 5l NP. 
+
+Neuro:  Pt sleepying off and on throughout most of the shift. When awake, responding appropriately to verbal commands.
+
+GU/GI: Able to tolerate small amts of solid foods.  No c/o nausea or vomiting. Abd is soft and distended with bowel sounds.  LFT's elevated.  HCT 53.9.  No transfusion today.  Urine output remains poor.  House staff aware.  To hold further hydration for now. Creat 1.9.
+
+Social:  Meeting to take place tomorrow with social service, case management, nursing and medical team to determine short and long term goals. Family in to visit with pt this am.  
+
+A&P:  Hemodynamically stable.   Continue to monitor and assess.
+",,
+8586,15169,10694,,3299-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3299-2-11**] 7:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9244**]
+     Reason: ?CHF                                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            36 year old woman with hypoxia, SOB   Eisenmenger's syndrome, pe's        
+                                        
+     REASON FOR THIS EXAMINATION:
+      ?CHF                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 36 y/o female with hypoxia, dyspnea, and Eisenmenger's syndrome.
+     
+     TECHNIQUE: Portable AP chest.
+     
+     COMPARISON: [**3299-2-10**].
+     
+     FINDINGS: There has essentially been no change in the appearance of the
+     patient's chest. There is stable cardiomegaly. There is marked prominence of
+     the central pulmonary arteries, particularly the right pulmonary vasculature
+     is not engorged. There is a persistent right pleural effusion with associated
+     atelectasis, which appears unchanged in the interval. No new infiltrates are
+     detected. Note is made of a right IJ catheter which is in stable position
+     within the proximal SVC.
+     
+     IMPRESSION: No significant change in the appearance of the known right pleural
+     effusion and associated atelectatic changes.
+
+",,
+8586,,10694,0,3299-02-11 05:44:00 EST,3299-02-11 06:11:00 EST,142,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""Yes""
+O-Neuro-More alert and awake this evening. Smiling occasionally. c/o pain at aline site received 
+CV-VSS, short episode of coughing with SBP 130-140's and HR 110 ST. CVP 12-19. Heparin at 750u/hr. Flolan remains at 3ng/kg/min for severe pulmonary HTN. Noted increase cyanosis fingers.
+Resp-At rest, resp less labored/SOB. LS BBR with occ strong productive cough thick tan /blood tinged sputum. ABG 7.29/49/25/25/-4 with O2 sat 35% and VBG 7.28/54/21/26 with O2 sat 26%. Oximetric sats 49-58%.
+ID afebrile WBC 11.1
+GU- foley draining 15-20cc/hr concentrated urine IVF kvo BUN/CR pnd at 0500
+GI taking minimal food last evening, with some sips of water with pills. Some dry heaving with coughing spell relieved spontaneous.
+Social-friends and distant cousins into visit.
+Plan- 11am colaborative meeting including attending, nursing, social worker, ethics, pharmacy.
+",,
+8586,,10694,0,3299-02-11 10:22:00 EST,3299-02-11 10:29:00 EST,-1,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+Pt was having AM bath, turned from side to side and became unresponsive, dyspneic, bradycardic to the 40s.  Likely had combination of CVA/PE.  Pupils were unresponsive, breathing became agonal.  Pt's code status-DNR/DNI. Drips turned off, 2mg MSO4 given for comfort.  Went into PEA and pronounced @ 1000, team present.  Team called pt's cousin [**Name (NI) **] at work but already on her way in to hospital, waiting for arrival, is not yet aware.  Will update and provide emotional support for family.
+",,

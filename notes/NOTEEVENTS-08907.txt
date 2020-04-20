@@ -1,0 +1,2557 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2501-11-22**]       Discharge Date:  [**2501-12-5**]
+
+Date of Birth:   [**2429-6-6**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  This was a 71-year-old male who
+was struck by a car and found to have a GCS of 5 on the scene
+and was intubated by EMS.  He was initially hypertensive and
+tachycardiac and was then flighted to [**Hospital6 2460**].
+
+PAST MEDICAL HISTORY:  Right hip repair.
+
+ALLERGIES:  PENICILLIN, PERCOCET.
+
+MEDICATIONS ON ADMISSION:  None.
+
+PHYSICAL EXAMINATION:  Vital signs:  He was intubated and
+tachycardiac at 110, and hypertensive at 174/100.  His GCS
+was 6T.  HEENT:  Pupils equal, round and reactive to light;
+however, he did have blood in his left tympanic membrane.
+The rest of his exam showed deformities of the right tibia,
+as well as scalp laceration, as well as an elbow laceration.
+
+LABORATORY DATA:  Within normal limits.
+
+HOSPITAL COURSE:  The patient was admitted to the Trauma
+Service and ultimately required a craniotomy for a subdural
+hematoma.  He also ended requiring a washout of his left open
+tibia-fibular fracture and was transferred to the Intensive
+Care Unit.
+
+He had a prolonged Intensive Care Unit stay including
+multiple antibiotics for infection, prolonged ventilation,
+and ventriculostomy drain for control of his subdural
+hematoma.
+
+An IVC filter was also placed postoperative for prophylaxis
+against deep venous thrombosis.  Due to his bleed, he was
+unable to receive Heparin.
+
+The patient continued to have significant hemodynamic
+instability and was unable to wean off of his ventilator
+during his hospital course.
+
+He was taken to the Operating Room for his tibia-fibular
+repair and again was continued on multiple antibiotics for
+CSF infection, as well as pneumonia.  He was given tube feeds
+for nutritional support through his hospital stay, and he was
+given Dilantin for seizure prophylaxis.  He had elevated
+fevers throughout his hospital stay.
+
+Ultimately a family meeting was held on [**2501-12-3**], and
+it was decided by the family that the patient would be DNR.
+It was decided on [**2501-12-3**], after further discussion
+with the family that the patient be made CMO.  On [**2501-12-4**], he was made DNR.  The vent drain was removed.  The
+patient was extubated, and he was put on a Morphine and
+Fentanyl drip for comfort.  The patient expired on [**2501-12-5**].
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 201**], M.D.  [**MD Number 202**]
+
+Dictated By:[**Last Name (NamePattern4) 662**]
+MEDQUIST36
+
+D:  [**2502-4-4**]  09:53
+T:  [**2502-4-4**]  09:53
+JOB#:  [**Job Number 12435**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: TUE [**2502-4-11**] 8:10 AM
+(End of Report)
+
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 10:48 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11611**]
+     Reason: EVAL TUBE POSITION, R/O PTX                                 
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man STRUCK BY CAR                                                   
+     REASON FOR THIS EXAMINATION:
+      EVAL TUBE POSITION, R/O PTX                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Trauma. ETT, NG tube and right subclavian line placement, evaluate
+     position, r/o pneumothorax.
+     
+     CHEST AP: The tip of the right subclavian line is at the junction of the
+     subclavian and jugular veins. The tip of the NG tube is in the lower end of
+     the esophagus and should be advanced. The tip of the ETT is about 5 cm above
+     the carina. 2 ____ electrodes are seen. Some left ventricular enlargement and
+     aortic unfolding is noted. No rib fractures are identified, however, this is
+     of limited view and rib fractures cannot be ruled out. A small
+     effusion/pleural thickening is noted at the right costophrenic angle. Follow
+     up with PA & lateral is recommended. There is no pneumothorax. The cardiac
+     size is normal. The lung fields are clear.
+     
+     IMPRESSION: No pneumothorax.
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 10:26 PM
+     KNEE (2 VIEWS) BILAT PORT; TIB/FIB (AP & LAT) BILAT PORT        Clip # [**Clip Number (Radiology) 11610**]
+     FEMUR (AP & LAT) BILAT PORT; ANKLE (2 VIEWS) BILAT PORT
+     Reason: Eval fx                                                     
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man s/p [**Hospital Unit Name 309**] struck                                                  
+     REASON FOR THIS EXAMINATION:
+      Eval fx                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fracture, pedestrian struck.
+     
+     RIGHT FEMUR, 2 VIEWS.  RIGHT KNEE, 2 VIEWS.  RIGHT LOWER LEG, 2 VIEWS.
+     
+     In the femur, detail is limited by technique.  A femoral prosthesis present,
+     with long stem extending into the distal diaphysis and cortical thickening
+     proximally consistent with sequela of remote trauma.  No acute fracture is
+     detected in the femur.
+     
+     LEFT KNEE:  Detail limited by underpenetration.  No fracture or dislocation
+     detected.
+     
+     LEFT LOWER LEG:  There are comminuted fractures of the proximal diaphyses of
+     the tibia and fibula.  There is mild to moderate medial apex angulation of the
+     tibial fracture, with only slight anterior apex angulation seen on the lateral
+     view.  Focal tiny densities project over the fracture site, but may represent
+     rotator pieces of cortex.  Is there reason to suspect foreign bodies.  The
+     proximal fibular fracture is segmental, with horizontal orientation of the
+     intervening fracture fragment and full shaft with medial and posterior
+     displacement of the distal fragment, though there is overlap among the
+     fracture fragments.  Limited assessment of the mortise joint is unremarkable.
+     Detail in the heel is obscured by overlying splint.
+     
+     IMPRESSION:
+     
+     1)  Right femoral prosthesis.
+     2)  Comminuted fractures of the proximal diaphyses of the left tibia and
+     fibula as described.
+     
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 10:26 PM
+     KNEE (2 VIEWS) BILAT PORT; TIB/FIB (AP & LAT) BILAT PORT        Clip # [**Clip Number (Radiology) 11610**]
+     FEMUR (AP & LAT) BILAT PORT; ANKLE (2 VIEWS) BILAT PORT
+     Reason: Eval fx                                                     
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man s/p [**Hospital Unit Name 309**] struck                                                  
+     REASON FOR THIS EXAMINATION:
+      Eval fx                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fracture, pedestrian struck.
+     
+     RIGHT FEMUR, 2 VIEWS.  RIGHT KNEE, 2 VIEWS.  RIGHT LOWER LEG, 2 VIEWS.
+     
+     In the femur, detail is limited by technique.  A femoral prosthesis present,
+     with long stem extending into the distal diaphysis and cortical thickening
+     proximally consistent with sequela of remote trauma.  No acute fracture is
+     detected in the femur.
+     
+     LEFT KNEE:  Detail limited by underpenetration.  No fracture or dislocation
+     detected.
+     
+     LEFT LOWER LEG:  There are comminuted fractures of the proximal diaphyses of
+     the tibia and fibula.  There is mild to moderate medial apex angulation of the
+     tibial fracture, with only slight anterior apex angulation seen on the lateral
+     view.  Focal tiny densities project over the fracture site, but may represent
+     rotator pieces of cortex.  Is there reason to suspect foreign bodies.  The
+     proximal fibular fracture is segmental, with horizontal orientation of the
+     intervening fracture fragment and full shaft with medial and posterior
+     displacement of the distal fragment, though there is overlap among the
+     fracture fragments.  Limited assessment of the mortise joint is unremarkable.
+     Detail in the heel is obscured by overlying splint.
+     
+     IMPRESSION:
+     
+     1)  Right femoral prosthesis.
+     2)  Comminuted fractures of the proximal diaphyses of the left tibia and
+     fibula as described.
+     
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 10:26 PM
+     KNEE (2 VIEWS) BILAT PORT; TIB/FIB (AP & LAT) BILAT PORT        Clip # [**Clip Number (Radiology) 11610**]
+     FEMUR (AP & LAT) BILAT PORT; ANKLE (2 VIEWS) BILAT PORT
+     Reason: Eval fx                                                     
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man s/p [**Hospital Unit Name 309**] struck                                                  
+     REASON FOR THIS EXAMINATION:
+      Eval fx                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fracture, pedestrian struck.
+     
+     RIGHT FEMUR, 2 VIEWS.  RIGHT KNEE, 2 VIEWS.  RIGHT LOWER LEG, 2 VIEWS.
+     
+     In the femur, detail is limited by technique.  A femoral prosthesis present,
+     with long stem extending into the distal diaphysis and cortical thickening
+     proximally consistent with sequela of remote trauma.  No acute fracture is
+     detected in the femur.
+     
+     LEFT KNEE:  Detail limited by underpenetration.  No fracture or dislocation
+     detected.
+     
+     LEFT LOWER LEG:  There are comminuted fractures of the proximal diaphyses of
+     the tibia and fibula.  There is mild to moderate medial apex angulation of the
+     tibial fracture, with only slight anterior apex angulation seen on the lateral
+     view.  Focal tiny densities project over the fracture site, but may represent
+     rotator pieces of cortex.  Is there reason to suspect foreign bodies.  The
+     proximal fibular fracture is segmental, with horizontal orientation of the
+     intervening fracture fragment and full shaft with medial and posterior
+     displacement of the distal fragment, though there is overlap among the
+     fracture fragments.  Limited assessment of the mortise joint is unremarkable.
+     Detail in the heel is obscured by overlying splint.
+     
+     IMPRESSION:
+     
+     1)  Right femoral prosthesis.
+     2)  Comminuted fractures of the proximal diaphyses of the left tibia and
+     fibula as described.
+     
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 10:26 PM
+     KNEE (2 VIEWS) BILAT PORT; TIB/FIB (AP & LAT) BILAT PORT        Clip # [**Clip Number (Radiology) 11610**]
+     FEMUR (AP & LAT) BILAT PORT; ANKLE (2 VIEWS) BILAT PORT
+     Reason: Eval fx                                                     
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man s/p [**Hospital Unit Name 309**] struck                                                  
+     REASON FOR THIS EXAMINATION:
+      Eval fx                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fracture, pedestrian struck.
+     
+     RIGHT FEMUR, 2 VIEWS.  RIGHT KNEE, 2 VIEWS.  RIGHT LOWER LEG, 2 VIEWS.
+     
+     In the femur, detail is limited by technique.  A femoral prosthesis present,
+     with long stem extending into the distal diaphysis and cortical thickening
+     proximally consistent with sequela of remote trauma.  No acute fracture is
+     detected in the femur.
+     
+     LEFT KNEE:  Detail limited by underpenetration.  No fracture or dislocation
+     detected.
+     
+     LEFT LOWER LEG:  There are comminuted fractures of the proximal diaphyses of
+     the tibia and fibula.  There is mild to moderate medial apex angulation of the
+     tibial fracture, with only slight anterior apex angulation seen on the lateral
+     view.  Focal tiny densities project over the fracture site, but may represent
+     rotator pieces of cortex.  Is there reason to suspect foreign bodies.  The
+     proximal fibular fracture is segmental, with horizontal orientation of the
+     intervening fracture fragment and full shaft with medial and posterior
+     displacement of the distal fragment, though there is overlap among the
+     fracture fragments.  Limited assessment of the mortise joint is unremarkable.
+     Detail in the heel is obscured by overlying splint.
+     
+     IMPRESSION:
+     
+     1)  Right femoral prosthesis.
+     2)  Comminuted fractures of the proximal diaphyses of the left tibia and
+     fibula as described.
+     
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 4:23 PM
+     CT UP EXT W/O C                                                 Clip # [**Clip Number (Radiology) 11608**]
+     Reason: eval for humerus or elbow fx                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with open lac elbow.                                            
+     REASON FOR THIS EXAMINATION:
+      eval for humerus or elbow fx                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Open lac elbow evaluate humerus for elbow fracture.
+     
+     TECHNIQUE: The patient's hand is splinted in a 90 degree flexed position.
+     Contiguous axial images were obtained through the elbow with this limited
+     positioning and reconstructed with bone algorithm. Coronal axial
+     reconstructions were generated.
+     
+     LOWER EXTEMIRYT CT WITHOUT CONTRAST:
+     
+     There is a small (4 mm) bony fragment lying along the lateral edge of the
+     radial capitellar joint (series 4 image 73, series 9 53B, image 19 and series
+     9 54B image 47). There is a soft tissue defect over the olecranon, extending
+     to the surface of the olecranon. A tiny calcific [**Doctor Last Name 11609**] projects in the soft
+     tissues over the expected course of the triceps tendon and may indicate
+     avulsion of the triceps, either partial or complete. However, the main portion
+     of the olecranon as well as the remainder of the proximal ulna is intact. No
+     fracture lines are identified within the distal humerus or proximal radius
+     including the radial head. The radial capitellar and ulnar trochlea
+     articulations are congruent. No joint effusion is identified. Away from the
+     area of soft tissue defect, soft tissue structures about the elbow are within
+     normal limits.
+     
+     IMPRESSION:
+     
+     1. Soft tissue injury over olecranon, which may involve a partial or total
+     avulsion of the triceps. Clinical correlation is requested.
+     
+     2. Small calcific fragment along lateral border of the radial capitellar
+     joint, without obvious donor site. This could represent either an ossicle or a
+     subtle avulsion fracture, or less likely, a loose body within the joint or a
+     foreign body introduced in this trauma. The lateral epicondyle is grossly
+     unremarkable.
+     
+     3. Otherwise, no fracture identified about the elbow joint. See comment.
+     
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 3:46 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11607**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: s/p [**Hospital Unit Name 309**] struck
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p [**Hospital Unit Name 309**] struck
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  71 y/o struck by pedestrian.
+     
+     TECHNIQUE:  Multiple helical and axial images were obtained from the thoracic
+     inlet to the symphysis pubis with IV contrast.
+     
+     CONTRAST:  150 cc of Optiray were administered secondary to fast rate of bolus
+     injection.
+     
+     CT CHEST WITH CONTRAST:  The heart and pericardium are normal.  The anterior
+     mediastinum is clear and the great vessels are intact.  There is bilateral
+     atelectasis.  There is a small left upper lobe pneumatocele.  The lungs are
+     clear of opacities, nodules or pneumothoraces.  There is an endotracheal tube
+     and nasogastric tube present.
+     
+     CT ABDOMEN WITH IV CONTRAST:  In segment 4A of the liver there is a hepatic
+     cyst.  The liver is normal in contour and CT attenuation without intrahepatic
+     dilatation.  The spleen, pancreas and adrenals are normal.  There are
+     gallstones in a non-distended gallbladder.  There is no evidence of wall
+     thickening or pericholecystic fluid collections.  The pancreas is
+     unremarkable.  There is a small right renal cyst.  Both kidneys enhance
+     symmetrically without hydronephrosis or enhancing masses.  There is no
+     abdominal free fluid or lymphadenopathy.  The stomach is fluid-filled and
+     significantly distended.  There is no wall thickening.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The small and large bowel is normal in
+     course and caliber.  There is multiple sigmoid diverticula without evidence
+     for diverticulitis.  No free fluid.  There is no pelvic or inguinal
+     lymphadenopathy.  There is a right total hip replacement which is creating
+     artifact which limits the evaluation of the bladder and prostate.
+     
+     BONE WINDOWS:  There is no fractures in the visualized bones.  There are mild
+     degenerative changes.
+     
+     IMPRESSION:
+     
+     1)  Minimal bilateral atelectasis.
+     2)  Right renal and hepatic cysts.
+     3)  No fractures or free fluid.
+     
+                                                                 (Over)
+
+     DATE: [**2501-11-22**] 3:46 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11607**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: s/p [**Hospital Unit Name 309**] struck
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 3:46 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11607**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: s/p [**Hospital Unit Name 309**] struck
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p [**Hospital Unit Name 309**] struck
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  71 y/o struck by pedestrian.
+     
+     TECHNIQUE:  Multiple helical and axial images were obtained from the thoracic
+     inlet to the symphysis pubis with IV contrast.
+     
+     CONTRAST:  150 cc of Optiray were administered secondary to fast rate of bolus
+     injection.
+     
+     CT CHEST WITH CONTRAST:  The heart and pericardium are normal.  The anterior
+     mediastinum is clear and the great vessels are intact.  There is bilateral
+     atelectasis.  There is a small left upper lobe pneumatocele.  The lungs are
+     clear of opacities, nodules or pneumothoraces.  There is an endotracheal tube
+     and nasogastric tube present.
+     
+     CT ABDOMEN WITH IV CONTRAST:  In segment 4A of the liver there is a hepatic
+     cyst.  The liver is normal in contour and CT attenuation without intrahepatic
+     dilatation.  The spleen, pancreas and adrenals are normal.  There are
+     gallstones in a non-distended gallbladder.  There is no evidence of wall
+     thickening or pericholecystic fluid collections.  The pancreas is
+     unremarkable.  There is a small right renal cyst.  Both kidneys enhance
+     symmetrically without hydronephrosis or enhancing masses.  There is no
+     abdominal free fluid or lymphadenopathy.  The stomach is fluid-filled and
+     significantly distended.  There is no wall thickening.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The small and large bowel is normal in
+     course and caliber.  There is multiple sigmoid diverticula without evidence
+     for diverticulitis.  No free fluid.  There is no pelvic or inguinal
+     lymphadenopathy.  There is a right total hip replacement which is creating
+     artifact which limits the evaluation of the bladder and prostate.
+     
+     BONE WINDOWS:  There is no fractures in the visualized bones.  There are mild
+     degenerative changes.
+     
+     IMPRESSION:
+     
+     1)  Minimal bilateral atelectasis.
+     2)  Right renal and hepatic cysts.
+     3)  No fractures or free fluid.
+     
+                                                                 (Over)
+
+     DATE: [**2501-11-22**] 3:46 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11607**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: s/p [**Hospital Unit Name 309**] struck
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 3:46 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11607**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: s/p [**Hospital Unit Name 309**] struck
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p [**Hospital Unit Name 309**] struck
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  71 y/o struck by pedestrian.
+     
+     TECHNIQUE:  Multiple helical and axial images were obtained from the thoracic
+     inlet to the symphysis pubis with IV contrast.
+     
+     CONTRAST:  150 cc of Optiray were administered secondary to fast rate of bolus
+     injection.
+     
+     CT CHEST WITH CONTRAST:  The heart and pericardium are normal.  The anterior
+     mediastinum is clear and the great vessels are intact.  There is bilateral
+     atelectasis.  There is a small left upper lobe pneumatocele.  The lungs are
+     clear of opacities, nodules or pneumothoraces.  There is an endotracheal tube
+     and nasogastric tube present.
+     
+     CT ABDOMEN WITH IV CONTRAST:  In segment 4A of the liver there is a hepatic
+     cyst.  The liver is normal in contour and CT attenuation without intrahepatic
+     dilatation.  The spleen, pancreas and adrenals are normal.  There are
+     gallstones in a non-distended gallbladder.  There is no evidence of wall
+     thickening or pericholecystic fluid collections.  The pancreas is
+     unremarkable.  There is a small right renal cyst.  Both kidneys enhance
+     symmetrically without hydronephrosis or enhancing masses.  There is no
+     abdominal free fluid or lymphadenopathy.  The stomach is fluid-filled and
+     significantly distended.  There is no wall thickening.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The small and large bowel is normal in
+     course and caliber.  There is multiple sigmoid diverticula without evidence
+     for diverticulitis.  No free fluid.  There is no pelvic or inguinal
+     lymphadenopathy.  There is a right total hip replacement which is creating
+     artifact which limits the evaluation of the bladder and prostate.
+     
+     BONE WINDOWS:  There is no fractures in the visualized bones.  There are mild
+     degenerative changes.
+     
+     IMPRESSION:
+     
+     1)  Minimal bilateral atelectasis.
+     2)  Right renal and hepatic cysts.
+     3)  No fractures or free fluid.
+     
+                                                                 (Over)
+
+     DATE: [**2501-11-22**] 3:46 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11607**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: s/p [**Hospital Unit Name 309**] struck
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 3:46 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11607**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: s/p [**Hospital Unit Name 309**] struck
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p [**Hospital Unit Name 309**] struck
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  71 y/o struck by pedestrian.
+     
+     TECHNIQUE:  Multiple helical and axial images were obtained from the thoracic
+     inlet to the symphysis pubis with IV contrast.
+     
+     CONTRAST:  150 cc of Optiray were administered secondary to fast rate of bolus
+     injection.
+     
+     CT CHEST WITH CONTRAST:  The heart and pericardium are normal.  The anterior
+     mediastinum is clear and the great vessels are intact.  There is bilateral
+     atelectasis.  There is a small left upper lobe pneumatocele.  The lungs are
+     clear of opacities, nodules or pneumothoraces.  There is an endotracheal tube
+     and nasogastric tube present.
+     
+     CT ABDOMEN WITH IV CONTRAST:  In segment 4A of the liver there is a hepatic
+     cyst.  The liver is normal in contour and CT attenuation without intrahepatic
+     dilatation.  The spleen, pancreas and adrenals are normal.  There are
+     gallstones in a non-distended gallbladder.  There is no evidence of wall
+     thickening or pericholecystic fluid collections.  The pancreas is
+     unremarkable.  There is a small right renal cyst.  Both kidneys enhance
+     symmetrically without hydronephrosis or enhancing masses.  There is no
+     abdominal free fluid or lymphadenopathy.  The stomach is fluid-filled and
+     significantly distended.  There is no wall thickening.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  The small and large bowel is normal in
+     course and caliber.  There is multiple sigmoid diverticula without evidence
+     for diverticulitis.  No free fluid.  There is no pelvic or inguinal
+     lymphadenopathy.  There is a right total hip replacement which is creating
+     artifact which limits the evaluation of the bladder and prostate.
+     
+     BONE WINDOWS:  There is no fractures in the visualized bones.  There are mild
+     degenerative changes.
+     
+     IMPRESSION:
+     
+     1)  Minimal bilateral atelectasis.
+     2)  Right renal and hepatic cysts.
+     3)  No fractures or free fluid.
+     
+                                                                 (Over)
+
+     DATE: [**2501-11-22**] 3:46 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11607**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     CT RECONSTRUCTION
+     Reason: s/p [**Hospital Unit Name 309**] struck
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 3:45 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 11606**]
+     Reason: s/p [**Hospital Unit Name 309**] struck
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p [**Hospital Unit Name 309**] struck
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pedestrian struck by car.  Intubated.
+     
+     COMPARISON:  None
+     
+     TECHNIQUE:  Non-contrast cervical spine CT with coronal and sagittally
+     reformatted images.
+     
+     FINDINGS:  There is no evidence of cervical spine fracture.  Multilevel
+     degenerative changes including disk space narrowing and facet degenerative
+     changes are noted.  There is a posterior osteophyte at the C2-3 level.
+     
+     An endotracheal tube and a nasogastric tube are noted.  There is extensive
+     soft tissue abnormality within the right neck including subcutaneous emphysema
+     which tracts superiorly into the masseter space.  There is a fracture through
+     the left lateral aspect of the sphenoid bone which extends into the anterior
+     aspect of the left temporal bone. There is opacification of the left middle
+     ear cavity and mastoid, raising the possibility of fracture through this
+     region. There is associated small amount of pneumocephalus. Additionally,
+     fluid nearly fills the sphenoid sinuses bilaterally, and a small amount of
+     fluid layers within each maxillary sinus, right greater than left. Very
+     limited imaging of the temporal lobes demonstrates acute hemorrhage within
+     both anterior temporal lobes, left greater than right.  This would be much
+     better assessed by dedicated non- contrast head CT.
+     
+     IMPRESSION:  1)  Left sphenoid and temporal bones fractures with associated
+     trace pneumocephalus.
+     2)  Fluid within the sphenoid and maxillary sinuses.  Other occult fractures
+     are possible.
+     3)  Subcutaneous emphysema within the right neck.
+     4)  No evidence of cervical spine fracture.
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 3:45 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 11606**]
+     Reason: s/p [**Hospital Unit Name 309**] struck
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p [**Hospital Unit Name 309**] struck
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pedestrian struck by car.  Intubated.
+     
+     COMPARISON:  None
+     
+     TECHNIQUE:  Non-contrast cervical spine CT with coronal and sagittally
+     reformatted images.
+     
+     FINDINGS:  There is no evidence of cervical spine fracture.  Multilevel
+     degenerative changes including disk space narrowing and facet degenerative
+     changes are noted.  There is a posterior osteophyte at the C2-3 level.
+     
+     An endotracheal tube and a nasogastric tube are noted.  There is extensive
+     soft tissue abnormality within the right neck including subcutaneous emphysema
+     which tracts superiorly into the masseter space.  There is a fracture through
+     the left lateral aspect of the sphenoid bone which extends into the anterior
+     aspect of the left temporal bone. There is opacification of the left middle
+     ear cavity and mastoid, raising the possibility of fracture through this
+     region. There is associated small amount of pneumocephalus. Additionally,
+     fluid nearly fills the sphenoid sinuses bilaterally, and a small amount of
+     fluid layers within each maxillary sinus, right greater than left. Very
+     limited imaging of the temporal lobes demonstrates acute hemorrhage within
+     both anterior temporal lobes, left greater than right.  This would be much
+     better assessed by dedicated non- contrast head CT.
+     
+     IMPRESSION:  1)  Left sphenoid and temporal bones fractures with associated
+     trace pneumocephalus.
+     2)  Fluid within the sphenoid and maxillary sinuses.  Other occult fractures
+     are possible.
+     3)  Subcutaneous emphysema within the right neck.
+     4)  No evidence of cervical spine fracture.
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 3:45 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11605**]
+     Reason: s/p [**Hospital Unit Name 309**] struck
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p [**Hospital Unit Name 309**] struck
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pedestrian struck by car with severe head trauma.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  NOTE:  The original dictation for this exam appears to have been
+     lost and it has been resubmitted for interpretation on [**2501-11-28**]. This
+     will serve as the final report.
+     
+     There is diffuse, bilateral subarachnoid hemorrhage.  A right convexity
+     subdural hematoma is noted, and a collection of blood along the left posterior
+     frontal and parietal regions may represent epidural hematoma, as there is
+     large associated comminuted and depressed skull fracture adjacent to this
+     collection.  Additionally, there are several foci of intraparenchymal
+     hemorrhage within the [**Doctor Last Name 30**] matter of the left parietal lobe.  The ventricles
+     are not dilated.  There is mild mass effect from the depressed fragments of
+     the left parietal bone fracture and the adjacent epidural hematoma.  Several
+     bubbles of gas are seen within the epidural space on the left, as well as
+     within the subarachnoid space on the left, indicating penetrating trauma.
+     
+     Bone windows demonstrate extent of the left parietal bone fracture into the
+     left temporal and sphenoid bone.  There may be fractures through the
+     tuberculum sella, adjacent to the internal carotic arteries.  Fractures of the
+     medial wall of the right orbit are noted. The left zygomatic arch is
+     fractured. Blood layers within the maxillary, sphenoid, ethmoid, and frontal
+     sinuses bilaterally.
+     
+     Subcutaneous emphysema extends along the right zygomatic arch and into the
+     right orbit.  Partial opacification of the left ethmoid air cells is also
+     noted.  There is also slight prominence at the left superior ophthalmic
+     vein, nonspecific, but which should be correlated with the possibility of a
+     cavernous-carotid fistula.
+     
+     IMPRESSION:
+     1)  Depressed left parietal bone fracture with associated epidural, subdural,
+     subarachnoid, and intraparenchymal, intracranial hemorrhages.
+     2)  Multiple skull based fractures, one of which may extend through the
+     tuberculum sella, in close proximity to the internal carotid arteries.
+     3)  Slight prominence of the left superior ophthalmic vein.
+     
+                                                                 (Over)
+
+     DATE: [**2501-11-22**] 3:45 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11605**]
+     Reason: s/p [**Hospital Unit Name 309**] struck
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8907,7627,,,2501-11-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-22**] 3:31 PM
+     TRAUMA #2 (AP CXR & PELVIS PORT)                                Clip # [**Clip Number (Radiology) 11604**]
+     Reason: s/p [**Hospital Unit Name 309**] struck
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with 
+     REASON FOR THIS EXAMINATION:
+      s/p [**Hospital Unit Name 309**] struck
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  A 71-year-old pedestrian struck.
+     
+     PORTABLE CHEST:  There is an endotracheal tube in satisfactory position. There
+     is a nasogastric tube present, the tip of which is not definitively seen.  The
+     cardiac silhouette is within normal limits.  The mediastinal silhouette is
+     somewhat prominent, most likely from portable technique.  The lungs are clear.
+     There is slight blunting of the left costophrenic angle. The right
+     costophrenic angle is sharp.  The visualized bones are unremarkable.
+     
+     IMPRESSION:  No radiographic evidence of acute cardiopulmonary disease.
+     
+     PORTABLE PELVIS:  There are no acute fractures.  There is a right total hip
+     replacement.  There are mild degenerative changes in the left hip and
+     symphysis pubis.  There are no pathologic calcifications.  There are vascular
+     calcifications in the pelvis.
+     
+     IMPRESSION: No fracture.
+
+",,
+8907,7627,11073,,2501-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-23**] 9:37 AM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 11612**]
+     Reason: Eval fx. Please perform when the pt is in radiology for head
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man s/p [**Hospital Unit Name 309**] struck                                                  
+     REASON FOR THIS EXAMINATION:
+      Eval fx. Please perform when the pt is in radiology for head CT.                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     THORACIC & LUMBAR SPINE 4 VIEWS:
+     
+     HISTORY: Trauma.
+     
+     THORACIC SPINE 2 VIEWS AP & LATERAL:
+     
+     In the lateral view, the posterior portions of the vertebral bodies and the
+     posterior elements in the mid and lower thoracic spine are not included on the
+     film. No definite fractures are identified on the available film.
+     
+     LUMBAR SPINE 2 VIEWS AP & LATERAL:
+     
+     No fracture. There is narrowing of the L5/S1 disc. Alignment is normal. No
+     evidence for spondylolisthesis. No osteolytic or blastic bone lesions. SI
+     joints are unremarkable. S/P total right hip replacement. Illdefined
+     radiodensities overlie the left mid abdomen probably some retained contrast in
+     the collecting system of the left kidney from prior CT scan.
+
+",,
+8907,7627,11073,,2501-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 75825 IVC GRAM                       C1880 VENA CAVA FILTER              *
+     * C1887 CATHETER GUIDING INF/PERF      C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY*
+     * NON-IONIC LESS THAN 100CC                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with multi trauma                                               
+     REASON FOR THIS EXAMINATION:
+      s/p multi trauma w/ head bleed, LE fracture - need IVC filter                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 72-year-old man with multiple trauma, immobilization, head bleed and
+     left lower extremity fracture. The patient is here for IVC filter placement.
+     
+     RADIOLOGISTS: Dr. [**Last Name (STitle) 851**] and Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**]. Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**], the
+     attending radiologist, was present and supervising throughout the procedure.
+     
+     PROCEDURE/FINDINGS: As the patient was intubated and sedated, informed consent
+     was obtained from the patient's wife. The procedure was explained and the
+     risks and benefits were discussed with the patient's wife. The patient was
+     brought to the angiography suite and placed supine on the angiography table
+     and his right groin was prepped and draped in the usual sterile fashion.
+     Through an anaesthetised  skin approach and using anatomical landmarks and
+     fluoroscopic guidance, a 19-gauge single-wall puncture needle was used to
+     access the right common femoral vein. An 0.035 [**Last Name (un) 223**] guide wire was then
+     advanced through the distal inferior vena cava (IVC).
+     As there was a prior CT done demonstrating a patent inferior vena cava without
+     any evidence of duplication or thrombi, the decision was made to perform an
+     inferior vena cavogram with the tip in the right common iliac vein. A 9-French
+     sheath was then advanced over the [**Last Name (un) 223**] guide wire with the tip placed in
+     the right common iliac vein. The inner dilator and the wire were removed and
+     an inferior vena cavogram was performed demonstrating no evidence of any
+     thrombi. There is no evidence of any duplications. The location of the renal
+     veins was identified.
+     This was followed by advancement of the Venatech LGM filter under fluoroscopy.
+     It was deployed just inferior to the right renal vein. An IVC venogram was
+     obtained following placement, documenting the tip to be in optimal position
+     and absence of tilting.
+     The catheter and the sheath were removed. Pressure was then applied over the
+     right groin and hemostasis was achieved.
+     
+     ANESTHESIA/MEDICATIONS: Local anesthesia with 1% Lidocaine. 45 cc of Optiray
+     320 contrast was used intravenously.
+     
+     COMPLICATIONS: None.
+                                                                 (Over)
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION: Successful placement of a Venatech LGM permanent IVC filter just
+     below the renal vein via the right common femoral vein.
+
+",,
+8907,7627,11073,,2501-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 75825 IVC GRAM                       C1880 VENA CAVA FILTER              *
+     * C1887 CATHETER GUIDING INF/PERF      C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY*
+     * NON-IONIC LESS THAN 100CC                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with multi trauma                                               
+     REASON FOR THIS EXAMINATION:
+      s/p multi trauma w/ head bleed, LE fracture - need IVC filter                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 72-year-old man with multiple trauma, immobilization, head bleed and
+     left lower extremity fracture. The patient is here for IVC filter placement.
+     
+     RADIOLOGISTS: Dr. [**Last Name (STitle) 851**] and Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**]. Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**], the
+     attending radiologist, was present and supervising throughout the procedure.
+     
+     PROCEDURE/FINDINGS: As the patient was intubated and sedated, informed consent
+     was obtained from the patient's wife. The procedure was explained and the
+     risks and benefits were discussed with the patient's wife. The patient was
+     brought to the angiography suite and placed supine on the angiography table
+     and his right groin was prepped and draped in the usual sterile fashion.
+     Through an anaesthetised  skin approach and using anatomical landmarks and
+     fluoroscopic guidance, a 19-gauge single-wall puncture needle was used to
+     access the right common femoral vein. An 0.035 [**Last Name (un) 223**] guide wire was then
+     advanced through the distal inferior vena cava (IVC).
+     As there was a prior CT done demonstrating a patent inferior vena cava without
+     any evidence of duplication or thrombi, the decision was made to perform an
+     inferior vena cavogram with the tip in the right common iliac vein. A 9-French
+     sheath was then advanced over the [**Last Name (un) 223**] guide wire with the tip placed in
+     the right common iliac vein. The inner dilator and the wire were removed and
+     an inferior vena cavogram was performed demonstrating no evidence of any
+     thrombi. There is no evidence of any duplications. The location of the renal
+     veins was identified.
+     This was followed by advancement of the Venatech LGM filter under fluoroscopy.
+     It was deployed just inferior to the right renal vein. An IVC venogram was
+     obtained following placement, documenting the tip to be in optimal position
+     and absence of tilting.
+     The catheter and the sheath were removed. Pressure was then applied over the
+     right groin and hemostasis was achieved.
+     
+     ANESTHESIA/MEDICATIONS: Local anesthesia with 1% Lidocaine. 45 cc of Optiray
+     320 contrast was used intravenously.
+     
+     COMPLICATIONS: None.
+                                                                 (Over)
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION: Successful placement of a Venatech LGM permanent IVC filter just
+     below the renal vein via the right common femoral vein.
+
+",,
+8907,7627,11073,,2501-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 75825 IVC GRAM                       C1880 VENA CAVA FILTER              *
+     * C1887 CATHETER GUIDING INF/PERF      C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY*
+     * NON-IONIC LESS THAN 100CC                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with multi trauma                                               
+     REASON FOR THIS EXAMINATION:
+      s/p multi trauma w/ head bleed, LE fracture - need IVC filter                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 72-year-old man with multiple trauma, immobilization, head bleed and
+     left lower extremity fracture. The patient is here for IVC filter placement.
+     
+     RADIOLOGISTS: Dr. [**Last Name (STitle) 851**] and Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**]. Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**], the
+     attending radiologist, was present and supervising throughout the procedure.
+     
+     PROCEDURE/FINDINGS: As the patient was intubated and sedated, informed consent
+     was obtained from the patient's wife. The procedure was explained and the
+     risks and benefits were discussed with the patient's wife. The patient was
+     brought to the angiography suite and placed supine on the angiography table
+     and his right groin was prepped and draped in the usual sterile fashion.
+     Through an anaesthetised  skin approach and using anatomical landmarks and
+     fluoroscopic guidance, a 19-gauge single-wall puncture needle was used to
+     access the right common femoral vein. An 0.035 [**Last Name (un) 223**] guide wire was then
+     advanced through the distal inferior vena cava (IVC).
+     As there was a prior CT done demonstrating a patent inferior vena cava without
+     any evidence of duplication or thrombi, the decision was made to perform an
+     inferior vena cavogram with the tip in the right common iliac vein. A 9-French
+     sheath was then advanced over the [**Last Name (un) 223**] guide wire with the tip placed in
+     the right common iliac vein. The inner dilator and the wire were removed and
+     an inferior vena cavogram was performed demonstrating no evidence of any
+     thrombi. There is no evidence of any duplications. The location of the renal
+     veins was identified.
+     This was followed by advancement of the Venatech LGM filter under fluoroscopy.
+     It was deployed just inferior to the right renal vein. An IVC venogram was
+     obtained following placement, documenting the tip to be in optimal position
+     and absence of tilting.
+     The catheter and the sheath were removed. Pressure was then applied over the
+     right groin and hemostasis was achieved.
+     
+     ANESTHESIA/MEDICATIONS: Local anesthesia with 1% Lidocaine. 45 cc of Optiray
+     320 contrast was used intravenously.
+     
+     COMPLICATIONS: None.
+                                                                 (Over)
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION: Successful placement of a Venatech LGM permanent IVC filter just
+     below the renal vein via the right common femoral vein.
+
+",,
+8907,7627,11073,,2501-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 75825 IVC GRAM                       C1880 VENA CAVA FILTER              *
+     * C1887 CATHETER GUIDING INF/PERF      C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY*
+     * NON-IONIC LESS THAN 100CC                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with multi trauma                                               
+     REASON FOR THIS EXAMINATION:
+      s/p multi trauma w/ head bleed, LE fracture - need IVC filter                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 72-year-old man with multiple trauma, immobilization, head bleed and
+     left lower extremity fracture. The patient is here for IVC filter placement.
+     
+     RADIOLOGISTS: Dr. [**Last Name (STitle) 851**] and Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**]. Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**], the
+     attending radiologist, was present and supervising throughout the procedure.
+     
+     PROCEDURE/FINDINGS: As the patient was intubated and sedated, informed consent
+     was obtained from the patient's wife. The procedure was explained and the
+     risks and benefits were discussed with the patient's wife. The patient was
+     brought to the angiography suite and placed supine on the angiography table
+     and his right groin was prepped and draped in the usual sterile fashion.
+     Through an anaesthetised  skin approach and using anatomical landmarks and
+     fluoroscopic guidance, a 19-gauge single-wall puncture needle was used to
+     access the right common femoral vein. An 0.035 [**Last Name (un) 223**] guide wire was then
+     advanced through the distal inferior vena cava (IVC).
+     As there was a prior CT done demonstrating a patent inferior vena cava without
+     any evidence of duplication or thrombi, the decision was made to perform an
+     inferior vena cavogram with the tip in the right common iliac vein. A 9-French
+     sheath was then advanced over the [**Last Name (un) 223**] guide wire with the tip placed in
+     the right common iliac vein. The inner dilator and the wire were removed and
+     an inferior vena cavogram was performed demonstrating no evidence of any
+     thrombi. There is no evidence of any duplications. The location of the renal
+     veins was identified.
+     This was followed by advancement of the Venatech LGM filter under fluoroscopy.
+     It was deployed just inferior to the right renal vein. An IVC venogram was
+     obtained following placement, documenting the tip to be in optimal position
+     and absence of tilting.
+     The catheter and the sheath were removed. Pressure was then applied over the
+     right groin and hemostasis was achieved.
+     
+     ANESTHESIA/MEDICATIONS: Local anesthesia with 1% Lidocaine. 45 cc of Optiray
+     320 contrast was used intravenously.
+     
+     COMPLICATIONS: None.
+                                                                 (Over)
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION: Successful placement of a Venatech LGM permanent IVC filter just
+     below the renal vein via the right common femoral vein.
+
+",,
+8907,7627,11073,,2501-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 75825 IVC GRAM                       C1880 VENA CAVA FILTER              *
+     * C1887 CATHETER GUIDING INF/PERF      C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY*
+     * NON-IONIC LESS THAN 100CC                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with multi trauma                                               
+     REASON FOR THIS EXAMINATION:
+      s/p multi trauma w/ head bleed, LE fracture - need IVC filter                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 72-year-old man with multiple trauma, immobilization, head bleed and
+     left lower extremity fracture. The patient is here for IVC filter placement.
+     
+     RADIOLOGISTS: Dr. [**Last Name (STitle) 851**] and Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**]. Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**], the
+     attending radiologist, was present and supervising throughout the procedure.
+     
+     PROCEDURE/FINDINGS: As the patient was intubated and sedated, informed consent
+     was obtained from the patient's wife. The procedure was explained and the
+     risks and benefits were discussed with the patient's wife. The patient was
+     brought to the angiography suite and placed supine on the angiography table
+     and his right groin was prepped and draped in the usual sterile fashion.
+     Through an anaesthetised  skin approach and using anatomical landmarks and
+     fluoroscopic guidance, a 19-gauge single-wall puncture needle was used to
+     access the right common femoral vein. An 0.035 [**Last Name (un) 223**] guide wire was then
+     advanced through the distal inferior vena cava (IVC).
+     As there was a prior CT done demonstrating a patent inferior vena cava without
+     any evidence of duplication or thrombi, the decision was made to perform an
+     inferior vena cavogram with the tip in the right common iliac vein. A 9-French
+     sheath was then advanced over the [**Last Name (un) 223**] guide wire with the tip placed in
+     the right common iliac vein. The inner dilator and the wire were removed and
+     an inferior vena cavogram was performed demonstrating no evidence of any
+     thrombi. There is no evidence of any duplications. The location of the renal
+     veins was identified.
+     This was followed by advancement of the Venatech LGM filter under fluoroscopy.
+     It was deployed just inferior to the right renal vein. An IVC venogram was
+     obtained following placement, documenting the tip to be in optimal position
+     and absence of tilting.
+     The catheter and the sheath were removed. Pressure was then applied over the
+     right groin and hemostasis was achieved.
+     
+     ANESTHESIA/MEDICATIONS: Local anesthesia with 1% Lidocaine. 45 cc of Optiray
+     320 contrast was used intravenously.
+     
+     COMPLICATIONS: None.
+                                                                 (Over)
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION: Successful placement of a Venatech LGM permanent IVC filter just
+     below the renal vein via the right common femoral vein.
+
+",,
+8907,7627,11073,,2501-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 75825 IVC GRAM                       C1880 VENA CAVA FILTER              *
+     * C1887 CATHETER GUIDING INF/PERF      C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY*
+     * NON-IONIC LESS THAN 100CC                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with multi trauma                                               
+     REASON FOR THIS EXAMINATION:
+      s/p multi trauma w/ head bleed, LE fracture - need IVC filter                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 72-year-old man with multiple trauma, immobilization, head bleed and
+     left lower extremity fracture. The patient is here for IVC filter placement.
+     
+     RADIOLOGISTS: Dr. [**Last Name (STitle) 851**] and Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**]. Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**], the
+     attending radiologist, was present and supervising throughout the procedure.
+     
+     PROCEDURE/FINDINGS: As the patient was intubated and sedated, informed consent
+     was obtained from the patient's wife. The procedure was explained and the
+     risks and benefits were discussed with the patient's wife. The patient was
+     brought to the angiography suite and placed supine on the angiography table
+     and his right groin was prepped and draped in the usual sterile fashion.
+     Through an anaesthetised  skin approach and using anatomical landmarks and
+     fluoroscopic guidance, a 19-gauge single-wall puncture needle was used to
+     access the right common femoral vein. An 0.035 [**Last Name (un) 223**] guide wire was then
+     advanced through the distal inferior vena cava (IVC).
+     As there was a prior CT done demonstrating a patent inferior vena cava without
+     any evidence of duplication or thrombi, the decision was made to perform an
+     inferior vena cavogram with the tip in the right common iliac vein. A 9-French
+     sheath was then advanced over the [**Last Name (un) 223**] guide wire with the tip placed in
+     the right common iliac vein. The inner dilator and the wire were removed and
+     an inferior vena cavogram was performed demonstrating no evidence of any
+     thrombi. There is no evidence of any duplications. The location of the renal
+     veins was identified.
+     This was followed by advancement of the Venatech LGM filter under fluoroscopy.
+     It was deployed just inferior to the right renal vein. An IVC venogram was
+     obtained following placement, documenting the tip to be in optimal position
+     and absence of tilting.
+     The catheter and the sheath were removed. Pressure was then applied over the
+     right groin and hemostasis was achieved.
+     
+     ANESTHESIA/MEDICATIONS: Local anesthesia with 1% Lidocaine. 45 cc of Optiray
+     320 contrast was used intravenously.
+     
+     COMPLICATIONS: None.
+                                                                 (Over)
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION: Successful placement of a Venatech LGM permanent IVC filter just
+     below the renal vein via the right common femoral vein.
+
+",,
+8907,7627,11073,,2501-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 75825 IVC GRAM                       C1880 VENA CAVA FILTER              *
+     * C1887 CATHETER GUIDING INF/PERF      C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY*
+     * NON-IONIC LESS THAN 100CC                                                *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with multi trauma                                               
+     REASON FOR THIS EXAMINATION:
+      s/p multi trauma w/ head bleed, LE fracture - need IVC filter                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 72-year-old man with multiple trauma, immobilization, head bleed and
+     left lower extremity fracture. The patient is here for IVC filter placement.
+     
+     RADIOLOGISTS: Dr. [**Last Name (STitle) 851**] and Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**]. Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**], the
+     attending radiologist, was present and supervising throughout the procedure.
+     
+     PROCEDURE/FINDINGS: As the patient was intubated and sedated, informed consent
+     was obtained from the patient's wife. The procedure was explained and the
+     risks and benefits were discussed with the patient's wife. The patient was
+     brought to the angiography suite and placed supine on the angiography table
+     and his right groin was prepped and draped in the usual sterile fashion.
+     Through an anaesthetised  skin approach and using anatomical landmarks and
+     fluoroscopic guidance, a 19-gauge single-wall puncture needle was used to
+     access the right common femoral vein. An 0.035 [**Last Name (un) 223**] guide wire was then
+     advanced through the distal inferior vena cava (IVC).
+     As there was a prior CT done demonstrating a patent inferior vena cava without
+     any evidence of duplication or thrombi, the decision was made to perform an
+     inferior vena cavogram with the tip in the right common iliac vein. A 9-French
+     sheath was then advanced over the [**Last Name (un) 223**] guide wire with the tip placed in
+     the right common iliac vein. The inner dilator and the wire were removed and
+     an inferior vena cavogram was performed demonstrating no evidence of any
+     thrombi. There is no evidence of any duplications. The location of the renal
+     veins was identified.
+     This was followed by advancement of the Venatech LGM filter under fluoroscopy.
+     It was deployed just inferior to the right renal vein. An IVC venogram was
+     obtained following placement, documenting the tip to be in optimal position
+     and absence of tilting.
+     The catheter and the sheath were removed. Pressure was then applied over the
+     right groin and hemostasis was achieved.
+     
+     ANESTHESIA/MEDICATIONS: Local anesthesia with 1% Lidocaine. 45 cc of Optiray
+     320 contrast was used intravenously.
+     
+     COMPLICATIONS: None.
+                                                                 (Over)
+
+     DATE: [**2501-11-23**] 1:50 PM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11616**]
+     Reason: s/p multi trauma w/ head bleed, LE fracture - need IVC filte
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+      Contrast: OPTIRAY Amt: 45
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION: Successful placement of a Venatech LGM permanent IVC filter just
+     below the renal vein via the right common femoral vein.
+
+",,
+8907,7627,11073,,2501-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-23**] 10:20 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11614**]
+     Reason: s/p crani for depressed skull fx; PLEASE DO FINE CUTS THROUG
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       71 year old man struck by car                                                  
+     REASON FOR THIS EXAMINATION:
+      s/p crani for depressed skull fx; PLEASE DO FINE CUTS THROUGH TEMPORAL BONE     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Depressed skull fracture and skull base fracture in pedestrian
+     struck by car.
+     
+     TECHNIQUE:  Non-contrast CT scans of the brain were obtained.
+     
+     High-resolution axial non-contrast CT scans were obtained through the skull
+     base.  Coronal reformatted images are provided.
+     
+     Comparison is made to the previous CT scan of [**2501-11-22**].
+     
+     FINDINGS:
+     
+     CT SCAN OF THE BRAIN:
+     
+     The left parietal depressed skull fracture has been repaired and there is
+     anatomic alignment of the fragments.  As previously noted, there is a fracture
+     through the left temporal bone which extends across the floor of the middle
+     cranial fossa.  There is also a left occipital bone fracture.  There is a
+     nondisplaced fracture of the left zygomatic arch.  Further evaluation of the
+     skull base is reported with the skull base study.
+     
+     There are contusions of the left parietal and occipital lobes as well as both
+     temporal lobes and the right frontal lobe.  Extensive subarachnoid hemorrhage
+     and also small subdural hemorrhages are identified and unchanged since the
+     previous study.
+     
+     A right frontal ventricular drainage catheter has been placed and extends
+     across the body of the right lateral ventricle.  The ventricles are normal in
+     size and configuration.  There is no shift of normally midline structures at
+     this time.  Basal cisternal spaces are well visualized.
+     
+     There is evidence of blood in the paranasal sinuses.  There is right orbital
+     air.
+     
+     Scans through the base of the skull also demonstrate a fracture across the
+     left temporal bone that courses through the epitympanic cavity.  The ossicles
+     appear aligned, although the resolution of this examination is limited since
+     coronal images are reconstructed.  There is no clear evidence of fracture
+     involving the facial nerve canal.  The semi-circular canals, vestibule and
+     cochlea are intact.  The fracture line appears to extend into the osseous
+     portion of the left external auditory canal, which is opacified.
+                                                                 (Over)
+
+     DATE: [**2501-11-23**] 10:20 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11614**]
+     Reason: s/p crani for depressed skull fx; PLEASE DO FINE CUTS THROUG
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Although there is opacification of the sphenoid sinus, no definite fracture
+     across the sinus is identified.  The clivus is intact.  There is probably a
+     fracture involving the greater [**Doctor First Name 2055**] of the sphenoid on the left.  There
+     appears to be a fracture line through the posterior left maxillary sinus.  The
+     anterior clinoids are intact.
+     
+     IMPRESSION:
+     1.  Postsurgical anatomic alignment of the left parietal fracture fragments
+     was achieved.  There is hemorrhage in the underlying brain.  The overall
+     appearance of the brain is stable since the previous study.  The ventricles
+     are not dilated.
+     2.  There is fracture of the skull base, primarily involving the temporal
+     bone.
+
+",,
+8907,7627,11073,,2501-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-23**] 9:37 AM
+     KNEE (2 VIEWS) BILAT; ANKLE 1 VIEW BILAT                        Clip # [**Clip Number (Radiology) 11613**]
+     Reason: Just lateral views.  Please perform when the pt is in radiol
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man s/p [**Hospital Unit Name 309**] struck                                                  
+     REASON FOR THIS EXAMINATION:
+      Just lateral views.  Please perform when the pt is in radiology for head CT.    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pedestrian struck.
+     
+     RIGHT KNEE, SINGLE LATERAL VIEW.  LEFT KNEE, SINGLE LATERAL VIEW.
+     
+     On the right, there is a small joint effusion.  There is an irregular
+     mineralization within the proximal tibia, of uncertain significance.  If the
+     right knee is symptomatic, then AP and oblique views centered on the knee
+     could help for further assessment.
+     
+     On the left, possible tiny effusion. Surrounding edema.  Fractures of the
+     proximal tibial and fibular diaphyses noted.  No fracture or displacement
+     about the left knee on this single lateral view.
+     
+     RIGHT ANKLE, SINGLE LATERAL VIEW.  Tube and other materials overlying the
+     distal tibia and ankle bones.  No obvious fracture on this single lateral
+     view.
+     
+     LEFT ANKLE, SINGLE LATERAL VIEW.  Overlying splint.  Non-displaced fracture on
+     this single lateral view.
+     
+     IMPRESSION:  Lateral-only views of the right and left knees and right and left
+     ankles.  Irregular mineralization noted in the proximal right tibia.  If the
+     patient has persistent symptoms in this region, then dedicated AP and oblique
+     views could help for further assessment.  Of note, the AP view obtained one
+     day earlier of right knee is unremarkable.
+
+",,
+8907,7627,11073,,2501-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-23**] 9:37 AM
+     KNEE (2 VIEWS) BILAT; ANKLE 1 VIEW BILAT                        Clip # [**Clip Number (Radiology) 11613**]
+     Reason: Just lateral views.  Please perform when the pt is in radiol
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man s/p [**Hospital Unit Name 309**] struck                                                  
+     REASON FOR THIS EXAMINATION:
+      Just lateral views.  Please perform when the pt is in radiology for head CT.    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pedestrian struck.
+     
+     RIGHT KNEE, SINGLE LATERAL VIEW.  LEFT KNEE, SINGLE LATERAL VIEW.
+     
+     On the right, there is a small joint effusion.  There is an irregular
+     mineralization within the proximal tibia, of uncertain significance.  If the
+     right knee is symptomatic, then AP and oblique views centered on the knee
+     could help for further assessment.
+     
+     On the left, possible tiny effusion. Surrounding edema.  Fractures of the
+     proximal tibial and fibular diaphyses noted.  No fracture or displacement
+     about the left knee on this single lateral view.
+     
+     RIGHT ANKLE, SINGLE LATERAL VIEW.  Tube and other materials overlying the
+     distal tibia and ankle bones.  No obvious fracture on this single lateral
+     view.
+     
+     LEFT ANKLE, SINGLE LATERAL VIEW.  Overlying splint.  Non-displaced fracture on
+     this single lateral view.
+     
+     IMPRESSION:  Lateral-only views of the right and left knees and right and left
+     ankles.  Irregular mineralization noted in the proximal right tibia.  If the
+     patient has persistent symptoms in this region, then dedicated AP and oblique
+     views could help for further assessment.  Of note, the AP view obtained one
+     day earlier of right knee is unremarkable.
+
+",,
+8907,7627,11073,,2501-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-23**] 9:37 AM
+     T-SPINE; L-SPINE (AP & LAT)                                     Clip # [**Clip Number (Radiology) 11612**]
+     Reason: Eval fx. Please perform when the pt is in radiology for head
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man s/p [**Hospital Unit Name 309**] struck                                                  
+     REASON FOR THIS EXAMINATION:
+      Eval fx. Please perform when the pt is in radiology for head CT.                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     THORACIC & LUMBAR SPINE 4 VIEWS:
+     
+     HISTORY: Trauma.
+     
+     THORACIC SPINE 2 VIEWS AP & LATERAL:
+     
+     In the lateral view, the posterior portions of the vertebral bodies and the
+     posterior elements in the mid and lower thoracic spine are not included on the
+     film. No definite fractures are identified on the available film.
+     
+     LUMBAR SPINE 2 VIEWS AP & LATERAL:
+     
+     No fracture. There is narrowing of the L5/S1 disc. Alignment is normal. No
+     evidence for spondylolisthesis. No osteolytic or blastic bone lesions. SI
+     joints are unremarkable. S/P total right hip replacement. Illdefined
+     radiodensities overlie the left mid abdomen probably some retained contrast in
+     the collecting system of the left kidney from prior CT scan.
+
+",,
+8907,7627,11073,,2501-11-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-23**] 12:36 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11615**]
+     Reason: eval for right SCL placement and OG placement               
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old man STRUCK BY CAR                                                  
+       
+     REASON FOR THIS EXAMINATION:
+      eval for right SCL placement and OG placement                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     History of trauma with CV line and orogastric tube placement.
+     
+     Endotracheal tube is 2.7 cm above the carina.  The right subclavian CV line is
+     in the mid-SVC.  NG tube is in the stomach with the distal end not included on
+     the film.  No pneumothorax.  There are low lung volumes.  Allowing for this,
+     the heart size is within normal limits. No change in the appearance of the
+     aorta since prior film of [**2501-11-22**].  Linear atelectasis present at
+     the left base.
+     
+     IMPRESSION:  No pneumothorax.  Basilar atelectasis.  No change in appearance
+     of aorta since the prior film of [**2501-11-22**].
+
+",,
+8907,7627,11073,0,2501-11-23 04:24:00 EST,2501-11-23 04:30:00 EST,3561,"N",53,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings. Admitted S/P trauma. See admission note for details. Intubated in thr field. #8.5 ETT 26@ lip. See vent flow sheet for further settings and ABG'S.Temp 101.6. Sedated with propofol althought breathing over vent. On nipride. Brain drain in place.No RSBI done as yet. Will cont to monitor resp status for further weaning.
+ 
+",,
+8907,7627,11073,0,2501-11-23 05:40:00 EST,2501-11-23 06:03:00 EST,4176,"N",53,"Nursing/Other",,"
+
+Nursing Admit Note (2200-0700):
+
+Pt is a 72 yo male pedestrain struck by a car, pt was noted to have a GCS=5 at the scene and was intubated by EMS.  Injuries found to be a Left parietal depressed skull fx c epidural and SAH +pneumocephalus, L tib/fib fx, L elbow deep laceration.  En route to OR from CT scan, pt hypotensive c SBP=50s and pt received 1 amp epinephrine c resolution of BP.  On OR, pt underwent a crainiotomy c evacuation of hematoma, elevation of depressed skull fx, dural repair, placement of ventriculostomy, and L elbow laceration I&D, repair of tricep tendon and closure of wound.  Pt transferred to T/sicu for further management.
+
+PMH: R THR requiring multiple repairs
+
+Allergies: PCN; percocet
+
+Meds on Admit: None
+
+Review of Systems:
+
+Neuro:  Sedated on IV propofol. When propofol off, pt moves left side, attempts fo tmove arm, leg and head. Does not move R side. Does not follow commands or open eyes. PERRL.  Ventroculostomy 15 cm above the tragus draining bld tinged CSF. ICP=[**9-14**]. CPP=60s. +cough, absent gag and corneals. IV dilantin load given and continue q 8 hours. Logroll and C spine precautions in place.
+
+Cv: Hr=80-110s, ST, no ectopy. SBP=100-140, goal SBP<140 and titrated nipride as needed to maintain goal SBP. Color pink, skin warm and dry. LLE dopplerable pt/dp.  Troponin slightly elevated, consider ruling out. Easily palapable RLE pulses. Venodyne on R leg.
+
+Resp: LS dm at bases. A/c 14x600 and pt tol well with good ABGs, SaO2-98-100% on 40% fio2. Suctioned for thick rusty/bloody secretions. +cough.
+
+GI: ABd soft, absent BS. NPO. OGT to LWS. No BM. IV pepcid continue.
+
+GU: Indwelling foley intact and drinaining clear yellow urine, sufficient UO and lytes repleted.
+
+Heme: Hct down to 26 and pt received 1 PRBC with repeat=30. 
+
+ID: Tmax=101.9po. PR tylenol started. IV levaquin, vancomycin, and flagyl started.
+
+Endo: BG elevated, received 5u regular insulin x2. Continue to watch and consider insulin gtt.
+
+Skin: Skin warm and dry, pt turned and repositioned and skin care provided.
+
+SOC: Pt's has wife and 3 children.  Pt's wife, [**Location (un) 3796**] and son in law in to visit. Questions answered, update provided and emotional support provided.
+
+Plan: Continue support. Plan for head CT and radiology films of LLE.  Plan for OR for L fib/fib fx.
+",,
+8907,7627,11073,0,2501-11-23 17:03:00 EST,2501-11-23 17:05:00 EST,3568,"N",53,"Nursing/Other",,"
+
+Resp. Care Note
+Pt remains intubated and vented on settings as per resp. flowsheet, no vent changes made so far this shift. Pt transported to x-ray for films, CT scan and later to IR for filter placement without incident. Stable on present settings, cont vent support.
+",,
+8907,7627,11073,0,2501-11-23 18:31:00 EST,2501-11-23 18:52:00 EST,3338,"N",53,"Nursing/Other","t/sicu nursing note 7a-7p","
+t/sicu nursing note 7a-7p
+review of systems
+
+neuro: pt sedated on propofol. when lightened he doesn't open eyes. impaired to absent corneals. no gag. +cough. pearl. withdraws to pain with all extremeties R>L. vent drain at 15cm above tragus draining bloody drainage. icp 9-13. head ct done. conts on iv dilantin. craniotomy incision with dsg intact. 
+
+cv: hr 80-90sr no ectopy. sbp 110-150. goal to keep sbp 120-140 per ortho and neuro. nipride changed to nicardipine gtt per dr.[**Last Name (STitle) 314**]. dopplerable pulses on left. palpable pulses on r and bilat radial pulses palpable. hands and feet cool to touch. trauma line rewired to quad lumen. cvp 7-10. conts on lopressor q4. 
+
+resp: l/s coarse in upper lobes and diminished at bases. conts on a/c with adequate abg. sx for thick tan sputum with effect. cxr done and ok.
+
+gi: abd softly distended with +bs. ogt in stomach confirmed by cxr. tubefeeds started at 615pm at 10cc/hr. no stool or flatus noted. 
+
+gu: u/o adequate. ns at 80cc/hr. lytes repleted.
+
+heme: hct stable. inr intact.
+
+endo: bs elevated 190's insulin gtt started and titrated to keep bs<120.
+
+id: afebrile. flagyl, levofloxin, and vancomycin. wbc flat.
+
+skin: no changes.
+
+social: wife into visit this afternoon. updated on status by this rn. 
+
+plan: cont to monitor.
+
+
+",,
+8907,7627,11073,,2501-11-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-24**] 10:13 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11617**]
+     Reason: eval for progression of bleed                               
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with depressed skull fx, SAH, EDH s/p evacuation                
+     REASON FOR THIS EXAMINATION:
+      eval for progression of bleed                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Depressed skull fracture, subarachnoid hemorrhage. Status post
+     evacuation.
+     
+     Comparison is made to prior exam [**2501-11-23**].
+     
+     TECHNIQUE: Noncontrast CT of the head was performed.
+     
+     FINDINGS:  Hemorrhage within the subarachnoid space, subdural spaces, and
+     previously noted intraparenchymal foci are unchanged from previous exam.
+     However, there is an increased amount of adjacent edema in the areas of
+     previously noted contusion within the right frontal, left parietal and
+     occipital as well as both temporal lobes.  The ventricular size is stable and
+     basal cisterns are free. A right frontal drainage catheter is again seen with
+     tip in body of the right lateral ventricle.  There is no shift of normally
+     midline structures.  Allowing for the posiiton of the head, a similar amount
+     of blood is seen within the posterior horns of the lateral ventricles.
+     
+     There is a stable appearance to the repair of a depressed left parietal bone
+     fracture.  Fractures of the left zygoma and left temporal bone are again
+     noted.  Blood and fluid within the paranasal sinuses related to the trauma and
+     to intubated status is again noted.  Minimal amount of right intra orbital
+     emphysema remains.
+     
+     IMPRESSION:
+     
+     1) Overall similar appearance to the amount of hemorrhage seen within the
+     subarachnoid and subdural spaces, as well as within areas of contusion.
+     However, increased edema in areas of contusion within the temporal lobes, left
+     parietal and left occipital lobe, and right frontal lobe has increased.
+     2) Stable size of the ventricles with no shift of normally midline structures.
+
+",,
+8907,7627,11073,0,2501-11-24 01:54:00 EST,2501-11-24 02:16:00 EST,4324,"N",53,"Nursing/Other","s/p pedestrian struck; t/sicu note 7p-7a","
+s/p pedestrian struck; t/sicu note 7p-7a
+s: pt remains intubated
+
+o: REVIEW OF SYSTEMS
+
+NEURO
+
+PT SEDATED ON IV PROPOFOL 40-->60MCG/KG/MIN. PROPOFOL OFF Q 1/HR; PT MOVING EXTREMITIES ON BED. WITHDRAWS TO NOX STIMULI BILATERAL UE/LE'S. PERRLA 3MM AND BRISKLY REACTIVE BILATERALLY. VENT DRAIN 15CM ^^ TRAGUS DRAINING 40-50CC/ BLOOD-TINGED CSF Q 4/HR. ICP 10-11. CPP 60-74. + COUGH; ABSENT GAG AND CORNEALS. IV DILANTIN. LOGROLL AND C-SPINE PRECAUTIONS MAINTAINED. FENTANYL 100MCG GIVEN/CHANGE IN VITALS.
+
+CV
+
+HR 80-->90'S, NSR-->ST, NO ECTOPY. SBP 100-->150'S, GOAL SBP < 140. TITRATE NICARDIPINE AS NEEDED TO MAINTAIN GOAL SBP. NICARDIPINIE 0.25-->0.5. LOPRESSOR Q 6/HR.. COLOR PINK, SKIN COOL AND DRY. LLE DOPPERABLE DP/ PT UNABLE TO ASSESS.  2+ RADIALS PULSES PRESENT. EASILY PALPABLE RLE PULSES. VENODYNE O R LEG.
+
+RESP
+
+LS COARSE IN UPPER LOBES, AND DIMINSHED AT THE BASES. AC CHANGED TO SIMV 12 X 600, 5 PS, FIO2 @ 40%. SEE CAREVIEW FOR ABG RESULTS. SAO2 98--100%; SXN X 1 FOR THK/RUSTY BLOODY SECRETIONS. +COUGH
+
+GI
+
+ABD SOFT, ABSENT BS. TF AT 20/HR ADVANCE SLOWLY TO GOAL RATE 80/PER PT TOLERATING. OGT TO LWS. NO BM. IV PEPCID CONTINUED.
+
+GU
+
+INDWELLING FOLEY INTACT AND DRAINING CLOUDY YELLOW URINE; SUFFICIENT U/O; LYTES REPLETED.
+
+HEME
+
+HCT NORMALIZED. AM LABS PENDING
+
+ID
+
+TMAX 99.7. IV VANCO; LEVO AND FLAGYL D/C'D.  VANCO TROUGH SENT.
+
+ENDO
+
+INSULIN GTT @ 2.5. BS WNL'S 70-120
+
+SKIN
+
+SKIN COOL TO TOUCH ON LUE. SKIN W&D. T&R Q 4/HR; FULL LIFT. CRANI SITE W SCANT AMT OF BLOOD, COVERED W DSD.  ANGIO SITE W/ ECCHYMOSIS; SCANT AMT OF BLOOD STAINED ON DSG; NO HEMATOMA NOTED. ACE WRAP TO L ELBOW. COMPARTMENT PRESSURES WNL'S.
+
+SOC
+
+NO FAMILY CONTACT.
+
+ASSESS
+
+ALTERATION IN NEURO STATUS R/T PEDESTRIAN STRUCK
+
+PLAN: ASSESS VS. MONITOR NV CHECKS OF ETREMITIES. ABX/ORDER. VENT/ORDER. MONITOR I&O. MONITOR TEMP CURVE. F/U W/ CT/TLS FILMS TO CLEAR LOGROLL AND C-SPINE.
+",,
+8907,7627,11073,0,2501-11-24 04:44:00 EST,2501-11-24 04:49:00 EST,3561,"N",53,"Nursing/Other",,"
+
+Resp Care Note,Pt placed on CPAP 10/5 With good VT'S and RR.ABG pending.RSBI done 28. Temp 99.5 remains on propofol. Will cont to monitor RR for further weaning. 
+",,
+8907,7627,11073,0,2501-11-24 18:30:00 EST,2501-11-24 19:14:00 EST,4205,"N",53,"Nursing/Other","TSICU NPN (0700-1900)","
+TSICU NPN (0700-1900)
+Review of Systems:
+
+Neuro----Remains sedated on Propofol 40-50mcg/kg/min. Occasional doses of fent 25mcg when BP elevated. Pupils 3-4mm bilaterally and briskly reactive. Does not open eyes. Does not follow commands.  Withdraws all extremites to nailbed stimuli(LUE only faint bicep flexion noted), when lightened.  Rare spontaneous movements of R sided extremities noted.  Occasionally, when lightened, tremors over entire body seen until resedated. Dilantin load given today along with sched doses.  EVD set at 15cm above tragus.  Adequate amts of bloody drg.  ICP's [**7-12**]. Strong cough, absent gag, and impaired corneals. CT scan this am showed increased swelling per NSU resident report.  Pt grossly fluid positive today. Lasix ordered at 1800 to help with diuresis. Remains on log roll and c-spine prec. Films done yesterday--addressed with ICU and trauma residents today, still have not been cleared. 
+
+CV---NSR with no ectopy noted.  HR 70-80's. Goal SBP <140. Initially this am, SBP markedly elevated 150-170's.  Nicardapine gtt up as high as 0.8mcg/kg/min. Sedation increased and pain meds given with good decr in BP.  Nicardapine currently at 0.2mcg/kg/min with BP 110-120's/60's.  CVP 9-15.  Extremities cool to touch. LLE with dopplerable DP pulse. LUE with palpable radial pulse.
+
+RESP---Remained on CPAP 5/10/40% for shift.  RR 12-24, TV's 500-600. O2 sats >97%. Adequate ABG's.  Lungs coarse to bilateral upper lobes with diminished bases.  Suctioning small amts of yellow to tannish secretions.  
+
+GI---Impact TF's via OGT--increasing to goal of 80cc/hr.  Residuals <15cc.  Abd softly distended with hypoactive BS.  Pepcid on board.
+
+GU---Foley to gravity with cloudy yellow urine. Urine output minimal towards end of shift. 500cc bolus x1 given with scant effect seen. Lasix given at 1830 in attempts at diuresis.  K++ repleted.
+
+ENDO---Insulin gtt with goal BS <120.  See care view for titration.
+
+HEME---1U PRBC transfused this am for HCT of 27. HCT at 1700 28.  Heparin sub q and pneumatic boots for DVT prevention.  
+
+ID---Tmax 98.9.  Vanco abx coverage.
+
+Skin---Acewrap/splin dsg to L elbow intact.  Dsg to posterior head c/d/i. JP drain with small amt of sang drg.  Backside with no breakdown noted.
+
+Social--Pt's wife and daughter in this evening. Updated on pt's condition and plan of care.  
+
+PLAN---Neuro checks Q1hr, CT scan in am, provide adequate sedation. Maintain SBP <140, BS <120.            
+",,
+8907,7627,11073,,2501-11-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-25**] 10:31 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11618**]
+     Reason: f/u bleed                                                   
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       72 year old man with depressed skull fx, SAH, EDH s/p evacuation               
+       
+     REASON FOR THIS EXAMINATION:
+      f/u bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Followup evacuation of epidural hemorrhage with a depressed
+     skull fracture.  
+     
+     CT BRAIN WITHOUT CONTRAST:
+     
+     TECHNIQUE:  Noncontrast head CT scan.
+     
+     FINDINGS:   Comparison with the prior study of 12/26 redemonstrates massive
+     bifrontal as well as left temporal contusions.  Considerable residual
+     subarachnoid and intraventricular hemorrhage is also redemonstrated. Both
+     studies show what is likely a minute acute right frontal subdural hemorrhage
+     adjacent to the contusion on that side.  An equally small, more chronic-
+     appearing subdural fluid collection is seen in an analogus locale on the left.
+     There has been no interval change in ventricular size.  The large left
+     parietal craniotomy incident to repair of the depressed skull fracture is
+     redemonstrated.
+     
+     IMPRESSION:   Basically stable, abnormal study as note above.
+     
+     COMMENT:  The multisinus secretions and hemorrhage noted previously is also
+     basically unaltered in appearance.
+     
+
+",,
+8907,7627,11073,,2501-11-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-25**] 10:31 AM
+     CT T-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 11619**]
+     Reason: eval for fx                                                 
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with inadequately visualized T-spine on plain films             
+     REASON FOR THIS EXAMINATION:
+      eval for fx                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     THORACIC SPINE:
+     
+     INDICATION:  Trauma.  Unable to clear thoracic spine on radiographs.
+     
+     TECHNIQUE:  Axial non-contrast CT scans were obtained from T1-T12.  Coronal
+     and sagittal reformatted images are provided.
+     
+     FINDINGS:
+     
+     Spinal alignment is normal.  There are no compression fractures observed.  The
+     spinal canal is not narrowed.  Axial images reveal no spine fractures, though
+     there is a fair amount of artifact across the images from the patient's
+     position and body habitus.
+     
+     There is pleural fluid and pulmonary atelectasis bilaterally.
+     
+     IMPRESSION:
+     
+     No thoracic spine fractures identified.
+
+",,
+8907,7627,11073,,2501-11-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-25**] 10:31 AM
+     CT T-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 11619**]
+     Reason: eval for fx                                                 
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with inadequately visualized T-spine on plain films             
+     REASON FOR THIS EXAMINATION:
+      eval for fx                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     THORACIC SPINE:
+     
+     INDICATION:  Trauma.  Unable to clear thoracic spine on radiographs.
+     
+     TECHNIQUE:  Axial non-contrast CT scans were obtained from T1-T12.  Coronal
+     and sagittal reformatted images are provided.
+     
+     FINDINGS:
+     
+     Spinal alignment is normal.  There are no compression fractures observed.  The
+     spinal canal is not narrowed.  Axial images reveal no spine fractures, though
+     there is a fair amount of artifact across the images from the patient's
+     position and body habitus.
+     
+     There is pleural fluid and pulmonary atelectasis bilaterally.
+     
+     IMPRESSION:
+     
+     No thoracic spine fractures identified.
+
+",,
+8907,7627,11073,1,2501-11-25 00:57:00 EST,2501-11-25 05:55:00 EST,4324,"Y",53,"Nursing/Other","s/p pedestrian struck; depressed skull fx","
+s/p pedestrian struck; depressed skull fx
+ADDENDUM
+
+U/O @ 20CC/HR(CORRECT NOTE ON GI).
+
+RESP: [**4-4**]; CPAP..TOLERATING FOR 2/HR'S. POST CT TODAY ? EXTUBATION. SPONT 20-22/MIN.
+
+
+",,
+8907,7627,11073,2,2501-11-25 00:57:00 EST,2501-11-25 05:55:00 EST,4324,"Y",53,"Nursing/Other","s/p pedestrian struck; depressed skull fx","
+s/p pedestrian struck; depressed skull fx
+ADDENDUM
+
+U/O @ 20CC/HR(CORRECT NOTE ON GI).
+
+RESP: [**4-4**]; CPAP..TOLERATING FOR 2/HR'S. POST CT TODAY ? EXTUBATION. SPONT 20-22/MIN.
+
+
+",,
+8907,7627,11073,0,2501-11-25 00:57:00 EST,2501-11-25 01:23:00 EST,4324,"N",53,"Nursing/Other","s/p pedestrian struck; depressed skull fx","
+s/p pedestrian struck; depressed skull fx
+s: remains intubated.
+
+REVIEW OF SYSTEMS
+
+NEURO
+
+REMAINS SEDATED ON PROPOFOL 40-->50MCG/KG/MIN. OCCAS DOSES OF FENTANYL 25MCG X 3/ PER SBP > 140.  PUPILS 3-4MM BRISKLY REACTIVE BILATERALLY.  DOES NOT OPEN EYES; NOT ABLE TO FOLLOW COMMANDS. W/D ALL EXTREM'S TO NOX. STIMULI. (LUE W/ SLIGHT BICEP FLEXION AND PECTORAL FLEXION) WHEN LIGHTENED. RARE SPONT MVMT'S OF RUE/RLE'S NOTED. OCCAS, WHEN LIGHTENED, TREMORS OVER ENTIRE BODY UNTIL RESEDATED. TEAM AWARE.  NO TONIC/CLONIC MVMT'S NOTED. DILANTIN LEVEL LOW YESTERDAY; LOADED. DILANTIN CONTINUES Q 8/ HR. EVD SET 15 ^^ TRAGUS; DRAINING 40-50 CC'S Q 4/HR'S OF BLOOD-TINGED CSF. ICP'S 8--12. SLT COUGH, ABSENT GAG, AND IMPAIRED CORNEALS. CT YESTERDAY W/ FURTHER SWELLING PER NSU RESIDENT. PT DIURESED OVERNIGHT OVER 1L AT 0100. WILL CONTINUE TO MONITOR. 2L POSITIVE YESTERDAY. LASIX 20MG X 1 W/ TOTAL OF 1200-1300 OVER 4 HOURS. LOGROLL AND C-SPINE PENDING TLS FILMS.  ADDENDUM---REPEAT CT HEAD AND C-SPINE IN AM/PER TEAM. 
+
+CV
+
+NSR W/ NO ECTOPY NOTED. HR 70-80'S. GOAL SBP < 140. SBP 110-->140. NICARDIPINE @ 0.2MCG/KG/MIN. SEDATION AND PAIN MEDS. LOPRESSOR 5MG Q 4/HR'S W/ GOOD EFFECT. CVP 9--11. EXTREMITIES COOL TO TOUCH. 2+ DOPPERABLE DP LLE. 2+ RADIALS BILATERALLY. [**1-3**]+ RLE D/P/PT. 
+
+RESP
+
+PT REMAINS ON CPAP 5/10/40% FOR SHIFT. RR 12--16, TV'S 500-600. SAO2 98-100%. ABG'S UNREMARKABLE; SEE CAREVIEW. LS COARSE TO DIMINSHED BILATERALLY. SXN SMALL AMT'S OF YELLOW/BLOODY SECRETIONS W/ SEVERAL CLOTS IN ETT TUBE X 1 TONIGHT.
+
+GI
+
+IMPACT W FIBER VIA OGT--->GOAL RATE OF 80. ADVANCE TF Q 4/HR BY 10CC/HR. RESIDUALS < 10CC'S. ABD SOFTLY DISTENDED. NO FLATUS. NO BM. BS HYPOACTIVE ALL 4 QUADS. PEPCID FOR GI PROPHYLAXIS.
+
+GU
+
+FOLEY TO GRAVITY W COUDY YELLOW URINE. U/O @ 200CC/HR AROUND 0000. LASIX 20MG IV GIVEN W/ 1200-1300 OUT. LYTES REPLETED.
+
+ENDO INSULIN GTT [**1-3**]; BS 116-126. SEE CRAEVIEW FOR TITRATION.
+
+HEME
+
+HCT 28 POST T/F. HEP SQ AND PNEUMO BOOTS ON FOR DVT PROPHYLAXIS
+
+ID
+
+TMAX 99.7. VANCO ABX FOR ABX COVERAGE/VENT DRAIN
+
+SKIN
+
+ACE WRAP/SPLINT DSG TO L ELBOW INTACT. DSG TO POSTERIOR HEAD C/D/I. J/P W 30-40CC'S Q SHIFT OF SANG. DRG NOTED. BACK/BUTOCKS GROSSLY INTACT.
+
+SOCIAL
+
+[**Last Name (un) 399**] AND FAMILY W/ INTERVENTION LAST NIGHT. COMFORT/SUPPORT GIVEN.
+
+ASSESS
+
+ALTER IN NEURO STATUS S/P SAH/DEPRESSED SKULL FX VIA PEDESTRIAN STRUCK
+
+PLAN
+
+ASSESS VS. MONITOR I & O/LASIX/ORDER. ABX/ORDER. VENT/ORDER. MONITOR SKIN QS AND PRN. PULSE CHECKS/2/HR'S. F/U W/ CT HEAD AND SPINE/CLEAR LOGROOL AND C-SPINE PRECAUTIONS. MAINTAIN SBP < 140, BS < 120.
+",,
+8907,7627,11073,0,2501-11-25 01:04:00 EST,2501-11-25 01:07:00 EST,3508,"N",53,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning. Current vent settings: PS 10, Peep 5 with 40% FIo2. Spontaneous tidal volumes are around 500's with RR in the teens.
+Breathsounds are decreased at bases other wise coarse. Suctioned for thick yellow this shift.
+Plan: Continue mechanical ventilation. Wean as tolerated.
+",,
+8907,7627,11073,0,2501-11-25 18:15:00 EST,2501-11-25 18:30:00 EST,3325,"N",53,"Nursing/Other","T-SICU NURSING PROGRESS NOTE","
+T-SICU NURSING PROGRESS NOTE
+S:  Intubated
+O:  Neuro:  Propofol weaned off, opens eyes to painful stimuli, withdraws LEs to stimuli.  Extensor posturing of RUE early in shift, now withdrawing.  Slight flexion of shoulder with noxious stimuli LUE. Med with fentanyl q2-3, HR & BP up with stimulation/turns.  Ventriculostomy remains at 15cm above tragus, draining blood tinged CSF.  ICPs [**8-14**].  
+CV:  HR 90s-100s, SR-ST.  Remains hypertensive, titrating meds to keep SBP < 160.  Currently on nicardipine gtt at 0.8mcg/kg/min, lopressor q4h and hydralazine q6h.  Skin warm to touch, dry.  LLE edematous, (+)dopplerable DP pulse.  LUE fingers warm, arm edematous, (+)radial pulse. 
+Resp:  Breath sounds coarse in upper lobes, diminished in the bases bilat.  Suctioned for scant amts of thick blood tinged secretions.  On [**4-4**] most of shift, increased to [**9-4**] at 1500.  
+GI:  Abdomen softly distended, (+)bowel sounds.  Tube feeds at goal of 60cc/hr.  Residuals < 30cc.
+GU:  Brisk autodiuresis, approx 1500cc negative since MN.  Lytes repleted
+Heme:  Hct stable at 30
+ID:  T. max 100.5, continues on vanco.  Vanco trough pending
+Skin:  No new issues
+Endo:  Insulin gtt titrated to keep blood sugars <130
+Social:  Pt's wife and son in to visit, updated on pt's condition
+
+A:  s/p head injury d/t MVA
+
+P:  Continue q1h neuro exam, keep SBP < 160, replete lytes prn, continue with current plan, provide support to patient and family.  
+",,
+8907,7627,11073,0,2501-11-25 18:30:00 EST,2501-11-25 18:33:00 EST,3090,"N",53,"Nursing/Other",,"
+
+Patient on PSV 10/5-.40 with good spontaneous VT. ABG reflected mild metabolic alkalosis. went to C. Scan today (head film) result pending. Febrile with good BP will continue to follow.
+",,
+8907,7627,11073,0,2501-11-26 05:58:00 EST,2501-11-26 06:17:00 EST,3338,"N",53,"Nursing/Other","t/sicu nursing note 7p-7a","
+t/sicu nursing note 7p-7a
+review of systems
+
+neuro: propofol weaned off this am. pt not opening eyes. pupils 2-4mm/bsk bilat. impaired corneals and gag. +cough. withdraws to pain with all extremeties r>l. not following commands. rare spontaneous movements of bilat lower extremeties. ventriculostomy drain 15cm above tragus draining bloody fluid. icp 10-15. conts on iv dilantin with level 12.5. fentanyl given prn for pain. c collar intact. 
+
+cv: hr 80-100 sr-st with occ pvcs noted. sbp 110-160. conts on iv lopressor and hydralazine with some effect. nicardipine gtt weaned as tol to keep sbp<160. cvp 9-12. extremeties warm to touch. palpable pulses on r and dopplerable pulses on l. swelling in left leg improved. 
+
+resp: l/s coarse in upper lobes and diminished at bases. conts on psv 10/5 with some resp alkalosis noted and sicu ho aware. sx for small amts of thick white sputum. 
+
+gi: abd softly distended with +bs. ogt infusing impact with fiber at 60cc/hr. residuals<20cc. no stool or flatus noted. conts on iv pepcid. 
+
+gu: u/o adequate. k repleted. 
+
+heme: hct stable. inr wnl.
+
+endo: conts on insulin gtt to keep bs<120. 
+
+id: tmax 101.2 and came down with no intervention to 100.4. wbc slightly elevated at 11.5. vanco level 9 so dose given. 
+
+skin: ivc filter site intact. left leg remains in splint and eccymotic. left arm remains in splint. craniotomy incision with dsg intact. back and buttocks intact.
+
+social: no family contact this shift. 
+
+A: s/p pedestrian struck with severe head trauma.
+P: cont neuro checks and monitor vent drain, wean nicardipine gtt as tol and ? increase lopressor to keep sbp<160, cont with current vent settings, monitor bs closely while on insulin gtt, and ? OR sunday for tib/fib fx repair. 
+",,
+8907,7627,11073,0,2501-11-26 13:16:00 EST,2501-11-26 13:22:00 EST,3733,"N",53,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT. W/ 8.5 ORAL ETT IN PLACE.
+PT. REMAINS ON PS 10/.40/5. ABG C/W A COMBINED 
+METABOLIC/RESPIRATORY ALKALOSIS AND GOOD OXYGEN
+ATION. ATROVENT MDI GIVEN. SX. SCANT WHITE SPUTUM.
+CONTINUE PS 10 AS TOLERATED.
+
+                            [**First Name11 (Name Pattern1) 146**] [**Last Name (NamePattern1) 147**], RRT
+",,
+8907,7627,11073,0,2501-11-26 17:50:00 EST,2501-11-26 18:15:00 EST,4190,"N",53,"Nursing/Other",,"
+
+REVIEW OF SYSTEMS:
+
+NEURO:  Pt opens eyes to painful stimulus, PERRL 2-4 mm/bsk. Does not follow commands, random non purposeful movement of lower extremities. Pt withdraws lower extremities to nail bed stimulus and slight flexion noted with upper extremities to nail bed stimulus- right arm moves more than left. Continues on dilantin, no seizure activity noted. VEntriculaostomy at 15 above the tragus open, draining blood tinged CSF. ICPs [**6-14**], CPP 70-88. PRN Dilaudid for sedation/discomfort.  
+
+CV:  NSR 70s to 80s occasional PVCs noted. Art line in right radial with good wave form, BP 140s-150s/60s-70s.  Titrating Nicardipine gtt for goal of systolic BP <160, gtt anywhere between Off and .8 mcg/kg/min. Also scheduled Hydralazine, Captopril, and Metoprolol increased to 15mg Q4H for BP control. CVP12-23. P boot on right leg for DVT prophylaxis. DP/PT pulses present and easily palpable in right extremity, Left extremity DP easily aplpable, unable to locate PT pulse due to Splint location on left extremity. Right radial pulse easily palpable, left radial pulse unable to palpate due to splint location. Good cap refill in all 4 extremities. Normal heart tones per auscultation.
+
+Pulmonary:  Pt continues to be vented on Pressure support 40%, 600 TV, 5 peep. O2 sats 99-100%, RR 12-20s. Last ABG at 1600: 7.44/36/153/1/25. Lung sounds are coarse throughout, chest rises equally bilaterally. Suctioning returns scant to small amts of thin white secretions. ETT rotated and taped-26 @ lip.
+
+GI:  TF at goal, Impact with fiber @60/hr infusing through OG tube. Placement verified, no residuals. Belly is soft/distended, +bs, -stool, -flatus. H2B prophylaxis.
+
+GU:  Foley patent o gravity, adequate UOP, clear/yellow. Replenished K+ and Ca. MIVF KVO. 
+
+ENDO:  NPH to be started, continues on insulin gtt, see care view for BS trends.
+
+ID: Low grade temp, Tmax 100.0, Receiving Vanco, trough 7.4.
+
+Skin: Left arm splint changed by team-elbow with sutures Clean/dry/intact, no oozing noted. Good cap refill in left hand/ warm to touch. Left lower leg in splint, toes warm to touch with good cap refill. Right lower leg has some bruising on shins-appears to be from P-boot (off for 1 hr). Dressing on head CDI, Ventriculostomy site CDI. Right femoral filter site intact, some bruising noted, soft,no ooze. Skin care done, other wise skin wholly intact, no further break down noted.
+
+Social: Family in to vist this afternoon, Dr. [**Last Name (STitle) 1538**] met with wife per Wife's request, questions answered by this RN and Dr. [**Last Name (STitle) 1538**], family updated as to OR procedure tomorrow. Wife expressed that if husband [**Name (NI) 6289**] not show improvement over next few days she would like to meet with Neuro [**Doctor First Name 4**] to discuss prognosis. Family very appropriate in affect and questions.
+
+A: S/P Ped Vs vehicle, severe head trauma, left tib fx
+
+Plan: Continue to monitor BS, titrate nicardipine for BP< 160, DC TF at midnight for OR procedure and begin mIVF, Pt to OR tomorrow for repair of left tib fib fx, Give [**12-2**] scheduled NPH d
+",,
+8907,7627,11073,0,2501-11-26 17:51:00 EST,2501-11-26 18:15:00 EST,4190,"N",53,"Nursing/Other",,"
+
+(Continued)
+ose in AM as ordered by Dr. [**Last Name (STitle) 6290**] due to pt NPO, Continue with QH neuro Exams monitor for changes, monitor ICP/CPP. Wife to call in AM to find out what time pt will go to OR. Continue to provide pt and family with support and answer questions.
+
+
+",,
+8907,7627,11073,,2501-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-27**] 11:02 AM
+     TIB/FIB (AP & LAT) LEFT IN O.R.; LOWER EXTREMITY FLUORO WITHOUT RADIOLOGIST IN O.R. LEFTClip # [**Telephone/Fax (1) 11620**]
+     Reason: LT TIBIA ORIF
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     RIGHT LEG. 11 HARD COPY FILMS FROM OR
+     
+     HISTORY:  ORIF for fracture.
+     
+     Multiple hard copy films from OR are provided demonstrating placement of
+     intramedullary nail in tibia with proximal and two distal transfixing screws
+     for fixation of comminuted fracture of mid-shaft of tibia. There is some
+     distraction of fragments, but overall alignment appears satisfactory. The
+     proximal end of the intramedullary nail is slightly external to the anterior
+     cortex of the proximal tibia. 
+
+",,
+8907,7627,11073,,2501-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-27**] 11:02 AM
+     TIB/FIB (AP & LAT) LEFT IN O.R.; LOWER EXTREMITY FLUORO WITHOUT RADIOLOGIST IN O.R. LEFTClip # [**Telephone/Fax (1) 11620**]
+     Reason: LT TIBIA ORIF
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     RIGHT LEG. 11 HARD COPY FILMS FROM OR
+     
+     HISTORY:  ORIF for fracture.
+     
+     Multiple hard copy films from OR are provided demonstrating placement of
+     intramedullary nail in tibia with proximal and two distal transfixing screws
+     for fixation of comminuted fracture of mid-shaft of tibia. There is some
+     distraction of fragments, but overall alignment appears satisfactory. The
+     proximal end of the intramedullary nail is slightly external to the anterior
+     cortex of the proximal tibia. 
+
+",,
+8907,7627,11073,0,2501-11-27 05:22:00 EST,2501-11-27 05:41:00 EST,3144,"N",53,"Nursing/Other","S/P MULT TRAUMA-PEDEST. STRUCK T/SICU NPN 7P-7A","
+S/P MULT TRAUMA-PEDEST. STRUCK T/SICU NPN 7P-7A
+S-INTUBATED
+O-NEURO-PT OPENS EYES TO STIM + PAIN,PERRLA 3-4MM,PT FLEXS RUE TO NOXIOUS STIM,L SHOULDER FLEXS TO NOXIOUS STIM,BLE WITHDRAW TO NOXIOUS STIM VS TRIPLE FLEXION,PT DOES NOT FOLLOW COMMANDS.STRONG COUGH MIN GAG.DILAUDID 1 MG IV Q4HR OVER NOC.
+CV-SBP 100'S-150'S,HR 80'S-90'S NSR NO VEA NOTED,LYTES REPLETED PRN,3+DP/PT RLE,+DOPPLER DT LLE,UNABLE TO ASSESS L PT D/T SPLINT.PT CONT'S ON LOPRESSOR 15 MG IV Q 4 HRS,HYDRALIZINE 10MG IV Q 6HR AND 6.75 MG CAPTOPRIL/NGT Q 8HS.
+RESP-NO VENT CHANGES OVER NOC,PT REMAINS ON CPAP 10 PS/5PEEP,RR 11-18,VTS 500'S-600'S.O2 SATS98% ON 40%FIO2.PT SXN'D Q 4HRS FOR SM AMTS THICK YELLOW SECRETIONS.
+GI/GU-PT ABD SOFT +BS,NO STOOL OVER NOC,TF OFF @ 12A FOR OR THIS AM,U/O ADEQ AMTS CLEAR YELLOW URINE VIA FOLEY.
+SKIN-NO NEW ISSUES,
+SOC-NO FAMILY CONTACT OVER NOC.
+ENDO-INSULIN GTT .5-3U/H,BS 95-130'S.
+ID- TMAX 100.3
+A-ALT MS R/T HEAD TRAUMA.
+P-CONT NEURO CHECKS,VENTRIC 15CM H2O ABOVE TRAGUS,VS,MED FOR PAIN PRN/ORDERS,I+O,MONITOR SKIN INTEGRITY QD .FAMILY SUPPORT PRN.
+",,
+8907,7627,11073,0,2501-11-27 05:53:00 EST,2501-11-27 05:54:00 EST,3497,"N",53,"Nursing/Other",,"
+
+RESP. CARE:
+     PT. REMAINS INTUBATED AND ON VENT. SUPPORT. RESP. STATUS STABLE. ATROVENT MDI Q6HRS.  PLEASE SEE FLOW SHEET FOR INFORMATION.  RSBI=63.  WEAN AS TOLERATED THIS A.M.
+",,
+8907,7627,11073,0,2501-11-27 18:02:00 EST,2501-11-27 18:39:00 EST,4190,"N",53,"Nursing/Other",,"
+
+~0900 Pt to OR for left tib/fib fx repair. Pt back ~1200, uneventful, resettled in TSICU, left leg wrapped in ace bandage.
+
+REVIEW OF SYSTEMS:
+
+NEURO:  Pt opens eyes to voice/stimulation, does not tract, does not follow commands. PERRL 3-4 mm/bsk. Pt withdraws bilateral lower extremities to stimuli, right upper flex's to stimuli, and slight flex of left shoulder seen with stimuli to left extremity. No spontaneous movement noted. +corneals, +cough, impaired gag. ICPs [**6-11**], CPP 77-87. Ventriculostomy site intact, 15 cm above tragus open to drainage, draining blood tinged CSF.  Continues w/ cpine prophylaxis in [**Location (un) 204**] J collar.
+
+CV:  NSR 70s-80s, rare PVCs noted. Bp trending 140s-150s/60s-70s. Continuing with Lopressor/hydralazine and Captopril for goal of systolic Bp < 160. DP/PT pulses in right extremity per doppler, left DP per doppler, unable to reach PT due to bandage. Right groin ivc filter site intact, no dressing, no hematoma. Good cap refill in extremities. Normal heart tones. P boot prophylaxis.
+
+PULMONARY:   No vent changes made, continues on Pressure support 10, 5 peep, 50%. RR 12-18, O2 sats 98-100%. Last ABG 7.40/44/188/2/28. Lung sounds are clear to coarse bilaterally in the upper lobes and diminished in the bases. Suctioning returns scant to small amts of thick/yellow secretions.
+
+GI: Pt was NPO for procedure, ~1200 TF restarted impact w/fiber, tolerating well, no residuals. Belly is softly distended with hypoactive BS. H2B prophylaxis.
+
+GU:  Foley patent to gravity, UOP is clear/yellow/adequate. MIVF to KVO when TF restarted. Lytes adequate this shift, see care view.
+
+ENDO: Continues on Insulin gtt, see care view for changes/BS trends. Morning NPH held- pt was NPO.  
+
+ID:  Continues with low grade temps, tmax 100.4, receiving Vanco.
+
+HEME:  Post-op Crit 30.
+
+Skin:   Right bruising on shin under p-boot, boot off for OR procedure.  Left tib fib fx repair done today in OR, ace bandage on/intact-good cap refill/doppler pulses. Left arm in ace bandage, good cap refill. Head dressing on/intact, ventriclostomy site dry/intact. Skin/back care done- no further breakdown noted. 
+
+Social:  Family in to visit this afternoon, asking questions regarding pt's prognosis, family desires to speak with neuro [**Doctor First Name 4**] if pt does not ""wake up"" in a few days.  Questions answered by this RN and support provided.
+
+Plan:  Continue with QH neuro exams and monitor for changes, Continue to titrate insulin to <120, Monitor Systolic BP, goal < 160, monitor for pain/discomfort, titrate TF to goal - check residuals, Repeat crit this evening. Continue to update family and provide for support, Family meeting this week? SW consult.
+
+
+
+",,
+8907,7627,11073,0,2501-11-27 18:37:00 EST,2501-11-27 18:43:00 EST,3733,"N",53,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT. W/ 8.5 ORAL ETT IN PLACE.
+CHANGED TO SIMV MODE AFTER RETURN FROM OR.
+STABLE ACID-BASE AND OXYGENATION. WILL CHANGE
+BACK TO PRESSURE SUPPORT IN AM.
+
+                 [**First Name11 (Name Pattern1) 146**] [**Last Name (NamePattern1) 147**], RRT
+",,
+8907,7627,11073,,2501-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-11-28**] 12:15 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11621**]
+     Reason: s/p new central line placement, r/o PTX                     
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        72 year old man STRUCK BY CAR                                                 
+         
+     REASON FOR THIS EXAMINATION:
+      s/p new central line placement, r/o PTX                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess line placement.
+     
+     SEMI-UPRIGHT PORTABLE FRONTAL RADIOGRAPH:
+     
+     COMPARISON:  [**2501-11-23**].
+     
+     There has been interval placement of a left subclavian central venous catheter
+     terminating in the proximal SVC.  Again are noted an ETT and right subclavian
+     central venous catheter, unchanged in position.  There is a faint linear
+     opacity overlying the right third rib which may represent a tiny apical
+     pneumothorax.  There is no left-sided pneumothorax.  There has been
+     improvement in linear atelectasis at the left lung base.  There is no new
+     focal consolidation.  The pulmonary vasculature is normal.
+     
+     IMPRESSION:  Interval placement of left subclavian central venous catheter in
+     satisfactory position.
+     
+     Possible tiny right apical pneumothorax.
+     
+     Improvement in left basilar atelectasis.
+     
+     
+
+",,
+8907,7627,11073,0,2501-11-28 03:40:00 EST,2501-11-28 03:44:00 EST,4140,"N",53,"Nursing/Other","Resp care","
+Resp care
+Pt remains intubated & supported in SIMV/PS mode
+B/S clear-course, Sx moderate amounts of thick yellow 
+secretions. Pt treated w/ Atrovent mdi
+weaned Fio2, ABG reflects good oxygenation & ventilation
+Plan: RSBI in am, continue support, wean as tolerated
+
+",,
+8907,7627,11073,0,2501-11-28 04:14:00 EST,2501-11-28 04:34:00 EST,3144,"N",53,"Nursing/Other","S/P MULT TRAUMA-PEDESTR. STRUCK-T/SICU NPN 7P-7A","
+S/P MULT TRAUMA-PEDESTR. STRUCK-T/SICU NPN 7P-7A
+S-INTUBATED
+O-NEURO-PT OPENS EYES TO VERBAL STIM + SPONT,DOES NOT TRACK,PERRLA 3-4MM,TRIPLE FLEX BLE,MOVES L SHOULDER TO NOXIOUS STIM,FLEXS RUE TO NOXIOUS STIM,STRONG COUGH IMPAIRED GAG.VENTRICULOSTOMY DRAINING 10-20CC/HR BLOOD TINGED CSF.ICP'S [**5-13**].CPP>70.
+CV-HR 90'S-110'S NSR->ST,SBP 130'S-170'S.CVP 8-12.HYDRALIZINE INCREASED TO 20MG IV Q 6HR,LOPRESSOR CONT'S @15MG IV Q4HR,[**1-3**] +DP/PT BLE.
+RESP-PT LS CTA DECREASED BASES,O2 SATS98-100%,PT CURRENTLY ON SIMV/PS 10 X 600 40%FIO2,10 PS/5PEEP.PT OVER BREATHING VENT 3-10,PT SXN'D Q1-4 HRS FOR SM-MOD AMTS THICK YELLOW SECRETIONS.NARD.STRONG COUGH AS NOTED.
+GI/GU-PT ABD SOFTLY DIST +HYPOACTIVE BS,U/O ADEQ AMTS CLEAR YELLOW URINE VIA FOLEY CATH,TF IMPACT W/ FIBER ADVANCED TO GOAL 60CC/HR,RESID 5-140CC.NO STOOL OVER NOC.
+SKIN-MACULAR RED RASH NOTED OVER PT'S BACK + BUTTOCK,PT BACK + BUTTOCK OTHERWISE GROSSLY INTACT,LLE ACEWRAP INTACT +CSM,LUE ACEWRAP INTACT.
+ID-T MAX 101.4 OVER NOC,PT CONT'S ON IV VANCO.
+SOC-NO FAMILY CONTACT OVER NOC.
+ENDO-PT REMAINS ON INSUL GTT 0.5-5U/HR,FSBS 120'S-170.
+A-ALT NEURO STATUS R/T HEAD TRAUMA.
+P-CONT NEURO CHECKS,MED FOR PAIN PRN,VENTRICULAR DRAINAGE/ORDERS,VENT/ORDERS,I+O,MONITOR SKIN INTEGRITY QS AND PRN,IV ABX/ORDERS,FAMILY SUPPORT PRN,FSBS
+",,
+8907,7627,11073,0,2501-11-28 19:01:00 EST,2501-11-28 19:29:00 EST,3338,"N",53,"Nursing/Other","t/sicu nursing note 7a-7p","
+t/sicu nursing note 7a-7p
+review of systems
+
+neuro: opens eyes to voice but not tracking or responding. pearl. +corneals and cough. impaired gag. withdrawal vs. triple flexion in lower extremeties. extends with upper extremeties to painful stimuli. medicated with dilaudid for pain. vent drain up to 20cm above tragus per neurosurg. draining blood tinged csf. icp 13-17. ccp>60.
+cv: hr 90-110 sr-st with occ pvcs. sbp 110-150. aline damped at times. cvp 11-13. lopressor changed to po. hydralazine q6 to keep sbp <160. +pp with skin warm and dry. 
+resp: l/s coarse in upper lobes and diminished. psv increased to 12 d/t high rr and alkalosis during temp spike. sx for thick yellow sputum. 
+gi: abd softly distended with +bs. impact with fiber via ogt. no stool or flatus noted. conts on iv pepcid. 
+gu: u/o adequate. lytes wnl.
+heme: hct stable. inr wnl. 
+endo: conts on insulin gtt to keep bs<120
+id: tmax 101.4 tylenol x2. vancomycin conts. 
+skin: rash to buttocks. ace wrap to left arm and leg. 
+social: wife and daughter into visit. updated on grave status. they voiced there understanding and will have a family meeting with neurosurgery on thursday.
+a: s/p pedestrian struck. 
+p: cont neuro checks and monitoring, dilantin conts, cont lopressor and hydralazine to keep bp<160, pulmonary toilet, and family mtg planned for ? thursday. 
+
+
+",,
+8907,7627,11073,0,2501-11-29 06:12:00 EST,2501-11-29 06:14:00 EST,4140,"N",53,"Nursing/Other","Resp care","
+Resp care
+Pt remains intubated & supported in CPAP/PS mode
+B/S clear-course, Sx moderate amounts of thick tan 
+secretions. Pt treated w/ Atrovent mdi
+Plan: RSBI in am, continue support, wean as tolerated
+",,
+8907,7627,11073,0,2501-11-29 06:28:00 EST,2501-11-29 07:01:00 EST,3949,"N",53,"Nursing/Other",,"
+
+T/SICU NPN 2300-0700:
+
+REVIEW OF SYSTEMS:
+
+NEURO: EXAM UNCHANGED FROM PREVIOUS SHIFTS: PT OPENS EYES SPONTANEOUSLY/TO STIMULI - DOES TO TRACK TO SPEAKER - PERRLA 4MM/BSK. COUGH/CORNEALS INTACT/GAG IMPAIRED. MINIMAL MOVEMENT TO EXTREMITIES TO PAINFUL STIMULI - RLE WITHDRAWS/LLE MORE SO TRIPLE FLEXION; RUE W/MINIMAL FLEXION/LUE FLEX/DRAWS FROM SHOULDER->LUE SPINTED. NO SPONTANEOUS/PURPOSEFUL MOVEMENT NOTED. VENT DRAIN AT 20 ABOVE TRAGUS/OPEN/BLD TINGED DRAINAGE OUT: ICP 12-17, CPP >60. C-COLLAR IN PLACE/INTACT. DILAUDID GIVEN FOR PAIN MGT - PAIN ASSESSED VIA VS. DILANTIN LEVEL 16.
+
+CV: HR SR/ST, OCCASIONAL ECTOPY NOTED ON TELEMETRY->IMPROVED AFTER K+ REPLETED. HYPERTENSIVE/TACHYCARDIC REQUIRING PRN LOPRESSOR/HYDRALAZINE AND DILAUDID TO MANAGE SBP'S <160. RECURRING LOPRESSOR DOSE INCREASED . CVP 5-9. PULSES PALPABLE - [**1-3**]+PITTING EDEMA TO EXTREMITIES. BRISK CAP REFILL TO ALL EXTREMITIES. PB ON RLE, HEP0ARIN FOR DVT PROPHYLAXIS.
+
+RESP: LUNG SOUNDS COARSE, DIMINISHED AT BASES B/L. SXN FOR SM AMTS THICK/TAN SECRETIONS. VENTED ON CPAP+PS: 40%/10/5/RR 12-22/VT 500-600. BREATHING EQUAL/UNLABORED - REFER TO CAREVIEW FOR ABG DATA.
+
+GI: ABD SOFTLY DISTENDED, (+)BS/NO BM. TF IMPACT W/FIBER ADVANCED TO 80CC/HR GOAL RATE - TOLERATING W/RESIDUALS <50CC. PEPCID GIVEN.
+
+GU: FOLEY CATHETER PATENT - U/O CLEAR/YELLOW/ADEQUATE HOURLY VOLUMES OUT. K+ REPLETED.
+
+ENDO: INSULIN GTT TITRATED TO THERAPEUTIC GLUCOSE RANGE - LABILE GLUCOSE LEVELS AS TF RATE INCREASED - IN ADDITION, PT RECEIVES BID NPH DOSE - PER TEAM, CONTINUE NPH DOSES WHILE ON REG INSULIN GTT.
+
+ID: TMAX 102 @2400 - TEAM AWARE/TYLENOL GIVEN AND FAN ON W?(+) EFFECT - TEMP DOWN 99.6-100.3.  CX FROM PREVIOUS MORNING PENDING. VANCO GIVEN. WBC'S 15.
+
+SKIN: RASH TO BACK/BUTTOCKS UNCHANGED-MONITORING. LUE & LLE IN ACE WRAP - ELEVATED ON PILLOWS, PULSES PALPABLE AND BRISK CAP REFILL NOTED - NO DRAINAGE. VENT DRAIN INSERTION SITE INTACT/WNL, CRANIOTOMY INC W/STAPLES SECURELY IN PLACE/INTACT.
+
+SOCIAL: NO FAMILY CONTACT OVER NOC.
+
+A/P: FEBRILE/HYPERTENSIVE, MINIMAL RESPONSE TO NEURO EXAM, TOLERATING ADVANCE IN TF RATE TO GOAL, LABILE GLUCOSE LEVELS REQUIRING INSULIN GTT AND CLOSE MONITORING, MONITOR PENDING CX'S, PAIN MGT, PULMONARY HYGEINE. MAINTAIN C-SPINE PRECAUTIONS. FAMILY MEETING PLANNED FOR LATER THIS WEEK. CONTINUE PER PLAN OF CARE. FULL SUPPORT/COMFORT.
+",,
+8907,7627,11073,0,2501-11-29 15:44:00 EST,2501-11-29 15:46:00 EST,4164,"N",53,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+SW met with pts wife and daughter for supportive intervention.  Wife states that this time is ""very difficult"" for her and appeared to be frustrated by pts status.  Family very interested in family meeting on Thursday, and are eager for information on pts prognosis and goals of treatment.  SW consulted with RN, [**Doctor First Name 709**].  Family meeting time to be determinded.  Pls pg SW prn.
+",,
+8907,7627,11073,0,2501-11-29 18:52:00 EST,2501-11-29 19:10:00 EST,4190,"N",53,"Nursing/Other",,"
+
+REVIEW OF SYSTEMS:
+
+NEURO: opens eyes to voice/stimuli, does not tract. No spontaneous movements noted, does not follow commands. Minimal flexion with upper extremities with nail bed stimulus, sometimes no movement noted, Neuro [**Doctor First Name **] aware. Bilateral LLE withdraw to nail bed stimulus. Continues on Dilantin, no seizure activity noted. Ventriculostomy at 20 cm above tragus, clamped, opened if icps <25 for 10 min. Open to drainage X 3, ICps got as high as 29, re clamped when Icps <25, see care view for details. Icps mostly ~15-20, CPP >60. +cough, +corneals, impaired gag.
+
+CV: ST, no ectopy noted. Aret line in right radial with good wave form. BP trending 130s-160s- using PRN hydralazine and metoprolol and dilaudid to keep systolic < 160. Dp/PT pulses are present-weak to palpation bilaterally. Good cap refill noted in all extremities. Continuing on scheduled captopril and metoprolol scheduled dose increased to 150mg BID. Normal heart tones.
+
+Pulmonary: No vent changes made, ABGs reflect adequate oxyganation, see care view for details. Lung sounds range from clear to coarse bilaterally in the upper lobes and diminished bilaterally in the bases. ETT tube retaped/repositioned. Suctioning returns small amts of tan to white thick secretions.
+
+GI: Og tube/ TF at goal, minimal residuals, belly is softly distended, +BS, -stool, -flatus. H2B prophylaxis. 
+
+GU:  Foley patent to gravity, adequate UOP, clear/yellow. MIVF KVO. Replenshed K+/Ca. 
+
+ENDO: Insulin gtt, See care view for BS trends. 
+
+ID: Tmax 101.2, to be pan Cx'd if spikes again, received tylenol PR, continues on Vanco. 
+
+Heme: 1 unit PRBC infused, follwo up crit pending.
+
+Social: Family in to visit, asking appropriate question, inquiring about time of family meeting on Thursday, SW involved.
+
+Skin:  LLE open to air, staples intact/edematous, dressing removed by team slight greenish drainage noted, good cap refill. LUE dressing changed by team, some erythema noted, no drainage. Head dressing CDI, no drainage. Skin care/back care done, rash across buttocks.
+
+Plan: Continue qH neuro checks monitor for changes, follow up crit, titrate insulin gtt for BS< 120, goal for systolic BP < 160, keep ventriculostomy clamped-if ICP >25 for 10 min open to drainage, family meeting thursday- time? Continue full support, update family.
+",,
+8907,7627,11073,0,2501-11-30 06:08:00 EST,2501-11-30 06:18:00 EST,3840,"N",53,"Nursing/Other",,"
+
+S/P Multiple Trauma
+
+Pt opens eyes to stimuli-no eye contact, no spontaneous movement, withdraws to pain. Dilantin IV. Cervical collar on. ICP 15-20-clamped at 20@tragus. Opened x2 for sustained ICP>25. CSF is blood tinged. Head dsg. intact. Dilaudid given prn.
+
+NSR-NST. BP trending up-Lopressor increased, Hydralizine prn increased. HCT 31.7. Wt up. Heparin and pneumoboot.
+
+No change in vent settings. Suctioned q6hr for scant sputum. Breath sounds coarse. Sats 99%. 
+
+Urine output adequate.
+
+Tube feeds at goal with low residual. No stool. Abd. is soft and distended. Famotidine IV.
+
+Insulin@4u/hr. WBC up to 18.9-low grade temp. Pt remains on Vanco.
+
+Total body rash continues. Extremities warm, pedal pulses palbable. Sutures intact on left calf. Left arm remains ace wrapped. Skin on back intact.
+
+No calls from family.
+
+Plan: Continue to monitor. Family meeting on Thursday.
+",,
+8907,7627,11073,0,2501-11-30 06:33:00 EST,2501-11-30 06:39:00 EST,3406,"N",53,"Nursing/Other","RESP CARE NOTE","
+RESP CARE NOTE
+PT REMAINS INTUBATED, SUPPORTED OVERNOC IN CPAP/PS MODE, STABLE VT & RR.  BS ESSENTIALLY CLEAR, MINIMAL SXN REQ.  PLEASE SEE RESP FLOWSHEET FOR DETAILS.  AM ABG REFLECTS UNCOMPENSATED METABOLIC ALKALOSIS W/HYPEROXIA.  RSBI 79.  NO [**Name6 (MD) 1814**] [**Name8 (MD) **] MD EXEMPTION.  PLAN TO CONTINUE CURRENT SUPPORT.
+",,
+8907,7627,11073,0,2501-11-30 14:20:00 EST,2501-11-30 14:21:00 EST,4164,"N",53,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+Family meeting set for Friday at 10:00 am.  Famil, Neuro, ICU and Trauma teams aware.  Pls pg SW prn.
+",,
+8907,7627,11073,0,2501-11-30 16:38:00 EST,2501-11-30 16:51:00 EST,4297,"N",53,"Nursing/Other",,"
+
+npn 7a-7p
+
+neuro:opens eyes to stim & voice.not following commands.withdraws minimally to nailbed pressure.perrl.noted at 1600 R>L and sluggish. returned to [**Location **].icp decreased from 20->12 when drain moved to 15 above tragus and kept open.drg blood-tinged,approx 10ml/h.
+
+cv:sbp 130-140s,goal<150.st low 100s,occ pvc's.hr to 120s,sbp to low 100s when turned on R side.cvp 7-8.
+
+resp:no vent changes.sao2 100%.sx sm amts thick yellow sputum.
+
+gi:tf at goal-tolerating.+bs,-bm.
+
+gu:adeq u/o.
+
+skin:slt ss drg from head incision.L arm ace-wrapped,cdi.LLE erythmatous w/ staples,ota,no drng.quarter-size wound to LLE,black.
+
+heme:no issues this shift.
+
+id:tmax 102.given tylenol,cooled externally.pan cx sent except csf.now normothermic.
+
+endo:insulin gtt and nph bid.
+
+social:wife and dtr visited.family mtg arranged for Friday at 10am. updated by Dr.[**Last Name (STitle) 1296**].
+
+a/p:altered neuro status r/t head injury.fever of unknown origin. continue neuro checks.pending cultures.
+",,
+8907,7627,11073,,2501-12-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2501-12-1**] 12:25 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11622**]
+     Reason: increased secretions                                        
+     Admitting Diagnosis: PEDISTRIAN STRUCK
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         72 year old man STRUCK BY CAR                                                
+           
+     REASON FOR THIS EXAMINATION:
+      increased secretions                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY: Struck by car. Increased secretions in chest.
+     
+     CHEST: The endotracheal tube lies within the right main bronchus and should be
+     withdrawn. The tip of the left subclavian line lies in the proximal SVC. No
+     evidence of failure seen. Both lung fields appear clear.
+     
+     IMPRESSION: Endotracheal tube in right mainstem bronchus.
+     
+     These findings were telephoned to trauma CCU.
+
+",,
+8907,7627,11073,0,2501-12-01 05:02:00 EST,2501-12-01 05:15:00 EST,4206,"N",53,"Nursing/Other","TSICU Nursing Progress Note","
+TSICU Nursing Progress Note
+Neuro:  Pt not sedated.  Pts pupils pearl, vary in size from 2mm to 4mm.  Pt withdrals x4 and opens eyes to pain.  Pt only moves ext on bed.  Pts Ventric drain at 15cm above tragus, draining clear and bloody CSF.  ICP 9-13.  Pt on dilaudid PRN for pain. Neuro q2.
+
+Cardiac:  Pt in SR/ST HR 97-121 occ PVC's.  BP goal is <150 BP 130-156/40-66 via [**Doctor Last Name **], NBP and [**Doctor Last Name **] correlate, however [**Doctor Last Name **] may dampen.  CVP 9-13.  Requiring PRN lopressor and hydralizine.
+
+Resp:  Pt remains on CPAP .4% 5/10.  O2 sat 98-99%  BS clear decreased in bases bilaterally.  Pt suctioned for mod amt thick tan sputum.  Pt alk on vent.
+
+GI:  Pt on TF impact with fiber at goal of 80cc/hr.  -BM +BS.  Abd soft distended.
+
+GU:  Pt has f/c with adequate u/o.
+
+Skin:  Pt has ace on L arm. mult staples in LLE.  Rash on back of legs and back.
+
+ID:  PT spiked to 101.6 tx with tylenol on vanco.
+
+Endo:  PT on insulin gtt currently at 4u/hr.  BG q2.  On fixed dose of NPH.
+",,
+8907,7627,11073,1,2501-12-01 05:02:00 EST,2501-12-01 06:32:00 EST,4206,"Y",53,"Nursing/Other","TSICU Nursing Progress Note","
+TSICU Nursing Progress Note
+Insulin gtt decreased to 3.5u/hr.
+RUE not withdraling to pain, other ext are responding less. Pupils remain PEARL.
+",,
+8907,7627,11073,0,2501-12-01 18:47:00 EST,2501-12-01 19:10:00 EST,3338,"N",53,"Nursing/Other","t/sicu nursing note 7a-7p","
+t/sicu nursing note 7a-7p
+review of systems
+
+neuro: pt opens eyes to stimuli and occ to voice but not tracking or focusing. pearl. +corneals. impaired gag. strong cough noted. withdraws vs. triple flexion with lower extremeities and no response with upper extremeities to painful stimuli. ventriculostomy drain remains at 15 above tragus and draining blood tinged fluid. medicated with dilaudid intermittently for pain. ativan x1 this am per dr. [**Last Name (STitle) **] d/t tremors with no effect. then demoral 12.5mg given for the rigors with effect. one other dose of demoral given later in day for rigors with effect. c collar intact. 
+
+cv: hr 90-110 sr-st with occ pvcs and rare pacs. sbp 130-170. lopressor 100mg po tid conts along with capoten tid. prn lopressor and hydralazine to keep sbp<160 with some effect. weakly palpable pulses. skin hot and dry. cvp 7-10. 
+
+resp: remains on psv 10/5 with improving alkalosis. l/s coarse throughout. sx for thick yellow sputum. increased sputum over the shift. cxr done which was ok per dr. [**Last Name (STitle) 2896**]. sputum spec sent. occ episodes with rr 38-42 which is usually associated with fever spike. hiccups noted. 
+
+gi: abd soft with +bs. ogt intact and in place infusing impact with fiber at 80cc/hr. no stool or flatus. colace started. pepcid conts.
+
+gu: u/o adequate. lytes repleted prn. 
+
+heme: hct stable. inr wnl.
+
+endo: insulin gtt conts to keep bs<120. conts on nph insulin bid.
+
+id: tmax 101.8. rigors noted with temp spikes. blood cx and sputum sent. tylenol and ice packs applied with minimal effect. conts on vancomycin. clindamycin started for cellulitis in left leg. 
+
+skin: rash to flanks and arms but improved on coccyx. old fx blister to shin necrotic. incision to left elbow looks great and dsg changed. leg incision with staples intact. 
+
+social: wife and daughter into visit and updated on status. they will be in tomorrow for family mtg at 10am.
+
+a: s/p pedestrian struck 
+P: cont neuro monitoring, cont meds to keep sbp<160, pulm toilet, and family mtg in am.
+",,
+8907,7627,11073,0,2501-12-02 05:49:00 EST,2501-12-02 05:53:00 EST,3406,"N",53,"Nursing/Other","RESP CARE NOTE","
+RESP CARE NOTE
+PT REMAINS INTUBATED, SUPPORTED OVERNOC IN CPAP/PS MODE.  NO CHANGES MADE THIS SHIFT.  PT FEBRILE, TREMORS NOTED, TACHYPNEIC, BITING ON ETT, ORAL AIRWAY PLACED.  BS OCCAS COARSE, SXN FOR MOD AMTS THICK PALE YELLOW SEC.  MDI ALBUTEROL & ATROVENT GIVEN X2.  AM ABG REFLECTS METABOLIC ALKALOSIS W/HYPEROXIA.  RSBI 109.  PLAN TO CONTINUE CURRENT SUPPORT.  
+",,
+8907,7627,11073,0,2501-12-02 06:39:00 EST,2501-12-02 06:57:00 EST,3438,"N",53,"Nursing/Other","T/Sicu Nursing Progress","
+T/Sicu Nursing Progress
+S:
+O: Neuro: opens eyes to stimulation, does not appear to track or focus.  Small spontaneous flexion of L arm and both legs.  Slight withdrawal of legs to painful stimuli.  Ventriculostomy open to drain and leveled at 15cm at the tragus. Draining blood tinged csf and pressures [**7-12**]. On dilantin with no seizure activity. Dilantin level 12.5. Received several doses of dilaudid for ??pain with movement, nursing procedures
+CVS: remains hypertensive.  on standing doses of lopressor, captopril, also receiving prn doses of lopressor, hydralazine in effort to keep sbp<160.  K+ repleted cvp 8-10
+RESP: on pressure support ventilation.  Has intermittent bouts of hiccoughs, bites on tube. Thick yellow secretions, coarse breaths
+RENAL: urine output adequate, lytes repleted
+GI: on goal feedings of fs impact with fiber @ 80/hr.  No stool. Colace given on famotidine
+ENDO: on standing doses of nph, insulin gtt dc'd and ss reg insulin instituted
+ID: on clinda, vanco.  Febrile to 101.7, cultures from yesterday pending
+HEME: no issues on boots, sq heparin
+SKIN: c collar in place.  Small drainage from back of head.  Has trunk red rash.  L elbow lac without drainage, L leg stable sites very red, warm to touch.  Multiple bruised areas resolving
+A: impaired neuro status
+P;  family meeting planned for today,
+follow cultures, icp, neuro status.  ?? assess need for more bowel meds.  ??increase standing order antihypertensives for better bp control.  Follow blood sugars.
+",,
+8907,7627,11073,0,2501-12-02 14:50:00 EST,2501-12-02 14:55:00 EST,4164,"N",53,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+Family meeting held.  Present were pts wife, daughter, daughter-in-law, and son, MDs [**First Name4 (NamePattern1) 1373**] [**Last Name (NamePattern1) 1117**], NP [**First Name8 (NamePattern2) 116**] [**Last Name (NamePattern1) **], RN [**First Name8 (NamePattern2) 709**] [**Last Name (NamePattern1) 6291**], and SW.  MDs presented overview of pts condition and answered all questions.  Family states that pt would not choose to continue with current direction of care, and declared their wish to withdraw support.  Pt has two sons who live in [**State **] and family decided to wait to withdraw until one son arrives from [**State **] tomorrow at 5 pm.  ICU team aware of  plan, and weekend on call social work aware of situation.  Pls pg SW as needed.  
+",,
+8907,7627,11073,0,2501-12-02 17:36:00 EST,2501-12-02 18:17:00 EST,4190,"N",53,"Nursing/Other",,"
+
+Review of Systems:
+
+NEURO:  Pt opens eyes to tactile stimulation, does not tract. PERRL 4mm/bsk, left eye gazes slightly of center to left. No spontaneous movement noted. Pt withdraws RLE to nail bed stimulus, slight flexion of LLE to nail bed stimulus, Pt does not move RUE to nail bed stimulus, Slight flexion of LUE noted to nail bed stimulus.  Does not follow commands. Continues on phenytoin, no seizure activity noted.  Ventriculostomy at 15cm> tragus open to drainage, draining small amts of blood tinged CSF.  ICP 8-11, CPP >70.  +cough, +corneals, impaired gag. PRN Dilaudid for discomfort.  Maintaining C spine precautions. 
+
+CV:  NSR-ST 90s to low 100s, no ectopy noted. Continues on scheduled captopril and metoprolol to maintain BP <160. PRN Metoprolol 5 mg used X 1 for BP control.  Art line in t=right radial with good wave from, BP trending 130s-160/60s-70s. Normal heart tones per auscultation. DP/PT pulses are present bilaterally and easily palpable. Good cap refilol in all 4 extremities. P-Boot prophylaxis.  CVP 8-11.  Pt now DNR.
+
+Pulmonary:  No vent changes made. O2 sats 98-100%. Continues to hiccough periodically, RR ranges from 12-20s. Lung sounds are clear to coarse bilaterally in the upper lobes and diminished bilaterally in the bases. Good/strong/productive cough. Suctioning returns small amts of thick/tan secretions. Last ABG 7.44/39/186/2/27.
+
+GI:  OG/feeding tube infusing TF at goal rate. TF held X 1 hour for residuals >100 @ 0800, TF resumed to goal and residuals have been ~[**9-20**].  Belly is softly distended with hypoactive BS, -stool, -flatus.  Continues with colace/H2B Prophylaxis.
+
+GU:  Foley patent to gravity, adequate UOP, clear/yellow. MIVF to KVO, Replensihed Lytes-see care view.
+
+ID:  Continues with low grade temps, Tmax 100.9. Taking Clinda and Vanco- peak/trough are pending.
+
+ENDO:  insulin gtt restarted, held morning NPH due to TF on hold for residuals.  See care view for BS trends.
+
+Heme: No issues.
+
+Skin:  Continues with rash on torso, wife reported that Pt has had rash before when received Antibiotics. Left leg with staples-slight ss drainage. Abrasion on LLE base black. Skin warm to touch with good cap refill. LUE DSD changed, sutures intact, no drainage noted. Head Staples intact, DSD. Skin care/back care done, no further breakdown noted.
+
+Social:  Family meeting today @ 1000-people present: Wife of pt and 1 son, daughter and daughter's husband, SW, This RN, Dr. [**Last Name (STitle) 1117**], [**First Name8 (NamePattern2) 116**] [**Last Name (NamePattern1) **] from Neuro [**Doctor First Name **].  Family told of Pt's poor prognosis/ grim outlook. Family visibly upset but accepting, asking very appropriate questions. Family reports that pt does not desire to be on life support- family all agree that this is pt's choice and they wish to withdraw life support.  There are 2 son's of the pt in [**State **]- they were updated by H.O. and Dr. [**Last Name (STitle) 1117**] and questions answered, sons are attempting to fly to [**Location (un) 29**]  and desire to be at bed side before withdrawal of life support. Family in agreement to withdraw life support/comfort 
+",,
+8907,7627,11073,0,2501-12-02 17:37:00 EST,2501-12-02 18:17:00 EST,4190,"N",53,"Nursing/Other",,"
+
+(Continued)
+measure only when one or both son's from [**State **] arrive tomorrow evening. Team aware, at this time family has in the mean time declared pt to be DNR.  Chaplain visited with family/pt and annointed pt.
+
+Plan: Continue with care, titrate insulin gtt, check residuals for TF, Q4H neuro checks, DNR, family to arrive tomorrow.
+",,
+8907,7627,11073,0,2501-12-03 04:58:00 EST,2501-12-03 05:28:00 EST,3438,"N",53,"Nursing/Other","T/SICU Nursing Progress Note","
+T/SICU Nursing Progress Note
+S:
+O: Neuro: opens eyes spontaneous but does not appear to track or focus on speaker.  No spontaneous movement but withdraws legs slightly to painful stimuli. PERRLA.  Ventriculostomy remains in place open continuously, leveled at 15cm at the tragus, draining blood tinged csf. Continues on dilantin with no seizure activity.  Has intermittent hiccoughs.  Receiving dilaudid iv q 2-3 hours.
+CVS: continues on captopril and lopressor per og tube.  SBP has been maintained < 160 without extra doses of lopressor or hydralazine.  CVP 2-8.  Lytes repleated 
+RESP: on pressure support ventilation.  Continues with intermittent irregular breathing pattern with hiccoughs.  Thick white secretions, coarse breath sounds
+RENAL: urine output adequate
+GI: tolerating tube feedings at goal of fs impact with fiber @ 80. No stool. Continues on famotidine for prophylaxis
+ENDO: on insulin gtt to keep bs within range
+ID: continues to be febrile with temp to 101, tylenol given, wbc to 13, on clinda and vanco
+Heme: hct 28, on sq heparin and boots
+SKIN: L leg remains erhythematous, L arm lac without drainage or redness.  Has total body rash which is deep red and edematous
+Social: no contact with family tonight.
+A: neurologically unchanged, hemodynamically stable, febrile with irregular breathing patterns which are probably neurogenic in origin
+P: support family during this difficult time
+",,
+8907,7627,11073,0,2501-12-03 05:40:00 EST,2501-12-03 05:44:00 EST,4312,"N",53,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt remains on PSV with no vent changes made during the noc. Sxn for moderate amount thick yellow secretions. RSBI completed on PSV5=59. ETT secure and in good position.
+
+                              [**First Name11 (Name Pattern1) 343**] [**Last Name (NamePattern4) 344**], RRT
+",,
+8907,7627,11073,0,2501-12-03 17:31:00 EST,2501-12-03 17:50:00 EST,3127,"N",53,"Nursing/Other","T-SICU NSG PROGRESS NOTE","
+T-SICU NSG PROGRESS NOTE
+S/O:
+NEURO: Pt opens eyes spontaneously, and wiggles L fingers spontaneously. Unable to elicit anything more than a faint flexion in LE's. PERL. +COUGH/gag.IV dilaudid q2-4hr w/ some relief of irreg. breathing pattern.
+
+CV:HR:85-110 SR/.ST, minimal vent. ectopy.SBP:130-160 until 5p. Pt w/ period of sustained hypertension that responded to 5mg IV lopressor.CVP:[**2-4**].
+
+RESP: RR:[**8-19**], w/ brief periods of apnea ([**5-13**] sec) . Pt reamins intubated and vented: PSV 10/5 peep x 40%. Sats:98-100% Irreg (hiccough type breathing) pattern continues. Lungs clear but diminished at bases. Sxnd q2-3 hrs for mod amts of thick white/pale yellow secretions.
+
+GI: Abd softly distended. Impact w/ fiber @80cc/hr via OGT. Residuals<35cc. -bm/flatus.
+
+GU: Pt cont w/ brisk auto-diuresis:150-225cc/hr. Lytes pending.
+
+HEM/ID: Tmax:101.3->99.6 w/ tylenol. Abxs as ordered.
+
+ENDO: Blood glucose:98-127 on insulin drip at 4-5u/hr.
+
+SKIN:Backside intact. Lacs and abrasions unchanged per carevue.
+
+SOCIAL: NO family contact today.
+
+A:Stable. Await decision per family for further management.  Cont to monitor hemodynamics. Provide comfort and support.
+",,
+8907,7627,11073,0,2501-12-04 05:40:00 EST,2501-12-04 05:44:00 EST,3338,"N",53,"Nursing/Other","nursing note 7p-7a","
+nursing note 7p-7a
+pts family arrived at 8pm and requested to withdraw care. dr. [**Last Name (STitle) 1117**] and trauma team made aware. After family spent time with pt and said there goodbyes morphine gtt started and titrated up for comfort. pt presently on 100mg/hr of morphine which is keeping him comfortable. vent turned off and tpiece in place. family at bedside all night. nursing support and comfort given. isolated dose of demoral given for rigors. 
+",,
+8907,7627,11073,0,2501-12-04 06:28:00 EST,2501-12-04 06:30:00 EST,3406,"N",53,"Nursing/Other","RESP CARE NOTE","
+RESP CARE NOTE
+PT REMAINS INTUBATED.  VENTILATOR SUPPORT WITHDRAWN, PLACED ON 21% FIO2 VIA T-PIECE.  PT IS DNR/CMO.  
+",,
+8907,7627,11073,0,2501-12-04 19:52:00 EST,2501-12-04 20:03:00 EST,3127,"N",53,"Nursing/Other","T-SICU NSG PROGRESS NOTE","
+T-SICU NSG PROGRESS NOTE
+S/O: Pt remained sedated , on T-piece thru-out day. Family in and out all am, w/ clear plan to maintain comfort, and let ""nature take it's course"". Basic care and monitoring provided. Pt sxn'd per request of family. MSO4 drip remains at 200mg/hr ...pt appears comfortable. Hemodynamics and O2 sat essentially unchanged all day. 
+A: cmo
+P:Cont MSO4 drip for comfort. ? plan to extubate in near future.Support family as needed.
+",,
+8907,7627,11073,0,2501-12-05 07:02:00 EST,2501-12-05 07:03:00 EST,3660,"N",53,"Nursing/Other",,"
+
+pt on comfort measures only family at pts bedside all night pt receiving ms gtt and iv middazalam qihr, 
+",,
+8907,7627,11073,0,2501-12-05 16:30:00 EST,2501-12-05 16:33:00 EST,4164,"N",53,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+SW met with family throughout day for support around end of life.  Meeting held with pts sons [**Name (NI) 291**] and [**Name2 (NI) 6292**], MDs [**Doctor Last Name 2047**] and Purcaro re sons concerns that family meeting of [**2501-12-2**] led family to believe that pt would expire within a certain time frame after extubation.  All questions answered by MD, and support provided to family by team.  SW to continue to follow while on TSICU.  Pls pg prn.
+",,
+8907,7627,11073,0,2501-12-05 19:01:00 EST,2501-12-05 19:08:00 EST,3338,"N",53,"Nursing/Other","nursing note 7a-7p","
+nursing note 7a-7p
+pt conts to be care and comfort measures only. pt on morphine gtt and versed added this am d/t increased tremors. pt cont with intermittent periods of discomfort throughout shift so fentanyl gtt added and will attempted to wean morphine gtt as tol. presently pt on morphine, fentanyl and versed gtt. family at bedside all day and met with icu attending x2. nursing support given.  
+",,
+8907,,11073,0,2501-12-06 01:29:00 EST,2501-12-06 01:33:00 EST,3510,"N",53,"Nursing/Other","T-SICU NSG NOTE:","
+T-SICU NSG NOTE:
+PT UNCHANGED, REMAINED ON COMFORT MEASURES, VERSED AND FENTANYL GTTS FOR COMFOTR, FAMILY AT BEDSIDE, PT MAINTAINING SBP 70'S-80'S AND HR 90'S IN NSR UNTIL 2358 WHEN HE BECAME ASYSTOLIC AND WITHOUT BLD PRESSURE, RR HAD BEEN [**5-11**] ALSO APNEIC AT THIS TIME. HO NOTIFIED AND PT PRONOUNCED.
+",,

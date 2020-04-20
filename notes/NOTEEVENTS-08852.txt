@@ -1,0 +1,355 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8852,9756,,,2530-10-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2530-10-13**]              Discharge Date:   [**2530-10-19**]
+ 
+Date of Birth:  [**2438-12-23**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 4245**] 
+Chief Complaint:
+hyponatremia, decreased mental status
+ 
+Major Surgical or Invasive Procedure:
+Peripherally inserted central catheter
+ 
+History of Present Illness:
+[**Age over 90 **] yo F with H/o hypothyroid  presents after fall.  Recently 
+admitted for fall and pain control on [**Date range (1) 12344**], noted to have 
+low Na (129) at the time, she then returned with altered mental 
+status in setting of hyponatremia (112).  Initially attempted 
+correction with normal saline, but she became volume overloaded 
+w/ pulmonary edema [**3-2**] diastolic dysfunction.  Then, attempted 
+diuresis caused bradycardia and hypotension.  She was 
+transferred to MICU for further stabilization, and did well 
+subsequently with minimal intervention - fluid restriction and 
+small amount of hypertonic saline, which was discontinued.  She 
+was then transferred to the floor for further titration of pain 
+regimen and treatment of L1 fracture.
+<BR>
+On evaluation of her back, an MR of the L-Spine revealed acute 
+compression fracture of L1 vertebra with retropulsion and 50% 
+narrowing of central portion of the spinal canal, moderate 
+spinal stenosis at L4-5 level due to disc and facet degenerative 
+changes. Moderate-to-severe left foraminal stenosis at L5-S1 
+level secondary to disc degenerative changes and facet 
+degeneration.
+<BR>
+Pt was initially placed on a fentanyl patch (25mcg) in MICU for 
+pain control.
+<BR>
+On transfer, pt was denying any pain, chest discomfort or 
+shortness of breath
+
+ 
+Past Medical History:
+1. HTN  
+2. Hypothyroidism  
+3. h/o migraines  
+4. History of post-op MI  
+5. spinal stenosis  
+6. s/p TAH  
+7. urinary incontinence  
+8. h/p post-herpetic neuralgia 2003  
+9. History of drop attacks  
+10. s/p right eye hemorrhage earlier this year  
+[**35**]. Echo [**4-2**]- Nl EF. 2+ MR, 2+ AR  
+12. peripheral neuropathy [**3-2**] spinal stenosis  
+
+ 
+Social History:
+ Lives independently. Was driving prior to hemorrhage in eye. No 
+tob, etoh or drugs. 
+
+ 
+Family History:
+NC
+ 
+Physical Exam:
+VS 98.2 112/62 76 16 93%
+GENERAL: NAD
+HEENT: L pupil post-surgical, R 2mm.  [**Last Name (LF) 2765**], [**First Name3 (LF) **] tacky.
+NECK: JVP 7cm, supple, no LAD.
+CARDIOVASCULAR: S1, S2, reg, II/VI systolic LUSB.
+LUNGS: CTAB by anterior exam.
+ABDOMEN: Active bowel sounds, soft, NT, ND.
+EXTREMITIES: Warm, no CCE.
+NEURO: A/OX self, place, situation, time.
+
+ 
+Pertinent Results:
+[**2530-10-12**] 02:00PM   PLT COUNT-317
+[**2530-10-12**] 02:00PM   NEUTS-83.7* BANDS-0 LYMPHS-10.9* MONOS-4.9 
+EOS-0.4 BASOS-0.1
+[**2530-10-12**] 02:00PM   WBC-12.2* RBC-3.20* HGB-10.2* HCT-28.1* 
+MCV-88 MCH-31.7 MCHC-36.2* RDW-14.3
+[**2530-10-12**] 02:00PM   ASA-NEG ETHANOL-NEG ACETMNPHN-30.8* 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**2530-10-12**] 02:00PM   OSMOLAL-252*
+[**2530-10-12**] 02:00PM   CALCIUM-8.7 PHOSPHATE-4.7*# MAGNESIUM-2.1
+[**2530-10-12**] 02:00PM   CK-MB-5 cTropnT-<0.01
+[**2530-10-12**] 02:00PM   CK(CPK)-156*
+[**2530-10-12**] 02:00PM   GLUCOSE-120* UREA N-26* CREAT-1.2* 
+SODIUM-112* POTASSIUM-6.7* CHLORIDE-78* TOTAL CO2-25 ANION 
+GAP-16
+[**2530-10-12**] 03:00PM URINE  HYALINE-0-2
+[**2530-10-12**] 03:00PM URINE  RBC-[**4-2**]* WBC-0-2 BACTERIA-OCC YEAST-NONE 
+EPI-0-2
+[**2530-10-12**] 03:00PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-100 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+[**2530-10-12**] 03:00PM URINE  COLOR-Yellow APPEAR-Clear SP [**Last Name (un) **]-1.019
+[**2530-10-12**] 03:00PM URINE  OSMOLAL-447
+[**2530-10-12**] 03:00PM URINE  HOURS-RANDOM CREAT-81 SODIUM-LESS THAN  
+POTASSIUM-49
+[**2530-10-12**] 03:04PM   NA+-116*
+[**2530-10-12**] 05:20PM   GLUCOSE-115* UREA N-24* CREAT-1.1 SODIUM-114* 
+POTASSIUM-5.2* CHLORIDE-83* TOTAL CO2-23 ANION GAP-13
+
+MR L SPINE W/O CONTRAST  [**2530-10-14**] 12:11 PM
+Acute compression fracture of L1 vertebra with retropulsion and 
+50% narrowing of central portion of the spinal canal. Moderate 
+spinal stenosis at L4-5 level due to disc and facet degenerative 
+changes. Moderate- to-severe left foraminal stenosis at L5-S1 
+level secondary to disc degenerative changes and facet 
+degeneration.
+
+ECHO Study Date of [**2530-10-14**]   
+1. The left atrium is mildly dilated. The left atrium is 
+markedly dilated.  
+2. Left ventricular wall thicknesses are normal. The left 
+ventricular cavity size is normal. Overall left ventricular 
+systolic function is normal (LVEF>55%). [Intrinsic left 
+ventricular systolic function is likely more depressed given the 
+severity of valvular regurgitation.] Tissue velocity imaging 
+E/e' is elevated (>15) suggesting increased left ventricular 
+filling pressure (PCWP>18mmHg).  
+3.While difficult to assess, the right ventricular cavity is 
+probably mildly dilated. Right ventricular systolic function 
+appears depressed.  
+4.The aortic valve leaflets (3) are mildly thickened. There is a 
+minimally increased gradient consistent with minimal aortic 
+valve stenosis. Mild to  
+moderate ([**1-30**]+) aortic regurgitation is seen.  
+5. The mitral valve leaflets are structurally normal. Moderate 
+(2+) mitral regurgitation is seen.  
+6. Moderate [2+] tricuspid regurgitation is seen.  
+7.There is moderate pulmonary artery systolic hypertension.  
+8. Significant pulmonic regurgitation is seen.  
+9.There is no pericardial effusion.  
+
+ 
+Brief Hospital Course:
+91F Mitral regurg, probable diastolic dysfunction intially 
+admitted with delirium probably secondary to hyponatremia, poor 
+PO intake, and severe pain [**3-2**] L1 compression fracture.  In 
+detail:
+
+1. Hyponatremia: Pt. initially presented with Na of 112.  She 
+was given NS which precipitated volume overload and pulmonary 
+edema secondary to diastolic dysfunction and mitral 
+regurgitation. She subsequently had an episode of hypotension 
+[**3-2**] overdiuresis and was transferred to the ICU.  Volume was 
+allowed to reequilibrate, and the patient's sodium improved with 
+fluid restriction and a small amount of hypertonic saline.  This 
+was therefore thought to be as a result of combination SIADH as 
+well as hypovolemic hyponatremia.
+
+2. Compression fracture: An MRI showed a compression fracture of 
+the L1 vertebra with retropulsion and 50% narrowing of central 
+portion of the spinal canal, moderate spinal stenosis at L4-5 
+level due to disc and facet degenerative changes. She may be a 
+candidate for future kyphoplasty.  For the time being she has 
+been fitted with a TLSO brace. Her pain regimen was tailored 
+during her stay. Pt. was able to ambulate with PT.
+
+3. Falls: We reduced the patients narcotics dose and she was 
+evaluated by PT.  She continued her rehabilitation at the [**Hospital1 67**] 
+House.
+
+4. Heart failure: The patient's pulmonary edema is resolving.  
+Her ECHO reveals a   EF55% 2+TR, 2+MR, RV depressed, Pulm 
+Regurg, mod PA HTN. <BR>. She was started on Lisinopril and 
+continued on her metoprolol and ASA.
+
+5. Pain Control: for the patient's compression fracture, Mrs. [**Doctor First Name 12345**] pain was controlled with a Lidocaine patch, oxycodone 
+sustained release 10mg q12, OxycodONE liquid 2.5 mg PO Q4H:PRN 
+pain.  We stopped her fentanyl patch (25mcg) as it caused the 
+patient to become confused.  Narcotics should be used very 
+carefully in this patient as she tends to become confused and is 
+susceptible to falls.  
+
+6. ? Pneumonia: As pt became hypoxic in the setting of mental 
+status changes shortly after admission, she was treated 
+empirically with a course of levofloxacin.  However, she was 
+never febrile and did not produce sputum, so antibiotics were 
+discontinued at the time of discharge.
+
+* Code status: DNR/DNI
+
+* Comm: Son - healthcare proxy ([**First Name8 (NamePattern2) **] [**Known patient lastname 1103**])
+ 
+Medications on Admission:
+ASA 81
+Levothyroxine 25
+Colace 100 BID
+Pantoprazole 40
+Levofloxacin 250
+SQH
+Tobramycin eye drops
+Lidocaine 5% patch
+Fentanyl Patch 25mcg
+Metoprolol 50 BID
+Morphine IV PRN
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+2. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+3. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+4. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours).  
+5. Lidocaine 5 %(700 mg/patch) Adhesive Patch, Medicated Sig: 
+One (1) Adhesive Patch, Medicated Topical  DAILY (Daily): 12 
+hours on then 12 hours off.  
+6. Tobramycin Sulfate 0.3 % Drops Sig: Two (2) Drop Ophthalmic  
+QID (4 times a day).  
+7. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+8. Oxycodone 10 mg Tablet Sustained Release 12HR Sig: One (1) 
+Tablet Sustained Release 12HR PO Q12H (every 12 hours): hold for 
+sedation an/or rr<12.  
+9. Oxycodone 5 mg/5 mL Solution Sig: 2.5 mg PO Q4-6H (every 4 to 
+6 hours) as needed for pain.  
+10. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+11. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H 
+(every 6 hours) as needed for pain.  
+12. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: asdir 
+ML Intravenous  DAILY (Daily) as needed: flush PICC per 
+protocol.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+1. Delirium secondary to hyponatremia probable secondary to 
+dehydration
+2. L1 vertebral compression fracture 
+3. spinal stenosis
+4. hypertension
+5. hypothyroidism
+6. urinary incontinence
+7. history of drop attacks
+8.  peripheral neuropathy
+9. Congestive heart failure
+10. Mitral valve regurgitation
+11. Hypotension secondary to overdiuresis
+ 
+Discharge Condition:
+stable. can ambulate with brace, sodium 130
+ 
+Discharge Instructions:
+1. please continue to take your medications as prescribed.
+2. please wear your brace when ambulating.
+3. if [**Doctor First Name **] experience chest pain, shortness of breath, worsening 
+back pain or other worrisome symptoms please seek medical 
+attention.
+4. At your rehabilitation facility: Please have sodium level 
+checked on [**2530-10-23**], then weekly thereafter.
+
+ 
+Followup Instructions:
+1. Please call and make an appointment with your primary care  
+physician [**Last Name (NamePattern4) **] 1-2 weeks. [**Last Name (LF) **],[**First Name3 (LF) 144**] D. [**Telephone/Fax (1) 108**]  Recommend 
+serial X ray while in brace over next three months.
+
+Recommend reevaluation of thyroid function tests one month 
+following discharge.
+
+Provider: [**Name10 (NameIs) 144**] [**Last Name (NamePattern4) 4248**], M.D. Date/Time:[**2531-3-7**] 11:00
+
+ 
+                             [**Name6 (MD) 144**] [**Last Name (NamePattern4) 4248**] MD [**MD Number 4249**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] [**Name8 (MD) **] MD [**MD Number 2335**] [**2530-10-19**] @ 1416
+Signed electronically by: DR. [**First Name8 (NamePattern2) 144**] [**Name (STitle) **]
+ on: [**Doctor First Name 46**] [**2530-11-9**] 3:14 PM
+(End of Report)
+
+
+",,
+8852,9756,11007,0,2530-10-14 04:39:00 EST,2530-10-14 05:26:00 EST,4027,"N",54,"Nursing/Other","NURSING ADMISSION AND PROGRESS NOTE 0145-0700","
+NURSING ADMISSION AND PROGRESS NOTE 0145-0700
+REPORT RECEIVED FROM [**Hospital Ward Name **] 2.  PT ARRIVED VIA STRETCHER ACCOMPANIED BY RN AND TRANSFERRED TO MICU 788 WITH NO UNTOWARD INCIDENT.  PT'S ENVIRONMENT SECURED FOR SAFETY.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.
+
+THIS IS A [**Age over 90 276**] Y/O F THAT INITIALLY PRESENTED TO THE [**Hospital1 **] AFTER SUSTAINING A FALL (NO FRACTURE) AND C/O N,V AND ANOREXIA.  PT NOTED TO BE HYPONATREMIC AND WITH MENTAL STATUS CHANGES- INITIALLY ADMITTED TO [**Hospital Ward Name **] 2 WHERE SHE IMPROVED BUT AFTER TAKING HER LOPRESSOR, LASIX AND ENALIPRIL- PT NOTED TO HAVE TRANSIENT DROP IN SBP TO 60'S WHICH WAS REMEDIED WITH 500CC BOLUS.  PT ADMITTED TO MICU FOR OBSERVATION- WAS NOTED TO HAVE SBP IN THE 110'S UPON ARRIVAL AND HAS NOT NEEDED ANY PRESSERS OR ADDITIONAL BOLUSES.  WILL INITIATE HYPERTONIC SOLUTION FOR HER HYPONATREMIA.  
+
+NEURO:  PT ALERT AND ORIENTED X 3.  VERY PLEASANT.  HARD OF HEARING, SPEECH IS CLEAR.  ABLE TO VERBALIZE NEEDS WITHOUT DIFFICULTY.  AT BASELINE- PT IS FULLY FUNCTIONING- DRIVING AND ABLE TO PERFORM ADL'S WITHOUT ASSISTANCE.  HAD ALSO BEEN WALKING AT LEAST A MILE A DAY.  PERRLA, 3/BRISK.  NO SEIZURE ACTIVITY NOTED. PT IS CURRENTLY HYPONATREMIC- WILL INITIATE HYPERTONIC SOLUTION- AWAITING FROM PHARMACY. 
+
+RR:  BBS= ESSENTIALLY CLEAR TO ALL LUNG FIELDS.  BILATERAL CHEST EXPANSION NOTED.  RR 15-20.  NO C/O DIFFICULTY BREATHING OR USE OF ACCESORY MUSCLES.  CURRENTLY ON 2L NC.  SP02 > OR = TO 95%.  \
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NSR, HR 60-70'S WITH NO SIGNS OF ECTOPY NOTED.  SBP > OR = TO 100- NO EPISODES OF HYPOTENSION NOTED.  DENIES ANY CHEST PAIN.  PALPABLE PULSES NOTED TO BILATERAL DORSALIS AND RADIALS. PT HAS NEW PICC TO LT AC.  
+
+GI:  ABD IS SOFT, NON-DISTENDED AND NON-TENDER TO PALPATION.  BS X4 QUADRANTS.  PT ABLE TO TOLERATE CLEAR LIQUIDS- ASPIRATION PRECAUTIONS. PASSING FLATUS.  NO BM THIS SHIFT.  
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.
+
+INTEG:  NO SIGNS OF BREAKDOWN NOTED TO BACK OR BUTTOCKS.
+
+SOCIAL:  NO CONTACT FROM FAMILY THIS SHIFT.  
+
+PLAN:  DNR/DNI.  INTIATE HYPERTONIC SOLUTION- AWAITING FROM PHARMACY.  LYTES AT 1000.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]!  
+
+
+",,
+8852,9756,11007,0,2530-10-14 17:31:00 EST,2530-10-14 17:43:00 EST,3995,"N",54,"Nursing/Other",,"
+
+Micu nursing note
+
+Neuro pt is awake and alert following commands, pt recieved morphine 1 mg post ct today and was alittle confused this afternoon but reorientated easy, agian this evening pt c/o back pain med with 1 mg morphine with good effect sates that pain was much improved.
+Pt had mri of spine and head today, results pending
+
+Cv pt stable BP 89/60-156/56, hr 60 -70 sr , serum na 125 this afternoon up from 119, k 4.7 hypertonice na stopped this am
+pulses palp, no edema, pt had echo done today also
+
+resp tp remain on 2l n/c sats 100 % lungs crackles in bases
+GI abd slightly distended and pt c/o RLQ discomfort, stated feels like she needs to go to br, pt started on diet today taking ensure and small amount of food, 
+
+GU pt has foley draining clear yellow unrine output 20 cc hr 
+Id pt afebrile remains on iv antibiotics
+social  daughter and son in today visiting with pt, very concerned all questions answered
+
+Pain pt states that she has had this back pain x5 weeks , adurring mri pain became sever pt med with morphine x1 in Mri with good effect agaihn this afternoonn pt c/o pain and given morphine with good effect, Pt also has lidoderm applied to back and we will start fetn patch today for pain mannagement and prn morphine for breakthrough pain
+
+A/p continue  to follow serum na, awaiting Mri results,  would apply fent patch low dose and see if pt has better pain mannagement, encourage po's  pt to have pt consult  and nurtition consult , if we do not get a good contorl over pain would get pain service  involved.
+",,
+8852,9756,11007,0,2530-10-15 04:26:00 EST,2530-10-15 04:53:00 EST,7277,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note:
+
+Neuro: Pt. was oriented, pleasant, and cooperative at beginning of shift. Pt. was comfortable with Lidoderm patch, Fentanyl 25mcg patch applied. Pt. remained alert and conversant after patch applied. She slept well through the night and insisted on sleeping on her L side as she does at home. She turned well at the beginning of the shift but when turning her to remove Lidoderm patch she said that she was in a lot of pain and to put her back and not move her. Pt. fell back asleep and was not moved again as it appears that she needs her pain needs reassessed when more awake.
+
+CV: HR 50s-60s NSR with  no ectopy, NBP 100s-120s/40s-50s. Pt. has double-lumen PICC which is patent and draws well. Sodium is now 140.
+
+Resp: RR teens, 02 sats >97% on 2 L NC. Pt. has crackles throughout lungs, team is aware and wanted pt. monitored for resp distress, falling sats, and tachycardia before intervening. No worsening of resp status during night.
+
+GI: Pt. ate small amounts of food and drank juice. BSX4, no BM on shift.
+
+GU: Pt. autodiuresing during the night and is now 1500cc negative for the day.
+
+Skin: Intact
+
+Social: Family in to see pt. and reassured that pt. was improving.
+
+",,

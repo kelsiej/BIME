@@ -1,0 +1,1364 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8920,8535,,,3263-04-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3263-4-6**]              Discharge Date:   [**3263-4-27**]
+ 
+Date of Birth:  [**3175-10-23**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 98**] 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+Intubation.
+Cardiac Catherization with stent placement.
+Swan-Ganz hemodynamic monitoring through the right internal 
+jugular.
+ 
+History of Present Illness:
+   This is an 87 year-old male with history of 3 vessel coronary 
+disease, congestive heart failure, aortic stenosis, diabetes, 
+end-stage renal disease not on dialysis who presents with ST 
+elevation infarction.  He was recently admitted with unstable 
+angina and was discharged 2 days prior to this presentation.  He 
+had been having intermittent chest pain with exertion that 
+resolved with rest for the past month.  The morning of 
+admission, he had [**7-29**] burning substernal chest pain with 
+intermittent radiation to the left chest.  He came into the 
+emergency department and was found to have ST elecations 
+inferiorly.  It was felt that he had collateral insufficiency 
+given inferior ST elevations in the setting of a known occluded 
+right coronary.  Given prior plans for medical management, he 
+received aspirin, sublinqual nitro x 3, Plavix 600 mg, heparin 
+srip, lopressor, morphine and ativan.  His chest pain resolved 
+in the emergency department, and he was transferedd to the CCU.  
+Upon arrival to the CCU, he complained of persistent burning 
+substernal chest pain, and he EKG had persistent ST elevations 
+inferiorly with ST elevations in V4 with right-sided leads.  He 
+became acutely hypoxic to the 80s on a non-rebreather.  A 
+bedside echocardiogram showed severely depressed left 
+ventricular function with preserved right ventricular function.  
+After discussions with his outpatient nephrologist, covering 
+cardiologist, and daughters, he was taken emergently to the 
+catherization lab for a diagnostic and potentially therapeutic 
+catherization despite the risk of needing dialysis after the dye 
+load.  He was emergently intubated.  He was started on pressors 
+for cardiogenic shock.  Catherization revealed severe stenosis 
+at the left main trifucation.  A stent was placed to the 
+proximal LAD.  He was transfered to the CCU for further 
+management.
+ 
+Past Medical History:
+1. Coronary artery disease status post an MI [**86**] years ago.  A 
+catherization in [**3254**] showed severe 3 vessel disease.  A 
+decision was made then not to pursue bypass surgery.  
+Persantine-MIBI on [**4-3**] showed fixed inferior and inferiolateral 
+perfusion defect.
+2. Congestive heart failure with an ejection fraction of 19% on 
+persantine-MIBI [**3263-4-3**].
+3. Aortic Stenosis with a gradient of 41 mmHg in 6/05.
+4. Diabetes that is diet controlled.
+5. End stage renal disease not on dialysis.
+6. Hypertension.
+7. Hyperlipidemia.
+8. Hypothyroidism.
+9. Hiatal hernia with gastroesophageal reflux.
+10. Status post ressection of the sigmoid colon and rectum for 
+colon cancer.
+11. Prostate cancer with watchful waiting.
+ 
+Social History:
+He is widowed and lives alone.  He is independent at baseline.  
+He is a former smoker and he occasionally drinks alcohol.
+ 
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+Vitals: Temperature: Blood Pressure: Pulse: Respiratory Rate: 
+Oxygen Saturation:
+General: Intubated and sedatied.
+HEENT: Pupils equal and reactive, moist mucous membranes, 
+anicteric sclera.
+Pulmonary: Bibasilar crackles anteriorly.
+Cardiac: Regular rate and rhythm, s1, s2, with III/VI harsh 
+systolic crescendo-decrescendo murmur heard thoughout.
+Abdomen: Soft, mildly nondistended with decreased bowel sounds.
+Extremities: Warm without edema.  Dopplerable dorsalis pedis on 
+the right and posterior tibial on the left.  Swan-ganz catheter 
+in placed at the right groin.  Balloon pump in placed at the 
+left groin.  Oozing at both groin sites. 
+
+ 
+Pertinent Results:
+Hematology:
+WBC-16.4 HGB-11.0 HCT-32.1 PLT COUNT-195
+NEUTS-45.4 BANDS-0 LYMPHS-45.9 MONOS-3.9 EOS-3.8 BASOS-1.1
+.
+Chemistries:
+SODIUM-137 POTASSIUM-4.2 CHLORIDE-99 TOTAL CO2-23 UREA N-84 
+CREAT-4.9 GLUCOSE-92 
+CALCIUM-9.0 PHOSPHATE-4.5 MAGNESIUM-2.5
+.
+Coagulation:
+PT-13.3 PTT-150 INR(PT)-1.2
+.
+Arterial Blood Gases:
+PO2-215 PCO2-53 PH-7.23 (intubated) 
+.
+Cardiac Enzymes:
+CK(CPK)-122 CK-MB-6 MB cTropnT-0.69
+.
+.
+EKG [**3263-4-6**]: Normal sinus rhythm with ST elevations in III and 
+aVF and ST depressions in I, aVL, V2-V4.  Right sided leads had 
+ST elevations in V4R.
+.
+.
+Echocardiogram (limited views) [**3263-4-6**]: Severely depressed left 
+ventricular function (EF ~ 15-20%).  Preserved right ventricular 
+function.
+. 
+.
+Catherization [**3263-4-6**]: His right coronary was totally occluded.  
+The left main had an 80% tubular stenosis.  The LAD had a 90% 
+stenosis at the origin and a 70% stenosis at the mid-portion.  
+The D1 had a 95% ostial stenosis.  The circumflex had moderate 
+disease without any critical lesions.  There were collaterals 
+supplying the right coronary territory.
+.
+Hemodynamics: He had a cardiac index of 2.1 on dopamine.  His 
+right ventricular end diastolic pressure was elevated at 20 
+mmHg, and his wedge was elevated at 30 mmHg.    
+.
+Intervention: A drug eluting stent was placed to the left main 
+and proximal LAD with good resultant flow.  A intraaortic 
+balloon pump was placed.
+.
+.
+Speech and Swallow Assessment [**3263-4-19**]: Moderate delay in 
+laryngeal valve closure with associated aspiration and 
+penetration as described above.
+Please see also the speech language pathology report within the 
+notes portion of the medical record for full details, 
+assessment, and recommendations.
+.
+.
+PICC line placement [**3263-4-23**]:  Successful placement of a single 
+lumen PICC line into the right brachial vein with the tip in the 
+SVC. The line is ready for use.
+.
+.
+CXR [**3263-4-26**]: IMPRESSION: Increasing cardiomegaly with worsening 
+moderate pulmonary edema denote cardiac decompensation. 
+Persistent left lower lobe atelectasis and small bilateral 
+pleural effusions.
+
+ 
+Brief Hospital Course:
+This is an 87 year-old gentleman with known 3 vessel coronary 
+artery disease, congestive heart failure EF 25%, aortic stenosis 
+([**Location (un) **] 0.9 cm2), diabetes who presented with an inferior 
+ST-elevation myocardial infarction secondary to collateral 
+insufficiency.  He was recently admitted to [**Hospital1 83**] with 
+complaints of chest pain and found to have significant CAD based 
+on a Persantine MIBI test, however a cardiac catheterization 
+could not be performed given the severe acute on chronic renal 
+failure.  This particular hospitalizations was complicated by 
+multiple factors including cardiogenic shock, septic shock, 
+repeated episodes of aspiration PNA, and flash pulmonary edema.  
+After his last episode of hypoxic respiratory failure and 
+intubation/extubation, the pt was made DNR/DNI after long 
+discussions with the patient and his family.  Soon after he was 
+medically stabilized and transferred to out of the CCU.  However 
+he suffered another episode of respiratory distress during which 
+time he was made CMO after discussion with the patient and the 
+HCP.  The details of the hospital course are summarized below.
+.
+.
+CODE STATUS: Prior to admission, the pt was living independently 
+with intact ADL and IADLS.  However, this hospitalization for 
+STEMI was complicated by episodes of shock and hypoxic 
+respiratory distress requiring intubation/extubation after which 
+point the patient was made DNR/DNI.  He was stabilized medically 
+and called out of the ICU on [**3263-4-23**].  However he experienced 
+another episode of respiratory distress from pulmonary edema on 
+the evening of [**3263-4-25**].  The following day, a family meeting was 
+held with the patient and both the patient and the HCP agreed to 
+become CMO.  He was subsequently transitioned off medical 
+therapy and instead started on a morphine drip through a 
+pre-existing PICC line for comfort measures.  In addition, the 
+pt was written for PRN nebulizers and promethazine.  If needed, 
+the pt should also receive a Scopolamine patch.
+.
+.
+1. STEMI: His inferior infarction was attributed to collateral 
+insufficiency.  Initially, there was concern for right 
+ventricular involvement.  However the right ventricle had 
+preserved function on a bedside echocardiogram.  Catherization 
+confirmed severe 3 vessel disease.  At the time of 
+catherization, CT surgery felt that he was not a surgical 
+candidate given his multiple comorbidities.  Therefore, he 
+underwent stenting to the origin of the LAD.  His CKs peaked at 
+1351 and trended down post-intervention.  He was maintained on 
+aspirin, Plavix, and Lipitor.  When he was weaned from pressors, 
+he was started on a beta-blocker.  This was discontinued upon 
+commencement of amiodarone.  After catheterization, the patient 
+did not have any complaint of chest pain, nor did he have 
+concerning EKG changes.   
+.
+2. Hypoxic Respiratory Failure: His initial respiratory failure 
+was likely secondary to cardiogenic shock in the setting of his 
+ST elevation myocardial infarction.  He required intubation 
+prior to his catherization.  Post-procedure, he developed 
+copious amounts of dark thick sputum.  At that time, he 
+developed a fever and a white count.  He was presumed to have an 
+aspiration pneumonia as below.  He was maintained on the 
+ventilator while he was on pressors for shock.  As his shock 
+resolved, he became more hypertensive with elevated pulmonary 
+artery pressures.  At that time, he had evidence of pulmonary 
+edema.  He was diuresed prior to extubation.  He was 
+successfully extubated on hospital day 7.  On hospital day 9, he 
+had an episode of hypoxia in the setting of hypertension that 
+was consistent with flash pulmonary edema.  A chest x-ray showed 
+marked increased in bilateral pulmonary edema.  He received 
+Lasix and metolazone.  His symptoms improved with diuresis.  On 
+[**4-20**] he developed respiratory failure secondary to pulmonary 
+edema and likely aspiration pneumonia, which was treated with 
+triple antibiotics. His pulmonary edema responded poorly to 
+attempted diuresis. Mental status waxed and waned but was 
+generally declining and urine output poor in setting of 
+aggressive diuresis. Patient and family did not want to pursue 
+dialysis. Given poor prognosis decision was made with the family 
+to move toward comfort care/hospice.
+.
+3. Shock: Initially, he had evidence of cardiogenic shock with a 
+low cardiac index on dopamine.  A balloon pump was placed at the 
+time of catheterization and he was continued on dopamine.  A 
+Swan-Ganz catheter was placed for hemodynamic monitoring.  On 
+hospital day 3, he had evidence of septic shock give and 
+elevated cardiac index with a low systemic vascular resistance.  
+He had developed a fever to 101.3 and a white count of 22.  He 
+did not respond to a cortisol stimulation test and was started 
+on stress dose steroids.  He was started empirically of 
+vancomycin, levofloxacin, and Flagyl for a presumed aspiration 
+pneumonia and completed a 10 day course.  All cultures remained 
+negative.  Since his cardiac output had improved, the balloon 
+pump was removed.  With the onset of the septic shock, he became 
+more hypotensive.  Therefore, Levophed was started in addition 
+to the dopamine.  Over the next few days, he became afebrile, 
+his white count trended down, and he was weaned from all 
+pressors.  The Swan-Ganz catheter was subsequently removed.  He 
+has remained hemodynamically stable since that time.
+.
+4. Atrial Fibrillation: He intermittently went into atrial 
+fibrillation.  On hospital day 9, he had atrial fibrillation 
+with rapid ventricular rate with associated hypotension.  He was 
+loaded with IV amiodarone.  Subsequently, he dropped his 
+pressures and became bradycardic.  He was transitioned to oral 
+amiodarone and received 2 days of 400 bid followed by 400 daily 
+which at this point will be continued indefinitely. Amiodarone 
+was discontinued prior to discharge when decision was made to 
+transition to comfort care.
+.
+5. Congestive heart failure: A post-intervention echocardiogram 
+showed an ejection fraction of 15%.  He initially had a balloon 
+pump for support.  In the setting of septic shock, he became 
+total body fluid overloaded and required diuresis with Lasix.  
+With improvement in his perfusion pressures, he began to 
+autodiuresis.  He did go into flash pulmonary edema on [**4-20**] 
+which eventually resolved. He has been difficult to diurese 
+despite multiple attempts with agressive high dose diuretics.  
+He continues to be total volume overloaded. He will be 
+discharged on furosemide 60 mg po qd and with morphine for 
+symptomatic control of dyspnea.
+.
+6. End-stage renal disease: His renal function had been 
+deteriorating prior to admission.  Discussions were held with 
+his nephrologist prior to taking him to the catherization lab.  
+It was felt that the benefit of angiography with possible 
+intervention outweighed the risk of contrast nephropathy.  
+Post-procedure, his creatinine trended down with adequate urine 
+output.  On hospital day 3 with the onset of septic shock, his 
+creatine began to rise.  This rise was likely from decreased 
+renal perfusion.  As he was weaned off of the pressors and as 
+his blood pressure improved, his urine output increased with a 
+subsequent decrease in his creatinine.  Dialysis was discussed 
+with patient and family but this was not consistent with his 
+known wishes. 
+.
+7. Ileus: On admission, he had not had a bowel movement in 10 
+days.  Plain films confirmed that his intestines were full of 
+stool.  He received an aggressive bowel regimen.  After several 
+days, a abdominal plain film showed dilated colonic loops.  An 
+abdominal CT confirmed the dilated loops of bowel and showed no 
+signs of obstruction.  Surgery was consulted and felt that this 
+was consisted with ileus likely secondary to the fentanyl during 
+sedation.  He was decompressed with an NG tube to low suction 
+and rectal tube.  Repeat abdominal plain films showed no further 
+dilatation.  Once he was off of fentanyl sedation, his bowel 
+sounds improved and he began to move his bowels.  He was 
+maintained on bisacodyl suppositories.
+.
+8. Aortic stenosis: He has severe aortic stenosis with a 
+gradient of 64 mmHg and a valve area of 0.9. Volume status was 
+carefully monitored given this setting.
+.
+9. Diabetes: His blood glucose was slightly elevated during the 
+initial periods of septic shock.  At that time, he was 
+maintained on an insulin sliding scale.  He was later well 
+controlled and did not require any additional insulin.
+.
+10. Prophylaxis: He was maintained on subcutaneous heparin.  He 
+was on a bowel regimen as above.  He was maintained on 
+pantoprazole.
+.
+11. Access: He initially had a Swan-Ganz through his right 
+femoral vein.  This was resited to the right internal jugular.  
+The balloon pump was in the left femoral artery.  A radial 
+arterial line was placed when the balloon pump was removed.  
+Once he was stable off of pressors, the swan and the central 
+line were removed.  He had peripheral IVs. He will be discharged 
+with PICC line to facilitate morphine administration.
+.
+12. FEN: He was started on tube feeds on hospital day 3 as he 
+was still intubated.  These were held in the setting of ileus.  
+He was diuresed as above.  He was maintained on tube feeds.  As 
+his mental status improved, he was evaluated for PO intake.  
+Eventually he underwent video speech and swallow evaluation 
+which revealed delayed laryngeal closure; it was recommended 
+that he try ground solids and thickened liquids.  Soon after 
+beginning this, he had likely aspiration event leading to PNA 
+(see above).  After recovering from this, he was maintained on 
+cautious PO diet.  Per family request, he was allowed to have 
+thin liquids as well.  He continues to be at high risk for 
+aspiration.
+.
+ 
+Medications on Admission:
+Aspirin 325 po qd
+Plavix 75 po qd
+Atorvastatin 80 po qd
+Coreg 6.25 po bid
+Isosorbide dinitrate 10 po tid
+Bumetanide 1 po bid
+Cinacalcet 30 po qd
+Lanthanum 1000 TID
+Epoeitin 2000 MWF
+Spiriva 18mcg IH qd
+Levothyroxine 137 mcg qd
+Allopurinol 100 po qod
+Pantoprazole 40 po qd
+
+ 
+Discharge Medications:
+1. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q4-6H 
+(every 4 to 6 hours) as needed.  
+2. Albuterol Sulfate 0.083 % Solution Sig: One (1) nebulizer 
+Inhalation Q6H (every 6 hours) as needed.  
+3. Ipratropium Bromide 0.02 % Solution Sig: One (1) nebulizer 
+Inhalation Q6H (every 6 hours).  
+4. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+5. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+HS (at bedtime) as needed for constipation.  
+6. picc line care
+7. Dolasetron 12.5 mg/0.625 mL Solution Sig: One (1) injection 
+Intravenous  Q8H (every 8 hours) as needed.  
+8. Promethazine 25 mg/mL Solution Sig: 12.5 mg Injection Q6H 
+(every 6 hours) as needed for nausea.  
+9. Morphine (PF) in D5W 100 mg/100 mL Parenteral Solution Sig: 
+drip as needed titrated to comfort ml Intravenous  INFUSION 
+(continuous infusion).  
+10. Morphine Concentrate 20 mg/mL Solution Sig: Five (5) ml PO 
+every four (4) hours: Please titrate to comfort.
+Disp:*330 ml* Refills:*2*
+11. Levsin 0.125 mg/mL Drops Sig: One (1) ml PO every four (4) 
+hours as needed for secretion.  
+12. Ativan 0.5 mg Tablet Sig: 1-2 Tablets PO every 4-6 hours as 
+needed for anxiety, nausea.  
+13. Acetaminophen 325 mg Tablet Sig: 1-2 Tablets PO every [**2-22**] 
+hours as needed for fever or pain.  
+14. Lasix 20 mg Tablet Sig: Three (3) Tablet PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Location (un) 5054**] Knoll Nursing & Rehabilitation - [**Location (un) 5054**]
+ 
+Discharge Diagnosis:
+Primary: 
+1.  ST elevation MI
+2.  Cardiogenic Shock
+3.  Septic Shock
+4.  Three vessel coronary artery disease
+5.  Congestive heart failure
+6.  Atrial fibrillation
+7.  Exacerbation of severe chronic kidney disease
+
+ 
+Discharge Condition:
+Fair, no chest pain, breathing with adequate oxygenation on 2 
+liter oxygen floor.
+
+ 
+Discharge Instructions:
+The pt has been designated Comfort Measures Only after 
+discussions with the patient himself and his HCP.  If the pt 
+were to develop any pain, or respiratory distress, please 
+increase his morphine drip.  In the event that it is not 
+sufficient he can also be given nebulizers as needed and his 
+oxygen can be increased as well.  The pt should also be given 
+compazine or an alternative for nausea and levsin for secretions 
+as necessary.  He should not be re-admitted to the hospital as 
+it is the wish and understanding of the pt and family that his 
+condition is not reversible.
+
+Please maintain his PICC line via routine care.  In the event 
+that the PICC line malfunctions, it should be discontinued and 
+he should be given morphine SL as needed instead.
+ 
+Followup Instructions:
+The pt does not need need to follow up with a cardiologist as he 
+has been designated CMO.  He should be followed as necessary in 
+the facility for titration of his pain medications.
+
+ 
+                             [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern4) 112**] MD [**MD Number 113**]
+ 
+Completed by: [**Name6 (MD) 2943**] [**Last Name (NamePattern4) 2944**] MD [**MD Number 2945**] [**3263-4-28**] @ 1212
+Signed electronically by: DR. [**First Name4 (NamePattern1) 15**] [**Last Name (NamePattern1) **]
+ on: WED [**3263-5-2**] 3:03 PM
+(End of Report)
+
+
+",,
+8920,8535,11088,0,3263-04-06 18:54:00 EST,3263-04-06 19:34:00 EST,1563,"N",1,"Nursing/Other","CCU NSG ADMIT NOTE","
+CCU NSG ADMIT NOTE
+87 yo male w/ recent admit to [**Hospital1 22**] for CAD/r/o MI, d/c 2 days ago. CP this am EMT-> EW at 0800, pf at that time. At ~ 0900 pt c/o [**7-29**] cp, sbp 90/40. rx w/ mso4 4 mg, heparingtt, ativan, asa, plavix, 1 slntg, w/ resolution of pain. Pt transferred to CCU for further medical management, not cath candidate d/t renal failure.
+
+NKDA
+PMH: CAD, multiple MI's, CHF, CRF (recent cr 4.0), HTN, ^ chol, DM AS 
+
+Pt arrived to CCU ~1200, c/o vague cp unable to quantify. Very anxious, c/o nausea. EKG done -> st ^ v4-6, + r sided leads. Pt continued to be agitated/anxious/ sense of impending doom. Hemodynamically stable, however SATS which initially had been 95-98% on 4lnp dropped despite ^ o2, to 6lnp, and 100% nrb, sats dropping to 80's. Seen by CV fellow, attending, housestaff, decision made to take pt to cath lab despite  renal failure. Pt taken to cath lab, intubated, IABP placed. 2 stents to pLAD. Started on Reopro. Pt hypotensive, started on Dopamine and sent to CCU.
+
+Pt arrived to CCU ~ 1630
+
+neuro: arrived on versed 20 mg/hr, weaned to 5 mg/hr. arousable to stimuli, PERI. 
+cv: IABP in L groin, area . Art sheath/venous sheath/swan in r groin. Both oozing requiring pressure dsg, no hematoma.  Prior to cath all distal pulses palpabable. post L DP abs, R PT absent.
+see carevue for all objective data.  Dopamine initially inc to 15 mcg/kg/min, then weaned to 5 mcg. and again ^ to 7.5 to maintain MAPS >75. Hr 70-90 sr, at 1830 hr dropped to 40, back to 70 w/o intervention. IABP w/ good augmentation and unloading. PA SAT 69%, see carevue for co/ci. 
+resp: see carevue for vent settings/ abg.. sx for bloody oral secretions, minimal from ett.
+gi: OGT placed, abd soft distended
+gu: foley placed at 1300, initial 200cc. 440 since. No post cath fluid to be given.
+id: afebrile, wbc 19
+skin: intact
+social: lives by self in [**Hospital1 **], has 2 daughters, both involved. 
+Family has requested priest, has been paged, no response at this time.
+Hearing aid, glasses wallet, valuables all sent home w/ daughters. 
+A: STEMI, 2 stents placed to pLAD. Hemodynamically unstable requiring dopamine, IABP support.. Hypoxia requiring intubation.
+P: Continue hemodynamic support, cycle ck's, 
+   Continue mechanical ventilation.
+   Emotional support to family.
+ 
+",,
+8920,8535,11088,0,3263-04-07 04:59:00 EST,3263-04-07 05:32:00 EST,1722,"N",1,"Nursing/Other",,"
+
+CCU NPN
+
+CV: REMAIN IN NSR WITH HR 76-93. PVC'S PAC'S OCCASSIONALY. INITIALLY ON DOPAMINE @ 10 MCG/KG/MIN. ATTEMPTS TO WEAN DOPAMINE. SBP DROPPING SLOWLY OVERNOC FROM 100-110 NOW DOWN TO 90'S. MAP'S HAVE REMAINED > 65 WITH EXCELLENT U/O. HAS TRANSIENT DROPS IN SBP TO 85-90. MD NOTIFIED. DOPAMINE CURRENTLY 12MCG/KG/MIN. IABP 1:1 SYSTOLIC UNLOAD 6-11. PAD'S INITIALLY 24-31, NOW 19-21. REPRO OFF @ 0200. HEPARIN INITIALY AT 1100U/HR PTT 107. HEPARIN OFF X30 MIN AND RATE REDUCED TO 700U/HR. CK 122,809,1351 TROPONIN 5. MB 137,249 POST PROCEDURE EKG COMPLETED WITH IMPROVMENT. K+ 3.8 REPLACED WITH 20 MEQ KCL. CO 5.5-6.5 CI 2.47,2.91 HOUSE STAFF NOTIFED OF HEMODYNAMIC CHANGES INCLUDING BP'S AND CO,CI FOR THIS AM.
+
+RESP: MECH VENT #8 @ 22L. CURRENT SETTINGS AC 50% 600X 20,5 SUCTIONED FOR THICK COPIOUS AMT'S OF THICK BLOODY SECRETIONS. BS COURSE BILAT. AM ABG 7.47,27,108,20,-1. COPIOUS ORAL OLD BLOODY SECRETIONS AS WELL. MOUTH CARE Q 4/HR
+
+GI: UNABLE TO VIEW OGT BY CXR. OGT REINSERTED AND CXR COMPLETED. PLACMENT CONFIRMED BY TEAM. AUDIBLE PLACMENT + .  ABD SOFT BUT DISTENDED + BS HYPOACTIVE. NO STOOL BUT HAS + STOOL BY X-RAY. GIVEN COLACE AND SENNA OVERNOC. NO STOOL THIS SHIFT.
+
+GU: U/O 90-180 CC/HR UNRINE WAS PINK. SINCE REPRO OFF URINE IS NOW YELLOW WITHOUT SEDIMENT. [**Location 357**]1300. BASELINE CREAT 3.0 CREAT NOW 4.4 RENAL FOLLOWING.
+
+SKIN: R GROIN SITE HAS ARTERIAL LINE AND PA. OZZING SANG. DSG CHG AND PRESSURE DSG REAPPLIED. SM OOZ NOTED ON L GROIN AS WELL. PULSES. R FT + DOPPLER DP WITH - PT. ON L + PT WITH - DP. BOTH FT ARE COOL AND MOTTLED. UPPER EXT COOL AND PALE.  R NARES HAS SM AMT OF SANG OOZ.
+
+ID: TEMP MAX 100.3 WBC 18.4 MD AWARE.
+
+NEURO: WILL OPEN EYES TO PAINFUL STIMULI. DOES NOT FOLLOW COMMNANDS. CAN LIFT AND HOLD BOTH UPPER EXT. WRIST RESTRAINTS APPLIED FOR SAFETY. CURRENTLY ON VERSED @ 5.5 MG/HR PUPILS ARE EQUAL 2MM BRISK.
+
+LABS: HCT 32.9,31,5
+      BS 88
+      PLT 202
+      
+SOCIAL: FAMILY IN ON EVES. HAS TWO DAUGHTERS. CONTACT NUMBERS ON BOARD. PRIEST IN ON EVES PER REQUEST OF FAMILY
+
+DISPOSITION: CURRENTLY FULL CODE
+
+A/P: 87 YR OLD R/I MI WITH CRI. S/P CATH WITH STENTS X2 PROX LAD ON [**4-6**] INTUBATED IN LAB AND IABP PLACED.
+PLAN IS TO ECHO TODAY. NEEDS F/U PTT @ 0800. RENAL IS FOLLOWING. FOLLOW TEMPS. 
+",,
+8920,8535,11088,0,3263-04-07 15:35:00 EST,3263-04-07 16:06:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 7a-7p","
+CCU NPN 7a-7p
+S: orally intubated, nonverbal
+O: Please see carevue for complete assessment data
+No events
+CV: Remains on dopamine 12-15mcg/kg/min to maintain MAP > 65, HR NSR 80s-90s w/ occas PVC/PACs noted. IABP intact via L fem artery, 1:1 w/ good augmentation, syst unloading [**3-30**], diastolic unloading [**11-22**]. L fem angio site pressure dsg changed, minimal ooze, surrounding tissue soft. PAP 36-43/18-23, CO/CI climing steadily t/o shift, SvO2 69-74. R fem site w/ PA & A line patent and intact, pressure dsg changed, cont w/ small ooze, also without palpable hematoma. R DP dop, PT abs; L DP abs, PT dop, extremities cont cool and mottled, good cap refill. Hct stable, lytes repleted as needed. PTT Therapeutic x 1 on 500u/hr. 
+
+RESP: cont full vent support, vent settings adjusted for resp alkalosis. Currently on AC 600x14/.[**3-23**] overbreathing 1-2 breaths w/ most recent ABG 7.35/35/105/20 w/ SpO2 98%. LS coarse throughout, sxn'd for thick bloody secretions. CXR today w/ slightly improved CHF and ? LLL consolidation. 
+
+GI: Abd soft, distended w/ hypoactive BS. OGT aspirate dark red w/ CGs, OB +; pt remains NPO. No stool this shift despite colase/senna and dulcolax suppository. 
+
+GU: foley draining adequate amts cloudy urine, pink/red tinge resolving w/ therapeutic PTT. +500cc since MN. BUN/Cr cont to rise. Renal cont to follow. 
+
+ENDO: failed [**Last Name (un) **] stim, started on hydrocort. BG wnl, not requiring RISS coverage. 
+
+ID: spiked to 101.3 PO. Pan culutred prior to starting abx (vanco, clinda and levaquin). 
+
+NEURO: Remains sedated on versed 5mg w/ occas IVP morphine. Pt awoke this am for daily wake up, denied pain but cont to attempt to move legs-> resumed sedation d/t concern of bleeding via bilat angio sites. 
+PERRL 2mm/brisk, not following commands but does MAE spont. 
+
+SOC: Dtr/granddtrs/S.O. in to visit, updated on pt condition and [**Name6 (MD) 550**] by RN and MD, asking appropriate questions and requesting to be notified if situation starts to seem futile, pt does not wish to live ""in a nursing home like a vegetable."" 
+
+SKIN: see carevue, intact w/ small skin tear near gluteal fold. PIV x 3 and bilat femoral angio sites intact. 
+
+A: 87yo s/p anterior STEMI c/b resp failure, cardiogeinc shock, and ARF on CRI. Currently requiring full vent support/IABP/pressors now ? of early sepsis. 
+P: cont to monitor HD sts, dopamine to maintain MAP >65-70, monitor hemodynamics. Follow u/o and fluid balance w/ worsening ARF, renal following. Follow temp, cont abx. Cont full vent support, RSBI in am and wean as tolerated. 
+",,
+8920,8535,11088,0,3263-04-07 15:39:00 EST,3263-04-07 15:40:00 EST,2930,"N",1,"Nursing/Other",,"
+
+Resp Care
+
+Pt remains intubated and on full vent support.  RR decreased in light on resp alkalosis.  Set at 14 with abg of 7.35/35/105/20.  BS are coarse and suctioning thick bloody sputum.  Specimen sent for culture
+",,
+8920,8535,11088,0,3263-04-08 04:15:00 EST,3263-04-08 04:23:00 EST,7781,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+PT. intubated on ventilatory support. Sx throughout shift for copious bloody secretions (amount lessened as shift progressed). MDIs adm as ordered. No vent setting changes made.
+",,
+8920,8535,11088,0,3263-04-08 04:49:00 EST,3263-04-08 05:06:00 EST,1722,"N",1,"Nursing/Other",,"
+
+CCU NPN
+
+CV: REMAINS IN NSR WITH HR 70-90, OCCASSIONAL TO RARE PVC'S NOTED. PAD'S 20-23. DOPAMINE WEANED TO 9MCG/KG/MIN. SBP 90-110 WITHMAP'S > 75, ADEQUATE U/O. CO 9.5 CI 4.26 CON'T ON IABP 1:1 SYSTOLIC UNLOAD 8-12. CON'T ON HEPARIN @ 500U/HR AM PTT 61.3
+
+RESP: MECH VENT CURRENTLY ON AC 40% 600X14,5 SUCTIONED FOR MOD AMT'S OF THICK BLOODY SECRETIONS. BS CON'T COURES THRUOUT. STARTED ON ATROVENT ATC Q6/HR. ABG 7.38,34,164,-3,98.
+
+GI: NO STOOL. RECEIVED COLACE AND PRN SENNA. ABD IS SOFT AND NON TENDER. OGT + PLACEMENT. DRAINING DARK BROWN. PRESENTLY CLAMPED.
+
+GU: AM CREAT PENDING. U/O > 80CC/HR [**Location 357**] 370CC. URINE IS AMBER WITH MOD SEDIMENT NOTED. FOLEY IRRIGATED WITHOUT DIFFICULTY MOD AMT'S OF SEDIMENT RETURNED. RENAL FOLLOWING.
+
+ENDO: CON'T ON HYDROCORT. BS WNL. NO SSI REQUIERED.
+
+SKIN: R GROIN WITH SLOW OOZ. DSG CHG X1. L GROIN WITH SMALL SLOW OOZ. FT APPEAR LESS MOTTLED. PULSES + BILAT BY DOPPLER. R FT FEELS SLIGHTLY WARMER THAN L.
+
+ID: TEMP MAX 993-998. WBC UP TO 21. CON'T ON TRIPLE ABX FOR PNA.
+
+NEURO: ON VERSED @ 6.0 MG/HR. PT WILL OPEN EYES TO PAINFUL STIMULI. MAE. PUPILS EQUAL 2MM/BRISK. DOES NOT FOLLOW COMMANDS.
+
+LABS: PTT 61.3
+      HCT DOWN 28.8
+      BS 129,148
+      INR 1.2
+SOCIAL: DAUGHTERS CALLED. UPDATE GIVEN
+
+A/P: 87 YR OLD MALE. S/P STEMI,STENTS X2 TO PROX LAD ON [**4-6**] C/B CARDIOGENIC SHOCK,RESP COMPROMISE. INTUBATED DAY 3. IABP AND PRESSOR SUPPORT. CON'T GENTLE DOPAMINE WEAN. PER NSG JUDGEMENT
+",,
+8920,8535,11088,0,3263-04-08 14:47:00 EST,3263-04-08 15:05:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 7a-7p","
+CCU NPN 7a-7p
+S: orally intubated, nonverbal. 
+O: please see carevue for complete assessment data
+CV: Attempted to wean dopamine gtt, w/ MAP down mid-low 50s, started levophed to maintain MAP >65, dopa cont @ 2.5mcg/kg/min. IABP weaned and d/c'd w/o incident, also d/c'd R femoral art sheath, pm hct down slightly @ 27. HR NSR 60-80s w/ occas PACs/PVCs, pm lytes pending. PA line intact via r femoral vein, PADs 18-22. Distal pulses dop, bilat angio sites w/o ooze or palpable hematoma. Heparin gtt off s/p line pull. 
+
+RESP: cont full vent support, AC 600x14/.[**2-21**] overbreathing occasionally 1-2breaths. LS coarse, sxn'd infrequently for thick bloody secretions. 
+
+GI: abd soft, distended. +BS/-BM, cont bowel regimen. NPO except meds, gastric aspirate OB + but more bilious in color. 
+
+GU: foley draining cloudy yellow urine, u/o falling later in shift, CCU team aware, will cont to monitor. 
+
+NEURO: arousable on 6mg/hr versed, attempting to bend legs and self extubate, started fentanyl gtt w/ effect, currently weaning sedation as tolerated. PERRL 2-3mm/brisk. Occas follows commands, MAE spont. 
+
+ENDO: No RISS coverage needed, cont hydrocort. 
+
+ID: afebrile, cont IV abx a/o. Sputum gram stain from [**4-7**] w/ 4+ GNR and 3+ GPC in pairs/clusters, other cultures pending. WBC ^ this AM. 
+
+SKIN: w/d/i, small skin tear in gluteal fold improved from yesterday. PIV x 2 intact, R femoral venous sheath and PA line intact, no breakdown noted. 
+
+SOC: family in, updated on pt. condition and [**Name6 (MD) 550**] by RN and MD. 
+
+A: 87yo s/p anterior STEMI w/ [**Name Prefix (Prefixes) 504**] [**Last Name (Prefixes) **] 2 to pLAD (3VD; non-surgical candidate), septic/cardiogenic shock requiring pressors and full vent support. Tolerating d/c of IABP. 
+P: logroll precautions until 2000.  Cont low dose dopa and levophed to maintain MAP > 65, monitor hemodynamics. Wean sedation as tolerated and ? start vent wean tomorrow am. Cont abx, f/u culture data. Cont support to pt and family as needed. 
+",,
+8920,8535,11088,0,3263-04-08 15:04:00 EST,3263-04-08 15:06:00 EST,2930,"N",1,"Nursing/Other",,"
+
+Resp Care
+
+Pt remains intubated and on full vent support.  No changes in vent management.  BS are coarse to fine rhonchi and suctioning thick bloody sputum.
+",,
+8920,8535,11088,0,3263-04-09 03:24:00 EST,3263-04-09 03:27:00 EST,7781,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains intubated on ventilatory support. Continues to require suctioning fot thick bloody secretions. Able to perform RSBI this a.m. RSBI = 18.  PT becomes agitated and moves about in the bed as sedation lighten. 
+",,
+8920,8535,11088,0,3263-04-09 05:09:00 EST,3263-04-09 05:35:00 EST,1807,"N",1,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+S:  INTUBATED AND SEDATED
+
+O:  NEURO:  PT. CONT ON FENT AND VERSED GTT FOR SEDATION.  OPENS EYES TO COMMANDS, NON PURPOSEFUL MOVEMENT.  MOVING LEGS ON BED, ATTEMPTING TO LIFT ARMS OFF BED.  SOFT WRIST RESTRAINTS ON FOR PT. SAFETY, TO PREVENT PULLING AT LINES AND ETT.  
+
+CV:  HR 65-70 SR WITH FREQUENT PVC'S AND OCC PAC.  DOPA REMAINS AT 2.5 MCG/KG/MIN.  TRANSIENT EPISODE OF HYPOTENSION MAP 54.  INCREASED LEVO GTT TO 0.15 MCG/KG/MIN, PA#'S UP TO 60/30'S.  LEVO WEANED TO 0.13 MCG/KG/MIN, UNABLE TO WEAN FURTHER DUE TO DROP IN MAP.  CO/CI 10/4.4, RESIDENT AWARE OF INCREASING CO/CI.  HCT 27 RECEIVED 1 UNIT PRBC, HCT THIS AM 28.7.  RIGHT GROIN C&D, SG LINE INTACT.  LEFT GROIN C&D.  LOWER EXTREMITIES COOL, PALE, TOES SL MOTTLED.  DOPPLERABLE PULSES.  
+
+RESP: CONT ON PRESENT SETTINGS AC 40%, TV 600, RATE 14.  SUCTIONING FOR MODERATE AMTS OF THICK BLOODY SECRETIONS WITH OCC PLUG.  COARSE BREATH SOUNDS THROUGHOUT LUNG FIELDS.  RSBI 18.  
+
+GU:  URINE OUTPUT POOR.  GIVEN 20 MG LASIX IVP PRIOR TO RECEIVING PRBC.  HOURLY U/O ~20CC.  URINE AMBER WITH MODERATE AMT OF SEDIMENT.  FOLEY IRRIGATED WITH STERILE WATER, NO CLOTS SEEN.  CREAT PENDING THIS AM. 
+
+GI:  OGT DRAINING DARK GOFFEE GROUND MATERIAL.  GUIAC POS.  PH 5.  NO BM OVERNIGHT.  CONT ON BOWEL REGIME, RECEIVING COLACE.  WILL NEED SENNA/DULCOLAX TODAY.  ABD SOFT, DISTENDED.  ABSENT/DISTANT BOWEL SOUNDS.  REMAINS NPO.  
+
+ENDO:  NO SSRI COVERAGE REQUIRED, BLOOD SUGARS BELOW 150.  
+
+ID:  WBC CONT TO RISE, NOW 22.2 (21 ON [**4-8**]). AFEBRILE, TEMP MAX 98.2 PO.  CONT ON CLINDAMYCIN, LEVOFLOXACIN IVPB.  
+
+A/P:  PT. WITH KNOWN CAD, 3VD (NOT SURGICAL CANDIDATE), CRI, R/I MI, S/P STENT PLACEMENT X2 TO LAD.  NOW WITH ? SEPSIS, CARDIOGENIC SHOCK REQUIRING IABP, INTUBATED FOR RESP DISTRESS.  
+FOLLOW I/O, CBC, WEAN PRESSORS AS TOL.  REPLETE LYTES AS NEEDED.  CONT BOWEL MEDS UNTIL BM.  UPDATE PT. AND FAMILY ON PLAN OF CARE PER CCU TEAM. 
+",,
+8920,8535,11088,1,3263-04-09 15:18:00 EST,3263-04-09 17:29:00 EST,7594,"Y",1,"Nursing/Other","CCU Progress notes 0700-1900","
+CCU Progress notes 0700-1900
+ADDENDUM:- ENDO:- Steroids given as per chart, not rquired any sliding scale coverage during the day.
+
+ID:- Pan cultured.
+",,
+8920,8535,11088,0,3263-04-09 15:18:00 EST,3263-04-09 15:39:00 EST,7594,"N",1,"Nursing/Other","CCU Progress notes 0700-1900","
+CCU Progress notes 0700-1900
+RESP:- Remains orally intubated and ventilated on A/C RR 14, TV 500, Sa02 99-100%, Suctioned for moderate amount of blood tinged secretions, no cough on suctioning. Bilateral coarse air entry heard to all lung fields. ABGs acceptable 7.34/34/133.
+
+CV:- Moniotred in NSR rate 70-85bpm with freequent PVCs'. SBP 96-115, remains on dopamine 2.5mcg/kg/hr and levopehd 0.13mcg/kg/hr. Femoral line removed and RT Ij swan line placed, numbers taken Fick CO:- 9.6, CI:-2.76. Thermodilution also done CO:- 6.03 CI:-2.76. PAWP 25, SVR 525. Peripherally cool to touch, pulses dopplerable appear mottled in colour. HCt remains statble at 29. following blood transfusion last night. Afebrile at 97.7. Now DNR at daughters request.
+
+NEURO:- Sedated with fentanyl 50mcg/hr and midazolam 4mg/hr, roused by vioce, eyes opening but not obeying commands. Responds to painful stimuli. Occationall moves arms and legs unpurposefully. PERL 3mm and brisk.
+
+GU:- Foley catheter draining boarderline amounts of urine, appears lighter in colour than eariler in shift, now yellow with some sedement.
+
+GI:- OGT placement checked, air heard on auscletation, moderate amounts of bilish fluid aspirated and discarded. To start tube feeds this evening. Abdomen soft but distened. Bowels not open, bowel regime adujusted, now having Q3 hourly lactulose, PR Bisacodal daily and doccusate Bid to help aide flow.
+
+SKIN:- Pressure areas remain intact, no signs of pressure damage seen. Nursed on alternate sides. Barrier cream applied to sacrum and heels. Full bedbath and sheet change given this morning, with facial shave.
+
+ACCESS:- Femoral line removed, clear dressing inplace, site satisfactory. New swann line placed in Rt IJ. A-line appears satisfactory. All peripheral access patent.
+
+ID:- Afebrile today. Clindamycin changed to IV metronizadole TID, levofloxacin given, also 1X dose of vancomycin 100mg. Suctioned for moderate amount of blood tinged secretions. All line sites appears clean and infection free. No other signs of infection noted.
+
+FAMILY:- Visited by daughter [**Name (NI) **] and grand-daughters, all updated by nursing and medical staff. Daughter appears to understand how ill her father is, aware of plan to observe Mr [**Known patient lastname 6332**] over the next day and see how his condition improves/deteriroates then plan care from there. He father made his choices clear prior to admission that he would not want to be resusitated if that happened in the hospital setting, therefore now DNR.
+
+PLAN:- To continue with supportive treatment, antibiotics/pressors/ ventilator and moniotr response. Take cardiac out put studies per shift. Monitor urine output and renal function. To continue to give full explination of care to Mr [**Known patient lastname 6332**] and his family.
+",,
+8920,8535,11088,0,3263-04-09 16:29:00 EST,3263-04-09 16:32:00 EST,7738,"N",1,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains ventilated on AC 14x600. Still sedated so no spont resp. ABGs remain good. Blood tinged secretions decreased at 5pm check. Breath sounds some course bilateral crackles.  
+",,
+8920,8535,11088,0,3263-04-10 03:43:00 EST,3263-04-10 03:46:00 EST,7781,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt. reamins intubated on ventilatory support.  Pt sx for what appears to be old bloody secretions amount greatly decrease over last 24 hours.  ABG values continue to indicate a Respiratory Compensated metabolic acidosis.  Pt. had not spontaneous respiration for RSBI trial this a.m.
+",,
+8920,8535,11088,0,3263-04-10 05:18:00 EST,3263-04-10 05:37:00 EST,1836,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:neuro=sedated w fent/versed gtt w effect. responsive to noxious stim, but does not follow simple commands. soft restraints for safety.
+  pulm=intubated/vented w present settings-ac/600x14/40%/+5 w am abg- 7.37/30/123/18/-6 w sats 100%. breath sounds=course throughout. sx- thick old bloody secretions.
+  cv=attempted vassopressin w low dose levo-decrease ci w elevaed svr-1400 chged to dopa wo vasopressin/levo w improved ci & svr to 726. needs dopa at present to maintain adeq hr to maint adeq ci/svr. 
+  gi=contin w latulose/colace wo stool. bowel sounds-distant, but present.
+  renal=contin w decreased uo. am bun/creat-94/5.2 with k-3.7. i&o pos 1.8l. 
+  heme=am hct 25.2 down from 29.1. wo obvious source.
+  id=afebrile. am wbc-15.1 contin on abx.
+  social=dnr w further discussion re:comfort measures verses contin aggressive rx.
+
+a:contin to require pressor support-dopa---maintains adeq hr/bp/ci/svr. wo stool. positive i&o. hct decreased to 25.2. 
+
+p:contin present management. discuss w family further management goals. needs dopa to maint adeq hr. ?tx w rbc for decreased hct. support family/patient aas indicated.
+",,
+8920,8535,11088,0,3263-04-10 15:12:00 EST,3263-04-10 15:16:00 EST,7792,"N",1,"Nursing/Other","Respiratory Therapist","
+Respiratory Therapist
+Breath sounds clear, bilateral basilar crackles, suctioned for moderate thick old blood, was afebrile and stayed into normal sinus rhythm the whole day, a little awake, is on fentanyl and versed, CPAP and PSV tried three times, but patient went apneic, had to be put back to Assist-Control, treated regularly with bronchodilators inhalers as ordered.
+",,
+8920,8535,11088,0,3263-04-10 16:26:00 EST,3263-04-10 16:55:00 EST,7594,"N",1,"Nursing/Other","CCU Progress note 0700-1900","
+CCU Progress note 0700-1900
+RESP:- Remains orally intubated and ventilated, all vent settings unchanged, A/C, RR 14, TV 600, Fi02 .40%. Sa02 99-100%, suctioned for small amounts of thin blood tinged secretions,  Weak cough on suctioning. Bilateral coarse air entry heard to all lung fields. Attempting sponatneous breathing trial at regular intervals. ABGS acceptable. Inhalers given by RT.
+
+CV:- Moniotored in NSR, rate 70-80, with occational PVCs'. SBP 115-89 with MAPs 60-69, weaned Dopamine as SBP allows' currently running at 6mcg/kg/hr. Peripherally cool to touch, but warmer than [** 6333**], pulses dopplerable only, fet appear dusky and pale. CO:- 4.69 CI:- 2.15 by thermodilution. PAWP 20, CVP 12.  Transfusedx1 unit unit of blood for Hct 25., post transfusion Hct 27.7. Repleated K+ of 3.7 with 20mmeq of IV K+, post repletion 3.9. Given 40mg IVP lasix with moderate response.
+
+NEURO:- Remains sedated and ventilated, attempting to wean down sedation as condition allows. Midazolam weaned down to 3mg/hr and fentanyl down 30mcg/hr. Moving all 4 limbs, sponatneous eye opening, but not obeying commands. Soft wrist restraints applied to protect tubes and lines. Is hard of hearing.
+
+GU:- Foley catheter draining acceptable amounts of urine, given 40mg IVP lasix.
+
+GI:- Abdomen remains soft but distended, very faint bowel sounds heard. [**Doctor Last Name 3385**] not open, despite Q3 lactulose and otehr bowel regieme, therefore given soap [**Last Name (un) 3775**] enema, initially small response, feacal collector insitu. Not passsing flatus. OGT position checked air heard on auscletation. To possible start feeding later this evening.
+
+ID:- Aferile, given antibiotics as per chart, Metronizadole chnaged to Q12 hour. Suctioned for small amounts of blood tinged secretions. All line sites appear clean and infection free. No others signs of infection. WCC down to 15.
+
+ACCESS:- All line sites patent and clean.
+
+ENDO:- Steroids given Q6 hour. Blood glucose well controlled, not requiring sliding scal insulin.
+
+SKIN:- Pressure areas remain intact, nursed on alternate sides. Peripherally oedematus, elevated hands and arms.
+
+FAMILY:- Visited by daughter and granddaughters plus other family members. Have spoken at length to [**Female First Name (un) **] HCP, who was overwhelmed this morning regarding what to do next, she had heard different opinions of different Drs [**Last Name (STitle) 6333**], told that her dad may recover/may not, she feels that she need the fact presneting to her by the medical team then this would help her make her choice about her fathers care. Spoken to by Cardiology team who have suggested that we will moitors his condition over the next 49 hours and see how he responds to pressors/steroids/antibiotics then plan what to do from there. She was happy with that. Sicail worker also informed of situation.
+
+PLAN:- To wean pressors as SBP allows. To continue to lighten as required to facilitae spontaneous breathing. Medical team would like to possibly extubate in the morning. Continue antibiotics and steroids. Follow CO/CI and PAWP. To continue to give full explinatio
+",,
+8920,8535,11088,0,3263-04-10 16:27:00 EST,3263-04-10 16:55:00 EST,7594,"N",1,"Nursing/Other","CCU Progress note 0700-1900","
+CCU Progress note 0700-1900
+(Continued)
+n of care to Mr [**Known patient lastname 6332**] and family. 
+",,
+8920,8535,11088,0,3263-04-11 05:02:00 EST,3263-04-11 05:18:00 EST,1836,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:sedated-fent/versed gtts--lightening due to goal-extubation. intermittently follows simple commands. intubated/vented w settings-ac/600x14/40%/+5 w am abg 7.32/33/116/-[**7-6**]. contin metabolic acidosis despite bicarb gtt. sx-copius thick old bl tinged secretions. dopa gtt-not weaned over night. wo stool despite aggressive rx. bowel sounds hypoactive. tf started-presently @ 10ml/hr. lasix 80mg iv x2-last approx 2300-moderate response-remains overall positive. am bun/creat 102/4.8 w k 3.2. am hct 25.8 down from 27.7-wo obvious bl source. 
+
+a:metabolic acidosis-?source. ?ability to clear secretions if extubated. no stool-?cause. contin positive i&o w elevated bun/creat. continually decreasing hct-?source. confused family re-long term prognosis & what their father would want-presently dnr.
+
+p:contin present management. ?wean w goal extubation. ?bronch before extubation. ?wean/dc dopamine. ?abd assessment. contin diuresis. ?tx w urbc. replace labs as indicated. contin support pt/family. 
+",,
+8920,8535,11088,0,3263-04-11 05:11:00 EST,3263-04-11 05:17:00 EST,5268,"N",1,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains orally intubated on full ventilatory support of A/C. No vent changes overnight. BS coarse rhonchi throughout. After aggressive Sx BS cleared. Secretions Were copious thick mahogany plugs. MDI's as ordered. ABG reveals a compensated metabolic acidosis. RSBI incomplete D/T no spontaneous respirations. Plan: suggest keeping inline Sx pressure no greater than 130 cm H2O pressure. Wean as tolerated.
+
+",,
+8920,8535,11088,0,3263-04-11 16:56:00 EST,3263-04-11 17:03:00 EST,1592,"N",1,"Nursing/Other",,"
+
+Weaned patient on SBT*5 hours without problem. RSBI 25-40,Suctioned for moderate amount of old looking bloody secretionm.Metabolic acidosis corrected while on SBT by hyperventilating.Patient went to CT Scan for abdominal film ? obstruction.Plan to extubate patient as soon as time allows.Now on PSV 5/8.
+",,
+8920,8535,11088,0,3263-04-11 18:22:00 EST,3263-04-11 19:09:00 EST,1563,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: Intubated
+O: Please see carevue for all objective data
+neuro: midaz and fentanyl d/c at 1000. Lethargic, arousable to voice, following basic commands. PERL.
+cv: hr 86-104 sr w/ occ pvc's, developed afib rate low 100's, converting back to sr w/ frequent apc's. Dopamine d/c at 1000 bp 90-118/45-57. PAD's 17-23, cvp 9-11, PCWP 20. CO/CI 5.27/2.36/1078. 
+bilateral groin sites d/i, distal pulses dopplerable. 
+resp: vent changed to ps 8,peep5. Good abg onspontaneous breathing trial. Sx for mod-lg amts very thick, rusty secretions from ETT, lg amts old bloody secretions from mouth. HO aware. lung sounds coarse.
+gi: ~ 600cc dk brn liq from stomach. Abd firm distended. hypoactive BS. No stool. KUB -> dilated bowel. CT done w/ contrast from above, and Per rectum. Results pnd. OGT changed to NGT, awaiting xray for placement confirmation. 
+gu: given 120 mg lasix at 1000 w/ mod response, BUN/Cr 102/4.8
+id: afebrile, cont on abx.
+skin: very sm skin tear on coccyx, otherwise intact.
+heme: hct 25 this am, currently being transfused w/ 1u prbc. 
+lytes: k 3.2 this am repleted w/ 60 meq, f/u 3.3, HO aware. Ca repleted.
+A: hemodynamically stable off dopamine.
+   episode a fib, spontaneously converted
+   lg amts bloody secretions
+   good abg on SBT
+   fair response to diuresis
+   bowel obstruction
+   falling hct requiring tx
+P: ? extubate
+   monitor hemodynamics and rhythm
+   vigorous pulmonary toilet
+   NGT to LIS when confirmed by x ray
+   monitor bun/cr, hct, lytes
+
+",,
+8920,8535,11088,1,3263-04-11 21:43:00 EST,3263-04-11 22:00:00 EST,1641,"Y",1,"Nursing/Other","CCU NPN 7-11pm","
+CCU NPN 7-11pm
+Addendum: attending MD spoke with family this afternoon and DNR order reversed, pt now full code.
+",,
+8920,8535,11088,0,3263-04-11 21:43:00 EST,3263-04-11 21:58:00 EST,1641,"N",1,"Nursing/Other","CCU NPN 7-11pm","
+CCU NPN 7-11pm
+Resp; suctioned for mod amt thick old bloody secretions, doing well on PS8/peep5. plan to extubate if am if all looks good. Has been more sleepy since CT scan(got some fent), abd very distended, thick secretions, time of night, all factored into decision to wait until AM for extubation, will cont NGT to LIS overnight to decompress. NPO for possible extubation in AM
+
+CV: given 40 mEq KCL for K+ 3.3, HR 80's NSR, occ APC, BP 110-130/50-70, CO/CI 5.41/2.43 svr 1094, CVP 14-16, bladder pressure 8, making CVP really [**4-26**]. given 120mg IV lasix at 2245, at 11pm is 100cc neg for 24hrs, 2L pos for LOS.
+
+GI: abd CT showed lots of stool, no obstruction. Passed sm amt soft brown this eve. NPO for ?extubation.
+
+Skin:  2x2cm abrasion, stage 1,  noted on posterior r thigh, covered with adaptic and 2x2, barrior cream applied to gluteal fold.
+
+Neuro: HOH, can hear if [**Doctor First Name **] speak into L ear, family to bring in hearing aide. follows simple commands, nods Yes/no to questions.
+
+Heme: 1 u PRBCs absorbed this eve. check hct in am.
+
+soc: family went home for the night, called in for update.
+
+A/P: Keep pt on PS overnight if tolerated, plan for extubation in AM, monitor secretions overnight, NGT to LIS, assess responce to lasix, follow lytes. cont to support/inform pt/family.
+
+
+",,
+8920,8535,11088,0,3263-04-12 03:26:00 EST,3263-04-12 04:09:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 11p-7a","
+CCU NPN 11p-7a
+S: orally intubated, nonverbal
+O: please see carevue for complete assessment data
+NEURO: Alert, following commands, restless in bed.  C/o vague pain in back, frequent repositioning. Slept in naps after 1mg ativan. MAE, PERRL 2mm/brisk. 
+
+CV: HD stable off pressors, BP 120s-130s/60s. PAD ranging 27-33, unable to obtain PCWP measurement. CO/CI relatively unchanged. HR NSR w/ occas PVCs/PACs. Post transfusion Hct 27 (25). Distal pulses dop, extremities warm. 
+
+RESP: Remains intubated on [**3-23**] onoc, RSBI 48. LS clear/coarse, mildly bronchial LLL. Cont to sxn thick rusty secretions via ETT, old blood from oralpharynx. 
+
+GI: abd soft, distended; +BS, small soft BM. Rectal tube placed for decompression w/ effect (+ flatus). NGT to LIWS draining brown/bilious fluid OB (+). Remains NPO for bowel rest (confirmed ileus via abd CT). 
+
+GU: foley draining clear lt. yellow urine after 120mg lasix admin on prior shift. BUN/Cr stable
+
+ENDO: not requiring RISS coverage. Cont stress dose steroids. 
+
+ID: afebrile, tmax 97.5 blood. Cont flagyl/levaquin. 
+
+SKIN: w/d/i, no new breakdown noted. 
+
+A: s/p ant STEMI c/b cardiogenic/septic shock requiring intubation/ IABP/pressors. Currently HD stable off pressors/IABP tolerating CPAP.
+P: f/u am labs, cont to monitor hemodynamics. ? extubate this am. Cont abx a/o. Bowel rest for ileus, avoid narcotics if possible. Cont support to pt and family. 
+",,
+8920,8535,11088,0,3263-04-12 03:55:00 EST,3263-04-12 03:59:00 EST,5268,"N",1,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains orally intubated on PSV 8/5peep. clear after sx and MDI's Secretions remain thick old bloody W plugs. RSBI 43. ABG reveals a fully compensated metabolic acidosis. Plan:  ?extubate this AM.
+",,
+8920,8535,11088,0,3263-04-12 12:21:00 EST,3263-04-12 12:26:00 EST,7624,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains intubated and on vent support. Pt is intubated with a 7.5ETT. Current vents settings can be found in Carevue. Pt was placed on CPAP with 0/0. Pt lasted 40 minutes then PS was increased due to respiratory distress. Pt later required more PS to reduce WOB. Pt care plan is to wean and possibly extubate when tol. Pt has been getting sx for mod amounts of bloody thick secretions. Pt was given MDI's and had increased air movement but still has fluid in lungs. Pt was given lasix and might be placed on CVVH later today.
+",,
+8920,8535,11088,0,3263-04-12 13:10:00 EST,3263-04-12 13:12:00 EST,7624,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt was extubated today at 1415. Post extubation pt had a HR of 80, RR 20 no apperant distress. Pt had no stidor and a good cough. Pt was able to say hello. SpO2 is 98% on an FiO2 of .40 via face tent.
+",,
+8920,8535,11088,0,3263-04-12 15:45:00 EST,3263-04-12 16:10:00 EST,1710,"N",1,"Nursing/Other",,"
+
+87 YR OLD SP ANT STEMI,REQUIRED IABP,PRESSERS,INTUBATION ALL DC.CARDIOGENIC SHOCK VS SEPTIC SHOCK ISSUES RESOLVED .CRI IMPROVING. 
+
+PT FLASHED THIS AM WHEN PLACED ON 0/0 PS/P .HYPERTENSIVE C PAD TO 44.DIURESED AND PLACED ON 100MIC/KG IV NTRO GTT ,IV LORESSER .PRESSURE DECRAESED ,SUCCESFULLY EXTUBATED 2PM, ABG 7.45/30/117/21/98,MVSAT 65.CI 2.8,SVR 1050. SR 80 TO 94,NO ECT .MAP >80.CVP 16,PAD 20S TO 30S .K,CA REPLETED .CATH SITES C/D,PULSES BY DOPPLER.
+
+SAT 100% ON FM,COUGHS AND SWALLOWS,HAD BEEN SX FOR THICK TAN .
+
+POS BS,PASSING FLATUS AND SOFT BR STOOL. SM AMT BROWN FROM FROM NG.
+
+
+HUO 100 TO 300 P 120MG IV LASIX, 5 ZAROXYLIN PO.
+
+PT ALERT,CONVERSING C FAMILY, WANTS TO LEAVE NOT TOTALLY ORIENTED .CO BACK,NECK PAIN ,TYLENOL AND POSITION CHANGE C RELEIF .
+
+IMPROVED RENAL STATUS,TOL EXTUBATION 
+
+MONITOR RESP STATUS
+RECHECK LYTES 
+INCREASE ACTIVITY WHEN LINES DC .
+ 
+",,
+8920,8535,11088,0,3263-04-12 21:08:00 EST,3263-04-12 21:26:00 EST,1641,"N",1,"Nursing/Other","CCU NPN 7-11pm","
+CCU NPN 7-11pm
+CV: HR 70-90 nsr, BP 120-130/50-60, swan dc'd, cortis left in place. IV NTG weaned down to .5mcg/kg/min. Pt c/o HA. C/O nausea, ECG done, without changes, given 12.5mg anzemet IV with relief. 
+
+Resp: RR 20-24, sl labored with discoordinate pattern. Maintaining sats in the high 90's on 40% face tent. Coughing, nonproductive. LS coarse, bronchial at bases. 
+
+Neuro: alert, responding apropriately to simple questions of comfort, disoriented to place, time, recognizes and interacts with family. 
+
+GI: NPO with NGT to LIS, no drainage, no stool this eve. Active BS. C/O nausea, given anzemet with good effect. 
+
+GU: cont to diurese well to lasix and zaroxyln given this AM. 
+
+Soc: family called for update. 
+
+A/P: has cont to do well extubated this eve, still confused, reorient prn and maintain pt safety. Enc DB and coughing. cont NPO until ileus resolved. Cont follow hct, lytes, replete as needed. Cont support pt/family.
+",,
+8920,8535,11088,0,3263-04-13 04:33:00 EST,3263-04-13 05:01:00 EST,1865,"N",1,"Nursing/Other",,"
+
+87 YR. OLD MAN S/P ANT. STEMI C/B CARDIOGENIC/SEPTIC SHOCK REQUIRING INTUBATION, PRESSORS, IABP. PRESENTLY, HEMODYNAMICALLY STABLE & TOL. EXTUBATION. ONGOING ISSUES INCLUDE ILEUS & CRI.
+
+NEURO: ORIENTED TO PERSON ONLY. ""HELP ME UP. I'VE GOT TO GET TO WORK.""
+FOLLOWS SIMPLE COMMANDS. MAE. PERL.
+
+RESP: O2->40% OFT. RR 20-24. O2 SAT 99-100%. BS COARSE, & DIMINISHED AT BASES. ABG 7.43/34/103/23 97% SAT.
+
+CARDIAC: HR 80-91 SR WITH OCC.PVC. BP 136/67 MAP 92 ON NTG GTT AT .5MCG/KG. NTG GTT INCREASED TO 1MCG/KG WITH BP 122-129/57-66. IV LOPRESSOR INCREASED TO Q4HRS->VERY SHORT TERM EFFECT. K 3.2->KCL 20MEQ
+PB X2.
+
+GI: ABD. SL. DISTENDED. BS+. PASSING FLATUS. NGT->LIWS DRAINING MINIMAL BROWN BILE. INC. SM. AMT. BROWN SOFT STOOL X1.
+
+GU: FOLEY->CD PATENT & DRAINING CLEAR YELLOW URINE. U/O 120-230CC/HR.
+
+ID: AFEBRILE. CONT. TO RECEIVE IV FLAGGYL, LEVOFLOX, & VANCO.
+
+ENDO: BS 95-101. NO INSULIN COVERAGE NEEDED PER SLIDING SCALE.
+
+AM LABS PENDING.
+
+PLAN: NPO/NGT UNTIL ILEUS RESOLVES.
+      MONITOR & REPLACE LYTES AS NEEDED.
+      D/C ALINE
+      INCREASE ACTIVITY.
+       
+",,
+8920,8535,11088,0,3263-04-13 17:25:00 EST,3263-04-13 17:41:00 EST,1710,"N",1,"Nursing/Other",,"
+
+87 YR OLD SP ANT STEMI,HAS AS.REQUIRED IABP DC [**4-11**],PRESSERS DC [**4-11**],VENT DC [**4-12**].ILEUS RESOLVING .FULL CODE 
+
+AIB 130 TO 70 NSR.RX C ESMOLOL,IV NITRO DC.CURRENTLY ON LOPRESSER PO,ESMOLO DC 5PM. POTASSIUM REPLACED ,PR VERY [**Last Name (un) 536**] TO LOW K,SEEMS TO AGGRAVATE AFIB.GROIN OLD ECCHYMOTIC AREA ON L.PALP PD.
+
+ABG POOR WHEN IN AFIB 7.45/31/61/22.ON OPEN FM SATS 99 ,ABG 7.41/35/88/22.C/R THICK TAN .GIVEN CP .
+
+ILEUS RESOLVING ,GIVEN ENEMA,PASSED SMALL SOFT STOOL QUIAC POS .PASSING FLATUS .TF RESTARTED ,NO RESIDUALS .
+
+HUO 80 TO 200CC,NO DIURETICS ,NO BICARB GIVEN TODAY .
+
+PT VERY LETHARGIC MOANS TO NAME .FAMILY DISCUSSED CODE STATUS, FOR NOW 
+FULL CODE TILL PT MORE AWAKE TO STATE HIE WISHES.
+
+PT REMAINS TENUOUS DESPITE SLOW IMPROVEMENT 
+
+KEEP K ABOVE 4 TO PREVENT AFIB
+TITRATE LOPRESSER AS TOL
+INCREASE TF AS TOL 
+CHEST PT 
+",,
+8920,8535,11088,0,3263-04-14 03:26:00 EST,3263-04-14 03:30:00 EST,7781,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt. experienced period of hypoxia, tachypnea and tachcardia, BS with abundent expiratory wheezes throughout, tol alb/atro neb  w/o appreciable benefit. Treated medically for HR and responded well to increase FiO2 to RBM (80%) with SpO2 increased to 100%.
+",,
+8920,8535,11088,0,3263-04-14 05:56:00 EST,3263-04-14 06:17:00 EST,1807,"N",1,"Nursing/Other","NURSING PROGRESS NOTE","
+NURSING PROGRESS NOTE
+S: ""I'M BORED""
+
+O:  NEURO:  PT. LETHARGIC, OPENS EYES TO COMMANDS, WORDS GARBLED.  LIFTING AND HOLDING ARMS, MOVING LEGS ON BED.  RESPONDING TO FAMILY'S VOICE, WILL TURN HEAD TO VOICE.  
+
+CV:  EPISODE OF AFIB RATE 140, HYPOTENSIVE BP 66/40.  GIVEN AMIO 150 MG IV BOLUS THEN STARTED ON AMIO GTT AT 1 MG.  GTT D/C'D AFTER PT. BECAME BRADYCARDIC WITH RATE 45.  CONT IN AFIB THROUGHOUT NIGHT. BP STABLE.  NOW IN SR WITH HR 93.  HAS OCC PVC.
+
+RESP:  PLACED ON 100% NRB DURING AFIB EPISODE, O2 SAT LOW 88%.  RALES NOTED UP TO APICES.  GIVEN LASIX 100 MG WITH FAIR DIURESIS.  COUGHING BUT NOT RAISING.  NT SUCTIONED X1 FOR SMALL AMT OF TAN SPUTUM.  STRONG COUGH, NO GAG.  ABG ADEQUATE THIS AM, O2 REQUIREMENTS DECREASED TO 5L NC, CONT TO SAT @ 100%.
+
+GU:  FOLEY DRAINING CLEAR YELLOW URINE IN GOOD AMTS.  I/O (-) 540 CC.
+
+GI:  ABD DISTENDED, SL FIRM. HYPOACTIVE BOWEL SOUNDS.  NO STOOL OVERNIGHT.  TF HELD FOR POSSIBLE CARDIOVERSION.  NGT IN PLACE, HAD MINIMAL RESIDUAL WHILE ON TF.  ON REGLAN QID.
+
+SKIN:  SMAL SKIN TEAR ON GLUTEAL FOLD, AREA CLEANSED WITH SOAP AND WATER,DUODERM APPLIED.  SEVERAL ECCHYMOTIC AREAS NOTED ON LEGS AND ARMS.  RIGHT AND LEFT GROIN C&D.
+
+A/P: S/P MI, EPISODE OF AFIB C/W HYPOTENSION.  MENTAL STATUS MORE LETHARGIC.  NOW DNR.  FOLLOW I/O, LYTES, 
+CODE STATUS DNR.  UPDATE PT.'S FAMILY ON PLAN OF CARE PER CCU TEAM
+   
+",,
+8920,8535,11088,0,3263-04-14 13:40:00 EST,3263-04-14 14:24:00 EST,1665,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""Water please"" ""I have to go to the bathroom""
+O-Neuro Lethargic but slowly awakening through out the day. Opens eyes to voice. Speech is slow but understandable. Uncomfortable when turning and repositioning yelling out ""ouch"" but unable to say what hurts. Asking for water and bathroom appropiately. Recognizing family at bedside. All sedation d/c'd.
+CV-Intermittantly in and out of AF rates 110-130's. Lopressor d/c'd and now started amioderone 400mg po BID. No change in HR noted. Received one dose of lopressor 2.5mg IVB in am for HR 130's with good effect-HR 110.
+Resp-LS bronchial BS LLL with fine rales bases, occ coarse rhonchi clearing after stron cough. Expectoating thick tan/pink tinged sputum with assist. O2 weaned to 3l np sats 96%..
+ID-afebrile WBC 17.6 on levo/flagyl for asp pneumonia.
+GU-foley draining well 50-70cc/hr BUN/Cr 99/4.1
+GI-NGT in place and tube feeds restarted Nepro at 20cc/hr with GOAL 40cc/hr. +BS x4 with small soft BM after ducolax supp x1. Reglan started. HCT 26.9 team aware. No source at this time.
+Skin-burning rash around anus, using 
+Social-daughter in and had a sit down talk with intern and resident regarding DNR/DNI status and what the POC should be if pt fails treatment and what [**Last Name (un) **] expectations are.
+Access-1 PIV, radial aline.
+Code Status-DNR/DNI
+A/P-STEMI with severe 3VD s/p stent to LAD c/b cardiogenic shock requiring IABP/pressors and intubation.
+Continue to monitor HR/rhythm on amioderone and follow QTc before each dose. Encourage cough and deep breath and wean O2 as tolerated.
+Continue to keep family and pt informed of POC as discussed in multi disciplanary rounds.
+ 
+",,
+8920,8535,11088,0,3263-04-15 04:49:00 EST,3263-04-15 05:24:00 EST,1807,"N",1,"Nursing/Other","nursing progress note 7p-7a","
+nursing progress note 7p-7a
+s:  ""I WANT WATER""
+
+O:  NEURO:  PT. LETHARGIC, MOANING AT TIMES.  OPENS EYES TO VOICE COMMANDS.  MOVING ARMS AND LEGS.  SPEECH GARBLED AT TIMES.  RESPONDING TO HIS S/O BY OPENING EYES.  GOOD COUGH, IMPAIRED GAG.
+
+CV:  HR 75-100 AFIB WITH OCC PVC.  BP 98/50-112/54.  CONT AMIO 400 MG PO BID, TOL WELL.  RIGHT AND LEFT GROIN ECCHYMOTIC, R>L.  SMALL QUARTER SIZED HARD HEMATOMA NOTED IN LEFT GROIN, SMALL AMT OF OOZING NOTED.  
+
+RESP:  PT. PLACED ON 5L VIA VENTI-MASK ( PT. IS A MOUTH BREATHER).  INCREASED TO 5L FROM 3L FOR LOW O2 SAT 90-92%.  NOW O2 SAT 98-100%.  CRACKLES NOTED, WITH BRONCHIAL BREATH SOUNDS AT LEFT BASE.  COUGHING AND RAISING THICK TAN SPUTUM, ASSISTANCE WITH YANKAUR.  
+
+GU:  FOLEY DRAINING CLEAR YELLOW URINE URINE OUTPUT ~50 CC/HR.  I/O EVEN FOR 24 HRS.  
+
+GI:  CONT ON TF NEPRO AT GOAL RATE OF 40 CC/HR.  MINIMAL RESIDUALS.  ABD OBESED, SOFT.  + BOWEL SOUNDS.  ONE MED SIZED SOFT STOOL GUIAC NEG. 
+
+SKIN:  PERINEUM RED WITH RASH.  CLEANSED WITH SOAP AND WATER, ANTIFUNGAL CREAM APPLIED. SMALL SKIN TEAR NOTED IN GLUTEAL FOLD, OPEN TO AIR, REPOSITIONED FROM SIDE TO SIDE FOR PRESSURE RELIEF.  
+
+A/P: S/P STEMI, COMPLICATED BY CARDIOGENIC SHOCK REQUIRING IABP/PRESSOR SUPPORT.  NOW IN AFIB, RATE CONTROLLED.  CODE STATUS DNR/DNI AS DISCUSSED WITH FAMILY.  CONT WITH AMIO FOR AFIB, (NO CARDIOVERSION), FOLLOW I/O, LYTES REPLETE AS NEEDED.  UPDATE FAMILY ON PLAN OF CARE PER CCU TEAM.       
+",,
+8920,8535,11088,0,3263-04-15 17:08:00 EST,3263-04-15 17:35:00 EST,1665,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""Water""
+O-Neuro-more somulent today, occ opening eyes to voice. Minimal speech  
+asking for water only once. Smiled at grand daughter this morning. Moving extremities on own but not to command. 
+CV-VSS no change in rhythm remains in AF but at a slower ventricular rate 70-80's. Amioderone 400mg po BID for 3 days then 400mg QD x3 then 200mg qd. Radial aline remains in place for blood draws and BP monitoring. K 3.3 received 60meq KCL NGT.
+Resp-LS clear BBR O2 sats 96% on 3lnp. Fair cough non productive.
+ID afebrile WBC 15.4
+GU-foley draining 50cc/hr received lasix 120mg IVB with initial good diuresis. BUN/Cr 109/4.3
+GI-NGT in place and receiving nepro FS at Goal 40cc/hr, minimal residuals on reglan. Small soft BM. HCT 29.
+Skin-eccymotic arms from previous blood draws. Anus area remains red.
+Activity-OOB chair with slide board and 3 assist. Tolerated well.
+Access-new PIV placed RLA, left PIV red and d/c'd.
+Code Status-DNR/DNI
+Social-Daughters and [**Name2 (NI) 6334**] into visit. All very upset that pt has not ""woke up"".
+A/P-STEMI c/b cardiogenic shock, ARF and depressed mental status.
+Continue to monitor LS and encourage cough. Monitor diuresis and recheck electrolytes this evening. Continue to keep family aware of POC as discussed in multi disciplanary rounds.
+
+",,
+8920,8535,11088,0,3263-04-16 03:22:00 EST,3263-04-16 03:38:00 EST,1722,"N",1,"Nursing/Other",,"
+
+CCU NPN
+
+CV: INITIAL HR 80-90 AFIB/VARIABLE FLUTTER. @ 2200 CONVERTED TO NSR HR 78-84. SBP 108-128 WITH MAP'S 74-87. CON'T ON AMIODARONE 400MG BID
+
+RESP: 2L NP WITH SATS 97-99%. RR20-24. BS CL/CRACKLES AT THE BASES. HAS WEAK NON-PRODUCTIVE COUGH.
+
+GI: CON'T ON TF VIA NGT, NEPRO @ GOAL RATE 40CC/HR. RESIDUALS MINIMAL @ 5CC. ABD OBESE + BS. NO STOOL DESPITE DULCOLAX @ HS. CON'T ON REGLAN Q6/HR
+
+GU: CON'T DIURESIS FROM EVE LASIX. @ MN -720CC, [**Location 357**] 5800 URINE YELLOW WITHOUT SEDIMENT
+
+SKIN: BILAT GROINS ECCYMOTIC, BUT INTACT. PULSES ARE [**Last Name (un) **] BILAT. FT COLD AND MOTTLED. HAS RED PERIANAL AREAS. ANTIFUNGAL/BARRIER CRMS APPLIED. MULTIPLE ECCYMOTIC AREAS ON ABD.
+
+ID: AFEBRILE CON'T ON LEVOFLOXCIN AND VANCO.
+
+NEURO: WILL OPEN EYES TO VOICE. HE CAN STATE HIS NAME, WILL FOLLOW SIMPLE COMMNANDS,BUT INCONSISTENTLY PUPILS 2MM/BRISK/EQUAL. HE CAN LIFT AND HOLD UPPER EXT. MOVES LOWER EXT ON BED. HE DOES NOT SPEAK IN FULL SENTENCES, MOANS OCCASSIONALY.
+
+LABS: K+ 3.5 REPLETED WITH 40 MEQ KCL
+      BS @ MN 160 RECEIVED 2 UNITS REG
+      MG 2.7
+
+SOCIAL: FAMILY MEEMBER IN ON EVES. DAUGHTER [**Name (NI) **] CALLED AND POC UPDATE GIVEN. SHE ALSO REQUESTED TO SPEAK WITH MD WHICH SHE DID.
+
+DISP: DNR/DNI
+
+A/P: 87 YR OLD S/P STEMI C/B CARDIOGENIC SHOCK, IABP/PRESSORS AND SEPSIS. ALSO HAD AFIB NOW ON PO AMIODARONE WITH ADEQUATE RATE CONTROL. CON'T TO SUPPORT PT /FAMILY POC UPDATES. PER NSG JUDGEMENT
+",,
+8920,8535,11088,0,3263-04-16 15:20:00 EST,3263-04-16 15:35:00 EST,7641,"N",1,"Nursing/Other",,"
+
+S: ""water.""
+
+O:please see careview.
+
+CV: afib 70's. SBP 120's- 100's c maps 63-70. Pt cont. on amiodarone 400mg po. Heparin gtt started 750units/hr.
+
+resp: 2L NC c O2 sat's 95-100%. RR 12-18. CRACKLES AT BASES BILAT.
+
+GI: NGT, NEPRO @ 40CC/HR GOAL 40CC/HR. RESIDUAL MAX 40CC. (+) BS. (-) BM. 
+
+GU:LASIX 160MG PO X 1. (-) 856CC TOTAL (-)6000CC. YELLOW URIN MINIMAL SED. CREAT 4.3.
+
+SKIN: PULSES DOPER BILAT. COLD/MOTTLED FEET BILAT. CYANOTIC FINGERS HANDS COOL BILAT. 
+
+NEURO: PT OPENS EYES AND FOLLOWS SIMPLE COMMANDS. LIFT AND HOLD UPPER EXTREMITIES MOVES LOWER EXTREMITIES ON BED. 
+
+SOCIAL: PTS DAUGHTER AND BROTHER VISITED TODAY. PT'S DAUGHTER EXPLAINED THAT THIS IS THE MOST SHE HAS SEEN HER FATHER AWAKE IN DAYS.
+
+DISP: DNR/DNI.
+
+A:87 YO AFIB NOW ON PO AMIODARONE C Rate control.
+
+P: cont to follow labs pt on heparin gtt and being diuresed. cont. to monitor I/O's.
+",,
+8920,8535,11088,0,3263-04-17 03:46:00 EST,3263-04-17 04:00:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 7p-7a","
+CCU NPN 7p-7a
+S: ""[**Doctor First Name **]!!, brush my teeth!!""
+O: Please see carevue for complete assessment data
+NEURO: Slept initially x 2hrs, then awake, yelling out most of night for water/bedpan etc. Oriented to person and place. Easily re-oriented and calms down but then yelling out again within minutes. No c/o pain, MAE, PERRL. 
+
+CV: HD stable, MAP > 60. HR NSR, no ectopy noted on tele. Distal pulses by dop, [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **]/mottled w/ +[**12-22**] pitting edema. Na+ cont elevated, increased free water boluses via NGT and D5 via IV. K 3.6 repleted IV and PO. Responded well to diuresis given on prior shift. 
+
+RESP: SPO2 >96% on 2L NC. LSCTA w/ faint BBR, mildly bronchial LLL and intermittent expiratory wheezes-> ALB/ATR neb w/ effect. + nonproductive cough. 
+
+GI: remains NPO, attempting swabs but occasionally coughing after. Abd soft, nontender, distended. +BS, small smear of stool on pad but no BM. On/off bedpan six times w/ +RF but no stool. Cont Nepro via NGT. 
+
+GU: foley draining adequate amts CYU, no further diuresis. Currently recieveing D5w @ 175/hr x 2L to correct hypernatremia. BUN/Cr down slightly but cont elevated 4.3-4.5. 
+
+ENDO: BG wnl, no RISS coverage needed. 
+
+ID: afebrile
+
+SKIN: perineal rash-> aloevesta antifungal cream applied. Multiple areas ecchymosis throughout. A line and PIV x 1 intact. Unable to place 2nd PIV. 
+
+SOC: Family in to visit, updated on POC and pt condition by rn. 
+
+A: 87yo s/p STEMI c/b cardiogenic/septic shock; ARF on CRI; RAF now rate controlled. Currently HD stable awaiting speech and swallow eval in am. 
+P: cont to  monitor HR/rhythm on amio, monitor serum Na+. Speech and swallow today to eval aspiration risk, cont TFs via NGT. ^ activity as tolerated, PT consult needed. Support to pt and family as indicated, ? c/o to floor. 
+",,
+8920,8535,11088,0,3263-04-17 14:33:00 EST,3263-04-17 14:49:00 EST,7594,"N",1,"Nursing/Other","CCU Progress note 0700-1900","
+CCU Progress note 0700-1900
+RESP:- HAs remained on N/C at 2 litres all day, Sa02 95-100%, ABGs' within normal limits. RR 12-20, Bilateral air entry heard to all lungfields with some crackles at the bases'. Respirations appear regular and do not appear laboured. Weak cough and not expectorating sputum. Encouraged to deep breathing and coughing.
+
+CV:- Moniotred in NSR with occational PVCs', rate 65-80, given PO amiodarone as ordered. SBP 85-115 MAPs' 50-65. Did become more hypotensive whilst sat out in-chair, back to base line once in bed. Peripherally warm to touch, pedal pulses weakly palpable. Hct 29.9. Heparin continues at 300 units/hr, has had two theraputic PTTs, for daily checks now. To commence PO warfarin tonight.
+
+NEURO:- Very sleepy during the day but rousable to voice, attempted to try and keep awake to encourage normal wake/[**Doctor Last Name 5**] pattern. A&O x2, alert to name and place, unsure about day/date. Re-orinetated as to why in hospital and how long. Weakly moving limbs. 
+
+GU:- Foley catheter draining good amounts of urine, clear and yellow.
+
+GI:- NGT position checked, air heard on auscltation, minimal amounts aspirated. Feeding continues at 40cc/hr goal rate. Abdomen soft but distended. Asking for bed pan but not stooling, just marking on sheets. Had speech and swallow assessment but no able to take fluids as muscles still weak, will re-assess later in the week.
+
+ID:- Afebrile during the day, not coughing/expectorating sputum. Line sites appear clean and infection free. No other signs of infection.
+
+ENDO:- Blood glucose slightly elevated at lunchtime given 2x units humalog insulin.
+
+SKIN:- Pressure areas remain intact, still redened around anus, anti-fungal cream applied. Nursed on alternate sides. Sat out in chair for 3 hours today. Barrier cream applied to heels, sacrum and elbows. Cream also applied to back and hands. Full bedbath and sheet changed given, and facila shave.
+
+FAMILY:- Daughter [**Name (NI) **] telephone this morning updated on plan of care and condition overnight. Visited by son-in-law and grand-daughter this afternoon.
+
+PLAN:- To satrt PO warfarin tonight and continue monitoring PTT. Encourage deep breathing and coughing. Mobilse as tollerates. Continue NG feeding, for further speech and swallow later this week.  ? possibly to be called out tomorrow. To continue to give full explination of care to Mr [**Known patient lastname 6332**] and family.
+",,
+8920,8535,11088,0,3263-04-17 22:11:00 EST,3263-04-17 22:32:00 EST,5517,"N",1,"Nursing/Other","Nursing Note 7p-11p","
+Nursing Note 7p-11p
+Neuro- A+Ox2, calm/cooperative but calling out @ times. MAE in bed, no c/o c-pain/sob.
+CV- Tele SR rare PVCs, HR 70s, ABPs 115-128/50s-60s MAPs >60. Given 10pm dose of amio, coumadin. +DP/PTs by doppler. 
+Resp- LS bil crackles 1/3 up, conts on 2L nc sats >96%. Has a weak productive cough for sm amts of thin white sputum. 
+GI/GU- Conts on TFs Nepro FS @ 40/hr, residules <10cc. Using bedpan often without success, on suppositories. Foley patent, uop 30-40/hr, given 120 iv lasix x1 with fair effect. Conts on free h20 boluses, Na+ 141. Needs 12AM labs Na+/K+, BUN/Cre, coags.
+Endo- Sugars below RISS.
+A/P: Stable, cont plan of care.
+",,
+8920,8535,11088,0,3263-04-18 04:12:00 EST,3263-04-18 04:31:00 EST,1626,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 11P-7A/ S/P CV SHOCK/MI","
+CCU NSG PROGRESS NOTE 11P-7A/ S/P CV SHOCK/MI
+
+S- "" MY STOMACH IS SICK///""
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA
+
+CV- PT REMAINS HEMODYNAMICALLY STABLE- FREE OF ISCHEMIA/RHYTHYM OR BP ISSUES THIS SHIFT. HR- 60-68 SR, NO VEA. BP- 103/51-112/48.
+REMAINS ON [**Last Name (LF) 1995**], [**First Name3 (LF) 21**], HEP 300U AND STARTING ON COUMADIN LOAD- AS WELL AS AMIO LOAD 400 BID.NO B BLOCKER OR ACE CURRENTLY D/T TACHY/BRADY AND RENAL FX.
+12 AM LYTES - K- 4.0, NA- 143- ON FREE H20 AS ORDERED.
+
+RESP- COMFORTABLE- STRONG COUGH, ABLE TO EXPECTORATE INTO TISSUE WITH ASSIST. O2 SATS 97-99% ON 2 L NP.
+CX AT BASE, OTHERWISE CLEAR.
+COMFORTABLE.
+
+ID- AFEBRILE CURRENTLY
+OFF ALL ANTIBX- S/P COURSE FOR PNA.
+
+LINES- POSITIONAL IV X 1 AS WELL AS ALINE RT RADIAL- REQUIRES PICC PLACEMENT, ? STATUS OF THAT CURRENTLY.
+
+GU- 30-50CC/HOUR CLEAR YELLOW URINE- NO DUIRESIS THIS SHIFT- LASIX QD FOR PAST SEVERAL SHIFTS. I/O (+) 2800 CC THIS DAY AND (-) 3700CC LOS.
+FOLEY IN PLACE. CREAT- 4.5. ACUTE ON CHRONIC RENAL FX.
+
+GI- MAJOR ISSUE THIS SHIFT IS WITH ALTERED COMFORT/GI DISTRESS- PT C/O NAUSEA/BLOATING/FULLNESS ALL OF SHIFT.
+TX WITH ANZEMET, NO RELIEF AS WELL AS RTC REGLAN, PROTONIX. GIVEN ADDITIONAL DOSE PR DULCOLAX AND INCREASED THAT DOSING TO BID FROM QHS. ALSO GIVEN SIMETHICONE 80 AS WELL AS DOSE OF LACTULOSE- MUCH MOVING AROUND ON/OFF BEDPAN ALL OF SHIFT.
+NO PASSING OF STOOL CURRENTLY- (+)BELCHING AND FLATUS.
+MUCH DISCOMFORT ALL NITE, YELLING OUT.
+MUCH SUPPORT AND HELPING TO MOVE, REARRANGE PT POSITION, ALLEVIATE GI DISTRESS.
+
+SKIN- BARRIER CREAM TO BONY PROMINCENCES- AS WELL AS TO COCCYX AREA.
+TURNED SIDE TO SIDE AS BEST ABLE WITH NEED FOR ON/OFF BEDPAN ALL OF SHIFT.
+
+FAMILY/SOCIAL - NO CALLS THIS SHIFT.
+
+A/P- PT S/P CV SHOCK REQUIRING ETT/IABP/PRESSORS- CURRENTLY HEMODYNAMICALLY STABLE BUT IN DISTRESS WITH CONSTIPATION.
+
+CONTINUE TO MONITOR CV/RESP STATUS CLOSELY. CONTINUE TO MAXIMIZE RATE/PRESSURE PRODUCT. WATCH RESP STATUS CLOSELY FOR ANY SIGN DISTRESS/OVERLOAD
+CONTINUE GENTLE DIURESIS
+CONTINUE HOLD TUBE FEEDS/CATHARTICS- CONSIDER ENEMA THIS AM IF CONTINUES TO HAVE DISTRESS AND NO STOOL/CONSTIPATION
+C/O TO FLOOR ONCE MEDICALLY APPROPRIATE.
+PICC LINE PLACEMENT SOON.
+
+
+
+",,
+8920,8535,11088,0,3263-04-18 14:01:00 EST,3263-04-18 14:21:00 EST,7594,"N",1,"Nursing/Other","CCU Progress Note 0700-1900","
+CCU Progress Note 0700-1900
+RESP:- Remains on N/C intially at 2 litres weaned down to one as good ABGS'. RR 14-24, Sa02 96-100%. Bilateral air entry heard to all lungfields but some crackles at the bases. Coughing and expecotrating small amounts of sputum. RR appears regular.
+
+CV:- Moniotred in NSR/sinus bradycardia 59-80, with occational PVCs. SBP 89-115 MAPs' 53-64. Peripherally warm to touch, pedal pulses weakly palpable. Heparin infusion increased to 600 units/hr as PTT sub theraputic, to be re-checked at 1800. Monitoring BID lytes. Hct 29.9. Not recieving any b-blockers/ACe inhibitors as yet. Not given diuretics as yet today.
+
+NEURO:- Has appeared more awake at time today, able to stay awake for longer periods. Answering questions appropriatly. A&Ox2, orientated to name and place, unsure about day/date. Initally calling out this morning for Marieanne, but settled down. Encouraged to stay awake during the day, to facilitate normal day night pattern. Able to move limbs weakly, but can do it with encouragement.
+
+GU:- Foley catheter draining clear yellow fluid. Not requiried any diuretics as yet today.
+
+GI:- Feed off this morning, re-started at noon, Nepro 10cc/hr. On/off the bedpan during the day, having bowels open small to moderate amount soft brown stool. Given PO senna and docusate in addition to bowel regieme. Abdomen soft and distended. Bowel sounds heard and passing flatus+++.
+
+ID:- Afebrile during the day. A line re-dressed, site appears satisfactory. All line sites appear clean and infection free. Coughing and expecorating small amount of sputum.
+
+ENDO:- No required any sliding scale insulin as yet today.
+
+ACCESS:- Rt peripheral IV positional at times and ozzing small amount. Re-dressed with surgi foam.
+
+SKIN:- Pressure areas intact, anus still redened, anti-fungl cream applied. Barrier cream applied to bony areas. Full bedbath and sheet change given this morning with facial shave.
+
+FAMILY:- Visited by nephew and grand-daughter, daughter to visit later today. All update on current progress and plan of care.
+
+PLAN:- To monitor PTT and adjust heparin accordingly. Follow bowels and output from current regieme. To conitnue to give full explination of care to Mr [**Known patient lastname 6332**] and family. Discharge planning in progress.
+",,
+8920,8535,11088,0,3263-04-18 17:49:00 EST,3263-04-18 17:53:00 EST,7594,"N",1,"Nursing/Other","AADENDUM","
+AADENDUM
+Visited by daughter who is upset with regard to some of the decisions made by medical staff. [**Female First Name (un) **] believes that the families opionions have not been taken into account especially decisions made about  treatments last week. [**Female First Name (un) **] believes that her father would not to live in a nusring home and that he is going to get frustrated with rehab. 
+",,
+8920,8535,11088,0,3263-04-19 03:42:00 EST,3263-04-19 05:06:00 EST,5517,"N",1,"Nursing/Other","Nursing Note 7p-7a","
+Nursing Note 7p-7a
+S:""[**Doctor Last Name **], I want a sprite"".
+O: See careview for complete objective data.
+Neuro- Remains A+Ox2, calm/cooperative. Slept fair, when awake conts calling out for help etc. No c/o c-pain/sob.
+CV- Tele SR no vea, HR 60s-70s, ABPs 110-120/48-50s, MAPs >60. Heparin gtt @ 450U/hr, PTT therapeutic 60.6 Conts on Coumadin and Amio load, holding Ace/BB d/t tachy/brady syndrome and renal function. Perf IV leaking, IV nurse placed new #20 in R arm. Cont to monitor lytes bid,  Na+ 140, receiving free H20 boluses, K+ 3.9, Ca+ 7.7
+Resp- LS crackles in bases, clear up. 02 @ 2L nc with sats >96%. Productive coughing thin white sputum. Requires frequent mouth swabs. 
+GI/GU- NPO d/t failed S/S. Has Nepro FS @ 10/hr via NGT. Obese, Abd soft/distended +hypo bs, +flatus. Several tx on bedpan for only stool smears. Conts on suppositories/colace. Foley draining qs cyu, no lasix given. LOS I+O -4300.
+Endo- Sugars below RISS.
+Skin- Barrier cream applied to peri area/coccyx rash.
+ID- Afeb, wbc 15.0 (16.9) completed course of abx for PNA.
+A/P- 87yo male s/p STEMI c/b cardiogenic/septic shock, ARF, Rapid AF now on Amio/heparin. Failed speech/swallow, constipation. Cont to monitor HR/rhythm, lytes, coags. Cont bowel meds, TFs @ minimal. Keep pt and family updated on POC.
+
+",,
+8920,8535,11088,0,3263-04-19 15:52:00 EST,3263-04-19 16:18:00 EST,7641,"N",1,"Nursing/Other",,"
+
+S:""I WOULD LIKE TO EAT.""
+
+O:PLEASE SEE CAREVIEW.
+
+CV:NSR HR 70'S. BP 120/50. MAPS (70'S) PT HCT 28.1 PT BEING TRANSFUSED ONE UNIT PRBC. PT CONTINUES ON A HEPARIN GTT 450UNITS/HR. PTT AT 1400 WAS 68.7.
+
+RESP: LS CLEAR FAINT CRACKELS AT BASES BILAT. PT CONT ON 1L NC MAINTAINING O2 SATS OF 95 TO 100%. 
+
+GU: PT HAS NOT HAD A BM TODAY DISPITE COLASE AND SENNA. PT HAS HAD THE URGE TO HAVE A BM BUT ONCE ON THE BED PAN NOTHING HAPPENS. NEPRO ADVANCED TO 30CC/HR C MIN RESIDUALS. PT WAS BROUGHT TO VIDEO SWALLOW. PT STILL NOT ABLE TO SWALLOW ENOUGH FOR SOLID FOODS PT MAY DRINK HONEY THICK DRINKS. 
+
+GI: PT (-) 55CC FOR THE DAY. PT HAS HAD NO LASIX TODAY AVG. URIN OUTPUT IS 80CC/HR CLEAR YELLOW URIN. BUN 111 AND CREAT 4.5. RENAL CONCERN PT MAY NEED TO START HEMODIALYSIS IF LABS DONT GET BETTER.
+
+ENDO: BS UNDER CONTROLL PT HAS NOT REQUIRED AND INSULIN COVERAGE TODAY.
+
+SKIN:PT HAD A RASH, REDDENED SKIN IN PERI AREA BEING TREATED WITH ANTIFUNGAL CREAM AND DOUBLEGUARD. VERY DRY MOUTH AND LIPS.
+
+NEURO: PT WAS ALERT AND ORIENTED X 3 TODAY. AS DAY WENT ON PT BECAME A BIT MORE CONFUSED. PT THOUGHT HE WAS IN THE MARINES AND ON A SHIP. HE WANT TO LEAVE TO GO BUY HID DAUGHTER A CAR FOR HER BIRTHDAY. PT COOPERATIVE AND CALM.
+
+ACTIVITY: PT WAS ABLE TO SIT IN CHAIR TODAY COMFORTABLY FOR 4HRS.PT WAS ABLE TO STAND AND PIVOT WITH ASSISTANCE. ARMS AND LEGS ARE VERY WEAK. 
+
+A:PT FAILED SPEECH AND SWALLOW VIDEO SWALLOW EXAM TODAY PT IS TO ONLY DRINK HONEY THICK DRINKS. 
+
+P: CONT TO FOLLOW LYTES AND PTT. CONT WITH BOWEL REGIMEN. KEEP PTS FAMILY UPDATED. ONE DAUGHTER CALLED TODAY.
+
+
+
+",,
+8920,8535,11088,0,3263-04-20 02:49:00 EST,3263-04-20 03:58:00 EST,5517,"N",1,"Nursing/Other","Nursing Note 7p-7a","
+Nursing Note 7p-7a
+S: ""[**Doctor Last Name **], I want to buy a car"".
+O: See careview for complete objective data.
+Neuro- Pt confused overnight but cooperative/calm. Conts to call out names and make attempts to climb oob. Unable to reorient. MAEs in bed but is too weak to climb oob, no restraints used. C/o abd cramping/gas pains d/t constipation, no c-pain/sob.
+CV- Tele SR no vea, HR 70s-80s. ABPs 96-130/50s. Conts on a Heparin gtt @ 450U/hr, PTT therapeutic. Conts to coumadin/amio load and holding Ace/BB d/t tachy/brady syndrome & renal function. Na+/K+
+pending.
+Resp- LS with slight crackles in bases, 02 @ 1L nc with sats >97%. Strong productive coughing sm amts thin white sputum.
+ID- Afeb, abx course completed.
+Endo- Sugars all below RISS.
+GI/GU- Abd distended +hypo bs +flatus no bm. Given PRN lactulose x2, used bedpan several tx without success. Pt pulled out his NGT. Nepro  FS was infusing @ 10/hr. Failed video S/[**Name Initial (MD) **] test, RN recommended only honey thick liquids. Foley patent voiding qs cyu. [**Location 357**]4.6L, Cre 1.4
+A/P: 87yo male s/p STEMI c/b cardiogenic/septic shock, ARF on CRI, rapid AF on Amio/heparin, constipation and failed speech/swallow.Cont to monitor bowels, HR/rhythm, coags & lytes. ? reinsert NGT. Keep family advised on POC.
+",,
+8920,8535,11088,0,3263-04-20 15:07:00 EST,3263-04-20 15:44:00 EST,2499,"N",1,"Nursing/Other","CCU NPN 0700-1900","
+CCU NPN 0700-1900
+S: ""Thank [**Doctor First Name **] dear...its [**3263-4-19**]...can [**Doctor First Name **] get me some beer?""
+
+O: Please see careview for VS and additional data.
+
+
+CV: Pt HR 60's to 81 NSR, rare PVC's to no ectopy noted, ABP 114-134/47-63. Bilat pedal pulses palp, pt denies CP. During prior shift pt in afib, at approx 0730 pt noted to be in NSR-EKG done and MD's aware. Heparin gtt continues 450 units/hr, afternoon labs pending.
+
+Resp: Pt LS clear at apices to diminshed/faint crackles at bases, pt denies SOB, RR 14-20, O2 sats 98-100% on 1L n.c.
+
+Neuro: Pt alert and oriented x [**12-22**], pt at times aware he is in hospital, can recall he will be going to rehab, knows month and year, date of birth.  At times pt confused on location, some short term memory deficit noted, pt pleasant and cooperative for most of shift-slightly agitated at times-pt reoriented and situation explained to pt with pt cooperative. Pt OOB to chair for 2 hours this am. Pt OOB with 3 assist stand and pivot to chair.  Pt from chair to bed with 4 assist and slideboard. Pt bears weight minimally. Pt MAE, assists with turning after encouragement, pt encouraged to move extremeties in bed and to sit in chair, pupils bilateral equal brisk reactive to light 4mm.
+
+GI/GU/ENDO: Pt abd soft distended, less distended throughout shift, pt +BS x4, +flatus, no stool but sm smear noted on washcloth. Pt on heart healthy ground diet with honey thick liquids-pt tol pills crushed in oatmeal this am. Pt coughed after drinking thickened water x1, but sats remained 98%, pt denied SOB or discomfort swallowing, no further coughing noted. Pt fed by nsg/nsg staff. FS wnl, no ss insulin coverage given.
+
+ID: Pt afebrile.
+
+Skin: Pt with sm rash on perineum area, area cleansed and barrier cream/antifungal aloe vesta cream applied. Pt noted to have scab on upper lip-scab bled briefly this am, no further bleeding noted, oral care done, vaseline applied to lips. 
+
+Social: Pt daughter called this am and spoke with RN regarding pt condition, Social worker called pt daughter this afternoon-see note in chart.
+
+A/P: 87 y/o male s/p STEMI c/b cardiogenic/septic shock, pt now hemodynamically stable in NSR, possible transfer to rehab facility on Monday.  As discussed per rounds, cont to monitor hemodynamics, resp status, u/o, lytes. Continue to monitor mental status, monitor/assist pt with eating, enc PO intake. Advance activity as tol. Continue to provide emotional support to pt. Awaiting further POC per CCU Team.
+",,
+8920,8535,11088,0,3263-04-21 03:56:00 EST,3263-04-21 04:47:00 EST,1722,"N",1,"Nursing/Other",,"
+
+CCU NPN
+
+S: "" I'M GOING TO DIE...I WANT MY FAMILY!""
+
+CV/RESP: PT HEMODYNAMICALLY STABLE TILL 2345 WHEN PT BECAME PROGRESSIVLY SOB. RR- 30'S HR 80-90 SBP 135-150. SATS ON 1 L NP 89%. GIVEN ATROVENT NEB WITH LITTLE RELIEF. PT DIAPHORETIC. BS WITH CRACKLES AND EXP WHEEZES NOTED THRUOUT LUNG FIELDS. DR [**Last Name (STitle) **] [**Name (STitle) 56**] AND TEAM INTO ASSESS PT. EKG COMPLETED SHOWING OLD INF CHANGES. CXR SHOWING PULM EDEMA AND INFILTRATES ? ASP PNA. @ 0005 PT GIVEN ZAROXYLN 5MG FOLLOWED BY LASIX 100MG.  ABG ON 4L 7.39,40,84,25,0 GIVEN 1 MG MSO4. PLACED ON 50% COOL FM. POOR RESPONCE FROM LASIX NOTED. MD [**Last Name (Titles) 56**]. REPEAT ABG ( ON RA) 7.37,40,45,-1,24 PLACED ON HIGH FLOW O2 95% WITH IMPROVING SATS TO 100%. POOR RESPONCE FROM LASIX. REPEAT LABS; BUN 107, CREAT 4.2,WBC 19.7, LACTIC ACIS 1.7 CK 37, TROPONIN 2.59. NOTED ABD DISTENSION ABD MORE FIRM. MD [**Last Name (Titles) 56**]. ABD FILMS COMPLETED. IMPROVING VS WITH MS04. HR IMPROVING NSR 70-80. RR DOWN TO 19, SATS 98-100%.  CON'T ON HEPARIN @ 450U/HR. RECEIVES COUMADIN @ HS. CON'T ON AMIODARONE 400MG.
+
+GU: POOR RESPONCE FROM LASIX U/O 40-80 CC/HR. BEING SEEN BY DR [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6335**]. SEE I/O FOR ACCURATE I/O
+
+GI: PT ON STRICT ASPIRATION PRECAUTIONS. GIVEN MEDS IN HONEY THICK LIQ. AND PUDDINGS. COUGHS OCCASSIONALY. ABD INITIALLY SOFT DISTENDED + BS. APPEARS MORE FIRM AND DISTENDED. DR [**Last Name (STitle) **] [**Name (STitle) 56**]. ABD FILMS COMPLETED. HAD 1 SM STOOL BROWN SOFT. CON'T ONB COLACE, SENNA AND DULCOLAX PRN. NO NPO. ? RESTART NGT FOR FEEDS AND MEDS.
+
+NEURO: A/O X2 HAS PERIODS WHERE HE IS LUCID FOLLOWED BY CONFUSION. HE CAN FOLLOW SIMPLE COMMANDS. HE IS ORIENTED TO PERSON AND PLACE. HE RECOGNIZES HIS FAMILY WHEN THEY VISIT. HE SPEAKS IN SHORT SENTENCES. MAE PUPLIS ARE 3MM BRISK.
+
+ID: WBC ^ 19.7 AFEBRILE. BLD CULT X1 FROM A-LINE SENT. RESTARTED ON LEVO, FLAGYL AND VANCO FOR PERSUMED ASP PNA.
+
+SOCIAL/DISPOSITION: DNR/DNI. DAUGHTER AND GRANDDAUGHTERS CALLED IN BY TEAM AFTER PT'S STATUS CHANGED. FAMILY MEETING HELD WITH NURSING AND DR [**Last Name (STitle) **] IN ATTENDENCE. THIS FAMILY ( DAUGHTER [**Name (NI) **] IS HCP) IS VERY DISCOURAGED BY PT'S LACK OF PROGRESSION. THEY HAVE SPOKEN WITH SOCIAL SERVICES AND ATTENDINGS DR [**First Name (STitle) **] AND DR [**Last Name (STitle) 1935**]. THEY UNDERSTAND THAT HE HAS A SMALL 10% CHANCE OF A MEANINGFUL RECOVERY. DAUGHTER HAS STATED THAT HER FATHER WOULD NOT WANT TO RECEIVE DIALYSIS OR END UP IN REHAB FACILITY. SHE FEELS HER DADS WISHES WILL NOT BE FOLLOWED THRU WITH. THE FAMILY WOULD LIKE TO ENGAGE IN FURTHER DISCUSSION REGARDING CMO STATUS WITH MED ATTENDINGS AND RENAL AND NURSING. THEY WOULD WELCOME ANY DISCUSSION THAT FAVORS COMFORT AS A PRIORITY. THE FAMILY WOULD LIKE TO SPEAK WITH SS AND ATTENDINGS TODAY TO DEVELOP A PLAN THAT INCLUDES FULL COMFORT SUPPORT. THERE HAVE BEEN SEVERAL REHAB'S INTO EVAL MR [**Known patient lastname **] CASE. 
+
+SKIN: PERINEUM RED RASH. ANIFUNGAL AND BARRIER APPLIED.
+
+ACCESS: 1 PHERP IV #20 R ARM. SEVERAL ATTEMPTS AT SECOND ACCESS TO ACCOMMDATE IV ABX FAILED. MD'S IN AND INSERTED R EJ LINE.
+
+LABS: K+ 3.9 GIVEN KCL 20 MEQ.
+
+A/P: 87 YR OLD S/P STEMI C/B CARDIOGENIC SHOCK, IABP AND PRES
+",,
+8920,8535,11088,0,3263-04-21 03:57:00 EST,3263-04-21 04:47:00 EST,1722,"N",1,"Nursing/Other",,"
+
+(Continued)
+SOR SUPPORT. LAD STENTS X2. SEPTIC SHOCK.  A-FIB NOW CONTROLLED BY AMIODARONE. PLEASE FACILITATE FAMILY DISCUSSION WITH ATTENDINGS AND SS. FAMILY WISHES CMO STATUS. FOLLOW RESP STATUS. PER NSG JUDGEMENT. UPDATE POC WITH FAMILY AND ADVOCATE FOR THEM. SUPPORT PT.
+",,
+8920,8535,11088,0,3263-04-21 16:42:00 EST,3263-04-21 16:53:00 EST,1563,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: mumbling... ""water, water""
+O: please see carevue for all objective data
+neuro: awake, lethargic, oriented to person and ""hospital"", not time. Moaning frequently. Follows commands, MAE, PERL. 
+cv: hemodynamically stable in sr.
+resp: remains on hi flow neb at 6l. SATS 92-96%. lungs w/ basilar crackles, otherwise coarse. 
+gu: given lasix 160 mg iv and zaroxolyn 5mg  po this am w/ good response, currently ~ 600cc neg.
+gi: NPO except for meds crushed in thickened apple juice. No stool
+id: afevrile, cont on abx.
+end: bs wnl.
+social: daughter [**Name (NI) **] (HCP) in this afternoon, spoke at length w/ Dr. [**Last Name (STitle) **] and RN. Wishes pt to be made comfortable, continuing treatments such as diuresis that will contribute to comfort. Does not wish any invasive treatments including dialysis, which she says pt would never want.
+A: hemodynamically stable in sr, maintaining SATS on 6l hi flow neb. good response to diuresis. 
+P: continue current plan of care, with focus on pt's comfort. emotional support to pt and family
+",,
+8920,8535,11088,0,3263-04-22 04:33:00 EST,3263-04-22 04:44:00 EST,1865,"N",1,"Nursing/Other",,"
+
+87 YR. OLD MAN ADMITTED TO [**Hospital1 22**] [**4-6**] S/P STEMI C/B CARDIOGENIC/SEPTIC
+SHOCK REQUIRING INTUBATION, IABP, & PRESSORS, NOW BEING TX AS CMO.
+
+NEURO: A&O X2. BRIGHT & ENGAGING DURING SHIFT. MAKING JOKES. SLEPT IN SHORT NAPS.
+
+RESP: O2->60% HI [**Last Name (un) **] NEB. RR 14-20. O2 SAT 97-100%. BS COARSE WITH DIMINISHED BS AT BASES.
+
+CARDIAC: HR 63-73 SR, NO ECTOPY. BP 101-122/43-53.
+
+GI: ABD. SL. DISTENDED BUT SOFT. BS+. NO STOOL + FLATUS. TOL. ICE CHIPS WELL. GAG REFLEX INTACT. ASKING FOR FOOD. ??ADVANCE DIET THIS AM.
+
+GU: FOLEY->CD PATENT & DRAINING CLEAR YELLOW URINE. U/O 100-250CC/HR. 
+-1.5 L. @ MIDNOC.
+
+ID: AFEBRILE. CONT. TO RECEIVE IV FLAGGYL & LEVOFLOX FOR PRESUMED ASPIRATION PNEUMONIA.
+
+PLAN: CMO
+      MEDS AS ORDERED.
+      D/C ALINE TODAY.
+      ADVANCE DIET AS TOL.
+      NO LABS.
+      EMOTIONAL SUPPORT PT/FAMILY AS NEEDED.
+",,
+8920,8535,11088,0,3263-04-22 15:21:00 EST,3263-04-22 15:56:00 EST,1563,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: ""I want ice cream""
+O: please see carevue for all objective data
+
+neuro: alert, oriented x2, much brighter, more engaging today. 
+cv: in and out a fib ths am w/ rate 90's, stable bp, converted to sr this afternoon rate 60-70's. occ pvc. 
+resp: o2 weaned to RA, SATS 94-97%, 
+gi: improved appitite. Taking foods and fluids w/o any difficulty. Pills crushed this am, but this afternoon given whole w/ water w/o problem. No stool today. c/o abd discomfort
+gu: no diuresis today. foley draining cyu 40-90cc/hr. currently ~ 300cc neg. BUN/Cr 107/4.5
+id: afebrile, wbc down to 11.9
+end: bs this am 99,sliding scale d/c
+activity: oob w/ 3 assists, minimal wt bearing. In chair ~ 1 hr, tolerated well. Back to bed using slide board. PT will see in am.
+social: daughter [**Name (NI) 6336**] called for update, nephew and grand daughter n to visit.
+A: improved mental status
+   a fib w/ good rate control and bp.
+   improved resp status
+   good u/o despite no diuresis
+P: monitor i/o, resp status, rhythm
+   ^ actvity as tolerated.
+
+
+
+
+",,
+8920,8535,11088,0,3263-04-23 04:57:00 EST,3263-04-23 05:09:00 EST,1865,"N",1,"Nursing/Other",,"
+
+87 YR. OLD MAN S/P STEMI C/B CARDIOGENIC/SEPTIC SHOCK REQUIRING INTUBATION, IABP, & PRESSORS. LENGTHY HOSPITAL STAY C/B ILEUS, AFIB,
+CHF, CRI, & ASPIRATION PNEUMONIA. NOW BEING TX AS CMO.
+
+NEURO: A&O X2. PLEASANT & COOPERATIVE.
+
+RESP: O2 SATS 95-100% ON RM AIR/NP 2L. RR 13-19. BS CLEAR BUT DIMINISHED AT BASES. OCC. EXP. WHEEZES REQUIRING NEB PER RPT.
+
+CARDIAC: HR 66-75 SR, NO ECTOPY. BP 103-120/50-62. DENIES CP/SOB.
+
+GI: C/O ABD DISCOMFORT/CONSTIPATION. DULCOLOX SUPP X1 WITH FAIR RESULTS & RELIEF OF ABD. DISCOMFORT. 2 SM. BM'S SOFT BROWN STOOL, G(-). ABD. SL. DISTENDED BUT SOFT. BS+.
+
+GU: FOLEY->CD PATENT & DRAINING CLEAR YELLOW URINE. U/O 50-95CC/HR.
+
+ID: AFEBRILE. CONT. TO RECEIVE IV FLAGGYL & LEVOFLOX FOR PRESUMED ASPIRATION PNEUMONIA.
+
+AM LABS PENDING.
+
+PLAN: TO BE SEEN BY PT
+      ???? REHAB
+      ???? CALL OUT TO FLOOR.
+",,
+8920,8535,11088,0,3263-04-23 05:51:00 EST,3263-04-23 05:52:00 EST,1865,"N",1,"Nursing/Other","ADDENDUM","
+ADDENDUM
+UNABLE TO OBTAIN AM LABS. SCHEDULED TO GO TO IR TODAY FOR PICC. WILL NEED TO GET LABS AFTER PICC PLACED.
+",,

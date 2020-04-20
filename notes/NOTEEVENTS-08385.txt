@@ -1,0 +1,723 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8385,3269,,,3020-11-21 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3020-11-21**]       Discharge Date:  [**3020-11-22**]
+
+Date of Birth:                    Sex:  M
+
+Service:  TRAUMA SURGERY
+
+ADMISSION DIAGNOSIS:  Pedetrian struck.
+
+DISCHARGE DIAGNOSIS:
+1.  Severe closed head injury.
+2.  Left pneumothorax.
+3.  Left clavicle fracture.
+4.  Left humerus fracture.
+5.  Hypotension.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 55-year-old
+male pedestrian who was struck while crossing the street.  He
+was found with a GCS of 5 at the scene.  A nasotracheal
+intubation was successfully undertake, and the patient was
+transferred emergently to the [**Hospital6 402**] Emergency Room for evaluation.
+
+PAST MEDICAL HISTORY:  Hypertension.
+
+ALLERGIES:  NO KNOWN DRUG ALLERGIES.
+
+MEDICATIONS ON ADMISSION:  Unknown.
+
+PHYSICAL EXAMINATION:  Vital signs:  Heart rate 48, blood
+pressure 83/23, oxygen saturation 100% on ventilator.
+General:  He was intubated with a GCS of 3.  HEENT:  His
+pupils were fixed and dilated at 6 mm bilaterally.  He had a
+depressed skull fracture with severe facial trauma and blood
+coming from both ears.  He had no respiratory effort.  Chest:
+Clear.  Heart:  Bradycardiac and regular.  Abdomen:  Soft,
+nontender, nondistended.  Negative fast exam.  Extremities:
+his left upper extremity had an obvious deformity.  His
+distal extremities had no obvious deformities with palpable
+pulses.
+
+LABORATORY DATA:  On admission hematocrit was 38; INR 1.3;
+lactate 2.6.
+
+IMAGING:  1.  On admission chest x-ray showed small left
+pneumothorax, left clavicle fracture, and left rib fractures.
+2.  Pelvis with no fracture.  3.  CT of head with
+pneumocephalus, subarachnoid hemorrhage on the left and open
+skull fracture.  4.  CT of cervical spine with a C6 facet
+fracture.  5.  CT of chest with a pneumothorax and left
+hemothorax.  6.  CT of abdomen and pelvis with no
+abnormalities.
+
+HOSPITAL COURSE:  The patient was seen in the Trauma Bay at
+[**Hospital6 **] Emergency Room where he was
+evaluated.  After plain films were obtained and initial
+survey was done, he was taken emergently for imaging.
+
+Given the fact that he had a severe closed head injury with a
+negative fast exam, it was felt that his bradycardia and
+hypotension was likely secondary to impending herniation, and
+Neurosurgery consult was obtained.  They deemed it necessary
+to place a ventriculostomy.  They recommended Mannitol and a
+repeat head CT.
+
+The patient was transferred to the Intensive Care Unit.  A
+left chest tube was placed.  The patient was resuscitated.
+His hemodynamic instability progressed, and he began to
+require Levophed for his blood pressure and cardiac output.
+
+Given the gravity of his closed head injury, a discussion was
+held with the family, and they elected to make the patient
+comfort measures only.  They also elected to speak with the
+[**Location (un) **] Organ Bank.  They did elect for organ donation
+with the patient being a donor after cardiac death.
+
+The patient was given intravenous fluids over night, and on
+[**3020-11-22**], the patient was taken to the Operating Room
+on a Morphine drip.  The patient was extubated at 11:45 a.m.
+He was then without a heart beat pulse or respiratory effort
+or electrical activity at 11:54 a.m.  A decision was made for
+made at 11:59.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 201**], M.D.  [**MD Number 202**]
+
+Dictated By:[**Last Name (NamePattern1) 1632**]
+MEDQUIST36
+
+D:  [**3021-2-7**]  14:30
+T:  [**3021-2-7**]  14:33
+JOB#:  [**Job Number 11618**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: MON [**3021-2-12**] 1:14 PM
+(End of Report)
+
+
+",,
+8385,3269,,,3020-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-11-21**] 3:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7286**]
+     Reason: eval ET tube re-positioning                                 
+     Admitting Diagnosis: MULTIPLE TRAUMAS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      39 year old man with s/p struck by car.                                         
+     REASON FOR THIS EXAMINATION:
+      eval ET tube re-positioning                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Trauma. Endotracheal tube repositioning. Evaluate for position.
+     
+     CHEST AP: The tip of the endotracheal tube is about 8 cm above the carina. A
+     left sided chest tube is seen. Some subcutaneous emphysema is visualized at
+     the site of left chest tube. Multiple rib fractures, fracture of the left
+     glenoid and mid clavicle are visualized. A focal radiodensity is visualized
+     adjacent to the thoracic spine of undetermined location. There is a possible
+     contusion in the left basal and mid zone areas.
+     
+     IMPRESSION: Tip of the endotracheal tube about 8 cm above the carina.
+     
+
+",,
+8385,3269,,,3020-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-11-21**] 1:32 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 7284**]
+     Reason: fx                                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with [**Hospital Unit Name 309**] hit by car                                             
+     REASON FOR THIS EXAMINATION:
+      fx                                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MRSg TUE [**3020-11-21**] 5:58 PM
+      No fracture of the cervical vertebrae.  Displaced fracture, left 1st rib.
+      Bilateral pneumothoraces.  Small amount of cervical epidural hemorrhage.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pedestrian hit by car.
+     
+     TECHNIQUE: Axial noncontrast helical scanning of the cervical spine was
+     performed. Sagittal and coronal reconstructions were obtained.
+     
+     FINDINGS:  There are no prior similar exams available for comparison. There is
+     no sign of a fracture or abnormal alignment of the cervical vertebrae. A small
+     amount of hyperdensity is present in the epidural space consistent with an
+     epidural hemorrhage.  CT is not able to provide any intrathecal details.
+     There is a displaced fracture of the first rib on the left. Bilateral
+     pneumothoraces are present.
+     
+     IMPRESSION:
+     
+     1) No evidence of fracture of the cervical vertebrae. Probable small amount of
+     blood within the cervical epidural space.
+     2) Displaced fracture of the left first rib.
+     3) Bilateral pneumothoraces.
+     
+     
+     
+     
+
+",,
+8385,3269,,,3020-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-11-21**] 1:32 PM
+     CT C-SPINE W/O CONTRAST; CT RECONSTRUCTION                      Clip # [**Clip Number (Radiology) 7284**]
+     Reason: fx                                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with [**Hospital Unit Name 309**] hit by car                                             
+     REASON FOR THIS EXAMINATION:
+      fx                                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MRSg TUE [**3020-11-21**] 5:58 PM
+      No fracture of the cervical vertebrae.  Displaced fracture, left 1st rib.
+      Bilateral pneumothoraces.  Small amount of cervical epidural hemorrhage.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pedestrian hit by car.
+     
+     TECHNIQUE: Axial noncontrast helical scanning of the cervical spine was
+     performed. Sagittal and coronal reconstructions were obtained.
+     
+     FINDINGS:  There are no prior similar exams available for comparison. There is
+     no sign of a fracture or abnormal alignment of the cervical vertebrae. A small
+     amount of hyperdensity is present in the epidural space consistent with an
+     epidural hemorrhage.  CT is not able to provide any intrathecal details.
+     There is a displaced fracture of the first rib on the left. Bilateral
+     pneumothoraces are present.
+     
+     IMPRESSION:
+     
+     1) No evidence of fracture of the cervical vertebrae. Probable small amount of
+     blood within the cervical epidural space.
+     2) Displaced fracture of the left first rib.
+     3) Bilateral pneumothoraces.
+     
+     
+     
+     
+
+",,
+8385,3269,,,3020-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-11-21**] 5:47 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7287**]
+     Reason: eval for line placement, PA catheter                        
+     Admitting Diagnosis: MULTIPLE TRAUMAS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       39 year old man with s/p struck by car.                                        
+       
+     REASON FOR THIS EXAMINATION:
+      eval for line placement, PA catheter                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  39-year-old man struck by a car, evaluate line placement.
+     
+     FINDINGS:  Comparison is made to chest radiograph from the same day at 15:59.
+     There is a new right subclavian Swan-Ganz catheter whose tip is in an
+     interlobar right pulmonary artery.  The nasogastric tube is again seen whose
+     tip is not included on the film but is at least below the diaphragm.  The
+     left-sided chest tube is unchanged in position.  The side hole is very close
+     to the left chest wall.  The subcutaneous emphysema in the left chest wall not
+     significantly changed.  There is worsening opacity at the both lung bases most
+     likely due to a component of effusion and atelectasis. There are fractures of
+     the left clavicle, left scapula, and left ribs, not changed.  The endotracheal
+     tube tip is high, at the level of the T1-2 junction.
+     
+     IMPRESSION:  1)  Appropriate placement of the Swan-Ganz catheter.
+     
+     2)  Endotracheal tube is high at the T1-T2 level.
+     
+     3)  Remaining lines and tubes are unchanged in position with the side hole of
+     the left chest tube near the edge of the thorax.
+     
+     4)  Increased effusion at the right lung base and bilateral
+     atelectasis/contusion.
+     
+
+",,
+8385,3269,,,3020-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8385,3269,,,3020-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8385,3269,,,3020-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-11-21**] 1:33 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 7285**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: injury                                                      
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with [**Hospital Unit Name 309**] hit by car                                             
+     REASON FOR THIS EXAMINATION:
+      injury                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: CCqc TUE [**3020-11-21**] 4:20 PM
+      large hemopneumothorax; 1, 5 and 6 fx's, scapular fx
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Trauma.
+     
+     TECHNIQUE:  Contiguous axial images of the chest, abdomen, and pelvis were
+     obtained following the administration of 150 cc of Optiray for the trauma
+     protocol.  Multiplanar reformatted images of the chest were included.
+     
+     CTA OF THE CHEST:  The heart and great vessels are intact and within normal
+     limits.  There is a large, approximately 50% left-sided pneumothorax with high
+     density pleural fluid, compatible with a hemopneumothorax.  In addition, there
+     is evidence of contusion involving the left lung.  Minor atelectatic changes
+     at the right lung base are evident.  Subcutaneous air is present within the
+     soft tissues of the left chest wall adjacent to a left 6th rib fracture.
+     
+     CT OF THE ABDOMEN AND PELVIS WITH IV CONTRAST:  There is periportal edema,
+     pericholecystic fluid, and edema of the small bowel, compatible with massive
+     volume resuscitation.  Otherwise, the liver, gallbladder, spleen, pancreas,
+     kidneys, and adrenal glands appear normal.  There is no evidence of traumatic
+     injury to the abdomen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley within the urinary
+     bladder.  Pelvic loops of bowel are within normal limits.  There is no free
+     fluid within the pelvis.  Of note, at this time, contrast has not reached to
+     the bladder, limiting evaluation.  Note is made of air within the right
+     femoral vein at the site of line placement.
+     
+     BONE WINDOWS:  Fractures of the left 1st, 5th and 6th ribs are evident.  In
+     addition, there is a three part fracture of the left scapula.
+     
+     CT RECONSTRUCTIONS:  Coronal sagittal reformatted images of the chest were
+     reviewed and confirm the above findings.
+     
+     IMPRESSION:
+     1)  Large left hemopneumothorax.
+     2)  Multiple fractures as described above involving the left 1st, 5th, and 6th
+     ribs, as well as the left scapula.
+     3)  No evidence of traumatic injury to the abdomen or pelvis.
+                                                                 (Over)
+
+     DATE: [**3020-11-21**] 1:33 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 7285**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: injury                                                      
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8385,3269,,,3020-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-11-21**] 1:33 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 7285**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: injury                                                      
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with [**Hospital Unit Name 309**] hit by car                                             
+     REASON FOR THIS EXAMINATION:
+      injury                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: CCqc TUE [**3020-11-21**] 4:20 PM
+      large hemopneumothorax; 1, 5 and 6 fx's, scapular fx
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Trauma.
+     
+     TECHNIQUE:  Contiguous axial images of the chest, abdomen, and pelvis were
+     obtained following the administration of 150 cc of Optiray for the trauma
+     protocol.  Multiplanar reformatted images of the chest were included.
+     
+     CTA OF THE CHEST:  The heart and great vessels are intact and within normal
+     limits.  There is a large, approximately 50% left-sided pneumothorax with high
+     density pleural fluid, compatible with a hemopneumothorax.  In addition, there
+     is evidence of contusion involving the left lung.  Minor atelectatic changes
+     at the right lung base are evident.  Subcutaneous air is present within the
+     soft tissues of the left chest wall adjacent to a left 6th rib fracture.
+     
+     CT OF THE ABDOMEN AND PELVIS WITH IV CONTRAST:  There is periportal edema,
+     pericholecystic fluid, and edema of the small bowel, compatible with massive
+     volume resuscitation.  Otherwise, the liver, gallbladder, spleen, pancreas,
+     kidneys, and adrenal glands appear normal.  There is no evidence of traumatic
+     injury to the abdomen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley within the urinary
+     bladder.  Pelvic loops of bowel are within normal limits.  There is no free
+     fluid within the pelvis.  Of note, at this time, contrast has not reached to
+     the bladder, limiting evaluation.  Note is made of air within the right
+     femoral vein at the site of line placement.
+     
+     BONE WINDOWS:  Fractures of the left 1st, 5th and 6th ribs are evident.  In
+     addition, there is a three part fracture of the left scapula.
+     
+     CT RECONSTRUCTIONS:  Coronal sagittal reformatted images of the chest were
+     reviewed and confirm the above findings.
+     
+     IMPRESSION:
+     1)  Large left hemopneumothorax.
+     2)  Multiple fractures as described above involving the left 1st, 5th, and 6th
+     ribs, as well as the left scapula.
+     3)  No evidence of traumatic injury to the abdomen or pelvis.
+                                                                 (Over)
+
+     DATE: [**3020-11-21**] 1:33 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 7285**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: injury                                                      
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8385,3269,,,3020-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-11-21**] 1:33 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 7285**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: injury                                                      
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with [**Hospital Unit Name 309**] hit by car                                             
+     REASON FOR THIS EXAMINATION:
+      injury                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: CCqc TUE [**3020-11-21**] 4:20 PM
+      large hemopneumothorax; 1, 5 and 6 fx's, scapular fx
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Trauma.
+     
+     TECHNIQUE:  Contiguous axial images of the chest, abdomen, and pelvis were
+     obtained following the administration of 150 cc of Optiray for the trauma
+     protocol.  Multiplanar reformatted images of the chest were included.
+     
+     CTA OF THE CHEST:  The heart and great vessels are intact and within normal
+     limits.  There is a large, approximately 50% left-sided pneumothorax with high
+     density pleural fluid, compatible with a hemopneumothorax.  In addition, there
+     is evidence of contusion involving the left lung.  Minor atelectatic changes
+     at the right lung base are evident.  Subcutaneous air is present within the
+     soft tissues of the left chest wall adjacent to a left 6th rib fracture.
+     
+     CT OF THE ABDOMEN AND PELVIS WITH IV CONTRAST:  There is periportal edema,
+     pericholecystic fluid, and edema of the small bowel, compatible with massive
+     volume resuscitation.  Otherwise, the liver, gallbladder, spleen, pancreas,
+     kidneys, and adrenal glands appear normal.  There is no evidence of traumatic
+     injury to the abdomen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley within the urinary
+     bladder.  Pelvic loops of bowel are within normal limits.  There is no free
+     fluid within the pelvis.  Of note, at this time, contrast has not reached to
+     the bladder, limiting evaluation.  Note is made of air within the right
+     femoral vein at the site of line placement.
+     
+     BONE WINDOWS:  Fractures of the left 1st, 5th and 6th ribs are evident.  In
+     addition, there is a three part fracture of the left scapula.
+     
+     CT RECONSTRUCTIONS:  Coronal sagittal reformatted images of the chest were
+     reviewed and confirm the above findings.
+     
+     IMPRESSION:
+     1)  Large left hemopneumothorax.
+     2)  Multiple fractures as described above involving the left 1st, 5th, and 6th
+     ribs, as well as the left scapula.
+     3)  No evidence of traumatic injury to the abdomen or pelvis.
+                                                                 (Over)
+
+     DATE: [**3020-11-21**] 1:33 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 7285**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: injury                                                      
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8385,3269,,,3020-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-11-21**] 1:33 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 7285**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: injury                                                      
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with [**Hospital Unit Name 309**] hit by car                                             
+     REASON FOR THIS EXAMINATION:
+      injury                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: CCqc TUE [**3020-11-21**] 4:20 PM
+      large hemopneumothorax; 1, 5 and 6 fx's, scapular fx
+     WET READ AUDIT #1 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Trauma.
+     
+     TECHNIQUE:  Contiguous axial images of the chest, abdomen, and pelvis were
+     obtained following the administration of 150 cc of Optiray for the trauma
+     protocol.  Multiplanar reformatted images of the chest were included.
+     
+     CTA OF THE CHEST:  The heart and great vessels are intact and within normal
+     limits.  There is a large, approximately 50% left-sided pneumothorax with high
+     density pleural fluid, compatible with a hemopneumothorax.  In addition, there
+     is evidence of contusion involving the left lung.  Minor atelectatic changes
+     at the right lung base are evident.  Subcutaneous air is present within the
+     soft tissues of the left chest wall adjacent to a left 6th rib fracture.
+     
+     CT OF THE ABDOMEN AND PELVIS WITH IV CONTRAST:  There is periportal edema,
+     pericholecystic fluid, and edema of the small bowel, compatible with massive
+     volume resuscitation.  Otherwise, the liver, gallbladder, spleen, pancreas,
+     kidneys, and adrenal glands appear normal.  There is no evidence of traumatic
+     injury to the abdomen.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley within the urinary
+     bladder.  Pelvic loops of bowel are within normal limits.  There is no free
+     fluid within the pelvis.  Of note, at this time, contrast has not reached to
+     the bladder, limiting evaluation.  Note is made of air within the right
+     femoral vein at the site of line placement.
+     
+     BONE WINDOWS:  Fractures of the left 1st, 5th and 6th ribs are evident.  In
+     addition, there is a three part fracture of the left scapula.
+     
+     CT RECONSTRUCTIONS:  Coronal sagittal reformatted images of the chest were
+     reviewed and confirm the above findings.
+     
+     IMPRESSION:
+     1)  Large left hemopneumothorax.
+     2)  Multiple fractures as described above involving the left 1st, 5th, and 6th
+     ribs, as well as the left scapula.
+     3)  No evidence of traumatic injury to the abdomen or pelvis.
+                                                                 (Over)
+
+     DATE: [**3020-11-21**] 1:33 PM
+     CTA CHEST W&W/O C &RECONS; CT ABDOMEN W/CONTRAST                Clip # [**Clip Number (Radiology) 7285**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: injury                                                      
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8385,3269,,,3020-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-11-21**] 1:20 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7283**]
+     Reason: patient with gcs 5 after head trauma, eval for bleed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with 
+     REASON FOR THIS EXAMINATION:
+      patient with gcs 5 after head trauma, eval for bleed
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MRSg TUE [**3020-11-21**] 5:56 PM
+      Extensive subarachnoid hemorrhage.  Extensive contusion of left frontal lobe
+      with overlying displaced skull fracture and marked intracranial and
+      intraparenchymal air.  Innumerable facial and skull fractures.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Head trauma, GCS of 5; evaluate for bleed.
+     
+     TECHNIQUE: ct head w/o contrast.
+     
+     COMPARISON:  No prior comparable examinations available for comparison.
+     
+     FINDINGS:  There is extensive bilateral subarachnoid blood.  Over the left
+     temporal region is an area of contusion of the left temporal lobe with
+     intracranial and intracerebral pneumocephalus.  Additional foci of
+     intracranial gas are located adjacent to the right temporal and parietal
+     lobes, as well as the frontal lobes bilaterally.  There is no hydrocephalus.
+     No shift of normally midline structures is appreciated at the time of this
+     examination.
+     
+     Bone windows demonstrate innumerable fractures of the basal skull, including
+     displaced fracture of the frontal bone, frontal sinus walls, and temporal
+     bones overlying the area of prominent contusion and pneumocephalus, as well as
+     the facial bones. There is near total opacification of the paranasal sinuses
+     bilaterally and fluid within the mastoid air cells.  The patient is intubated.
+     
+     IMPRESSION:
+     1)  Extensive hemorrhagic contusion within the left hemisphere, with
+     pneumocephalus and intracerebral air associated with overlying multiple
+     skull fractures.  Extensive subarachnoid blood.  No evidence of epidural or
+     subdural hematoma.
+     
+     2)  No evidence of shift of normally midline structures at the time of this
+     examination.
+     
+     3)  Innumerable facial and skull fractures as described above.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3020-11-21**] 1:20 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7283**]
+     Reason: patient with gcs 5 after head trauma, eval for bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     (Cont)
+
+",,
+8385,3269,,,3020-11-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3020-11-21**] 12:57 PM
+     TRAUMA #2 (AP CXR & PELVIS PORT)                                Clip # [**Clip Number (Radiology) 7282**]
+     Reason: PEDESTRIAN HIT NY CAR  INTUBATED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      61 year old man with trauma
+     REASON FOR THIS EXAMINATION:
+      trauma
+     ______________________________________________________________________________
+     WET READ: CCqc TUE [**3020-11-21**] 1:14 PM
+      left clavicle, glenoid, scapular and rib fx's -- possible pneuothorax but exam
+      limited
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Ttrauma.
+     
+     TECHNIQUE:  Portable AP chest and pelvis.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  The cardiac and mediastinal contours are within normal limits.
+     There is a complete fracture through the distal-third of the left clavicle, as
+     well as possible fractures through the glenoid and scapula.  There is a
+     probable fracture through the left first rib. Fractures through the left fifth
+     and sixth ribs are evident, with possible contusion just adjacent to the
+     fracture site. There may be a left pneumothorax, although evaluation is
+     limited in this study.
+     
+     Single AP view of the pelvis demonstrates no evidence of fractures or hip
+     dislocation.
+     
+     IMPRESSION:
+     1.  Multiple intrathoracic fractures, with a complete fracture through the
+     distal-third of the left clavicle.  There may be fractures through the left
+     glenoid and scapula, although evaluation with a dedicated study is
+     recommended.  Fractures of the left first, fifth and sixth ribs are evident
+     with likely adjacent lung contusion.
+     2.  Probable left pneumothorax, with a deep sulcus sign on this examination. A
+     repeat evaluation is recommended when clinically feasible.
+     3.  No pelvic fractures.
+
+",,
+8385,3269,10425,0,3020-11-21 15:26:00 EST,3020-11-21 15:33:00 EST,4274,"N",53,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt admitted from the emergency room to the unit seconardy to injuries endured as a pedestrian being hit by a motor vechile. Nasal intubation prior to coming to unit with the ETT cuff blown. Large amounts of packing placed in oral airway which limited the air leakage by unit attending. Copious amounts of blood being suctioned from both the oral airway as well as ETT. Chest tube placed left side. Diificulty in ventilating pt with high peak airway pressures. Attempt @ psv resulting in poor vt return. Left on AC mode. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 454**] RRT 
+",,
+8385,3269,10425,0,3020-11-21 16:29:00 EST,3020-11-21 16:34:00 EST,4164,"N",53,"Nursing/Other","SOCIAL WORK","
+SOCIAL WORK
+Sw met with pts brothers and brother-in-law.  Family reports that pt has two young daughters and is divorced from his wife.  Since the divorce, pt has had a significant psychiatric history including hospitalizations for depression and schizophrenia.  Pt has made suicide attempts in the past.  Pt was discharged from [**Location (un) **] VA and placed in a ""lodge"" in [**Hospital1 **], which from family's description sounds like a shelter.  Pt was to start outpt or partial hospital treatment today at VA but was not picked up as planned.  
+
+Family meeting held with MD [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] and [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **].  Medical overview given and all questions answered.  Family produced Health Care Proxy form which is in chart.  SW paged Catholic [**Last Name (un) **] at request of the family.  SW will continue to follow family closely.  Pls pg prn.
+",,
+8385,3269,10425,0,3020-11-21 19:57:00 EST,3020-11-21 20:33:00 EST,4190,"N",53,"Nursing/Other",,"
+
+ADMISSION NOTE 1415:
+
+PT 55 Y/O MALE S/P PED STRUCK BY TRUCK; GCS 3 IN FIELD TRANSFERRED TO [**Hospital1 22**] FOR TREATMENT.
+
+Prior to admission: Pt Discharged yesterday from the [**Hospital **] hospital psych [**Hospital1 **]. According to family accident happened in [**Hospital1 **], pt was awaiting a ride and was struck.
+ 
+Previous Medical history: hypertension, psych issues-unknown.
+
+Home meds: Unknown
+
+Allergies: unknown
+
+Injuries: multiple facial fxs, depressed skull Fx, SAH on left, left rib fx, left clavicle fx, pneumocephalus, Left Pneumo, Left hemothorax.
+
+~1415: To T/SICU:
+
+Lines: Right femoral trauma line, left lower arm #16g PIV, multiple fluid boluses infusing, HR in 30s, BP 120s systolic. Pt being bagged and was nasally intubated. [**First Name9 (NamePattern2) 5679**] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]/ [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 1538**]/ Neuro [**Doctor First Name **], RT, H.O. at bed side.
+
+Pt was nasally intubated with +copious serous drainage from nose/mouth, pt bagged while team working on [**Last Name (un) **] trach tube for adequate oxygenation- O2 sats ranged from 70s-100s. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] packed throat. Neuro [**Doctor First Name **] in placing ventriculostomy, Left femoral art line placed, Left anteriar/lateral CT placed to 20 cm suction, Right subclavian PA line placed.
+
+Review of systems:  
+
+Neuro: Pt initially posturing with upper extremities upon arrival to T/SICU. 10 mg Vecs given ~ 1430 for multiple procedures. Pupils have been 6mm/fixed/dilated. Ventriculostomy placed at 12 above tragus draining small amts of bloody secretions. ICP initially 21 at placement, waveform has been dampened/ Neuro [**Doctor First Name 4**] aware/ team aware. Pt has progressed to - gag, - cough, no spont movement/ no movement to noxious stimuli. - corneals. Another 10 Vecs given ~ 1600 for procedures. 
+
+CV: Pt initially bradycardic, occasional PVCs. Pt HR ranges 30-60s. DP/PT pulses faintly palpable. On/off Levo to maintain adequate BP, BP ranged from 70s-170s systolic- seee care view for trends. Pt cool/dusky. Left radial weak pulse (upper extremity deformity), left femoral art line placed with good wave form correlated to NBP. Pt received massive fluid resuscitation- level 1 infuser used ~15 liters. Pt received [**12-23**] amp atropine for HR in 30s.  PA pressures ranged from 40-60s/ 30s. CVP 20s. Body temp cool, as low as 88.4, bear hugger applied, multiple blankets applied- slow to warm up. See Care view for VS trends.
+
+Pulm: Intubated: SIMV 500 X 24 at 100% FIO2. See care view for ABG trends, vent changes mad accordingly. Copious bloody secretions suctioned from [**Last Name (un) **] trach tube. O2 sats ranged from 60s to 100%, pt not over breathing vent at this time. Lung sounds are coarse throughout.
+
+GI: OG tube/ [**Hospital1 119**] sump to LCWS draining moderate amts of dark blood. - BS, NPO.
+
+GU: Foley patent to gravity, lyl/clear. Replenished Mag, Ca. Massive fluid resuscitation.
+
+Heme: last Crit 25, INR 1.9, 2 units FFp pending.
+
+ID: Bear hugger on, core body temp monitored.
+
+Skin: LEft upper arm in sling by team. Left radial pulse palpable. Multiple facial abrasions, skull depression, Bleeding from nose/mouth. Pt edematous all over. Skin is cool/pale/dusky.
+
+",,
+8385,3269,10425,0,3020-11-21 19:58:00 EST,3020-11-21 20:33:00 EST,4190,"N",53,"Nursing/Other",,"
+
+(Continued)
+
+Social: Family in/ multiple brothers/ mother. Priest in for annointing of sick and last rights. Dr. [**Last Name (STitle) 1538**] and Dr. [**Last Name (STitle) **] spoke with family regarding poor/grim prognosis. SW with family, support provided by this RN, questins answered.
+
+Plan: Continue to maintain VS - PT named [**Name (NI) 2071**] per family/ Dr. [**Last Name (STitle) **]. Organ Donation spoke with family. Continue to replenish lytes and maintain adequate oxygentation, follow VS/ fluid bolus to maintain perfusion. Support family/ answer questions. Organ donation- to OR?
+
+
+",,
+8385,,10425,0,3020-11-22 06:18:00 EST,3020-11-22 06:23:00 EST,3406,"N",53,"Nursing/Other","RESP CARE NOTE","
+RESP CARE NOTE
+PT REMAINS INTUBATED, SUPPORTED IN CMV MODE OVERNOC.  VENTILATION INCR IN ATTEMPT TO COMPENSATE FOR METABOLIC ACIDOSIS W/O EFFECT. PLEASE SEE RESP FLOWSHEET FOR DETAILS OF CHANGES AND ABG'S.  BS W/CRACKLES T.O., FREQ SXN FOR COPIOUS AMT WATERY, BLOODY SEC.  PT OVERBREATHING VENT, OUT OF SYNCH, DESPITE MSO4 SEDATION.  NO RSBI DUE TO HIGH FIO2, AM ABG REFLECTS UNCOMPENSATED METABOLIC ACIDOSIS.  PT BEING ASSESSED FOR ORGAN DONATION.  PLAN TO CONTINUE CURRENT SUPPORT.
+",,
+8385,,10425,0,3020-11-22 06:37:00 EST,3020-11-22 08:19:00 EST,3570,"N",53,"Nursing/Other","TSICU NPN 7p-7a","
+TSICU NPN 7p-7a
+S/O-   Pt made DNR by attending and family and comfort measures initiated as ordered.  Family in and discussed DCD procedure w/ [**Location (un) 935**] Organ Bank representatives.  Family expressed interest in donation and opted for DCD option.  Plans made and preparation begun to take pt to the OR during the night however plans delayed by issues involving the Medical Examiner and DA and difficulty w/ blood typing.  Issues now resolved this AM and plan for pt to go to OR at approximately 9am.
+
+Brief ROS (please see careview flow sheet for precise VS's and labs)
+
+Neuro- Pt w/ significant edema of head and face, unable to open eyes most of the night, when able to open left eye it con't fixed and dialated.  Slight spontaneous reflexive movement noted of RUE and LLE early in shift however no withdrawl to painful stimuli.  ICP from [**11-5**], ventriculostomy putting out 10-20cc's hr serosang csf.
+
+CV- hemodynamically stable, Na and chloride elevated , pt getting IVF of LR at 100cc's hr,  Extremities warm and dry w/ easily palpable pulses.  Hct stable.
+
+Resp- pt rate increased overnight secondary to agonal overbreathing, and pt being out of sync w/ vent.  Fio2 weaned slightly. and 5 of PEEP added.
+
+GI- large amt gastric output coffee ground aspirates, abd firm.
+
+GU- u/o maintaining between 25-50cc/hr
+
+Comfort- pt started on MSO4 gtt , increased to 18mg hr over the course of the night to keep pt breathing comfortably and in sync w/ the vent. 
+
+A/P- con't w/ comfort measures as ordered, plan for OR as per NEOB.
+",,

@@ -1,0 +1,382 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8504,,,,2691-06-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2691-6-24**] 8:50 AM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 8442**]
+     Reason: CAROTID BRUITS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON:  Bruits.
+     
+     FINDINGS:  Duplex evaluation is performed of both carotid arteries.
+     Significant plaque was identified on the right internal carotid artery.  On
+     the left minimal plaque was noted.
+     
+     On the right the peak systolic over diastolis velocity in the internal carotid
+     artery is 416/137.  In the remainder of the vessel the peak systolic
+     velocities are 57, 397 in the CCA, ECA respectively.  The ICA:CCA ratio is
+     7.3.  This is consistent with an 80-99% stenosis.
+     
+     On the left peak systolic velocities are 70, 67, 56 in the ICA, CCA, ECA
+     respectively.  The ICA:CCA ratio is 1.  This is consistent with less than 40%
+     stenosis.
+     
+     There is antegrade flow in both vertebral arteries.
+     
+     IMPRESSION:  Significant right-sided plaque with an 80-99% carotid stenosis.
+     On the left there is a less than 40% carotid stenosis.
+
+",,
+8504,,,,2691-07-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2691-7-14**] 4:07 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 8443**]
+     Reason: r cea
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with carotid stenosis
+     REASON FOR THIS EXAMINATION:
+      r cea
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pre-op for carotid endarterectomy.
+     
+     There are no prior studies for comparison.
+     
+     PA AND LATERAL CHEST RADIOGRAPH:  The heart size is normal. There is no hilar
+     adenopathy.  The pulmonary vasculature is within normal limits.  The lung
+     fields are clear.  There are no focal consolidations. There are no effusions
+     and there is no pneumothorax.  There is generalized demineralization of the
+     osseous structures and wedge compression deformities are seen in the mid
+     thoracic spine, age undetermined.
+     
+     IMPRESSION:
+     
+     1. No acute cardiopulmonary process.
+     2. Angular kyphosis with wedge compression deformities in the mid thoracic
+     spine.
+
+",,
+8504,618,,,2691-07-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2691-7-20**]       Discharge Date:  [**2691-7-25**]
+
+Date of Birth:   [**2601-5-9**]       Sex:  F
+
+Service:  Vascular Surgery
+
+PAST MEDICAL HISTORY:  1.  Hypertension; 2.  Diverticuli,
+medically managed; 3.  Glaucoma; 4.  Squamous cell carcinoma,
+right lower extremity; 5.  Osteoarthritis; 6.  Osteoporosis;
+7.  Chronic obstructive pulmonary disease on chest x-ray.
+
+PAST SURGICAL HISTORY:  1.  Right lower extremity squamous
+cell carcinoma, excision in [**2691**]; 2.  Bilateral cataract
+surgery; 3.  Appendectomy at the age of 18; 4.  Right total
+hip replacement at age [**Age over 90 **].
+
+ALLERGIES:  The patient is allergic to Celebrex/rash and
+adhesive tape.
+
+ADMISSION MEDICATIONS:
+1.  Multivitamin
+2.  Metamucil
+3.  Eyedrops, Betagan .5%
+4.  Fosamax 70 mg per week
+5.  Prozac 10 mg suspension q.d.
+6.  Atenolol 25 mg q.d.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 19 year old
+lady with diverticuli, osteoporosis who was found to have 80
+to 99% right carotid stenosis and right-sided visual
+symptoms.  The patient was admitted to [**Hospital6 2460**] on [**7-20**] and underwent right carotid
+endarterectomy the same day.  The operation went without
+complications.  The patient was brought to the Vascular
+Intensive Care Unit.  The next day, the patient's Foley
+catheter was removed.  Her central line was replaced with
+peripheral intravenous.  The patient was allowed to ambulate.
+On postoperative day #1 the patient was febrile, vital signs
+were stable.  The patient was not taking good p.o. and in
+general felt weak and it was decided to keep her in the
+hospital an extra day.  On postoperative day #2 the patient
+still felt kind of weak and had a couple episodes of nausea,
+a small amount of emesis.  The emesis had no bright red blood
+and no coffee grounds.  The patient also had an episode of
+urinary retention and on straight catch was found to have 400
+cc of clear urine her bladder which was sent for urinalysis
+which was negative.  Electrocardiogram was performed during
+one episode of nausea which showed no ischemic changes and no
+changes from her baseline, however, due to patient condition
+it was decided to keep her in the hospital.  The complete
+blood count and electrolytes were performed in the evening of
+postoperative day #2.  The patient was found to have swelling
+under her incision, right side of neck.  The patient had no
+changes and her neurological examination was alert and
+oriented times three.  The patient had an ultrasound
+performed and was found to have no signs of pseudoaneurysm.
+Her laboratory data from that evening included white blood
+cells of 6.4, hematocrit 25.1, platelets 333, sodium 126,
+potassium 3.6, chloride 90, bicarbonate 27, BUN 10,
+creatinine .5 and blood sugar of 100.  The patient was
+transferred to the Surgical Intensive Care Unit.  The patient
+was put on a monitor and started on intravenous fluids and
+normal saline with 20 mEq of potassium at 60 mEq/hr plus salt
+pills.  The patient was also transfused 20 units of red blood
+cells.  On postoperative day #4, the patient's creatinine
+went up to 29.9.  Her sodium was 133, potassium 3.4 which was
+repleted with oral potassium.  The patient remained in
+Intensive Care Unit, however, was switched to floor status.
+The patient was allowed to ambulate bed-to-chair around the
+room with assistance.  The patient still has no neurological
+symptoms and is alert and oriented times three and reported
+feeling much better.  Improved appetite.  [**Last Name **] problem
+urinating.  The patient was found in satisfactory condition
+and was discharged [**2691-7-25**].
+
+DISCHARGE MEDICATIONS:
+1.  Metamucil
+2.  Betagan .5% q.h.s.
+3.  Fosamax 70 mg q. week
+4.  Prozac 10 mg suspension q. day
+5.  Atenolol 25 mg q.d.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  The patient is to be discharged home with
+Visiting Nurse Association services for wound care.  The
+patient is to follow up with Dr. [**Last Name (STitle) 93**] in seven to ten
+days.
+
+DISCHARGE DIAGNOSIS:
+1.  Right carotid stenosis, status post right carotid
+endarterectomy
+2.  Hyponatremia
+3.  Hypokalemia
+4.  Chronic obstructive pulmonary disease
+5.  Diverticulosis
+6.  Glaucoma
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 1567**], M.D.  [**MD Number 1568**]
+
+Dictated By:[**Last Name (NamePattern4) 5410**]
+MEDQUIST36
+
+D:  [**2691-7-24**]  13:41
+T:  [**2691-7-24**]  14:59
+JOB#:  [**Job Number 11816**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: WED [**2691-7-29**] 6:44 AM
+(End of Report)
+
+
+",,
+8504,618,,,2691-07-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2691-7-22**] 10:36 PM
+     CAROTID DUPLEX US                                               Clip # [**Clip Number (Radiology) 8444**]
+     Reason: S/P ENDARTERECTOMY, SWOLLEN RT NECK, R/O PSEUDO
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with carotid endarterectomy                                   
+     REASON FOR THIS EXAMINATION:
+      stat u/s sp carotid to rule out graft pseudoaneurysm with new hematoma          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **] year old female status post carotid endarterectomy, now with a
+     new hematoma at the surgical site.  Assess for pseudoaneurysm.
+     
+     FINDINGS:  Note this is a portable examination, limited to the area of
+     interest on the patient's right neck.  In the region corresponding to the
+     patient's palpable abnormality, there is increased subcutaneous soft tissue
+     echogenicity, which likely represents a subcutaneous hematoma.  The
+     posteriorly positioned external/internal and common carotid arteries
+     demonstrate no communication with this collection.  No abnormal blood flow is
+     visualized.
+     
+     IMPRESSION:  Neck hematoma.  Limited portable exam demonstrates no evidence of
+     a pseudoaneurysm corresponding to the patient's palpable abnormality.
+     
+
+",,
+8504,618,10575,0,2691-07-23 00:29:00 EST,2691-07-23 01:22:00 EST,3025,"N",54,"Nursing/Other","ADMISION NOTE","
+ADMISION NOTE
+ADM FROM FLOOR 2DAYS POST-OP FROM R CEA. WAS DOING WELL UNTIL THIS AFTERNOON WHEN PT REPORTEDLY HAD EPISODE OF N&V W/ MILD EKG CHANGES. ALSO NOTED IN EVE TO HAVE SIG EDEMA @ INCISION SITE AND HTN OVER LAST SHIFT AND ABNL ELECTROLYTES. TRANSFERRED TO ICU FOR BP MONITORING W/ A-LINE, IV NTG PRN AND NEURO STATUS MONITORING.
+
+CV: PT ARR TO CSRU IN SB HIGH 50'S W/ SBP 130'S BY CUFF. A-LINE AND PERIPH IV INSERTED BY DR. [**First Name (STitle) 5620**]. NS IV STARTED. BP NOTED TO ELEVATE W/ ACTIVITY, COMMUNICATION. IV NTG STARTED WHEN SBP PERSISTED >150. CURRENTLY HYPOTENSIVE TO SBP 70'S WHILE SLEEPING-CUFF ONLY SL LOWER THAN A-LINE. NTG OFF AND PT AWAKENED EASILY AND VERBALIZED FEELING O.K. BP UP BRIEFLY WHILE AWAKE BUT DROPPED AGAIN TO 70'S. DR. [**First Name (STitle) 5620**] NOTIFIED @ 0145. DECISION MADE NOT TO START PRESSORS BUT TO INCREASE IV MAINT FLUID AND TO TOLERATE SBP IN 80'S. PT AGAIN AWAKENED (SLOWER TO RESPOND 2ND TIME) BUT ONCE AWAKE WAS A&O X 3 AND MAE TO COMMAND, BP UP TO 90'S. US ON R NECK DONE AND REPORTEDLY WNL. NECK INCISION SWOLLEN BUT SOFT AND W/O CHANGE SINCE ARRIVAL. 
+
+RESP: LUNGS CLEAR W/ SPO2 IN MID 90'S ON RA.
+
+NEURO: A&O BASELINE, VERY PLEASANT. C/O STIFFNESS@ INCISION SITE BUT DENIES PAIN.
+
+G.I.: PT SIPPING ON KCL IN JUICE (K+3.2) BUT HAD BRIEF N&V AFTER ~ [**3-9**] OF IT. STATES HER APPETITE IS POOR BUT REL TO DISAGREEABLE FOOD IN HOSPITAL.
+
+G.U.: VOIDED X 1 ON BEDPAN, MOD AMT.
+
+A/P: UNCLEAR ETIOL OF INCISIONAL EDEMA. BP LABILE; IV NTG OFF FOR NOW. WILL CONT TO MONITOR BP AND NEURO STATUS CLOSELY. N&V REL TO POOR- TASTING KCL. WILL RECHECK LABS THIS A.M.
+
+
+",,
+8504,618,10575,0,2691-07-23 15:23:00 EST,2691-07-23 15:32:00 EST,-1,"N",54,"Nursing/Other",,"
+
+NEURO  ALERT ORIENTED NO DEFECITS GOOD STRENGTHS 
+
+C/V  NSR NO ECT  B/P ELEVATED NTG .5 TO .7 WITH GOOD CONTROL WEANED AND DC/D WITH INCREASE IN ATENOLOL ALINE DAMPENED POSITIONAL LINE B/P VIA CUFF STABLE CORRELATES TO ALINE WITH PROPER POSITION  PALP PULSES 
+
+RESP  RA SATS 96-98% BS CLEAR DIMINISHED AT BASES
+
+GU/GI  TOL PO WELL NO N/V  FREQ URINE BEDPAN IV 60CC HOUR 
+
+WOUND  R NECK NO FURTHER SWELLING NO DIFFICULTY BREATHING OR SWALLOWING 
+
+LABS  CRIT 25 IUPC INFUSED SLOWLY TOL WELL K3.4 40KCL PO GIVEN WITH 20MEQ IN IV TAKING ONLY [**1-7**] PO KCL NA 129 PO SODIUM GIVEN 
+
+PLAN  CONTINUE TO MONITOR B/P  EVALUATE NECK SWELLING
+",,
+8504,618,10575,0,2691-07-24 05:46:00 EST,2691-07-24 06:01:00 EST,3169,"N",54,"Nursing/Other",,"
+
+[**7-24**] 7P-7A SHIFT SUMMARY;
+
+
+NEURO;  ALERT, PLEASANT, AND ORIENTED ALL NOC WITH NO NEURO ISSUES TILL I WOKE PT THIS AM.  PT WITH VERY FLAT AFFECT SEEMED ALITTLE ANNOYED WANTING TO CONT SLEEPING.  WHEN ASKED WHERE SHE WAS  STATED SHE DID NOT KNOW.  WHEN TOLD SHE WAS IN THE HOSPITAL AND ASKED IF SHE REMEMBERED HAVING SURGERY SHE SAID NO.  SHE THEN  WAS ABLE TO STATE THE YEAR AND PRESIDENT AND THAT  SHE WAS IN THE [**Hospital **] HOSPITAL AND HER SURGERY WAS A CEA. WHEN ASKED IF SHE WAS OK STATED SHE WAS BUT WANTED TO [**Doctor Last Name **] AND WANTED ME TO LEAVE HER ALONE.
+
+RESP;  ON R/A WITH 02 SAT'S AND RR WNL. LUNGS CLEAR DENIED ANY SOB WHEN ASKED.
+
+CARDIOVAS;  SR NO ECTOPY. NTG GTT OFF ON PREVIOUS SHIFT AND SBP <160 ALL NOC. PT REMAINS ON NS WITH 20 KCL IV AT 60CC HR. NA LEVEL REMAINS LOW AND PT GIVEN 1 GM PO X2 PER ORDERS.
+
+GI; BS PRESENT NO BM THIS SHIFT. PT GIVEN COLACE PO AT HS PER ORDERS. NO C/O NAUSEA.
+
+GU; VOIDING ON BEDPAN QS.
+
+PLAN MONITOR NEURO STATUS AND LYTES TRANSFER TO FLOOR TODAY.
+",,
+8504,618,10575,0,2691-07-24 06:09:00 EST,2691-07-24 06:13:00 EST,3169,"N",54,"Nursing/Other",,"
+
+[**7-24**] 0700 SHIFT UPDATE;  
+
+DR [**Last Name (STitle) 160**] NOTIFIED OF PT AM LABS AND IV TO CHANGE TO NS WITH 60 KCL AT 60CC HR FOR 1 LITER. ALSO, DR [**Last Name (STitle) 160**] NOTIFIED OF PT'S PERSONALITY CHANGE FROM EARLY EVENING, NOC, AND THEN THIS AM. 
+",,
+8504,618,10575,0,2691-07-24 12:34:00 EST,2691-07-24 12:39:00 EST,3538,"N",54,"Nursing/Other","CSRU Progress Note","
+CSRU Progress Note
+S/O: Neuro: Intact, although thought she was in [**Hospital6 1220**] when she first awoke. Rapidly Oriented X3, claimed was having bad dream during night and was very apologetic to night nurse.
+     CV: BP 130/70, HR 55 on atenolol.
+     Resp: Room air.
+     Renal: Voiding qs, iv heplocked. NaCl and KCl po repletion.
+     ID: temp 99.2.
+     GI: Eating house diet. Lg formed stool.
+     Skin: Neck less swollen.
+     Rehab: Walked with 1 assist and cane to end of bridge and back. Helped with adls.Son will stay until next week. Will have VNA and night attendant, aide to bathe. Evaluating need for 24 hour attendance for mobility/safety issues.
+A: Doing well, BP under control. Lytes repleted.
+P: Check chem7.Follow BP. Discharge planning. 
+",,
+8504,,10575,0,2691-07-25 04:27:00 EST,2691-07-25 04:31:00 EST,3714,"N",54,"Nursing/Other",,"
+
+neuro: alert and oriented. denies pain
+cv/resp nsr bp stable. room air no resp distress
+gi/gu voids clear yellow. no bm this shift. tol po's
+integ skin intact. right cea incision c+d.
+assisted back to bed with one assist. slept well all shift.
+? plan dc home today? 
+
+",,
+8504,,10575,0,2691-07-25 08:32:00 EST,2691-07-25 08:33:00 EST,3204,"N",54,"Nursing/Other",,"
+
+discharge teaching completed. vna referral completed & called in. plan to see pt. starting sun.perip. iv dc'd,vs per flow sheet. ready for discharge w 2 sons to home.
+",,
+8504,,,,2691-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2691-10-28**] 11:32 AM
+     TIB/FIB (AP & LAT) RIGHT                                        Clip # [**Clip Number (Radiology) 8445**]
+     Reason: s/p fall and lac - eval fx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with htn, osteoporosis
+     REASON FOR THIS EXAMINATION:
+      s/p fall and lac - eval fx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: S/P fall with laceration of the lateral right leg, evaluate for
+     fracture.
+     
+     TIB/FIB, 2 VIEWS: No fractures or dislocations are identified. There is
+     irregularity to the soft tissues overlying the anterior lateral leg. No
+     radiopaque foreign body is appreciated. There is diffuse osteopenia. The
+     limited visualization of the knee and ankle joints are unremarkable.
+     
+     IMPRESSION: No fracture.
+
+",,
+8504,,,,2691-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2691-10-28**] 2:46 PM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 8446**]
+     Reason: F/U RIGHT CEA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATIONS:  Study is compared to a prior exam of 6/02.  Since the prior
+     study there has been an interval right sided end arterectomy. Currently, no
+     plaque or wall thickening is seen involving the right carotid system, the peak
+     systolic velocities on the right are within normal limits as are the ICA to
+     CCA ratio.
+     
+     On the left there is minimal heterogenous calcified ICA plaque. The peak
+     systolic velocities  on the left are 59, 50 and 56 cm per second in the ICA,
+     CCA and ECA respectively.  The ICA to CCA ratio is 1.2.  Findings indicate no
+     significant left ICA stenosis.
+     
+     There is antegrade flow in both vertebral arteries.
+     
+     IMPRESSION:
+     
+     1.  Widely patent right CCA and ICA, s/p endarterectomy.
+     
+     2.  No significant left ICA stenosis, unchanged compared with the study of
+     [**6-7**].
+
+",,
+8504,,,,2691-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8504,,,,2692-05-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2692-5-11**] 1:06 PM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 8447**]
+     Reason: CAROTID BRUIT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with 
+     REASON FOR THIS EXAMINATION:
+      CAROTID BRUIT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Carotid bruit.
+     
+     FINDINGS: By previous report, this patient has undergone endarterectomy,
+     presumed to be on the right.  Currently, there is no wall thickening or plaque
+     involving the right ICA or CCA.  Peak systolic velocities on the right 60, 57,
+     and 135 cm/s for the ICA, CCA, and ECA respectively.  There is moderate
+     calcific right ECA plaque which may account for a bruit on physical exam.
+     
+     Minimal heterogeneous calcified plaque at the origin of the ICA.  The peak
+     systolic velocity on the left is 71, 62, and 44 cm/s for the ICA, CCA, and ECA
+     respectively.  The findings indicate no significant left ICA stenosis.  There
+     is antegrade flow in both vertebral arteries.
+     
+     IMPRESSION:
+     
+     1.  Widely patent right ICA/CCA, status post endarterectomy (with finding
+     raising the question of a vein).
+     
+     2.  Minimal left ICA plaque, no appreciable associated stenosis, however.
+
+",,

@@ -1,0 +1,1070 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8342,,,,2924-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-10**] 11:48 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6983**]
+     Reason: evaluate for ETT placement                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with intubated.                                               
+     REASON FOR THIS EXAMINATION:
+      evaluate for ETT placement                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  [**Age over 90 **]-year-old woman status post intubation for ET tube placement.
+     
+     CHEST, PORTABLE AP:  There are no prior studies available for comparison.
+     There is an endotracheal tube placed beyond the thoracic inlet at about 6 cm
+     above the carina.  A nasogastric tube passes into the stomach and its inferior
+     most edge is not clearly seen.
+     
+     Allowing for technique, the mediastinal and hilar contours are probably
+     normal.  Even allowing for technique, the heart is enlarged.  There is some
+     lingular scarring or atelectasis.  There are no definite pleural effusions or
+     pneumothorax. There is probably mild pulmonary venous congestion.
+     
+
+",,
+8342,,,,2924-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8342,12023,,,2924-07-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2924-7-11**]              Discharge Date:   [**2924-7-21**]
+ 
+Date of Birth:  [**2833-2-16**]             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Codeine / Erythromycin Base
+ 
+Attending:[**First Name3 (LF) 5491**] 
+Addendum:
+Agree with Dr.[**Doctor Last Name 11564**] d/c summary as written, but would add the 
+following corrections:
+
+Ms. [**Known patient lastname 11565**] is a [**Age over 90 **] yo woman who was admitted to the neurology 
+service with an acute left MCA stroke leaving her with a right 
+hemiparesis and global aphasia.  Etiology of her stroke appears 
+to be cardioembolic from Afib in the setting of discontinuation 
+of coumadin for a GU procedure.  Because of the risk of bleeding 
+at this point (from PEG, GU, and hemorrhagic transformation) we 
+will NOT start coumadin yet.  Instead, she should be on a full 
+dose aspirin for secondary prevention.  In three to four weeks, 
+she should start coumadin.  
+ 
+Chief Complaint:
+see d/c summary
+ 
+Major Surgical or Invasive Procedure:
+IR placement of a PEG-J tube
+
+ 
+History of Present Illness:
+see d/c summary
+
+ 
+Past Medical History:
+right eye cataract surgery
+HTN
+afib and valve repair, on coumadin
+hypothyroidism
+hematuria
+hemicolectomy for diverticulitis
+""vein occlusion of the left eye"" - ?
+
+ 
+Social History:
+see d/c summary
+ 
+Family History:
+see d/c summary
+ 
+Physical Exam:
+see d/c summary
+ 
+Pertinent Results:
+see d/c summary
+ 
+Brief Hospital Course:
+see d/c summary
+ 
+Medications on Admission:
+see d/c summary
+ 
+Discharge Medications:
+1. Insulin Regular Human 100 unit/mL Solution Sig: One (1)  
+Injection ASDIR (AS DIRECTED).
+Disp:*qs qs* Refills:*2*
+2. Atorvastatin Calcium 20 mg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+3. Acetaminophen 650 mg Suppository Sig: One (1) Suppository 
+Rectal Q4-6H (every 4 to 6 hours) as needed for fever/pain.  
+4. Metoprolol Tartrate 25 mg Tablet Sig: Three (3) Tablet PO Q 
+8H (Every 8 Hours).  
+5. Heparin Sodium (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day).  
+6. Lansoprazole 30 mg Susp,Delayed Release for Recon Sig: One 
+(1)  PO DAILY (Daily).  
+7. Levothyroxine Sodium 50 mcg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+8. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 10 days.  
+9. Ciprofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q12H 
+(every 12 hours) for 10 days.  
+10. Promote with Fiber     Liquid Sig: One (1)  PO once a day: 
+Continuous as per page 1.  
+11. Aspirin 325 mg Tablet Sig: One (1) Tablet PO once a day.
+Disp:*30 Tablet(s)* Refills:*2*
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 584**] & Rehab Center - [**Hospital1 486**]
+ 
+Discharge Diagnosis:
+Lerft MCA stroke
+
+ 
+Discharge Condition:
+Stable
+ 
+Discharge Instructions:
+If the patient develops any increasing abdominal pain, inability 
+to move her bowels, vomiting, loss of spontaneous movement on 
+her left side her doctor should be contacted and if no MD [**First Name (Titles) **] [**Last Name (Titles) 11566**]e she should return to the emergency room.
+ 
+Followup Instructions:
+Please follow-up with the MD on staff at [**Hospital1 436**] upon arrival
+
+ 
+                             [**First Name11 (Name Pattern1) 213**] [**Last Name (NamePattern4) 5496**] MD [**MD Number 215**]
+ 
+Completed by: [**Name6 (MD) 1311**] [**Name8 (MD) 1312**] MD [**MD Number 1313**] [**2924-7-21**] @ 1430
+Signed electronically by: DR. [**First Name8 (NamePattern2) 213**] [**Last Name (NamePattern1) 214**]
+ on: MON [**2924-7-24**] 3:29 PM
+(End of Report)
+
+
+",,
+8342,12023,,,2924-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-11**] 12:00 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6984**]
+     Reason: evaluate for bleed                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with ?CVA vs bleed.                                           
+     REASON FOR THIS EXAMINATION:
+      evaluate for bleed                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AEBc TUE [**2924-7-11**] 1:16 AM
+      Lack of grey/white differtiation and swelling in Sylvian region on left, c/w
+      MCA territory infarct. Also, suggestion of possible left MCA occlusion. No
+      intracranial hemorrhage.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATIONS:  [**Age over 90 **]-year-old woman with question of stroke.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is no intra or extra-axial hemorrhage.  There is no mass
+     effect, hydrocephalus or shift of the normally midline structures.  There is
+     loss of [**Doctor Last Name 30**]-white matter differentiation in the entire left sylvian region
+     and in the more posterior parts of the middle cerebral artery distribution.
+     There may be slight sparing of preservation of [**Doctor Last Name 30**]-white matter
+     differentiation in the most anterior part of the sylvian fissure and left
+     frontal lobe, but otherwise much of the left middle cerebral artery territory
+     appears involved with acute infarction.  Also, there is abrupt tapering of the
+     left middle cerebral artery, and although there is a possible small branch
+     extending distally, the appearance and asymmetry with respect to the right
+     suggests a left MCA occlusion.
+     
+     The ventricles, cisterns and sulci wire prominent consistent with atrophy.
+     There is loss of the sulcal pattern in posterior part of the left middle
+     cerebral artery distribution, also consistent with infarction.
+     
+     The paranasal sinuses and mastoid air cells are clear, and these osseous
+     structures and soft tissues are otherwise unremarkable.
+     
+     IMPRESSION:  Left middle cerebral artery territory acute infarction, which is
+     quite extensive, with suggestion of a left middle cerebral artery occlusion.
+     The results were immediately relayed to the ED dashboard at the time of the
+     interpretation and discussed with the attending physician in the emergency
+     room.
+     
+
+",,
+8342,12023,,,2924-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-11**] 11:01 AM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 6985**]
+     Reason: Reevaluate stroke.                                          
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with MCA stroke                                               
+     REASON FOR THIS EXAMINATION:
+      Reevaluate stroke.                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old with left middle cerebral artery stroke.
+     
+     TECHNIQUE:  CT of the brain without IV contrast.
+     
+     Comparison to study performed 11 hours earlier.
+     
+     FINDINGS:  There is continued evolution of the left middle cerebral artery
+     territory infarction with increased hypodensity seen within the left frontal
+     and parietal lobes and along the insular cortex.  There is no evidence of new
+     intracranial hemorrhage.  There have been no other changes compared to the
+     study of 11 hours earlier.
+     
+     CONCLUSION: Evolving left middle cerebral artery infarct.
+
+",,
+8342,12023,,,2924-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-11**] 11:01 AM
+     CT HEAD W/O CONTRAST; -77 BY DIFFERENT PHYSICIAN                [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 6985**]
+     Reason: Reevaluate stroke.                                          
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with MCA stroke                                               
+     REASON FOR THIS EXAMINATION:
+      Reevaluate stroke.                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old with left middle cerebral artery stroke.
+     
+     TECHNIQUE:  CT of the brain without IV contrast.
+     
+     Comparison to study performed 11 hours earlier.
+     
+     FINDINGS:  There is continued evolution of the left middle cerebral artery
+     territory infarction with increased hypodensity seen within the left frontal
+     and parietal lobes and along the insular cortex.  There is no evidence of new
+     intracranial hemorrhage.  There have been no other changes compared to the
+     study of 11 hours earlier.
+     
+     CONCLUSION: Evolving left middle cerebral artery infarct.
+
+",,
+8342,12023,10373,0,2924-07-11 04:04:00 EST,2924-07-11 04:11:00 EST,3752,"N",54,"Nursing/Other",,"
+
+Resp Care,
+91 female admitted from ED intubated #7 ET 22 lip. Currently on IPS [**6-8**] 50%. VT 400's RR 20. Intubated at OSH after vomiting. Developed R sided weakness , C-Scan results L MCA stroke. Maintain current rx for airway protection.
+",,
+8342,12023,10373,0,2924-07-11 05:58:00 EST,2924-07-11 06:18:00 EST,6849,"N",54,"Nursing/Other",,"
+
+Nursing Admit Note-
+Pt is a [**Age over 90 276**] y/o female with a h/o afib on coumadin at home.  Pt was off coumadin for 1 week for work up for hematuria with a cystoscopy performed.  Pt's family noticed a new onset of right sided weakness, facial droop and aphasia.  She was brought to [**Hospital6 **] for w/u.  A head CT revealed Left MCA infarct with no head bleed.  Pt was intubated for airway protection after an episode of emesis at the OSH. She was transfered to [**Hospital1 22**] for eval of TPA therapy.  On admission, it was noted that she was outside the window for TPA treatment.  
+
+Pt arrived to T/SICU at 4:45am from the ED intubated.
+
+Nuero- Pt will follow commands to LUE.  Will move BLE in bed (L>R) spontaneously and to painful stimuli.  She will extend to pain on RUE minimally.  No reaction to right pupil secondary to cataract surgery in past, with a reactive [**4-7**] left pupil.  
+CV- 70-100's Afib.  Hypertensive on admission with SBP 180's, settled down to SBP 160's.  
+Resp- Pt intubated with a 7.0 OET.  On PSV 5/5/.5  RR 15-20's sx x1 for scant thin white secretions.  
+Renal- u/o 30-70cc/hr.  Pink urine w/ occ blood clots.
+GI-NGT to LWS with min gastric drainage.
+
+Plan- Cont Q1-2 hour neuro assessments, notify with changes.  Wean to extubate, maintain SBP <180
+
+",,
+8342,12023,10373,0,2924-07-11 15:43:00 EST,2924-07-11 15:54:00 EST,3826,"N",54,"Nursing/Other",,"
+
+NPN
+
+N: PT AROUSABLE TO STIMULI. PURPOSEFUL TOWARDS ETT WITH LT ARM. WITHDRAWS WITH OTHER EXTREMITIES LT SIDE GREATER THAN RIGHT. RT SIDED FACIAL DROOP. IMPAIRED COUGH/GAG.
+
+CV: HD STABLE. AFIB WITH RATE 90'S-110'S. STARTED ASA QD. HEPARIN SQ ATC. K/MG REPLETED.
+
+R: LUNGS COURSE/DIM AT BASES. EXTUBATED AT 2PM TO FACETENT. RR STABLE TEENS-20'S WITH O2 SAT 100%. UNABLE TO COUGH AND CLEAR SECRETIONS. NTS X1 FOR LG AMT THICK YELLOW SECRETIONS. 
+
+GI: ABD SOFT/+BS. OGT REPLACED WITH NGT. PLACED TO LWS WITH MIN BILIOUS DRAINAGE.
+
+GU: URINE YELLOW DRAINING FROM CATHETER 25-50CC/HR.
+
+ID: AFEBRILE.
+
+ENDO: GLUCOSE COVERED PER RISS.
+
+SOC: PT'S SISTER [**Name (NI) 5643**] AND NEPHEWS/NIECE IN TO VISIT. SPOKE WITH DR [**Last Name (STitle) 5644**] THIS MORNING AND ICU TEAM. DISCUSSION ABOUT CODE STATUS INITIATED BY DR [**Last Name (STitle) **] AND FAMILY IS GOING TO THINK ABOUT IT AND DECIDE. UNTIL THEN PT REMAINS FC.
+SUPPORT GIVEN.
+
+A/P: CONT TO MONITOR NEURO AND PULM STATUS CLOSELY. TRANSFER TO FLR WHEN ABLE.
+
+",,
+8342,12023,10373,0,2924-07-12 04:38:00 EST,2924-07-12 04:49:00 EST,1378,"N",1,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+NEURO: Pt alert and arousable to voice. Appears to have ?expressive aphasia as she makes incomplete sounds instead of words. Inconsistently follows commands, left side stronger and more brisk than left. Purposeful movement with LUE, attempts to pull NGT/nasal trumpet when unrestrained. 
+
+RESP: LS very coarse. Pt noted to have absent gag and impaired cough. Nasal trumpet placed to left nare and pt NTS ~q30min-1hr for thick yellow/blood tinged secretions. Sats 95-100%. H.O. unable to obtain ABG after several attempts. 
+
+CV: HR 110s-130s Afib, no ectopy noted. 5mg IV lopressor given frequently overnight for sustained HR>120 and SBP >180. Pt returns to 110s after lopressor, however still has bursts of tachycardia to 120s.
+
+HEME: Hct 30/stable. Sq heparin and ASA cont. Pboots on.
+
+GI: NGT to suction with small amt bilious drainage. +Bowel sounds. No BM this shift.
+
+GU: U/o bright red with sediment. Adequate amt. U/a and c+s sent. No clots noted at this time. K+ and Mg currently being repleted. Other lytes WNL.
+
+ID: Afebrile. No abx at this time.
+
+ENDO: FS WNL, no coverage needed.
+
+SKIN: Grossly intact; no breakdown noted.
+
+SOCIAL: Sister phoned in for updates.
+
+ASMT: Pt s/p stroke with ?aphasia. Inability to clear secretions. BRB via foley. 
+
+PLAN: Cont to monitor VS, neuro checks, aggressive pulmonary hygiene, monitor u/o for clots, f/u with family regarding code status.
+
+
+",,
+8342,12023,10373,0,2924-07-12 17:24:00 EST,2924-07-12 17:39:00 EST,6598,"N",1,"Nursing/Other",,"
+
+NPN 7a-7p
+
+Neuro- pt opens eyes to voice. follows commands inconsistantly. moves left upper and lower ext. spont. right side weakness, moves on bed, withdraws to pain. right facial droop. aphasic. incomprehensible sounds at times. right pupil cataract. left reactive. weak gag and cough but does not consistantly  have a gag and cough. OOB to chair today.
+
+CV- a-fib attempting rate control with lopressor. began q6hrs and prn for hr above 100. cont on heparin sq., ASA, and p-boots. may restart coumadin per urology, will discuss with neuro and ICU team. 
+
+Resp- LS coars and ronchi. thick tan sputum NTSX q2-3 hrs. inneffective cough. cont on 50% cool neb tent for humidification.
+
+Renal- cont gross hematuria. CBI started. only small clots after initiation. urology in to see pt. 
+
+GI- TF promote begun. rate now 30. goal 60.tol well via ngt [**Doctor Last Name **] low residual 10cc. goal abd soft. +bs. no stool. 
+
+Endo- bs monitored and covered.
+
+ID- afebrile
+
+Social- family in to see pt. updated on condition.
+
+plan- cont neuro checks. good pulm toilet. sx when needed. ? when to restarted coumadin.
+
+",,
+8342,12023,10373,0,2924-07-13 00:36:00 EST,2924-07-13 00:47:00 EST,1426,"N",1,"Nursing/Other",,"
+
+
+ assessment as noted
+
+res: ntsd q3-2h, thick yellow sputum , uneffective cough, ls coarse
+on tent 50% maintains so2>96
+
+n: inconsistently follows, w/d r. side, strong l. arm, lifts l. leg, trying to pull ngt and foley. r. catharact, l/reactive, 
+
+cv: getting lopressor for a/fib control and got once hydralazyn for sbp>180 and dropped to 120s after that.rare pvcs.
+
+heme: hct was 29-unchanged since am, still draining pink/red clots in gu flush, foley was leaking and was replaced to larger one 22fr. coumadin is on hold 
+
+gi: tolerates t.feeding well w/o residuals, +bs, soft abd, no bm yet
+
+skin:intact, pale
+
+pt was transfered to SICU at 0120, was unable to reach pt's sister by phone to inform about transfer. 
+
+
+",,
+8342,12023,10373,0,2924-07-13 02:51:00 EST,2924-07-13 03:02:00 EST,865,"N",1,"Nursing/Other",,"
+
+Nursing note:
+   Arrived from T/SICU as tx @ 0130. Assessment as follows:
+NEURO: Minimally responsive, attempts to open eyes to noxious stimulation. R. pupil 5mm and NR, pt. has cataract per reports. L. pupil 2-3mm and sluggishly reactive. Aphasic, making incomprehensible noises at times. Does not otherwise communicate. R. side w/o spont. movement, does withdraw briskly w/RLE but minimally w/RUE. Moving L. side purposefully, will attempt to move mask and pull at Foley/lines when unrestrained. Lifts/holds w/LLE. 
+RESP: Lung sounds very coarse, NT suctioned for thick tan blood-tinged secretions. Sats 96-99% on 50% shovel mask. Weak cough, no gag noted. Congested weak cough. Trumpet in place for suctioning. 
+CV: Afebrile. Afib in 90s-110, some PVCs. SBP 120s. Skin pale, warm and dry. Weak palpable pulses.
+GI: Abdomen softly distended, +BS. Tolerating TFs, increasing to goal w/minimal residuals via NGT. -stool. 
+GU: 3-way Foley patent, bladder irrigant running @ 100cc/hr. Pink urine w/occ clots in adequate amounts. 
+SKIN: Intact. 
+
+A/P: Stable, minimally responsive w/ borderline resp. status requiring NT suctioning. Continue close neuro and resp. monitoring. ? Restart Coumadin. Continues w/hematuria and bladder irrigant running. 
+",,
+8342,12023,10373,0,2924-07-13 16:29:00 EST,2924-07-13 16:36:00 EST,6468,"N",1,"Nursing/Other","Nursing","
+Nursing
+See flowsheet for details.
+
+Pt. opens eyes to pain only. No movement on right side of body. Moves left side with normal strength and purposefully. Right pupil fixed; left pupil sluggish. No speech. 
+
+Afebrile. HR a fib. SBP 120-160. Lungs coarse/crackles to auscultation. Sxn moderate amounts thick tan nasotrach. Weak cough/gag. Pos. bs; NG intact. Foley with 500cc/hr cont. irrigation. Urine clear pink with small clots. 
+
+Plan to transfer to stepdown.
+",,
+8342,12023,,,2924-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-16**] 12:52 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6986**]
+     Reason: ?ngt placement                                              
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with intubated. ngt placed.                                  
+                  
+     REASON FOR THIS EXAMINATION:
+      ?ngt placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW PORTABLE.
+     
+     INDICATION:  [**Age over 90 **]-year-old woman with intubation, nasogastric tube placement.
+     
+     COMMENTS:  Portable erect AP radiograph of the chest is reviewed, and compared
+     with the previous study of [**2924-7-10**].
+     
+     The newly placed feeding tube is coiled within the pharynx.  The information
+     was communicated with team.
+     
+     There is continued marked cardiomegaly.  The patient has been extubated. 
+     Patchy atelectasis is seen at the lung bases.  The lungs are clear.  There is
+     no evidence of congestive heart failure.
+                                                                           
+
+",,
+8342,12023,,,2924-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-18**] 7:09 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 6987**]
+     Reason: Placement of PEG                                            
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * CATHETER, DRAINAGE                   C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with hx of afib with large left MCA stroke while off coumadin 
+      for cystoscopy
+     REASON FOR THIS EXAMINATION:
+      Placement of PEG                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old female with history of left MCA stroke, needs GJ tube
+     for nutrition.
+     
+     PROCEDURE/FINDINGS:
+     
+     The procedure was performed by Dr. [**First Name8 (NamePattern2) 3349**] [**Name (STitle) 3350**] and Dr. [**First Name4 (NamePattern1) 5**] [**Last Name (NamePattern1) 6**] with Dr.
+     [**Last Name (STitle) 6**], attending radiologist, present and supervising throughout.  A written
+     informed consent was from the patient's healthcare proxy.
+     
+     The patient was placed supine on the angiographic table.  The abdomen was
+     prepped and draped in standard sterile fashion.  A preprocedure timeout was
+     performed.  The skin and subcutaneous tissues at the designated insertion site
+     were infiltrated with 1% lidocaine.  Air was insufflated through the
+     nasogastric tube into the stomach.  A 19-gauge puncture needle was then
+     inserted in the stomach, while a T-fastener was attached.  Contrast was
+     injected into the stomach through the needle to confirm good location.  The
+     T-fastener was deployed.  One additional T-fastener was deployed in a similar
+     manner adjacent to the previously deployed T-fastener.  The skin was then
+     incised between the two T-fasteners and a 19-gauge needle was then inserted
+     into the stomach.  Contrast was again injected through the needle to confirm
+     appropriate positioning.  A 0.035 [**Last Name (un) 223**] wire was advanced through the
+     stomach beyond the pylorus into the proximal duodenum.  The puncture needle
+     was then exchanged for a 5-French sheath with inner dilator.  The inner
+     dilator was removed, and a 5-French straight catheter was advanced through the
+     sheath and in conjunction with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 223**] wire guide through the duodenum.  The
+     [**Last Name (un) 223**] wire was then removed and exchanged for 0.035 Amplatz wire.  Using the
+     Amplatz wire, the proximal jejunum was accessed beyond the ligament of Treitz.
+     The 5-French catheter and sheath were then removed.  The tract was dilated
+     sequentially with 12 and 14-French dilators.  A peel-away sheath was then
+     applied over the Amplatz wire.  Under fluoroscopic guidance, a 14-French
+     [**Doctor Last Name 936**] GJ catheter was advanced over the Amplatz wire into the proximal
+     jejunum.  The peel-away sheath was then removed.  A pigtail was formed within
+     the proximal duodenum.  The catheter was secured to the skin using StatLock
+     and 0 silk sutures, and covered with dry sterile dressing.  Final fluoroscopic
+     film after hand injection of contrast confirmed the appropriate position of
+     the tube within the proximal jejunum.
+     
+                                                                 (Over)
+
+     DATE: [**2924-7-18**] 7:09 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 6987**]
+     Reason: Placement of PEG                                            
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     Successful placement of 14-French percutaneous [**Doctor Last Name 936**] gastrojejunostomy tube,
+     catheter is ready for use tomorrow morning after nasogastric tube has been
+     removed.
+
+",,
+8342,12023,,,2924-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-18**] 10:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6988**]
+     Reason: ngt placement                                               
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old woman with intubated. ngt placed.                                 
+                    
+     REASON FOR THIS EXAMINATION:
+      ngt placement                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     COMPARISON:  [**2924-7-16**].
+     
+     INDICATION:  Nasogastric tube placement.
+     
+     A nasogastric tube is in place, and terminates in the abdomen in the region of
+     the gastroduodenal junction.  There is stable cardiomegaly.  Pulmonary
+     vascularity is normal.  Minor atelectatic changes are noted adjacent to the
+     left heart border with otherwise grossly clear lungs.  There is no0evidence of
+     pneumothorax or pleural effusion.
+     
+     IMPRESSION:  Nasogastric tube terminates in the distal stomach near
+     gastroduodenal junction level.
+                                                                           
+
+",,
+8342,12023,,,2924-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-18**] 7:09 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 6987**]
+     Reason: Placement of PEG                                            
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * CATHETER, DRAINAGE                   C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with hx of afib with large left MCA stroke while off coumadin 
+      for cystoscopy
+     REASON FOR THIS EXAMINATION:
+      Placement of PEG                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old female with history of left MCA stroke, needs GJ tube
+     for nutrition.
+     
+     PROCEDURE/FINDINGS:
+     
+     The procedure was performed by Dr. [**First Name8 (NamePattern2) 3349**] [**Name (STitle) 3350**] and Dr. [**First Name4 (NamePattern1) 5**] [**Last Name (NamePattern1) 6**] with Dr.
+     [**Last Name (STitle) 6**], attending radiologist, present and supervising throughout.  A written
+     informed consent was from the patient's healthcare proxy.
+     
+     The patient was placed supine on the angiographic table.  The abdomen was
+     prepped and draped in standard sterile fashion.  A preprocedure timeout was
+     performed.  The skin and subcutaneous tissues at the designated insertion site
+     were infiltrated with 1% lidocaine.  Air was insufflated through the
+     nasogastric tube into the stomach.  A 19-gauge puncture needle was then
+     inserted in the stomach, while a T-fastener was attached.  Contrast was
+     injected into the stomach through the needle to confirm good location.  The
+     T-fastener was deployed.  One additional T-fastener was deployed in a similar
+     manner adjacent to the previously deployed T-fastener.  The skin was then
+     incised between the two T-fasteners and a 19-gauge needle was then inserted
+     into the stomach.  Contrast was again injected through the needle to confirm
+     appropriate positioning.  A 0.035 [**Last Name (un) 223**] wire was advanced through the
+     stomach beyond the pylorus into the proximal duodenum.  The puncture needle
+     was then exchanged for a 5-French sheath with inner dilator.  The inner
+     dilator was removed, and a 5-French straight catheter was advanced through the
+     sheath and in conjunction with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 223**] wire guide through the duodenum.  The
+     [**Last Name (un) 223**] wire was then removed and exchanged for 0.035 Amplatz wire.  Using the
+     Amplatz wire, the proximal jejunum was accessed beyond the ligament of Treitz.
+     The 5-French catheter and sheath were then removed.  The tract was dilated
+     sequentially with 12 and 14-French dilators.  A peel-away sheath was then
+     applied over the Amplatz wire.  Under fluoroscopic guidance, a 14-French
+     [**Doctor Last Name 936**] GJ catheter was advanced over the Amplatz wire into the proximal
+     jejunum.  The peel-away sheath was then removed.  A pigtail was formed within
+     the proximal duodenum.  The catheter was secured to the skin using StatLock
+     and 0 silk sutures, and covered with dry sterile dressing.  Final fluoroscopic
+     film after hand injection of contrast confirmed the appropriate position of
+     the tube within the proximal jejunum.
+     
+                                                                 (Over)
+
+     DATE: [**2924-7-18**] 7:09 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 6987**]
+     Reason: Placement of PEG                                            
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     Successful placement of 14-French percutaneous [**Doctor Last Name 936**] gastrojejunostomy tube,
+     catheter is ready for use tomorrow morning after nasogastric tube has been
+     removed.
+
+",,
+8342,12023,,,2924-07-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-18**] 7:09 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 6987**]
+     Reason: Placement of PEG                                            
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     * CATHETER, DRAINAGE                   C1773 SNARE-RETRIEVAL DEVICE INSERT *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with hx of afib with large left MCA stroke while off coumadin 
+      for cystoscopy
+     REASON FOR THIS EXAMINATION:
+      Placement of PEG                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old female with history of left MCA stroke, needs GJ tube
+     for nutrition.
+     
+     PROCEDURE/FINDINGS:
+     
+     The procedure was performed by Dr. [**First Name8 (NamePattern2) 3349**] [**Name (STitle) 3350**] and Dr. [**First Name4 (NamePattern1) 5**] [**Last Name (NamePattern1) 6**] with Dr.
+     [**Last Name (STitle) 6**], attending radiologist, present and supervising throughout.  A written
+     informed consent was from the patient's healthcare proxy.
+     
+     The patient was placed supine on the angiographic table.  The abdomen was
+     prepped and draped in standard sterile fashion.  A preprocedure timeout was
+     performed.  The skin and subcutaneous tissues at the designated insertion site
+     were infiltrated with 1% lidocaine.  Air was insufflated through the
+     nasogastric tube into the stomach.  A 19-gauge puncture needle was then
+     inserted in the stomach, while a T-fastener was attached.  Contrast was
+     injected into the stomach through the needle to confirm good location.  The
+     T-fastener was deployed.  One additional T-fastener was deployed in a similar
+     manner adjacent to the previously deployed T-fastener.  The skin was then
+     incised between the two T-fasteners and a 19-gauge needle was then inserted
+     into the stomach.  Contrast was again injected through the needle to confirm
+     appropriate positioning.  A 0.035 [**Last Name (un) 223**] wire was advanced through the
+     stomach beyond the pylorus into the proximal duodenum.  The puncture needle
+     was then exchanged for a 5-French sheath with inner dilator.  The inner
+     dilator was removed, and a 5-French straight catheter was advanced through the
+     sheath and in conjunction with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 223**] wire guide through the duodenum.  The
+     [**Last Name (un) 223**] wire was then removed and exchanged for 0.035 Amplatz wire.  Using the
+     Amplatz wire, the proximal jejunum was accessed beyond the ligament of Treitz.
+     The 5-French catheter and sheath were then removed.  The tract was dilated
+     sequentially with 12 and 14-French dilators.  A peel-away sheath was then
+     applied over the Amplatz wire.  Under fluoroscopic guidance, a 14-French
+     [**Doctor Last Name 936**] GJ catheter was advanced over the Amplatz wire into the proximal
+     jejunum.  The peel-away sheath was then removed.  A pigtail was formed within
+     the proximal duodenum.  The catheter was secured to the skin using StatLock
+     and 0 silk sutures, and covered with dry sterile dressing.  Final fluoroscopic
+     film after hand injection of contrast confirmed the appropriate position of
+     the tube within the proximal jejunum.
+     
+                                                                 (Over)
+
+     DATE: [**2924-7-18**] 7:09 AM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 6987**]
+     Reason: Placement of PEG                                            
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     IMPRESSION:
+     
+     Successful placement of 14-French percutaneous [**Doctor Last Name 936**] gastrojejunostomy tube,
+     catheter is ready for use tomorrow morning after nasogastric tube has been
+     removed.
+
+",,
+8342,12023,,,2924-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-19**] 6:30 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 6990**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABDOMINAL PAINAND GAURDING IN LLQ, R/O PERF,OBSTRUCTION
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman s/p PEG now with abdominal pain and guarding in LLQ           
+     REASON FOR THIS EXAMINATION:
+      r/o perf, obstruction or colitisPLEASE USE GASTROGRAPHIN                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post percutaneous GJ-tube placement with abdominal pain
+     and guarding in left lower quadrant.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT acquired images of the abdomen and pelvis were obtained after
+     the administration of water-soluble oral and IV contrast.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is dependent atelectasis
+     bilaterally.  There is a nonspecific nodular density measuring 4 mm at the
+     right lung base (series 2, image 4).
+          Multiple small foci of free air anterior to the liver are identified. A
+     percutaneous GJ- tube is demonstrated entering the abdomen close to the
+     midline and demonstrated taking a turn in the stomach and traversing through
+     the duodenum into proximal jejunum.  There are multiple foci of extraluminal
+     air intimately associated with the distal duodenum/proximal jejunum.  There is
+     free fluid and stranding in the left anterior pararenal space tracking down
+     the left paracolic gutter. No extravasation of oral contrast is identified.
+     The stomach and small bowel and large bowel are otherwise grossly
+     unremarkable.
+          The patient is status post cholecystectomy.  The pancreas has an atrophic
+     appearance with a dilated pancreatic duct in the tail region with several
+     smaller cystic structures near the dilated duct that may represent small side
+     branch dilatation or separate small cysts.  There is slight nodular
+     enlargement of the right adrenal gland, incompletely characterized on this
+     single phase study. There is a large exophytic cyst at the lower pole of the
+     left kidney measuring 5.6 x 6.2 cm. There are multiple bilateral small
+     hypodense lesions in both kidneys, too small to characterize, that may
+     represent cysts. Multiple small retroperitoneal lymph nodes are demonstrated,
+     notably an 8-mm aortocaval node (series 2, image 40).
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley catheter present within
+     the bladder.  There is a 4.1 x 4.6 cm right adnexal cyst.  The rectum and
+     sigmoid colon are filled with air, stool, and contrast.
+     
+     Bone windows demonstrate degenerative disease of the spine with a scoliotic
+     curvature with no suspicious lytic or sclerotic foci.
+     
+     MULTIPLANAR REFORMATTED IMAGES:  The coronal and sagittal reformatted images
+                                                                 (Over)
+
+     DATE: [**2924-7-19**] 6:30 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 6990**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABDOMINAL PAINAND GAURDING IN LLQ, R/O PERF,OBSTRUCTION
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     were essential in determining the location of the extraluminal air and
+     demonstrating the intra-abdominal anatomy.  MPR value 4.
+     
+     IMPRESSION:
+     1)  Nonspecific 4-mm nodular opacity at the right lung base.
+     2)  Multiple foci of intra-abdominal free air located anterior to the liver
+     and other multiple foci of extraluminal air near the distal duodenum/proximal
+     jejunum with stranding and free fluid present in the anterior pararenal space
+     and left paracolic gutter.  Although no extravasated oral contrast is
+     identified, this constellation of findings in this patient status post recent
+     GJ- tube placement is worrisome for perforated viscus.  The presence of
+     stranding in the left anterior pararenal space near the pancreas also raises
+     the possibility of pancreatitis. Correlation with laboratory values is
+     recommended.  The findings worrisome for perforated viscus were relayed by Dr.
+     [**First Name4 (NamePattern1) 58**] [**Last Name (NamePattern1) 59**] to Dr. [**First Name8 (NamePattern2) 6991**] [**Last Name (NamePattern1) 6992**] at approximately 7:30 on [**2924-7-19**] and later
+     discussed with the covering surgical house staff.
+     3)  Dilated pancreatic duct in the tail region of the pancreas with several
+     smaller adjacent cystic lesions that may represent separate small cysts or
+     dilated side branches.
+     4)  Large exophytic left renal cyst with multiple small low-attenuation
+     lesions in the kidneys bilaterally that may represent cysts.
+     5)  4.1 x 4.6 cm right adnexal cyst.
+     6)  Slight nodular enlargement of the right adrenal gland, incompletely
+     characterized on this single-phase study.
+     
+     
+     
+
+",,
+8342,12023,,,2924-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-19**] 6:30 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 6990**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABDOMINAL PAINAND GAURDING IN LLQ, R/O PERF,OBSTRUCTION
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman s/p PEG now with abdominal pain and guarding in LLQ           
+     REASON FOR THIS EXAMINATION:
+      r/o perf, obstruction or colitisPLEASE USE GASTROGRAPHIN                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post percutaneous GJ-tube placement with abdominal pain
+     and guarding in left lower quadrant.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT acquired images of the abdomen and pelvis were obtained after
+     the administration of water-soluble oral and IV contrast.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is dependent atelectasis
+     bilaterally.  There is a nonspecific nodular density measuring 4 mm at the
+     right lung base (series 2, image 4).
+          Multiple small foci of free air anterior to the liver are identified. A
+     percutaneous GJ- tube is demonstrated entering the abdomen close to the
+     midline and demonstrated taking a turn in the stomach and traversing through
+     the duodenum into proximal jejunum.  There are multiple foci of extraluminal
+     air intimately associated with the distal duodenum/proximal jejunum.  There is
+     free fluid and stranding in the left anterior pararenal space tracking down
+     the left paracolic gutter. No extravasation of oral contrast is identified.
+     The stomach and small bowel and large bowel are otherwise grossly
+     unremarkable.
+          The patient is status post cholecystectomy.  The pancreas has an atrophic
+     appearance with a dilated pancreatic duct in the tail region with several
+     smaller cystic structures near the dilated duct that may represent small side
+     branch dilatation or separate small cysts.  There is slight nodular
+     enlargement of the right adrenal gland, incompletely characterized on this
+     single phase study. There is a large exophytic cyst at the lower pole of the
+     left kidney measuring 5.6 x 6.2 cm. There are multiple bilateral small
+     hypodense lesions in both kidneys, too small to characterize, that may
+     represent cysts. Multiple small retroperitoneal lymph nodes are demonstrated,
+     notably an 8-mm aortocaval node (series 2, image 40).
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley catheter present within
+     the bladder.  There is a 4.1 x 4.6 cm right adnexal cyst.  The rectum and
+     sigmoid colon are filled with air, stool, and contrast.
+     
+     Bone windows demonstrate degenerative disease of the spine with a scoliotic
+     curvature with no suspicious lytic or sclerotic foci.
+     
+     MULTIPLANAR REFORMATTED IMAGES:  The coronal and sagittal reformatted images
+                                                                 (Over)
+
+     DATE: [**2924-7-19**] 6:30 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 6990**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABDOMINAL PAINAND GAURDING IN LLQ, R/O PERF,OBSTRUCTION
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     were essential in determining the location of the extraluminal air and
+     demonstrating the intra-abdominal anatomy.  MPR value 4.
+     
+     IMPRESSION:
+     1)  Nonspecific 4-mm nodular opacity at the right lung base.
+     2)  Multiple foci of intra-abdominal free air located anterior to the liver
+     and other multiple foci of extraluminal air near the distal duodenum/proximal
+     jejunum with stranding and free fluid present in the anterior pararenal space
+     and left paracolic gutter.  Although no extravasated oral contrast is
+     identified, this constellation of findings in this patient status post recent
+     GJ- tube placement is worrisome for perforated viscus.  The presence of
+     stranding in the left anterior pararenal space near the pancreas also raises
+     the possibility of pancreatitis. Correlation with laboratory values is
+     recommended.  The findings worrisome for perforated viscus were relayed by Dr.
+     [**First Name4 (NamePattern1) 58**] [**Last Name (NamePattern1) 59**] to Dr. [**First Name8 (NamePattern2) 6991**] [**Last Name (NamePattern1) 6992**] at approximately 7:30 on [**2924-7-19**] and later
+     discussed with the covering surgical house staff.
+     3)  Dilated pancreatic duct in the tail region of the pancreas with several
+     smaller adjacent cystic lesions that may represent separate small cysts or
+     dilated side branches.
+     4)  Large exophytic left renal cyst with multiple small low-attenuation
+     lesions in the kidneys bilaterally that may represent cysts.
+     5)  4.1 x 4.6 cm right adnexal cyst.
+     6)  Slight nodular enlargement of the right adrenal gland, incompletely
+     characterized on this single-phase study.
+     
+     
+     
+
+",,
+8342,12023,,,2924-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-19**] 6:30 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 6990**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABDOMINAL PAINAND GAURDING IN LLQ, R/O PERF,OBSTRUCTION
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman s/p PEG now with abdominal pain and guarding in LLQ           
+     REASON FOR THIS EXAMINATION:
+      r/o perf, obstruction or colitisPLEASE USE GASTROGRAPHIN                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post percutaneous GJ-tube placement with abdominal pain
+     and guarding in left lower quadrant.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  MDCT acquired images of the abdomen and pelvis were obtained after
+     the administration of water-soluble oral and IV contrast.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is dependent atelectasis
+     bilaterally.  There is a nonspecific nodular density measuring 4 mm at the
+     right lung base (series 2, image 4).
+          Multiple small foci of free air anterior to the liver are identified. A
+     percutaneous GJ- tube is demonstrated entering the abdomen close to the
+     midline and demonstrated taking a turn in the stomach and traversing through
+     the duodenum into proximal jejunum.  There are multiple foci of extraluminal
+     air intimately associated with the distal duodenum/proximal jejunum.  There is
+     free fluid and stranding in the left anterior pararenal space tracking down
+     the left paracolic gutter. No extravasation of oral contrast is identified.
+     The stomach and small bowel and large bowel are otherwise grossly
+     unremarkable.
+          The patient is status post cholecystectomy.  The pancreas has an atrophic
+     appearance with a dilated pancreatic duct in the tail region with several
+     smaller cystic structures near the dilated duct that may represent small side
+     branch dilatation or separate small cysts.  There is slight nodular
+     enlargement of the right adrenal gland, incompletely characterized on this
+     single phase study. There is a large exophytic cyst at the lower pole of the
+     left kidney measuring 5.6 x 6.2 cm. There are multiple bilateral small
+     hypodense lesions in both kidneys, too small to characterize, that may
+     represent cysts. Multiple small retroperitoneal lymph nodes are demonstrated,
+     notably an 8-mm aortocaval node (series 2, image 40).
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a Foley catheter present within
+     the bladder.  There is a 4.1 x 4.6 cm right adnexal cyst.  The rectum and
+     sigmoid colon are filled with air, stool, and contrast.
+     
+     Bone windows demonstrate degenerative disease of the spine with a scoliotic
+     curvature with no suspicious lytic or sclerotic foci.
+     
+     MULTIPLANAR REFORMATTED IMAGES:  The coronal and sagittal reformatted images
+                                                                 (Over)
+
+     DATE: [**2924-7-19**] 6:30 PM
+     CT PELVIS W/CONTRAST; CT ABDOMEN W/CONTRAST                     Clip # [**Clip Number (Radiology) 6990**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: ABDOMINAL PAINAND GAURDING IN LLQ, R/O PERF,OBSTRUCTION
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     Field of view: 36 Contrast: OPTIRAY Amt: 150CC
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     were essential in determining the location of the extraluminal air and
+     demonstrating the intra-abdominal anatomy.  MPR value 4.
+     
+     IMPRESSION:
+     1)  Nonspecific 4-mm nodular opacity at the right lung base.
+     2)  Multiple foci of intra-abdominal free air located anterior to the liver
+     and other multiple foci of extraluminal air near the distal duodenum/proximal
+     jejunum with stranding and free fluid present in the anterior pararenal space
+     and left paracolic gutter.  Although no extravasated oral contrast is
+     identified, this constellation of findings in this patient status post recent
+     GJ- tube placement is worrisome for perforated viscus.  The presence of
+     stranding in the left anterior pararenal space near the pancreas also raises
+     the possibility of pancreatitis. Correlation with laboratory values is
+     recommended.  The findings worrisome for perforated viscus were relayed by Dr.
+     [**First Name4 (NamePattern1) 58**] [**Last Name (NamePattern1) 59**] to Dr. [**First Name8 (NamePattern2) 6991**] [**Last Name (NamePattern1) 6992**] at approximately 7:30 on [**2924-7-19**] and later
+     discussed with the covering surgical house staff.
+     3)  Dilated pancreatic duct in the tail region of the pancreas with several
+     smaller adjacent cystic lesions that may represent separate small cysts or
+     dilated side branches.
+     4)  Large exophytic left renal cyst with multiple small low-attenuation
+     lesions in the kidneys bilaterally that may represent cysts.
+     5)  4.1 x 4.6 cm right adnexal cyst.
+     6)  Slight nodular enlargement of the right adrenal gland, incompletely
+     characterized on this single-phase study.
+     
+     
+     
+
+",,
+8342,12023,,,2924-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-19**] 6:30 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6993**]
+     Reason: r/o bleed/extension of infarct/edema                        
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with left MCA stroke, now more obtunded                       
+     REASON FOR THIS EXAMINATION:
+      r/o bleed/extension of infarct/edema                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left MCA stroke, now more obtunded.
+     
+     COMPARISON:  CT head dated [**2924-7-11**].
+     
+     TECHNIQUE:  Axial images of the head were obtained without IV contrast.
+     
+     FINDINGS:  There is a large region of low attenuation in the distribution of
+     the left middle cerebral artery in the subcortical white matter, extending to
+     the cortex, now more prominent compared to the prior study.  There is slight
+     left to right shift, possibly slightly more prominent compared to the prior
+     study.  The ventricles are stable in size.  Note is made of calcification in
+     the basal ganglia bilaterally, likely age-related.  There is no evidence of
+     acute intracranial hemorrhage.  The basilar cisterns are patent.  The
+     visualized portions of the paranasal sinuses are well aerated.
+     
+     IMPRESSION:  Evolving left MCA territory infarction producing slight mass
+     effect on the left lateral ventricle and slight left to right shift more
+     prominent compared to the prior study.
+                                                                           
+
+",,
+8342,12023,,,2924-07-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-19**] 1:20 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 6989**]
+     Reason: placement of GJ tube and rule out free air                  
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with afib and L MCA stroke with new abdominal pain after PEG 
+      placement
+     REASON FOR THIS EXAMINATION:
+      placement of GJ tube and rule out free air                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE FILM:
+     
+     HISTORY: Stroke with placement of GJ tube and abdominal pain.
+     
+     GJ tube overlies left mid abdomen.  Gas is present throughout the colon.
+     
+     No diagnostic abnormality.
+                                                                           
+
+",,
+8342,12023,,,2924-07-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2924-7-20**] 8:48 AM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 6994**]
+     Reason: rule out perforation, assess for interval change. please do 
+     Admitting Diagnosis: CEREBROVASCULAR ACCIDENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with afib and L MCA stroke with new abdominal pain after PEG 
+       placement
+     REASON FOR THIS EXAMINATION:
+      rule out perforation, assess for interval change. please do study in am on 
+      [**7-20**].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  [**Age over 90 **]-year-old woman with status post stroke and gastrojejunostomy
+     tube placement.
+     
+     ABDOMEN, SUPINE AND LEFT LATERAL DECUBITUS:  Contrast was administered into
+     the gastrostomy tube prior to acquisition of these images.  There is no
+     evidence of leakage, and contrast passes into the colon.  Appearance of the
+     gastrojejunostomy tube is unchanged.  A nasogastric tube passes into the
+     distal stomach.  The left lateral decubitus view demonstrates scattered
+     air-fluid levels in the small bowel, which is nondistended.  There is
+     accordingly no evidence of obstruction, and the appearance is nonspecific, and
+     may suggest gastroenteritis.  No free air is seen.
+     
+     IMPRESSION:
+     1)  No evidence of perforation or obstruction.
+     2)  Nonspecific air-fluid levels, possibly gastroenteritis.
+     3)  Similar positioning of gastrojejunostomy tube.
+                                                                           
+
+",,

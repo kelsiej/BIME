@@ -1,0 +1,81 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8604,11781,,,3079-11-24 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3079-11-24**]     Discharge Date:  [**3079-11-24**]
+
+Date of Birth:   [**3003-4-15**]     Sex:  F
+
+Service:  CT [**Doctor First Name **]
+
+HISTORY OF PRESENT ILLNESS:  This is a 75-year-old white
+female with a past medical history significant for coronary
+artery disease status post acute inferior wall myocardial
+infarction and subsequent post infarct ventricular septal
+defect, insulin-dependent diabetes mellitus, obesity,
+hypertension, and hypercholesterolemia who presented to the
+Cardiac Catheterization Lab [**3079-11-24**] for an acute inferior
+ST elevation MI.
+
+Cardiac catheterization revealed two-vessel coronary artery
+disease with moderate systolic ventricular dysfunction as
+well as a moderate left-to-right intracardiac shunt at the
+ventricular level and an acute inferior myocardial infarction
+managed by acute percutaneous transluminal coronary
+angioplasty of the right coronary artery vessel.
+
+HOSPITAL COURSE:  The patient was emergently brought to the
+Operating Room that same day, [**3079-11-24**], for an emergent
+ventricular septal defect closure and coronary artery bypass
+grafting times one with a saphenous vein graft to the left
+anterior descending artery.
+
+In the Operating Room the patient became progressively more
+hemodynamically unstable with profound tachycardia and a
+falling blood pressure.  She was intubated and emergently
+prepped and draped.  She was found to have a very large
+ventricular septal defect.  A patch was sewn over the VSD and
+the VSD was debrided of the necrotic tissue as much as
+possible.  When complete, a second patch was placed over the
+right ventricle, after which BioGlue was applied to the whole
+area to assure hemostasis, at which point the saphenous vein
+graft was placed to the left anterior descending artery.
+Upon removal of the cross clamp the patient's heart was
+allowed to resuscitate for 40 minutes, and the patient was
+subsequently weaned off bypass, and Protamine was begun on
+the patient.
+
+Upon removal of the cannula from the patient's heart, the
+suture line tore are the inferior aspect of the patch
+closure, and the patient's chest filled with blood.  She was
+crashed back on bypass with an attempt to repair the suture
+line with more BioGlue and sutures, however, with
+unsatisfactory results.  She weaned off of her bypass with
+the inability to achieve hemostasis at that time, and the
+patient expired at 8:45 p.m. [**3079-11-24**].
+
+DISCHARGE DIAGNOSES:
+1.  Post infarct ventricular septal defect.
+2.  Coronary artery disease.
+
+Because of the emergent nature of this patient's condition,
+an adequate medical history was not obtained with no outside
+medical records available for consultation.
+
+
+
+
+                          [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 14**]
+
+Dictated By:[**Doctor Last Name 130**]
+
+MEDQUIST36
+
+D:  [**3079-12-26**]  11:34
+T:  [**3079-12-26**]  15:41
+JOB#:  [**Job Number 11965**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: [**First Name8 (NamePattern2) 117**] [**3079-12-28**] 10:15 AM
+(End of Report)
+
+
+",,

@@ -1,0 +1,960 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8369,,,,2948-03-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 7156**]
+     Reason: Gastroesophageal cancer adenocarcinoma now status post 2 cycles of Xeloda therapy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     RADIOPHARMECEUTICAL DATA:
+        22.0 mCi F-18 FDG ([**2948-3-1**]);
+     INDICATION: Gastroesophageal cancer adenocarcinoma now status post 2 cycles of 
+     Xeloda therapy. 
+      
+     METHODS: Approximately 1 hour after intravenous administration of F-18
+     fluorodeoxyglucose (FDG), noncontrast CT images were obtained for attenuation
+     correction and for fusion with emission PET images. [The noncontrast CT images
+     are not used to diagnose disease independently of the PET images.]  A series of
+     overlapping emission PET images was then obtained. The fasting blood glucose
+     level, measured by glucometer before injection of FDG, was 108 mg/dL. The area
+     imaged spanned the region from the lower head to the upper thighs. 
+      
+     Computed tomography (CT) images were co-registered and fused with emission PET
+     images to assist with the anatomic localization of tracer uptake.  The
+     determination of the site of tracer uptake seen on PET data can have important
+     implications regarding the significance of that uptake.  
+      
+     INTERPRETATION: 
+     CHEST: There is a new small FDG avid left supraclavicular node with max SUV of
+     6.3. There is a new small FDG avid paraesophageal node at the level of the high
+     left atrium with max SUV of 10.  Multiple sub centimeter pulmonary nodules are
+     not significantly changed in size allowing for differences in technique. These
+     nodes are not FDG avid, but are too small to characterize with PET.  
+       
+     ABDOMEN/PELVIS: Thickening of the region of the distal esophagus and proximal
+     stomach is again noted with increased FDG avidity compared to [**2948-1-9**] (max SUV
+     34.7 previously 26). There are enlarged numerous small, confluent gastrohepatic
+     ligament nodes with markedly increased FDG avidity with max SUV of 20.5.
+     Confluent periportal lymph nodes have greater avidity with max SUV of 36.6,
+     previoulsy 6.7. There is new fullness of the pancreas with associated increased
+     FDG uptake in the area immediately adjacent to portion of the stomach involved
+     with tumor suggestive of direct extension of tumor. Multiple paraaortic nodes
+     are also increasingly FDG avid. There is rim-like increased FDG avidity anterior
+     to the liver (max SUV 8.9) and at the anterior peritoneal surface in the left
+     upper quadrant (max SUV 11.8). 
+      
+     There is new marked focal FDG avidity at the umbilicus corresponding to a small
+     fat-containing hernia of uncertain significance.  
+       
+     BONE: There is decreased FDG avidity of the T8 vertebral body compared to the
+     prior study.  
+      
+     Physiologic uptake is seen in the musculature, brain, GI tract, and [**Hospital Unit Name 755**] tract.  
+        
+     IMPRESSION:  Considerable interval progression of disease with new avid left
+     supraclavicular and paraesophageal nodes and increased avidity of
+                                                                 (Over)
+
+     FDG TUMOR IMAGING (PET-CT)                                      Clip # [**Clip Number (Radiology) 7156**]
+     Reason: Gastroesophageal cancer adenocarcinoma now status post 2 cycles of Xeloda therapy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     retroperitoneal and periportal nodes and increased size and avidity of numerous
+     gastrohepatic ligament nodes. There is new rim-like FDG avidity anterior to the
+     liver and in the left upperquadrant concerning for peritoneal seeding of tumor.
+     Additionally, there is new fullness of the pancreas with associated FDG avidity
+     concerning for direct spread of tumor from the stomach. The T8 vertebra body is
+     the only site of improvement. 
+                                                                           
+
+             [**First Name8 (NamePattern2) 5718**] [**Last Name (NamePattern1) 5684**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 545**] [**Last Name (NamePattern1) 546**], M.D.     Approved: MON [**2948-3-4**] 3:31 PM
+
+
+             Date Mailed: [**2948-3-5**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8369,,,,2948-03-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-13**] 6:45 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7157**]
+     Reason: eval acute process                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with exophageal ca, cough, difficulty swallowing.               
+     REASON FOR THIS EXAMINATION:
+      eval acute process                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  63-year-old male with esophageal cancer, cough, difficulty
+     swallowing.  Evaluate for acute process.
+     
+     COMPARISON:  None.
+     
+     PA AND LATERAL CHEST RADIOGRAPH:  Lungs are clear.  Heart size is normal.
+     Mediastinal and hilar contours are normal.  No pleural effusion is identified.
+     The tip of the right subclavian central venous catheter overlies the expected
+     location of the mid distal SVC.
+     
+     IMPRESSION:  No acute cardiopulmonary disease.
+
+",,
+8369,,,,2948-03-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-14**] 9:30 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7158**]
+     Reason: eval for pancreatitis, eval hernia                          
+     Admitting Diagnosis: ESOPHAGEAL CANCER;UNABLE TO TAKE PO'S
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with esophageal ca, difficulty passing food/pills to stomache, 
+      also peri-umbicical pain and elevated lipase
+     REASON FOR THIS EXAMINATION:
+      eval for pancreatitis, eval hernia                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  CT abdomen and pelvis with contrast.
+     
+     INDICATION:  63-year-old male with esophageal cancer, now with periumbilical
+     pain and elevated lipase, evaluate for pancreatitis.
+     
+     TECHNIQUE:  MDCT axial images were obtained from the lung bases to the pubic
+     symphysis with IV contrast.  Coronal and sagittal reconstructions were
+     obtained.
+     
+     CT ABDOMEN WITH IV CONTRAST:  Within the right posterior lower lobe, there is
+     a noncalcified pulmonary nodule measuring 1.1 cm x 0.7 cm, not mentioned on
+     previous PET scan and is worrisome for metastatic disease.  No other nodules,
+     opacity or effusion identified.
+     
+     At approximately the gastroesophageal junction, there is a soft tissue mass
+     within the esophagus which measures approximately 2.8 cm x 2.2 cm, causing
+     marked luminal narrowing.  The heart is normal in appearance without
+     pericardial effusion.  The liver is normal in appearance without lesions
+     identified.  The gallbladder is distended without wall thickening or
+     pericholecystic fluid which may be consistent with a fasting state.  The body
+     and tail of the pancreas are diffusely swollen with ill-defined margins and
+     adjacent mesenteric fat stranding consistent with acute pancreatitis.  Low
+     density ill-defined region within the neck and uncinate process of the
+     pancreas may be consistent with metastatic disease.  No pancreatic duct
+     dilatation identified or ductal stone visualized.  The adrenal glands, right
+     kidney, ureters and small and large bowel are unremarkable.  There is a 2 cm
+     in diameter simple cyst in the inferior pole of the left kidney.  The left
+     kidney is otherwise unremarkable.  No free fluid or free air identified within
+     the abdomen.  There is a small fat-filled ventral hernia at the umbilicus.
+     Multiple enlarged paraortic nodes are identified, the largest measuring 1.3 cm
+     in small dimension.
+     
+     CT PELVIS WITH IV CONTRAST:  Calcification is seen within the prostate gland.
+     The rectum, the sigmoid colon, unopacified small bowel pelvic loops and
+     bladder are visualized and unremarkable.  A small amount of pelvic free fluid
+     is identified.  No inguinal lymphadenopathy present.  
+     
+     OSSEOUS STRUCTURES:  Degenerative changes are noted in the lower lumbar facet
+     joints.  No suspicious lytic or sclerotic lesions identified.
+                                                                 (Over)
+
+     DATE: [**2948-3-14**] 9:30 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7158**]
+     Reason: eval for pancreatitis, eval hernia                          
+     Admitting Diagnosis: ESOPHAGEAL CANCER;UNABLE TO TAKE PO'S
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1.  Mildly swollen ill-defined body and tail of the pancreas consistent with
+     acute pancreatitis.  Low-attenuation enlarged periportal lymph nodes
+     consistent with metastatic involvement which appear to produce mass effect
+     upon the pancreas. No pancreatic duct dilatation or ductal calcified stone
+     identified.
+     
+     2.  Large heterogeneously enhancing lesion within the distal esophagus with
+     luminal narrowing consistent with patient's known esophageal cancer.
+     
+     3.  Noncalcified pulmonary nodule within the right lung base measuring 1.1 cm,
+     worrisome for metastatic disease.
+     
+     4.  Distended gallbladder without wall thickening or edema consistent with
+     fasting state.
+     
+     5.  Small amount of free intrapelvic fluid.
+     
+     6.  Pathologically enlarged paraaortic and periportal lymph nodes identified
+     on recent PET-CT to show increased FDG avidity consistent with pathologic
+     involvement.
+
+",,
+8369,,,,2948-03-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-14**] 9:30 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7158**]
+     Reason: eval for pancreatitis, eval hernia                          
+     Admitting Diagnosis: ESOPHAGEAL CANCER;UNABLE TO TAKE PO'S
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with esophageal ca, difficulty passing food/pills to stomache, 
+      also peri-umbicical pain and elevated lipase
+     REASON FOR THIS EXAMINATION:
+      eval for pancreatitis, eval hernia                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  CT abdomen and pelvis with contrast.
+     
+     INDICATION:  63-year-old male with esophageal cancer, now with periumbilical
+     pain and elevated lipase, evaluate for pancreatitis.
+     
+     TECHNIQUE:  MDCT axial images were obtained from the lung bases to the pubic
+     symphysis with IV contrast.  Coronal and sagittal reconstructions were
+     obtained.
+     
+     CT ABDOMEN WITH IV CONTRAST:  Within the right posterior lower lobe, there is
+     a noncalcified pulmonary nodule measuring 1.1 cm x 0.7 cm, not mentioned on
+     previous PET scan and is worrisome for metastatic disease.  No other nodules,
+     opacity or effusion identified.
+     
+     At approximately the gastroesophageal junction, there is a soft tissue mass
+     within the esophagus which measures approximately 2.8 cm x 2.2 cm, causing
+     marked luminal narrowing.  The heart is normal in appearance without
+     pericardial effusion.  The liver is normal in appearance without lesions
+     identified.  The gallbladder is distended without wall thickening or
+     pericholecystic fluid which may be consistent with a fasting state.  The body
+     and tail of the pancreas are diffusely swollen with ill-defined margins and
+     adjacent mesenteric fat stranding consistent with acute pancreatitis.  Low
+     density ill-defined region within the neck and uncinate process of the
+     pancreas may be consistent with metastatic disease.  No pancreatic duct
+     dilatation identified or ductal stone visualized.  The adrenal glands, right
+     kidney, ureters and small and large bowel are unremarkable.  There is a 2 cm
+     in diameter simple cyst in the inferior pole of the left kidney.  The left
+     kidney is otherwise unremarkable.  No free fluid or free air identified within
+     the abdomen.  There is a small fat-filled ventral hernia at the umbilicus.
+     Multiple enlarged paraortic nodes are identified, the largest measuring 1.3 cm
+     in small dimension.
+     
+     CT PELVIS WITH IV CONTRAST:  Calcification is seen within the prostate gland.
+     The rectum, the sigmoid colon, unopacified small bowel pelvic loops and
+     bladder are visualized and unremarkable.  A small amount of pelvic free fluid
+     is identified.  No inguinal lymphadenopathy present.  
+     
+     OSSEOUS STRUCTURES:  Degenerative changes are noted in the lower lumbar facet
+     joints.  No suspicious lytic or sclerotic lesions identified.
+                                                                 (Over)
+
+     DATE: [**2948-3-14**] 9:30 AM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 7158**]
+     Reason: eval for pancreatitis, eval hernia                          
+     Admitting Diagnosis: ESOPHAGEAL CANCER;UNABLE TO TAKE PO'S
+     Field of view: 36 Contrast: OPTIRAY Amt: 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     
+     1.  Mildly swollen ill-defined body and tail of the pancreas consistent with
+     acute pancreatitis.  Low-attenuation enlarged periportal lymph nodes
+     consistent with metastatic involvement which appear to produce mass effect
+     upon the pancreas. No pancreatic duct dilatation or ductal calcified stone
+     identified.
+     
+     2.  Large heterogeneously enhancing lesion within the distal esophagus with
+     luminal narrowing consistent with patient's known esophageal cancer.
+     
+     3.  Noncalcified pulmonary nodule within the right lung base measuring 1.1 cm,
+     worrisome for metastatic disease.
+     
+     4.  Distended gallbladder without wall thickening or edema consistent with
+     fasting state.
+     
+     5.  Small amount of free intrapelvic fluid.
+     
+     6.  Pathologically enlarged paraaortic and periportal lymph nodes identified
+     on recent PET-CT to show increased FDG avidity consistent with pathologic
+     involvement.
+
+",,
+8369,,,,2948-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-18**] 8:48 AM
+     CT HEAD W/ & W/O CONTRAST                                       Clip # [**Clip Number (Radiology) 7161**]
+     Reason: MENTAL STATUS CHANGES IN MAN WITH ESOPH CA
+     Admitting Diagnosis: ESOPHAGEAL CANCER;UNABLE TO TAKE PO'S
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with esoph cancer and mental status changes                     
+     REASON FOR THIS EXAMINATION:
+      eval for mets, bleed, etc                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  63-year-old male with esophageal cancer and altered mental status.
+     
+     No prior comparison exams are available.
+     
+     TECHNIQUE:  MDCT-acquired axial images were obtained through the head with and
+     without intravenous contrast.
+     
+     CT OF THE HEAD WITH AND WITHOUT INTRAVENOUS CONTRAST
+     
+     FINDINGS:  There is no evidence of enhancing intracranial lesions, hemorrhage,
+     shift of normally midline structures, hydrocephalus, or infarction.
+     Incidental note is made of a cavum septum pellucidum and cavum vergae (normal
+     variant).  The tip of the odontoid process is noted to be asymmetrically
+     positioned in relationship to the occiput and lateral masses of C1, likely
+     positional in origin.  Remaining osseous and soft tissue structures appear
+     unremarkable.  Paranasal sinuses and mastoid air cells are well aerated.
+     
+     IMPRESSION:
+     1.  No evidence of hemorrhage or mass.
+     
+     2.  Asymmetrically positioned odontoid process, incompletely evaluated on
+     current study.  This is likely positional but may be further evaluated with
+     dedicated CT cervical spine if clinically indicated.
+     
+
+",,
+8369,,,,2948-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-18**] 8:47 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7162**]
+     Reason: r/o pna                                                     
+     Admitting Diagnosis: ESOPHAGEAL CANCER;UNABLE TO TAKE PO'S
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with esophageal ca and fever.                                   
+     REASON FOR THIS EXAMINATION:
+      r/o pna                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  SINGLE PORTABLE AP CHEST RADIOGRAPH.
+     
+     INDICATION:  63-year-old male with esophageal cancer and fever, rule out
+     pneumonia.
+     
+     COMPARISON:  Study from the same date.
+     
+     FINDINGS:  The previously noted esophageal stent is barely visualized on this
+     single AP view.  Right subclavian line identified tip overlying the expected
+     region of the mid SVC.  No infiltrate identified to suggest developing
+     pneumonia.  Mild blunting of the CP angles bilaterally suggesting small
+     bilateral pleural effusions.  No pneumothorax identified
+
+",,
+8369,,,,2948-03-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-18**] 8:47 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7159**]
+     Reason: eval for consolidation, enlarged heart                      
+     Admitting Diagnosis: ESOPHAGEAL CANCER;UNABLE TO TAKE PO'S
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       63 year old man with exophageal ca s/p stent with pain and crackles at left 
+      base
+     REASON FOR THIS EXAMINATION:
+      eval for consolidation, enlarged heart                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO-VIEW CHEST, [**2948-3-18**]
+     
+     COMPARISON:  [**2948-3-13**].
+     
+     INDICATION:  Esophageal cancer.  Pain and crackles at left base.
+     
+     Right subclavian vascular catheter remains in standard position.  Heart size
+     is normal.  The esophageal stent is present in the lower thoracic esophagus
+     extending to the proximal stomach.  On the AP view, there is narrowing of the
+     stent at the expected GE junction level.
+     
+     Assessment of the lungs demonstrates new discoid atelectasis in the left lower
+     lobe.  Questionable small left pleural effusion is evident on the lateral
+     view.
+     
+     IMPRESSION:
+     1.  Interval stent placement as described.
+     2.  Discoid atelectasis left lower lobe and possible small left pleural
+     effusion.  These are nonspecific findings but can be seen in the setting of a
+     pulmonary embolism.  If there are signs and symptoms to suggest this
+     possibility, CT angiogram would be suggested.  Findings communicated to Dr.
+     [**Last Name (STitle) 7160**] on [**2948-3-18**].
+
+",,
+8369,10900,,,2948-03-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2948-3-20**]              Discharge Date:   [**2948-4-3**]
+ 
+Date of Birth:  [**2884-12-19**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Hydralazine
+ 
+Attending:[**First Name3 (LF) 10850**] 
+Chief Complaint:
+coffee ground emesis 
+ 
+Major Surgical or Invasive Procedure:
+EGD with stent removal and placement of two new esophageal 
+stents
+ 
+History of Present Illness:
+ Pt is a 63 YO M with progressive esophageal cancer on xeloda 
+who was admitted to [**Hospital1 83**] from [**Date range (1) 11597**] for dysphagia w/course 
+notable for distal esophageal stent placement by the ERCP team. 
+On the day of discharge, he developed nausea with emesis, and 
+vomited twice with dark blood. His wife called the floor and was 
+told to call 911 and come to [**Hospital1 83**], but he initially went to an 
+OSH and was found to have a HCT of 27. He vomited a third time, 
+very small amount when there, which was considered coffee 
+grounds. He was transferred to [**Hospital1 83**] and had a hct of 22 on 
+presentation. He was admitted to the MICU for concern for an 
+upper GI bleed from his cancer.  
+.  
+In the ED, he was given Protonix 40 IV once and crossmatched for 
+blood. GI was contacted and suggested probably scope in the AM. 
+He was admitted to the MICU for possible scope tomorrow.  
+.  
+ROS: He complains of some abdominal pain which is persistent for 
+months. He has some shortness of breath at rest. He denies chest 
+pain. He had vomiting but no nausea currently. He has not 
+vomited since admission. He is not a forthcoming historian.  
+
+ 
+Past Medical History:
+1. Esophageal cancer, diagnsoed [**6-12**]. Advanced unresectable 
+stage.  Started Irenotecan/Cisplatin [**7-12**] now on cycle 4. Last 
+dose 12/28. 
+2. Hypercholesterolemia  
+3. Depression  
+4. Anxiety  
+5. BPH  
+
+ 
+Social History:
+lives with wife. Former tob, rare etoh, no drugs.
+
+ 
+Family History:
+N/C
+ 
+Physical Exam:
+V: 98.8 P84 BP 142/82 R20 97% 2L NC  
+Gen: No apparent distress, with long pauses between questions 
+and answers  
+HEENT: PERRLA, OP clear, MMM  
+Resp: CTA bilaterally  
+CV: RRR nl s1s2 no MGR  
+Abd: soft, slight TTP diffusely across abdomen, no 
+rebound/guarding  
+Ext: no edema  
+Neuro: A+O to [**Hospital1 83**], [**2948-3-7**] (but not date), with slow 
+responses  
+
+ 
+Pertinent Results:
+CXR on [**2948-3-13**]:
+IMPRESSION:  No acute cardiopulmonary disease.
+
+CT Abdomen/Pelvis on [**2948-3-14**]:
+IMPRESSION: 
+  
+1.  Mildly swollen ill-defined body and tail of the pancreas 
+consistent with acute pancreatitis.  Low-attenuation enlarged 
+periportal lymph[**MD Number 65**] 
+consistent with metastatic involvement which appear to produce 
+mass effect 
+upon the pancreas. No pancreatic duct dilatation or ductal 
+calcified stone 
+identified. 
+2.  Large heterogeneously enhancing lesion within the distal 
+esophagus with luminal narrowing consistent with patient's known 
+esophageal cancer. 
+3.  Noncalcified pulmonary nodule within the right lung base 
+measuring 1.1 cm, worrisome for metastatic disease. 
+4.  Distended gallbladder without wall thickening or edema 
+consistent with 
+fasting state.   
+5.  Small amount of free intrapelvic fluid. 
+6.  Pathologically enlarged paraaortic and periportal lymph[**MD Number 510**] identified on recent PET-CT to show increased FDG avidity 
+consistent with pathologic involvement. 
+
+CT Head on [**2948-3-14**]:
+IMPRESSION: 
+1.  No evidence of hemorrhage or mass. 
+2.  Asymmetrically positioned odontoid process, incompletely 
+evaluated on 
+current study.  This is likely positional but may be further 
+evaluated with dedicated CT cervical spine if clinically 
+indicated. 
+
+EGD on [**2948-3-20**]:
+Impression: 
+Blood in the lower third of the esophagus
+Mass in the lower third of the esophagus
+Food in the stomach body
+Otherwise normal EGD to stomach body 
+
+[**2948-3-19**] 12:00AM BLOOD WBC-6.3 RBC-2.56* Hgb-9.5* Hct-27.2* 
+MCV-106* MCH-37.1* MCHC-34.8 RDW-18.7* Plt Ct-106*
+[**2948-3-20**] 01:45AM BLOOD WBC-3.9* RBC-2.14* Hgb-8.0* Hct-22.7* 
+MCV-106* MCH-37.3* MCHC-35.2* RDW-18.9* Plt Ct-115*
+[**2948-3-20**] 09:19AM BLOOD WBC-3.6* RBC-3.10*# Hgb-10.7*# Hct-31.1*# 
+MCV-100* MCH-34.4* MCHC-34.3 RDW-20.7* Plt Ct-101*
+[**2948-3-20**] 08:37PM BLOOD Hct-29.6*
+[**2948-3-21**] 04:16AM BLOOD WBC-2.8* RBC-2.95* Hgb-10.3* Hct-30.5* 
+MCV-103* MCH-34.8* MCHC-33.7 RDW-20.3* Plt Ct-100*
+[**2948-3-21**] 12:01PM BLOOD Hct-29.8*
+[**2948-3-21**] 04:16AM BLOOD PT-14.0* PTT-28.2 INR(PT)-1.2*
+[**2948-3-21**] 04:16AM BLOOD Glucose-125* UreaN-11 Creat-0.8 Na-135 
+K-3.7 Cl-101 HCO3-24 AnGap-14
+[**2948-3-21**] 04:16AM BLOOD ALT-91* AST-85* LD(LDH)-214 AlkPhos-317* 
+Amylase-33 TotBili-5.0* DirBili-3.9* IndBili-1.1
+ 
+Brief Hospital Course:
+1. Esophageal cancer:  Metastatic to liver and pancreas.  
+Patient initially presented with dysphagia and required a stent. 
+He initially had a lot of pain, but was eating well and was sent 
+home. Patient returned to the hospital with coffee ground emesis 
+and KUB showed that the stent migrated to his stomach. He 
+required several units of blood and underwent second EGD and 
+stent was retrieved and two additional esoph stents were placed. 
+Unfortunately, 5 days after the last two stents were placed, the 
+patient again started to vomit. CXR was obtained and again both 
+stents migrated to the stomach. Given patient's condition, Dr. 
+[**Last Name (STitle) **] and his family agreed that he should not under go another 
+EGD for stent removal. He was placed on CMO and expired 4 am 
+[**2948-4-4**].
+
+2. Cholangitis:  Patient had elevated total bilirubin. This was 
+thought to be due to progressive cancer and he was not thought 
+to be candidate for stent. 
+
+3. Mental status changes:  This was likely a combination of 
+narcotics, elevated total bilirubin, anxiolytics. CT head 
+negative.  
+
+4. depression/anxiety/agitation:   Initially we continued celexa 
+and risperidal. As the patient developed toxic metabolic 
+confusion and was agitated and combative, we increased risperdal 
+to 1 mg BID and used haldol.   
+
+5. Hypercholesterolemia:  Discontinued lipitor when patient was 
+made CMO.  
+
+6. BPH:  Given initially and then discontinued when patient made 
+CMO.   
+
+ 
+Medications on Admission:
+Senna 8.8 mg/5 mL PO BID  
+Docusate Sodium 50 mg/5 mL PO BID  
+Pantoprazole 40 mg PO Q24H  
+Finasteride 5 mg PO DAILY  
+Atorvastatin 20 mg PO DAILY  
+Alprazolam 0.25 mg PO TID  
+Risperidone 1 mg PO HS  
+Citalopram 40 mg PO DAILY  
+Fexofenadine 60 mg PO QDAY  
+Oxycodone 10 mg PO Q4H:PRN pain  
+OxyContin 20 mg PO twice a day  
+
+ 
+Discharge Medications:
+None.
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+Esophageal cancer
+ 
+Discharge Condition:
+Expired.
+ 
+Discharge Instructions:
+None.
+ 
+Followup Instructions:
+None.
+ 
+                             [**Name6 (MD) 2821**] [**Name8 (MD) 2822**] MD, [**MD Number 10851**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1035**] MD [**MD Number 1036**] [**2948-4-3**] @ 1508
+Signed electronically by: DR. [**First Name (STitle) 2821**] R [**Doctor Last Name **]
+ on: MON [**2948-4-8**] 5:53 PM
+(End of Report)
+
+
+",,
+8369,10900,,,2948-03-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-20**] 12:55 PM
+     ABDOMEN (SUPINE ONLY) PORT                                      Clip # [**Clip Number (Radiology) 7165**]
+     Reason: Please assess location of migrated oesophageal stent.       
+     Admitting Diagnosis: UPPER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        63 year old man with esophageal ca and crackles at bases.                     
+          
+     REASON FOR THIS EXAMINATION:
+      Please assess location of migrated oesophageal stent.                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  63-year-old man with esophageal cancer, crackles at bases, assess
+     location of migrated esophageal stent.
+     
+     COMPARISON:  CT scan dated [**2948-3-14**].
+     
+     FINDINGS:  The reported esophageal stent is now seen projecting within the
+     stomach.  The abdominal bowel gas pattern is otherwise unremarkable.  Retained
+     stool seen within the region of the cecum and ascending colon.  There is no
+     evidence of free intraperitoneal air.  Degenerative changes are seen in the
+     lower lumbar spine.
+     
+     IMPRESSION:  Esophageal stent projects within the stomach.
+                                                                           
+
+",,
+8369,10900,,,2948-03-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-20**] 8:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7163**]
+     Reason: Please assess for pulmonary oedema/infiltrates              
+     Admitting Diagnosis: UPPER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       63 year old man with esophageal ca and crackles at bases.                      
+        
+     REASON FOR THIS EXAMINATION:
+      Please assess for pulmonary oedema/infiltrates                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     UPRIGHT PORTABLE CHEST, [**2948-3-20**].
+     
+     COMPARISON:  [**2948-3-18**].
+     
+     INDICATION:  Crackles at lung bases.
+     
+     Right subclavian catheter remains in standard position.  Heart size is normal.
+     Lungs are clear except for discoid atelectasis in the left lower lobe.
+                                                                           
+
+",,
+8369,10900,,,2948-03-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-20**] 12:55 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 7164**]
+     Reason: Assess for pneumonia.  Also, to visualize migrated esophagea
+     Admitting Diagnosis: UPPER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        63 year old man with esophageal ca and crackles at bases.                     
+          
+     REASON FOR THIS EXAMINATION:
+      Assess for pneumonia.  Also, to visualize migrated esophageal stent.            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 1:12 P.M., [**3-20**]
+     
+     HISTORY:  Esophageal carcinoma.  Crackles at the bases, rule out pneumonia.
+     
+     IMPRESSION:  AP chest compared to [**3-18**] and 9:19 a.m. today:
+     
+     Lungs are clear aside from plate-like atelectasis at the left base.  Heart
+     size normal.  No pleural effusion or evidence of central adenopathy.  No
+     pneumothorax.  Right subclavian line ends in the mid SVC.  Heart size normal.
+                                                                           
+
+",,
+8369,10900,,,2948-03-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-20**] 12:55 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 7164**]
+     Reason: Assess for pneumonia.  Also, to visualize migrated esophagea
+     Admitting Diagnosis: UPPER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        63 year old man with esophageal ca and crackles at bases.                     
+          
+     REASON FOR THIS EXAMINATION:
+      Assess for pneumonia.  Also, to visualize migrated esophageal stent.            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 1:12 P.M., [**3-20**]
+     
+     HISTORY:  Esophageal carcinoma.  Crackles at the bases, rule out pneumonia.
+     
+     IMPRESSION:  AP chest compared to [**3-18**] and 9:19 a.m. today:
+     
+     Lungs are clear aside from plate-like atelectasis at the left base.  Heart
+     size normal.  No pleural effusion or evidence of central adenopathy.  No
+     pneumothorax.  Right subclavian line ends in the mid SVC.  Heart size normal.
+                                                                           
+
+",,
+8369,10900,10405,0,2948-03-20 03:52:00 EST,2948-03-20 03:59:00 EST,7283,"N",54,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+THIS IS A 63YO MALE WITH PMH STAGE IV ESOPHAGEAL CA (WITH METS TO LIVER AND PANCREAS) WHO WAS DISCHARGED FROM [**Hospital1 22**] YESTERDAY WHERE HE HAD STENT PLACED FOR DYSPHAGIA. WHEN PT. ARRIVED HOME HE HAD 3 EPISODES OF COFFEE GROUND EMESIS. HIS WIFE BROUGHT HIM BACK TO EW WHERE HIS CRIT WAS FOUND TO BE 22.5 (WAS 27 [**3-19**] BEFORE DISCHARGE). IN EW HE WAS GIVEN 40MG PROTONIX IVP AND UNIT OF PRBC'S HUNG. TRANSFERRED HERE TO MICU FOR MANAGEMENT OF UPPER GIB.
+
+NEURO: PT. A+OX3. MAE. ASSISTS WITH TURNS. PUPILD EQUAL AND REACTIVE. NO C/O PAIN
+
+RESP: PT. ON 2L NASAL CANNULA WITH SATS >96%. BREATH SOUNDS CLEAR BILAT. NO C/O SOB. NO COUGH NOTED.
+
+CV: PT. HEMODYNAMICALLY STABLE. NSR. NO ECTOPY NOTED. BP WNL. SBP 130'S TO 140'S. + PULSES. NO EDEMA. SKIN WARM AND DRY. AFEBRILE. AS STATED ABOVE FIRST UNIT OF PRBC'S HUNG AT 0445. 
+
+GI: PT. NPO AT THIS TIME. ABD. SOFT. BS+. LAST BM YESTERDAY PER PT. NO C/O NAUSEA. NO VOMITTING SINCE ARRIVAL TO EW.
+
+GU: PT. VOIDING IN URINAL CLEAR YELLOW URINE.
+
+SKIN: INTACT
+
+ACCESS: R CHEST PORTACATH
+        R FOREARM PIV.
+
+PLAN: AWAITING MD ADMISSION ORDERS. PLAN IS TO RECHECK HCT AND ADMINISTER BLOOD PRODUCTS AS NEEDED. ? EGD TODAY TO ASSESS FOR BLEEDING. CONTINUE TO MONITOR HEMODYNAMIC STATUS CLOSELY. PT.'S WIFE AND DAUGHTER AT BEDSIDE. VERY SUPPORTIVE. PT. FULL CODE. 
+",,
+8369,10900,10405,0,2948-03-20 04:26:00 EST,2948-03-20 04:26:00 EST,7283,"N",54,"Nursing/Other","ADDENDUM TO NPN 7P-7A","
+ADDENDUM TO NPN 7P-7A
+SECOND UNIT TO BE HUNG AT 0600. ONE HOUR AFTER TRANSFUSION COMPLETE PLEASE RECHECK HCT. PT. TO BE SCOPED TODAY BY GI.
+",,
+8369,10900,10405,0,2948-03-20 15:45:00 EST,2948-03-20 16:07:00 EST,8173,"N",54,"Nursing/Other",,"
+
+See MAR and Carevue for detailed documentation
+
+Neuro: Patient alert, oriented x3. MAE, moving well in bed. Patient unsteady with OOB, 1 assist to maintain balance. c/o baseline pain in center of abd-> not different form baseline by report. 
+
+RESP: In 2L NC with SAT >95%. RA SAT 93-94. Patient request to stay in O2 for comfort. BS clear, occassional productive cough.
+
+CV:: In NSR, BP slightly elevated with activity, 120-160/70. Serial Hct stable s/p blood transfusion. 
+
+GI: EGD done showed stent dislodges appears to be in stomach. Slow blood oozing at tumor site. Oncology to f/u with patient for plan.
+Patient denies nausea, abd pain worse than baseline. Medium formed BM x1, guiac +. remains NPO/ small sips of clears.
+
+GU: Void in urinal. ?begin maintenance fluids.
+
+Social: Spouse and daughter at bedside. 
+
+Plan: continue cardiopulmonary monitoring. Continue to follow serial Hct every 8 hours. f/u with oncology as ?plan to manage gi oozing. 
+",,
+8369,10900,10405,,2948-03-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-21**] 3:11 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 7166**]
+     Reason: eval for cholecystitis                                      
+     Admitting Diagnosis: UPPER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with esophageal CA with mets to pancrease, RUQ pain, elevated 
+      LFTs today with total bili 5
+     REASON FOR THIS EXAMINATION:
+      eval for cholecystitis                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Metastatic esophageal cancer, right upper quadrant pain with
+     elevated LFTs.
+     
+     COMPARISON:  CT abdomen, [**2948-3-14**].
+     
+     FINDINGS:  Again, the gallbladder appears dilated, however, no wall
+     thickening, pericholecystic fluid, or stones are identified.  The common bile
+     duct measures 8 mm.  The liver demonstrates no focal or textural parenchymal
+     abnormalities, however, mild central biliary ductal dilatation is evident. The
+     main portal vein demonstrates normal hepatopetal flow.
+     
+     The right kidney measures 10 cm.  No hydronephrosis or mass is identified,
+     however, a 1 x 1.3 cm nonobstructing renal stone is identified.  A trace
+     amount of free fluid may be present anterior to the liver.
+     
+     IMPRESSION:
+     1.  No evidence of cholelithiasis or cholecystitis.
+     2.  Mild central biliary ductal dilatation of unknown etiology.  No focal
+     hepatic lesions are identified.
+     3.  1.3-cm nonobstructing renal stone.
+
+",,
+8369,10900,10405,0,2948-03-21 01:22:00 EST,2948-03-21 01:30:00 EST,7283,"N",54,"Nursing/Other","NPN 7P-7A","
+NPN 7P-7A
+PLEASE SEE CAREVIEW FOR OBJECTIVE DATA
+
+EVENTS: PT. HAD EGD YESTERDAY WHICH SHOWED THAT ESOPHAGEAL STENT HAD MIGRATED INTO PT.'S STOMACH AND ESOPHAGEAL TUMOR DOES HAVE SLOW BLEED. HCT AT 2000 29. NO BLOOD PRODUCTS ORDERED. TO RECHECK WITH AM LABS. ONCOLOGY TO DECIDE IF STENT IS GOING TO BE REPLACED. PLAN IS FOR PT. TO MOVE TO OMED BED ON EAST CAMPUS TODAY ASAP. 
+
+NEURO: PT. ALERT AND ORIENTED X3. HE APPEARS SOMEWHAT FRUSTRATED AHD AGGITATED WITH CURRENT HOSPITAL COURSE. PT.'S WIFE SLEPT AT BEDSIDE AND WAS VERY HELPFUL WITH PT. CARE. HE DOES C/O ABD. PAIN (FOR WHICH HIS BASELINE IS [**4-16**]) AND WAS MEDICATED WITH 2-4MG MORPHONE PRN WITH GOOD EFFECT. PT. OOB TO COMMODE WITH 1 ASSIST MULTIPLE TIMES THROUGHOUT SHIFT.
+
+RESP: PT. ON R/A WITH SATS >94%. BREATH SOUNDS CTA. NO C/O SOB. NO COUGH NOTED.
+
+CV: NSR WITH NO ECTOPY NOTED. SBP 130'S TO 170'S. + PULSES. NO EDEMA. AFEBRILE. HCT TO BE DRAWN Q8H AS ORDERED. TO BE DRAWN WITH AM LABS AND THEN WILL BE DUE AGAIN AT NOON.
+
+GI: AS STENT HAS MIGRATED, PT. CONTINUES TO HAVE DIFFICULTY SWALLOWING PO'S (INCLUDING PILL). PM PILLS CRUSHED AND PUT IN SMALL AMOUNT OF JELLO. PT. IS NPO EXCEPT FOR MEDS AND ICE CHIPS. ABD. SOFT. BS+. LAST BM YESTERDAY.
+
+GU: PT. VOIDING IN URINAL / COMMODE. GOOD UO
+
+SKIN: INTACT
+
+ACCESS: R CHEST PORTACATH. 1 PIV
+
+PLAN: PT. TO BE C/O TO EAST CAMPUS THIS AM PER ONCOLOGY. CONTINUE WITH Q8H CRITS AND REPLETE BLOOD PRODUCTS AS NEEDED. PAIN CONTROL FOR ABD. PAIN. EMOTIONAL SUPPORT FOR PT. AND HIS WIFE. HE REMAINS FULL CODE. AM LABS PENDING. 
+",,
+8369,10900,10405,1,2948-03-21 14:30:00 EST,2948-03-21 15:20:00 EST,7595,"Y",54,"Nursing/Other","MICU 0700-1900 Progress note","
+MICU 0700-1900 Progress note
+ADDENDUM:- CV Q 8 hour Hct checked, last at 1200 (midday) 29. no change from previous Hct.
+",,
+8369,10900,10405,0,2948-03-21 14:30:00 EST,2948-03-21 14:42:00 EST,7595,"N",54,"Nursing/Other","MICU 0700-1900 Progress note","
+MICU 0700-1900 Progress note
+RESP:- Remaisn on room air, sa02 94-96%, RR 14-18 and regular. Bilateral air entry heard to all lungfields. Coughing and expectoraing small amounts of scretions. RR not effected by morphine bolus.
+
+CV:- Moniotred in NSR 75-85bpm, no ectopics seen on telemtry. SBPO 130-170s', hypertensive when in pain. Pedal pulses palpable. Troubled by neuropathy at times also.
+
+NEURO/PAIN:- A&O x3 sleepy after morphine. Pain a problem, has ongoing pain, from tumor sites, given bolus of morphine, 3 x6mg (18mg intotal), eventually helped, from rounds to start 12 hourly oxycodone for pain manahement and to have IV morphine for brakethrough pain. Able to stand well with assiatcne x2. Gets irriated when asked if he has pain as its ongoing, sataed that people assess pain in different ways, but we will try and assess pain, by asking how the pain is rather than is there any.
+
+GU:- Voising using cammode, no problems. 
+
+GI:- NPO for ultrasound, but finding it incrasingly difficult to take POs' due to pain on swallowing. Bowels not moved. Abdomen soft but tender at times.
+
+ACCESS:- has porta cath in situ, patent, IV fluids continue at 75cc/hr. PIV appears satisfactory.
+
+ID:- Afebile during the day, no antibiotics as yet. 
+
+ENDO:- No steroids or insulin ordered.
+
+SKIN:- Remained on back for most of the morning as better for apin, sat out in chair for short period this morning. Bottom appears slightly red but not broken down. Declined a wash this morning, but Mrs [**Known patient lastname 1981**] helped change gown.
+
+FAMILY:- Mrs [**Known patient lastname 1981**] at bedside all day, helping with cares, appears to be coping very well under the circumstances, also visited by sister-in-law.
+
+PLAN:- To transfer to oncology service today for managemanet of care. ? will need further EGD and possbile stent  placement. To manage sympotms of pain, and try and give POs as tolerates. To continue to give full explination of care to aptient and family.
+",,
+8369,10900,,,2948-03-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-27**] 11:32 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7167**]
+     Reason: eval placement of esoph stent as last one moved and pt is no
+     Admitting Diagnosis: UPPER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        63 year old man with esophageal ca s/p stent with pain and crackles at left  
+      base
+     REASON FOR THIS EXAMINATION:
+      eval placement of esoph stent as last one moved and pt is now vomiting food up 
+      and also look at lungs ? consolidation v atalectasis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PA AND LATERAL CHEST ON [**2948-3-27**]
+     
+     HISTORY:  Esophageal stent, question migration.
+     
+     IMPRESSION:  PA and lateral chest compared to [**3-20**].
+     
+     Esophageal stent is in the stomach.  Lungs are clear.  There is no pleural
+     effusion or evidence of central adenopathy.  The heart is normal in size, and
+     the mediastinum is midline.  There is no pneumomediastinum or appreciable
+     mediastinal widening.  Dr. [**Last Name (STitle) 7168**], covering for Dr. [**First Name (STitle) 7169**], was paged to
+     report these findings, at the time of dictation.
+                                                                           
+
+",,
+8369,10900,,,2948-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-28**] 1:04 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 7170**]
+     Reason: eval for number of stents in stomach, had two placed by ercp
+     Admitting Diagnosis: UPPER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with esoph cancer and esoph stent that appears to have migrated 
+      to stomach again 
+     REASON FOR THIS EXAMINATION:
+      eval for number of stents in stomach, had two placed by ercp in esoph           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Indication: Assessment for migrated metallic stents
+     
+     One supine radiograph of the abdomen was obtained.
+     
+     Comparison is made to prior study done on [**2948-3-20**] and CT of abdomen
+     done on [**2948-3-14**].
+     
+     The previously seen metallic stent that was projecting over the stomach has
+     been removed.  There is a new plastic stent measuring up to 12 cm projecting
+     over the stomach.  Another stent that has three metallic rings is noted with
+     its distal tip projecting over the stomach and its proximal tip projecting
+     over gastroesophageal junction.  The stomach is severely dilated. The gas
+     pattern of remainder of the bowel is normal.  Soft tissue markings are
+     unremarkable.  Degenerative changes of lower lumbar spine are noted.
+     
+     IMPRESSION:
+     1.  Status post removal of migrated metallic stent and placement of two new
+     stents.  One stent is entirely in the stomach and the other stent has its
+     proximal end at the gastroesophageal junction and the majority of it is seen
+     in the stomach, this is concerning for stent migration.
+     2.  Distended stomach.
+     
+     
+
+",,
+8369,10900,,,2948-03-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2948-3-28**] 9:51 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7171**]
+     Reason: pls perform upright CXR to evaluate for free air under the d
+     Admitting Diagnosis: UPPER GI BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         63 year old man with esophageal ca and crackles at bases; esophageal stents 
+      located in stomach, now with hard stomach and increasing confusion              
+                 
+     REASON FOR THIS EXAMINATION:
+      pls perform upright CXR to evaluate for free air under the diaphragm - r/o GI 
+      perforation as cause of confusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  63-year-old man with esophageal cancer and stent placement, now
+     with mental status changes.
+     
+     COMPARISON:  PA and lateral chest x-ray dated [**2948-3-27**].
+     
+     AP UPRIGHT PORTABLE CHEST X-RAY:  A right subclavian Port-A-Cath terminates in
+     the mid SVC.  The cardiomediastinal silhouette and hilar contours are within
+     normal limits.  The pulmonary vasculature is not engorged.  There is mild
+     linear atelectasis at bilateral lung bases, left greater than right.
+     Atelectasis at the left lung base is likely related to a distended stomach but
+     is filled with gas and fluid.  Metallic stent extends from the lower esophagus
+     and to the proximal stomach.  There is no intrabdominal free air.
+     
+     IMPRESSION:
+     1.  No pneumonia.
+     2.  Bibasilar atelectasis, left greater than right.
+     3.  Slightly distended stomach filled with gas and fluid.  No intraabdominal
+     free air.
+     
+
+",,

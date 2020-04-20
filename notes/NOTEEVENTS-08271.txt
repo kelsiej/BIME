@@ -1,0 +1,1112 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8271,11697,,,3123-11-27 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date: [**3123-11-27**]      Discharge Date: [**3123-12-5**]
+
+Date of Birth:                  Sex:  F
+
+Service:  Medicine
+
+DISCHARGE MEDICATIONS:  Correction to pantoprazole, it is 40
+mg po q day, and she will also be discharged on a Heparin
+drip with an initial infusion rate 2700 units/hour, and also
+on her medications Warfarin 5 mg po hs.
+
+
+                     DR.[**First Name (STitle) **],[**First Name3 (LF) 359**] 11-691
+
+
+Dictated By:[**Dictator Info **]
+
+MEDQUIST36
+
+D:  [**3123-12-5**]  08:41
+T:  [**3123-12-5**]  08:51
+JOB#:  [**Job Number 11458**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 359**] [**Last Name (NamePattern1) **]
+ on: TUE [**3123-12-11**] 2:04 PM
+(End of Report)
+
+
+",,
+8271,11697,,,3123-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3123-11-27**] 3:53 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6456**]
+     Reason: history of hilar mass on portable.                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with history of GI bleed/INR 6.                               
+     REASON FOR THIS EXAMINATION:
+      history of hilar mass on portable.                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hilar mass identified on portable study.
+     
+     TECHNIQUE:  Single portable AP semi-upright view of the chest is obtained,
+     compared with 12 hours previous.
+     
+     FINDINGS:  There is a right IJ catheter, with the tip in the mid SVC.  There
+     is an NG tube present, although the tip cannot be visualized beyond the mid
+     thorax.  Again seen are sternotomy wires and mediastinal radiopaque clips.
+     Again seen is an approximately 15-mm right hilar opacity.  No other pulmonary
+     opacities, pleural effusions, or pneumothorax.  The lateral aspect of the left
+     lung is not visualized in this study.
+     
+     IMPRESSION:  Again seen is a right hilar mass.  Right IJ catheter is in
+     appropriate position.
+
+",,
+8271,11697,,,3123-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3123-11-27**] 3:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6455**]
+     Reason: cardiopulmonary pathology.                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with history of syncopal episode. history of avr.             
+     REASON FOR THIS EXAMINATION:
+      cardiopulmonary pathology.                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Syncope.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  This study is extremely technically limited, partially due to
+     patient body habitus.  The cardiac silhouette is enlarged and there is a right
+     hilar mass.  No prior studies are available for correlation.  The patient is
+     status post aortic valve repair and sternal wires and mediastinal clips are
+     identified.  No infiltrates or effusions.  No pneumothorax.
+     
+     A faint line is detected overlying the trachea in the upper mediastinum.  It
+     is unclear whether this represents a nasogastric tube or endotracheal tube. It
+     appears to terminate 1 cm above the carina and thus should be pulled back if
+     it is in the trachea.
+     
+     IMPRESSION:  Right hilar mass for which PA and lateral examination is
+     recommended for further evaluation.
+     
+     Extremely poor technical quality limiting differentiation between endotracheal
+     tube and nasogastric tube.  See above comment.
+
+",,
+8271,11697,,,3123-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3123-11-27**] 2:32 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6454**]
+     Reason: H/O SYNCOPE ON COUMODIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with history of syncipe. on coumadin inr if 5.5               
+     REASON FOR THIS EXAMINATION:
+      bleed, intracranial                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: History of syncope, on Coumadin, INR 5.5 , evaluate for bleed.
+     
+     TECHNIQUE: Noncontrast head CT.
+     
+     FINDINGS: There is no intra or extra-axial hemorrhage. There is no shift of
+     normally midline structures.  The ventricles, cisterns and sulci are normal.
+     There is no evidence of mass affect.  The osseous structures, paranasal
+     sinuses and soft tissues are unremarkable.
+     
+     IMPRESSION: There is no acute intracranial hemorrhage, edema or mass affect.
+     
+
+",,
+8271,11697,10293,0,3123-11-27 05:12:00 EST,3123-11-27 05:52:00 EST,-1,"N",69,"Nursing/Other","NURSING ADMISSION AND PROGRESS NOTE 2430-0700","
+NURSING ADMISSION AND PROGRESS NOTE 2430-0700
+REPORT RECEIVED FROM [**Hospital3 **].  PT ARRIVED VIA EMS AND CRITICAL CARE TRANSPORT- TX FROM STRETCHER TO MICU BED WITHOUT DIFFICULTY.  ALL ALARMS ON MONITOR ARE FUNCTIONING.
+
+THIS IS A PLEASANT 69 Y/O F WHO STATES THAT 2 DAYS AGO SHE ""BLACKED OUT"" AND FELL TO THE FLOOR.  PT LIVES ALONE AND TRIED TO GET UP ON HER OWN BUT WAS NOT ABLE TO.  SHE LAID ON THE FLOOR AT HOME FOR TWO DAYS BEFORE TRANSPORT TO [**Hospital1 **] ER.  PT WAS INCONTINENT WITH BRIGHT RED AND TARRY STOOLS.  DX WITH GI BLEED AND RABDO.  TRANSFERRED TO MICU AT [**Hospital1 **] FOR OBSERVATION AND MANAGEMENT.  PT IS A COUMADIN TAKER AND ADMITS TO BEING NONCOMPLIANT IN HAVING LEVELS CHECKED FOR 1 YEAR NOW.
+
+NEURO:  A&O X3.  SPEECH CLEAR, COOPERATIVE.  MAE X 4 ALTHOUGH WITH DIFFICULTY DUE TO OBESITY.  FOLLOWS COMMANDS.  PERLA.  NO SEIZURE ACTIVITY NOTED.  PT BROUGHT TO CT FOR HEAD SCAN- RESULTS ARE PENDING.  
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NO RUBS, GALLOPS, OR MURMURS AUSCULTATED.  DENIES ANY CHEST PAIN.  CK'S ARE ELEVATED-1692 UPON ARRIVAL ALTHOUGH TROPONIN IS NEGATIVE.  SINUS TACH WITH NO SIGNS OF ECTOPY- 100-120.  SBP > OR = TO 100.  PALPABLE PULSES TO BILATERAL RADIALS AND DORSALIS.  CRIT OF 25 AFTER 1 UNIT OF PRBC'S RECEIVED IN TRANSIT.  IN PROCESS OF TRANSFUSING WITH ONE MORE UNIT OF PRBC'S.  WILL RECHECK CRIT AND ELECTROLYTES AFTER TX.  
+
+RR:  BBS= ESSENTIALLY CLEAR.  DENIES ANY SOB OR DIFFICULTY BREATHING.  SP02 > OR = TO 95%.  RR 18-20, REGULAR.  NO INCREASED WORK OF BREATHING NOTED.
+
+GI:  ABDOMEN IS OBESE AND SOFT, DISTENDED.  BS X 4 QUADRANTS.  PASSING FLATUS.  PT HAS NOT HAD ANY BLOODY STOOLS SINCE ADMISSION.  DENIES ANY PAIN.  NG PLACED WITHOUT DIFFICULTY TO LEFT NARE-  PT TOLERATED WELL.  LAVAGED WITH 500CC- CLEAR.  POSITIVE PLACEMENT OF NG AS PER AUSCULTATION OF 30 CC OF AIR. 
+
+GU:  PT HAS BEEN VOIDING WITHOUT DIFFICULTY- INITIALLY URINE WAS BROWN AND WITH SEDIMENT- HAS CLEARED UP TO AMBER, CONCENTRATED.  
+
+INTEG:  NO SIGNS OF BREAKDOWN NOTED TO BACK OR BUTTOCKS- REDNESS NOTED TO PUBIS AREA AND UNDERNEATH ABDOMEN IN FOLDS.
+
+ACCESS:  PT INITIALLY ARRIVED WITH 2 18G PIV'S- BOTH INFILTRATED, ONLY ACCESS IS 24G TO THE LEFT WRIST AND 20G TO THE RIGHT UPPER ARM.
+
+LABS:  PT HAS AN INR OF 6- VITAMIN K RECEIVED.  
+
+PLAN:  MONITOR CRIT- OBTAIN BLOOD CULTURES X 2, URINE, RECHECK CRIT AND ELECTROLYTES, MONITOR COAGS.  POSSIBLE CANDIDATE FOR CENTRAL LINE- REQUIRES LARGE BORE ACCESS.  WBC IS 30- POSSIBLE ANTIBIOTIC TREATMENT, FLUIDS DUE TO RABDO, GI BLEED MANAGEMENT- DIAGNOSTICS AS NEEDED.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION, THANK [**Doctor First Name **]. 
+",,
+8271,11697,10293,0,3123-11-27 18:10:00 EST,3123-11-27 18:33:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Day Note MICUB-0700-1930.
+
+Neuro:  W/A, alert and oriented x3 through the day. c/o back pain, chronic w/osteoarthritis, med x2 w/Fentanyl 25ug w/effect. Calm, appropriate, pleasant, despite business of day w/blood infusions, line placement etc.She is able to move all extrtemities, but with difficulty due to obesity.
+
+CV: HCT drop to 21 this am, recieved 3 u PRBC's through day, HCT 23 between unit [**Unit Number **] and 3. Recieved 2uFFP to correct coags, has recieved total 1mg Vit. K ([**Hospital **] Hosp, ?po or sc), 5mg Vit K po this am here at BID. 1uPRBC""S at [**Hospital **] Hosp. Hemodynamically tol. blood products well. RIJ TLC inserted by medical team w/guidance of ultrasound, confirmed placement on chest x-ray, reviewed by team. Rhythm sinus tach 100-120 most of day, w occ. pac, pvc. Brief burst of SVT, approx 6 seconds w/rate to 160, subsided. S/P stable throughout. Note-pt has been taking 8 mg a day of Coumadin at home, with no f/u pt,inr for the past year. Echo done? results.Note pt. has an AVR, from 95,metallic leaflet type, also old cab.
+
+Resp:  No issues, lungs clear, diminished in bases. 02 at 2lnc, sats>97%
+
+GU:  #16 foley inserted w/ much difficulty due to anatomy, ? prolapsed bladder, and morbid obesity, requiring 2 assists. Urine random and cx sent.
+
+GI: GI team in to evaluate. Pt will have upper and lower GI series once labs are corrected. Pt. denies an ETOH problem, used to in past, now drinks a martinini or 2 a couple of times a month w/.friends.
+
+ID- WBC=30, probably due to elevated Cks's. Note pt. on floor down for 2 days. Pos. rhabdomyelosis, tx is flds only at this time.
+
+Plan: As stated above. through systems. See flowsheet for objective data.  
+",,
+8271,11697,10293,0,3123-11-28 05:03:00 EST,3123-11-28 05:17:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+NEURO: PLEASANT WOMAN AOX3, MAE, FOLLOWS COMMANDS. PT C/O BACK PAIN, MEDICATED W/ IVP FENTANYL 25MCG Q4HRS. 
+
+RESP: LS CLEAR/DIMINSHED AT BASES. PT REMAINS ON 2L NC. 02 STATS 100%. DENIES ANY SOB. 
+
+CV: HR 80-100'S NSR W/ RARE PVC'S. SBP 120-140'S. MAX TEMP 99.4. HCT AT 2000 24.3 PT GIVEN 2 UNITS PRBC'S OVERNIGHT. 0400 HCT 25.1, DR. [**First Name (STitle) **] AWARE. IVF NS AT 150CC/HR. 
+
+GI/GU: ABD SOFT, +BS, NO BM. PT DENIES ANY N/V. NGT ASPIRATED FOR 30CC BROWN FLUID W/ SMALL CLOTS. NGT REMAINS CLAMPED. PT TOLERATING SMALL AMT ICE CHIPS. FOLEY INTACT DRAINING ~100CC/HR CLEAR YELLOW URINE. 
+
+DISPO: PT CONTINUES TO HAVE LOW HCT W/ NO SIGNS OF BLEEDING. PLAN IS TO RECHECK HCT AT 0800 AND TRANSFUSE IF LESS THAN 25. NO CONTANCT FROM FAMILY OVERNIGHT. PT REMAINS A FULL CODE. 
+",,
+8271,11697,10293,0,3123-11-28 19:57:00 EST,3123-11-28 20:10:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICUB Day Note:
+
+Neuro:  Alert and oriented x3 through day. MAE, moves w/difficulty secondary to obesity. Periods of anxiety, frequent reassurance thru day. Explanations of plan of care,w/gd response from pt.
+
+CV: Rhythm sinus, Pac's, Pvcs, occas. SBP 110-170 (170 briefly at end of EGD at 1830), resolved quickly. See carevue for objective data. Temp at 99.8 prior to start of blood at 1500, increased to 100.4, reported to MICU team. One unit FFP given. Discussion after EGD between MICU and GI on Heparanizing for prosthetic valve, orders obtained-at 1950-report to night shift RN to begin Heparin, per MICU team.
+
+Resp""  No issues through day, on 2l nc. During EGD, sats dropped to 85%, mask o2 on at 100% at 1815 quickly returned to 95%, 02 down to 4lnc by 2000/Noted at 1950 with night RN audible wheezing, reported to MICU team.
+
+GU: Diuresing well. 
+
+GI: One mod. maroon BM, loose this am. Hct to 23, one unit prbc's will repeat HCT at 2000, along w/Met panel,Ptt. EGD [**Name8 (MD) 5586**] MD note. 
+
+ID- Note above temp. Wbc was as hi as 30, coming down, felt due to inflam response. CK's coming down from rhabdo. Hypernatremia, Hypovolemia treated-see carevue. Replaced Ca,K phos, Kcl, recieved 1 dose ampicillin, gentamycin prior to EGD.  Support given to pt during and after procedure. Update to sister. 
+",,
+8271,11697,10293,0,3123-11-28 22:03:00 EST,3123-11-28 22:10:00 EST,1640,"N",69,"Nursing/Other","MICU NPN 7PM-11PM:","
+MICU NPN 7PM-11PM:
+Neuro: Awake and alert, oriented times three. Very slow moving in the bed.
+
+CV: VSS
+
+Resp: Initially pt was on 50% CN with good sats. Pt had expiratory wheezing noted. Assisted pt with coughing and deep breathing and pt coughed out mod amt thick sputum. Wheezes cleared. Pt switched to O2 4L N/C. Sats 97%.
+
+GI/Heme: NPO. No stool this shift. Hct 25 at 8PM. Orderded to get one unit PRBC's over four hours. Unit hung at 9:30PM. Heparin drip started at 1400u/hr without bolus. PTT ordered for 2AM along with other AM labs.  Unit of PRBC's should finish by then. Goal PTT will be aroung 60.
+
+GU: Foley draining well 100cc/hr.
+
+
+",,
+8271,11697,10293,,3123-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3123-11-29**] 12:04 PM
+     CTA ABD W&W/O C & RECONS; CT PELVIS W/CONTRAST                  Clip # [**Clip Number (Radiology) 6460**]
+     CT ABDOMEN W/CONTRAST; 200CC NON IONIC CONTRAST SUPPLY
+     Reason: gi source.                                                  
+     Field of view: 50 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with gi bleed. currently getting 10th unit.                   
+     REASON FOR THIS EXAMINATION:
+      gi source.                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  GI bleed.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the abdomen and
+     pelvis using a mesenteric CTA protocol.
+     
+     Multiplanar reformations and volume rendering reconstructions were performed
+     at the workstation.
+     
+     CONTRAST:  150 cc Optiray IV due to fast bolus.
+     
+     ABDOMINAL CT WITHOUT AND WITH CONTRAST FINDINGS:
+     
+     There is a 9 mm hypodense lesion in Segment 8 and a less well defined
+     hypodense 9 mm lesion in Segment 6 of the liver.  The lesion in Segment 8
+     likely represents a small hepatic cyst. The lesion in Segment 6 is
+     incompletely characterized on this study.  If clinically warranted, an
+     ultrasound exam can be performed for further evaluation.  There is no free
+     fluid. The pancreas, spleen, and adrenal glands are unremarkable. There are
+     two simple kidney cysts on the left. There is vascular calcification. There is
+     no free fluid. The gallbladder is mildly distended.
+     
+     CTA ABDOMEN:
+     
+     Exam is somewhat limited due to patient's body habitus. There is no evidence
+     of extravasation of contrast.  The celiac axis, SMA are unremarkable.  There
+     are single renal arteries bilaterally.  There is vascular calcification.
+     
+     CT PELVIS WITH IV CONTRAST FINDINGS:
+     
+     There is no free fluid.  Loops of bowel are normal in contour and caliber.
+     
+     Multiplanar reformations and volume rendering images confirm the above
+     findings.
+     
+     CONCLUSION:
+     
+     1. Somewhat limited CTA exam due to patient's body habitus. However, no
+     definite extravasation is identified.
+     
+     2. Two hypodense liver lesions as described above. The lesion in Segment 8
+                                                                 (Over)
+
+     DATE: [**3123-11-29**] 12:04 PM
+     CTA ABD W&W/O C & RECONS; CT PELVIS W/CONTRAST                  Clip # [**Clip Number (Radiology) 6460**]
+     CT ABDOMEN W/CONTRAST; 200CC NON IONIC CONTRAST SUPPLY
+     Reason: gi source.                                                  
+     Field of view: 50 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     likely represents a cyst.  The lesion in Segment 6 is incompletely
+     characterized.  Please see above for discussion.
+     
+     3. Left lower lobe atelectasis.
+
+",,
+8271,11697,10293,,3123-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     GI BLEEDING STUDY                                               Clip # [**Clip Number (Radiology) 6457**]
+     Reason: 69 Y/O FEMALE WITH H/O SYNCOPE AND GI BLEED.  EGD POSITIVE ONLY FOR DUODENITIS.  EVALUATE FOR SOURCE OF GI BLEED.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Sixty-nine year old female with h/o syncope and GI bleed.  EGD  
+     positive only for duodenitis.  Evaluate for source of GI bleed.
+      
+     INTERPRETATION:  Following intravenous injection of autologous red blood cells
+     labeled with Tc-99m, blood flow and delayed images of the abdomen for 90   
+     minutes were obtained.  A static image of the abdomen was also obtained in left
+     lateral projection.
+      
+     No active gastrointestinal bleeding is seen on the current study.
+      
+     IMPRESSION:  No active GI bleeding is identified on the current study. /nkg
+                                                                           
+
+             [**Name6 (MD) 6458**] [**Name8 (MD) 6459**], M.D.
+             [**First Name11 (Name Pattern1) 485**] [**Last Name (NamePattern1) 486**], M.D.        Approved: [**Doctor First Name 114**] [**3123-11-29**] 3:56 PM
+
+
+             Date Mailed: [**3123-11-30**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8271,11697,10293,,3123-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3123-11-29**] 1:18 PM
+     CT CHEST W/CONTRAST                                             Clip # [**Clip Number (Radiology) 6461**]
+     Reason: source ? hilar mass                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with history gi bleed.                                        
+     REASON FOR THIS EXAMINATION:
+      source ? hilar mass                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hilar mass seen on recent chest X-ray.
+     
+     TECHNIQUE:  Multiple axial images of the chest were obtained after the
+     administration of intravenous contrast.
+     
+     CONTRAST:  100 cc of optiray were administered without complication.
+     
+     CT OF THE CHEST WITH INTRAVENOUS CONTRAST:  Evaluation of the soft tissue
+     reveals diffuse calcification of the aortic arch and coronary vessels.  There
+     is an AVR.  Incidental note is made of an aberrant right subclavian artery, a
+     normal variant.  The heart is normal in size.  No pleural or paracardial
+     effusion is present.
+     
+     There is prominent soft tissue density within the right hilum which is poorly
+     evaluated due to late time of the contrast bolus.  Adjacent is a 2.4 x 1.6 cm
+     mass.  Several areas of patchy consolidation within the left lower lobe could
+     represent aspiration or pneumonia.
+     
+     Multiple closure wires are present within the sternum and the patient is post
+     left mastectomy.
+     
+     No destructive lesions are seen on bone windows.
+     
+     IMPRESSION:  Nodule measuring 2.4 cm within the superior segment of the right
+     lower lobe adjacent to soft tissue density in the right hilum.  These findings
+     are suggestive of a primary lung tumor, however, the evaluation is inadequate
+     due to improper bolus timing.  It is recommended that this study be repeated
+     protocoled as a CTA of the chest.
+
+",,
+8271,11697,10293,,3123-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3123-11-29**] 12:04 PM
+     CTA ABD W&W/O C & RECONS; CT PELVIS W/CONTRAST                  Clip # [**Clip Number (Radiology) 6460**]
+     CT ABDOMEN W/CONTRAST; 200CC NON IONIC CONTRAST SUPPLY
+     Reason: gi source.                                                  
+     Field of view: 50 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with gi bleed. currently getting 10th unit.                   
+     REASON FOR THIS EXAMINATION:
+      gi source.                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  GI bleed.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the abdomen and
+     pelvis using a mesenteric CTA protocol.
+     
+     Multiplanar reformations and volume rendering reconstructions were performed
+     at the workstation.
+     
+     CONTRAST:  150 cc Optiray IV due to fast bolus.
+     
+     ABDOMINAL CT WITHOUT AND WITH CONTRAST FINDINGS:
+     
+     There is a 9 mm hypodense lesion in Segment 8 and a less well defined
+     hypodense 9 mm lesion in Segment 6 of the liver.  The lesion in Segment 8
+     likely represents a small hepatic cyst. The lesion in Segment 6 is
+     incompletely characterized on this study.  If clinically warranted, an
+     ultrasound exam can be performed for further evaluation.  There is no free
+     fluid. The pancreas, spleen, and adrenal glands are unremarkable. There are
+     two simple kidney cysts on the left. There is vascular calcification. There is
+     no free fluid. The gallbladder is mildly distended.
+     
+     CTA ABDOMEN:
+     
+     Exam is somewhat limited due to patient's body habitus. There is no evidence
+     of extravasation of contrast.  The celiac axis, SMA are unremarkable.  There
+     are single renal arteries bilaterally.  There is vascular calcification.
+     
+     CT PELVIS WITH IV CONTRAST FINDINGS:
+     
+     There is no free fluid.  Loops of bowel are normal in contour and caliber.
+     
+     Multiplanar reformations and volume rendering images confirm the above
+     findings.
+     
+     CONCLUSION:
+     
+     1. Somewhat limited CTA exam due to patient's body habitus. However, no
+     definite extravasation is identified.
+     
+     2. Two hypodense liver lesions as described above. The lesion in Segment 8
+                                                                 (Over)
+
+     DATE: [**3123-11-29**] 12:04 PM
+     CTA ABD W&W/O C & RECONS; CT PELVIS W/CONTRAST                  Clip # [**Clip Number (Radiology) 6460**]
+     CT ABDOMEN W/CONTRAST; 200CC NON IONIC CONTRAST SUPPLY
+     Reason: gi source.                                                  
+     Field of view: 50 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     likely represents a cyst.  The lesion in Segment 6 is incompletely
+     characterized.  Please see above for discussion.
+     
+     3. Left lower lobe atelectasis.
+
+",,
+8271,11697,10293,,3123-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3123-11-29**] 12:04 PM
+     CTA ABD W&W/O C & RECONS; CT PELVIS W/CONTRAST                  Clip # [**Clip Number (Radiology) 6460**]
+     CT ABDOMEN W/CONTRAST; 200CC NON IONIC CONTRAST SUPPLY
+     Reason: gi source.                                                  
+     Field of view: 50 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with gi bleed. currently getting 10th unit.                   
+     REASON FOR THIS EXAMINATION:
+      gi source.                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  GI bleed.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the abdomen and
+     pelvis using a mesenteric CTA protocol.
+     
+     Multiplanar reformations and volume rendering reconstructions were performed
+     at the workstation.
+     
+     CONTRAST:  150 cc Optiray IV due to fast bolus.
+     
+     ABDOMINAL CT WITHOUT AND WITH CONTRAST FINDINGS:
+     
+     There is a 9 mm hypodense lesion in Segment 8 and a less well defined
+     hypodense 9 mm lesion in Segment 6 of the liver.  The lesion in Segment 8
+     likely represents a small hepatic cyst. The lesion in Segment 6 is
+     incompletely characterized on this study.  If clinically warranted, an
+     ultrasound exam can be performed for further evaluation.  There is no free
+     fluid. The pancreas, spleen, and adrenal glands are unremarkable. There are
+     two simple kidney cysts on the left. There is vascular calcification. There is
+     no free fluid. The gallbladder is mildly distended.
+     
+     CTA ABDOMEN:
+     
+     Exam is somewhat limited due to patient's body habitus. There is no evidence
+     of extravasation of contrast.  The celiac axis, SMA are unremarkable.  There
+     are single renal arteries bilaterally.  There is vascular calcification.
+     
+     CT PELVIS WITH IV CONTRAST FINDINGS:
+     
+     There is no free fluid.  Loops of bowel are normal in contour and caliber.
+     
+     Multiplanar reformations and volume rendering images confirm the above
+     findings.
+     
+     CONCLUSION:
+     
+     1. Somewhat limited CTA exam due to patient's body habitus. However, no
+     definite extravasation is identified.
+     
+     2. Two hypodense liver lesions as described above. The lesion in Segment 8
+                                                                 (Over)
+
+     DATE: [**3123-11-29**] 12:04 PM
+     CTA ABD W&W/O C & RECONS; CT PELVIS W/CONTRAST                  Clip # [**Clip Number (Radiology) 6460**]
+     CT ABDOMEN W/CONTRAST; 200CC NON IONIC CONTRAST SUPPLY
+     Reason: gi source.                                                  
+     Field of view: 50 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     likely represents a cyst.  The lesion in Segment 6 is incompletely
+     characterized.  Please see above for discussion.
+     
+     3. Left lower lobe atelectasis.
+
+",,
+8271,11697,10293,,3123-11-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3123-11-29**] 12:04 PM
+     CTA ABD W&W/O C & RECONS; CT PELVIS W/CONTRAST                  Clip # [**Clip Number (Radiology) 6460**]
+     CT ABDOMEN W/CONTRAST; 200CC NON IONIC CONTRAST SUPPLY
+     Reason: gi source.                                                  
+     Field of view: 50 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with gi bleed. currently getting 10th unit.                   
+     REASON FOR THIS EXAMINATION:
+      gi source.                                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  GI bleed.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the abdomen and
+     pelvis using a mesenteric CTA protocol.
+     
+     Multiplanar reformations and volume rendering reconstructions were performed
+     at the workstation.
+     
+     CONTRAST:  150 cc Optiray IV due to fast bolus.
+     
+     ABDOMINAL CT WITHOUT AND WITH CONTRAST FINDINGS:
+     
+     There is a 9 mm hypodense lesion in Segment 8 and a less well defined
+     hypodense 9 mm lesion in Segment 6 of the liver.  The lesion in Segment 8
+     likely represents a small hepatic cyst. The lesion in Segment 6 is
+     incompletely characterized on this study.  If clinically warranted, an
+     ultrasound exam can be performed for further evaluation.  There is no free
+     fluid. The pancreas, spleen, and adrenal glands are unremarkable. There are
+     two simple kidney cysts on the left. There is vascular calcification. There is
+     no free fluid. The gallbladder is mildly distended.
+     
+     CTA ABDOMEN:
+     
+     Exam is somewhat limited due to patient's body habitus. There is no evidence
+     of extravasation of contrast.  The celiac axis, SMA are unremarkable.  There
+     are single renal arteries bilaterally.  There is vascular calcification.
+     
+     CT PELVIS WITH IV CONTRAST FINDINGS:
+     
+     There is no free fluid.  Loops of bowel are normal in contour and caliber.
+     
+     Multiplanar reformations and volume rendering images confirm the above
+     findings.
+     
+     CONCLUSION:
+     
+     1. Somewhat limited CTA exam due to patient's body habitus. However, no
+     definite extravasation is identified.
+     
+     2. Two hypodense liver lesions as described above. The lesion in Segment 8
+                                                                 (Over)
+
+     DATE: [**3123-11-29**] 12:04 PM
+     CTA ABD W&W/O C & RECONS; CT PELVIS W/CONTRAST                  Clip # [**Clip Number (Radiology) 6460**]
+     CT ABDOMEN W/CONTRAST; 200CC NON IONIC CONTRAST SUPPLY
+     Reason: gi source.                                                  
+     Field of view: 50 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     likely represents a cyst.  The lesion in Segment 6 is incompletely
+     characterized.  Please see above for discussion.
+     
+     3. Left lower lobe atelectasis.
+
+",,
+8271,11697,10293,0,3123-11-29 05:24:00 EST,3123-11-29 05:49:00 EST,-1,"N",69,"Nursing/Other",,"
+
+D Neuro: Alert and Oriented able to move all extremies but does not show full ROM in legs co discomfort on bending knee. Requires assistance of at least 3 to turn.
+CV :NSR with frequent PVC's multifocal and some cupplets. DP palpable but week. feet warm. RIJ 3 lumen.Transfused 1unit of PRBC 2nd is infusing HCT 25.6 after 1st unit. currently repleating K-phos,MG,potassium,and Ca.Heparin @ 1400u ptt 67
+Lungs : clear in all field with some coarseness @ times cleared with TCDP. NC 4L. SAT>95. 
+GU foley to gravity good urine output.
+GI Abd soft. bowel sounds present. no BM this shift passing large amt of flatus..
+Skin: The tissue around the anus both R/L botuck is excoriated and red. Area washed  with soap and water and skin prep applied.
+A stable. pt needs good skin care.
+R TCDP,  incourage patient to remain on side. ,repeat labs at 8am. obtain large bed for patient if able.  
+",,
+8271,11697,10293,0,3123-11-29 16:03:00 EST,3123-11-29 16:11:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICU B Nursing Progress Note (0700-1900)
+
+CNS: Pt. alert, oriented and cooperative. Became quite nervous during tests (i.e. CT and bleeding scan), but responded well to frequent reassurance. 
+
+GI: No nausea or vomiting. Abdomen soft and non-tender with active bowel sounds throughout. Passing flatus, but no stools. NPO except for a few ice chips. Hct 26 after tenth unit of PRBC's. Eleventh finishing at this time, will recheck Hct. Results of abdominal CT pending, bleeding scan negative. Surgery to be consulted. 
+
+RESP: Lungs clear, but diminished. Sats of 100% on 4lnc. 
+
+CVS: Heart rate in the 80's, NSR. B/P 120-150/syst. Heparin gtt dc'ed in light of continued transfusion requirement...?anticoagulation status with AVR.
+
+ID: Low grade temp of 99.2po. 
+
+F and E: Lytes were repleted last evening/night...will recheck with next blood draw. Excellent hourly output...currently 1.4L positive today. 
+
+SOCIAL: Niece in to visit...states she and pt. have been estranged, but pt. had asked to see her. 
+",,
+8271,11697,10293,0,3123-11-29 18:09:00 EST,3123-11-29 18:11:00 EST,2202,"N",69,"Nursing/Other",,"
+
+Addendum: Hct of 29.6 after eleventh unit of PRBC's. GI is recommending colonoscopy [**11-30**]...pt. is refusing at this time will have H.O. speak with her.
+",,
+8271,11697,10293,0,3123-11-30 07:15:00 EST,3123-11-30 07:25:00 EST,-1,"N",69,"Nursing/Other",,"
+
+review of systems:
+
+Neuro: pt is alert and oreinted x 3. pt answers all questions appropriatly.
+
+Resp: pt remains on 4 liters NC, pt sao2 > 95%. pt BS are diminished in all fields.
+
+CV: pt BP remained stable WNL, pt currently 198/41, pt remains in a NSR with rare PVC's, pt was replaced with K and Mg last night and is due for Phos today.  Pt recived go-lightly lst night and pt had many large [**Doctor First Name 5587**] stools through out night, Dr [**Last Name (STitle) 5588**] made aware.  HCT remains stable.
+
+GU: Pt UO is low about 30-40cc/hr of clear yellow urine.
+",,
+8271,11697,10293,0,3123-11-30 16:30:00 EST,3123-11-30 16:43:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICU B Nursing Progress Note (0700-1900)
+
+CNS: Pt. alert, oriented and cooperative. Very pleasant. Initially refusing prep and colonoscopy, but after discussion with team she did agree. 
+
+GI: Pt. has been prepping with go-lytely all day. She is now passing large amounts (+1300cc) liquid, brown material via mushroom catheter. ?colonoscopy later this afternoon. Hct has remained stable at 29. 
+
+CVS: Hemodynamically stable with heart rate in the 70's and B/P 110-140/syst. 
+
+F and E: Even fluid balance, including large amount of stool output. 
+
+RESP: Sats of 96% on 4lnc. Lungs with diminished breath sounds throughout. 
+
+SKIN: Aloe vestra cream applied to breakdown on right gluteal fold. Pt. placed on bari-air bed in order to prevent further breakdown and in order to make positioning easier. 
+
+SOCIAL: Niece and sister in today. Pt. also being followed by social work. Pt. will most definitely require help with management at home when she returns. 
+
+
+",,
+8271,11697,10293,0,3123-12-01 04:39:00 EST,3123-12-01 04:44:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Night Note MICUB
+
+Neuro: Pt exhausted, stated she had not slept for almost a week, so many interuptions. Neuro intact. Prn comfort measures, pt. fell off to [**Doctor Last Name 5**], and slept most of the night, adjusting to new big boy bed.
+
+CV-SR w/ pvc's, stable B/P
+
+Resp:  On 2lnc, sats >95%, one dip into 80's on r/a, quickly came back up. Lung fields decreased in bases. Resp. smooth and even.
+
+GU-diuresing well.
+
+GI- taking a break from Go -litely prep, GI team in to see, plan to restart prep on Sunday for diagnostic colonoscopy on Monday. Liquid brown stool via mushroom rectal cath. Abd soft.
+
+No insulin coverage required.
+
+No Family in this evening.
+See carevue for all objective data.
+",,
+8271,11697,10293,0,3123-12-01 17:49:00 EST,3123-12-01 17:59:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7A-7P
+
+NEURO: PT AOX3, MAE, FOLLOWS COMMANDS. PT DENIES ANY PAIN. 
+
+RESP: PT ON RA W/ O2 SATS 93-97%. LS CLEAR/DIMINSHED AT BASES. PT DENIES ANY SOB. 
+
+CV: HR NSR 80-90'S W/ RARE PVC'S. SBP 100-130. REPLACED K+, CA+, AND PHOS THIS AM. HCT THIS AM 29.0, REPEAT HCT FROM 1730 PENDING. 
+
+GI/GU: +BS, SMALL AMT, 50CC, LOOSE BROWN STOOL COLLECTED PER MUSHROOM CATH. SMALL AMT BLACK TARRY STOOL NOTED ON PADS X1 TODAY. FOELY INTACT DRAINING CLEAR YELLOW URINE ~200CC/HR. PT TOLERATING CLEARS. DENIES N/V. 
+
+ENDO: BS 130 AND 112 NOT REQUIRING INSULIN COVERAGE. 
+
+PLAN: PT IS SCHEDULED FOR COLONOSCOPY ON MON AM. PT IS AWAITING A MEDICAL FLOOR BED. FAMILY IN THROUGHT OUT DAY TO VISIT. PT REMAINS A FULL CODE IN MICU. 
+",,
+8271,,,,3124-07-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-7-28**] 4:50 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 6462**]
+     Reason: pt c/o difuse abd pain, no bowel movements past 2 weeks, + f
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      pt c/o difuse abd pain, no bowel movements past 2 weeks, + flatus
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     SUPINE AND ERECT ABDOMEN
+     
+     INDICATION:  Diffuse abdominal pain with no bowel movement for two weeks.
+     
+     FINDINGS:  Supine and erect views of the abdomen show no free air.  There are
+     no air-fluid levels or dilated loops of bowel seen.  However, there is an
+     abundant amount of stool throughout the large bowel, with air seen in the
+     distal colon.
+     
+     Incidental note is made of median sternotomy wires overlying the lower
+     mediastinum which show evidence of fragmentation and disruption.  In
+     addition, there is apparent left sided scoliotic curvature of the lumbar
+     spine.
+     
+     IMPRESSION:  Stool filled colon.  No evidence for obstruction.
+
+",,
+8271,,,,3124-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-7-31**] 9:13 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6464**]
+     Reason: CAD, CABG, AMS - ? BLEED
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     The frontal lobe  abnormality has evolved since the prior CT study of Decmeber
+     3, 2002.
+     
+
+
+     DATE: [**3124-7-31**] 9:13 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6464**]
+     Reason: CAD, CABG, AMS - ? BLEED
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     There is a soft tissue mass in the right occipital scalp and osteolysis in the
+     adjacent bone- this finding raises the likelihood that the frontal bone lesion
+     is a metatasis.
+     
+
+
+     DATE: [**3124-7-31**] 9:13 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6464**]
+     Reason: CAD, CABG, AMS - ? BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with CAD s/p CABG, AVR.
+     REASON FOR THIS EXAMINATION:
+      altered mental status
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DRS [**First Name (STitle) 114**] [**3124-7-31**] 9:35 PM
+      1. subacute hemorr CVA >> 2. met
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED) *ABNORMAL!
+     INDICATION:  History of CABG and coronary artery disease with altered mental
+     status.
+     
+     TECHNIQUE:  Non-contrast axial images were obtained from the skull base to the
+     vertex.
+     
+     CT OF THE HEAD WITHOUT IV CONTRAST:  There is an extensive amount of edema
+     within the left frontal lobe, which appears in regions to extend to the
+     cortex.  There is loss of the [**Doctor Last Name 30**]-white matter differentiation in these
+     regions.  There is a 3cm,  somewhat higher attenuation and well circumscribed
+     and partially lobulated slightly hyperdense region within the central portion
+     of this edema, which also appears to contact the skull surface in certain
+     regions. There is rightward subfalcine shift.  There is also moderate
+     compression of the frontal horns of the lateral ventricles.  There is no other
+     evidence of acute extra- or intraaxial hemorrhage.  The surrounding sulci are
+     effaced. The [**Doctor Last Name 30**]-white matter differentiation is preserved in the other
+     portions of the brain.  The osseous structures, paranasal sinuses and soft
+     tissues are unremarkable.
+     
+     IMPRESSION:  Given the patient's history, the lesion could be consistent with
+     a subacute hemorrhage/hemorrhagic infarction.  However, if the patient has a
+     known primary malignancy, this could also less likely represent a metastasis.
+     Contrast enhanced imaging, either CT or MR, is recommended, for
+     differentiation of these diagnoses.
+     
+
+",,
+8271,,,,3124-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-7-31**] 9:13 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6463**]
+     Reason: question of lung mass on CXR at outside hospital, also menta
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with cad s/p CABG, AVR.
+     REASON FOR THIS EXAMINATION:
+      question of lung mass on CXR at outside hospital, also mental status changes.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post CABG and aortic valve replacement with lung mass seen
+     on outside chest radiograph.
+     
+     CHEST, AP AND LATERAL VIEWS:  The heart size is within the upper limits of
+     normal in a patient status post median sternotomy and aortic valve
+     replacement.  The right hilar mass now measures 6.3 x 5.1 cm, increased since
+     the previous study.  There is also increasing right paratracheal adenopathy.
+     The lateral agian shows the hilar and mediastinal adenopathy, as well as at
+     least two rounded parenchymal nodules in the lung bases (not well seen
+     on the frontal view). The soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION:  Enlarging right hilar mass, with increasing paratracheal
+     adenopathy and findings consistent with pulmonary parencymal metastases. 
+     
+     
+
+",,
+8271,,,,3124-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-8-1**] 4:02 AM
+     MR L SPINE SCAN; MR THORACIC SPINE                              Clip # [**Clip Number (Radiology) 6465**]
+     Reason: eval for met to spine  - pt with urinary retention and poor 
+     Admitting Diagnosis: URINARY TRACT INFECTION-ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with MS changes, lung mass, CT with possible Met vs subacute 
+      infarct in setting of supratherapeutic INR
+     REASON FOR THIS EXAMINATION:
+      eval for met to spine  - pt with urinary retention and poor rectal tone. please 
+      include T spine
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mental status changes, urinary retention and poor rectal tone.
+     
+     TECHNIQUE: Multiplanar T1 and T2 weighted/inversion recovery noncontrast MRI
+     of the thoracic spine.
+     
+     FINDINGS: On the scout images there is a large right hilar mass which was
+     previously described on a chest CT of [**3123-11-29**].
+     
+     The vertebral body of T9 is almost entirely replaced by abnormal low T1 and T2
+     signal. There is retropulsion of T9 and the infiltrating lesion into the
+     spinal canal with moderate cord compression. The T9 infiltrating lesion
+     extends into the left pedicle and left transverse process. There is also a
+     smaller T1 and T2 weighted hypointense lesion within T8.  There are T1 and T2
+     weighted hyperintense of T1 and T8 which are most consistent with hemangiomas.
+     There is a mild anterior compression deformity of T3.
+     
+     IMPRESSION:
+     1) Spinal metastases in this patient with a large right hilar mass with
+     moderate cord compression at the level of T9.
+     
+     
+     TECHNIQUE: T1 and T2 weighted noncontrast MRI of the lumbar spine.
+     
+     FINDINGS:  There is a large expansile lesion involving the majority of the
+     sacrum with some sparing of the right side of the sacrum.
+     
+     There is  multilevel disc desiccation with loss of L4-5 intervertebral disc
+     space and degenerative changes to the L4-5 endplates. There are also
+     degenerative changes to the posterior facets of the lower lumbar spine. There
+     is a L4-5 posterior disc protrusion with mild narrowing of the left neural
+     foramen.
+     
+     The large sacral mass impinges upon the spinal canal and multiple neural
+     foramina particularly the left S2 and S3 nerve roots.
+     
+     IMPRESSION:
+     1) Large sacral metastasis.
+     2) The findings of both the thoracic and lumbar spine were discussed with Dr.
+     [**First Name (STitle) 6466**].
+     
+                                                                 (Over)
+
+     DATE: [**3124-8-1**] 4:02 AM
+     MR L SPINE SCAN; MR THORACIC SPINE                              Clip # [**Clip Number (Radiology) 6465**]
+     Reason: eval for met to spine  - pt with urinary retention and poor 
+     Admitting Diagnosis: URINARY TRACT INFECTION-ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8271,,,,3124-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-8-1**] 4:02 AM
+     MR L SPINE SCAN; MR THORACIC SPINE                              Clip # [**Clip Number (Radiology) 6465**]
+     Reason: eval for met to spine  - pt with urinary retention and poor 
+     Admitting Diagnosis: URINARY TRACT INFECTION-ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with MS changes, lung mass, CT with possible Met vs subacute 
+      infarct in setting of supratherapeutic INR
+     REASON FOR THIS EXAMINATION:
+      eval for met to spine  - pt with urinary retention and poor rectal tone. please 
+      include T spine
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mental status changes, urinary retention and poor rectal tone.
+     
+     TECHNIQUE: Multiplanar T1 and T2 weighted/inversion recovery noncontrast MRI
+     of the thoracic spine.
+     
+     FINDINGS: On the scout images there is a large right hilar mass which was
+     previously described on a chest CT of [**3123-11-29**].
+     
+     The vertebral body of T9 is almost entirely replaced by abnormal low T1 and T2
+     signal. There is retropulsion of T9 and the infiltrating lesion into the
+     spinal canal with moderate cord compression. The T9 infiltrating lesion
+     extends into the left pedicle and left transverse process. There is also a
+     smaller T1 and T2 weighted hypointense lesion within T8.  There are T1 and T2
+     weighted hyperintense of T1 and T8 which are most consistent with hemangiomas.
+     There is a mild anterior compression deformity of T3.
+     
+     IMPRESSION:
+     1) Spinal metastases in this patient with a large right hilar mass with
+     moderate cord compression at the level of T9.
+     
+     
+     TECHNIQUE: T1 and T2 weighted noncontrast MRI of the lumbar spine.
+     
+     FINDINGS:  There is a large expansile lesion involving the majority of the
+     sacrum with some sparing of the right side of the sacrum.
+     
+     There is  multilevel disc desiccation with loss of L4-5 intervertebral disc
+     space and degenerative changes to the L4-5 endplates. There are also
+     degenerative changes to the posterior facets of the lower lumbar spine. There
+     is a L4-5 posterior disc protrusion with mild narrowing of the left neural
+     foramen.
+     
+     The large sacral mass impinges upon the spinal canal and multiple neural
+     foramina particularly the left S2 and S3 nerve roots.
+     
+     IMPRESSION:
+     1) Large sacral metastasis.
+     2) The findings of both the thoracic and lumbar spine were discussed with Dr.
+     [**First Name (STitle) 6466**].
+     
+                                                                 (Over)
+
+     DATE: [**3124-8-1**] 4:02 AM
+     MR L SPINE SCAN; MR THORACIC SPINE                              Clip # [**Clip Number (Radiology) 6465**]
+     Reason: eval for met to spine  - pt with urinary retention and poor 
+     Admitting Diagnosis: URINARY TRACT INFECTION-ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8271,,,,3124-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-8-1**] 4:02 AM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 6467**]
+     Reason: PT. W/ MS CHANGES, LUNG MASS.
+     Admitting Diagnosis: URINARY TRACT INFECTION-ALTERED MENTAL STATUS
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with MS changes, lung mass, CT with possible Met vs subacute 
+      infarct in setting of supratherapeutic INR
+     REASON FOR THIS EXAMINATION:
+      eval for brain met                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Mental status changes.  Lung mass.
+     
+     COMPARISON:  Head CT [**3124-7-31**] and [**3123-11-27**].
+     
+     TECHNIQUE:  Multiplanar T1W/T2W/susceptibility/FLAIR pre and post contrast MRI
+     of the brain.  20 cc of IV gadolinium were used with no immediate
+     complication.
+     
+     FINDINGS:  There is a large abnormally enhancing left frontal lobe mass with
+     adjacent edema.  The mass contains heterogeneous low signal on susceptibility
+     images, but no calcifications are visualized on yesterday's head CT.  There is
+     left to right subfalcine shift and effacement of the frontal [**Doctor Last Name 234**] of the left
+     lateral ventricle.  Other smaller abnormally enhancing intraparenchymal foci
+     are also present including left occipital, two other left frontal, and
+     probable a right frontal lesion.  However, patient motion limits evaluation
+     and other lesions may be present.  The major intracranial flow voids are
+     preserved.  The visualized paranasal sinuses are clear.  There is also a
+     lesion arising from the right occipital bone, unchanged in appearance compared
+     to the recent head CT.  None of the above lesions were visualized on the
+     noncontrast head CT of [**3123-11-27**].
+     
+     IMPRESSION:  Multiple metastatic lesions involving the brain and right
+     occiput.  The large left frontal metastasis contains susceptibility artifact
+     which may represent blood products.
+     
+     These findings were discussed with Dr. [**First Name (STitle) 6466**].
+     
+
+",,
+8271,,,,3124-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-8-1**] 10:54 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 6468**]
+     Reason: ? righ lung mass- can this be CT biopsied.                  
+     Admitting Diagnosis: URINARY TRACT INFECTION-ALTERED MENTAL STATUS
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with right hilar mass that has apparent brain mets.           
+     REASON FOR THIS EXAMINATION:
+      ? righ lung mass- can this be CT biopsied.                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right hilar mass and brain metastases.
+     
+     TECHNIQUE: Helical CT of the chest was performed following IV contrast
+     administration.
+     
+     CONTRAST: 100 cc Optiray administered due to patient debility. There were no
+     complicatoins.
+     
+     COMPARISONS: CT chest [**3123-11-29**]
+     
+     CT CHEST WITH CONTRAST:  In comparison to prior study, a superior segment
+     right lower lobe nodule has increased in size from 1.3 x 1.4 cm to 2.8 x 2.5
+     cm.  Conglomerate right hilar lymphadenopathy has also increased with a
+     dominant nodal mass measuring 3.9 x 4.8 cm.  There are enlarged precarinal,
+     right paratracheal, and pretracheal lymph nodes.  No other lung masses are
+     identified.  No obstructing endobronchial lesions are identified. No axillary
+     or left hilar adenopathy identified.
+     
+     Incidental note is made of an aberrant right subclavian artery. No pleural or
+     pericardial effusion is identified. There is diffuse calcification of the
+     coronary arteries. Within the imaged upper abdomen a tiny (2-3mm) low
+     attenuation lesion within the dome of the liver is unchanged in appearance
+     from prior study.  the visualized superior portions of the pancreas, spleen,
+     and adrenal glands are normal in appearance.
+     
+     No destructive osseous lesions are identified.
+     
+     IMPRESSION:
+     
+     Interval progression of what is likely a primary lung carcinoma with increase
+     in size of the nodule in the superior segment of the right lower lobe. There
+     has been an associated increase in size of multiple right hilar lymph nodes,
+     and lymphadenopathy now extends into the precarinal, paratracheal and
+     pretracheal regions.
+
+",,
+8271,,,,3124-08-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-8-1**] 10:54 AM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 6468**]
+     Reason: ? righ lung mass- can this be CT biopsied.                  
+     Admitting Diagnosis: URINARY TRACT INFECTION-ALTERED MENTAL STATUS
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with right hilar mass that has apparent brain mets.           
+     REASON FOR THIS EXAMINATION:
+      ? righ lung mass- can this be CT biopsied.                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right hilar mass and brain metastases.
+     
+     TECHNIQUE: Helical CT of the chest was performed following IV contrast
+     administration.
+     
+     CONTRAST: 100 cc Optiray administered due to patient debility. There were no
+     complicatoins.
+     
+     COMPARISONS: CT chest [**3123-11-29**]
+     
+     CT CHEST WITH CONTRAST:  In comparison to prior study, a superior segment
+     right lower lobe nodule has increased in size from 1.3 x 1.4 cm to 2.8 x 2.5
+     cm.  Conglomerate right hilar lymphadenopathy has also increased with a
+     dominant nodal mass measuring 3.9 x 4.8 cm.  There are enlarged precarinal,
+     right paratracheal, and pretracheal lymph nodes.  No other lung masses are
+     identified.  No obstructing endobronchial lesions are identified. No axillary
+     or left hilar adenopathy identified.
+     
+     Incidental note is made of an aberrant right subclavian artery. No pleural or
+     pericardial effusion is identified. There is diffuse calcification of the
+     coronary arteries. Within the imaged upper abdomen a tiny (2-3mm) low
+     attenuation lesion within the dome of the liver is unchanged in appearance
+     from prior study.  the visualized superior portions of the pancreas, spleen,
+     and adrenal glands are normal in appearance.
+     
+     No destructive osseous lesions are identified.
+     
+     IMPRESSION:
+     
+     Interval progression of what is likely a primary lung carcinoma with increase
+     in size of the nodule in the superior segment of the right lower lobe. There
+     has been an associated increase in size of multiple right hilar lymph nodes,
+     and lymphadenopathy now extends into the precarinal, paratracheal and
+     pretracheal regions.
+
+",,
+8271,,,,3124-08-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3124-8-5**] 4:09 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6469**]
+     Reason: please r/o pulmonary edema                                  
+     Admitting Diagnosis: URINARY TRACT INFECTION-ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old woman with metastatic lung CA and s/p MVR- today with afib with RVR 
+     REASON FOR THIS EXAMINATION:
+      please r/o pulmonary edema                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Status post mitral valve surgery. Evaluate for pulmonary
+     edema.
+     
+     The patient is status post median sternotomy. The heart is enlarged. There is
+     persistent widening of the right mediastinum and right hilar contours. The
+     left mediastinal and left hilar contours are normal. The pulmonary vascularity
+     is normal, and the imaged portions of the lungs appear grossly clear. Please
+     note that the right costophrenic angle area has been excluded from the
+     radiograph and cannot be assessed.
+     
+     IMPRESSION:
+     1. No radiographic evidence of pulmonary edema.
+     2. Widening of right mediastinal and hilar contours, suggestive of
+     lymphadenopathy. This could be due to small cell lung cancer or metastatic
+     disease. Please see dedicated report of CT of the chest from [**3124-8-1**].
+
+",,

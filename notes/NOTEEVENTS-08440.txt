@@ -1,0 +1,2527 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2553-7-16**]              Discharge Date:   [**2553-8-1**]
+ 
+Date of Birth:  [**2461-4-27**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending:[**First Name3 (LF) 5669**] 
+Chief Complaint:
+Rectal bleeding.
+ 
+Major Surgical or Invasive Procedure:
+1. EGD 
+2. Colonoscopy 
+3. Endotracheal intubation 
+4. Peripherally inserted central catheter (""PICC"") 
+
+ 
+History of Present Illness:
+[**Age over 90 **]-year-old female with h/o COPD and hypertension, sent to the 
+ED by VNA for evaluation of rectal bleeding for a one week, not 
+taking care of herself and urinary incontinence. 
+.
+In the ED, she had copious maroon stool and BRBPR. Her intial 
+vital signs were 98.1 P 95 BP 99/41 85% on 8L. Her BP dropped to 
+66/50 and her O2 was unable to be maintained with  NRB. Her NG 
+lavage was negative. EKG showed ST depression in V3-V6. Surgery, 
+GI, IR and cardiology were consulted. Her initial Hct 15. She 
+received 6 L IVF, 2 u FFP and 8 u RBC w/ Hct to 34. Patient was 
+intubated after 2nd unit of blood for respiratory failure. 
+.
+Mesenteric angiogram was performed which was negative. Patient 
+was transferred to the MICU in stable condition.
+ 
+Past Medical History:
+COPD.  
+Hypertension. 
+spinal stenosis 
+severe bilateral neural foramina narrowing
+obesity
+Chronic lower extremity edema.  
+Chronic urinary incontinence.  
+atrial fibrillation
+
+ 
+Social History:
+The patient is retired schoolteacher. Denies tobacco, alcohol, 
+or drug use.  Patient has had  Suburban VNA for several years to 
+help with frequent care of leg and breakdown.
+ 
+Family History:
+NC
+ 
+Physical Exam:
+T97.5 BP 100/57 P 76 on AC FiO2 0.5 500x14 PEEP 10
+Gen- intubated sedated
+HEENT- anicteric, oral mucosa dry, neck supple
+CV- irregularly irregular, no r/m/g
+resp- CTAB
+[**Last Name (un) 1834**]- NT/ND, soft, no bowel sound
+extremity- chronic venous stasis
+ 
+Pertinent Results:
+[**2553-7-16**] 06:26PM   TYPE-ART PO2-468* PCO2-36 PH-7.37 TOTAL 
+CO2-22 BASE XS--3
+[**2553-7-16**] 06:14PM   GLUCOSE-121* UREA N-80* CREAT-1.3* SODIUM-145 
+POTASSIUM-3.5 CHLORIDE-115* TOTAL CO2-19* ANION GAP-15
+[**2553-7-16**] 06:14PM   CK(CPK)-85
+[**2553-7-16**] 06:14PM   CALCIUM-6.9* PHOSPHATE-3.9 MAGNESIUM-1.7
+[**2553-7-16**] 06:14PM   WBC-13.9* RBC-4.37# HGB-12.9 HCT-37.1 MCV-85 
+MCH-29.4 MCHC-34.7# RDW-15.7*
+[**2553-7-16**] 06:14PM   PLT COUNT-143*#
+[**2553-7-16**] 10:50AM URINE  COLOR-Straw APPEAR-Clear SP [**Last Name (un) **]-1.016
+[**2553-7-16**] 10:50AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 
+LEUK-NEG
+[**2553-7-16**] 10:45AM   cTropnT-0.03*
+[**2553-7-16**] 10:37AM   LACTATE-3.3*
+[**2553-8-1**] 07:00AM BLOOD WBC-9.5 RBC-3.73* Hgb-11.1* Hct-33.1* 
+MCV-89 MCH-29.9 MCHC-33.7 RDW-14.9 Plt Ct-122*
+[**2553-7-31**] 02:10PM BLOOD WBC-8.1 RBC-3.88* Hgb-11.5* Hct-34.7* 
+MCV-89 MCH-29.6 MCHC-33.1 RDW-15.0 Plt Ct-153
+[**2553-7-30**] 05:00AM BLOOD WBC-9.7 RBC-3.72* Hgb-11.0* Hct-33.9* 
+MCV-91 MCH-29.6 MCHC-32.5 RDW-15.6* Plt Ct-152
+[**2553-7-28**] 07:15PM BLOOD Hct-27.9*
+[**2553-7-28**] 06:00AM BLOOD WBC-8.0 RBC-3.20* Hgb-9.3* Hct-29.5* 
+MCV-92 MCH-29.2 MCHC-31.7 RDW-15.1 Plt Ct-151
+[**2553-7-27**] 04:25PM BLOOD Hct-29.6*
+[**2553-7-27**] 04:50AM BLOOD WBC-10.3 RBC-3.30* Hgb-9.8* Hct-30.2* 
+MCV-92 MCH-29.9 MCHC-32.6 RDW-15.3 Plt Ct-176
+[**2553-7-24**] 05:48AM BLOOD WBC-19.2* RBC-3.44* Hgb-9.9* Hct-31.8* 
+MCV-93 MCH-28.8 MCHC-31.1 RDW-15.4 Plt Ct-161
+[**2553-7-23**] 08:30AM BLOOD WBC-25.5* RBC-3.55* Hgb-10.4* Hct-31.9* 
+MCV-90 MCH-29.4 MCHC-32.7 RDW-15.4 Plt Ct-149*
+[**2553-7-21**] 06:25AM BLOOD WBC-27.9*# RBC-4.06* Hgb-12.1 Hct-36.5 
+MCV-90 MCH-29.6 MCHC-33.0 RDW-15.8* Plt Ct-130*
+[**2553-7-20**] 05:00AM BLOOD WBC-12.9* RBC-4.18* Hgb-12.6 Hct-37.2 
+MCV-89 MCH-30.1 MCHC-33.8 RDW-15.9* Plt Ct-132*
+[**2553-7-19**] 04:00AM BLOOD WBC-14.8* RBC-4.66 Hgb-13.7 Hct-40.9 
+MCV-88 MCH-29.3 MCHC-33.3 RDW-15.9* Plt Ct-108*
+[**2553-7-24**] 05:48AM BLOOD Neuts-90.2* Bands-0 Lymphs-7.7* 
+Monos-1.5* Eos-0.5 Baso-0.1
+[**2553-7-25**] 05:10AM BLOOD Neuts-83.6* Lymphs-12.4* Monos-2.3 
+Eos-1.5 Baso-0.2
+[**2553-8-1**] 07:00AM BLOOD Plt Ct-122*
+[**2553-7-31**] 02:10PM BLOOD Plt Ct-153
+[**2553-7-30**] 05:00AM BLOOD Plt Ct-152
+[**2553-7-23**] 08:30AM BLOOD PT-13.3 PTT-26.6 INR(PT)-1.2
+[**2553-7-31**] 02:10PM BLOOD Glucose-156* UreaN-14 Creat-1.2* Na-141 
+K-3.1* Cl-95* HCO3-39* AnGap-10
+[**2553-7-30**] 05:00AM BLOOD Glucose-94 UreaN-13 Creat-1.0 Na-142 
+K-3.4 Cl-99 HCO3-39* AnGap-7*
+[**2553-7-29**] 06:20AM BLOOD Glucose-92 UreaN-13 Creat-0.9 Na-143 
+K-3.4 Cl-99 HCO3-37* AnGap-10
+[**2553-7-28**] 06:00AM BLOOD Glucose-161* UreaN-16 Creat-1.1 Na-143 
+K-3.5 Cl-100 HCO3-35* AnGap-12
+[**2553-7-26**] 05:00AM BLOOD ALT-20 AST-19 AlkPhos-87
+[**2553-7-25**] 05:10AM BLOOD ALT-25 AST-22 AlkPhos-90 TotBili-0.4
+[**2553-7-21**] 01:17AM BLOOD CK-MB-NotDone cTropnT-0.04*
+[**2553-7-17**] 03:57AM BLOOD CK-MB-NotDone cTropnT-0.02*
+[**2553-7-16**] 10:45AM BLOOD cTropnT-0.03*
+[**2553-7-31**] 02:10PM BLOOD Calcium-8.2* Phos-2.8 Mg-1.5*
+[**2553-7-30**] 05:00AM BLOOD Calcium-8.0* Phos-2.7 Mg-1.7
+[**2553-7-29**] 06:20AM BLOOD Calcium-7.7* Phos-3.2 Mg-1.9
+[**2553-7-17**] 04:15AM BLOOD pH-7.40 Comment-GREEN TOP
+[**2553-7-16**] 10:37AM BLOOD Lactate-3.3*
+[**2553-7-17**] 01:32AM BLOOD freeCa-1.13
+.
+[**7-22**] EKG: Baseline artifact 
+Atrial fibrillation  
+Ventricular premature complexes 
+Nonspecific lateral ST-T wave changes 
+Since previous tracing of [**2553-7-21**], atrial flutter now absent 
+.  
+[**7-21**] cxr: No change. Failure persists.
+.
+[**7-16**] arteriogram of mesenteric vessels: Aortogram and selective 
+arteriography of the celiac axis, superior mesenteric artery, 
+and inferior mesenteric artery demonstrated no evidence of 
+active hemorrhage.
+
+ 
+Brief Hospital Course:
+1. GIB/hemorrhagic shock:  Patient received significant fluid 
+rehydration and 8 units PRBC in the ED. NG lavage performed in 
+the ED was negative with repoorted bilious return, however, in 
+the setting of elevated [**Last Name (LF) **], [**First Name3 (LF) **] upper GI source of bleeding 
+could not be definitively ruled out.  She also had a negatibve 
+mesenteric angiogram. GI deferred on scoping her in the ED 
+secondary to demand ischemia with EKG changes, and once the 
+patient was admitted to the MICU, was hemodynamically stable 
+with stable serial hct x >72 hours. Patient ultimately received 
+EGD and colonscopy on [**2553-7-20**] and these studies were negative for 
+acute bleed.  She was maintained with 2 large bore IVs, as well 
+as on IV PPIs, though subsequent transfusions were not required. 
+ Hct on day of discharge was 37.2 and BP remained stable on 
+metoprolol, baseline 90-120/40-70s. On the floor, the pt had 
+intermittent occult blood in the stool alternating w/ OB 
+negative stools. The pt did not have melena. The hematocrit has 
+been stable leading up to discharge. GI re-evaluated the pt and 
+elected not to rescope the patient given the minimal OB negative 
+stools with clinical stability and asymptomatic pt. 
+.
+2. Patient was intubated in the ED for respiratory failure with 
+decreased oxygen saturations. Unclear of specific etiology, 
+though blood gas on admit to the ICU was 7.34/36/468/22.  In ED, 
+pt was acutely anemic as well severely hypovolemic, and it was 
+postulated that given her subsequent clinical improvement and 
+extubation on HD 2 that initial hypoxemia was secondary to 
+technical limitations of oxygen saturation monitor.  CXR in ED 
+was at baseline. The pt did well after extubation and after 
+treatment of her CHF w/ aggressive diuresis, the pt was weaned 
+to an oxygen requirement of 0.5 liters by nasal cannula.
+.
+3. Leukocytosis: Likely represented acute demargination in 
+setting of GIB; WBC normalized over subsequent days. Pt had no 
+clinical signs or source of infection as CXR and UA were 
+negative. later in her course, she developed a right sided 
+facial swelling (see below) and leukocytosis.
+.
+4. Atrial fibrillation: Patient not maintained on coumadin or 
+beta-blocker as outpatient for uncertain reasons.  INR 0n 
+[**2553-7-17**] was 1.2.  Pt intermittently would be in atrial 
+fibrillation, though throughout these episodes, was 
+hemodynamically stable and would spontaneously convert to NSR.  
+In the setting of demand ischemia from GIB with EKG change, she 
+was started and maintained on metoprolol. Her metoprolol was 
+titrated up to 75mg po tid and then down to 50mg po tid, which 
+maintained her most often in nsr though often with conversion to 
+hemodynamically stable afib. By the time of d/c the pt had been 
+on metoprolol 50mgpo tid for >4 days and stable.
+. 
+5. Demand ischemia: Elevated troponins w/ new ST depression in 
+V2-V6 on EKG in ED. Subsequent EKGs showed normalization of 
+these changes, and serial cardiac enzymes trended down. Pt 
+started on metoprolol as indicated. ASA contraindicated in 
+setting of GIB. The pt had no cardiac symptoms and did well 
+during her hospital course.
+.
+6. ARF: Likely prerenal in etiology given acute bleeding and 
+shock. FENa calculated at 0.9%. Pt had adequate response to IVF 
+and creatinine trended to baseline of 0.8. Her creatinine 
+trended up slightly toward the end of her hospitalization.
+.
+7. Intermittent hypernatremia: Pt developed intermittent 
+hypernatremia during her course secondary to rapid and 
+aggressive IVF resuscitation which was corrected with IV free 
+water. 
+.
+8. Parotid abscesses: right facial swelling was noted on day 1 
+on the floor. A neck CT noted that she had many small abscesses. 
+The pt was treated with clindamycin x 21 days (PCN allergic) 
+which nearly completely resolved her symptoms.
+.
+9. UTI: she had a growth of >100,000 cfu sensitive to 
+levofloxacin. The pt was tx'd for 7 days with cipro and 
+resolution.
+.
+10. The pt had a left arm infiltrate that was cultured and 
+returned MRSA. The pt was tx'd w/ 1 day of vancomycin and deemed 
+not to need further tx as the area never was particularly red, 
+swollen, hot, or painful.
+ 
+Medications on Admission:
+Bumex 2 mg daily
+Lisinopril 10 mg daily
+Detrol LA 2
+Vicodin [**11-19**] tab Q4-6
+Naprosyn 400 BID
+
+ 
+Discharge Medications:
+1. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  PRN 
+(as needed) as needed for yeast rash.  
+2. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: 
+One (1) Tablet, Delayed Release (E.C.) PO twice a day.  
+3. Albuterol Sulfate 0.083 % Solution Sig: [**11-19**]  Inhalation Q2H 
+(every 2 hours) as needed.  
+4. Haloperidol 1 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed.  
+5. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  PRN 
+(as needed) as needed for yeast rash.  
+6. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day) as needed.  
+7. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID (2 
+times a day).  
+8. Clindamycin HCl 150 mg Capsule Sig: Two (2) Capsule PO Q6H 
+(every 6 hours) for 12 days.
+Disp:*96 Capsule(s)* Refills:*0*
+9. Pantoprazole 40 mg Tablet, Delayed Release (E.C.) Sig: One 
+(1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).  
+10. Chlorothiazide 250 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).
+Disp:*30 Tablet(s)* Refills:*2*
+11. Potassium Chloride 10 mEq Capsule, Sustained Release Sig: 
+Four (4) Capsule, Sustained Release PO once a day.
+Disp:*120 Capsule, Sustained Release(s)* Refills:*2*
+12. Bumetanide 2 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).
+Disp:*60 Tablet(s)* Refills:*2*
+13. Heparin Lock Flush (Porcine) 100 unit/mL Syringe Sig: One 
+(1) ML Intravenous  DAILY (Daily) as needed.
+Disp:*500 ML(s)* Refills:*0*
+14. Toprol XL 50 mg Tablet Sustained Release 24HR Sig: Three (3) 
+Tablet Sustained Release 24HR PO once a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 437**] for the Aged - Acute Rehab
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+1. Upper Gastrointestinal bleeding
+2. Hemorrhagic shock secondary to GI bleed
+3. Cardiac demand ischemia secondary to GI bleed
+4. Hypernatremia
+5. Parotid abscesses
+6. UTI
+7. Left arm MRSA swab
+.
+Secondary Diagnoses
+1. HTN
+2. CHF
+3. COPD
+
+ 
+Discharge Condition:
+Good.
+
+ 
+Discharge Instructions:
+Return to ED or PCP for any evidence of rectal bleeding or 
+vomiting blood, CP, SOB, nausea, dizzness, fever or chills.  
+Take all medications as prescribed. Do not take naprosyn, 
+aspirin or ibuprofen until [**Doctor First Name **] see your doctor again with proper 
+follow up. Also, follow the instructions provided below about 
+gastrointestinal bleeding.
+.
+GASTROINTESTINAL BLEEDING 
+WHAT [**Doctor First Name **] SHOULD KNOW: 
+Gastrointestinal (gas-troh-in-TES-ti-nal) bleeding may happen 
+when [**Doctor First Name **] have another disease or condition. Gastrointestinal 
+(GI) bleeding can occur anywhere in your esophagus 
+(e-SOF-ah-[**Male First Name (un) **]), stomach, and the large and small intestines 
+(in-TES-tins). It is important to find and treat the cause of 
+your bleeding, even if it stops on its own. The cause of your 
+bleeding may be a [**Last Name 11706**] problem. GI bleeding can also be a sign 
+of a more serious condition.
+
+INSTRUCTIONS: 
+Your medicines are: see your list. 
+Keep a written list of the medicines [**Doctor First Name **] take, the dose, and 
+when and why [**Doctor First Name **] take them. Bring the list of your medicines or 
+the pill bottles when [**Doctor First Name **] see your caregivers. Learn why [**Doctor First Name **] 
+take each medicine. Ask your caregiver for information about 
+your medicine. 
+There are many medicines that may cause GI bleeding. Do not take 
+any medicines, over-the-counter drugs, vitamins, herbs, or food 
+supplements without first talking to caregivers. Do not take any 
+medicine that has aspirin, naproxen, or ibuprofen in it without 
+first asking your caregivers.
+Always take your medicine as directed by caregivers. Call your 
+caregiver if [**Doctor First Name **] think your medicines are not helping, or if [**Doctor First Name **] 
+feel [**Doctor First Name **] are having side effects. Do not quit taking your 
+medicines until [**Doctor First Name **] discuss it with your caregiver. If [**Doctor First Name **] are 
+taking antibiotics (an-ti-[**Hospital1 **]-AH-tiks), take them until they are 
+all gone even if [**Doctor First Name **] feel better.
+If [**Doctor First Name **] are taking medicine that makes [**Doctor First Name **] drowsy, do not drive 
+or use heavy equipment.
+If [**Doctor First Name **] have other medical conditions such as high blood 
+pressure, [**Doctor First Name **] need to control them. Take medicines as directed. 
+Some medical conditions may increase your risk of GI bleeding, 
+especially if they are not well-controlled. 
+When is my next doctor's appointment? Call your caregiver in  
+days to schedule a follow-up visit. Write down questions [**Doctor First Name **] 
+have about your illness and how it is treated. This way [**Doctor First Name **] will 
+remember to ask these questions during your next visit.
+
+Activity: 
+Do not lift anything heavier than 5 pounds. 
+How can I live a healthy lifestyle? Living a more healthy 
+lifestyle may decrease your risk of having GI bleeding in the 
+future. Ask your caregiver about things [**Doctor First Name **] can do to decrease 
+your bleeding risk. 
+Alcohol: Ask your caregiver if [**Doctor First Name **] should stop drinking alcohol 
+or decrease the amount of alcohol [**Doctor First Name **] drink. Drinking too much 
+alcohol can damage your brain, heart, and liver. Drinking 
+alcohol can also make your illness worse. 
+Constipation: If [**Doctor First Name **] are constipated, [**Doctor First Name **] may have a hard time 
+having a bowel movement (BM) Do not try to push the BM out if it 
+is too hard. Walking is the best way to get your bowels moving. 
+Eat foods high in fiber to make it easier to have a BM. Good 
+examples are high fiber cereals, beans, vegetables, and whole 
+grain breads. Prune juice may help make the BM softer. 
+Caregivers may give [**Doctor First Name **] fiber medicine or a stool softener to 
+help make your BMs softer and more regular. [**Doctor First Name 10**] can also buy 
+these medicines at a grocery or drug store. 
+Diet: Ask your caregiver if [**Doctor First Name **] need to be on a special diet. 
+Drink six to eight cups of liquid each day. Follow your 
+caregiver's advice if [**Doctor First Name **] must limit the amount of liquid [**Doctor First Name **] 
+drink. decrease the amount of caffeine [**Doctor First Name **] eat and drink. 
+Caffeine may be found in coffee, tea, soda, sports drinks, 
+chocolate, and food bars.
+Quit smoking: It is never too late to quit smoking. Smoking 
+harms the heart, lungs, and the blood. [**Doctor First Name 10**] are more likely to 
+have a heart attack, lung disease, and cancer if [**Doctor First Name **] smoke. [**Doctor First Name 10**] 
+will help yourself and those around [**Doctor First Name **] by not smoking. Ask your 
+caregiver for more information about how to stop smoking if [**Doctor First Name **] 
+are having trouble quitting. 
+For support and more information: [**Doctor First Name 10**] can contact one of the 
+following national organizations for more information.
+International Foundation for Functional Gastrointestinal 
+Disorders
+[**PO Box 11707**]
+[**Location (un) 11708**], [**State/Zipcode 11709**]
+Phone: 1-[**Telephone/Fax (1) 11710**]
+Phone: 1-[**Telephone/Fax (1) 11711**]
+Web Address: [**URL 11712**] 
+National Digestive Diseases Information Clearinghouse (NDDIC)
+2 Information [**Name6 (MD) **]
+Bethesda, [**MD Number 11713**]
+Phone: 1-[**Telephone/Fax (1) 11714**]
+Phone: 1-[**Telephone/Fax (1) 11715**]
+Web Address: [**URL 11716**] 
+American Society for Gastrointestinal Endoscopy (ASGE)
+[**Street Address 11717**]
+Oak [**Last Name (LF) **], [**First Name3 (LF) 11718**]
+Phone: 1-[**Telephone/Fax (1) 11719**]
+Web Address: [**URL 11720**]
+
+CALL  IF: 
+[**Doctor First Name 10**] have BMs that are sticky, tarry, or black, and are not 
+caused by certain medicines taken or foods eaten. Iron pills, 
+bismuth (Pepto Bismol��), and certain foods (such as beets) may 
+cause your BMs to look tarry or black.
+[**Doctor First Name 10**] start having abdominal (belly) pain or swelling, nausea, or 
+vomiting (throwing up).
+[**Doctor First Name 10**] start having heartburn or other signs of stomach acid 
+problems.
+[**Doctor First Name 10**] have questions or concerns about your illness or medicine.
+[**Doctor First Name 10**] have trouble breathing or your skin is itchy, swollen, or 
+has a rash. Your medicine may be causing these symptoms. This 
+may mean [**Doctor First Name **] are allergic ([**Doctor Last Name **]-ER-jik) to your medicine. 
+
+SEEK CARE IMMEDIATELY IF: 
+Vomiting (throwing up) bright red blood. Blood in the vomit can 
+also be dark red or black. The vomit may look like coffee 
+grounds.
+[**Doctor First Name 10**] feel like [**Doctor First Name **] are going to have a BM, but pass only blood or 
+blood clots into the toilet.
+[**Doctor First Name 10**] have signs of shock or losing too much blood. If [**Doctor First Name **] have 
+one or more of the following signs and symptoms that are new for 
+[**Doctor First Name **], Call 9-1-1 or 0 (operator) . This will call an ambulance to 
+take [**Doctor First Name **] to the nearest hospital or clinic. Do not drive 
+yourself!
+Chest pain.
+Dizziness or fainting, especially after suddenly moving from a 
+sitting or lying position.
+Feeling confused or short of breath.
+[**Doctor First Name 10**] feel too weak to stand up. 
+ 
+Followup Instructions:
+Call Dr.[**Doctor Last Name 11721**] office at [**Telephone/Fax (1) 2807**] today or tomorrow 
+for an appointment within 1-2 weeks.
+ 
+                             [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] MD [**MD Number 5672**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 11722**] MD [**MD Number 11723**] [**2553-8-1**] @ 1316
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: TUE [**2553-8-28**] 4:59 PM
+(End of Report)
+
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ********************************* CPT Codes ********************************
+     * 36245 EA 1ST ORDER ABD/PEL/LOWER EXT 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    -59 DISTINCT PROCEDURAL SERVICE     *
+     * C1769 GUID WIRES INCL INF            C1887 CATHETER GUIDING INF/PERF     *
+     * C1887 CATHETER GUIDING INF/PERF      C1887 CATHETER GUIDING INF/PERF     *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with LGIB                                                     
+     REASON FOR THIS EXAMINATION:
+      bleeding site                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum, hemodynamically unstable, suspected
+     lower gastrointestinal hemorrhage.
+     
+     RADIOLOGISTS:  Dr. [**Last Name (STitle) 3134**], Dr. [**First Name (STitle) 3127**], and Dr. [**Last Name (STitle) 42**].  Dr. [**Last Name (STitle) 42**] was
+     present throughout the procedure and supervising.  Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**] reviewed
+     the exam.
+     
+     PROCEDURE:  After appropriate consent was obtained, the patient was placed
+     supine on the angiographic table.  Under fluoroscopy, the site of arterial
+     entry was identified over the right femoral head and a 19-gauge single-wall
+     needle was entered into the right common femoral artery.  [**Last Name (un) 223**] wire was
+     advanced via the needle under fluoroscopic guidance into the abdominal aorta.
+     The needle was then exchanged for a C2 glide catheter.  The wire was removed
+     and a selective catheterization of the SMA was performed.  SMA selective
+     angiography demonstrated no evidence of contrast extravasation or
+     arteriovenous shunting.  Vessels in the distribution of SMA had normal
+     morphology.  Next the catheter was exchanged for a SOS Omni Flush catheter
+     which was positioned at the level of L3.  Aortogram was performed and
+     demonstrated inferior mesenteric artery at the level of L4.  The SOS Omni
+     Flush catheter was exchanged for a SOS catheter over the wire and selective
+     catheterization of the inferior mesenteric artery was performed.  Selective
+     angiography of the inferior mesenteric artery demonstrated normal morphology
+     of the vessels, no contrast extravasation, and no arteriovenous shunting.  The
+     catheter was placed selectively into the celiac axis and selective angiography
+     of the celiac axis was performed.  The angiography demonstrated normal
+     morphology of the vessels, no contrast extravasation, and no arteriovenous
+     shunting.  The catheter was then removed and the angiographic sheath was
+     pulled on the table.  Manual pressure was applied to the site of arterial
+     entry until complete hemostasis was achieved.  The patient was transferred to
+     the medical ICU in stable condition.
+     
+     IMPRESSION:  Aortogram and selective arteriography of the celiac axis,
+                                                                 (Over)
+
+     DATE: [**2553-7-16**] 1:41 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 7754**]
+     Reason: bleeding site                                               
+      Contrast: VISAPAQUE Amt: 221
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     superior mesenteric artery, and inferior mesenteric artery demonstrated no
+     evidence of active hemorrhage.
+     
+
+",,
+8440,24392,,,2553-07-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-16**] 11:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7752**]
+     Reason: tube placement                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      tube placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 11:28 A.M.:
+     
+     HISTORY:  Check tube placement.
+     
+     IMPRESSION:  AP chest reviewed in the absence of prior chest radiographs:
+     
+     Tip of the ET tube is at the thoracic inlet, approximately 5 cm from the
+     carina, in standard positioning.  A nasogastric tube passes into the stomach
+     and out of view.  There is a roughly 6 cm wide lobulated opacity extending
+     superiorly from the upper pole of the right hilus that could be tortuous
+     vessels in the mediastinum but is concerning for a lung mass or dense
+     consolidation. Another nearly 3 cm wide opacity extending laterally from the
+     lower pole of the hilus could be pneumonia or atelectasis in the middle lobe.
+     When feasible, routine radiographs should be obtained.  Heart is mildly
+     enlarged.
+     
+     The lateral aspect of the left hemithorax is excluded from the examination.
+     There is no right pleural abnormality.  There is severe degenerative change
+     and probable old fracture deformity of the right humerus.
+     
+     Dr. [**Last Name (STitle) 7753**] and I discussed these findings at the time of this dictation.
+     
+     
+     
+
+",,
+8440,24392,10487,0,2553-07-16 17:58:00 EST,2553-07-16 18:26:00 EST,2412,"N",69,"Nursing/Other",,"
+
+MICUB 1715-1900 RN Note
+
+MiCU Adm  [**Age over 90 **]yo female admitted frm Home/assisted living, with increased weakness and rectal bleeding x1wk. Brought to ED hypotensive SBP90-60 recieved Fluid resusitation 5.5L, Hct 17 recieved 8 units PRBC and 2UFFP. EKG revealled ST depressions CK x1 neg. Intubated for airway management Sedated with Versed abnd Fentanyl. NGT placed for coffee gound emesis and inc of melena stool. Emergent angio no active bleed detected per priliminary finding. Arrived MICU @ 1715. 
+
+Neuro:  Pt Sedated Fentanly and Versed By Bolus PRN, Pt intermitently resless and Moving UE random attemping to pull out ETT requiring sedation for safety. eyes closed Pupils 2mm reactive. Withdrws to pain and Suctioning stimulation. 
+
+CV:  HR 85-96 Afib Ocass PVC. EKG done DT depressions Lat leads. CK x1 64 Trop 0.03 plan seriel Enzyme. R radial aline inplace sharp wave form. IV access 2PIV, L fem trauma cordis cATH. NS 10CC/HR KVO Plan to start D5W/Bicarb gtt post angio. refer to orders. 
+Hct 36.7 plan seriel Hct monitoring.
+
+Resp: Orally intubated # 7.5 ETT Pos 21 lip. Vent mode A/C 500-14 100% 10peep FI02 wean to 50%. Lungs coarse BS sx x2 thick yellow secretions. Sats 90-92%. 
+
+GI:  No active bleed @ this time. abd soft +BS no stool upon arrival. OGT clamped placement verified. bile drainage. 
+
+GU:  foley u/o 50-60cc/hr. 
+
+Skin:  Impaired Lower Extrem cellulitis LLE ulceration left open to air. coccyx 2 areas of stage 2 ulceration acquacel appied duoderm oint. 
+
+Social:  Full code status. Son proxy visited and met with team updated on plan of care.   
+",,
+8440,24392,10487,,2553-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-17**] 7:09 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7755**]
+     Reason: r/o Pnuemonia                                               
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman w/GIB, intubated for respiratory failure                     
+     REASON FOR THIS EXAMINATION:
+      r/o Pnuemonia                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST AT 7:20 A.M. ON [**7-17**]
+     
+     CLINICAL INFORMATION:  [**Age over 90 **]-year-old woman with respiratory failure.
+     
+     IMPRESSION:  AP chest compared to [**7-16**] at 11:28 a.m.
+     
+     Endotracheal tube has been removed.  Heterogeneous opacification in both lower
+     lungs and in the perihilar right lung suggests edema.  Question region of
+     consolidation or mass in the right suprahilar lung is hard to assess because
+     of the severe patient rotation.  There is probably a small-to-moderate right
+     pleural effusion, new or increased since yesterday.  Heart is top normal size.
+                                                                           
+
+",,
+8440,24392,10487,0,2553-07-17 04:49:00 EST,2553-07-17 04:52:00 EST,1942,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Pt remains intubated and ventilated on a/c with no remarkable changes overnight. Breath sounds clear, abgs within normal limits. RSBI = 96. Not on spontaneous breathing trial as pt. is sedated and not taking any spontaneous breaths.
+",,
+8440,24392,10487,0,2553-07-17 05:11:00 EST,2553-07-17 05:46:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR AND VENTILATOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.  
+
+NEURO:  PT REQUIRED SOME LIGHT SEDATION WHILST ON THE VENT- MAINTAINED 25MCG/HR FENTANYL GTT AND 1 MG/HR VERSED.  PT VERY AWAKE THIS MORNING- FOLLOWING COMMANDS AND NOD/SHAKES HEAD APPROPRIATELY TO QUESTIONS. SEDATION CEASED AND PT EXTUBATED AT 0615 WITH NO UNTOWARD INCIDENT.  PT ABLE TO EXPRESS NEEDS DESPITE SLIGHTLY HOARSE VOICE.  MAE X 4 QUADRANTS.  AFEBRILE.  PERRLA, 3/BRISK.  NO SEIZURE ACTIVITY NOTED.
+
+RR:  BBS= ESSENTIALLY CLEAR TO COARSE TO ALL LUNG FIELDS.  PT EXTUBATED THIS AM AT 0615.  CURRENTLY ON 40% OFM.  NO INCREASED WOB NOTED- MAINTAINING SP02 > OR = TO 95%.  BILATERAL CHEST EXPANSION NOTED.  ENCOURAGED TO COUGH AND DEEP BREATHE.  RR 20-25.  
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  AFIB- HR 70-80'S.  PT HAD AN EPISODE OF RAF WITH HR 140-160'S WITH RESULTANT HYPOTENSION- SBP TO THE 60'S.  PT RECEIVED A TOTAL OF 1500L NS BOLUS- IMPROVED.  CURRENTLY SBP > OR = TO 90.  DENIES ANY CHEST PAIN.  PALPABLE PULSES NOTED TO BILATERAL RADIALS.  DOPPLERABLE PULSES TO BILATERAL DORSALIS PEDIS.  RT RADIAL ALINE IS SIGNIFICANTLY DAMPENED- DIFFICULT TO DRAW LABS FROM.  PT HAS 2 #16 PIVS TO EACH AC.  LT CORDUS IS SECURE AND INTACT.  CRITS HAVE BEEN STABLE- AM CRIT OF 39.  
+
+GI:  ABD IS SOFT, DISTENDED, AND NON-TENDER TO PALPATION.  BS X 4 QUADRANTS.  NO BM THIS SHIFT.  PASSING FLATUS.  CURRENTLY NPO.
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED.  
+
+INTEG:  PT HAS MULTIPLE SKIN TEARS TO BILATERAL LOWER EXTREMITIES AND SKIN TEAR NOTED TO RT CHEEK.  PT HAS SEVERE YEAST GROWTH UNDER ABDOMINAL FOLDS- MICONAZOLE CREAM APPLIED.  STAGE 2 DECUBITUS ULCERS NOTED TO BILATERAL BUTTOCKS CHEEKS- DUODERM APPLIED AND DSD WITH AQUACEL INTACT.
+
+SOCIAL:  CALLED SON TO UPDATE ON EXTUBATION.  WILL BE IN TO VISIT LATER.  NO ISSUES.
+
+PLAN:  MONITOR CRIT.  POSSIBLE CALL OUT.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]!
+",,
+8440,24392,10487,0,2553-07-17 05:27:00 EST,2553-07-17 05:28:00 EST,1942,"N",69,"Nursing/Other",,"
+
+Resp Care
+Pt extubated at 620.
+",,
+8440,24392,10487,0,2553-07-17 16:20:00 EST,2553-07-17 16:38:00 EST,2412,"N",69,"Nursing/Other",,"
+
+MICUB 0700-1900 RN NOTE
+
+Neuro:  awake alert oriented x2 improved to x3. follows commands appropriately, MAE random and to command LE weak strength. Pupils 2-3mm equal react brisk. denies c/o pain although is skin issues are sore. 
+
+CV:  HR 118-98 Afib/flutter with frequent bursts of Rapid Afib 140-160 assymptomatic BP ustable converted to NSR with PAC @ 1130. Started Lopressor 12.5mg PO. EKG revealled demand ischemia seriel CK neg. R radial aline inplace sharp wave positional wave form. BP 98-124/45-67 MAPS>65. K= 3.6 repleted KLC 40meq. IV access L fem cordis IV NS 10cc/hr, Hypernatremia NA 148. Started D5W 250cc/hr X 2L. 
+Heme No active bleed Serial Hct Stable 40.3/37.1. 
+
+Resp:  Rr 18-24 reg Lungs clear/coarse BS. 02sat 2L/min NC, Sats 93-98%. HOB >fowlers 
+
+GI:  abd soft distended + BS no BM, Denies N/V. GI eval:  
+Plan:  EGD [**7-18**]
+
+GU:  foley u/o 40-80cc/hr. 
+
+derm:  Skin impaired multiple excoriated areas yeasty rash  miconizole oint appled. Lower extrem cellulitis/excoriation compression boots removed and left open to air.  Coocyx dsg reappleis.
+
+Social:  full code status. Family visited. updated on pt status.
+",,
+8440,24392,10487,0,2553-07-18 04:18:00 EST,2553-07-18 04:25:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVRIONMENT SECURED FOR SAFETY.
+
+NEURO:  PT ALERT AND ORIENTED X 3.  VERY PLEASANT.  ABLE TO VOCALIZE NEEDS.  PERRLA, 3/BRISK.  MAE X 4 WITHOUT DIFFICULTY.  AFEBRILE.  FOLLOWS COMMANDS.  NO SEIZURE ACTIVITY NOTED.  
+
+RR:  RA.  BBS= ESSENTIALLY COARSE THROUGHOUT ALL LUNG FIELDS- ENCOURAGED TO COUGHA DN DEEP BREATH.  CHEST PT PERFORMED.  BILATERAL CHEST EXPANSION NOTED.  SP02 > OR = TO 95%.  NO C/O SOB OR INCREASED WOB NOTED.
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NSR, HR 70-80'S WITH NO SIGNS OF ECTOPY.  SBP > OR = TO 90 WITH NO HYPER OR HYPOTENSIVE CRISIS NOTED.  DENIES ANY CHEST PAIN.  TOLERATING BETA BLOCKER.  PALPABLE PULSES NOTED TO BILATERAL RADIALS DORSALIS PEDIS.  AM K LEVEL REPLETED WITH 40MEQ K IV.  CONTINUES WITH SERIAL CRITS- ALL CRITS HAVE BEEN > OR = 35.  HYPERNATREMIA RESOLVED.  
+
+GI:  ABD IS SOFT, SLIGHTLY DISTENDED AND NON-TENDER TO PALPATION.  PT HAS BEEN ABLE TO TOLERATE PO'S.  NO C/O N,V,D.  NO BM THIS SHIFT. PASSING LARGE AMOUNTS OF FLATUS.  
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS.  
+
+INTEG:  PT HAS SEVERE CASE OF YEAST- CONTINUING WITH SKIN CARE AND MICONAZOLE CREAM.  SEVERAL SKIN TEARS TO EXTREMITIES.  DSD INTACT TO PRESSURE SORE TO BUTTOCKS.
+
+SOCIAL:  GRANDSON IN TO VISIT.  NO ISSUES.  
+
+PLAN:  PT TO BE SCOPED.  NEXT CRIT TO BE DRAWN AT 0800 PLEASE.  MAY BE C/O TO FLOOR POST-PROCEDURE.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]!
+",,
+8440,24392,10487,0,2553-07-18 15:29:00 EST,2553-07-18 15:56:00 EST,2412,"N",69,"Nursing/Other",,"
+
+[**Name8 (MD) 1831**] RN Note 0700-1900
+
+C/O to floor refer to transfer note
+
+Plan:  Colonoscopy/EGD for [**7-20**]
+
+Neuro:  awake alert oriented x3 follows commands appropriately, Pupils 3mm equal react [**Last Name (LF) **], [**First Name3 (LF) 149**] random equal strength. OOB to chair full weight bearing. Amb to chair. 
+
+CV: HR 85-102 NSR-ST  occas PAC, recieved Lopressor per parameters. R radial aline d/c BP 110-154/47-81 MAPS>65. Peripheral doppler DP/DT, 3+ peripheral and sacral edema. Recieved Bumex 0.5mg x1 + diuresis.
+K+ 3.7 replete KCL 40meq. 
+Heme:  Seriel Hct stable 36.9/39.9. cont hct q8hrs.
+
+Resp:  RR 22-30 denies SOB, Abd breathing. Lungs: occas I/E wheezes/crackles L Base, clear dim @bases. CXR revealled mod RLL pleural effussion. 
+
+GI:  abd soft obese + BS no BM. full liq diet tol well. Seen by GI Service plan EGD/colonscopy friday [**7-20**].
+
+GU:  Foley u/o 30-260cc/hr cloudy.
+
+derm:  Impaired. yeasty rash groin /skin folds Miconizole powder applied. Coccyx Acgacel and dueoderm applied.
+
+Social:  Full code status. son called and updated on pt status and plan of care.  
+",,
+8440,24392,10487,0,2553-07-18 16:44:00 EST,2553-07-18 16:47:00 EST,2412,"N",69,"Nursing/Other",,"
+
+Addendum 1730
+Plan Colonoscopy [**6-18**] to start golytly prep tonoc. NPO after Midnoc. 
+
+",,
+8440,24392,10487,0,2553-07-19 04:51:00 EST,2553-07-19 05:19:00 EST,6578,"N",69,"Nursing/Other",,"
+
+1900-0700 NPN:
+
+PLEASE SEE CAREVUE FLOWSHEET FOR OBJECTIVE DATA AND FURTHER SHIFT DOCUMENTATION. PT CALLED OUT TO FLOOR, AWAITING BED. PLAN FOR COLONOSCOPY AND EGD TODAY. GOLYTELY PREP STARTED AS ORDERED AT 2100 LAST HS. PT TOLERATING WELL, HOWEVER SLOWLY.  DENIES N/V. [**11-19**] PREP COMPLETED, PT REQUIRES ASSIST AND ENCORAGE. TEAM AWARE. ALERT AND ORIENTED X3. PLEASANT, COOPERATIVE W/ CARE. DENIES PAIN. MAE, PERLA. NSR TO ST @ 75-105, NO ECTOPY NOTED. AM LABS- HCT=40.9, K=3.9, MG=1.7, WBC=14.8. PT DENIES CP. NBP= 95-120/35-53. LS= CLEAR/DIM, OCCAS I/E WHEEZES. 02 SAT 92-99% ON 2L N/C. APPEARS TO DOE, HOWEVER PT DENIES ANY DIFFICUTLY BREATHING. BUMEX PO X1 DOSE GIVEN YESTERDAY. ABD SOFT, HYPERACTIVE BS. NO RESULTS AT THIS TIME. FOLEY CATH D/S/P DRAINING CLEAR YELLOW URINE. PIV X 2 LEFT ARM. COCCYX DRSG CHANGE BID AT 0600 AND 1800 W/ AQUACEL AND DUODERM. MICONAZOLE POWDER APPLIED FULL CODE. NO INQUIRIES FROM FAMILY/FRIENDS THIS SHIFT. 
+PLAN- REPELETE AM LYTES PER TEAM. CONTINUE TO ADMIN GOLTYELY AND ASSESS BOWEL CLEAN OUT. CONTACT GI TEAM IF PT UANBLE TO COMLETE PREP, PREPARE FOR COLONOSCOPY AND EGD TODAY. CONTINUE ICU SUPPORTIVE CARE.
+
+",,
+8440,24392,10487,0,2553-07-19 16:14:00 EST,2553-07-19 16:39:00 EST,2412,"N",69,"Nursing/Other",,"
+
+[** 1831**] 0700-1900 RN Note
+
+Neuro:  awake alert oriented x3 follows commands appropriately, napping most of the day. Pt states was awake most of the night. MAE random  equal strength. Pupils 3mm equal react brisk.no complaints of pain only soreness with wound care. 
+
+CV:  HR 82-108 NSR-ST with freq PAC recieved Lopressor per parameters. @approx 1400 burst of afib/flutter 100-140 assymptomatic Hemodynamically stable, Intern made aware, Plan: monitor for changes. Spont converted to NSR/ST with PAC. @12n Recieved Bumex 2mg PO with responding duiresis. BP 91-130/454/60 MAPS>60. Mag 1.7 repleted Mag Sulfate 4GMS/250. peripheral pulsess +doppler. 3+ peripheral and sacral edema.
+
+Resp:  RR 22-28 nonlabored abd brathing. Appears dyspneic although denies SOB. O2 2L/min NC Sats 92-98% Lungs: I/E wheezes crackles bases to clear dim R base. Recieved Alb neb. 
+
+GI:  Abd soft distended + BS. NPO plan colonoscopy. Completed prep golytly and Recieved 2 Tap H2O enemas with clear returns. rectal tube inplace..
+
+GU:  foley u/o 30-280cc/hr
+
+Skin:  Impaired Miconizole poder applied to rash in skin folds. Duoderm to coccyx and Acquacel dsg applied to buttocks.. LE excoriation left open to air. 
+
+Social: Full code status, Son called and updated on plan of care. 
+Plan Colonoscopy and EGD time to be determined GI team made aware of Prep status.     
+",,
+8440,24392,10487,0,2553-07-20 02:54:00 EST,2553-07-20 03:15:00 EST,6578,"N",69,"Nursing/Other",,"
+
+1900-0700 NPN:
+
+PLEASE SEE CAREVUE FLOWSHEET FOR OBJECTIVE DATA AND FURTHER SHIFT DOCUMENTATION. PT CALLED OUT TO FLOOR X 2DAYS, NO BED AVAILABLE. TRANSFER NOTE DONE, PLEASE UPDATE AS NEEDED. PT ALERT AND ORIENED X3. PLEASANT, COOPERATIVE W/ CARE. MAE, PERLA. ASSIST OOB TO CHAIR. DENIES PAIN. NSR TO ST @ 87-109, W/ OCCAS PAC'S AND PVC'S. NO EPISODES OF AFIB/AFLUTTER THIS SHIFT. AM K LEVEL YESTERDAY =3.9, PT RECEIVED DAILY BUMEX 2 MG PO W/ LG AMTS OF DIURESIS. 2200 K LEVEL=3.1 MG LEVEL=2.2, AND HCT=35.5. REPLETED W/ IV KCL 80 MEQ THIS SHIFT. AM K LEVEL PENDING. LESS FREQ ECTOPY NOTED AFTER K REPLETED. PT DENIES CP. NBP= 101-140/35-83. LOPRESSOR GIVEN AS ORDERED. 3+ PEDAL, SACRAL, AND RIGHT ARM EDEMA NOTED. PEDAL PULSES BY DOPPLER. AFEBRILE. LS= CLEAR/CRACKLES TO DIM AT BASES. 02 SAT 96-100% ON 1L N/C. PT APPEARS DOE AT TIMES, BUT DENIES SOB. I/E WHEEZES NOTED AFTER GI PREP- ALBUTEROL NEB GIVEN YESTERDAY. NONE NOTED THIS SHIFT. ABD SOFT, PRESENT BS. MUSHROOM CATH INTACT W/ CLEAR LIGHT BROWNISH LIQUID OUTPUT. GOLYETLY AND TAP H20 ENEMA X2 GIVEN YESTERDAY TO PREPARE FOR COLONOSCOPY. PER GI- PLAN FOR EGD AND COLONOSCOPY TODAY. PT REMAINS NPO EXCEPT MEDS. PER MICU AND GI- ADMIN TAP H20 ENEMA X1 THIS AM AND EVAL FOR FURTHER PREP PER RESULTS. FOLEY CATH D/S/P DRAINING CLEAR YELLOW URINE 40-160CC/HR. PT TAKES BUMEX AT HOME DAILY. IMPAIRED SKIN INTEGRITY- DUODERM APPLIED TO COCCYX, DUODERM GEL AND AQUACEL APPLIED TO BUTTOCKS WOUND, AND MICONAZOLE POWDER APPLIED TO ABD SKIN FOLDS AS ORDERED PRN. PIV X1 LEFT ARM #16G AND LEFT FEMORAL TRAUMA LINE. FULL CODE. NO INQUIRIES FROM FAMILY/FRIENDS THIS SHIFT.
+PLAN- KEEP NPO FOR EGD AND COLONOSCOPY TO BE DONE TODAY TO EVAL HCT DROP TO 17 THIS ADMIT. MONITOR HCT PER TEAM. WOUND CARE AS ORDERED. CONTINUE ICU SUPPORTIVE CARE, UNTIL BED AVAILABLE. REHAB PLACEMENT NEEDED AFTER DISCHARGE PER CASE MANAGER.  
+",,
+8440,24392,10487,0,2553-07-20 17:47:00 EST,2553-07-20 18:02:00 EST,2826,"N",69,"Nursing/Other",,"
+
+NPN 0700-1900
+
+Events/General: EGD and colonoscopy done at 1700. Too late for transfer to rehab so plan is to transfer tomorrow to Heb Reb.
+Neuro: A&O X3, slightly confused after procedure. Recieved total of 5mg versed, 50mcg fentanyl for above. MAE's, stood at bedside with PT assist. 
+CV: Hemodynamically stable. HR 80's-100's NSR, ocassional PVC's.
+Resp: Respirations regular, unlabored, RR 14-24, O2 sat 95-100% on RA. Presently on O2 at 2L post procedure. Lung sounds are coarse upper airways, diminished lower lobes. Congested cough but no expectorating.
+GI: NPO for procedure. Recieved 2 more liters golytely and 2 tap water enemas. Large amounts of liquid dark brown stool drained from rectal tube, see carevue for amounts. Rectal is presently out with no stooling. EGD showed several lesions but no active bleeding; full report pending. Abdomen is large softly, distended, +BS.
+GU: Foley catheter intact, draining 30-50cc cloudy yellow urine. Fluid status is +850cc since midnight.
+Skin: Dressing changed on 2 open areas on buttucks several times for stooling; difficult to keep area clean; duoderm gel and aquacel applied; duoderms intact and left in place.
+ID: Tmax 99.2 po.
+Plan: Transfer to [**Hospital 156**] Rehab in am; BID hematocrits; monitor stools, hemodynamic status; dressing changes as ordered.  
+",,
+8440,24392,10487,,2553-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-21**] 11:04 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 7757**]
+     Reason: please assess for fluid overload                            
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old woman w/GIB, intubated for respiratory failure, extubated.   
+      underwent [**Last Name (un) 4162**]/egd - no active bleed
+     REASON FOR THIS EXAMINATION:
+      please assess for fluid overload                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Respiratory failure and cardiac failure.
+     
+     CHEST:  Comparison film [**2553-7-21**].
+     
+     Compared the prior film of 11 hours previous, there has been a slight
+     reduction in the size of the pleural effusions and a slight reduction in the
+     degree of perihilar edema.
+     
+     IMPRESSION:  Improving failure though still present.
+                                                                           
+
+",,
+8440,24392,10487,,2553-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-21**] 6:53 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 7758**]
+     Reason: please eval for CHF                                         
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          [**Age over 90 **] year old woman w/GIB, intubated for respiratory failure, extubated.    
+      underwent [**Last Name (un) 4162**]/egd - no active bleed
+     REASON FOR THIS EXAMINATION:
+      please eval for CHF                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  [**Age over 90 **]-year-old woman with GI bleed, now in respiratory
+     failure.
+     
+     CHEST:  Comparison made with the prior film of 18 hours ago.  The overall
+     appearances are not changed significantly.  Bilateral effusions are present
+     and distribution of perihilar edema still present consistent with failure. 
+     Underlying left lower lobe infiltrate is probably also present.
+     
+     IMPRESSION:  No change.  Failure persists.
+                                                                           
+
+",,
+8440,24392,10487,,2553-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-21**] 1:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7756**]
+     Reason: inc work of breathing, dropping sats, rec fluid for low BP  
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old woman w/GIB, intubated for respiratory failure, extubated.  
+      underwent [**Last Name (un) 4162**]/egd - no active bleed
+     REASON FOR THIS EXAMINATION:
+      inc work of breathing, dropping sats, rec fluid for low BP                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  [**Age over 90 **]-year-old woman intubated for respiratory failure and
+     then extubated.
+     
+     CHEST:  Comparison film [**2553-7-17**].  Cardiac size is probably within normal
+     limits.  Bilateral effusions are present consistent with failure.  Areas of
+     atelectasis are seen in the right midzone.
+     
+     There is increased density in the left retrocardiac area.  This could be due
+     to the presence of the effusion but an underlying infiltrate is not excluded.
+     
+     IMPRESSION:  Bilateral pleural effusions probably indicating failure,
+     atelectasis, consolidation left lower lobe.
+                                                                           
+
+",,
+8440,24392,10487,,2553-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-21**] 6:53 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 7758**]
+     Reason: please eval for CHF                                         
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          [**Age over 90 **] year old woman w/GIB, intubated for respiratory failure, extubated.    
+      underwent [**Last Name (un) 4162**]/egd - no active bleed
+     REASON FOR THIS EXAMINATION:
+      please eval for CHF                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  [**Age over 90 **]-year-old woman with GI bleed, now in respiratory
+     failure.
+     
+     CHEST:  Comparison made with the prior film of 18 hours ago.  The overall
+     appearances are not changed significantly.  Bilateral effusions are present
+     and distribution of perihilar edema still present consistent with failure. 
+     Underlying left lower lobe infiltrate is probably also present.
+     
+     IMPRESSION:  No change.  Failure persists.
+                                                                           
+
+",,
+8440,24392,10487,,2553-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-21**] 11:04 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 7757**]
+     Reason: please assess for fluid overload                            
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old woman w/GIB, intubated for respiratory failure, extubated.   
+      underwent [**Last Name (un) 4162**]/egd - no active bleed
+     REASON FOR THIS EXAMINATION:
+      please assess for fluid overload                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Respiratory failure and cardiac failure.
+     
+     CHEST:  Comparison film [**2553-7-21**].
+     
+     Compared the prior film of 11 hours previous, there has been a slight
+     reduction in the size of the pleural effusions and a slight reduction in the
+     degree of perihilar edema.
+     
+     IMPRESSION:  Improving failure though still present.
+                                                                           
+
+",,
+8440,24392,10487,,2553-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-21**] 10:08 PM
+     CT NECK W/CONTRAST (EG:PAROTIDS); CT 100CC NON IONIC CONTRAST   Clip # [**Clip Number (Radiology) 7759**]
+     Reason: periapical abscess vs parotid abscess vs continuous lesion  
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     Field of view: 22 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with new onset r parotid tender mass and loose tooth #3 w/ 
+      poor dental hygeine and a new elevation of her WBCs.
+     REASON FOR THIS EXAMINATION:
+      periapical abscess vs parotid abscess vs continuous lesion                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq SUN [**2553-7-22**] 12:43 AM
+      -swelling and inflammation involving the right submandibular, parotid, and
+      masticator spaces; 15 x 5 mm area of low density in inferior parotid gland and
+      9 x 2 mm area of low attenuation in right masseter which are too small to
+      characterize but may represent tiny developing abscesses; dental evaluation is
+      limited by artifact but no obvious dental abscess is seen - correlate with
+      direct visualization
+      -right pleural effusion
+     WET READ AUDIT #1 DFDkq SUN [**2553-7-22**] 12:09 AM
+      swelling and inflammation involving the right submandibular, parotid, and
+      masticator spaces; 15 x 5 mm area of low density in inferior parotid gland and
+      9 x 2 mm area of low attenuation in right masseter which are too small to
+      characterize but may represent tiny developing abscesses; dental evaluation is
+      limited by artifact but no obvious dental abscess is seen - correlate with
+      direct visualization
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right parotid tenderness and a loose third tooth with poor dental
+     hygiene.  Elevated white blood cell count.  Evaluate for periapical abscess
+     versus parotid abscess versus continuous lesion.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial multidetector CT images of the neck were obtained with 100
+     cc of intravenous Optiray.
+     
+     FINDINGS:  There is pronounced swelling and inflammatory fat stranding in the
+     right submandibular, parotid, and masticator spaces.  There is enlargement and
+     hyperenhancement of the right submandibular and parotid glands relative to the
+     left.  There is a 15x5 mm area of decreased enhancement in the inferior
+     portion of the parotid gland, and a 9x2 mm area of decreased enhancement in
+     the right masseter muscle, poorly characterized due to overlying dental
+     artifact, which may represent tiny developing abscesses. Evaluation of the
+     mandibular and maxillary teeth is limited by artifact related to dental
+     hardware.  There is no obvious peridental abscess. The pharyngeal airway is
+     slightly displaced to the left with no significant narrowing.
+     
+     The right common carotid artery courses medially at the level of the larynx,
+     and ascends in retropharyngeal location, which represents an anatomic variant.
+     The right lobe of the thyroid gland demonstrates mild retrotracheal extent.  A
+                                                                 (Over)
+
+     DATE: [**2553-7-21**] 10:08 PM
+     CT NECK W/CONTRAST (EG:PAROTIDS); CT 100CC NON IONIC CONTRAST   Clip # [**Clip Number (Radiology) 7759**]
+     Reason: periapical abscess vs parotid abscess vs continuous lesion  
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     Field of view: 22 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     right pleural effusion is noted.
+     
+     IMPRESSION:
+     1.  Extensive swelling and inflammation involving the right parotid and
+     submandibular glands, right masticator space, and overlying soft tissues.
+     Possible tiny developing abscesses in the parotid gland and right masseter. No
+     definite peridental abscess on limited evaluation.
+     2.  Right pleural effusion.
+     
+                                                                           DFDkq
+
+",,
+8440,24392,10487,,2553-07-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-21**] 10:08 PM
+     CT NECK W/CONTRAST (EG:PAROTIDS); CT 100CC NON IONIC CONTRAST   Clip # [**Clip Number (Radiology) 7759**]
+     Reason: periapical abscess vs parotid abscess vs continuous lesion  
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     Field of view: 22 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with new onset r parotid tender mass and loose tooth #3 w/ 
+      poor dental hygeine and a new elevation of her WBCs.
+     REASON FOR THIS EXAMINATION:
+      periapical abscess vs parotid abscess vs continuous lesion                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: DFDkq SUN [**2553-7-22**] 12:43 AM
+      -swelling and inflammation involving the right submandibular, parotid, and
+      masticator spaces; 15 x 5 mm area of low density in inferior parotid gland and
+      9 x 2 mm area of low attenuation in right masseter which are too small to
+      characterize but may represent tiny developing abscesses; dental evaluation is
+      limited by artifact but no obvious dental abscess is seen - correlate with
+      direct visualization
+      -right pleural effusion
+     WET READ AUDIT #1 DFDkq SUN [**2553-7-22**] 12:09 AM
+      swelling and inflammation involving the right submandibular, parotid, and
+      masticator spaces; 15 x 5 mm area of low density in inferior parotid gland and
+      9 x 2 mm area of low attenuation in right masseter which are too small to
+      characterize but may represent tiny developing abscesses; dental evaluation is
+      limited by artifact but no obvious dental abscess is seen - correlate with
+      direct visualization
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right parotid tenderness and a loose third tooth with poor dental
+     hygiene.  Elevated white blood cell count.  Evaluate for periapical abscess
+     versus parotid abscess versus continuous lesion.
+     
+     COMPARISON:  No previous studies.
+     
+     TECHNIQUE:  Axial multidetector CT images of the neck were obtained with 100
+     cc of intravenous Optiray.
+     
+     FINDINGS:  There is pronounced swelling and inflammatory fat stranding in the
+     right submandibular, parotid, and masticator spaces.  There is enlargement and
+     hyperenhancement of the right submandibular and parotid glands relative to the
+     left.  There is a 15x5 mm area of decreased enhancement in the inferior
+     portion of the parotid gland, and a 9x2 mm area of decreased enhancement in
+     the right masseter muscle, poorly characterized due to overlying dental
+     artifact, which may represent tiny developing abscesses. Evaluation of the
+     mandibular and maxillary teeth is limited by artifact related to dental
+     hardware.  There is no obvious peridental abscess. The pharyngeal airway is
+     slightly displaced to the left with no significant narrowing.
+     
+     The right common carotid artery courses medially at the level of the larynx,
+     and ascends in retropharyngeal location, which represents an anatomic variant.
+     The right lobe of the thyroid gland demonstrates mild retrotracheal extent.  A
+                                                                 (Over)
+
+     DATE: [**2553-7-21**] 10:08 PM
+     CT NECK W/CONTRAST (EG:PAROTIDS); CT 100CC NON IONIC CONTRAST   Clip # [**Clip Number (Radiology) 7759**]
+     Reason: periapical abscess vs parotid abscess vs continuous lesion  
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     Field of view: 22 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     right pleural effusion is noted.
+     
+     IMPRESSION:
+     1.  Extensive swelling and inflammation involving the right parotid and
+     submandibular glands, right masticator space, and overlying soft tissues.
+     Possible tiny developing abscesses in the parotid gland and right masseter. No
+     definite peridental abscess on limited evaluation.
+     2.  Right pleural effusion.
+     
+                                                                           DFDkq
+
+",,
+8440,24392,10487,0,2553-07-21 02:24:00 EST,2553-07-21 02:35:00 EST,7282,"N",69,"Nursing/Other","Progress Note 7p-7a","
+Progress Note 7p-7a
+Events: At change of shift pt. was c/o awaiting rehab bed. At around 2000 pt. converted from SR/ST into AFib. by 2130 pt's heart rate was 140's to 150's ASYMPTOMATIC. 12 lead EKG done and total of 5mg lopressor IVP given with poor result and drop of SBP into the 60's. 1000cc NS bolus given. When bolus completed, pt's heart rate remained 130s-140s and urine output was decreasing. Breath sounds became coarse with crackles, respirations appeared labored and rate in 30's. CXR done showing fluid. 30mg lasix given with fair result. Heart rate returned to 90s's to low 100's after 0.25mg dig given. Pt, now appears to be flipping from ST to AFib.
+
+Neuro: Pt. confused. Alert to self and place at times. MAE. Pupils equal and reactive. Pt. getting OOB to chair
+
+CVS: At this time pt. in AFib. SBP low 100's. Pulsus palpable with doppler. 3+ pitting edema throughout trunk and extremities. T-Max 99.3
+
+Resp: Pt. remains on 2L NC with sats >95%. Breath sounds coarse bilat. Diminished in bases. 
+
+GI: Pt. remains NPO except meds. EGD/colonoscopy done yesterday. No bleeding found. Abd. soft/distended. BS + No BM this shift.
+
+GU: Foley cath with good urine output.
+
+Skin: duoderm to coccyx. 2 ulcers on buttocks with aquacel dressings. L arm 16g peripheral IV, L femoral trauma line patent. 
+
+Plan: ? rehab if pt. stabilizes. Continue to monitor heart rate/rhythm and respiratory status closely  
+",,
+8440,24392,,,2553-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-31**] 6:56 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 7760**]
+     Reason: iv team unable to place piv and picc after multiple attempts
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 54**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with UGIB in need of vascular access.                         
+     REASON FOR THIS EXAMINATION:
+      iv team unable to place piv and picc after multiple attempts.                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of GI bleed requiring IV access.  IV access team could
+     not place PICC line on the floor.
+     
+     PROCEDURE:  The procedure was performed by [**First Name8 (NamePattern2) 7761**] [**Doctor Last Name 3127**] and Dr. [**Last Name (STitle) 6**], Dr.
+     [**Last Name (STitle) 6**], the attending radiologist, being present and supervising.  The right
+     upper arm was prepped and draped in a sterile fashion.  Since no suitable
+     superficial veins were visible.  ultrasound was used for localization of a
+     suitable vein.  The right basilic vein was patent and compressive.
+     
+     Local anesthesia with 1% Lidocaine, the basilic vein was entered under
+     ultrasonographic guidance with a 21 gauge single.  A 0.018 guide wire was
+     advanced through the needle into the superior vena cava.  Based on the
+     markers on the guidewire, it was determined that a length of 30 cm would be
+     suitable. The PICC line was trimmed to length and advanced over a 4 French
+     sheath under fluoroscopic guidance into the superior vena cava. The sheath was
+     removed. Catheter was flushed.  A final chest radiograph was obtained
+     demonstrating the tip of the catheter to be within the SVC.  The line is ready
+     for use. Ultrasound images before and after placement of a line demonstrate
+     patency of the left basilic vein.  The statlock was applied and the line was
+     heplocked.
+     
+     IMPRESSION:  Successful placement of 30 cm total length right PICC line with
+     tip in superior vena cava, ready for use.
+     
+
+",,
+8440,24392,,,2553-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-31**] 6:56 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 7760**]
+     Reason: iv team unable to place piv and picc after multiple attempts
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 54**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with UGIB in need of vascular access.                         
+     REASON FOR THIS EXAMINATION:
+      iv team unable to place piv and picc after multiple attempts.                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of GI bleed requiring IV access.  IV access team could
+     not place PICC line on the floor.
+     
+     PROCEDURE:  The procedure was performed by [**First Name8 (NamePattern2) 7761**] [**Doctor Last Name 3127**] and Dr. [**Last Name (STitle) 6**], Dr.
+     [**Last Name (STitle) 6**], the attending radiologist, being present and supervising.  The right
+     upper arm was prepped and draped in a sterile fashion.  Since no suitable
+     superficial veins were visible.  ultrasound was used for localization of a
+     suitable vein.  The right basilic vein was patent and compressive.
+     
+     Local anesthesia with 1% Lidocaine, the basilic vein was entered under
+     ultrasonographic guidance with a 21 gauge single.  A 0.018 guide wire was
+     advanced through the needle into the superior vena cava.  Based on the
+     markers on the guidewire, it was determined that a length of 30 cm would be
+     suitable. The PICC line was trimmed to length and advanced over a 4 French
+     sheath under fluoroscopic guidance into the superior vena cava. The sheath was
+     removed. Catheter was flushed.  A final chest radiograph was obtained
+     demonstrating the tip of the catheter to be within the SVC.  The line is ready
+     for use. Ultrasound images before and after placement of a line demonstrate
+     patency of the left basilic vein.  The statlock was applied and the line was
+     heplocked.
+     
+     IMPRESSION:  Successful placement of 30 cm total length right PICC line with
+     tip in superior vena cava, ready for use.
+     
+
+",,
+8440,24392,,,2553-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-31**] 6:56 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 7760**]
+     Reason: iv team unable to place piv and picc after multiple attempts
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 54**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with UGIB in need of vascular access.                         
+     REASON FOR THIS EXAMINATION:
+      iv team unable to place piv and picc after multiple attempts.                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of GI bleed requiring IV access.  IV access team could
+     not place PICC line on the floor.
+     
+     PROCEDURE:  The procedure was performed by [**First Name8 (NamePattern2) 7761**] [**Doctor Last Name 3127**] and Dr. [**Last Name (STitle) 6**], Dr.
+     [**Last Name (STitle) 6**], the attending radiologist, being present and supervising.  The right
+     upper arm was prepped and draped in a sterile fashion.  Since no suitable
+     superficial veins were visible.  ultrasound was used for localization of a
+     suitable vein.  The right basilic vein was patent and compressive.
+     
+     Local anesthesia with 1% Lidocaine, the basilic vein was entered under
+     ultrasonographic guidance with a 21 gauge single.  A 0.018 guide wire was
+     advanced through the needle into the superior vena cava.  Based on the
+     markers on the guidewire, it was determined that a length of 30 cm would be
+     suitable. The PICC line was trimmed to length and advanced over a 4 French
+     sheath under fluoroscopic guidance into the superior vena cava. The sheath was
+     removed. Catheter was flushed.  A final chest radiograph was obtained
+     demonstrating the tip of the catheter to be within the SVC.  The line is ready
+     for use. Ultrasound images before and after placement of a line demonstrate
+     patency of the left basilic vein.  The statlock was applied and the line was
+     heplocked.
+     
+     IMPRESSION:  Successful placement of 30 cm total length right PICC line with
+     tip in superior vena cava, ready for use.
+     
+
+",,
+8440,24392,,,2553-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-7-31**] 6:56 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 7760**]
+     Reason: iv team unable to place piv and picc after multiple attempts
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 54**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with UGIB in need of vascular access.                         
+     REASON FOR THIS EXAMINATION:
+      iv team unable to place piv and picc after multiple attempts.                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of GI bleed requiring IV access.  IV access team could
+     not place PICC line on the floor.
+     
+     PROCEDURE:  The procedure was performed by [**First Name8 (NamePattern2) 7761**] [**Doctor Last Name 3127**] and Dr. [**Last Name (STitle) 6**], Dr.
+     [**Last Name (STitle) 6**], the attending radiologist, being present and supervising.  The right
+     upper arm was prepped and draped in a sterile fashion.  Since no suitable
+     superficial veins were visible.  ultrasound was used for localization of a
+     suitable vein.  The right basilic vein was patent and compressive.
+     
+     Local anesthesia with 1% Lidocaine, the basilic vein was entered under
+     ultrasonographic guidance with a 21 gauge single.  A 0.018 guide wire was
+     advanced through the needle into the superior vena cava.  Based on the
+     markers on the guidewire, it was determined that a length of 30 cm would be
+     suitable. The PICC line was trimmed to length and advanced over a 4 French
+     sheath under fluoroscopic guidance into the superior vena cava. The sheath was
+     removed. Catheter was flushed.  A final chest radiograph was obtained
+     demonstrating the tip of the catheter to be within the SVC.  The line is ready
+     for use. Ultrasound images before and after placement of a line demonstrate
+     patency of the left basilic vein.  The statlock was applied and the line was
+     heplocked.
+     
+     IMPRESSION:  Successful placement of 30 cm total length right PICC line with
+     tip in superior vena cava, ready for use.
+     
+
+",,
+8440,,,,2553-09-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-9-4**] 3:48 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 7762**]
+     Reason: COPD,CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE VIEW
+     
+     HRC # H33302, room 537 West.
+     
+     INDICATION:  COPD.  CHF.
+     
+     FINDINGS:  No prior comparisons.
+     
+     There is mild left ventricular cardiomegaly.  The mediastinum appears
+     unremarkable.  No overt CHF or active pulmonary infiltrates.  There is some
+     linear atelectasis or scarring at the right base.  No sizable pleural
+     effusions.
+     
+     Also noted is severe degenerative changes and deformity involving both
+     shoulders.
+     
+     IMPRESSION:  No acute process identified.
+                                                                           
+
+",,
+8440,,,,2553-09-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-9-4**] 3:48 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 7762**]
+     Reason: COPD,CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, SINGLE VIEW
+     
+     HRC # H33302, room 537 West.
+     
+     INDICATION:  COPD.  CHF.
+     
+     FINDINGS:  No prior comparisons.
+     
+     There is mild left ventricular cardiomegaly.  The mediastinum appears
+     unremarkable.  No overt CHF or active pulmonary infiltrates.  There is some
+     linear atelectasis or scarring at the right base.  No sizable pleural
+     effusions.
+     
+     Also noted is severe degenerative changes and deformity involving both
+     shoulders.
+     
+     IMPRESSION:  No acute process identified.
+                                                                           
+
+",,
+8440,,,,2553-10-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2553-10-22**] 1:19 PM
+     PELVIS, NON-OBSTETRIC                                           Clip # [**Clip Number (Radiology) 7763**]
+     Reason: vaginal bleeding interm r/o endometral hyperplasty
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with vagnial bleeding interm r/o endometral hyperplasty
+     REASON FOR THIS EXAMINATION:
+      vaginal bleeding interm r/o endometral hyperplasty
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Persistent vaginal bleeding.  
+     
+     PELVIC ULTRASOUND:
+     
+     Transabdominal ultrasound only was performed.  An anteverted uterus is present
+     which measures 10 x 4.9 x 6.6 cm large for a [**Age over 90 **]-year-old.  No fibroids are
+     seen.
+     
+     Echogenic fluid and debris are seen within the endometrium which measures 18
+     mm in the transverse diameter. Some thickening of the endometrium is present
+     and some blood flow to one area is also seen.
+     
+     Neither ovary is seen.  
+     
+     A right-sided bladder diverticulum is present.  The right ovary was
+     identified.  The left ovary is not seen.
+     
+     IMPRESSION:  Thickened endometrium.  Blood and debris within the uterine
+     cavity suggesting abnormality of the endometrium and some cervical stenosis.
+                                                                           
+
+",,
+8440,,,,2554-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2554-4-2**] 3:11 PM
+     CHEST (PA & LAT); HEB REB PRO FEE ONLY                          Clip # [**Clip Number (Radiology) 7764**]
+     Reason: FEVER / WHEEZING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     HISTORY:  Fever and wheezing.
+     
+     COMPARISON:  [**2553-9-4**].
+     
+     Compared to the prior study, there has been no interval change.  There is a
+     band of linear density at the base of the right lung consistent with scarring.
+     There is no CHF.  The heart is enlarged.
+     
+     IMPRESSION:  Stable appearance of the chest.
+                                                                           
+
+",,
+8440,,,,2554-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2554-4-2**] 3:11 PM
+     CHEST (PA & LAT); HEB REB PRO FEE ONLY                          Clip # [**Clip Number (Radiology) 7764**]
+     Reason: FEVER / WHEEZING
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     HISTORY:  Fever and wheezing.
+     
+     COMPARISON:  [**2553-9-4**].
+     
+     Compared to the prior study, there has been no interval change.  There is a
+     band of linear density at the base of the right lung consistent with scarring.
+     There is no CHF.  The heart is enlarged.
+     
+     IMPRESSION:  Stable appearance of the chest.
+                                                                           
+
+",,
+8440,,,,2554-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2554-4-23**] 2:43 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 7765**]
+     Reason: INCREASE WEIGHT HYPOXIA ? CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:  
+     
+     HISTORY:  Increasing weight and hypoxia.
+     
+     COMPARISON:  [**2554-4-2**].
+     
+     Today's film was obtained in the supine positioning.  Allowing for differences
+     in technique, there is likely mild to moderate CHF, slightly worsened since
+     the prior study.  There is also an increased opacity in the right lower lobe
+     consistent with atelectasis or infiltrate.
+     
+     IMPRESSION:  Film limited by supine positioning.  Likely increased CHF and
+     worsening right lower lobe infiltrate or atelectasis.
+                                                                           
+
+",,
+8440,,,,2554-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2554-4-23**] 2:43 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 7765**]
+     Reason: INCREASE WEIGHT HYPOXIA ? CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:  
+     
+     HISTORY:  Increasing weight and hypoxia.
+     
+     COMPARISON:  [**2554-4-2**].
+     
+     Today's film was obtained in the supine positioning.  Allowing for differences
+     in technique, there is likely mild to moderate CHF, slightly worsened since
+     the prior study.  There is also an increased opacity in the right lower lobe
+     consistent with atelectasis or infiltrate.
+     
+     IMPRESSION:  Film limited by supine positioning.  Likely increased CHF and
+     worsening right lower lobe infiltrate or atelectasis.
+                                                                           
+
+",,
+8440,,,,2554-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2554-5-7**] 2:15 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 7766**]
+     Reason: CHF - FOLLOW-UP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     HISTORY:  CHF followup.
+     
+     COMPARISON:  [**2554-4-23**].
+     
+     Since the prior study, allowing  for differences in technique, the degree of
+     CHF is unchanged.  Right lower lobe opacity is stable.
+     
+     IMPRESSION:  Mild-to-moderate CHF.  No interval change from prior study.
+     
+     Right lower lobe opacity unchanged.
+
+",,
+8440,,,,2554-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2554-5-7**] 2:15 PM
+     CHEST (SINGLE VIEW); HEB REB PRO FEE ONLY                       Clip # [**Clip Number (Radiology) 7766**]
+     Reason: CHF - FOLLOW-UP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST
+     
+     HISTORY:  CHF followup.
+     
+     COMPARISON:  [**2554-4-23**].
+     
+     Since the prior study, allowing  for differences in technique, the degree of
+     CHF is unchanged.  Right lower lobe opacity is stable.
+     
+     IMPRESSION:  Mild-to-moderate CHF.  No interval change from prior study.
+     
+     Right lower lobe opacity unchanged.
+
+",,
+8440,,,,2554-05-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2554-5-15**] 8:48 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7768**]
+     Reason: eval for infiltrate                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with fall, cough                                              
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fall and cough, evaluate for infiltrate.
+     
+     COMPARISON:  [**2553-7-21**].
+     
+     TECHNIQUE:  PA and lateral chest.
+     
+     FINDINGS:  Heart size is within normal limits.  Since the previous
+     examination, there is a new 3.3 cm rounded opacity at the left hilum
+     consistent with a hilar mass.  Bilateral pleural effusions and bibasilar
+     atelectasis are noted.  Additional note is made of severe degenerative changes
+     at the glenohumeral joints bilaterally.
+     
+     IMPRESSION: 1)  3.3 cm left hilar mass.  Contrast enhanced chest CT is
+     recommended for further evaluation.
+     
+     2)  Bilateral pleural effusions and bibasilar atelectasis.
+     
+     Results were called to patient's listed PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 7769**], at 2 PM on
+     [**2554-5-15**] as the ED resident, Dr. [**Last Name (STitle) 7770**], caring for the patient was
+     unavailable.  Dr. [**Last Name (STitle) 7769**] no longer sees this patient as she is now located
+     at [**Hospital **] Rehab.  An email was therefore sent to [**First Name8 (NamePattern2) 7771**] [**Last Name (NamePattern1) 7772**] of the ED to
+     communicate the finding of left hilar mass and recommendation for CT.  
+
+",,
+8440,,,,2554-05-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2554-5-15**] 4:32 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7767**]
+     Reason: eval for bleed                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with fall, head trauma                                        
+     REASON FOR THIS EXAMINATION:
+      eval for bleed                                                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JWK WED [**2554-5-15**] 5:28 AM
+      No hemorrhage or mass effect.
+      Right parietal subgaleal hematoma.
+      Chronic microvascular ischemic changes.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old female with a fall and head trauma, evaluate for
+     bleed.
+     
+     No prior studies are available for comparison.
+     
+     TECHNIQUE:  Non-contrast head CT scan.
+     
+     FINDINGS:  There is no intracranial hemorrhage, mass effect, shift of the
+     normally midline structures, or major vascular territorial infarct.  The [**Doctor Last Name 30**]-
+     white matter differentiation is preserved.  There are periventricular white
+     matter hypodensities consistent with chronic microvascular infarction. An
+     ovoid 5-mm hypodensity in the left basal ganglia likely represents an old
+     lacunar infarction.  There are age-appropriate involutional changes.  There is
+     a right parietal subgaleal hematoma.  The osseous structures are unremarkable.
+     There is mild mucosal thickening of the ethmoid air cells.
+     
+     IMPRESSION:
+     
+     1.  No hemorrhage or mass effect.
+     
+     2.  Chronic ischemic disease.
+     
+     3.  Right parietal subgaleal hematoma.
+                                                                           DFDgf
+
+",,

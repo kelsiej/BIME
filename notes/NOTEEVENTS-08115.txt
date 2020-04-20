@@ -1,0 +1,328 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8115,14457,,,3045-10-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3045-10-15**]     Discharge Date:  [**3045-10-18**]
+
+Date of Birth:   [**2962-12-12**]     Sex:  M
+
+Service:
+
+ADDENDUM:
+
+This is an addendum to the GI portion.
+
+An EGD was performed showing a single non-bleeding 10 mm
+ulcer of benign appearance without somata of recent bleeding
+found in the duodenal bulb.  Patient is just recommended to
+be discharged on Protonix 40 mg p.o. q.d.
+
+Also add to Cardiovascular that patient received an
+echocardiogram which revealed ejection fraction of 35%, 2+
+mitral regurgitation and 1+ tricuspid regurgitation.  No new
+cardiac medications are added.
+
+DISCHARGE MEDICATIONS:
+1.  Metformin 850 mg p.o. b.i.d.
+2.  Protonix 40 mg p.o. q.d.
+3.  Lopressor 50 mg p.o. q.d.
+4.  Lipitor 10 mg p.o. q.d.
+
+FOLLOW UP:  Please follow up with Dr. [**Last Name (STitle) 11194**] within one week.
+
+
+
+
+                          [**First Name11 (Name Pattern1) 888**] [**Last Name (NamePattern4) 889**], M.D.
+
+Dictated By:[**Last Name (NamePattern1) 5785**]
+
+MEDQUIST36
+
+D:  [**3045-10-17**]  12:39
+T:  [**3045-10-20**]  10:50
+JOB#:  [**Job Number 11195**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 888**] [**Last Name (NamePattern1) **]
+ on: WED [**3045-11-12**] 12:50 PM
+(End of Report)
+
+
+",,
+8115,14457,10099,0,3045-10-15 04:57:00 EST,3045-10-15 05:08:00 EST,-1,"N",69,"Nursing/Other","progress note","
+progress note
+neuro-pt alert and oriented and quite conservant. pt afebrile on admission. pt denies pain. pt maetc. 
+
+cv- pt hr sr-st 90-100's with bigeminy noted at times. bp stable at present. pt with 2 left piv's for access. and pt currently receiving 2 of 3 units prbc. in other piv pt receiving insulin gtt at 2 u/hr. pt with ekg changes on admission so 2nd of third ckmb sent. third to be sent at 12p.  pt with good pulses and all 4 extremities.
+
+resp- pt on ra and is in no apparent distress. denies sob. o2 sat>93%. lungs clear throughout.
+
+gi/gu- pt tolerating po in ed and also voided in ed.  bowel sounds present and abd soft, nondistended, nontender. no emesis since arrival to ed.
+
+skin- c/d/i no edema or breakdown noted. will continue to assess.
+
+",,
+8115,14457,10099,0,3045-10-15 16:47:00 EST,3045-10-15 17:06:00 EST,-1,"N",69,"Nursing/Other","Nsg Progress Note 7a-7p","
+Nsg Progress Note 7a-7p
+Neuro: A+O X3. Intact. No c/o lightheadedness.
+CV: Bp 109-120's/40's. NSR with occass. PVC's infrequent bigeminny-team aware. HR 80-90's. Started back on lopressor 25mg bid. No c/o chest pain. CPK @ 1100 trending up to 585. Repeat @ 1800 pending. Hct after 3 units 25.2. Fourth unit hung and repeat HCt pending @ 1800. Pneumo boots started. F/U EKG ordered for AM.
+
+RESP: On RA sats 97-100%. No SOB. Lungs clear with faint cx's at bases.
+
+GI: No emesis, no stool. Abd soft with good BOS. Started on clear liquid diet tolerating well. No nausea.
+
+GU: Voiding good amounts in urinal.
+SKIN: intact.
+Endocrine: insulin gtt d/c'd @ 0800.  BS after that were 61, 66, 63. NPO still @ this time so one amp D50 given. BS up to 150 after this. Started back on Metoformin bid. 1700 BS 156 pt received 2 units reg. insulin followed by liquid dinner.
+
+Social: daughter visited briefly. Pt is good spirits.
+",,
+8115,14457,10099,0,3045-10-16 04:42:00 EST,3045-10-16 04:46:00 EST,-1,"N",69,"Nursing/Other","progress note","
+progress note
+neuro- pt alert and oriented and without complaint. denies pain. maetc. afebrile at present.
+
+cv- pt is sr with pvc's and runs of bigemeny at times. pt bp stable and pt with good pulses in all 4 extremities. pt cpk on decline at present and h and h stable. am labs pending. pt with only one piv at present as appeared infiltrated and dc'd.
+
+resp- pt on ra and o2 sat>95%. lungs cl. pt denies sob.
+
+gi/gu- pt npo at present for possible scope in am?  no stools overnight but pt with bowel sounds. pt voiding cl yellow urine into urinal.
+
+skin- c/d/i no breakdown or edema noted. will continue to assess.
+",,
+8115,14457,10099,0,3045-10-16 15:46:00 EST,3045-10-16 15:59:00 EST,-1,"N",69,"Nursing/Other","nsg progress note 7a-7p","
+nsg progress note 7a-7p
+Neuro: A+O X 3. intact. Hard of hearing ? somewhat forgetful. Steady on feet. No c/o lightheadedness.
+CV: NSR. cardiac enzymes trending down. No c/o chest pain. EKG done today still with ST depression. On beta blocker bid. HR controlled in the 80's with occassional PVC's occass. bigem. Team aware. new #20 PIV placed today in right f.a.
+RESP: on Ra sats >96%. LS clear with some faint crackles in bases. Pt coughing up thick white secretions using yankeur. Pt concerned about persistent cough. Notified team. no interventions @ this time. 
+GI: No emesis, no N+V, no stool today. Tolerated a soft diet today. Abd soft with +bos. NPO after midnoc for am scope.
+GU: Voiding QS clear yellow urine.
+Skin: intact
+Heme: Hct stable 28.3 goal to keep >28
+Social: daughter and son in to visit. Friends in to visit. pt playing cards. Plan to scope tomorrow and ? possible d/c to home n two days. Pt is called out. Transfer note complete
+",,
+8115,14457,10099,0,3045-10-17 03:39:00 EST,3045-10-17 03:43:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+PT ALERT AND ORIENTED SITTING IN CHAIR AT BEGINING OF SHIFT. TALKING WITH SON AND SHAVED HIS FACE. VITAL SIGNS STABLE THROUGHOUT THE NIGHT. VOIDING IN URINAL GOOD AMT'S, SITS ON EDGE OF BED WITHOUT DIFF.  
+BACK TO BED PT SLEPT WELL THROUGHOUT THE NIGHT. 
+HAS NOT REQUIRED INSULIN. BLD SUG CHECKED WITH FINGERSTICK. 
+HR SR WITH OCC PVC'S. PT TO HAVE COLONOSCOPY AND CARDIAC ECHO. 
+",,
+8115,14457,10099,0,3045-10-17 14:45:00 EST,3045-10-17 14:52:00 EST,-1,"N",69,"Nursing/Other","npn","
+npn
+
+Pt is AxOx3. Fully independent. Was seen by OT today and declared safe to return home.
+
+VSS, NSR in the 70's with no ectopy.
+
+Voids without difficulty, clear yellow urine. No BM this shift. Pt had an EGD this am that showed a duodenal ulcer.
+
+Social: Daughter and son in area. One of his dtr died in May of pancreatic cancer, she was 37.
+
+Plan: Pt will be dc'd home tomorrow am. Scripts are written (in front of chart and p 2 is complete. Monitor BS AC and HS.
+",,
+8115,6623,10100,0,3047-11-13 05:16:00 EST,3047-11-13 05:51:00 EST,1722,"N",1,"Nursing/Other",,"
+
+NSG NOTE
+
+S: "" IF I NEED THE TUBE JUST PUT IT IN""
+
+CV:/R:  ON INTITIAL ASSESSMENT PT HAD EXP WHEEZES AND CRACKLES 1/4 UP BILAT. O2 SATS ON 100% NRB 95-96%.ALSO TO NOTE , RA SATS IMMEDIATELY DROP TO 79%. @ 0030 PT HAD INCREASING RR-40 ON MINIMAL EXERTION. CRACKLES NOTED 3/4 UP. PT COUGHING AND RAISING COPIOUS BLOODY FROTHY SPUTUM. SATS ON 100% NRB DOWN TO 86%. DR [**Last Name (STitle) **] [**Name (STitle) 56**]. PT REPOSITIONED. ATTEMPTED ABG'S BY HOUSE STAFF. ANESTHSIA [**Name (STitle) 56**]. PT APPEARING MORE UNCOMFORTABLE,BUT ABLE TO VERBALIZE HIS WISHED TO BE INTUBATED. PT PREPED AND INTUBATED WITH 7.5 ETT,23 AT THE LIP. SUCTIONED FOR COPIOUS BLOOD FROTHY SECRETIONS. AFTER FREQ SUCTIONING AND VENT CHG PT APPEARS MUCH MORE COMFORTABLE. CURRENT SETTINGS AC 70%,500X14,5 CXR COMPLETED AND ETT PULLED BACK TO 21CM. CURRENT AGB'S 7.42,51,94,34,6,97%. CRACKLES AT BASES WITH COURSE BS IN UPPER LUNG FIELDS. POST INTUBATION PT HYPERTENSIVE WITH BP 200/100. PT AGITATED AND ATTEMPTING TO SIT UP. PROPOFOL INITIATED. PT REQUIERING HIGH DOSE PROPOFOL FOR SEDATION. PT THAN BECAME HYPOTENSIVE WITH BP DOWN TO 88/ DOPAMINE INITIALY HUNG BUT WITH INCREASING HR TO 105. LEVOPHED STARTED AND DOPAMINE NOW OFF. CURRENT LEVOPHED DOSE IS WEANING AT  0.15MCG/KG/MIN. HR NSR-ST.
+
+GI: OGT PLACED WITH CXR CONFIRMATION. DRAINING BILIOUS SECRETIONS 100CC TOTAL. HAD SM AMT OF STOOL BROWN GUIAC NEG. ABD IS SOFT + BS
+
+GU: LOS NEG 3042 HOWEVER U/O IN DOWN TO 50CC/HR HOUSE STAFF AWARE.
+
+SKIN: RED COCCYX . FREQ TURNING. SKIN IS INTACT
+
+NEURO: ALERT AND ORIENTED PRIOR TO INTUBATION. ABLE TO FOLLOW COMMANDS. MAE. AGITATED POST INTUBATION. PROPOFOL GTT FOR SEDATION. 
+
+ID; TEMP AMX 100.4 PR PLACED ON FLAGYL AND LEVOFLOXCIN FOR PRESUMED PNA.
+
+LABS: K+ 3.4 GIVEN 40 MEQ KCL VIA OGT
+      MG 1.4 RECEIVED 2 AMPS MAG SULFATE
+      BS 104 NO COVERAGE GIVEN
+
+ACCESS: R RAD A-LINE PLACED
+        R IJ TRIPLE LUMEN PLACED
+        2 PHERP IV'S FLUSHED AND INTACT
+
+SOCIAL: DAUGHTER AND SONS INTO VISIT ON EVES. NURSING ENCOURAGED MD [**First Name (Titles) **] [**Last Name (Titles) 5409**] FAMILY F/U INTUBATION
+
+A/P: 84 YR OLD S/P MI WITH 2 WK HX OF CP PMH CABG,PTCA OF SVG-RCA, AAA REPAIR, NOW PRESENTS TO CCU POST CATH WITH FLASH PULM EDEMA. PRIOR TO CCU ADM PT TX ON FLOOR WITH LASIX AND BIPAP.  CON'T TO FOLLOW RESP STATUS. ? ETIOLOGY ARDS VS CHF. PT MAY HAVE CHEST CT TODAY POSSIBLE SWAN INSERTION.
+",,
+8115,6623,10100,0,3047-11-13 06:16:00 EST,3047-11-13 06:22:00 EST,1942,"N",1,"Nursing/Other",,"
+
+Respiratory Care
+Pt required intubation due to worsening hypoxemia/pumonary edema. Intubated by anesthesia with 7.5 et tube taped at 23 initially then at 21cm per CXR. Suctioned for copious amounts of frothy red sputum immediately following intubation, improved by change of shift. ABGs are with compensated met alkalosis. Oxygenation only fair requiring high FIO2 to maintain. Would benefit from increase of peep but pt has been hypotensive requiring pressors. Plan is to increase peep/lower FIO2 as able per hemodynamaics.
+",,
+8115,6623,10100,0,3047-11-13 18:35:00 EST,3047-11-13 19:05:00 EST,1619,"N",1,"Nursing/Other","ccu npn","
+ccu npn
+o- id- t max 99.5po this eve, re'd tylenol x1 ogt (prbcs infusing). cont. abx. sputum gm stain no micoorganisms seen, c+s pnd. 
+cv- hr 60-70s sr, 1 7 beat run vt in am, then occ pvc, couplet. bp 99-140s/. levophed weaned off by 1:30pm. k 3.8, replaced w/40meq ogt x1, mg 2.1. hct 28.2. 1 unit prbcs up this pm after ct, infusing without problems. ck trended down, treponin .63. cvp 4-9. r groin d+i, dsg removed, no hematoma, pulses dopp. dp/pt bilat. 
+resp- cont. intubated on 500tv, rate 14, breathing up to 22, 60%, weaned x2 to 40% w/5peep. abg on 40%-  98,48,7.43,33,6. sats 98-100. sx'd for small amts thick tan, bld tinged sputum via ett, mod. white orally. l/s coarse thruout. pcxr done, also down for chest ct this pm with rn, rt and coworker, tol chest ct ok, results pnd. lasix 20mg iv x1 given 1830 as ordered, ?worsening on pcxr. 
+gi- abd soft w/hypoactive b. sounds. ogt with small green to yellow bilious asp. giuiac neg. ogt clamped and started on t/f respalor 15cc/hr this pm, goal 45cc/hr, increase by 10cc q4hrs as tolerated, hold residual >= 100cc. no bm. 
+dm- started on insulin drip .5units/hr, bs 100s-130s, 1715 bs 85, insulin drip off and at 1800 bs 74, ho notified and re'd about 5oz orange juice. 
+skin- cont. with red/pink areas around rectal area, do not appear to be pressure related, less red later day. repositioned q2-3hrs with skin/oral care. 
+ms- sedated on propofol, then switched to fent/versed. responds to noxious stimuli and awoke while changing sedation, nodded head appropriately when more awake, but trying to sit up, agitated. fentanyl increased to 75mic/hr, versed to 3mg/hr. 
+social- fx/friends in off/on most afternoon, suportive to pt. fx updated on pt's condition, tests, prbcs etc and plan, understand. 
+a- intubated pul edema, ?pneumonia, secretions less bloody. weaned off levophed. 
+p- finish prbcs, check post hct, k and treponin. monitor for low bp, vt. f/u ct results, follow for diuresis. increase t/f as tolerated. 
+follow bs, insulin drip when bs higher. cont. to keep fx updated.  
+",,
+8115,6623,10100,0,3047-11-14 04:04:00 EST,3047-11-14 04:07:00 EST,2010,"N",1,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning. No vent changes made over night. Current settings A/C 500*14 40% and 5 peep. RSBI this am 186.7. Breathsounds are coarse. Please see respiratory section of carevue for further data.
+Plan: Continue mechanical ventilation. 
+",,
+8115,6623,10100,0,3047-11-14 04:54:00 EST,3047-11-14 06:02:00 EST,5517,"N",1,"Nursing/Other","NURSING NOTE 7P-7A","
+NURSING NOTE 7P-7A
+S: Pt intubated/sedated.
+O: See careview for all objective data.
+NEURO- Conts sedation on versed 3mg/hr fentanyl 50mcg/hr. Responds only to pain stimuli, pupils 3mm equil/sluggish. 
+CV- Remains in SR with rare PVCs, HR 64-76, ABP 98-128/34-56, MAPs 57-72, still off levophed gtt. HCT 27.1 transfused 1 unit prbc repeat HCT 31.0. Mg 1.9 repleated 2gms iv, K+ 3.3 repleated 60meq po. R fem cath site cd+i no oozing/hematoma, +doppler pulses bil LE. 
+RESP- LS coarse throughout with crackles in bases. Vented on CMV @ 40% 500x 14, 5 peep, last ABG 7.41 51 129 6 33, sats 99-100%. Sx x3 thick yellow blood tinged sputum. Chest CT  ? possibility of an interstitial pulmonary disease. Risbi 186.
+ID- Tmax 98.8 po wbc 9.6, conts on flagyl/levoflox for pneumonia.
+GI/GU- Abd soft +bs no stool. Conts on OGT feedings respolar @ 25cc/hr residuals < 40cc. Foley patent voiding qs, given 40 lasix x1 iv post transfusion with good diuresis. I+O +300.
+SKIN- Intact, sm red abrasion @ coccyx ota, turning pt s/s.
+A/P: 84yo male with hx CAD CHF AAA repair c/o c-pain x2 weeks. Admitted post cardiac cath with flash pulmonary edema. Chest ct ? worsening of existing pulmonary disease, alvoli hemmorraging. Cont to monitor HCT levels, urine op with diuresis and support family.     
+",,
+8115,6623,10100,0,3047-11-14 16:08:00 EST,3047-11-14 16:10:00 EST,1949,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+pt was Bronched for thick sputum tol well pt weaned to cpap with PS check respiratory page for info
+",,
+8115,6623,10100,0,3047-11-14 17:32:00 EST,3047-11-14 19:01:00 EST,1619,"N",1,"Nursing/Other","ccu npn","
+ccu npn
+o- id- cont. on abx, temp 99.4 to 98.4po. sputum c+s/gm stain sent from bronch, previous sputum: c+s prelim oroph. flora, no legionellla. bld c+s pnd, urine neg. 
+cv- hr 60-80s sr, rare pvc, couplet. bp 90-140s/. k 3.8 this pm, replaced with 40meq kcl via ogt, mag 2.0, hct up to 32.3. restarted on lopressor. 
+resp- on a/c most day. bronch early pm showed no lesions or bleeding sites, specimen sent c+s. sx'd for sm amts thick tan sputum via ett, white to clear orally. ett rotated w/rt. started to wean after recovered from bronch- on psv 12 with 5peep at 40%, rr low 20s, tv 300-400s. no resp distress, sats 97-100. abg 7.37,56,124,34,5. risbi 61.2 this eve, during spont. breathing trial, pt desat, bp/hr up, agitated with vent found disconnected. reconnected, on 100%, sat up to 100%, bp/hr improved, med with 40mic fentanyl and 1mg versed. resp. called, back to psv. u/o 12-35cc/hr after diuresis this am. i+o pos. about 230cc at 1800. 
+gi- abd soft w/bowel sounds. respalor increased q4hrs to goal of 45cc/hr with low residauls. no bm, passing flatus. 
+dm- bs 142-165, back on ss coverage. 
+ms- cont. on fent/versed drips, needs occ. small boluses when care given, during bronch, sx'ed etc. weaned drips to 40mic fent/hr and versed 2mg/hr for weaning. agitated when awake, tries to sit up, waves arms. 
+skin- repos side to side q2-3hrs w/skin/oral care, coccyx/rectal area
+remains sl. red/pink. 
+social- fx/friend in most day, updated on pt's condition, procedures and plan. 
+a- begun vent weaning, bronch done. 
+p- wean sedation slowly overnoct as tolerated. cont. psv overnoct as tolerated. ?try and extubate in am. monitor for low bp. cont. to update fx. 
+
+
+ 
+",,
+8115,6623,10100,0,3047-11-15 04:07:00 EST,3047-11-15 04:10:00 EST,2010,"N",1,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning per protocol. No vent changes this shift. Current settings PS 12 peep 5 and fio2 40%. Breathsounds are coarse. Please see respiratory section of carevue for further data.
+Plan: Continue mechanical ventilation. RSBI this am 73.
+",,
+8115,6623,10100,0,3047-11-15 04:11:00 EST,3047-11-15 04:31:00 EST,1722,"N",1,"Nursing/Other",,"
+
+NSG NOTE
+
+CV: HR 69-75 NSR. NO VEA NOTED. SBP 120-130, MAP'S 60-80. REMAINS ON LOPRESSOR 25MG. CVP 5-8
+
+RESP; MECH VENT ON CPAP/PS 12,5 40%. ABG'S 7.39,53,160,6,33,98%. SUCTIONED FOR THICK TAN SECRETIONS. LAVAGE NEEDED AT TIMES. IMPROVING BS COURSE BILAT IN ALL LUNG FIELDS. VT 420-430. PT APPEARS COMFORTABLE. OVERNOC SATS 99-100%. RSBI THIS AM 73. INTUBATED ON [**11-12**]
+
+GI: OGT FEEDINGS WITH RESPALOR @ GOAL RATE OF 45CC. ABD SOFT + BS NO STOOL THIS SHIFT. ON PPI
+
+GU: U/O 20-35CC/HR.  GOAL IS EVEN I/O
+
+SKIN: INTACT. COCCYX IS RED BUT SKIN INTACT.
+
+ID: REMAINS ON FLAGYL AND LEVOFLOXCIN FOR PRESUMED PNA. TEMP MAX 100.2 PR
+
+NEURO: ON FENTANYL 40MCG AND VERSED 2MG. WILL SLOW WEAN SEDATION IN AM FOR POSSIBLE EXTUBATION. PT BECOMES AGITATED, ATTEMPTS TO SIT UP. OPENS EYES TO VOICE. ATTEMPTS TO MOUTH WORDS. MAE. PRIOR TO INTUBATION PT A/O X3 FOLLOWING COMMANDS AND MAE.
+
+LABS: K+ 4.2
+      BS 186 RECEIVED REG INSULIN PER SS 2 UNITS.
+
+SOCIAL: DAUGHTER CALLED FOR U/D SUPPORT GIVEN
+
+A/P; 84 YR OLD WITH PMH: CABG,AAA REPAIR, PTCA SVG-RCA. S/P MI S/P CATH ON [**11-12**] 30% LM,SM LAD D1 60%,RCA MID DIFFUSE DX, SVG-OM PDA OCCLUDED MID, [**11-12**] ECHO EF 35-40%,1+ MR. CATH C/B FLASH PULM,PNA, ? ARDS. TRANSFERED TO CCU ON [**11-12**]. REQUIERED INTUBATION/LASIX. [**11-13**] CHEST CT -ALVEOLI HEMMORRAGH. [**11-14**] BRONCH. NO LESIONS SEEN. WASHINGS SENT. PLAN TO EXTUBATE. MEDICAL MANAGMENT FOR CADIOVASCULAR DX. CON'T LOPRESSOR. FOLLOW RESP STATUS.
+
+
+",,
+8115,6623,10100,0,3047-11-15 16:02:00 EST,3047-11-15 16:24:00 EST,2396,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+S- ""Can I walk arounds?""
+
+O- see flowsheet for all objective data.
+
+resp- Pt successfully extubated @ 9am- Presently, in O2 @ 4L NC- lung sounds with exp wheezes noted on R post extubation- resp Rx given with effect- now, lung sounds coarse- expectorating thick yellow colored mucous- SpO2 95-98%.
+
+cv- Tele: SR occ PVC- HR 75-88- post extubation B/P up- lopressor 5mg IV X2 given- ntg gtt started & is now being weaned off- captopril started & tolerated well- B/P 119-161/45-66- no cardiac c/o- Hct 31.2- K 4.4- Mg 2.0
+
+gi- abd soft (+) bowel sounds- taking PO without incident- no BM today.
+
+gu- foley draining amber colored urine qs- (+) 200cc since 12am- (-) 1450cc LOS- BUN 39 Crea .8
+
+neuro- Pt very HOH & has poor eye sight- oriented to person & place- moving all extremities- OOB to chair with 2 assist- very weak- does weight bear- cooperative- follows command.
+
+id- T max 99.1 PO- con't on flagyl & levo for PNA
+
+endo- on insulin sliding scale qid- fingersticks 186 @6am & 124 @ noon
+
+A- 85 Yr old S/P MI S/P cath c/b flash pulmonary edema/PNA successfully extubated this am.
+
+P- monitor vs, lung sounds, I&O and labs- follow output tonight- ? lasix- con't to wean off Ntg gtt- increase captopril dose @ 2200 as ordered- increase activity- ? transfer to floor tomorrow.
+",,
+8115,6623,10100,0,3047-11-15 16:15:00 EST,3047-11-15 16:16:00 EST,5250,"N",1,"Nursing/Other",,"
+
+Respiratory Therapy
+
+Pt successfully extubated this AM to .50% cool neb via face tent.  Positive cuff leak prior to extubation; no stridor noted post extubation.  SPO2 remained mid to high 90s.  One unit dose Albuterol neb given for slight wheezing auscultated over right lung region.  HHN tolerated well by patient.  See resp flowsheet for specific data/changes.
+
+Plan: will follow if needed
+",,
+8115,6623,10100,0,3047-11-16 06:24:00 EST,3047-11-16 06:39:00 EST,1865,"N",1,"Nursing/Other",,"
+
+S/P MI. CATH [**11-12**]->SEVERE 3VD C/B CHF, PULMONARY EDEMA, PNEUMONIA. TRANSFERRED TO CCU [**11-12**]->INTUBATED/LASIX. EXTUBATED [**11-15**].
+
+NEURO: A&O X2. EXTREMELY HOH. PLEASANT SOME OF THE TIME. COOPERATIVE.
+
+RESP: O2->5L NP. O2 SAT 94-97%. RR 26-32. BS CLEAR WITH CRACKLES AT BASES BILATERALLY. C&R MOD. AMTS. THICK YELLOW/WHITE SECRETIONS. DE-
+SATS WITH COUGHING TO 80'S BUT RECOVERS ON OWN.
+
+CARDIAC: HR 72-94 SR WITH RARE PVC. BP 158-200/50-60'S ON IV NTG 1.78MCG/KG. CVP 0-3. CAPTOPRIL INCREASED TO 25MG PO TID, LOPRESSOR INCREASED TO 37.5MG PO TID, HYDRALAZINE 10MG PB X1, LOPRESSOR 5MG VP X1. DENIES CP/SOB.
+
+GI: ABD. SL. DISTENDED. BS+. NO STOOL.
+
+GU: FOLEY->CD PATENT & DRAINING YELLOW URINE WITH SEDIMENT. U/O 65-190CC/HR.
+
+ID: AFEBRILE. CONT. ON IV FLAGGYL & LEVOFLOX FOR PRESUMED PNEUMONIA.
+
+ENDO: BS 130-140. NO INSULIN COVERAGE PER SLIDING SCALE.
+
+AM LABS PENDING.
+
+PLAN: BETTER BP CONTROL!!!
+
+",,
+8115,6623,10100,0,3047-11-16 16:02:00 EST,3047-11-16 16:38:00 EST,1665,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+S-""My mind is not good.""
+O-Neuro alert and oriented x3, but has no short term memory, which makes it difficult to explain any new procedure or task. Tries to get OOB on own but will callout for help when his side rails are up. Pt is aware that he is not as sharp as he was. Will get sitter for bedtime.
+CV-Hypertensive and tachycardic with minimal exertion. SBP >200 with HR 120 ST. IV NTG gtt increased from 1.75mcg/kg/min to 2.5mcg/kg/min. Received additional 2000mcg IVB for SBP >200 total x3 times. Aggresive adjustment of po medications, captopril at 50mcg TID and lopressor 75mg TID. To start Norvasc this evening. IV NTG weaned back to 2mcg/kg/min with HR 68-70NSR and SBP 120-140's. 
+Resp-LS rales 1/3 up bilaterally with freq productive cough clear sputum. O2 at 5lnp. Noted this am O2 sats dropped quickly to 89% with hypertension during minimal-moderate activity. 
+ID-WBC 10.9, afebrile on Levo po for pneumonia
+GI-Appetite good, one large soft BM OB-. HCT 31.4 
+GU-BUN/Cr 27/.6, foley draining amber urine 30-50cc/hr
+Skin-warm and dry.
+Activity-OOB chair x2 with 2 assist. Pt weak and unsteady on feet, using walker with some help. 
+Social-Health Care Proxy signed and copy in chart: [**First Name8 (NamePattern2) 2107**] [**Last Name (NamePattern1) **] daughter [**Telephone/Fax (1) 5410**]. Nurse Case Manager spoke with daughter regarding rehab after discharge from BID.
+A/P-s/p MI with pulmonary edema/ETT now with hypertension and hypoxia
+Continue to wean IV NTG as po meds are adjusted.
+Monitor SBP Keep < 150 and HR < 80
+Gradual increase activity as tolerates.
+Assess lung sounds and prn lasix
+Keep family informed of all changes in POC.
+",,
+8115,6623,10100,0,3047-11-17 06:30:00 EST,3047-11-17 06:41:00 EST,2705,"N",1,"Nursing/Other",,"
+
+cv: hr 64-80's nsr no ectopy, labile bp nitro up and down to control bp .medication increases to enhance nitro weaning. captoopril increased to 75 mg po tid, and lopressor increased to 100 mg po tid.amlodipine added to med regime. nitro wean continues, currently nitro is at .4 mics/kg/min.
+
+gu: foley draining clear yellow urine,good amounts.
+
+ gi: pos bowel sounds,abdomen soft. 
+
+resp: o2 on at 5 l nc sats 96-98 % dests to 90 when o2 is off. [**Last Name (un) 5411**] sounds bibasilar crackles.
+
+mental status: at early evening pt cooperative and pleasant,he does ask the same questions several times and after his son left for home..he did not remember that he had been visiting. at 0100 he awoke agitted and confused.. threatening to leave..yelling. hearing aid was off and pt refusing to turn it on. unccoperative and agitated, ho called to bedside, received haldol 2.5 mg iv times 2 with good response. pt calmer and cooperative after haldol and did fall asleep.cal,er and again cooperative this a.m. pt had a sitter  all night. he will have on for day shift today.
+",,

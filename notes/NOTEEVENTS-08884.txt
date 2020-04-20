@@ -1,0 +1,672 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8884,5086,,,2592-10-03 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2592-10-3**]       Discharge Date:  [**2592-10-12**]
+
+Date of Birth:   [**2508-5-14**]       Sex:  M
+
+Service:  THORACIC SURGERY
+
+HISTORY OF THE PRESENT ILLNESS:  This is an 85-year-old male
+with a history of coronary artery disease and mitral
+regurgitation requiring a coronary artery bypass graft and
+mitral valve replacement in [**2589**] who had a complicated
+recovery since the surgery with pneumonia and a history of
+intubation and tracheostomy.  The patient was complaining of
+progressive dyspnea since his recovery from the cardiac
+surgery and was evaluated with a CAT scan in [**2591-6-20**] and
+was found to have high tracheal stenosis at the level of the
+thoracic inlet with the lumen approximately 7 mm in diameter.
+However, the patient was hesitant in seeking help and finally
+consulted Dr. [**First Name (STitle) **] [**Name (STitle) 1596**] of Interventional Pulmonology and
+presents for a flexible bronchoscopy on the day of admission.
+
+PAST MEDICAL HISTORY:
+1.  Coronary artery disease, status post CABG and MVR in
+[**2589**].
+2.  History of atrial fibrillation and atrial flutter.
+3.  History of left atrial clot for which the patient has
+been taking Coumadin.
+4.  History of posterior circulation CVA.
+5.  Obstructive [**Doctor Last Name 314**] apnea requiring CPAP.
+6.  History of hip fracture, status post surgical repair.
+7.  History of fall with recent subdural hemorrhage which is
+stable.
+8.  History of seizure disorder.
+9.  Benign prostatic hyperplasia.
+10. Hyperthyroidism.
+11. Irritable bowel syndrome.
+
+ADMISSION MEDICATIONS:
+1.  Celexa 40 mg q.d.
+2.  Provigil 200 mg q.a.m.
+3.  Cozaar 25 mg q.d.
+4.  Coumadin, alternating doses of 5 mg and 7.5 mg.
+5.  Lasix 40 mg p.o. q.d.
+6.  [**First Name5 (NamePattern1) 122**] [**Last Name (NamePattern1) 123**] 10 mEq q. Monday, Wednesday, and Friday.
+7.  Tegretol 100 mg p.o. b.i.d.
+8.  Flomax 0.4 mg q.h.s.
+9.  Guaifenesin 600 mg b.i.d.
+10. Celebrex 200 mg q.d.
+11. Albuterol/Atrovent nebulizer treatments.
+
+ALLERGIES:  The patient is allergic to phenothiazine,
+Demerol, and iodine-based IV contrast.
+
+SOCIAL HISTORY:  Significant for tobacco smoking.  He quit at
+the age of 30.  Social alcohol consumption.
+
+LABORATORY/RADIOLOGIC DATA:  On admission, white count 5.4,
+hematocrit 37.8, platelets 166,000.  PT/PTT 15.8/29.3, INR
+1.7.  Chemistries revealed a sodium of 141, potassium 4.3,
+chloride 105, C02 26, BUN 24, creatinine 0.9 with a glucose
+of 115, calcium 9.3, magnesium 1.9, phosphate 3.3.
+
+Pulmonary function testing done on [**2592-7-13**] with
+moderate to restrictive impairment with decreased FVC and
+FEV1 and normal FEV1/FVC.
+
+Transthoracic echocardiogram done on [**2592-9-14**]
+showed left atrium mildly dilated with an abnormal shadowing
+echodensity in the posterior portion consistent with a clot,
+moderate to severely reduced global left ventricular systolic
+function with an ejection fraction of 20-25% consistent with
+his history of MI, coronary artery disease, status post CABG.
+
+Chest CT done on [**2592-9-12**] showed a small subdural hemorrhage
+along the right tentorium, cerebellum, without mass affect,
+small right frontal and parietal infarcted areas were noted.
+
+PHYSICAL EXAMINATION ON ADMISSION:  Vital signs:  The patient
+was afebrile with a temperature of 96.7, heart rate 78, blood
+pressure 120/64, respiratory rate 20, saturating at 96% on
+room air.  General:  The patient was alert and oriented times
+three, in no apparent distress.  The patient stridorous but
+speaking.  HEENT:  Pupils were equally round and reactive to
+light and accommodation with extraocular movements intact.
+The oropharynx was clear without any lesions.  Neck:  Supple,
+nontender, no bruits noted.  Lungs:  Clear to auscultation
+bilaterally with transmitted upper airway noise.
+Cardiovascular:  Irregularly/irregular heart rate, no audible
+murmurs.  Abdomen:  Bowel sounds soft, nontender,
+nondistended, no hepatosplenomegaly appreciated.
+Extremities:  No edema with good palpable dorsalis pedis
+pulses.  Neurologic:  Cranial nerves II through XII grossly
+intact with intact motor and sensory systems in the
+extremities grossly.  The rectal examination was Guaiac
+negative.
+
+HOSPITAL COURSE:  The patient underwent a flexible
+bronchoscopy with Interventional Pulmonology and was found to
+have severe obstruction at the proximal trachea and was
+admitted for further observation and management.  Because of
+his subtherapeutic anticoagulation, the patient was started
+on a heparin drip with a goal to titrate up to PTT of 60-80.
+
+Neurology consult was obtained.  A review of the head CT was
+done.  There were no absolute contraindications to
+anticoagulation from their point of view.  Cardiology consult
+was also called for preoperative evaluation and it was felt
+that there was no evidence of ongoing ischemia or severe
+decompensation of heart failure at this time.  The patient
+still has moderate to high risk of perioperative cardiac
+event.  The patient was started on a beta blocker
+preoperatively.
+
+Because of the severe tracheal stenosis and danger of airway
+obstruction, the patient was admitted to the MICU for
+observation prior to surgery.  The patient was evaluated by
+the Thoracic Surgery Service and Dr. [**Last Name (STitle) 682**] as consulted by
+Interventional Pulmonology and for possible surgical
+intervention.  At the time, Mr. [**Known patient lastname 12383**] and his family said
+that they did not want a tracheostomy nor did they want a T
+tube and stated that he would prefer to die than to have
+those procedures.  Therefore, the patient was recommended a
+tracheal resection and reconstruction or a bronchoscopic
+procedure.
+
+After the risks of the surgery was fully explained and all
+questions were answered and informed consent was obtained,
+the patient was taken to the OR on [**2592-10-8**] for a
+possible tracheal resection and reconstruction.  However,
+this procedure was aborted due to the inability to establish
+with any degree of certainty that the anastomosis would be
+due without any undue tension.  The patient went ahead with
+the alternative plan for a bronchoscopic approach and
+underwent a rigid bronchoscopy with dilatation and stent of
+the proximal tracheal stenosis on [**2592-10-8**] by
+Interventional Pulmonology.
+
+Postoperatively, the patient did relatively well.  On
+postoperative day number one, the patient was complaining of
+difficulty swallowing.  Given his prior history of CVA and
+dysphagia, Speech and Swallow consult was called.  The
+initial evaluation was that the patient did not demonstrate
+any overt signs or symptoms of aspiration.  The patient went
+ahead with a video swallow study.  On video swallow study,
+the patient demonstrated aspiration with nectar-thick liquids
+and thin liquids and the patient was initially placed on
+n.p.o. status.
+
+However, after an extensive discussion with the
+Interventional Pulmonology Team and with the patient, it was
+clear that this was not an acute process given his history of
+CVA and his history of dysphagia and given the fact that the
+patient was only a few days out from surgery that these
+findings may be transiently related to postoperative
+recovery.
+
+With the patient's insistence on starting on a pureed diet
+which he had been taking prior to admission and with full
+understanding of risks of aspiration and pneumonia as
+explained by the staff to the patient, the patient was
+cautiously started on a pureed diet.  The patient tolerated a
+pureed diet without signs or symptoms of aspiration.  The
+patient was also started on Coumadin per his schedule and
+continued on IV heparin and because his INR was not
+therapeutic the patient was converted over to Lovenox
+anticoagulation therapy at 70 mg subcutaneously q. 12 hours
+for full anticoagulant effect while he continued his
+anticoagulation with p.o. Coumadin at rehabilitation.  At
+discharge, the patient's INR was 1.9.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  Discharged to rehabilitation.
+
+DISCHARGE DIAGNOSIS:
+1.  Tracheal stenosis.
+2.  Coronary artery disease, status post CABG and mitral
+valve replacement.
+3.  Atrial fibrillation.
+4.  History of left atrial clot.
+5.  Seizure disorder.
+6.  Benign prostatic hyperplasia.
+7.  Obstructive [**Doctor Last Name 314**] apnea.
+8.  Dysphagia and aspiration possibly secondary to past
+cerebrovascular accident, possibly worsened by postoperative
+recovery.
+
+DISCHARGE MEDICATIONS:
+1.  Albuterol nebulizer treatments, one nebulizer treatment
+inhaled every six hours continuously.
+2.  Atrovent one nebulizer treatment q. six hours.
+3.  Tegretol 100 mg p.o. b.i.d.
+4.  Dulcolax 10 mg p.o. q.h.s. p.r.n.
+5.  Protonix 40 mg p.o. q.d.
+6.  Lasix 20 mg p.o. every Monday, Wednesday, and Friday.
+7.  Flomax 0.4 mg p.o. q.h.s.
+8.  Celexa 20 mg p.o. q.d.
+9.  Celecoxib 200 mg p.o. q.a.m.
+10. Trazodone 25 mg p.o. q.h.s. p.r.n.
+11. Guaifenesin 600 mg p.o. b.i.d.
+12. Modafinil 200 mg p.o. q.a.m.
+13. Tylenol 325-650 mg p.o. q. four to six hours p.r.n.
+14. Senna one tablet p.o. b.i.d. p.r.n.
+15. Lovastatin 20 mg p.o. b.i.d.
+16. Lovenox 70 mg subcutaneously q. 12 until the INR is 2.5.
+17. Lopressor 25 mg p.o. b.i.d.
+18. Losartan 25 mg p.o. q.d.
+19. [**First Name5 (NamePattern1) 122**] [**Last Name (NamePattern1) 123**] 20 mEq p.o. q. Monday, Wednesday, and Friday,
+check K level once a week.
+20. Coumadin 5 mg every Monday, Wednesday, Friday, and
+Sunday, 7.5 mg on Tuesday, Thursday, and Saturday.
+
+FOLLOW-UP:  The patient is to follow-up with his primary care
+physician and have his INR checked three times a week until
+it is stabilized to a goal INR of 2.5 and needs to continue
+to take his Lovenox until the INR is stabilized to 2.5.  The
+patient is also to follow-up with Dr. [**Last Name (STitle) 1596**] within two weeks
+for future discussions and plans for his tracheal stenosis
+and can follow-up with Dr. [**Last Name (STitle) 682**] in his office as needed.
+
+
+
+
+                            [**First Name11 (Name Pattern1) 835**] [**Last Name (NamePattern4) **], M.D.  [**MD Number 1598**]
+
+Dictated By:[**Last Name (NamePattern1) 2118**]
+MEDQUIST36
+
+D:  [**2592-10-12**]  09:16
+T:  [**2592-10-12**]  09:22
+JOB#:  [**Job Number 12384**]
+
+cc:[**2592-10-12**]
+
+",,
+8884,5086,,,2592-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2592-10-3**] 10:56 AM
+     CT TRACHEA W/C & W/RECONS                                       Clip # [**Clip Number (Radiology) 11337**]
+     Reason: airway obstruction
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     Re-review of the study is performed including thin section reconstructed
+     1.2 mm axial images. The apparent area of focal stenosis at the
+     cervicothoracic junction region on the multiplanar images is confirmed on the
+     thin section axial images. This has a somewhat web-like configuration on the
+     multiplanar images. These findings correspond to the site of the known
+     stenosis documented by recent bronchoscopy.
+
+
+     DATE: [**2592-10-3**] 10:56 AM
+     CT TRACHEA W/C & W/RECONS                                       Clip # [**Clip Number (Radiology) 11337**]
+     Reason: airway obstruction
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with airway obstruction
+     REASON FOR THIS EXAMINATION:
+      airway obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Evaluate for possible airway obstruction. 
+     
+     CT TRACHEA:  Helical CT of the central airways was performed without IV or
+     oral contrast administration, according to the CT trachea protocol. Protocol
+     does not include imaging of the entire chest and only extends to approximately
+     2-3 cm below the carina.  No IV or oral contrast was administered.
+     Images were initially acquired using a standard dose at end inspiration.
+     Subsequently, using a low dose technique, images were acquired during dynamic
+     expiration. The patient had difficulty following instructions for this phase
+     of the study.  The axial data will be used to create multiplanar and 3D
+     images which will be reviewed when available.
+     
+     No prior studies are available for comparison.
+     
+     Evaluation of the larynx and subglottic regions are limited due to marked
+     kyphotic positioning of the patient, with regard to the intrathoracic trachea,
+     it is normal in caliber.  The mainstem bronchi are also patent and the
+     visualized lobar bronchi are also patent without evidence of endobronchial or
+     obstructing lesions. Note is made of some thickening of the posterior wall of
+     the right upper lobe bronchus.
+     
+     As mentioned, the patient had difficulty cooperating with dynamic expiratory
+     phase of respiration, with this limitation in mind, no malacia is identified.
+     
+     Soft tissue structures demonstrate axillary and mediastinal lymph nodes which
+     do not meet strict criteria for enlargment with the exception of a slightly
+     enlarged precarinal node which has a fatty center.  There is a large rounded
+     soft tissue density in the subcarinal region located in the expected region of
+     the left atrium.  This presumably represents a markedly enlarged left atrium,
+     but is difficult to fully assess without IV contrast and due to incomplete
+     imaging of this region.  The lateral scout image reveals that the patient has
+     had a prior mitral valve replacement.  Note is made of distention of the
+     thoracic esophagus proximal to this level, likely due to extrinsic
+     compression.
+     
+     The imaged portion of the lungs demonstrate minimal areas of linear
+     opacification in the superior segments of the lower lobes most likely due to
+     discoid atelectasis or focal scarring.  There is slight thickening of the
+     right major fissure.
+     
+     The imaged skeletal structures demonstrate marked kyphosis and degenerative
+     changes in the spine. Note is also made of prior coronary artery bypass
+     surgery.
+                                                                 (Over)
+
+     DATE: [**2592-10-3**] 10:56 AM
+     CT TRACHEA W/C & W/RECONS                                       Clip # [**Clip Number (Radiology) 11337**]
+     Reason: airway obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Multiplanar and 3-d images confirm the above findings. Apparent stenosis in
+     cervicothoracic junction region is likely due to artifact from severe
+     kyphotic positioning, but correlation with bronchoscopy results is
+     recommended to exclude a true abnormality in this region.
+     
+     IMPRESSION:   Limited examination demonstrating no evidence of obstruction of
+     the intrathoracic trachea, mainstem bronchi or lobar bronchi.  Please note
+     evaluation of the larynx and cervicothoracic junction region are limited due
+     to severe kyphotic positioning.
+     
+     Thickening of the posterior wall of the right upper lobe bronchus of uncertain
+     etiology. This could represent mucosal or submucosal disease.  Correlation
+     with bronchoscopy results is suggested.
+     
+     No evidence of malacia, but the patient had difficulty cooperating with
+     expiratory imaging.  If there is clinical suspicion for malacia, the patient
+     could return for additional expiratory phase of imaging at no additional
+     charge.
+     
+     Large rounded soft tissue density in the subcarinal region, possibly
+     representing an enlarged left atrium in this patient with evidence of prior
+     mitral valve replacement.  However, this area is difficult to assess due to
+     absence of IV Contrast and lack of complete imaging. Correlative
+     echocardiogram or contrast-enhanced CT would be helpful to confirm left atrial
+     enlargement and to exclude an extra cardiac abnormality in this region.
+     
+     
+
+",,
+8884,5086,,,2592-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8884,5086,,,2592-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2592-10-4**] 1:41 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11338**]
+     Reason: assess for bleed                                            
+     Admitting Diagnosis: TRACHEAL OBSTRUCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with subdural? needs anticoag, please page [**Pager number 11339**] with results   
+     REASON FOR THIS EXAMINATION:
+      assess for bleed                                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION: 84 year old man with history of subdural hemorrhage for which he
+     was followed at an outside hospital.  He was recently restarted on his
+     anticoagulation and has not had any interval head trauma.  Assess for residual
+     subdural hematoma.  The reports from the outside CT scans are not available,
+     thus it is not known where the subdural hematoma was for which they were
+     following him.
+     
+     TECHNIQUE: Noncontrast head CT.  Please note there is a small amount of motion
+     limiting the exam.  The patient was markedly stridorous due to known tracheal
+     narrowing.  These are the best images possible due to his stridor, attempts to
+     repeat the exam were not made.
+     
+     FINDINGS:  There are no extraaxial hemorrhagic collections.  There is no
+     evidence of intraparenchymal hemorrhage.  No areas particularly concerning for
+     subdural hemorrhage are noted.  There is sublte high density along the falx
+     cerebri as it courses between the occipital lobes.  At this time this is not
+     worrisome for a subdural hematoma.  It would be helpful to know exactly where
+     the prior subdural was located.  There is low attenuation within the right
+     parietal lobe and along the occipital [**Doctor Last Name 234**] of the right lateral ventricle
+     compatible with prior ischemic changes.  The remaining [**Doctor Last Name 30**]-white matter
+     differentiation is preserved.  Within the right cerebellar hemisphere is a 3.0
+     x 3.0 cm low density lesion which may arise from the cerebellum tentorium or
+     the CSF in this region.  This measures 10 [**Doctor Last Name **] and does not have surrounding
+     edema.  This is of uncertain etiology but may represent an arachnoid cyst vs
+     epidermoid. By report, this was present on prior studies and is not increasing
+     in size.
+     
+     Bone windows demonstrate no destructive osseous lesions.
+     
+     The paranasal sinuses and mastoid air cells are normally pneumatized.
+     
+     IMPRESSION:
+     1) Exam limited by motion but no definite hemorrhage is seen.  There is high
+     density along the falx cerebri between the occipital lobes.  While this may
+     represent a small amount of subdural hematoma this also could just merely be
+     normal tentorium.
+     
+     2) Low density lesion within the area of the cerebellum without evidence of
+     surrounding edema.  The differential diagnosis includes and arachnoid cyst,
+     epidermoid and other lesions.
+     
+                                                                 (Over)
+
+     DATE: [**2592-10-4**] 1:41 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11338**]
+     Reason: assess for bleed                                            
+     Admitting Diagnosis: TRACHEAL OBSTRUCTION
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     It would be very helpful to have the reports from the outside CT scans for
+     improved interpretation.
+     
+     These findings were discussed with Dr. [**First Name8 (NamePattern2) 4648**] [**Last Name (NamePattern1) 11340**] at the time of the
+     examination.
+     
+
+",,
+8884,5086,11046,0,2592-10-05 00:59:00 EST,2592-10-05 01:30:00 EST,2651,"N",69,"Nursing/Other","Admission Note","
+Admission Note
+Pt admitted to MICU A, transferred from cc7, for airway monitoring. Pt has severe tracheal stenosis, airway approx 7mm. Pt had been trached s/p MI and CABG in [**2589**]. Was on coumadin for thrombus in L atrium, unable to stop coumadin for surgery. Pt also has hx of subdural bleed from a fall on [**2592-9-6**]. Pt was admitted to [**Hospital1 22**] for surgical intervention -trach stent vs. reconstruction, though pt now states that he is unsure if he will consent to surgery. At baseline, pt is stridorous, wheezes, needs to be sitting up at least 90 degrees. hx of aspiration, poor gag relfex. lives alone in [**Doctor Last Name **] facility. Upon arrival to MICU, pt in no distress, occasionally stridorous but maintains o2 sats 95-98% on RA. hemodynamically stable. Placed on heparin gtt.  
+
+ROS- 
+
+CV- a fib/?flutter without ectopy. rare 3-beat V-tach. BP stable at 120-140's/60-70's. extemities warm. heparin gtt at 700units/ hr, decreased from 800 units/hr at 0100 d/t ptt of 113. q6hr ptt. EF from past TTE = 25%. 
+
+RESP- pt on RA. occ. weak nonproductive cough. LS- upper lobes clear, diminished at bases. wears own BiPAP at noc.
+
+NEURO- MAE, A&O x3. denies numbness/ tingling. notably hypersomnolent. ambulates with walker. weak but steady. pt enc not to be oob without assistance d/t fall risk, verbalizes understanding. Pt becomes anxious at X's. frustrated with being in MICU, wants to return to floor, enc. to discuss this with team in am. 
+
+SKIN- intact. crusted rash on R flank and R leg. had been on ?Zoster precautions. team aware, dc'ed precautions b/c vesicles dried.
+
+GI/GU- active BS's. voids clear yellow urine into urinal. some urinary hesitancy. Pt on thickened nector and pureed diet. aspiration precautions. FYI- Pt prefers to make his own thickened liquids.
+
+ACCESS- Piv X2. 
+
+SOCIAL- no calls/ visits from family.
+
+PLAN- monitor airway. titrate heparing gtt and monitor PTT q6hrs, NO HEPARIN BOLUSES. HOB 90 degrees. provide frequent reassurance. ?surgical intervention, pending pt's decision and further w/u. 
+
+",,
+8884,5086,11046,0,2592-10-05 05:21:00 EST,2592-10-05 05:25:00 EST,2827,"N",69,"Nursing/Other","Respiratory Care Note","
+Respiratory Care Note
+Pt received from CC7 with own CPAP unit. Places CPAP on by himself at  noc. 
+                        [**First Name11 (Name Pattern1) 343**] [**Last Name (NamePattern4) 344**], RRT
+",,
+8884,5086,,,2592-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2592-10-7**] 9:21 AM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 11341**]
+     Reason: TRACHEAL OBSTRUCTION
+     Admitting Diagnosis: TRACHEAL OBSTRUCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with severe tracheal stenosis. Operative repair on [**10-8**]        
+     REASON FOR THIS EXAMINATION:
+      Pre-op for baseline CXR.                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Tracheal stenosis for OR on [**10-8**].
+     
+     FINDINGS:  CABG changes are evident and prosthetic mitral valve is seen.
+     There is no focal consolidation.  The left hemidiaphragm is elevated.  There
+     is multi-chamber cardiomegaly, however, the pulmonary vasculature appears
+     normal.  Some blunting of the right posterior costophrenic sulcus could be
+     scarring or a small effusion.  The aorta is tortuous and calcified.  Diffuse
+     degenerative changes of the thoracic spine are seen and some loss of height
+     anteriorly and some upper thoracic vertebral levels suggest prior osteoporotic
+     impression.
+     
+     IMPRESSION:  No acute cardiopulmonary disease.  Cardiomegaly and CABG changes.
+
+",,
+8884,5086,,,2592-10-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2592-10-8**] 4:11 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11342**]
+     Reason: eval stent placement                                        
+     Admitting Diagnosis: TRACHEAL OBSTRUCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with tracheal stent and cervical exploration                    
+     REASON FOR THIS EXAMINATION:
+      eval stent placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest of [**2592-10-8**] compared to previous study of 1 day earlier.
+     
+     CLINICAL INDICATION:  Stent placement.
+     
+     There has been interval placement of a tracheal stent above the level of the
+     thoracic inlet.  A Swan-Ganz catheter is in satisfactory position within the
+     right pulmonary artery.  The heart is enlarged and there is no evidence of
+     congestive heart failure.  There is minor atelectasis at the left lung base
+     and a small left pleural effusion is also noted.  The right lung appears
+     clear.
+     
+     IMPRESSION:  1)  Tracheal stent is present above the level of the thoracic
+     inlet. Due to kyphosis, this is difficult to fully assess.
+     
+     2)  Swan-Ganz catheter in satisfactory position with no evidence of
+     pneumothorax.
+
+",,
+8884,5086,,,2592-10-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2592-10-9**] 1:53 PM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 11343**]
+     Reason: r/o dysmotility, stricture, hematoma                        
+     Admitting Diagnosis: TRACHEAL OBSTRUCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man w/ tracheal stenosis, s/p dilatation & stent POD#1 c/o 
+      inability to swallow
+     REASON FOR THIS EXAMINATION:
+      r/o dysmotility, stricture, hematoma                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Dysphagia.
+     
+     FINDINGS:  The study was performed in conjunction with the speech/swallow
+     therapist.  Various consistencies of barium were administered orally.  The
+     oral phase was not fully assessed, but appeared to be within functional
+     limits. With nectar consistency, there was severe residue in the valleculae,
+     which ultimately resulted in laryngeal penetration and aspiration.  There was
+     decreased elevation of the larynx and markedly decreased epiglottic deflection
+     which allowed for penetration of the laryngeal vestibule.  With thin
+     consistencies, there was laryngeal penetration and aspiration during swallow.
+     The patient had an intermittent reflexive cough which was effective in
+     partially clearing the larynx.
+     
+     IMPRESSION:  Aspiration with thin and nectar consistencies, which is likely
+     secondary to poor epiglottic deflection and decreased laryngeal elevation.
+     Please refer to the report of the speech/swallow therapist for further
+     details.
+     
+
+",,
+8884,,,,2592-12-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2592-12-17**] 9:35 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11344**]
+     Reason: evaluate airway obstruction
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with severe tracheal stenosis. Operative repair on [**10-8**]       
+     REASON FOR THIS EXAMINATION:
+      evaluate airway obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Tracheal stenosis.
+     
+     PA AND LATERAL CHEST RADIOGRAPHS.
+     
+     Comparison is made to [**10-7**] and [**2592-10-8**].  The heart is enlarged with a
+     tortuous aorta, unchanged from the prior study.  Again noted post CABG
+     changes, as well as the prosthetic MVR.  The left hemi-diaphragm is slightly
+     elevated, also unchanged.  There are no pleural effusions or pneumothorax.
+     There is slight opacification of the right lung base, but allowing for
+     technique, this is unchanged from the prior study of [**2592-10-7**].  There are no
+     new focal consolidations.
+     
+     IMPRESSION:  Cardiomegaly without evidence of acute cardiopulmonary disease.
+
+",,
+8884,,,,2593-07-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2593-7-22**] 2:37 PM
+     CT TRACHEA W/O C W/RECONS                                       Clip # [**Clip Number (Radiology) 11345**]
+     Reason: f/u on stent placement, tracheal stenosis
+     Field of view: 32
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      85 year old man with tracheal stenosis, s/p stent placement
+     REASON FOR THIS EXAMINATION:
+      f/u on stent placement, tracheal stenosis
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CT TRACHEA:  [**2593-7-22**], compared to previous study of [**2592-10-3**].
+     
+     CLINICAL INDICATION:  Status-post stent placement for tracheal stenosis.
+     
+     Helical CT of the central airways was performed without intravenous or oral
+     contrast adminstration.  Images were acquired with instructions for
+     inspiratory and dynamic expiratory phases of respiration.  Per the CT trachea
+     protocol, imaging extended several cm below the carina but did not include the
+     entirety of the thorax.  Axial CT data will be used to create a series of
+     multiplanar and 3D images and an addendum will be issued to the report when
+     they become available.
+     
+     Since the prior CT, the patient has undergone placement of a metallic stent
+     which traverses the previously present stenosis.  The stent extends from the
+     lower cervical trachea into the proximal thoracic trachea.  As noted
+     previously, there is an unusual curvature of the airway in the cervicothoracic
+     junction region related to the patient's severe kyphoscoliosis.  The inferior
+     aspect of the stent has a slightly frayed appearance and is difficult to
+     exclude focal disruption of the distal most aspect.  Note is made of soft
+     tissue thickening along the internal luminal surface of the stent with some
+     polypoid projections.  This may represent granulation tissue.  Routine
+     secretions could also produce a similar appearance.  Below the level of the
+     stent, routine secretions are seen dependently within the trachea.  Note is
+     also made of a small polypoid dependent opacity in the distal right upper lobe
+     bronchus.  In retrospect, a similar opacity is seen on the earlier study. This
+     is just proximal to the trifurcation of the right upper lobe bronchus. The
+     remaining central airways are unremarkable.
+     
+     The imaged portions of the lungs demonstrate mild bronchial wall thickening
+     and scattered areas of septal thickening likely due to a component of
+     congestive heart failure.  Note is also made of dependent linear opacities
+     which are unchanged in the interval and likely related to areas of focal
+     scarring within both lower lobes.
+     
+     Images obtained during dynamic expiratory phase of respiration demonstrate
+     diffuse tracheobronchial malacia involving the entirety of the trachea below
+     the stent and extending into the main stem bronchi which is most severe in the
+     left main bronchus, demonstrating near complete collapse.  Within the proximal
+     trachea, the degree of collapse is considered marked with reduction in cross
+     sectional diameter from 441 mm squared to 138 mm squared.  Diffuse multifocal
+     air trapping is seen throughout the lungs on expiratory imaging.
+                                                                 (Over)
+
+     DATE: [**2593-7-22**] 2:37 PM
+     CT TRACHEA W/O C W/RECONS                                       Clip # [**Clip Number (Radiology) 11345**]
+     Reason: f/u on stent placement, tracheal stenosis
+     Field of view: 32
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     Soft tissue structures of the thorax demonstrate mildly enlarged mediastinal
+     lymph node is the precarinal region which is essentially stable compared to
+     the previous study.  There is marked enlargement of the imaged portion of the
+     left atrium.  Coronary artery calcifications are noted.  There is distention
+     of the thoracic esophagus above the level of the left atrium, possibly due to
+     compression by the enlarged atrium.
+     
+     Additional thin section images are reviewed and allow more complete assessment
+     of the stent.  On these images, the proximal most portion of the stent extends
+     into the subglottic region.  These images confirm the unusual configuration of
+     the distal most portion of the stent concerning for focal disruption.
+     
+     IMPRESSION:
+     1.  Status-post placement of stent at site of proximal stenosis.  The proximal
+     most portion of the stent extends into the subglottic region, and the distal
+     portion terminates at the thoracic inlet level.  There is unusual appearance
+     of the distal most portion of the stent raising the concern for focal
+     disruption, and correlation with direct visualization is recommended.
+     Additionally, granulation tissue is noted along the internal lumen of the
+     stent.
+     2.  Small dependent polypoid opacity in distal right upper lobe bronchus
+     although possibly due to routine secretions, the presence of a similar finding
+     in this region in retrospect on the earlier study also raises a concern for
+     the possibility of a discrete endobronchial lesion in this area.  Correlation
+     with direct visualization findings may be helpful in this regard.
+     3.  Diffuse tracheobronchomalacia.
+     4.  Mild congestive heart failure.
+     5.  When available, the multiplanar and 3D images will be reviewed.  An
+     addendum will be issued to the report at this time.
+     
+     
+     ADDENDUM: Multiplanar and 3d images confirm the above findings.
+
+",,

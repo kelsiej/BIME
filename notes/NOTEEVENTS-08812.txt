@@ -1,0 +1,1827 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8812,,,,3335-04-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-4**] 7:08 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10765**]
+     Reason: r/o effusion, infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with fevers and cough
+     REASON FOR THIS EXAMINATION:
+      r/o effusion, infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  46 year old woman with fever and cough.
+     
+     PA AND LATERAL CHEST RADIOGRAPH:  Comparison is made with the prior study
+     performed [**3335-1-24**].
+     
+     The heart size, mediastinal contour and pulmonary vasculature are within
+     normal limits.  The lungs are clear, without pleural effusions or focal areas
+     of consolidation.
+     
+     Soft-tissue and osseous structures are grossly unremarkable.
+     
+     The left PICC has been removed.
+     
+     IMPRESSION:  Chest xray examination within normal limits.
+
+",,
+8812,,,,3335-04-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-4**] 7:25 PM
+     CT HEAD W/ & W/O CONTRAST                                       Clip # [**Clip Number (Radiology) 10766**]
+     Reason: r/o lymphoma, lesion
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with HIV now with fever and HA
+     REASON FOR THIS EXAMINATION:
+      r/o lymphoma, lesion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  46 year old female with HIV, now with fever and headache.
+     
+     TECHNIQUE:  Axial images of the brain were obtained before and after the
+     administration of 100 cc of intravenous Optiray.  Optiray was used due to the
+     inability to obtain an adequate history from this debilitated patient.
+     
+     COMPARISON:  [**3334-6-17**].
+     
+     CT HEAD WITH AND WITHOUT IV CONTRAST:  There is no intra- or extra-axial
+     hemorrhage.  There is no shift of normal midline structures or mass effect.
+     The CSF spaces are age appropriate and stable.  A focal hypodensity in the
+     left external capsule is unchanged.  There are no major vascular territorial
+     infarcts.  There is no pathologic enhancement.  Osseous structures, paranasal
+     sinuses, and soft tissue structures are unremarkable.
+     
+     IMPRESSION:  No acute intracranial pathologic process or evidence of mass
+     lesion.
+     
+
+",,
+8812,,,,3335-04-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-4**] 7:25 PM
+     CT HEAD W/ & W/O CONTRAST                                       Clip # [**Clip Number (Radiology) 10766**]
+     Reason: r/o lymphoma, lesion
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with HIV now with fever and HA
+     REASON FOR THIS EXAMINATION:
+      r/o lymphoma, lesion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  46 year old female with HIV, now with fever and headache.
+     
+     TECHNIQUE:  Axial images of the brain were obtained before and after the
+     administration of 100 cc of intravenous Optiray.  Optiray was used due to the
+     inability to obtain an adequate history from this debilitated patient.
+     
+     COMPARISON:  [**3334-6-17**].
+     
+     CT HEAD WITH AND WITHOUT IV CONTRAST:  There is no intra- or extra-axial
+     hemorrhage.  There is no shift of normal midline structures or mass effect.
+     The CSF spaces are age appropriate and stable.  A focal hypodensity in the
+     left external capsule is unchanged.  There are no major vascular territorial
+     infarcts.  There is no pathologic enhancement.  Osseous structures, paranasal
+     sinuses, and soft tissue structures are unremarkable.
+     
+     IMPRESSION:  No acute intracranial pathologic process or evidence of mass
+     lesion.
+     
+
+",,
+8812,,,,3335-04-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-8**] 5:41 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10767**]
+     Reason: UNRESPONSIVE, HIV
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with HIV now with unresponsive
+     REASON FOR THIS EXAMINATION:
+      r/o bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Unresponsive, HIV, rule out bleed.
+     
+     TECHNIQUE:  Standard noncontrast head CT.
+     
+     COMPARISONS: [**3335-4-4**]
+     
+     FINDINGS:  There is no intra or extra axial hemorrhage. There is no shift of
+     normally midline structures or mass effect.  The [**Doctor Last Name 30**] white matter
+     differentiation is preserved. The ventricles, cisterns, and sulci are
+     unchanged. Again there is a low area of low attenuation within the left
+     internal capsule, not changed.  The soft tissues, sinuses, osseous structures
+     and orbits are unremarkable.
+     
+     IMPRESSION:  No acute intracranial pathology.
+
+",,
+8812,22913,,,3335-04-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3335-4-9**]     Discharge Date:  [**3335-5-20**]
+
+Date of Birth:   [**3288-9-22**]     Sex:  F
+
+Service:  MEDICINE [**Doctor Last Name 1529**]
+
+CHIEF COMPLAINT:   Abnormal liver enzymes.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 46 year old
+female with advanced AIDS with CD4 count of 10 and viral load
+of greater than 100,000, admitted initially on [**3335-4-9**],
+for unresponsiveness.  The events leading up to her admission
+were:  [**3334-12-31**], the patient had aseptic meningitis
+with empiric treatment with Ampicillin for listeria.  In [**3335-3-30**], the patient developed frontal headache with seizure
+and loss of consciousness less than 30 seconds.  On the [**4-2**], the patient had a fever of 101.0 F., with
+intermittent lightheadedness.  On [**4-3**], the patient had an
+abnormal sensation in the left hand and weakness, noted to be
+dropping objects.  On [**3335-4-4**], the patient was in the
+outpatient transition unit for IVIG for myositis.  On
+arrival, the patient had a temperature of 101.5 F., and a
+heart rate of 120, and admitted.
+
+The patient had an extensive Infectious Disease work-up which
+was all negative including Cryptococcal antigen, CMV antigen,
+blood cultures and fungal cultures.  The patient refused a
+lumbar puncture at the time and head CT scan showed no acute
+process.  The patient was then discharged on [**4-5**].
+
+On [**3335-4-8**], the patient presented for intravenous IG and
+was then found to be somewhat somnolent thereafter and had
+labored breathing, incontinent of stool and urine, and
+gurgling.  The patient was then sent to the Emergency
+Department where she got Vancomycin, Acyclovir and
+Ceftriaxone.  A lumbar puncture with normal opening pressure.
+The patient, at the time, had minimally responded to pain.
+Neurology was consulted and observed left arm flexion,
+decorticate, and an episode of rhythmic jaw clenching as well
+as right arm flexion.  The head CT scan was negative and the
+patient was admitted to the Intensive Care Unit.
+
+On [**4-8**], the patient was treated with Ampicillin,
+Ceftriaxone, Acyclovir.
+
+On [**4-9**], the patient had a MRI of the head with multiple
+signal abnormalities in the basal ganglion, left medial
+frontal lobe, bilateral frontal areas.  The MRA showed subtle
+middle cerebral artery flow abnormalities.  The patient was
+intubated for airway protection.
+
+On [**4-10**], the patient had an EEG without any focal seizure
+activity.  On [**4-11**], Ceftriaxone and Ampicillin were
+discontinued.  On [**4-12**], the patient had a repeat MRI
+which showed increasing abnormalities including multiple foci
+of increased signals.  Findings from [**4-9**] all persist.
+
+On [**4-13**], the Dilantin level was 8.6, and the patient's
+Dilantin was increased.  The patient was then extubated and
+had received some Decadron and epinephrine for laryngeal
+edema.
+
+On [**4-14**], the patient had an HSV PCR negative.  On [**4-15**],
+the patient was called out of the Intensive Care Unit to the
+Neurology Service.
+
+On [**4-20**], the patient was noted to have elevated liver
+transaminases.  On [**4-21**], TB was considered and Infectious
+Disease felt this to be unlikely given cerebrospinal fluid
+and MRI findings.
+
+On [**4-23**], varicella-zoster virus associated vasculitis was
+considered as a diagnosis and the lumbar puncture was
+repeated.  On [**4-27**], a brain biopsy was performed without
+complications.
+
+On [**4-28**], transaminases continued to increase and work-up
+was deferred as the family was considering Hospice.
+Nevertheless, HAART was initiated as family wanted to remain
+aggressive until biopsy results of the brain returned.
+
+On [**4-29**], bilirubin was increased and after one day of
+HAART this regimen was stopped.  The patient had a
+temperature maximum of 102.5 F., and Vancomycin and
+Ceftriaxone were started by Infectious Disease in the setting
+of persistent fevers.  Abdominal CT scan was ordered.
+
+PAST MEDICAL HISTORY:
+1.  End-stage Acquired immunodeficiency syndrome; CD4 count
+of 10; viral load of greater than 100,000, complicated by HIV
+idiopathic thrombocytopenic purpura in [**3333-8-30**];
+perianal herpes simplex virus; cervical dysplasia; HIV
+related myositis; HPV co-infection.
+2.  G6 PD deficiency.
+
+MEDICATIONS AS OUTPATIENT:
+1.  No HAART.
+2.  Bactrim [**MD Number **] Strength.
+3.  Azithromycin.
+4.  IVIG for myositis.
+
+MEDICATIONS ON TRANSFER:
+1.  [**First Name5 (NamePattern1) 122**] [**Last Name (NamePattern1) 123**].
+2.  Normal saline intravenous.
+3.  Dilantin.
+4.  Lansoprazole.
+5.  Vitamin C.
+6.  Zinc.
+7.  Epogen.
+8.  Bactrim.
+9.  Azithromycin.
+10. Acyclovir.
+11. Ceftriaxone.
+12. Vancomycin.
+13. Heparin subcutaneously.
+14. Fluconazole.
+
+ALLERGIES:   Dapsone (causing hemolysis secondary to G6 PD
+deficiency).
+
+SOCIAL HISTORY:  The patient is widowed with two children,
+seniors in high school, living with sisters.  No history of
+smoking or alcohol use.  No recent travel.  No pet exposures.
+No sick contacts.  No new sexual contacts.
+
+Health Care Proxy:  Sister [**Name (NI) 2450**], [**Telephone/Fax (1) 12262**].
+
+PHYSICAL EXAMINATION:  (upon transfer to Medicine Service)
+vital signs 98.7 F., temperature maximum of 102.7 F.; blood
+pressure 106 to 132/72 to 74; respiratory rate 15; O2
+saturation 97 to 100% on room air.  General appearance:
+Opens left eye to stimulation; right eye swollen shut.  right
+frontal skull with staples, clean, dry and intact.  HEENT:
+Conjunctivae pink; pupils equally round and reactive to
+light.  No icterus.  Moist mucous membranes.  No
+lymphadenopathy.  Supple neck.  Lungs clear to auscultation
+anteriorly and laterally.  Cardiovascular:  Tachycardia,
+regular rhythm, no murmurs, normal S1, S2.  Abdomen:
+Normoactive bowel sounds, soft, nondistended, no
+splenomegaly.  Slight hepatomegaly.  Extremities warm, good
+distal pulses.  No cyanosis, clubbing or edema.  Neurologic:
+Flaccid left upper and lower extremities.  Reflexes with
+increased tone in the right upper and lower extremity.
+
+LABORATORY:  White blood cell count 5.0, hematocrit 29.4,
+platelets 271, differential of neutrophils 77, lymphocytes
+13, monocytes 8, eosinophils 1.  Urinalysis negative.  INR
+1.1.
+
+Cerebrospinal fluid on [**4-23**], white blood cell count 5,
+protein 50, glucose 57, red blood cells 80.  On [**4-15**],
+white blood cell count zero, red blood cells 1875, protein
+67, glucose 57.  Gram stain negative, culture negative,
+fungal negative, Crypto antigen negative.
+
+On [**4-8**], white blood cell count 2, red blood cells 120.
+Viral culture negative, Gram stain negative, glucose 45,
+protein 114, Crypto antigen negative, fungal negative,
+culture negative.
+
+Sodium 139, potassium 3.4, chloride 102, bicarbonate 27, BUN
+8, creatinine 0.2, glucose 108.  ALT 205, AST 113, alkaline
+phosphatase 639, total bilirubin 2.0, GTT 460.  HDH stim test
+14.3 with 25.0 to 38.6 on [**4-19**].
+
+On [**4-26**], Dilantin level 7.9, free Dilantin 1.2.  On [**4-27**], arterial blood gas 7.38/45/215.
+
+MICROBIOLOGY:  Blood cultures on [**4-2**], 13th, 19th, 20th,
+28th and 30th all, two sets each, negative.
+
+Urine cultures on [**4-11**], 19th, 28th, and 30th, all
+negative.
+
+Brain biopsy on [**4-27**], Gram stain negative, no PNM, tissue
+culture negative, anaerobic culture negative, fungal culture
+negative, ASB culture negative.  Special stains all negative.
+
+Serologies:  VZV, [**4-23**] blood IgG positive.  RPR [**4-17**]
+negative.  Toxoplasmosis [**4-15**], IgG positive, IgM
+negative.  Crypto [**4-2**] negative.  Catheter tip [**4-17**]
+negative.
+
+Stool for Clostridium difficile [**4-17**] negative.  Sputum
+[**4-9**], greater than 25 PMNs, less than 10 epi, sparse
+oropharyngeal flora, fungal isolates [**4-5**], negative times
+two sets.  CMV antigen [**4-5**], negative.  Cerebrospinal fluid
+Toxo PCR [**4-23**] negative.  Cerebrospinal fluid HCV PCR
+negative times two [**4-5**], [**4-8**], and [**4-15**].
+Cerebrospinal fluid EBV PCR [**4-8**] negative, [**4-15**]
+negative.  Cerebrospinal fluid [**Male First Name (un) **] PCR [**4-8**] negative.
+Cerebrospinal fluid CMV PCR [**4-8**] negative.  Cerebrospinal
+fluid EVZ PCR [**4-23**] negative.  Cerebrospinal fluid TB PCR
+[**4-23**] negative.
+
+IMAGING:  MRI of the head on [**4-26**] revealed multiple
+hyperintense lesions visible on post-contrast study.  There
+distribution suggest ischemic lesions with associated
+enhancement, perhaps with petechial hemorrhage compared to
+the study of two weeks previously.  New lesions are visible
+to the posterior circulation with involvement of the right
+thalamus and left cerebellum.  Vasculitis or embolic disease
+are considerations.
+
+MRI of the head on [**4-9**], showed subtle flow signal
+irregularities in both the middle cerebral arteries, which
+could be secondary to basal meningeal inflammatory process;
+clinical correlations of these findings is recommended.  In
+addition, bilateral basal ganglia and right temporal frontal
+signal abnormalities with leptomeningeal and subtle
+parenchymal enhancement.  Leptomeningeal enhancement favors
+effective pathologies such a Toxo or Cryptococcus infection.
+
+MRI of the head on [**4-12**], found compatible results with those
+of the MRI from [**4-9**].  There are signs of cortical and deep
+[**Doctor Last Name **] matter edema, probably infarction which could be related
+to vasculitis from Leptomeningeal infection or inflammation.
+Correlation with cerebrospinal fluid findings is again
+recommended.
+
+Chest x-ray on [**4-28**] within normal limits.
+
+CT scan of the head on [**4-29**], showed multiple small regions
+of enhancement in the basal ganglia with no mass effect.
+
+Abdominal and pelvic CT scan with contrast on [**4-29**],
+showed no hepatic pathology detected by CT scan.  There was
+trace effusion on the right.  Short segment of narrowed and
+possibly thickened sigmoid, although this may simple
+represent segmental peristalsis and not true thickening.
+Non-specific perirectal stranding.
+
+Brain biopsy on [**4-27**] revealed gliosis and numerous
+macrophages.  Small recent infarctions of up to 0.2 cm in
+length, in the cortex and [**Doctor Last Name **]-white junction.
+Arteriosclerosis including arterial wall thickening,
+perivascular clearing and perivascular hemisphere and later
+macrophages.  No diagnostic vasculitis, no diagnostic
+neoplasia, no organs or bowel inclusions identified on H&E
+stains.  No bacteria, yeast, fungi, protozoa identified in
+ASB tissue gram, PAS, GM, Asci stains.
+
+Liver biopsy on [**3335-5-9**], revealed no diagnostic
+abnormalities.  There is no steatosis necrosis or abscesses;
+no significant nodal inflammation and no granulomas.  No
+diagnostic abnormalities recognized in the pleural areas and
+trigone stain revealed no fibrosis.  Iron stain was negative
+with positive control slide.  Findings are consistent with
+chronic Hepatitis B with Grade 01 inflammation, Stage 0
+fibrosis.
+
+EEG on [**4-9**] showed no focal epileptiform abnormalities and
+an EEG repeated on [**4-25**] was again without significant
+change.
+
+SUMMARY OF HOSPITAL COURSE:  (Upon transfer to Medicine
+Service)
+The patient is a 46 year old female with end-stage AIDS
+transferred from the Neurologic Service status post extensive
+medical work-up for multiple issues, most acute being an
+increase in her ALT and AST and alkaline phosphatase, and
+bilirubin, along with persistent fevers concerning initially
+for AIDS cholangeopathy.  After extensive liver work-up
+including ultrasound and biopsy, no abnormalities were found.
+Her transamonitis was most likely secondary to drug effect.
+
+Her AST and ALT began to decrease following discontinuation
+of Dilantin.  However, the AST and ALT again began to
+increase following the start of Fluconazole which was
+eventually then discontinued.  With the remainder of her
+hospital stay, her AST and ALT trended back down after all
+eventual antibiotics were discontinued.
+
+The patient's neurological status has remained at her
+baseline of a comatose like state.  It was thought most
+likely secondary to multi-infarct disease of her brain,
+possibly caused by IVIG that the patient was receiving for
+her myositis.  Exact etiology of her microinfarct disease of
+her brain, however, is not entirely clear.  Bromine compounds
+have been started per Neurology for possible stimulation of
+frontal areas in an effort to allow her to initiate more
+behavior.  Her neurologic condition throughout the remainder
+of her hospital stay remained stable.
+
+The patient, at baseline, responds to verbal stimuli and
+squeezes with her right hand on command.
+
+The patient has been followed by the Infectious Disease
+Service throughout her hospital stay and their extensive
+work-up has been negative.  Her persistent fevers eventually
+developed and all antibiotics were discontinued.
+
+Throughout her hospital stay, the patient mostly remained on
+tube feeds via nasogastric tube.  On [**3335-5-17**], a PEG was
+placed without complication.  The patient was then restarted
+on tube feeds via her PEG.  The PEG was placed by the
+Surgical Team.
+
+The patient was screened for rehabilitation/skilled nursing
+facility.
+
+Throughout her hospital stay, the patient's code status
+remained a Full Code.
+
+CONDITION AT DISCHARGE:   Stable.
+
+DISCHARGE STATUS:  To extended care facility.
+
+DISCHARGE DIAGNOSES:
+1.  Advanced acquired immunodeficiency syndrome.
+2.  Microinfarction disease status post brain biopsy, of
+unclear etiology.
+3.  PEG tube placed [**3335-5-17**].
+
+DISCHARGE MEDICATIONS:
+1.  Bromocriptine via PEG q. day.
+2.  Bactrim [**MD Number **] strength one tablet via PEG q. day.
+3.  Lansoprazole 30 mg via PEG q. day.
+4.  Ascorbic Acid 500 mg via PEG twice a day.
+5.  Zinc sulfate 220 mg via PEG q. day.
+6.  Epogen 40,000 units subcutaneously q. two.
+7.  Heparin 5000 units subcutaneously q. 12 hours.
+8.  Azithromycin 1000 mg via PEG q. Sunday.
+
+
+
+                          [**Doctor First Name 12263**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 12264**], MD  [**MD Number 12265**]
+
+Dictated By:[**Last Name (NamePattern1) 12266**]
+
+MEDQUIST36
+
+D:  [**3335-5-19**]  11:15
+T:  [**3335-5-19**]  11:29
+JOB#:  [**Job Number 12267**]
+Signed electronically by: DR. [**First Name7 (NamePattern1) 5764**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 12268**]
+ on: WED [**3335-7-27**] 10:19 AM
+(End of Report)
+
+
+",,
+8812,22913,,,3335-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-9**] 4:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10769**]
+     Reason: eval for evidence of aspiration
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with advanced AIDS admitted w/ delta MS.  MRI suggestive of
+      HSV encephalitis vs lympoma.
+     REASON FOR THIS EXAMINATION:
+      eval for evidence of aspiration
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  AIDS patient.  Clinical suspicion for aspiration.
+     
+     PORTABLE CHEST:  Comparison is made to previous films from  earlier the same
+     day.
+     
+     The heart size and mediastinal contours are within normal limits and stable
+     compared to the previous study. The lungs reveal no focal areas of
+     consolidation.  Apparant rouned opacity in the right lower lobe corresponds to
+     nipple shadow.
+     
+     IMPRESSION:   No radiographic findings to suggest aspiration or pneumonia.
+
+",,
+8812,22913,,,3335-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-9**] 6:58 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10770**]
+     Reason: Eval ETT position, Left subclavian line, and NG tube positio
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with AIDS admitted with encephalopathy.
+     REASON FOR THIS EXAMINATION:
+      Eval ETT position, Left subclavian line, and NG tube position and for
+      pneumothorax and pneumonia,
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     Compared to earlier the same day.
+     
+     CLINICAL INDICATION:  AIDS patient.  Respiratory failure.  Assess endotracheal
+     tube.
+     
+     An endotracheal tube, central venous catheter and nasogastric tube are in
+     satisfactory position.  No pneumothorax is identified.
+     
+     The heart size is normal.  The lungs reveal minimal focal left basilar linear
+     opacity and are otherwise clear.  There is mild elevation of the left
+     hemidiaphragm.
+     
+     IMPRESSSION:
+     1)  Lines and tubes in satisfactory position.
+     2)  Minimal linear left basilar atelectasis with otherwise clear lungs.
+     
+
+",,
+8812,22913,,,3335-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-9**] 1:12 PM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 10768**]
+     Reason: HIV, unresponsive, possible seizure activity, flexor posturi
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with HIV
+     REASON FOR THIS EXAMINATION:
+      HIV, unresponsive, possible seizure activity, flexor posturing L>R, LP with
+      pleocytosis and high protein.  Please evaluate for toxo/pml/lymphoma, stroke.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN:
+     
+     CLINICAL INFORMATION:  Patient with HIV and unresponsive with possible seizure
+     activity.  For further evaluation.
+     
+     TECHNIQUE:  T1 sagittal and axial, and FLAIR, T2 and susceptibility axial
+     images were obtained before gadolinium.  T1 axial and coronal images were
+     obtained following gadolinium.  3D TOF MRA of the circle of [**Location (un) **] was also
+     acquired.  Comparison was made to the previous MRI study of [**3335-1-31**].
+     
+     FINDINGS:
+     
+     BRAIN MRI:  There are now new areas of signal abnormality on the FLAIR and T2
+     weighted images involving bilateral basal ganglia region, right insular cortex
+     and right frontal and temporal opecular regions.  The basal ganglia
+     involvement includes head of both caudate nuclei, bilateral putamina and
+     anterior limbs of internal capsule.  Small area of increased signal is also
+     identified in the left medial frontal lobe adjacent to the anterior [**Doctor Last Name 234**] of
+     left lateral ventricle.  Small foci of signal abnormality are also identified
+     at bilateral frontal convexity regions.  Following gadolinium administration
+     leptomeningeal enhancement is identified along the right sylvian fissures and
+     subtle areas of enhancement are identified in bilateral basal ganglia region.
+     No hydrocephalus is identified and no midline shift is seen.
+     
+     IMPRESSION:
+     Bilateral basal ganglia and right temporal frontal signal abnormalities with
+     leptomeningeal and subtle parenchymal enhancement.  The leptomeningeal
+     enhancement favors infective pathology such as toxoplasmosis or criptococcus
+     infection.
+     
+     MRA OF THE HEAD:  The 3D TOF MRA of the circle of [**Location (un) **] demonstrates subtle
+     flow signal and irregularities in both middle cerebral arteries which could be
+     secondary to inflammation in the basal meninges.  No vascular occlusion and an
+     aneurysm greater than 3 mm in size are seen.  In the posterior circulation,
+     normal flow signal is seen in the vertebral and basilar arteries.
+     
+     IMPRESSION:  Subtle flow signal irregularities in both middle cerebral
+     arteries could be secondary to basal meningeal inflammatory process.  Clinical
+     correlation with CSF findings is recommended.
+     
+                                                                 (Over)
+
+     DATE: [**3335-4-9**] 1:12 PM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 10768**]
+     Reason: HIV, unresponsive, possible seizure activity, flexor posturi
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8812,22913,,,3335-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-9**] 1:12 PM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 10768**]
+     Reason: HIV, unresponsive, possible seizure activity, flexor posturi
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with HIV
+     REASON FOR THIS EXAMINATION:
+      HIV, unresponsive, possible seizure activity, flexor posturing L>R, LP with
+      pleocytosis and high protein.  Please evaluate for toxo/pml/lymphoma, stroke.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN:
+     
+     CLINICAL INFORMATION:  Patient with HIV and unresponsive with possible seizure
+     activity.  For further evaluation.
+     
+     TECHNIQUE:  T1 sagittal and axial, and FLAIR, T2 and susceptibility axial
+     images were obtained before gadolinium.  T1 axial and coronal images were
+     obtained following gadolinium.  3D TOF MRA of the circle of [**Location (un) **] was also
+     acquired.  Comparison was made to the previous MRI study of [**3335-1-31**].
+     
+     FINDINGS:
+     
+     BRAIN MRI:  There are now new areas of signal abnormality on the FLAIR and T2
+     weighted images involving bilateral basal ganglia region, right insular cortex
+     and right frontal and temporal opecular regions.  The basal ganglia
+     involvement includes head of both caudate nuclei, bilateral putamina and
+     anterior limbs of internal capsule.  Small area of increased signal is also
+     identified in the left medial frontal lobe adjacent to the anterior [**Doctor Last Name 234**] of
+     left lateral ventricle.  Small foci of signal abnormality are also identified
+     at bilateral frontal convexity regions.  Following gadolinium administration
+     leptomeningeal enhancement is identified along the right sylvian fissures and
+     subtle areas of enhancement are identified in bilateral basal ganglia region.
+     No hydrocephalus is identified and no midline shift is seen.
+     
+     IMPRESSION:
+     Bilateral basal ganglia and right temporal frontal signal abnormalities with
+     leptomeningeal and subtle parenchymal enhancement.  The leptomeningeal
+     enhancement favors infective pathology such as toxoplasmosis or criptococcus
+     infection.
+     
+     MRA OF THE HEAD:  The 3D TOF MRA of the circle of [**Location (un) **] demonstrates subtle
+     flow signal and irregularities in both middle cerebral arteries which could be
+     secondary to inflammation in the basal meninges.  No vascular occlusion and an
+     aneurysm greater than 3 mm in size are seen.  In the posterior circulation,
+     normal flow signal is seen in the vertebral and basilar arteries.
+     
+     IMPRESSION:  Subtle flow signal irregularities in both middle cerebral
+     arteries could be secondary to basal meningeal inflammatory process.  Clinical
+     correlation with CSF findings is recommended.
+     
+                                                                 (Over)
+
+     DATE: [**3335-4-9**] 1:12 PM
+     MR HEAD W & W/O CONTRAST; MR-ANGIO HEAD                         Clip # [**Clip Number (Radiology) 10768**]
+     Reason: HIV, unresponsive, possible seizure activity, flexor posturi
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8812,22913,10962,0,3335-04-09 04:36:00 EST,3335-04-09 04:42:00 EST,723,"N",69,"Nursing/Other","rn admission note","
+rn admission note
+[**3335-4-9**] 530am
+PT IS A 46 YO FEMALE PAT. ENGLISH IS NOT PRIMARY LANGUAGE PER ER NURSE. PT ADMITTED TO EW FOR UNRESPOSIVENSS. PT RECEIVES IV IG MONTHLY. ON [**4-8**] [**12-1**] WAY THRU INFUSION NURSE NOTED PT UNRESPONSIVE. BENDARYL AND TYLENOL GIVNE PRIOR TO INFUSION AS USUAL. 
+IN ER. HEAD CT NEGATIVE, BLOOD GLUCOSE WNL . JAW CLENCHING NOTED ? SEIZURE AACTIVITY. NARCAN GIVNE WITH NO EFFECT AND ATIVAN 2MG IV GIVNE  FOR ? SEIZURE ACTIVITY.
+HX; HIV+, HEP B+ MYLAGIA
+ALL: KNDA
+FAMILY: FAMILY AT BEDSIDE IN EW
+NEURO: UNRESPONSIVE RESPONDS TO PAINFUL STIMULI.
+CAD : VSS 122/77,106,28
+GU: FOLEY POLACED 900CC OUPUT IN EW.
+ID WBC 1.4  VANC , CEFTAZ, AND ACYCLOVIR GIVEN IN EW
+AWAITING ARRIVAL FROM EW.
+",,
+8812,22913,10962,0,3335-04-09 16:19:00 EST,3335-04-09 16:21:00 EST,547,"N",69,"Nursing/Other",,"
+
+Resp. Care Note
+Pt obtunded, ^ difficulty managing secretions, intubated with 8.0 ETT secured at 22 lip. + color change on e-z cap, BS equal bilat. Initial settings AC 500x 16x 100% peep 5. A-line being placed, ABG pending. 
+",,
+8812,22913,10962,0,3335-04-09 16:32:00 EST,3335-04-09 16:47:00 EST,585,"N",69,"Nursing/Other","micu/sicu npn 0700-1900","
+micu/sicu npn 0700-1900
+     patient received this am essentially obtunded. opening eyes, not to command. withdrawing to painful stimuli. weak gag and +cough noted. unable to suction mouth, pt clenching down, nts several times throughout the day for thick white to yellow. [**Last Name (un) **]-[**Doctor Last Name 273**] resp pattern noted at times. mri done this afternoon reportedly showing a great deal of edema throughout. ?hsv encephalitis causing event. pt had been treated previously for hiv related aseptic meningitis. mra portion negative for clots/bleeding. vss hr 90-1teens, bp 110-140's. pt given loading dose of dilantin this afternoon, to begin tid schedule tonight. pt intubated this evening d/t continued lethargy and ?increase in secretions/inability to effectively protect airway. team inserting a line at presently, on propofol for sedation. pt has 2 functioning peripheral iv's. mult family members in throughout the day, aware of situation. pt lives at home wuith her 2 sisters, also has 3 grown children, all [**Last Name (un) 1313**] supportive. sisters are home presently searching for documentation of pt wishes regarding status. 
+cont to watch and follow neurological status. dilantin tid for dec chance for seizing. iv abx--acyclovir, ampicillin and ceftriaxone for probable hsv. 
+",,
+8812,22913,10962,0,3335-04-10 03:38:00 EST,3335-04-10 03:47:00 EST,679,"N",69,"Nursing/Other",,"
+
+M/SICU Nursing Progress Note (1900-0700)
+
+Please see carevue for all objective data.
+
+CNS: Pt. remains well sedated on propofol gtt, which was decreased to 23.4mcg/kg/min due to hypotension. PEARL, 3mm. No seizure activity noted. Pt. minimally responsive with turning, routine care...MAE's.
+
+CVS: Briefly hypotensive to 88/syst, responded well to 500cc NS fluid bolus. Has since maintained B/P of 110-120/syst. Heart rate 90-100, NSR without VEA.
+
+RESP: Lungs clear...scant amount of thin, clear secretions. ABG's of 216/30/7.47 on A/C 40% 600 x 16 with 5 of PEEP. 
+
+GI: No stool, no GI aspirate. +BS throughout.
+
+F and E: Labs pending. Urine output has been >50cc/hr and pt. is currently 700cc+. Second liter of IVF infusing at 125cc/hr. 
+
+ID: T max of 100.8 rectally.... on ampi, acyclovir and ceftaz. 
+
+SOCIAL: Multiple family members visiting throughout the evening and pt's sister has remained at the bedside overnight.
+",,
+8812,22913,10962,0,3335-04-10 15:54:00 EST,3335-04-10 16:15:00 EST,585,"N",69,"Nursing/Other","micu/sicu npn 0700-1900","
+micu/sicu npn 0700-1900
+neuro--remains on propofol, shut off x2 today to assess mental status which remains unchanged from yesterday. pt mae on the bed, opens eyes, not to command. see carevue for all further objective data.
+resp--patient remains intubated. no vent changes made. occasionally breathing 1-2 breaths above. sm amts of cl/white secretions. mod amt of oral secretions.
+cv--vss. hr 90-100 sinus w/o ectopy. repeat labs to be drawn this eve. abp 1teens-140 sys/.
+gi--tube feedings initiated - replete w/fiber advanced to 20cc/hr. to get nutrtition consult in the am. no stool today. 
+gu-conts to have good urine output via foley.
+id--id following...doses and intervals changed today per fellow. low grade temps. 
+cont to await cultures lymphoma diagnosis vs. hsv encephalitis. cont to provide full support. patient had been unable to make decision on code status in past per her attending pcp and had wanted to remain full code in recent hospitalization. 
+",,
+8812,22913,10962,0,3335-04-10 16:02:00 EST,3335-04-10 16:05:00 EST,175,"N",69,"Nursing/Other",,"
+
+Respiratory Care:
+Pt. remains on mechanical ventilation via 7200. She is on a propofol drip and has been suctioned for minimal clear mucoid secretions. There have been no vent changes this shift. See Carevue for more info.
+",,
+8812,22913,10962,0,3335-04-11 04:44:00 EST,3335-04-11 04:52:00 EST,679,"N",69,"Nursing/Other",,"
+
+M/SICU Nursing Progress Note (1900-0700)
+
+CNS: Pt. remains sedated on propofol at 23mcg/kg/min. She does respond by withdrawal to noxious stim. +cough and gag. 
+
+RESP: ABG's of 214/31/7.48/24/1 on A/C 40% 500 x 16 with 5 of PEEP. Rate decreased to 14 on the basis of that ABG. Lungs clear. Suctioned for small amount of thin, clear sputum x 2. 
+
+CVS:Hemodynamically stable with heart rate 100-110 ST and B/P 110-120/syst. 
+
+ID: Low grade temp of 100.8 rectally. Remains on acyclovir, ampi and ceftaz. 
+
+GI: Tolerating tube feeds of replete with fiber. No residuals, increased to 40 overnight (goal is 65). 
+
+F and E: Excellent urine output, even fluid balance overnight. K+=3.4 after receiving 40 meq po x 2...will need further repletion. 
+
+SOCIAL: Family members visited last evening. 
+",,
+8812,22913,10962,0,3335-04-11 05:00:00 EST,3335-04-11 05:02:00 EST,529,"N",69,"Nursing/Other",,"
+
+pt.quiet on ventilator. 500-ac.14-40%-5 peep. abg=7.48,31,214,21,1,100%. heating system added last noc. no plans to wean yet.
+",,
+8812,22913,10962,0,3335-04-11 15:18:00 EST,3335-04-11 15:42:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing 7A-7P
+neuro: pt opens eyes to verbal stimuli, follows commands inconsistently, does not move L arm, pupils are equal and reactive, is not receiving any sedation, no seizure activity noted
+resp: vented A/C ,PEEP 5, FiO2 40%, RR set at 10, but pt breathing 17 BPM .LS clear, cough and gag relexes present
+CV: ST 110-120, no ectopy, BP 130's/70's  TLC in L SC, 2 peripheral IV's, A-line in R radial. 1/2NS c 20K @ 80cc/h.  Repleted Mag and K today .
+GI: belly soft, BS positive, NGT with Promote c fiber @ 60cc/h(goal rate) s residuals. No BM today.
+GU: patent foley draining clear, yellow urine 200cc/h
+Plan: Continue acyclovir, dilantin, monitor neuro status, ongoing discussion c family re. code status.
+
+",,
+8812,22913,10962,,3335-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-12**] 3:45 PM
+     MR-ANGIO HEAD; MR HEAD W & W/O CONTRAST                         Clip # [**Clip Number (Radiology) 10772**]
+     Reason: Eval for progression of bitemporal lesions in pt w/left side
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with AIDS (CD4=10) concerned about HSV versus EBV lymphoma.
+     REASON FOR THIS EXAMINATION:
+      Eval for progression of bitemporal lesions in pt w/left sided paralysis,
+      obtundation, and AIDS.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: HIV with new intracranial lesions, paralysis, obtundation.
+     
+     TECHNIQUE: Multiplanar T1 and T2 weighted images of the brain were obtained.
+     Post-Gadolinium T1 weighted scans are provided.
+     
+     3D time of flight MR angiography of the Circle of [**Location (un) 220**] was performed.
+     Multiplanar reformated images of the cerebral circulation are provided for
+     review. SOURCE image data is reviewed.
+     
+     Comparison is made to recent CT scans of [**3335-4-4**] and [**3335-4-8**], as well as the
+     previous MRI examination of [**3335-4-9**].
+     
+     FINDINGS:
+     
+     As noted on the previous MRI, there are multiple areas of increased T2 signal
+     primarily within the basal ganglia, in the adjacent periventricular white
+     matter, and also involving a large part of the right frontal lobe cortex.
+     There are also multiple smaller foci of increased T2 signal in the white
+     matter of the centrum semiovale bilaterally. There are a few additional foci
+     of increased signal along the cortical margin of the left frontal and parietal
+     lobes. Compared to the previous study, there is increased conspicuity of the
+     multiple areas of signal abnormality. There is mild gyral edema and there is
+     mass effect on the lateral ventricles, related to the areas of signal
+     abnormality. On post Gadolinium images, there is irregular enhancement along
+     the right frontal lobe cortical surface and probably in the leptomeninges, and
+     also irregular enhancement throughout the basal ganglia abnormalities. There
+     may be abnormal enhancement in 2 locations within the brain stem as well,
+     though artifact limits visualization. Contrast enhancement is more prominent
+     on today's study than on the previous exam.
+     
+     Flow voids are seen in the major branches of the Circle of [**Location (un) 220**] and in the
+     major intracranial veins.
+     
+     MR ANGIOGRAPHY is stable, compared to the previous study, with flow identified
+     in the carotid and vertebrobasilar systems, but irregular signal is present in
+     the middle cerebral and posterior cerebral arterial branches.
+     
+     IMPRESSION: Findings are compatible with those of the MRI of [**3335-4-9**]. There
+     are signs of cortical and deep grey matter edema, probably infarction, which
+     could be related to vasculitis from leptomeningeal infection or inflammation.
+     Correlation with cerebrospinal fluid findings is again recommended.
+     
+                                                                 (Over)
+
+     DATE: [**3335-4-12**] 3:45 PM
+     MR-ANGIO HEAD; MR HEAD W & W/O CONTRAST                         Clip # [**Clip Number (Radiology) 10772**]
+     Reason: Eval for progression of bitemporal lesions in pt w/left side
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8812,22913,10962,,3335-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-12**] 11:01 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10771**]
+     Reason: assess ngt placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with change in mental status, intubated, replaced ngt
+     REASON FOR THIS EXAMINATION:
+      assess ngt placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Assess NG tube placement.
+     
+     COMPARISONS:  [**3335-4-9**]
+     
+     SINGLE VIEW CHEST:  The NG tube and endotracheal tube appear to be in
+     appropriate position.  The cardiac and mediastinal contours are stable.  There
+     is mild blurring of the right hemidiaphragm which may be suggestive of
+     effusion versus an early basilar process.  The lungs appear otherwise clear.
+     
+     IMPRESSION:  1)  Appropriate positioning of endotracheal and NG tubes.
+     2)  Blurring of the right hemidiaphragm which may be consistent with a small
+     effusion or early basilar lung process (atelectasis/consolidation).  Follow up
+     chest radiograph may be helpful for further evaluation.
+     
+     
+     
+
+",,
+8812,22913,10962,,3335-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-12**] 3:45 PM
+     MR-ANGIO HEAD; MR HEAD W & W/O CONTRAST                         Clip # [**Clip Number (Radiology) 10772**]
+     Reason: Eval for progression of bitemporal lesions in pt w/left side
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with AIDS (CD4=10) concerned about HSV versus EBV lymphoma.
+     REASON FOR THIS EXAMINATION:
+      Eval for progression of bitemporal lesions in pt w/left sided paralysis,
+      obtundation, and AIDS.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: HIV with new intracranial lesions, paralysis, obtundation.
+     
+     TECHNIQUE: Multiplanar T1 and T2 weighted images of the brain were obtained.
+     Post-Gadolinium T1 weighted scans are provided.
+     
+     3D time of flight MR angiography of the Circle of [**Location (un) 220**] was performed.
+     Multiplanar reformated images of the cerebral circulation are provided for
+     review. SOURCE image data is reviewed.
+     
+     Comparison is made to recent CT scans of [**3335-4-4**] and [**3335-4-8**], as well as the
+     previous MRI examination of [**3335-4-9**].
+     
+     FINDINGS:
+     
+     As noted on the previous MRI, there are multiple areas of increased T2 signal
+     primarily within the basal ganglia, in the adjacent periventricular white
+     matter, and also involving a large part of the right frontal lobe cortex.
+     There are also multiple smaller foci of increased T2 signal in the white
+     matter of the centrum semiovale bilaterally. There are a few additional foci
+     of increased signal along the cortical margin of the left frontal and parietal
+     lobes. Compared to the previous study, there is increased conspicuity of the
+     multiple areas of signal abnormality. There is mild gyral edema and there is
+     mass effect on the lateral ventricles, related to the areas of signal
+     abnormality. On post Gadolinium images, there is irregular enhancement along
+     the right frontal lobe cortical surface and probably in the leptomeninges, and
+     also irregular enhancement throughout the basal ganglia abnormalities. There
+     may be abnormal enhancement in 2 locations within the brain stem as well,
+     though artifact limits visualization. Contrast enhancement is more prominent
+     on today's study than on the previous exam.
+     
+     Flow voids are seen in the major branches of the Circle of [**Location (un) 220**] and in the
+     major intracranial veins.
+     
+     MR ANGIOGRAPHY is stable, compared to the previous study, with flow identified
+     in the carotid and vertebrobasilar systems, but irregular signal is present in
+     the middle cerebral and posterior cerebral arterial branches.
+     
+     IMPRESSION: Findings are compatible with those of the MRI of [**3335-4-9**]. There
+     are signs of cortical and deep grey matter edema, probably infarction, which
+     could be related to vasculitis from leptomeningeal infection or inflammation.
+     Correlation with cerebrospinal fluid findings is again recommended.
+     
+                                                                 (Over)
+
+     DATE: [**3335-4-12**] 3:45 PM
+     MR-ANGIO HEAD; MR HEAD W & W/O CONTRAST                         Clip # [**Clip Number (Radiology) 10772**]
+     Reason: Eval for progression of bitemporal lesions in pt w/left side
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8812,22913,10962,0,3335-04-12 01:55:00 EST,3335-04-12 01:57:00 EST,487,"N",69,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning. Settings: A/C 500*10 40% 5 peep. Breath sounds clear. Please see respiratory section of carevue for further data.
+Plan: Continue mechanical ventilation.
+",,
+8812,22913,10962,0,3335-04-12 04:48:00 EST,3335-04-12 05:11:00 EST,585,"N",69,"Nursing/Other","micu/sicu npn 1900-0700","
+micu/sicu npn 1900-0700
+neuro- remains off propofol, no changes in neurological status. pt conts to w/d to pain,opens eyes, nothing to command. 
+cv- hr 1teens-120's, no ectopy. bp stable 120-130's/. temp up to 101.8 last eve, blood, urine and sputum sent per house staff. ivf 0.45ns w/20meq kcl infusing at 80cc/hr...labs pending.
+resp- abg this am 210/33/7.46, ?change over the psv this am. l/s cl.
+gi/gu- tolerating tube feeds at goal of 60cc/hr w/sm amts residuals.  u/o excellent.
+social- pt's sister spent the night at the bedside, [**Last Name (un) 1313**] supportive. 
+",,
+8812,22913,10962,0,3335-04-12 17:22:00 EST,3335-04-12 17:34:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing 7A-7P
+neuro: opens eyes to verbal stimuli, follws some commands, but is inconsistent, does not move L arm, pupils equal and reactive.  MRI done this afternoon.
+resp: vent weaned from A/C rate of 10 to PSV 5/5, SRR 14-17, STV 300cc-350cc  LS clear
+CV: ST no ectopy, VSS see carevue.  IVF dc'd today
+GI: pt pulled out her OGT at 10 AM; it was replaced by RN; placement confirmed by CXR.  TF was not resumed for possible extubation tonite
+GU: patent foley draining clear, yellow urine
+Skin integrity: open area b/t buttocks 7cm by .5cm.  Aloe Vesta applied and pt placed on first step mattress
+social: visited by sister and children today
+Plan:  Continue acyclovir and bactrim, dilatin. ? extubation tonite- if not ? resume TF. Awaiting results of MRI.
+",,
+8812,22913,10962,0,3335-04-13 05:26:00 EST,3335-04-13 05:34:00 EST,-1,"N",69,"Nursing/Other",,"
+
+PT SLIGHLTY FEBRILE, VSS THROUGH NOC.  ST-NO ECTOPY NOTED.
+NEURO UNCHANGED-PT ROUSES TO VERBAL-TRACKS WITH EYES-MOVES UPPERS SPONT.  RESP- SEE NOTES FOR VENT SETTINGS.  LUNGS COARSE T/O, SXN SEVERAL TIMES FOR THICK TAN/YELLOW SPUTUM FROM ETT.  GI- ABD SOFT/ROUND.  TF RESTARTED @ 2100 THROUGH OGT; UP 10CC Q4HRS TOWARDS GOAL OF 60.  LOW RESIDUALS.  GU- GOOD UOP VIA FOLEY CATH.  RED/OPEN AREA AT COCCYX-PT TURNED Q2HRS. 
+",,
+8812,22913,10962,0,3335-04-13 17:41:00 EST,3335-04-13 18:03:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing Note 7a-7p:
+     Patient extubated at 1600 and tolerated well until 1800 and increasing stridor noted on 40% face tent and BP increased to 211/106 via artline and after leveling and zeroeing. Notified MD and started Labetalol gtt at 2.0mg/min at 1830 and 4mg decadron given IV via orders.  Now RT setting up a helium/oxgyen mix. No neuro changes noted with this status change. Pupils still 2mm and brisk bilaterally. Moves RUE inconsistently to command and purposefully. Withdraws to stimuli. Opens eyes spontaneously no tracking. Positive gag and cough reflex.  Will not cough when asked to and now RT suctioning at 1845.  Family at bedside.
+
+Cardio: ST with no ectopy and HR 106-133 and EKG done at 1300 with no changes from previous. Temp up to 100.4 today. CVP line started at 1000 and ranges of7-5 while on vent. One liter bolus given today. 
+
+GI:  Stopped tube feeding at 1000 and had two large brown stools between 1800-1900. Patient started on senna and colace today.  Coccyx with some pinkish color and cream applied and on air mattress.
+GU:  UOP at 50-150cc/hr and on negative end of I/O now.  
+
+",,
+8812,22913,10962,0,3335-04-14 04:41:00 EST,3335-04-14 04:48:00 EST,-1,"N",69,"Nursing/Other",,"
+
+PT NEURO STATUS UNCHANGED-OCC. TRACKS MOTION WITH EYES, PEERL. MAE-UPPERS>LOWERS.  NO PURPOSEFUL MOVEMENT SEEN.  
+
+PT CONT. ON HELIOX VIA NONREBREATHER MASK.  SATS 98-100%  LUNGS COARSE/CRACKLES BIBASILAR.  OROPHARYNGEAL SXN FOR YELLOW/WHITE SPUTUM-MINIMAL AMTS. 
+
+GI- NGT PLACED FOR MEDS POST CONFIRMING WITH RESIDENTS.  RECTAL TUBE/BAG PLACED DUE TO COPIOUS AMOUNT OF LIQUID STOOL.
+
+LABATELOL GTT RESTARTED AT 2400 FOR BP CONTROL. 
+",,
+8812,22913,10962,0,3335-04-14 17:08:00 EST,3335-04-14 17:22:00 EST,761,"N",69,"Nursing/Other","Fin 4 ICU nursing progress note","
+[**Wardname **] 4 ICU nursing progress note
+ Respiratory: Thru am pt stridorous,recieving heliox. Sats high 90's..rr 14-20. Changed to nc..with drop in sats..required vigorous nt suctioning per respiratory therpy. On/off heliox..by late afternoon..back to 50% cn..no further stridor..but wheezing..Turned pt with left side down..drop in sats to 90..repositioned with improved sats to 97. Now with stronger cough..still needs help clearing back of throat.
+ Cardiovascular: Labatolol remains off..see care view for bp..hr 80-120st..
+ Neuro: Not following commands..opens eyes to name..seen moving r arm..no movement of lower extremities or left arm..??LP tonoc..
+ Electrolytes: Na 128...given 10mgm lasix at 17:30..Is not recieving fluids other than acyclovir.
+ GI: Small amts liquid stool..TF on hold d/t earlier tenuous respiratory status..??restart tonoc..
+
+",,
+8812,22913,10962,0,3335-04-15 05:38:00 EST,3335-04-15 05:46:00 EST,43,"N",69,"Nursing/Other","S/MICU Nursing Progress Note","
+S/MICU Nursing Progress Note
+  Respiratory: on cool nemb, RR 20's O2 sat 98-100%, no episodes of desat with turning to the left. weak cough, requiring NT suctioning x2 for thick tan sputum foul smelling. BS insp/expir wheezes in the right bases, less on the left no stidor. 
+
+  Neuro: opens eyes spontaneously, moving right spont no mevement in the left. does not respond to question, will follow staff with eyes on right side, not the left. on dilantin and acyclovir,schedule to get an LP this morning. 
+ 
+  Cardiac: HR 100-120's ST no VEA, BP stable,
+  
+",,
+8812,22913,,,3335-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-18**] 11:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10773**]
+     Reason: r/o infiltrate                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with HIV, recently extubated, now with new fever.             
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP CHEST RADIOGRAPH FROM [**3335-4-18**]:
+     
+     This dictation replaces the previously lost report.
+     
+     INDICATION:  Extubation, HIV, fever,
+     
+     Comparison is made to [**3335-4-26**].
+     
+     FINDINGS:  There has been intubation.  NG tube is in the stomach unchanged.
+     Lung fields are clear.  Heart size is normal.  Pulmonary vessels are normal.
+     
+     IMPRESSION:  Post extubation.  No evidence of pneumonia or CHF.
+     
+
+",,
+8812,22913,,,3335-04-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-22**] 8:01 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 10774**]
+     Reason: please placeg-j tube
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       -53 INCOMPLETE/UNSCUCCESSFUL        *
+     * 74350 PERC PLCMT GASTROSOTMY TUBE                                        *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with.  [**First Name8 (NamePattern2) 800**] [**First Name4 (NamePattern1) 10775**] [**Last Name (NamePattern1) 10776**] [**Pager number 10777**] with questions
+     REASON FOR THIS EXAMINATION:
+      please placeg-j tube
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 46 year old female with altered mental status due to encephalitis
+     and unable to eat. Requires percutaneous gastrojejunostomy tube for nutrition.
+     
+     RADIOLOGISTS: Dr. [**Last Name (STitle) 6030**] and Dr. [**First Name (STitle) 400**]. Dr. [**First Name (STitle) 400**], attending radiologist, was
+     present and supervised the entire procedure.
+     
+     TECHNIQUE/FINDINGS: The patient's abdomen was prepped and draped in sterile
+     fashion. The patients large and small intestines were distended by air. The
+     stomach was insufflated with air via the existing nasogastric tube as a
+     target. A skin site overlying the stomach was localized in the left upper
+     quadrant and anesthetized with lidocaine after initial triangulation made the
+     region appear free of colon . Under fluoroscopic guidance the 19g needle was
+     used to gain access to the stomach. The position of the needle was examined in
+     multiple projections which demonstrated that there was small bowel interposed
+     between the abdominal wall and the stomach. The procedure was discontinued at
+     this point as no other safe window to the stomach was available. The patient
+     tolerated the procedure well without immediate post procedure complications.
+     
+     IMPRESSION: Unable to place percutaneous gastrojejunostomy tube due to
+     interposition of  small bowel between abdominal wall and stomach. Suggest a CT
+     scan to evaluate for satisfactory window and possibility of CT guided
+     percutaneous tube or endoscopically placed percutaneous feeding tube (from the
+     interior approach it may be possible to push the bowel out of the way).
+     Otherwise a surgically placed tube may be necessary.
+     
+     
+
+",,
+8812,22913,,,3335-04-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-22**] 8:01 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 10774**]
+     Reason: please placeg-j tube
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       -53 INCOMPLETE/UNSCUCCESSFUL        *
+     * 74350 PERC PLCMT GASTROSOTMY TUBE                                        *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with.  [**First Name8 (NamePattern2) 800**] [**First Name4 (NamePattern1) 10775**] [**Last Name (NamePattern1) 10776**] [**Pager number 10777**] with questions
+     REASON FOR THIS EXAMINATION:
+      please placeg-j tube
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 46 year old female with altered mental status due to encephalitis
+     and unable to eat. Requires percutaneous gastrojejunostomy tube for nutrition.
+     
+     RADIOLOGISTS: Dr. [**Last Name (STitle) 6030**] and Dr. [**First Name (STitle) 400**]. Dr. [**First Name (STitle) 400**], attending radiologist, was
+     present and supervised the entire procedure.
+     
+     TECHNIQUE/FINDINGS: The patient's abdomen was prepped and draped in sterile
+     fashion. The patients large and small intestines were distended by air. The
+     stomach was insufflated with air via the existing nasogastric tube as a
+     target. A skin site overlying the stomach was localized in the left upper
+     quadrant and anesthetized with lidocaine after initial triangulation made the
+     region appear free of colon . Under fluoroscopic guidance the 19g needle was
+     used to gain access to the stomach. The position of the needle was examined in
+     multiple projections which demonstrated that there was small bowel interposed
+     between the abdominal wall and the stomach. The procedure was discontinued at
+     this point as no other safe window to the stomach was available. The patient
+     tolerated the procedure well without immediate post procedure complications.
+     
+     IMPRESSION: Unable to place percutaneous gastrojejunostomy tube due to
+     interposition of  small bowel between abdominal wall and stomach. Suggest a CT
+     scan to evaluate for satisfactory window and possibility of CT guided
+     percutaneous tube or endoscopically placed percutaneous feeding tube (from the
+     interior approach it may be possible to push the bowel out of the way).
+     Otherwise a surgically placed tube may be necessary.
+     
+     
+
+",,
+8812,22913,,,3335-04-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-22**] 8:01 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 10774**]
+     Reason: please placeg-j tube
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       -53 INCOMPLETE/UNSCUCCESSFUL        *
+     * 74350 PERC PLCMT GASTROSOTMY TUBE                                        *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with.  [**First Name8 (NamePattern2) 800**] [**First Name4 (NamePattern1) 10775**] [**Last Name (NamePattern1) 10776**] [**Pager number 10777**] with questions
+     REASON FOR THIS EXAMINATION:
+      please placeg-j tube
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 46 year old female with altered mental status due to encephalitis
+     and unable to eat. Requires percutaneous gastrojejunostomy tube for nutrition.
+     
+     RADIOLOGISTS: Dr. [**Last Name (STitle) 6030**] and Dr. [**First Name (STitle) 400**]. Dr. [**First Name (STitle) 400**], attending radiologist, was
+     present and supervised the entire procedure.
+     
+     TECHNIQUE/FINDINGS: The patient's abdomen was prepped and draped in sterile
+     fashion. The patients large and small intestines were distended by air. The
+     stomach was insufflated with air via the existing nasogastric tube as a
+     target. A skin site overlying the stomach was localized in the left upper
+     quadrant and anesthetized with lidocaine after initial triangulation made the
+     region appear free of colon . Under fluoroscopic guidance the 19g needle was
+     used to gain access to the stomach. The position of the needle was examined in
+     multiple projections which demonstrated that there was small bowel interposed
+     between the abdominal wall and the stomach. The procedure was discontinued at
+     this point as no other safe window to the stomach was available. The patient
+     tolerated the procedure well without immediate post procedure complications.
+     
+     IMPRESSION: Unable to place percutaneous gastrojejunostomy tube due to
+     interposition of  small bowel between abdominal wall and stomach. Suggest a CT
+     scan to evaluate for satisfactory window and possibility of CT guided
+     percutaneous tube or endoscopically placed percutaneous feeding tube (from the
+     interior approach it may be possible to push the bowel out of the way).
+     Otherwise a surgically placed tube may be necessary.
+     
+     
+
+",,
+8812,22913,,,3335-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-26**] 7:54 PM
+     MR HEAD W/ CONTRAST                                             Clip # [**Clip Number (Radiology) 10779**]
+     Reason: pre op for brain biopsy. Please do wand study.  Pt tp gp to 
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with AIDS (CD4=10) concerned about HSV versus EBV lymphoma vs
+      VZV. 
+     REASON FOR THIS EXAMINATION:
+      pre op for brain biopsy. Please do wand study.  Pt tp gp to OR in AM [**4-27**].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN WITH CONTRAST [**4-26**].
+     
+     CLINICAL HISTORY:  Pre-biopsy evaluation.
+     
+     TECHNIQUE:  Following the injection of gadolinium a T1-weighted 3D gradient
+     echo sequence was obtained.
+     
+     FINDINGS:
+     
+     There is gyriform T1 hyperintensity in the posterior right frontal lobe where
+     an area of cortical and subcortical T2 hyperintensity was seen previously. The
+     T2 hyperintense lesions in the lentiform nucleus bilaterally, and both caudate
+     nuclei are visible as areas of smaller, better defined T1 hyperintensity than
+     on the study of 5/14.  An additional lesion is visible in the anterior right
+     thalamus, involving the genu of the internal capsule.  The T1 hyperintensity
+     on the current study probably represents at least a component of
+     methemoglobin/petechial hemorrhage.  There is probably also enhancement
+     although no pre-contrast images were obtained.  A small enhancing lesion of
+     the left cerebellum is also newly visible.  There is no mass effect. The
+     ventricles and sulci remain normal.
+     
+     IMPRESSION:  There are multiple hyperintense lesions visible on this post-
+     contrast study.  Their distribution suggests ischemic lesions with associated
+     enhancement and perhaps petechial hemorrhage.  Compared to the study of two
+     weeks previously new lesions are visible in the posterior circulation with
+     involvement of the right thalamus and the left cerebellum. Vasculitis or
+     embolic disease are considerations.
+     
+     
+
+",,
+8812,22913,,,3335-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-26**] 11:26 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10778**]
+     Reason: Routine infection work up.                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       46 year old woman with elevated white count.  Currently afebrile.              
+     REASON FOR THIS EXAMINATION:
+      Routine infection work up.                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Elevated white count, currently afebrile.
+     
+     COMPARISON:  [**3335-4-18**]
+     
+     SINGLE VIEW CHEST:  The cardiac and mediastinal contours appear normal.  The
+     lungs appear clear.  There are no pleural effusions.  The pulmonary
+     vasculature appears normal.  The NG tube extends into the stomach.  The left
+     hemidiaphragm is minimally elevated.
+     
+     IMPRESSION:  No evidence for pneumonia.
+
+",,
+8812,22913,,,3335-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-28**] 9:26 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10780**]
+     Reason: new fever, post op from brain biopsy. r/o infiltrate/effusio
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       46 year old woman with HIV, diffuse brain lesions.
+     REASON FOR THIS EXAMINATION:
+      new fever, post op from brain biopsy. r/o infiltrate/effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST, [**3335-4-28**], compared to two days earlier.
+     
+     CLINICAL INDICATION:  Fever.  HIV positive.  Recently post operative from
+     brain biopsy.
+     
+     A NGT remains in place, currently terminating within the upper stomach.
+     
+     The cardiac and mediastinal contours are within normal limits and the lungs
+     appear clear bilaterally.  No pleural effusions are evident.
+     
+     IMPRESSION:  No radiographic evidence of pneumonia.
+
+",,
+8812,22913,,,3335-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-29**] 1:43 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10781**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 46 yo with HIV s/p brain bx [**4-28**] for multiple brain lesions,
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with HIV, mult brain lesions unclear etiology.                
+     REASON FOR THIS EXAMINATION:
+      46 yo with HIV s/p brain bx [**4-28**] for multiple brain lesions, now with rising 
+      LFTs. r/o hepatic abscess or blockage.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  HIV S/P brain biopsy for multiple brain lesions.  Rising LFT's.
+     
+     COMPARISON:  None
+     
+     TECHNIQUE:  Contrast enhanced CT of the abdomen and pelvis.
+     
+     CONTRAST:  150 cc of Optiray secondary to debility.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is a trace right-sided pleural
+     effusion and minor atelectatic changes bilaterally.  An NG tube is present in
+     the gastric fundus.  The liver, gallbladder, pancreas, spleen, adrenal glands,
+     and kidneys are unremarkable with the exception of a small simple cyst in the
+     right kidney.  In particular there is no intra or extrahepatic biliary ductal
+     dilatation noted.  The hepatic vasculature is patent.  No lymphadenopathy and
+     the bowel is unremarkable.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There may be a trace amount of pelvic
+     fluid which is likely within physiologic limits.  There is a short segment of
+     collapsed sigmoid colon between normally distended segments of sigmoid and
+     rectum on either side.  This demonstrates mild wall thickening. In addition,
+     there is nonspecific stranding in the perirectal fat. Clinical correlation is
+     advised. The bowel is otherwise unremarkable. Distal ureters and urinary
+     bladder are within normal limits. The bladder contains a Foley catheter and
+     air.  The osseous structures reveal no significant findings.
+     
+     IMPRESSION:  No hepatic pathology detectable by CT.  Trace effusion on the
+     right.  Short segment of narrowed and possibly thickened sigmoid though this
+     may simply represent a segmental peristalsis and not true thickening.
+     Nonspecific perirectal stranding.
+
+",,
+8812,22913,,,3335-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-29**] 1:43 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10781**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 46 yo with HIV s/p brain bx [**4-28**] for multiple brain lesions,
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with HIV, mult brain lesions unclear etiology.                
+     REASON FOR THIS EXAMINATION:
+      46 yo with HIV s/p brain bx [**4-28**] for multiple brain lesions, now with rising 
+      LFTs. r/o hepatic abscess or blockage.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  HIV S/P brain biopsy for multiple brain lesions.  Rising LFT's.
+     
+     COMPARISON:  None
+     
+     TECHNIQUE:  Contrast enhanced CT of the abdomen and pelvis.
+     
+     CONTRAST:  150 cc of Optiray secondary to debility.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is a trace right-sided pleural
+     effusion and minor atelectatic changes bilaterally.  An NG tube is present in
+     the gastric fundus.  The liver, gallbladder, pancreas, spleen, adrenal glands,
+     and kidneys are unremarkable with the exception of a small simple cyst in the
+     right kidney.  In particular there is no intra or extrahepatic biliary ductal
+     dilatation noted.  The hepatic vasculature is patent.  No lymphadenopathy and
+     the bowel is unremarkable.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There may be a trace amount of pelvic
+     fluid which is likely within physiologic limits.  There is a short segment of
+     collapsed sigmoid colon between normally distended segments of sigmoid and
+     rectum on either side.  This demonstrates mild wall thickening. In addition,
+     there is nonspecific stranding in the perirectal fat. Clinical correlation is
+     advised. The bowel is otherwise unremarkable. Distal ureters and urinary
+     bladder are within normal limits. The bladder contains a Foley catheter and
+     air.  The osseous structures reveal no significant findings.
+     
+     IMPRESSION:  No hepatic pathology detectable by CT.  Trace effusion on the
+     right.  Short segment of narrowed and possibly thickened sigmoid though this
+     may simply represent a segmental peristalsis and not true thickening.
+     Nonspecific perirectal stranding.
+
+",,
+8812,22913,,,3335-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-29**] 1:43 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 10781**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: 46 yo with HIV s/p brain bx [**4-28**] for multiple brain lesions,
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with HIV, mult brain lesions unclear etiology.                
+     REASON FOR THIS EXAMINATION:
+      46 yo with HIV s/p brain bx [**4-28**] for multiple brain lesions, now with rising 
+      LFTs. r/o hepatic abscess or blockage.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  HIV S/P brain biopsy for multiple brain lesions.  Rising LFT's.
+     
+     COMPARISON:  None
+     
+     TECHNIQUE:  Contrast enhanced CT of the abdomen and pelvis.
+     
+     CONTRAST:  150 cc of Optiray secondary to debility.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  There is a trace right-sided pleural
+     effusion and minor atelectatic changes bilaterally.  An NG tube is present in
+     the gastric fundus.  The liver, gallbladder, pancreas, spleen, adrenal glands,
+     and kidneys are unremarkable with the exception of a small simple cyst in the
+     right kidney.  In particular there is no intra or extrahepatic biliary ductal
+     dilatation noted.  The hepatic vasculature is patent.  No lymphadenopathy and
+     the bowel is unremarkable.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There may be a trace amount of pelvic
+     fluid which is likely within physiologic limits.  There is a short segment of
+     collapsed sigmoid colon between normally distended segments of sigmoid and
+     rectum on either side.  This demonstrates mild wall thickening. In addition,
+     there is nonspecific stranding in the perirectal fat. Clinical correlation is
+     advised. The bowel is otherwise unremarkable. Distal ureters and urinary
+     bladder are within normal limits. The bladder contains a Foley catheter and
+     air.  The osseous structures reveal no significant findings.
+     
+     IMPRESSION:  No hepatic pathology detectable by CT.  Trace effusion on the
+     right.  Short segment of narrowed and possibly thickened sigmoid though this
+     may simply represent a segmental peristalsis and not true thickening.
+     Nonspecific perirectal stranding.
+
+",,
+8812,22913,,,3335-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-29**] 1:43 PM
+     CT HEAD W/ & W/O CONTRAST                                       Clip # [**Clip Number (Radiology) 10782**]
+     Reason: R/O acute process.  Pt is presenting with change in neurolog
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with HIV disease.
+     REASON FOR THIS EXAMINATION:
+      R/O acute process.  Pt is presenting with change in neurological exam and
+      hemiplegia on the R side.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  46-year-old woman with HIV and abnormal brain MRI.  Now S/P brain
+     biopsy.  Evaluate for acute changes with new findings on neurologic exam and
+     hemiplegia on the right side.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the foramen magnum
+     through the cranial vertex prior to and following the administration of 150 cc
+     of Optiray contrast IV.  This volume of contrast was administered as the
+     patient was receiving an abdominal CT scan at the same time.
+     
+     COMPARISON:  Comparison is made to the prior head MRI dated [**3335-4-26**] as well as
+     the next prior head CT dated [**3335-4-8**].
+     
+     FINDINGS:  No acute hemorrhage is identified.  There is pneumocephalus present
+     in this post-biopsy patient and a craniotomy defect is present along the right
+     frontal region.  There are multiple small regions of abnormal enhancement
+     involving the right basal ganglia and thalamic region as well as the left
+     basal ganglia region.  There are additional low attenuation region in the
+     basal ganglia bilaterally which do not enhance.  There is no evidence of mass
+     effect or shift of normally mid-line structures.  The ventricles are stable in
+     size and the basal cisterns are patent.
+     
+     The osseous structures are normal other than the above described craniotomy
+     defect.  There is extensive soft tissue swelling in the tissues surrounding
+     the craniotomy and right orbit.
+     
+     IMPRESSION:  1)  Abnormal enhancing lesions in the bilateral basal ganglia and
+     right thalamus.  The differential diagnosis remains a neoplastic or infectious
+     process.  Less likely would be post-surgical changes.
+     
+     2)  Post-surgical pneumocephalus without evidence of acute hemorrhage or
+     shift.
+
+",,
+8812,22913,,,3335-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-4-30**] 2:28 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 10783**]
+     Reason: Please evaluate for cholangitis.                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with advanced AIDS (CD4 10, VL>100K) now mostly unresponsive 
+      with elevated alk phos and direct bili as well as fever with possible AIDS 
+      cholangiopathy.  Abd CT negative.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for cholangitis.                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  LFT abnormalities, advanced HIV, elevated bilirubin, evaluate for
+     cholangitis.
+     
+     COMPARISON:  None.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND:  There are no focal or textural abnormalities
+     of the liver.  There is no intra- or extrahepatic biliary ductal dilatation.
+     Normal hepatopetal flow is identified in the portal vein.  The gallbladder is
+     partially collapsed and contains no stones.  There is no pericholecystic
+     fluid.
+     
+     IMPRESSION:  Unremarkable right upper quadrant ultrasound. 
+
+",,
+8812,22913,,,3335-05-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-5-1**] 10:09 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10784**]
+     Reason: Continued fevers, change on lung exam, poor mental status; r
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       46 year old woman with fevers and cough, declining mental status               
+     REASON FOR THIS EXAMINATION:
+      Continued fevers, change on lung exam, poor mental status; r/o aspiration PNA   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Cough and fever with declining mental status.
+     
+     NG tube is in fundus of stomach.  Heart size is normal. The lungs are clear.
+     Retained contrast is present in the colon.
+     
+     IMPRESSION:  No evidence for pneumonia.
+
+",,
+8812,22913,,,3335-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-5-2**] 3:34 PM
+     CAROTID LMTD/ DPP                                               Clip # [**Clip Number (Radiology) 10785**]
+     Reason: Please evaluate for carotid disease.                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old woman with advanced AIDS found to have microinfarcts on brain 
+      biopsy.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for carotid disease.                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Strokes on ____ evaluate for carotid stenosis.
+     
+     FINDINGS: Duplex evaluation was performed of the carotid arteries. Patient was
+     somewhat uncooperative and refused to move her head to evaluate her right
+     side. Thus, the left side was only evaluated.
+     
+     On the left, peak systolic velocities are 50, 62, 74 in the ICA, CCA, ECA
+     respectively. The ICA to CCA ratio is 0.8. This is consistent with no
+     stenosis. There is antegrade flow in the left vertebral artery.
+     
+     IMPRESSION: No evidence of left carotid stenosis. Of note, study cannot be
+     completed on the right side.
+
+",,
+8812,22913,,,3335-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8812,22913,,,3335-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8812,22913,,,3335-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-5-9**] 11:19 AM
+     BX-NEEDLE LIVER BY RADIOLOGIST; GUIDANCE/LOCALIZATION FOR NEEDLE BIOPSY US (S&I)Clip # [**Clip Number (Radiology) 10786**]
+     Reason: ABNORMAL LFT,S,HIV,HEPATITIS B 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        46 year old woman with advanced AIDS (CD4 10, VL>100K) now mostly 
+      unresponsive  with elevated alk phos, AST, and ALT posssibly drug-induced, 
+      opportunistic  infection, vs. re-actitvation of Hep B.
+     REASON FOR THIS EXAMINATION:
+      Please do US guided BIOPSY of liver.  Per liver service, perform 2 passes. Send 
+      one for standard cultures, mycobacteria, and fungal.  Send the other for 
+      histology (URGENT).
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Advanced HIV disease.  Abnormal liver function tests.  Evaluate
+     for histology and opportunistic infections.
+     
+     TECHNIQUE:  Written consent was obtained from the patient's sister after full
+     explanation of the technique and complications.
+     
+     Limited ultrasound of the right upper quadrant was performed to determine a
+     safe spot for needle biopsy.  The skin was infiltrated with 1% lidocaine and,
+     under direct visualization, two #18 gauge core biopsies were obtained from the
+     right lobe of the liver.  Samples were sent for histology and microbiology as
+     per request.
+     
+     The procedure was tolerated well by the patient and there were no
+     complications.
+     
+     Dr. [**Last Name (STitle) 855**], staff radiologist, was present throughout the entire procedure.
+     
+     IMPRESSION:  Uneventful ultrasound-guided liver biopsy.
+     
+
+",,
+8812,22913,,,3335-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-5-9**] 11:19 AM
+     BX-NEEDLE LIVER BY RADIOLOGIST; GUIDANCE/LOCALIZATION FOR NEEDLE BIOPSY US (S&I)Clip # [**Clip Number (Radiology) 10786**]
+     Reason: ABNORMAL LFT,S,HIV,HEPATITIS B 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        46 year old woman with advanced AIDS (CD4 10, VL>100K) now mostly 
+      unresponsive  with elevated alk phos, AST, and ALT posssibly drug-induced, 
+      opportunistic  infection, vs. re-actitvation of Hep B.
+     REASON FOR THIS EXAMINATION:
+      Please do US guided BIOPSY of liver.  Per liver service, perform 2 passes. Send 
+      one for standard cultures, mycobacteria, and fungal.  Send the other for 
+      histology (URGENT).
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Advanced HIV disease.  Abnormal liver function tests.  Evaluate
+     for histology and opportunistic infections.
+     
+     TECHNIQUE:  Written consent was obtained from the patient's sister after full
+     explanation of the technique and complications.
+     
+     Limited ultrasound of the right upper quadrant was performed to determine a
+     safe spot for needle biopsy.  The skin was infiltrated with 1% lidocaine and,
+     under direct visualization, two #18 gauge core biopsies were obtained from the
+     right lobe of the liver.  Samples were sent for histology and microbiology as
+     per request.
+     
+     The procedure was tolerated well by the patient and there were no
+     complications.
+     
+     Dr. [**Last Name (STitle) 855**], staff radiologist, was present throughout the entire procedure.
+     
+     IMPRESSION:  Uneventful ultrasound-guided liver biopsy.
+     
+
+",,
+8812,22913,,,3335-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-5-9**] 11:20 AM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 10787**]
+     Reason: ABNORMAL LFT,S ,HIV,HEPATITIS B
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       46 year old woman with advanced AIDS (CD4 10, VL>100K) now mostly unresponsive 
+      with elevated alk phos, AST, and ALT posssibly drug-induced, opportunistic 
+      infection, vs. re-actitvation of Hep B.
+     REASON FOR THIS EXAMINATION:
+      Liver service requesting repeat RUQ US prior to liver biopsy to assess 
+      intra/extra hepatic ducts.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Advanced AIDS and abnormal liver function tests.
+     
+     FINDINGS:  The liver has a homogeneous echo texture.  No discreet lesions are
+     identified.  No biliary dilatation or ascites.  The gallbladder is normal.
+     
+     IMPRESSION:  Normal liver and biliary tree ultrasound.
+     
+
+",,
+8812,,,,3335-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-12-20**] 5:06 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10789**]
+     Reason: eval chest film for evidence of pna.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with cough.
+     REASON FOR THIS EXAMINATION:
+      eval chest film for evidence of pna.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cough.  Evaluate for pneumonia.
+     
+     COMPARISON:  [**3335-5-1**].
+     
+     FINDINGS:  There has been interval removal of an NG tube.  A percutaneous
+     feeding tube is in place in the stomach.  The cardiac and mediastinal contours
+     are normal.  There is no pulmonary vascular congestion.  The lungs are clear.
+     No pleural effusions or pneumothorax.  The soft-tissue and osseous structures
+     are unremarkable.
+     
+     IMPRESSION:  No evidence of pneumonia.
+
+",,
+8812,,,,3335-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-12-20**] 2:23 PM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 10788**]
+     Reason: clogged gj tube, please exchange over wire, pt is in E.D. cu
+      Contrast: CONRAY Amt: 20
+     ********************************* CPT Codes ********************************
+     * 43761 REPOSITION GASTRIC TUBE INTO D 75984 CHANGE PERC TUBE OR CATH W/CON*
+     * CATHETER, DRAINAGE                   C1887 CATHETER GUIDING INF/PERF     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with HIV, GJ tube clogged.
+     REASON FOR THIS EXAMINATION:
+      clogged gj tube, please exchange over wire, pt is in E.D. currently.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  47 year old female with HIV and a clogged G-J tube.
+     
+     RADIOLOGISTS:  Dr[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 389**] and [**Doctor Last Name 513**].
+     
+     CONTRAST:  20 cc Conray 60%.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent obtained.  Pre-existing G-J tube was transsected, and a
+     [**Last Name (un) 223**] wire was advanced without difficulty into the antrum of the stomach.
+     The catheter was removed and replaced with a 7 French sheath.  A multipurpose
+     5 French catheter and the [**Last Name (un) 223**] wire were then used to negotiate through the
+     duodenal bulb, to the jejunum.  The wire was removed and replaced with a
+     super-stiff straight Amplatz wire.  Both catheter and sheath were subsequently
+     removed, and a 14 French [**Doctor Last Name 936**] gastrojejunostomy catheter was advanced
+     without difficulty over the Amplatz wire.  The pigtail portion of the catheter
+     was formed in the second portion of the duodenum.  The catheter was secured to
+     the patient's skin using a flexi-[**Last Name (un) 5526**] dressing.  A contrast injection was
+     performed following placement documenting the distal tip well beyond the
+     Ligament of Treitz.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful replacement of a clogged gastrojejunostomy tube with a
+     new 14 French [**Doctor Last Name 936**] G-J tube.  No complications.
+
+             DR. [**First Name11 (Name Pattern1) 110**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+",,
+8812,,,,3335-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-12-20**] 2:23 PM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 10788**]
+     Reason: clogged gj tube, please exchange over wire, pt is in E.D. cu
+      Contrast: CONRAY Amt: 20
+     ********************************* CPT Codes ********************************
+     * 43761 REPOSITION GASTRIC TUBE INTO D 75984 CHANGE PERC TUBE OR CATH W/CON*
+     * CATHETER, DRAINAGE                   C1887 CATHETER GUIDING INF/PERF     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with HIV, GJ tube clogged.
+     REASON FOR THIS EXAMINATION:
+      clogged gj tube, please exchange over wire, pt is in E.D. currently.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  47 year old female with HIV and a clogged G-J tube.
+     
+     RADIOLOGISTS:  Dr[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 389**] and [**Doctor Last Name 513**].
+     
+     CONTRAST:  20 cc Conray 60%.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent obtained.  Pre-existing G-J tube was transsected, and a
+     [**Last Name (un) 223**] wire was advanced without difficulty into the antrum of the stomach.
+     The catheter was removed and replaced with a 7 French sheath.  A multipurpose
+     5 French catheter and the [**Last Name (un) 223**] wire were then used to negotiate through the
+     duodenal bulb, to the jejunum.  The wire was removed and replaced with a
+     super-stiff straight Amplatz wire.  Both catheter and sheath were subsequently
+     removed, and a 14 French [**Doctor Last Name 936**] gastrojejunostomy catheter was advanced
+     without difficulty over the Amplatz wire.  The pigtail portion of the catheter
+     was formed in the second portion of the duodenum.  The catheter was secured to
+     the patient's skin using a flexi-[**Last Name (un) 5526**] dressing.  A contrast injection was
+     performed following placement documenting the distal tip well beyond the
+     Ligament of Treitz.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful replacement of a clogged gastrojejunostomy tube with a
+     new 14 French [**Doctor Last Name 936**] G-J tube.  No complications.
+
+             DR. [**First Name11 (Name Pattern1) 110**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+",,
+8812,,,,3335-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-12-20**] 2:23 PM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 10788**]
+     Reason: clogged gj tube, please exchange over wire, pt is in E.D. cu
+      Contrast: CONRAY Amt: 20
+     ********************************* CPT Codes ********************************
+     * 43761 REPOSITION GASTRIC TUBE INTO D 75984 CHANGE PERC TUBE OR CATH W/CON*
+     * CATHETER, DRAINAGE                   C1887 CATHETER GUIDING INF/PERF     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with HIV, GJ tube clogged.
+     REASON FOR THIS EXAMINATION:
+      clogged gj tube, please exchange over wire, pt is in E.D. currently.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  47 year old female with HIV and a clogged G-J tube.
+     
+     RADIOLOGISTS:  Dr[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 389**] and [**Doctor Last Name 513**].
+     
+     CONTRAST:  20 cc Conray 60%.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent obtained.  Pre-existing G-J tube was transsected, and a
+     [**Last Name (un) 223**] wire was advanced without difficulty into the antrum of the stomach.
+     The catheter was removed and replaced with a 7 French sheath.  A multipurpose
+     5 French catheter and the [**Last Name (un) 223**] wire were then used to negotiate through the
+     duodenal bulb, to the jejunum.  The wire was removed and replaced with a
+     super-stiff straight Amplatz wire.  Both catheter and sheath were subsequently
+     removed, and a 14 French [**Doctor Last Name 936**] gastrojejunostomy catheter was advanced
+     without difficulty over the Amplatz wire.  The pigtail portion of the catheter
+     was formed in the second portion of the duodenum.  The catheter was secured to
+     the patient's skin using a flexi-[**Last Name (un) 5526**] dressing.  A contrast injection was
+     performed following placement documenting the distal tip well beyond the
+     Ligament of Treitz.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful replacement of a clogged gastrojejunostomy tube with a
+     new 14 French [**Doctor Last Name 936**] G-J tube.  No complications.
+
+             DR. [**First Name11 (Name Pattern1) 110**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+",,
+8812,,,,3335-12-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-12-20**] 2:23 PM
+     PERC G/J TUBE CHECK                                             Clip # [**Clip Number (Radiology) 10788**]
+     Reason: clogged gj tube, please exchange over wire, pt is in E.D. cu
+      Contrast: CONRAY Amt: 20
+     ********************************* CPT Codes ********************************
+     * 43761 REPOSITION GASTRIC TUBE INTO D 75984 CHANGE PERC TUBE OR CATH W/CON*
+     * CATHETER, DRAINAGE                   C1887 CATHETER GUIDING INF/PERF     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old woman with HIV, GJ tube clogged.
+     REASON FOR THIS EXAMINATION:
+      clogged gj tube, please exchange over wire, pt is in E.D. currently.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  47 year old female with HIV and a clogged G-J tube.
+     
+     RADIOLOGISTS:  Dr[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 389**] and [**Doctor Last Name 513**].
+     
+     CONTRAST:  20 cc Conray 60%.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent obtained.  Pre-existing G-J tube was transsected, and a
+     [**Last Name (un) 223**] wire was advanced without difficulty into the antrum of the stomach.
+     The catheter was removed and replaced with a 7 French sheath.  A multipurpose
+     5 French catheter and the [**Last Name (un) 223**] wire were then used to negotiate through the
+     duodenal bulb, to the jejunum.  The wire was removed and replaced with a
+     super-stiff straight Amplatz wire.  Both catheter and sheath were subsequently
+     removed, and a 14 French [**Doctor Last Name 936**] gastrojejunostomy catheter was advanced
+     without difficulty over the Amplatz wire.  The pigtail portion of the catheter
+     was formed in the second portion of the duodenum.  The catheter was secured to
+     the patient's skin using a flexi-[**Last Name (un) 5526**] dressing.  A contrast injection was
+     performed following placement documenting the distal tip well beyond the
+     Ligament of Treitz.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful replacement of a clogged gastrojejunostomy tube with a
+     new 14 French [**Doctor Last Name 936**] G-J tube.  No complications.
+
+             DR. [**First Name11 (Name Pattern1) 110**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+",,

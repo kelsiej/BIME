@@ -1,0 +1,3209 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8898,,,,3461-01-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-1-17**] 1:10 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11461**]
+     Reason: CHEST PAIN, ADENOPATHY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  PA and lateral chest radiograph performed on [**3460-10-18**].
+     
+     HISTORY:  51-year-old man with chest pain, adenopathy, and history of HIV. The
+     patient now with fever and chest pain.
+     
+     FINDINGS:  Comparison is made to prior chest radiograph report from [**3458-3-22**].  The actual images are not available at this time and are being
+     retrieved.
+     
+     There is an opacity in the left upper lobe posteriorly, which abuts the
+     pleural margin.  There is also a vague opacity abutting the right heart border
+     at the right base, which also may represent a second infiltrate.  The cardiac
+     silhouette and mediastinum are unremarkable.  The lungs are clear.
+     
+     IMPRESSION:  
+     
+     1.  There is an infiltrate within the left upper lobe posteriorly, which abuts
+     the posterior pleural margin, findings suspicious for pneumonia.
+     
+     2.  There is a vague opacity in the right base abutting the right heart
+     border, which may represent a second infiltrate.
+     
+     These findings have been discussed with [**First Name4 (NamePattern1) 10616**] [**Last Name (NamePattern1) 11462**], PA.
+     
+     
+
+",,
+8898,27562,,,3461-02-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3461-2-9**]              Discharge Date:   [**3461-3-6**]
+ 
+Date of Birth:  [**3409-12-2**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 3471**] 
+Chief Complaint:
+hypotension
+ 
+Major Surgical or Invasive Procedure:
+R internal jugular central line
+ 
+History of Present Illness:
+51 yo male with AIDs (dx 1990, on HAART, VL undetectable, CD4 90 
+[**12-24**], h/o thrush and esophagitis) admitted with back pain/flank 
+pain and fevers. He was in hus USOH until [**3461-1-17**] when he went 
+to his PCP's with R sided pleurtic chest pain. He also had a 
+resurangence of fevers to 102 - 105 and night sweats which he 
+had had for 13 years, then stopped 2 years prior when he started 
+HAART. CXR on [**3461-1-17**] showed infiltrate within the left upper 
+lobe and an opacityl at the right heart border. He was started 
+on Levaquin at that time. Then on [**3461-1-24**], he went to BID 
+[**Location (un) 579**] with L calf pain. He was admitted with a DVT and 
+multiple PEs. Chest CT at that time also showed multiple 
+bilateral segments and subsegmental pulmonary emboli, 
+consolidation vs. infarct in the posterior left upper lobe and 
+anterior right lower lobe, multiple bilateral pulmonary nodules, 
+and mediastinal lymphadenopathy. MDs there were also concerned 
+that he could have TB as he had weight loss, fevers, and pulm 
+nodules. He underwent bronch on [**3461-1-28**] which was ""normal"". 
+Cytology showedd atypical flora. Cultures/labs from there showed 
+negative crypto ag, oral flora from the bronch, AFB smear 
+negative, culture pending. He was started on coumadin and 
+heparin and a second of levofloxacin. During this stay, he had 
+no pulmonary symptoms.  
+.  
+On discharge from [**Location (un) 579**], he noticed his Right leg now was 
+tender, where it had not been before. He then was switched to a 
+course of Doxy on [**2-1**] my his PCP. [**Name10 (NameIs) **] was not doing well at home 
+since he was having extreem pain in both his legs. The swelling 
+in the LLE diminished, but the right increased. He had no 
+pulmonary symptoms until the afternoon on [**2-8**] when he began to 
+become SOB. He came to the ED.  
+.  
+In ED, initial vitals were 103.6, HR 145, BP 78/62, RR 18, 98% 
+-> 100% on 2L .He was complaiing of worsening SOB and pleurtic 
+right chest pain. Code sepsis called, RIJ placed. Initial CVP 
+was 7. he was boluesd 8 L NS in the ED. Of note, his O2 sat on 
+arrival was 98% RA, then 100% 2l in the ED,94% on 4L NC on 
+arrival to MICU. he was started on Dopamine and levophed. He was 
+given 1 gram of vancomycin, 1 gram of CTX, and a DS bactrim. 
+Blood cultures and urine cultures were sent. A ct chest revealed 
+a left upper lobe opacity, subsegmental PE's, multiple B pulm 
+nodules.  
+.  
+Currently, he is SOB and c/o pleurtic right sided and posterior 
+chest pain and bilateral calf pain. He has been having fevers to 
+102 - 105 daily with night sweats. Denies large weight gain (he 
+has had touble with weight loss since his MAC). No HA. No neck 
+pain. No nausea. No vomiting. Has one loose BM daily [**2-21**] HAART. 
+Denies missing any of his medicine. Quit smoking 2 eeks agi. No 
+recent PPD. No TB contacts. No Rashes. No recent travel.  
+
+ 
+Past Medical History:
+AIDS on HAART c/b thrush  
+H/O MAC infection of unknown site  
+DVT left leg- [**3461-1-24**]  
+COPD- bullous changes  
+intermittent diplopia  
+asymptomatic UTI  
+Moderate cervical spondylosis with moderate spinal canal 
+stenosis  
+and multilevel bilateral neural foraminal narrowing seen on MR 
+cervical spine- 2002  
+Epidermal inclusion cyst- right thigh  
+
+ 
+Social History:
++tobacco ([**1-21**] pack a day) x35 years and quit 2 weeks ago, no 
+ETOH. no illict drugs, lives alone. Works part-time with 
+caterers. 
+ 
+Family History:
+Mother- breast cancer, stomach cancer Father: CVA, heart disease
+ 
+Physical Exam:
+wt: 62kg, 97.9 po, p123, 108/75 (dopamine 9, levophed .2), r28, 
+96% on 4l nc (ED 8liter in and 1500cc out)  
+General: mild resp distress, talkitave. Able to relate history 
+well.  
+HEENT: NC/AT, PERRLA. dentures in, no thrush seen. no scleral 
+icterus noted, MMM.  
+Neck: Supple, JVP normal  
+Pulmonary: Anterior reveals a three componet pulmonary rub.  
+Cardiac: RRR, nl. S1S2, no M/R/G noted  
+Abdomen: diffusly tender with voluntary guarding. normoactive 
+bowel sounds, no masses or organomegaly noted. extreme right 
+CVAT  
+Extremities: 1+ pitting edema bilaterally on calf. VERY tender 
+gastroc. 2+ radial, DP and PT pulses b/l.  
+Neurologic: A and O x3; srength grossly normal.  
+
+ 
+Brief Hospital Course:
+Assessment: 51 yo m with AIDS, recent diagnosis of PE, pulmonary 
+nodules, fevers, and shock. His shock is most likely due to 
+sepsis given his increasing WBC and low CVP making right heart 
+strain from PE unlikley.  
+.  
+Plan:  
+# Septic shock: He seems to be in distributive shock. Most 
+likely this is sepsis, given that he is immunocompromised with 
+fevers and respiratory distress. However,  Adrenal insufficiency 
+unlikely given normal [**Last Name (un) **] stim test. Given his 
+immunocomprimised state, he has many potential sources for 
+sepsis including bactreial, fungal, and viral. Infectious 
+disease was consulted who recommended continue treatment with 
+caspofungin, azithromycin, imipenem-cilastin. Continue 
+antiretrovirals and bactrim ppx.  Unclear source at this point. 
+So far all cultures NGTD, cryptococcus, CMV, and histo 
+serologies negative, AFB x3, PCP stain, [**Name9 (PRE) 12407**] ag, negative.  Pt 
+was placed on Sepsis protocol. With frequent NS fluid bolus for 
+CVP >12 and pressors.  He had episode of NSVT on arrival while 
+on dopamine and was changed over to levophed, which he required 
+for several days of his addmision to keep MAP>65. Given 
+persistent hypotension concern for neurogenic shock secondary to 
+autonomic dysfunction, Neuro consult was obtained who did not 
+think that patient has autonomic dysfunction on initial 
+assessement.
+.  
+#  Respiratory distress - as above, most likely secondary to 
+pulmonary infection complicated by pulmonary emboli. Required 
+significant oxygen supplementation initially but this was 
+reduced by 6 days of hospitalization from NRB to 40% by 
+facemask.
+.
+# PE/DVT: Hx of DVT and PE on recent hospitalization.  RL LENI 
+shows DVT this admission.  Given likely coumadin failure IVC 
+filter was placed.  Pt was started on heparin initially and then 
+changed over to lovenox 1mcg/kg bid.  [**2-17**] AM with RUE swelling 
+as well, with DVT.  Heme onc consulted, started on heparin as 
+developing DVTs through lovenox.
+- Given recurrent dvt and ?pulmonary nodules and enlarged 
+lymphnode concern for malignancy in setting of hypercoguble 
+state high.  
+- Currently morphine prn.
+.
+#. hemoptysis - likely secondary to underlying pulmonary 
+processes. Consider bronchoscopy only if this worsens (currently 
+stable).
+.
+#Polyuria - Unclear etiology. Continues to urinate to the point 
+of hypotension despite IVF being stopped. May have neprogenic DI 
+[**2-21**] ambisome. May also not be able to concentrate urine to 
+excrete all the salt he has gotten on the sepsis portocol 
+causing an solute diuresis. Gave dose of ddAVP to see if can 
+concentrate urine. Ambisome switched to caspofungin. 
+- Renal was consulted given concern for DI.  They did not think 
+that the pt has diabetes insipidus given that the patient has 
+had normal Uosm and Una. More likely, this is consistent with a 
+solute diuresis from the large amounts of fluid the patient has 
+received during this hospitalization. It is unclear whether he 
+is intravascularly depleted or overloaded, and his weight is up 
+approx 6kg. If he is making appropriate urine to previous IVF 
+administration, would expect his urine now to more accurately 
+match his input.  With restriction on NS IVF, pt's urine output 
+has improved.
+.
+# Infection - unclear etiology most likely source of infectionis 
+pulmonary, but differential in this immunocompromised patient is 
+very broad. ID following. So far all cultures NGTD, 
+cryptococcus, CMV, and histo serologies negative
+- on retrovirals, azithro/bactrim
+- imipenem dc'd- continuing with vanco
+.
+## Neuro - pt with c/o diplopia this morning which is new.  Also 
+with nystagmus on exam concerning for brainstem process.
+- per discussion with neuro attg, given pt's likely 
+hypercoaguble state need to rule out stroke.
+- MRI/MRA -small L cerebellar stroke, w/ sluggish basilar artery 
+flow, CTA also showed no thrombus but decreased basilar artery 
+flow.  Per Neuro ordered TTE w/ bubble, no ASD or PFO
+- Daily CT showed no change (needs daily CTx7 day to assess no 
+hemorrhagic development
+.
+#Hemoptysis - likel secodary to PE and PNA. Stable in amount and 
+frequency. Is small amounts at this time. If decompensates of 
+hemoptysis progresses beyond tsp amounts will need bronchoscopy 
+and possible surgical consult.   
+.
+## Neuro - pt with c/o diplopia this morning which is new.  Also 
+with nystagmus on exam concerning for brainstem process.
+- per discussion with neuro attg, given pt's likely 
+hypercoaguble state need to rule out stroke.
+- MRI/MRA to eval for stroke.
+.
+# AIDS: Initially held  HAART therapy. Restarted on [**3460-2-15**].  
+
+#. pulm nodules - concern for malignancy given fevers, LAD. o/w 
+infection as above. with LUL mass, discuss timing of biopsy as 
+differential includes lymphoma vs lung neoplasm, will need to 
+discuss holding anticoagulation.
+.
+PPx: PPI, no pneumoboots, lovenox, increase bowel regimen given 
+constipation, no bowel movement since admission per pt
+FEN: po diet as resp status stable
+Access: RIJ, R art line, PIV
+Communication: sister [**Name (NI) **]
+Dispo: ICU until HD stable
+# Code Status: Full, discussed extensively with paitent and HCP, 
+[**Doctor First Name **], his sister. He is very nervous about intubation, but 
+agrees that he may benefit from it in the short term.  
+# Dispo: ICU for now given hypotension.
+# Contact: [**Doctor First Name **], sister  ...
+
+The patient had a prolonged intensive care unit stay.  He 
+developed further progressive thromboses.  An IVC filter was 
+placed to prevent further pulmonary emboli.  He developed 
+ischemic bowel with thrombosis of celiac and mesenteric 
+arteries.  After extensive discussion with patient and his 
+sister [**Name (NI) **], the patient was made care and comfort measures 
+only.  He was treated with IV morphine and expired peacefully on 
+[**3461-3-6**].
+
+ 
+Medications on Admission:
+Truvada  
+Reyataz 150'  
+Norvir 100'  
+Bactrim DS'  
+Azithromycin twice weekly  
+Ambien prn  
+Doxycycline 100 mg BID since [**2-1**]  
+Vicodin 5/725 prn for leg pain  
+
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Acquired immune deficiency syndrome
+adenocarcinoma of lung
+pulmonary emboli
+mesenteric ischemia
+
+ 
+Discharge Condition:
+Deceased
+ 
+Discharge Instructions:
+Remains released to funeral home
+ 
+Followup Instructions:
+None
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3472**] MD [**MD Number 3473**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3472**] MD [**MD Number 3473**] [**3461-8-22**] @ 1532
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 46**] [**3461-8-22**] 3:32 PM
+(End of Report)
+
+
+",,
+8898,27562,,,3461-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-9**] 6:52 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11467**]
+     Reason: eval for fluid overload, larger pulm infarct                
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with AIDS, hypoxia, sepsis, known PE                            
+     REASON FOR THIS EXAMINATION:
+      eval for fluid overload, larger pulm infarct                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     STUDY:  AP chest performed on [**3461-2-9**].
+     
+     HISTORY:  51-year-old man with AIDS, hypoxia, and pulmonary emboli.  Evaluate
+     for fluid overload or larger pulmonary infarct.
+     
+     FINDINGS:  Comparison is made to previous study from [**3461-2-9**].
+     
+     There has been worsening of the diffuse airspace opacities throughout both
+     lung fields.  These opacities are seen predominantly within the right lower
+     lobe, left upper lobe, and left lower lobe.  There is also a new left
+     retrocardiac opacity.  There is a right-sided central venous catheter with the
+     distal tip in the mid SVC.  There is blunting of bilateral CP angles
+     consistent with small pleural effusions.
+     
+     IMPRESSION:
+     
+     1.  Worsening of the airspace opacities seen throughout both lung fields. This
+     may represent worsening of the pulmonary infarcts with pulmonary hemorrhage.
+     However, a component of pulmonary edema would be difficult to exclude.
+     
+     2.  New small bilateral pleural effusions.
+
+",,
+8898,27562,,,3461-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-9**] 1:07 PM
+     UNILAT LOWER EXT VEINS RIGHT                                    Clip # [**Clip Number (Radiology) 11466**]
+     Reason: eval for R DVT                                              
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with AIDS, h/o L DVT and PEs now therapurtic on coumadin with R 
+      leg pain concerning for new DVT
+     REASON FOR THIS EXAMINATION:
+      eval for R DVT                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old man with AIDS and history of left DVT and PEs, now on
+     therapeutic Coumadin with right leg pain.
+     
+     FINDINGS:  [**Doctor Last Name **]-scale and Doppler sonograms of the right common femoral,
+     superficial femoral, and popliteal veins were performed.  Intraluminal
+     thrombus is identified from the right common femoral vein to the level of the
+     popliteal vein.  No color flow or Doppler waveforms are demonstrated in the
+     common femoral, superficial femoral, and popliteal veins.
+     
+     IMPRESSION:  Right DVT extending from the common femoral vein to the popliteal
+     vein.
+                                                                           
+
+",,
+8898,27562,,,3461-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-9**] 12:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11463**]
+     Reason: eval infiltrate                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with h/o pna, pe                                                
+     REASON FOR THIS EXAMINATION:
+      eval infiltrate                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old with history of HIV and known pneumonia.
+     
+     SINGLE AP UPRIGHT PORTABLE CHEST:  Compared to chest CTA performed
+     subsequently.  Heart size is normal.  The mediastinal and hilar contours are
+     unremarkable.  There is consolidation in the left upper lobe and a more subtle
+     opacity in the right lower lobe.  Innumerable small pulmonary nodules known
+     from subsequent chest CT are not well evaluated here.  There is emphysematous
+     changes of the upper lobe.  Known mediastinal lymphadenopathy is also not well
+     seen on this chest x-ray.
+     
+     IMPRESSION:
+     1) Left upper lobe consolidation.
+     2) Right lower lobe opacity, correlation with the subsequent chest CTA
+     suggests this likely represents infarction/hemorrhage due to known PEs in this
+     distribution.
+     3) Multiple tiny pulmonary nodules seen on the chest CT are not well seen on
+     this chest x-ray.
+     4) Emphysematous changes at the lung apices.
+     5) Known mediastinal lymphadenopathy not well seen on this chest x-ray.
+     
+     
+
+",,
+8898,27562,,,3461-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-9**] 5:10 AM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11465**]
+     Reason: s/p line rij                                                
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with h/o pna, pe                                               
+       
+     REASON FOR THIS EXAMINATION:
+      s/p line rij                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old man with history of pneumonia and pulmonary emboli.
+     Patient also with multiple parenchymal nodules seen on CT scan from same day.
+     Status post right IJ line placement.
+     
+     FINDINGS:  Comparison is made to the previous study performed five hours
+     earlier.  There has been interval placement of a right-sided central venous
+     catheter with the distal tip in the SVC.  No pneumothoraces are identified.
+     There is a persistent opacity within the left upper lobe which is denser when
+     compared to the previous study.  There is also a vague opacity within the
+     right base consistent with pulmonary infarct as demonstrated on the prior CT.
+     The cardiac silhouette and mediastinum are within normal limits.
+     
+     
+     
+
+",,
+8898,27562,,,3461-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-9**] 5:10 AM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11465**]
+     Reason: s/p line rij                                                
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with h/o pna, pe                                               
+       
+     REASON FOR THIS EXAMINATION:
+      s/p line rij                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old man with history of pneumonia and pulmonary emboli.
+     Patient also with multiple parenchymal nodules seen on CT scan from same day.
+     Status post right IJ line placement.
+     
+     FINDINGS:  Comparison is made to the previous study performed five hours
+     earlier.  There has been interval placement of a right-sided central venous
+     catheter with the distal tip in the SVC.  No pneumothoraces are identified.
+     There is a persistent opacity within the left upper lobe which is denser when
+     compared to the previous study.  There is also a vague opacity within the
+     right base consistent with pulmonary infarct as demonstrated on the prior CT.
+     The cardiac silhouette and mediastinum are within normal limits.
+     
+     
+     
+
+",,
+8898,27562,,,3461-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-9**] 6:52 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11467**]
+     Reason: eval for fluid overload, larger pulm infarct                
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with AIDS, hypoxia, sepsis, known PE                            
+     REASON FOR THIS EXAMINATION:
+      eval for fluid overload, larger pulm infarct                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     STUDY:  AP chest performed on [**3461-2-9**].
+     
+     HISTORY:  51-year-old man with AIDS, hypoxia, and pulmonary emboli.  Evaluate
+     for fluid overload or larger pulmonary infarct.
+     
+     FINDINGS:  Comparison is made to previous study from [**3461-2-9**].
+     
+     There has been worsening of the diffuse airspace opacities throughout both
+     lung fields.  These opacities are seen predominantly within the right lower
+     lobe, left upper lobe, and left lower lobe.  There is also a new left
+     retrocardiac opacity.  There is a right-sided central venous catheter with the
+     distal tip in the mid SVC.  There is blunting of bilateral CP angles
+     consistent with small pleural effusions.
+     
+     IMPRESSION:
+     
+     1.  Worsening of the airspace opacities seen throughout both lung fields. This
+     may represent worsening of the pulmonary infarcts with pulmonary hemorrhage.
+     However, a component of pulmonary edema would be difficult to exclude.
+     
+     2.  New small bilateral pleural effusions.
+
+",,
+8898,27562,,,3461-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-9**] 1:02 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 11464**]
+     Reason: eval for interval change                                    
+     Field of view: 32 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with pe, pna                                                    
+     REASON FOR THIS EXAMINATION:
+      eval for interval change                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGGb SAT [**3461-2-9**] 1:59 AM
+      Multiple PEs, RLL subsegmental branches. Associated infarction/hemorrhage of
+      the RLL. Dense LUL consolidation, pna vs mass. Innumerable small pulmonary
+      nodules, highly concerning for maligancy. Marked mediastinal lymphadenopathy.
+      
+     WET READ AUDIT #1 MGGb SAT [**3461-2-9**] 1:57 AM
+      Multiple PEs, RLL subsegmental branches. Associated infarction/hemorrhage of
+      the RLL. Dense LUL consolidation, likely pna. Innumerable small pulmonary
+      nodules, highly concerning for maligancy. Marked mediastinal lymphadenopathy.
+      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old with HIV with no pneumonia, rule out PE.
+     
+     COMPARISONS:  Apparently, there is a prior CT chest from an outside hospital,
+     which is not available to me at the time of interpretation.
+     TECHNIQUE:  Axial MDCT imaging through the chest with IV contrast by CPAP
+     protocol, with coronal and sagittal reformatted images.
+     
+     CTA CHEST WITH IV CONTRAST:  There are multiple occlusive pulmonary emboli
+     involving the subsegmental branches of the right lower lobe.  The central
+     pulmonary arterial system is patent.  There is dense consolidation involving
+     the posterior aspect of the left upper lobe and ground glass and alveolar
+     consolidation involving the right lung base posteriorly.  Additionally, there
+     are innumerable small pulmonary nodules ranging from 3-7mm throughout both
+     lungs, highly concerning for malignancy.  Diffuse emphysematous changes.
+     Diffuse lymphadenopathy in the upper mediastinum, predominantly in the AP
+     window distribution.  The heart and pericardium are unremarkable.  Limited
+     axial imaging through the upper abdomen demonstrates no obvious abnormalities.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are seen.
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittal reformatted images confirm the
+     above findings.
+     
+     IMPRESSION:
+     1) Multiple occlusive subsegmental pulmonary emboli in the branches of the
+     right lower lobe. Associated RLL opacity likely represents
+     infarction/hemorrhage.
+     2) Dense consolidation in the left upper lobe, likely pneumonia, but worisome
+     in that it has been present dating back to [**12-24**] It should be followed to
+     resolution.
+                                                                 (Over)
+
+     DATE: [**3461-2-9**] 1:02 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 11464**]
+     Reason: eval for interval change                                    
+     Field of view: 32 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3) Innumerable small pulmonary nodules throughout both lungs, suspicious for
+     metastases.
+     4) Marked mediastinal lymphadenopathy.
+     5) Emphysematous changes at the lung apices.
+     
+
+",,
+8898,27562,,,3461-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-9**] 1:02 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 11464**]
+     Reason: eval for interval change                                    
+     Field of view: 32 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with pe, pna                                                    
+     REASON FOR THIS EXAMINATION:
+      eval for interval change                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MGGb SAT [**3461-2-9**] 1:59 AM
+      Multiple PEs, RLL subsegmental branches. Associated infarction/hemorrhage of
+      the RLL. Dense LUL consolidation, pna vs mass. Innumerable small pulmonary
+      nodules, highly concerning for maligancy. Marked mediastinal lymphadenopathy.
+      
+     WET READ AUDIT #1 MGGb SAT [**3461-2-9**] 1:57 AM
+      Multiple PEs, RLL subsegmental branches. Associated infarction/hemorrhage of
+      the RLL. Dense LUL consolidation, likely pna. Innumerable small pulmonary
+      nodules, highly concerning for maligancy. Marked mediastinal lymphadenopathy.
+      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old with HIV with no pneumonia, rule out PE.
+     
+     COMPARISONS:  Apparently, there is a prior CT chest from an outside hospital,
+     which is not available to me at the time of interpretation.
+     TECHNIQUE:  Axial MDCT imaging through the chest with IV contrast by CPAP
+     protocol, with coronal and sagittal reformatted images.
+     
+     CTA CHEST WITH IV CONTRAST:  There are multiple occlusive pulmonary emboli
+     involving the subsegmental branches of the right lower lobe.  The central
+     pulmonary arterial system is patent.  There is dense consolidation involving
+     the posterior aspect of the left upper lobe and ground glass and alveolar
+     consolidation involving the right lung base posteriorly.  Additionally, there
+     are innumerable small pulmonary nodules ranging from 3-7mm throughout both
+     lungs, highly concerning for malignancy.  Diffuse emphysematous changes.
+     Diffuse lymphadenopathy in the upper mediastinum, predominantly in the AP
+     window distribution.  The heart and pericardium are unremarkable.  Limited
+     axial imaging through the upper abdomen demonstrates no obvious abnormalities.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions are seen.
+     
+     MULTIPLANAR REFORMATS:  Coronal and sagittal reformatted images confirm the
+     above findings.
+     
+     IMPRESSION:
+     1) Multiple occlusive subsegmental pulmonary emboli in the branches of the
+     right lower lobe. Associated RLL opacity likely represents
+     infarction/hemorrhage.
+     2) Dense consolidation in the left upper lobe, likely pneumonia, but worisome
+     in that it has been present dating back to [**12-24**] It should be followed to
+     resolution.
+                                                                 (Over)
+
+     DATE: [**3461-2-9**] 1:02 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 11464**]
+     Reason: eval for interval change                                    
+     Field of view: 32 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3) Innumerable small pulmonary nodules throughout both lungs, suspicious for
+     metastases.
+     4) Marked mediastinal lymphadenopathy.
+     5) Emphysematous changes at the lung apices.
+     
+
+",,
+8898,27562,11063,0,3461-02-09 06:18:00 EST,3461-02-09 06:33:00 EST,7212,"N",69,"Nursing/Other","Admission note.","
+Admission note.
+Mr. [**Known patient lastname 498**] is a homosexual male with 16 year hx. of HIV on antiviral meds. Pt. was in usual health state until about 2 weeks ago where he went to [**Hospital1 22**] [**Location (un) 3623**] with c/o calf pain and SOB. He was dx with mult. DVTs and PEs. He was treated with IV Heparin and Coumadin for about 1 week and also developed pneumonia but was d/c home. Today he came to Ed with c/o increased pain to lung field area. VS on arrival to ED T 103.6, HR 146, BP 78/62, RR20 O2 sat 99% on RA.  Code sepsis initiated at 0315. R IJ TLC inserted and placement confirmed. Pt. also started on Levophed gtt @ 8 mcg/kg/hr. Foley cath inserted and total urine output for Ed is 330cc at 0530. Pt. recieving fluid boluses. Blood and urine cx drawn. H/H 9.3/27.8 Pt. was to recieve 1 unit of PRBC. Pt. has family and a partner.
+",,
+8898,27562,11063,0,3461-02-09 18:12:00 EST,3461-02-09 19:00:00 EST,6182,"N",69,"Nursing/Other","Nursing progress notes","
+Nursing progress notes
+51 yr old male w/ hx of hiv x 16yrs and recent pe dvt. [**1-16**] he was dx w/ pna and put on levofloxacin x 7days as outpt. day 5 he c/o calf pain admitted to [**Location (un) 3623**] and dx w/ PE and DVT. he was placed on heparin gtt tx to coumadin. Sent home w/ coumadin and levofloxacin. Yesturday c/o of acute left flank pain radiating to ribs. vs on arrival Temp 103.6/ hr 146/ bp 76/40 Sepsis protocal initiated at 0300. Received 8Liters in ed w/ only 1500 output. Rij precept cath in initial svo2 58. hct 27.8 pt received 1 unit of prbc at 0900. lactate 1.9 Pcxr multiple PEs and lul infiltrate. CTA of chest showed PEs RLL infarct, LUL infiltrate and nodules. He was started on levophed gtt and Dopamine gtt. To Micu. 
+
+Neuro: pt alert and tired (up throughout night) mae lower extrem. very painful to touch d/t dvts. Pt received ms 2mg iv x 2 w/ some effect [**7-24**]. At present pt resting w/ eyes closed hr 90s rr28. tmax 100.4 ax.
+
+Resp: pt was on 5l nc on arrival sats 90-91% o2 changed to cool neb mask at 15liters  70% sats 93-99% sats drop w/ any movement or talking. ls coarse upper lobes w/ diminished bases. pt coughing up pink/tan thick upon arrival now expectorating yellow thick secretions
+sputum sent for cxs tb. Micu team has ordered for more sputum specs. pt tachypneic most of shift 35-40s and up to 50 w/ exertion at present 28. abg at 1500 (when aline was placed) 7.40/3078/19/95% at 1700 7.39/32/101/20/97% 
+
+Cv: pt tachycardic most of shift 120-130s on Dopamine w/ 20 beat run of vtac. dopamine changed to vasopressin 2.4 units/hr. pt low after the change sbp 70s Dopamine added x 1hr. pt received total of 6 boluses of 500cc Ns throughout shift for cvp <8  cvp at present 9 
+sbp 70-116 map goal >60. levophed gtt at .3mcq/kg/min vasopressing 2.4u/hr. K 3.6 replaced w/ 40meq kcl mg 1.7 replaced w/ 2gms of mag. sulfate. ion ca+ 1.16, pt 23.6 ptt 63.2 inr 4.0. US of right leg done this afternoon w/ a lg clot extending from right hip to knee. heparin gtt on hold for now d/t ptt 63.2. Micu team ordered repeat labs for 2000. pt bleeding from precept cath, dsg changed several times now pressure drsg on, site [**Name5 (PTitle) 478**]. pt also has #16 sl in right ac and #18 in right forarm. right aline. hct at 1400 26.8 1 unit of prbc given and finished at 1730.
+
+Gi: pt npo except for meds and ice chips. abd soft and tender at times bs present. 
+
+GU: foley cath draining 60-400cc of yellow urine
+
+skin: intact small purple dots noted on left fingers. eccymotic area noted around precept cath site.
+
+ID: bc, urine cx done in ed, sputum done this shift. vanco bactrim ceftriaxone  given at 0000 in the ed. azithromycin 500mg given this shift.  cortisol stim test done. awaiting steroids (from pharmacy) to be given. bactrim changed to iv. id consult in to see pt. new set of bc due at 2000 w/ other repeat labs. need another sputum spec. ambisome and imipenem awaiting pharmacy ok/. 
+
+code: full
+
+social: sister [**Name (NI) 1864**] is hcp and has been in most of the day and has been updated by this rn and micu team. 
+
+Endo: f
+",,
+8898,27562,11063,0,3461-02-09 18:13:00 EST,3461-02-09 19:00:00 EST,6182,"N",69,"Nursing/Other","Nursing progress notes","
+Nursing progress notes
+(Continued)
+ingersticks qid 1800 130
+
+Plan:
+maintain cvp >8 by using boluses 500cc NS
+maintain map >60 
+repeat labs due at 2000
+plan for us of the abd /ct abd in future
+plan for echo monday r/o r hear strain. 
+pcxr to be done. 
+maintain pt comfort level using ms 1-6mg iv q 4hrs
+once steroid comes up give 30 minutes before iv bactrim. 
+give emotional support. 
+",,
+8898,27562,11063,0,3461-02-10 06:29:00 EST,3461-02-10 06:41:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN HD #2","
+MICU/SICU NPN HD #2
+Events: weaned Levophed off, bolused x4 with 500cc LR for CVP < 8 and SvO2 <65. Pt reports feeling better and less anxious.
+
+S: ""I'm coughing up blood.""
+
+O:
+
+Neuro: pt is A&Ox3, MAEW, pt is anxious and reports pleuritic chest pain associated with coughing, med x1 with 2mg MSO4 IV with very good results
+
+Pulm: LS are coarse and occasionally tubular in the upper fields, very diminished at bases, pt has a productive blood tinged cough
+
+CV: AVSS, weaned off of Levophed, bolused for low CVP, please see flowsheet 
+
+Integ: C/W/D/I
+
+GI/GU: abd soft, NT/ND, BS present, NPO, tolerating occasional ice chips, Foley patent for clear yellow urine in adequate amts
+
+Access: right IJ TLCL day #2, right radial art line day #2, PIV x2
+
+A:
+
+altered breathing r/t acute inflammatory process
+impaired cardiac output r/t acute inflammatory process, flid volume deficit
+fluid volume deficit r/t acute inflammatory process
+
+P:
+
+continue to monitor hemodynamic/respiratory status, aggressive pulmonary toilet, continue abx as ordered and follow micro data, continue aggressive volume resusitation (CVP <8)
+",,
+8898,27562,11063,0,3461-02-10 19:23:00 EST,3461-02-10 19:48:00 EST,6182,"N",69,"Nursing/Other","Nursing progress notes","
+Nursing progress notes
+Events: pt very anxious this am during ""coughing spell"" ""can't catch his breathe"" Albuterol and atrovent hhn given and 2mg iv morphine given. After 15min pt became alot calmer w/ no sob noted. Hct this am 26.3 1 unit of prbc given at 0830.
+
+Neuro: pt alert oriented in better spirits today than yesturday. mae afebrile. 
+
+Resp: received pt on cool mist face mask at 50% abg 7.41/33/62/22 fio2 increased to 70% abg repeated 7.39/32/90/20/97% ls coarse upper lobes w/ diminished bases. pt having hemoptisis once every hour.  noted to be [**First Name5 (NamePattern1) 1010**] [**Last Name (NamePattern1) 1011**] this afternoon-micu team aware. Sister [**Name (NI) 1864**] brought in pt's ct and pcxr from [**Location (un) **] as requested by team.
+
+Cv: tele sr 80s w/ no ectopy noted. hrt sounds s1s2. pedal/post tibs and left radial all doppler pulses. bilat lower extrem. +3 pitting edema. hct this am noted above. Repeat hct at 1700 26.3 1 unit of prbc given ordered and infusing at present. pt 38,ptt 47, inr 11.2 team aware consulted hematology- vit. k po to be given tonight and lovenox sq to be given qd. and they will see him in am. echo to be done in am. 
+svo2 monitor recalibrated at 1700 svo2 61% team aware. pt bolused w/ 500cc LR x 3 for cvp <8 
+
+Gi: pt cont to be npo. abd soft bs+ 
+
+gu: foley cath draining yellow urine 25-80cc/hr
+
+skin: coccyx pink pt turned on left side this afternoon tolerated well w/ no desating. may need an air mattress. 
+
+endo: fs qid 130/229 now on riss received 4 unints of regular insulin. 
+pt on solumedrol 40mg iv bid. 
+
+code: full
+
+social: family in to see pt and have been updated. 
+
+id: urine c/s neg [**2-9**] bc pending, nasal washing neg for influenza a/b
+pt on bactrim iv, zithromax po, imepenem, and ambisome. 
+
+Plan: 
+cont to check abgs q 6hrs and prn
+maintain cvp >8 and map >60
+maintain pt comfort level using ms 1-6mg q 4hrs
+labs and abg due at 2000 
+monitor for bleeding. if hemoptisis becomes excessive contact micu team. 
+? ivc filter
+may need air mattress to prevent skin breakdown d/t restricted movement.
+echo in am. 
+
+
+ 
+",,
+8898,27562,11063,,3461-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-11**] 6:00 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11470**]
+     Reason: Please eval for effusions,?infiltrate                       
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 year old man with AIDS, hypoxia, sepsis, known PE with progressing 
+      infiltrates with desats to mid 80s.
+     REASON FOR THIS EXAMINATION:
+      Please eval for effusions,?infiltrate                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Sepsis, known pulmonary emboli with desaturation.  AIDS.
+     
+     CHEST, ONE VIEW:  Comparison with 6:43 a.m. the same day.  A right internal
+     jugular central venous catheter terminates in the mid SVC.  The cardiac and
+     mediastinal contours are stable.  There are bilateral pleural effusions as
+     well as diffuse patchy opacities within the left lung and right lower lung
+     zone.  There may be slight improvement in the left pleural effusion.  No
+     pneumothorax.
+                                                                           
+
+",,
+8898,27562,11063,,3461-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-11**] 5:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11468**]
+     Reason: eval interval progression                                   
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with AIDS, hypoxia, sepsis, known PE with progressing 
+      infiltrates.                           
+     REASON FOR THIS EXAMINATION:
+      eval interval progression                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  AIDS, hypoxia, sepsis and pulmonary embolism.
+     
+     IMPRESSION:  AP chest compared to [**2-9**]:
+     
+     Bilateral pleural effusions, moderate on the left and small on the right have
+     developed since [**2-9**] accompanied by asymmetric pulmonary edema,
+     obscuring the previously more discrete consolidation in the left upper and
+     right lower lung zones.  Heart is normal size.  Nodular opacities seen on the
+     chest CTA from [**2-9**], particularly at the right lung base have not been
+     apparent on plain radiographs.
+     
+     Tip of the right jugular line projects over the SVC.  No pneumothorax.
+     
+     Overall, findings are consistent with edema superimposed on pneumonia and
+     possible multifocal opportunistic infection.
+                                                                           
+
+",,
+8898,27562,11063,,3461-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-11**] 9:01 AM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11469**]
+     Reason: please place. call 38703 with questions                     
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OMNIPAQUE Amt: 50
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 76937 US GUID FOR VAS. ACCESS        C1880 VENA CAVA FILTER              *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with AIDS, PEs failed coumadin with large left lower leg clot   
+     REASON FOR THIS EXAMINATION:
+      please place. call 38703 with questions                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old man with AIDS and pulmonary embolism while on Coumadin
+     with bilateral lower extremity DVTs.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 3134**] and [**Name5 (PTitle) 42**], the Attending Radiologist,
+     present and supervising the entire procedure.  Dr. [**Last Name (STitle) 389**] reviewed the exam.
+     
+     PROCEDURE: Ultrasound examination of the common femoral veins bilaterally was
+     performed and demonstrated chronic occlusive thrombosis of the right common
+     femoral vein and acute partially occlusive thrombus within the left common
+     femoral vein. The decision was made to use the left common femoral vein for
+     access.  The left groin was prepped and draped sterilely.  Preprocedure
+     timeout was performed.  1% lidocaine was used to administer local anesthesia.
+     21-gauge needle was advanced into the left common femoral vein under
+     ultrasound guidance.  The ultrasound image was printed and attached to the
+     chart documenting vessel patency.  The 0.035 [**Last Name (un) 223**] wire was advanced via the
+     needle into the IVC and the needle was exchanged for a multi side hole pigtail
+     flush catheter which was positioned at the convergence of the iliac veins into
+     the IVC.  The wire was removed and catheter was connected to the power
+     injector. An IVC venogram was then performed demonstrating non-duplicated,
+     single, patent IVC with patent proximal iliac veins.  The position of the
+     renal veins was established. The renal veins appeared patent.  0.035 guidewire
+     was then advanced into the catheter and the catheter was exchanged for an IVC
+     filter sheath which was positioned slightly above the level of the lowermost
+     left renal vein.  The filter was deployed just below the level of the left
+     renal vein and a final fluoroscopic image was obtained.  The sheath was
+     removed and pressure was applied until complete hemostasis in the left groin
+     was achieved. The patient was transported to the room in good condition.
+     
+     IMPRESSION:  Successful placement of a VenaTech IVC filter in the infrarenal
+     position.
+     
+                                                                 (Over)
+
+     DATE: [**3461-2-11**] 9:01 AM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11469**]
+     Reason: please place. call 38703 with questions                     
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OMNIPAQUE Amt: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8898,27562,11063,,3461-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-11**] 9:01 AM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11469**]
+     Reason: please place. call 38703 with questions                     
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OMNIPAQUE Amt: 50
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 76937 US GUID FOR VAS. ACCESS        C1880 VENA CAVA FILTER              *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with AIDS, PEs failed coumadin with large left lower leg clot   
+     REASON FOR THIS EXAMINATION:
+      please place. call 38703 with questions                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old man with AIDS and pulmonary embolism while on Coumadin
+     with bilateral lower extremity DVTs.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 3134**] and [**Name5 (PTitle) 42**], the Attending Radiologist,
+     present and supervising the entire procedure.  Dr. [**Last Name (STitle) 389**] reviewed the exam.
+     
+     PROCEDURE: Ultrasound examination of the common femoral veins bilaterally was
+     performed and demonstrated chronic occlusive thrombosis of the right common
+     femoral vein and acute partially occlusive thrombus within the left common
+     femoral vein. The decision was made to use the left common femoral vein for
+     access.  The left groin was prepped and draped sterilely.  Preprocedure
+     timeout was performed.  1% lidocaine was used to administer local anesthesia.
+     21-gauge needle was advanced into the left common femoral vein under
+     ultrasound guidance.  The ultrasound image was printed and attached to the
+     chart documenting vessel patency.  The 0.035 [**Last Name (un) 223**] wire was advanced via the
+     needle into the IVC and the needle was exchanged for a multi side hole pigtail
+     flush catheter which was positioned at the convergence of the iliac veins into
+     the IVC.  The wire was removed and catheter was connected to the power
+     injector. An IVC venogram was then performed demonstrating non-duplicated,
+     single, patent IVC with patent proximal iliac veins.  The position of the
+     renal veins was established. The renal veins appeared patent.  0.035 guidewire
+     was then advanced into the catheter and the catheter was exchanged for an IVC
+     filter sheath which was positioned slightly above the level of the lowermost
+     left renal vein.  The filter was deployed just below the level of the left
+     renal vein and a final fluoroscopic image was obtained.  The sheath was
+     removed and pressure was applied until complete hemostasis in the left groin
+     was achieved. The patient was transported to the room in good condition.
+     
+     IMPRESSION:  Successful placement of a VenaTech IVC filter in the infrarenal
+     position.
+     
+                                                                 (Over)
+
+     DATE: [**3461-2-11**] 9:01 AM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11469**]
+     Reason: please place. call 38703 with questions                     
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OMNIPAQUE Amt: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8898,27562,11063,,3461-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-11**] 9:01 AM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11469**]
+     Reason: please place. call 38703 with questions                     
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OMNIPAQUE Amt: 50
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 76937 US GUID FOR VAS. ACCESS        C1880 VENA CAVA FILTER              *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with AIDS, PEs failed coumadin with large left lower leg clot   
+     REASON FOR THIS EXAMINATION:
+      please place. call 38703 with questions                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old man with AIDS and pulmonary embolism while on Coumadin
+     with bilateral lower extremity DVTs.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 3134**] and [**Name5 (PTitle) 42**], the Attending Radiologist,
+     present and supervising the entire procedure.  Dr. [**Last Name (STitle) 389**] reviewed the exam.
+     
+     PROCEDURE: Ultrasound examination of the common femoral veins bilaterally was
+     performed and demonstrated chronic occlusive thrombosis of the right common
+     femoral vein and acute partially occlusive thrombus within the left common
+     femoral vein. The decision was made to use the left common femoral vein for
+     access.  The left groin was prepped and draped sterilely.  Preprocedure
+     timeout was performed.  1% lidocaine was used to administer local anesthesia.
+     21-gauge needle was advanced into the left common femoral vein under
+     ultrasound guidance.  The ultrasound image was printed and attached to the
+     chart documenting vessel patency.  The 0.035 [**Last Name (un) 223**] wire was advanced via the
+     needle into the IVC and the needle was exchanged for a multi side hole pigtail
+     flush catheter which was positioned at the convergence of the iliac veins into
+     the IVC.  The wire was removed and catheter was connected to the power
+     injector. An IVC venogram was then performed demonstrating non-duplicated,
+     single, patent IVC with patent proximal iliac veins.  The position of the
+     renal veins was established. The renal veins appeared patent.  0.035 guidewire
+     was then advanced into the catheter and the catheter was exchanged for an IVC
+     filter sheath which was positioned slightly above the level of the lowermost
+     left renal vein.  The filter was deployed just below the level of the left
+     renal vein and a final fluoroscopic image was obtained.  The sheath was
+     removed and pressure was applied until complete hemostasis in the left groin
+     was achieved. The patient was transported to the room in good condition.
+     
+     IMPRESSION:  Successful placement of a VenaTech IVC filter in the infrarenal
+     position.
+     
+                                                                 (Over)
+
+     DATE: [**3461-2-11**] 9:01 AM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11469**]
+     Reason: please place. call 38703 with questions                     
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OMNIPAQUE Amt: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8898,27562,11063,,3461-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-11**] 9:01 AM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11469**]
+     Reason: please place. call 38703 with questions                     
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OMNIPAQUE Amt: 50
+     ********************************* CPT Codes ********************************
+     * 37620 INTERUP IVC                    36010 INTRO CATH SVC/IVC            *
+     * -51 MULTI-PROCEDURE SAME DAY         75940 PERC PLCMT IVC FILTER         *
+     * 76937 US GUID FOR VAS. ACCESS        C1880 VENA CAVA FILTER              *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with AIDS, PEs failed coumadin with large left lower leg clot   
+     REASON FOR THIS EXAMINATION:
+      please place. call 38703 with questions                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old man with AIDS and pulmonary embolism while on Coumadin
+     with bilateral lower extremity DVTs.
+     
+     RADIOLOGISTS:  Drs. [**Last Name (STitle) 3134**] and [**Name5 (PTitle) 42**], the Attending Radiologist,
+     present and supervising the entire procedure.  Dr. [**Last Name (STitle) 389**] reviewed the exam.
+     
+     PROCEDURE: Ultrasound examination of the common femoral veins bilaterally was
+     performed and demonstrated chronic occlusive thrombosis of the right common
+     femoral vein and acute partially occlusive thrombus within the left common
+     femoral vein. The decision was made to use the left common femoral vein for
+     access.  The left groin was prepped and draped sterilely.  Preprocedure
+     timeout was performed.  1% lidocaine was used to administer local anesthesia.
+     21-gauge needle was advanced into the left common femoral vein under
+     ultrasound guidance.  The ultrasound image was printed and attached to the
+     chart documenting vessel patency.  The 0.035 [**Last Name (un) 223**] wire was advanced via the
+     needle into the IVC and the needle was exchanged for a multi side hole pigtail
+     flush catheter which was positioned at the convergence of the iliac veins into
+     the IVC.  The wire was removed and catheter was connected to the power
+     injector. An IVC venogram was then performed demonstrating non-duplicated,
+     single, patent IVC with patent proximal iliac veins.  The position of the
+     renal veins was established. The renal veins appeared patent.  0.035 guidewire
+     was then advanced into the catheter and the catheter was exchanged for an IVC
+     filter sheath which was positioned slightly above the level of the lowermost
+     left renal vein.  The filter was deployed just below the level of the left
+     renal vein and a final fluoroscopic image was obtained.  The sheath was
+     removed and pressure was applied until complete hemostasis in the left groin
+     was achieved. The patient was transported to the room in good condition.
+     
+     IMPRESSION:  Successful placement of a VenaTech IVC filter in the infrarenal
+     position.
+     
+                                                                 (Over)
+
+     DATE: [**3461-2-11**] 9:01 AM
+     IVC GRAM/FILTER                                                 Clip # [**Clip Number (Radiology) 11469**]
+     Reason: please place. call 38703 with questions                     
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OMNIPAQUE Amt: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8898,27562,11063,,3461-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-11**] 6:00 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11470**]
+     Reason: Please eval for effusions,?infiltrate                       
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 year old man with AIDS, hypoxia, sepsis, known PE with progressing 
+      infiltrates with desats to mid 80s.
+     REASON FOR THIS EXAMINATION:
+      Please eval for effusions,?infiltrate                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Sepsis, known pulmonary emboli with desaturation.  AIDS.
+     
+     CHEST, ONE VIEW:  Comparison with 6:43 a.m. the same day.  A right internal
+     jugular central venous catheter terminates in the mid SVC.  The cardiac and
+     mediastinal contours are stable.  There are bilateral pleural effusions as
+     well as diffuse patchy opacities within the left lung and right lower lung
+     zone.  There may be slight improvement in the left pleural effusion.  No
+     pneumothorax.
+                                                                           
+
+",,
+8898,27562,11063,0,3461-02-11 06:42:00 EST,3461-02-11 06:55:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN HD #3","
+MICU/SICU NPN HD #3
+Events: Vasopressin turned off at 0500, pt continues to have high O2 requirement, continues to have suprtherapeutic INR
+
+S: ""What if I have to go to the bathroom?""
+
+O:
+
+Neruo: pt is anxious, A&Ox3, denies pain, MAE reluctantly
+
+Pulm: LS coarse, pt continues to cough up bloody sputum
+
+CV: AVSS, vasopressin turned off, please see flowsheet
+
+Integ: C/W/D/I
+
+GI/GU: abd soft, NT/ND, BS present, tolerating sips of clears well, med with MOM x1 for abd ""cramping,"" FOey patent for clear yellow urine in adequate amts
+
+Access: right IJ TLCL day #3, rith radial art line day #3, PIVx2
+
+A:
+
+altered brathing r/t acute inflammatory process
+anxiety r/t altered breathing
+activity intolerance r/t altered breathing
+
+P:
+
+continue to monitor hemodynamic/respiratory status, aggressive pulmonary toilet, activity progression, ADAT
+",,
+8898,27562,11063,0,3461-02-11 17:22:00 EST,3461-02-11 17:33:00 EST,1163,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7A-7P
+
+NEURO: PT ALERT, OXX3,MAE, FOLLOWS COMMANDS. PT AXIOUS AT TIMES, TEARFUL AT TIMES. SUPPORT AND COMFORT GIVEN. PT WAS GIVEN TOTAL 1.5MG IV VERSED PRIOR TO PROCEDURE IN IR. TOLERATED WELL. PT SLEPT A LITTLE THIS AFTERNOON. PT DENIES ANY PAIN. 
+
+RESP: PT RECIEVED ON 70% COOL NEB W/ SATS 93-98%. PT LS COARSE, DIMINSHED AT BASES. PT HAS STRONG PRODUCTIVE COUGH, SPUTUM IS THICK BLOODY. LAST AFB SENT THIS AM. THIS PM PT DESATING TO 86% PT ASLEEP AT TIME. INCREASE IN FIO2 AND COUGHING AND DEEP BREATHING WITH LITTLE EFFECT. PT THEN INCREASED TO 100% NRB. ABG SENT. PT DID SLOWLY COME UP TO 93%. PT DENIED ANY SOB, OR CP AT THAT TIME. 
+
+CV: HR 80-100 NSR. PT RECIEVED STARTED BACK ON VASOPRESSIN. VASSOPRESSIN OFF AT 1100. GOAL TO KEEP MAPS GREATER THAN 60. PT GIVEN 500CC FB OF LR WITH SHORT ACTING EFFECT. PT WAS THEN STARTED ON LEVOPHED GTT, CURRENTLY AT .043MCG/KG/MIN. PT AFEBRILE, TMAX 98.6. ECHO DONE AT BEDSIDE. AM INR 3.0 LOVENOX DOSE INCREASED THIS PM. PT WENT TO IR TODAT TO HAVE AN IVC FILTER PLACED. ANGIO SITE IS LEFT GROIN, DRY AND INTACT. SPECIAL FOAM DRESSING INPLACE TO HELP WITH CLOTTING. +PULSES. 
+
+GI/GU: ABD SOFT, +BS. PT OOB TO COMMODE THIS AM X2 FOR LG AMT SOFT TO LOOSE STOOL. GUIAC +. FOLEY INTACT DRAINING AMBER URINE. PT TOLERATING ICE CHIPS AND SIPS OF WATER. 
+
+ACCESS: PT HAS RIGHT IJ PRESEP CATH, 16G PIV AND RIGHT RADIAL ALINE. 
+
+DISPO: PLAN IS TO CONT TO MONITOR RESP STATUS, INR, CONT WITH BROAD SPEC ANTIBIOTICS WHILE CULTURES PENDING. PROVIDE EMOTIONAL SUPPORT. PT'S SISTER IN FOR SHORT PERIOD OF TIME. PT IS A FULL CODE. 
+",,
+8898,27562,11063,0,3461-02-12 05:21:00 EST,3461-02-12 05:32:00 EST,977,"N",69,"Nursing/Other","MICU NPN","
+MICU NPN
+NEURO: ALERT AND ORIENTATED X3, SLEPT WELL ALL NIGHT.
+
+RESP: CONTINUES WITH 100% NRB, SATS 95-98%, HAS NOT DESATED OVERNIGHT, SEE CAREVUE FOR AM ABG.  PRODUCTIVE COUGH REMAINS WITH BLOODY SPUTUM. 
+
+CV: BP VIA A-LINE 70-80'S/40-50'S, LEVOPHED WAS RESTARTED AND HAS BEEN TITIRATED UP AND DOWN IS PRESENTLY AT .043MCG/KG/HR, PT. UNABLE TO TOLERATE LEVOPHED TO GO ANY LOWER THAN THIS.  LEFT GROIN SITE OF IVC FILTER IS DRY AND INTACT.
+
+GI: NPO TAKING ICE CHIPS, SPOKE WITH TEAN ABOUT PT'S NPO STATUS, AND SINCE HE HAD BEEN DESATING THEY KEPT HEM NPO IN CASE OF PENDING INTUBATION. NO BM OVERNIGHT.
+
+GU: FOLEY IN PLACE SEE CAREVUE FOR URINE OUTPUT TOTALS.
+
+SOCIAL: VERY SUPPORTIVE FAMILY.
+
+PLAN: MONITOR RESP STATUS, PT. IS A FULL CODE AND WANTS TO BE INTUBATED IF IT CAME TO THAT.
+",,
+8898,27562,11063,0,3461-02-12 17:47:00 EST,3461-02-12 17:57:00 EST,1163,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7A-7P
+
+NEURO: PT IN BETTER SPIRITS TODAY. AOX3, MAE, FOLLOWING COMMANDS. PT HAD VISITORS THROUGH OUT MOST OF DAY. 
+
+RESP: PT RECEIVED ON 100% NRB, ABLE TO WEAN DOWN THROUGH OUT THE DAY TO 50% COOL NEB. PT COUGHING THICK BLOOD TINGED SPUTUM. IMPROVING IN APPEARENCE, LESS BLOODY. LS CLEAR, DIMINSHED AT BASES. 3RD AFB SENT TODAY. 
+
+CV: HR 80-90'S NSR. GOAL MAPS GREATER THAN 60. PT ON AND OFF LEVOPHED TODAY. PLAN IS NOW TO CONT TO GIVE FB TO REACH CVP OF 10 OR TOTAL FLUID AMT OF 4L. PT CURRENTLY HAS RECIEVED 1.5L NS W/ CVP 9 FROM 6. AFEBRILE. ANGIO SITE CLEAN/DRY AND INTACT. 
+
+GI/GU: ABD SOFT, +BS, NO BM. FOELY INTACT DRAINING CLEAR URINE. PT INCREASED TO CLEARS TODAY, TOLERATING WELL. BS WNL ? STOP TAKING FS?
+
+DISPO: PLAN TO CONT TO FB TO GET CVP TO 10. ATTEMPT TO WEAN FIO2. AWAITING CULTURES, PT STILL REMAINS ON TB PERCAUTIONS. PT IS A FULL CODE.  
+",,
+8898,27562,11063,0,3461-02-13 05:39:00 EST,3461-02-13 05:48:00 EST,977,"N",69,"Nursing/Other","MICU NPN","
+MICU NPN
+NEURO: PLEASANT AND COOPERATIVE, ALERT AND ORIENTATED X3.
+
+RESP: IN 40% COOL NEB. MASK, ATTEMPTED N/C AT 3L, PT TOLERATED THIS BUT DESATED TO 87%, ONLY IN N/C X 1 HOUR THEN PLACED BACK IN 40% NEB. MASK.  STILL COUGHING UP BLOOD TINGED SPUTUM BUT IT SEEMS YO BE LESS RED MORE PINKISH IN COLOR. SEE CAREVUE FOR MOST RECENT ABG RESULT.
+
+CV: OFF LEVOPHED, PLAN IS TO BOLUS PT WITH 500CC IF CVP GOES BELOW 10 HAS RECEIVED A TOTAL OF 1.5 LITERS OVER NIGHT  FOR A TOTAL OF 3 LITER SINCE YESTERDAY, ORDER IS FOR 4 LITERS THEN CHECK WTH TEAM.
+
+GI: TOLERATING CLEAR LIQS. NO BM  COULD MAYBE ADVANCE TODAY TO FULL LIQS.
+
+GU: SEE CAREVUE FOR URINE OUTPUT NUMBERS, FOLEY IS PATENT DRAINING CLEAR URINE.
+
+ENDO: FINGER STICKS DISCONTINUED.
+
+SOCIAL: VERY SUPPORTIVE FAMILY IN VISITING MOST OF THE EVENING.
+
+PLAN: CONTINUE TO MONITOR CVP GGOVE FLUID BOLUS AS NEEDED, TRY TO WEAN DOWN FIO2, ALL CULTURES ARE PENDING REMAINS ON RESPIRATORY ISOLATION.
+",,
+8898,27562,11063,0,3461-02-13 15:47:00 EST,3461-02-13 16:00:00 EST,6155,"N",69,"Nursing/Other","NPN 0700-1900","
+NPN 0700-1900
+Neuro: A&Ox3, pleasant,communicating needs appropriately, sitting up in bed, no c/o pain.
+
+Resp: Lungs clear to RUL, diminished to RLL and Left lung fields, continues with hemoptysis though amt is reported to be less then yesterday per HO, pt instructed on use of IS and was able to perform IS to nurse's satisfaction, pt off Airborne precautions d/t x3 (-)Afb cx's. RR 17-27 on 40% neb. mask, no c/o SOB, SPO2 91-96%.
+
+CV: HR 80-104 SR-ST no ectopy, BP's 85-121/40-60's, CVP 8-22, given total of 750cc NS bolus today for CVP<8 or MAP<60 with good effect, current SBP's in 120's. Continues with +3 pitting edema to lower extremities and edematous scrotum.  Repleted with 40KCL IV and given Vit. K po for INR 5.0.
+
+GI: BS (+), no BM, tolerating regular diet.
+
+GU: Foley cath intact draining clear yellow urine in adequate amts.
+
+Social: Sister and friend in to visit pt this afternoon.
+
+Plan: Continue to monitor VS, follow INR with next labs, continue to wean O2.
+",,
+8898,27562,11063,0,3461-02-14 03:19:00 EST,3461-02-14 03:30:00 EST,5197,"N",69,"Nursing/Other",,"
+
+NARRATIVE NOTE: 
+
+CV: B/P HAS RANGED FROM 134/64-93/50. HR 92-101. PPP BILAT, WEAK. PT HAS NOT REQUIRED ANY FLUID BOLUSES THROUGHOUT SHIFT. CVP 7-9. 3+ LOWER EXT EDEMA WITH RIGHT LEG ELEVATED ON PILLOW. CHECKED LYTES AND K 3.4, REPLEATED WITH 40MEQ PO AND 20MEQ IV. MG+1.9, PT RECIEVED 2GM IV.
+
+RESP: PT WAS ON N/C 5L UNTIL 0200 WHEN SAO2 DROPPED TO 88% AND PT WAS PLACED BACK ON THE 40% COOL NEB. RR 20-27. SAO2 91-95%. USING IS WITH NO DIFFICULTY. LUNGS DIM THROUGHOUT. WAS RULED OUT FOR TB.
+
+NEURO: INTACT.
+
+GU: FOLEY CATH PATENT, DRAINING CLEAR YELLOW URINE IN GOOD AMTS. 
+
+GI: ON HOUSE DIET WITH FAIR APPETITE. ABD SOFT WITH + BS.
+
+PT HAS VERY GOOD FAMILY SUPPORT.
+
+PLAN: CONT TO BOLUS IF NEEDED TO MAINTAIN B/P. SUPPORT RESP EFFORT, AND WEAN O2 AS PT TOL.  MONITOR LYTES AND REPLENISH. UPDATE FAMILY WITH CHANGES.
+",,
+8898,27562,11063,0,3461-02-14 17:30:00 EST,3461-02-14 17:38:00 EST,1163,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7A-7P
+
+PT HYPOTENSIVE THROUGH OUT DAY, MULTIPLE FB GIVEN. PT RESTARTED ON LEVOPHED GTT. 
+
+NEURO: PT ALERT, OX3, MAE, FOLLOWS COMMANDS. PT C/O MILD PLUERITIC CP. MEDICATED WITH TYLENOL WITH GOOD EFFECT. 
+
+RESP: RECIEVD PT ON 40% COOL NEB. PT ABLE TO TRANSITION TO 5L NC. O2 SATS 91-95%. PT HAD ON EPISODE OF SOB THIS AM, RELIEVED WITH NEBULIZER TREATMENT. LS CLEAR, DIMINISHED. 
+
+CV: HR 80-100'S NSR. GOAL MAP IS GREATER THAN 60. THIS AM NOT ABLE TO MAINTAIN MAPS. CVP -1. PT GIVEN TOTAL 4L NS IN FB. WAS ABLE TO GET CVP AS HIGH AS 7 FOR SHORT PERIOD OF TIME. PT WAS NOT ABLE TO MAINTAIN SBP. PT STARTED ON LEVOPHED GTT, CURRENTLY AT .086MCG/KG/MIN. TMAX 99.6. [**Last Name (un) **] STIM TEST DONE. 
+
+GI/GU: ABD SOFT, +BS, NO BM. FOLEY INTACT DRAINING CLEAR YELLOW URINE. U/O 200-360CC/HR. UA AND LYTES SENT. AS MORE IVF WAS GIVEN U/O INCREASED. PT STILL REMAINS - FOR DAY. PT TOLERATING HOUSE DIET. 
+
+SKIN: PT OOB TO CHAIR FOR 2HRS THIS AM W/ ASSIST OF 2. PT C/O COCCYX PAIN. NOT SKIN BREAKDOWN NOTED, DUODERM APPLIED WITH STATED RELIEF. PT POSITIONED OFF BACK. 
+
+DISPO: CONT TO MONITOR FLUID STATUS. [**Last Name (un) **] STIM PENDING. TEAM SPOKE WITH PT ABOUT LYMPH NODE BIOPSY IN FUTURE. PT'S FAMILY IN THIS AFTERNOON. PT IS A FULL CODE. 
+",,
+8898,27562,11063,,3461-02-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-15**] 5:54 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11471**]
+     Reason: interval change in infiltrate.                              
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with PE and pulmonary nodules. Now with new fever.              
+     REASON FOR THIS EXAMINATION:
+      interval change in infiltrate.                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fever.
+     
+     Single portable chest radiograph demonstrates right internal jugular central
+     venous catheter with its tip in the SVC.  Bilateral patchy pulmonary opacities
+     are again noted and may be slightly improved when compared to [**3461-2-11**]. Left-
+     sided pleural effusion persists.  The trachea is midline. Cardiomediastinal
+     contours are within normal limits.  Osseous structures are unremarkable.
+
+",,
+8898,27562,11063,0,3461-02-15 04:42:00 EST,3461-02-15 04:55:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN HD #7","
+MICU/SICU NPN HD #7
+S: ""I'm feeling much better and even eating.""
+
+O:
+
+Neuro: pt is A&Ox3, MAEW, denies pain
+
+Pulm: LS are coarse with occasional scattered rhonchi, dim at bases, pt continues to heave wet productive cough, expectorating bloody sputum, Sp02 94-97% on 0.4 cool neb
+
+CV: remains on low dose Levophed with MAPs > 60, please see flowsheet for data
+
+Integ: 3+ pitting edema in extremities, skin is otherwise C/W/D/I, pt has Duoderm over sacrum
+
+GI/GU: abd soft, NT/ND, BS present, tolerating house diet, Foley patent for copious light yellow urine (>200cc/h)
+
+Access: right IJ Presep cath day #7, right ridial art line day #6
+
+A:
+
+high risk for infecton r/t invasive lines, indwelling cath
+altered breathing r/t acute inflammatory process
+
+P:
+
+continue to monitor hemodynamic/respiratory status, aggressive pulmonary toilet, wean pressors at tolerated, continue abx as ordered, recheck urine lytes and osm at 0800, activity progession
+",,
+8898,27562,11063,0,3461-02-15 14:59:00 EST,3461-02-15 15:15:00 EST,7314,"N",69,"Nursing/Other","NPN 0700-1900:","
+NPN 0700-1900:
+Neuro: Pt is alert, oriented x 3, calm and cooperative, no c/o pain.
+
+Resp: Breathing regularly on O2 cool nebulizer 40%, LS clear, RR 23-27, SPO2 89-97%, desats to 80s when removing O2, coughing strong productive cough, expectorating thick yellowish sputum.
+
+CV: HR 89-101 NSR-ST, BP 76-122/57-91, MAP 65-102, with Rt IJ central line and Rt Radial A-line, on Levophed titrated to keep MAP >60, receiving Imipenam antibiotic, peripheral pulses weak, with pitting edema in extremities.
+
+GI/GU: On house diet well tolerated, however pt is anorexic and slept most of the time, abdomen soft, BS present. With Foley cath drained 200-350 ml/hr light yellowish clear u/o. Urine and serum specimens sent at 1100 and 1300 for Na and osmolality. Serum Na was 138, and serum osmolality 278.
+
+Int: with abrasions over coccyx, cleaned with soap and water, cream applied to back area, T max 99.5. Pt has HIV, he is on universal precautions and is full code.
+
+ 
+",,
+8898,27562,11063,0,3461-02-16 05:00:00 EST,3461-02-16 05:11:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN HD #8","
+MICU/SICU NPN HD #8
+Events: pt continues on norepinepherine for persistent hypotension, bolused x1 500cc LR
+
+S: ""Do I need the nasal spray?""
+
+O:
+
+Neuro: pt is A&Ox3, MAEW, right sided pleuritic CP 
+
+Pulm: LS are coarse with scattered rhonchi on right, dim at bases, continues to have wet cough productive for dark red sputum, SpO2 mid 90's on 40%, rapidly desaturates with )2 off
+
+CV: remains on Levophed to maintain MAP >60, please see flowsheet for data
+
+Integ: 3+ pitting edema in lower extremities, skin is otherwise C/W/D/I
+
+GI/GU: abd soft, NT/ND, BS present tolerating house diet, Foley patent for copious light yellow urine
+
+Access: rith IJ Presp cath day #8, right radial art line day #7 which is overdamped and positional
+
+A:
+
+high risk for infection r/t invasive lines, indwelling cath
+altered breathing r/t acute inflammatory process
+
+P:
+
+continue t monitor hemodynamic/respiratory status, aggressive pulmonary toilet, wean pressors as tolerated, continue abx as ordered, activity progression
+
+
+",,
+8898,27562,11063,0,3461-02-16 06:13:00 EST,3461-02-16 06:29:00 EST,830,"N",69,"Nursing/Other","NURSING  PROGRESS NOTE:","
+NURSING  PROGRESS NOTE:
+NEURO: PT SEDATED ON PROPOFOL BUT ABLE TO AROUSE. WHEN AROUSED PT VERY ANXIOUS AND MOTIONING THAT SHE WAS HAVING DIFFICULTY BREATHING. PT KEPT WELL SEDATED TILL EXTUBATION AT 0600 THIS AM. PROPOFOL WEANED OFF AND APPROPRIATELY WOKE UP. PT ANXIOUS AT FIRST BUT WHEN FULLY AWAKE WAS MUCH CALMER. HUSBAND PRESENT IN THE ROOM AND PT EXTUBATED. PT HAS NO C/O ABDOMINAL PAIN BUT IS C/O A SORE THROAT. 
+
+RESP: PT INTUBATED/VENT THROUGHOUT THE NIGHT, SEE FLOWSHEET FOR OBJECTIVE DATA. O2 SAT'S 100% EXCEPT WHEN SHE AWOKE AND BECAME VERY ANXIOUS AND SAT WOULD DROP TO LOW 90'S. AT O600 PROPOFOL TURNED OFF AND WAS EXTUBATED WITHOUT DIFFICULTY, SAT'S IN THE HIGH 90'S WITH OPEN FACE TENT. PT HAD BEEN SX'D FOR MOD AMT'S OF THICK WHITE SECRETIONS. CURRENTLY PT HAS STRONG COUGH. LUNG SOUNDS WITH SOME RHONCHI BUT CLEARS WITH COUGHING. 
+
+CV: PT'S HR NSR WITH RATES IN THE 80'S TO LOW 100'S. NO ECTOPY NOTED. BP WITHIN NORMAL LIMITS THROUGHOUT THE NIGHT. PT WITH LOW GRADE TEMP OF 100 AX. PT ON TRIPLE ANTBX. CONT TO RECEIVE PITOCIN DRIP. 
+
+GI: PT HAS BEEN NPO ALL NIGHT, OGT REMOVED WHEN EXTUBATED. PT'S ABD SOFT/DISTENDED WITH ACTIVE BOWEL SOUNDS. PT PASSED SM AMT OF SOFT BROWN STOOL. 
+
+GU: FOLEY CATH PATENT AND DRAINING LRG AMT'S OF CLEAR YELLOW URINE. PT RECEIVED A DOSE OF LASIX LAST EVE WITH EXCELLENT RESPONSE. PT CONT TO BE GREATLY POSITIVE, EXTREMETIES, EYELIDS, LABIA VERY SWOLLEN. PT'S PERIPADS CHANGED X 2 OVERNIGHT FOR THIN RED LOCHIA. FEW CLOTS NOTED AT BEGINING OF SHIFT. PACKING IN VAGINA IN PLACE AND EXTENDS SLIGHTLY OUTSIDE THE VAGINA. 
+
+LABS: HCT CHECKED Q4/HR'S, HCT DROPPED FROM 35 DOWN TO 29. WISH TO KEEP 30 BUT WILL NOT TRANSFUSE AT THIS TIME. 
+
+SKIN: NO ISSUES EXCEPT VERY EDEMATOUS. 
+
+ENDO: FINGERSTICKS CHECKED Q 6/HRS, NO COVERAGE NEEDED. 
+
+IV ACCESS: 3 PERIPHERALS ALL PATENT. 
+
+SOCIAL: PT IS FULL CODE, HUSBAND STAYED OVERNIGHT, IN ROOM AT PRESENT. PLAN TO GET PT TRANSFERRED BACK TO MATERNITY AS SOON AS POSSIBLE SO PT CAN BE WITH HER NEWBORN BABY. 
+
+",,
+8898,27562,11063,0,3461-02-16 16:44:00 EST,3461-02-16 17:04:00 EST,7314,"N",69,"Nursing/Other","NPN 0700-1900:","
+NPN 0700-1900:
+Neuro: pt is alert, oriented x 3, MAEs, calm and cooperative, seen by neurologist and nephrologist for evaluation. C/O rt chest pain once, given Morphine 2 mg, pain relieved, moving out of bed to commode with assistance.
+
+Resp: Breathing regularly on O2 cool nebulizer 40%, SPO2 90-99%, LS clear, coughing strongly and expectorating thick yellowish bld tinged sputum, yet less bloody than yesterday.
+
+CV: SR-ST HR 94-101, BP 67-99/51-74, MAP 59-81,Levophed was stopped at 10 [**Last Name (NamePattern4) 6285**] MD recommended to accept MAP in 50s, peripheral pulses weak, has lower extremities' edema, has Rt IJ line and Rt rad A- line, receiving Vancomycin, Imipenam, Caspofungin IV.
+
+GI/GU: pt is eating house diet with a better appetite than yesterday, abdomen soft, BS present, passed 3 loose BMs the last one is diarrhea,stool and urine tests sent to lab, Guiac negative, started on Lactulose and Colace, with Foley cath drained 20-130 ml/hr clear yellowish u/o.
+
+Int: skin integrity is more intact, duoderm over coccyx abrasion removed, pt is full code, on universal precautions, he has HIV since [**71**] years, family members visited in and updated about his condition.
+",,
+8898,27562,11063,,3461-02-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8898,27562,11063,,3461-02-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-17**] 5:29 PM
+     UNILAT UP EXT VEINS US RIGHT PORT                               Clip # [**Clip Number (Radiology) 11473**]
+     Reason: evaluate for dvt- on pressors/please do bedside             
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with pulmonary emboli now with right upper extremity swelling   
+     REASON FOR THIS EXAMINATION:
+      evaluate for dvt- on pressors/please do bedside                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pulmonary emboli, now with right upper extremity swelling.
+     
+     No prior studies are available for comparison.
+     
+     FINDINGS:  There is intraluminal thrombus within the right internal jugular
+     vein surrounding the catheter in this location.  The thrombus extends to the
+     junction with the right subclavian vein and into the proximal right subclavian
+     vein.  Nonocclusive thrombus is also demonstrated along the valves of the
+     right axillary vein.  The remaining more distal branches of the right deep
+     venous structures including the right brachial and basilic veins are patent
+     with normal compressibility.  Multiple enlarged lymph nodes are also
+     demonstrated in the right supraclavicular region and along the left neck.
+                                                                           
+
+",,
+8898,27562,11063,,3461-02-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-17**] 4:47 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 11472**]
+     Reason: Please eval for brainstem stroke with MRI stroke protocol an
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with bilateral PEs and failed warfarin on lovenox, hypotensive 
+      now with new c/o diploplia and new nystagmus and opthalmoplegia on exam.
+     REASON FOR THIS EXAMINATION:
+      Please eval for brainstem stroke with MRI stroke protocol and  MRI/MRA head to 
+      eval for basilar arterires.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN AND MRA OF THE CIRCLE OF [**Location (un) **]
+     
+     INDICATION:  51-year-old man with pulmonary emboli failed on warfarin,
+     hypotensive, new diplopia and nystagmus.  Evaluate for stroke and basilar
+     artery abnormality.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images of the brain were obtained.
+     Diffusion-weighted scans are included.
+     
+     3D time-of-flight MR angiography of the circle of [**Location (un) 220**] was performed.
+     Multiplanar reformatted images and source image data are reviewed.
+     
+     Comparison is made to a previous MRI of the brain from [**3457-8-18**].
+     
+     FINDINGS:
+     In the interval since the previous study, there are several small cerebellar
+     infarctions which have developed, the largest of which is in the
+     posterolateral inferior right cerebellar hemisphere.  In addition, there is a
+     new focus of left anteromedial inferior cerebellar signal abnormality and
+     diffusion hyperintensity, suspicious for acute infarction.
+     
+     Cerebral structures appear normal.  The ventricles are not dilated.  There are
+     three or four small foci of increased T2 signal in the subcortical white
+     matter of the cerebral hemispheres, which probably represent chronic
+     microvascular infarctions.  There is no abnormal intracranial susceptibility
+     artifact.
+     
+     MR angiographic images demonstrate flow in the major branches of the anterior
+     circulation, with prominent posterior communicating arteries continuing into
+     the posterior cerebral arteries bilaterally.  There is also normal-appearing
+     flow signal within both intracranial vertebral arteries, however, the basilar
+     artery flow signal is diminished and irregular.
+     
+     IMPRESSION:
+     1.  MRI demonstrates a small acute left anterior cerebellar infarction.  Other
+     small chronic infarctions of the cerebellum are identified and have occurred
+     in the interval since the previous study.
+     
+     2.  MRA of the circle of [**Location (un) 220**] demonstrates abnormally decreased flow in the
+     basilar artery.  Vertebral artery flow signal and posterior communicating
+                                                                 (Over)
+
+     DATE: [**3461-2-17**] 4:47 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 11472**]
+     Reason: Please eval for brainstem stroke with MRI stroke protocol an
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     artery signal are observed.
+     
+     There is some fluid in the inferior mastoid air cells bilaterally.
+     
+     Findings were discussed with Dr. [**First Name8 (NamePattern2) 258**] [**Last Name (NamePattern1) 9313**] at 11:45 a.m. on [**3461-2-18**].
+                                                                           DFDgf
+
+",,
+8898,27562,11063,,3461-02-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-17**] 4:47 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 11472**]
+     Reason: Please eval for brainstem stroke with MRI stroke protocol an
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with bilateral PEs and failed warfarin on lovenox, hypotensive 
+      now with new c/o diploplia and new nystagmus and opthalmoplegia on exam.
+     REASON FOR THIS EXAMINATION:
+      Please eval for brainstem stroke with MRI stroke protocol and  MRI/MRA head to 
+      eval for basilar arterires.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN AND MRA OF THE CIRCLE OF [**Location (un) **]
+     
+     INDICATION:  51-year-old man with pulmonary emboli failed on warfarin,
+     hypotensive, new diplopia and nystagmus.  Evaluate for stroke and basilar
+     artery abnormality.
+     
+     TECHNIQUE:  Multiplanar T1- and T2-weighted images of the brain were obtained.
+     Diffusion-weighted scans are included.
+     
+     3D time-of-flight MR angiography of the circle of [**Location (un) 220**] was performed.
+     Multiplanar reformatted images and source image data are reviewed.
+     
+     Comparison is made to a previous MRI of the brain from [**3457-8-18**].
+     
+     FINDINGS:
+     In the interval since the previous study, there are several small cerebellar
+     infarctions which have developed, the largest of which is in the
+     posterolateral inferior right cerebellar hemisphere.  In addition, there is a
+     new focus of left anteromedial inferior cerebellar signal abnormality and
+     diffusion hyperintensity, suspicious for acute infarction.
+     
+     Cerebral structures appear normal.  The ventricles are not dilated.  There are
+     three or four small foci of increased T2 signal in the subcortical white
+     matter of the cerebral hemispheres, which probably represent chronic
+     microvascular infarctions.  There is no abnormal intracranial susceptibility
+     artifact.
+     
+     MR angiographic images demonstrate flow in the major branches of the anterior
+     circulation, with prominent posterior communicating arteries continuing into
+     the posterior cerebral arteries bilaterally.  There is also normal-appearing
+     flow signal within both intracranial vertebral arteries, however, the basilar
+     artery flow signal is diminished and irregular.
+     
+     IMPRESSION:
+     1.  MRI demonstrates a small acute left anterior cerebellar infarction.  Other
+     small chronic infarctions of the cerebellum are identified and have occurred
+     in the interval since the previous study.
+     
+     2.  MRA of the circle of [**Location (un) 220**] demonstrates abnormally decreased flow in the
+     basilar artery.  Vertebral artery flow signal and posterior communicating
+                                                                 (Over)
+
+     DATE: [**3461-2-17**] 4:47 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 11472**]
+     Reason: Please eval for brainstem stroke with MRI stroke protocol an
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     artery signal are observed.
+     
+     There is some fluid in the inferior mastoid air cells bilaterally.
+     
+     Findings were discussed with Dr. [**First Name8 (NamePattern2) 258**] [**Last Name (NamePattern1) 9313**] at 11:45 a.m. on [**3461-2-18**].
+                                                                           DFDgf
+
+",,
+8898,27562,11063,0,3461-02-17 05:19:00 EST,3461-02-17 05:42:00 EST,6182,"N",69,"Nursing/Other","Nursing Progress notes 1900-0700","
+Nursing Progress notes 1900-0700
+
+Neuro: pt alert oriented x 3 mae however he has a difficult time moving lower extremities because the have +3 pitting edema. no c/o pain this shift.
+
+Resp: ls clear w/ diminished bases. pt coughing up bld tinged thick secretions in small amounts. o2 40% cool neb face mask at 12liters. sats 96-99%. at one point pt was found sleeping w/ o2 mask off sats 89%. sats quickly increased when he placed mask back on. 
+
+Cv: tele nsr 80s sbp 60-90 w/ maps >50. cvp not accurate but runs b/t 0-7 ( micu team aware and we are not tx cvp). Levophed gtt cont to remain off. aline early this am became flat and this rn unable to draw from it or get wave form. aline dc'd cath intact. nibp 80-90/40s map 50-60s. K+ 3.2 will receive 2 k+ boluses of 20meq kcl each. mag pending. hct pending. Echo [**2-14**] ef 55% mild mr +1, mod tr +2. received an vena cava filter [**2-11**], medical alert necklace in chart. 
+
+GI: diet house. but instead of boost for supplement he would like ensure.  abd soft and tender in ruq only. bs+ pt up to bsc w/ 1 assist and  had lg loose stool last evening. please hold lactalose and colace this am. 
+
+Gu:pt foley cath draining amber colored urine. pt had decreased uo overnight 15cc/hr x 2 hrs micu team aware and ordered to wait 1 more hr than if <30cc give 500cc LR bolus. uo next hr 12cc. bolus given w/ much improvement.  
+
+skin: coccyx pink and sore. pt txr frequently from side to side.
+he may need a air mattress if he cannot tolerate up to chair today. 
+
+ID: afebrile. pt on vanco q12hrs, imipenem and caspofungin.
+
+social: sister contact person and hcp was here to early evening. 
+
+code: full
+
+Plan: 
+cont to assess resp status.
+give LR 500cc bolus for map <50
+oob- will need [**Male First Name (un) **] stockings when oob to help w/ edema
+air mattress
+assess for pain and give ms 1-6 mg q 4hrs prn for pain
+
+
+
+
+",,
+8898,27562,11063,0,3461-02-17 15:48:00 EST,3461-02-17 16:00:00 EST,7314,"N",69,"Nursing/Other","NPN 0700-1900:","
+NPN 0700-1900:
+Neuro: Pt is alert oriented x 3, MAEs, though legs are weaker than the hands and he has edema in Lower extremities, complained once of SOB, given Atrovent nebulizor, c/o pain in rt chest, given Morphoine 2mg IVP x 2, Magnesium repleted, c/o blurred vision and diplopia, scheduled for MRI, and for Ultra sound of hand to rule out any clot formation.
+
+Resp: breathing regularly on O2 cool nebulivor 40 %, coughing and expectorating moderate thick yellowish blood tinged secretions, LS crackles, R/O pneumonia, Azithromycin dose changed.
+
+CV: SR-ST HR 93-104, BP 79-99 MAP maintained above 50, so Levophed still OFF, receiving Imipenam, vancomycin and caspofungin IV, with Rt IJ line, peripheral pulses weak, CVP 1-4.
+
+GI/GU: eating house diet well tolerated with good appetite, BS present, abdomen soft, with Foley cath drained 30-120 ml/hr amber clear u/o.
+
+Int: Pt has abrasions over coccyx, cleaned with soap and water and left exposed to air, T max 98.6.
+",,
+8898,27562,11063,0,3461-02-17 16:53:00 EST,3461-02-17 16:54:00 EST,102,"N",69,"Nursing/Other",,"
+
+resp care
+pt received atrovent neb x1 today (prn order). bs diminished bilat,with end insp crackles right and bronchial bs rll. cough prod frequently for thick bld tinged sputum. subjective relief with neb. will follow on prn basis.
+",,
+8898,27562,11063,,3461-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-18**] 4:11 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11474**]
+     Reason: please eval for infiltrate                                  
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with PE and pulmonary nodules with desat.                      
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrate                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pulmonary embolism and pulmonary nodules.  New desaturation.
+     
+     IMPRESSION:  AP chest compared to [**3378-2-8**], and 27:
+     
+     Moderate-sized right pleural effusion is increasing, small left pleural
+     effusion has decreased, and asymmetric pulmonary edema is clearing from the
+     left lower lobe.  Opacification persisting in the left upper lobe with
+     residual edema though pneumonia cannot be excluded.  Similarly worsening
+     consolidation at the right lung base could be due to combination of
+     atelectasis and residual edema though pneumonia cannot be excluded there is
+     either.  Right internal jugular line tip projects over the SVC.  No
+     pneumothorax.  Heart size normal.  No pneumothorax.
+                                                                           
+
+",,
+8898,27562,11063,,3461-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-18**] 7:44 PM
+     CTA HEAD W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST           Clip # [**Clip Number (Radiology) 11475**]
+     Reason: Requesting CT/CTA to assess for basilar artery thrombosis an
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OPTIRAY Amt: 130CC'S
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with AIDS presented with multiple PEs, now with cerebellar 
+      infarct and decreased basilar artery flow on MRA.
+     REASON FOR THIS EXAMINATION:
+      Requesting CT/CTA to assess for basilar artery thrombosis and to evaluate 
+      cerebellar infarct
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cerebellar infarction and decreased basilar artery flow on MRA.
+     
+     TECHNIQUE:  Noncontrast CT of the head was performed, followed by a CT
+     arteriogram of the Circle of [**Location (un) 220**].  Additional multiplanar reformatted
+     images as well as volume-rendered images were also performed and reviewed.
+     
+     COMPARISONS:  None.  Correlation is made with yesterday's MRA.
+     
+     FINDINGS:  Noncontrast evaluation of the brain remains within normal limits,
+     and demonstrates no evidence of hemorrhage, major territorial infarction, or
+     shift of normally midline structures.  Extraaxial spaces are slightly dilated,
+     considering the patient's age.  The [**Doctor Last Name 30**]-white matter differentiation appears
+     preserved. The left cerebellar infarction seen on the prior MRI is not evident
+     on this examination.
+     
+     CTA:  The basilar artery has a clearly patent although moderately irregularly
+     narrowed caliber.   Both vertebral arteries remain prominent and well
+     distended, even in the presence of persistent bilateral fetal posterior
+     cerebral circulations. The remainder of the major vascular tributaries of the
+     Circle of [**Location (un) 220**] appeared normal.
+     
+     IMPRESSION:
+     1.  There is a diffusely narrow basilar artery, in the presence of both
+     bilateral persistent fetal posterior cerebral circulation as well as prominent
+     bilateral vertebral arteries.  While this might be atherosclerotic in nature
+     or a congenital variant, vasculitis should also be considered, especially in
+     this patient with AIDS.
+     
+     2.  Prominence of extraaxial spaces, which may be AIDS-related change.
+     
+
+",,
+8898,27562,11063,,3461-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-18**] 7:44 PM
+     CTA HEAD W&W/O C & RECONS; CT 150CC NONIONIC CONTRAST           Clip # [**Clip Number (Radiology) 11475**]
+     Reason: Requesting CT/CTA to assess for basilar artery thrombosis an
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OPTIRAY Amt: 130CC'S
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with AIDS presented with multiple PEs, now with cerebellar 
+      infarct and decreased basilar artery flow on MRA.
+     REASON FOR THIS EXAMINATION:
+      Requesting CT/CTA to assess for basilar artery thrombosis and to evaluate 
+      cerebellar infarct
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cerebellar infarction and decreased basilar artery flow on MRA.
+     
+     TECHNIQUE:  Noncontrast CT of the head was performed, followed by a CT
+     arteriogram of the Circle of [**Location (un) 220**].  Additional multiplanar reformatted
+     images as well as volume-rendered images were also performed and reviewed.
+     
+     COMPARISONS:  None.  Correlation is made with yesterday's MRA.
+     
+     FINDINGS:  Noncontrast evaluation of the brain remains within normal limits,
+     and demonstrates no evidence of hemorrhage, major territorial infarction, or
+     shift of normally midline structures.  Extraaxial spaces are slightly dilated,
+     considering the patient's age.  The [**Doctor Last Name 30**]-white matter differentiation appears
+     preserved. The left cerebellar infarction seen on the prior MRI is not evident
+     on this examination.
+     
+     CTA:  The basilar artery has a clearly patent although moderately irregularly
+     narrowed caliber.   Both vertebral arteries remain prominent and well
+     distended, even in the presence of persistent bilateral fetal posterior
+     cerebral circulations. The remainder of the major vascular tributaries of the
+     Circle of [**Location (un) 220**] appeared normal.
+     
+     IMPRESSION:
+     1.  There is a diffusely narrow basilar artery, in the presence of both
+     bilateral persistent fetal posterior cerebral circulation as well as prominent
+     bilateral vertebral arteries.  While this might be atherosclerotic in nature
+     or a congenital variant, vasculitis should also be considered, especially in
+     this patient with AIDS.
+     
+     2.  Prominence of extraaxial spaces, which may be AIDS-related change.
+     
+
+",,
+8898,27562,11063,0,3461-02-18 06:24:00 EST,3461-02-18 06:52:00 EST,6182,"N",69,"Nursing/Other","Nursing progress notes 1900-0700","
+Nursing progress notes 1900-0700
+Events: pt was turned on left side at 0000 and became acutely sob tachycardic 105 (from nsr 80s) sats 93% from 97% ls insp/exp wheezes. pt turned back on his back and upright 90% atrovent neb given pt states he has right sided chest pain like the pain he had friday night before he came to the ed  a week ago. MS 2mg ivp given. pain level 7 to a 2 after ms. [**First Name (Titles) 2404**] [**Last Name (Titles) **] tx and ms pt felt better, ls clear w/ diminished bases. from 00-0400 urine output low <25 500cc LR bolus given at 0200. w/ no increase in output. ms given for right sided chest pain. Dr [**First Name (STitle) **] notified of right sided chest pain and drop in output despite bolus. Pcxr done, neb tx given. pcxr showed right side effusion. 
+
+Neuro: alert and oriented x 3. Mae lower extrem. more difficult to move d/t +3 pitting edema. pt had mri mra of head r/o cva d/t double vision. no report back. he has no c/o double vision this shift. 
+
+Resp: at present ls clear w/ diminished bases. o2 sat 92-93% cont to cough small amounts of  bld tinged secretions
+
+CV: tele sr 80-100 no ectopy noted. hrt sounds s1s2 last echo [**2-14**] ef 55% mild mr and mod tr +2. pedal pulses  and post tibs +2 right upper arm +3 pitting edema w/ +2 pulses. Us of right upper extrem. [**2-17**] shows clot surrounding cath in rij and extends to rigth subclavian vein. K+3.3 replaced w/ 40meq kcl po, mg 1.7 repleated w/ 2gms of mag sulfate. levophed gtt off since [**2-16**] goal map >50. hematology consult to see pt this am d/t left neck lymphnoids enlarged and will do bx ?when r/o CA.
+
+Gi: abd soft bs + pt on house diet tolerating thick soups well. dislikes boost requesting ensure. nutrition consult ordered. lactalose and colace on hold d/t loose stools [**2-16**] and [**2-17**]. 
+
+gu: foley cath now draining adequate amounts of amber colored urine since 0500. Renal consult following
+
+skin: coccyx pink pt turned and repositioned frequently. 
+
+code: full
+
+id: cdiff neg, urine c/s neg sputum from [**2-17**] no adequate, bc pending. pt on vanco, imipenem and caspofungin. 
+
+social"": sister in last evening and hopefully will be in this am.
+
+code: full
+
+Plan:
+hematology consult
+ms for pain q 4hrs prn
+monitor for resp distress. 
+may need air mattress d/t inability to get oob easily and skin breakdown. 
+mri/mra results pending.
+ 
+ 
+
+",,
+8898,27562,11063,0,3461-02-18 18:14:00 EST,3461-02-18 18:31:00 EST,379,"N",69,"Nursing/Other","MICU EAST NPN 0700-1900","
+MICU EAST NPN 0700-1900
+Please see flowsheet and neurology note for further details..
+
+
+A&O x3. Pleasant and cooperative but discouraged at lack of progress.
+MRI/MRA yesterday showed new cerebellum infarct.  q2hr neuro checks done to monitor for pupillary changes,yawning,hiccuping or alt MS. Neurology will continue to follow.
+
+Maintaining gd O2sats. No change in FiO2. Sputum sent for C/S. No episodes of SOB.
+
+Continues to c/o r pleuritic pain. MSO4 2mg given with fair-little relief for short time. 4mg given with sl more improvement. Plan to re discuss w/MD [**First Name (Titles) **] [**Last Name (Titles) **]. ? longer acting [**Doctor Last Name 41**].
+
+U.O.~ 100cc/hr. He is currently ~600cc + since midnight.
+
+T max 100 po. No antibiotic changes made. R IJ dc'd and 2 PIVs placed in L arm. R arm remains edematous. Surgery in to consult for lymph node bx most likely on Wed.
+
+Sister in most of day. Supportive and helpful.
+",,
+8898,27562,11063,,3461-02-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-19**] 2:49 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11476**]
+     Reason: please eval for interval change; eval for hemorrhage, mass e
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with L cerebellar stroke                                        
+     REASON FOR THIS EXAMINATION:
+      please eval for interval change; eval for hemorrhage, mass effect               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left cerebellar stroke.  Evaluate for interval change,
+     hemorrhage, mass effect.
+     
+     TECHNIQUE:  Noncontrast CT of the head was performed with comparison to the
+     MRI performed two days ago as well as the CTA of the head performed yesterday.
+     
+     FINDINGS:  There is no intracranial hemorrhage, mass effect, or shift of
+     normally midline structures.  The left cerebellar stroke is not appreciable on
+     this examination.  Again, note is made of slightly enlarged extraaxial spaces,
+     which may be due to HIV-related changes.
+     
+     IMPRESSION:  No appreciable interval change.
+                                                                           
+
+",,
+8898,27562,11063,,3461-02-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-19**] 2:50 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11477**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lymphadenopathy; possible mets              
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 yo with lung nodules, ?malignancy                                            
+     REASON FOR THIS EXAMINATION:
+      please eval for lymphadenopathy; possible mets                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lung nodules, question malignancy.
+     
+     TECHNIQUE:  Multidetector CT images of the chest, abdomen, and pelvis were
+     obtained with oral and intravenous contrast.  150 cc of Optiray contrast were
+     administered.
+     
+     COMPARISON:  [**3461-2-9**] chest CTA.
+     
+     CHEST CT WITH IV CONTRAST:  There is a thrombus within the right internal
+     jugular vein and right brachiocephalic vein.  The left brachiocephalic vein
+     and left internal jugular vein are patent.  No thrombus is seen within the
+     superior vena cava.  No axillary lymphadenopathy is present.  There are
+     multiple enlarged mediastinal lymph nodes, with two lymph nodes immediately
+     below the aortic arch measuring 1.8 x 1.5 cm and 1.3 x 2.2 cm. There is an ill
+     defined irregular mass in the left suprahilar region, which is causing
+     compression of the upper lobe vessels as well as compression of the apical and
+     posterior left upper lobe segmental bronchi.  Persistent consolidation is seen
+     in the left upper lobe superiorly and posteriorly and is unchanged from the
+     prior study.
+     
+     There are innumerable bilateral pulmonary nodules, which do not appear
+     significantly changed from the prior study.  There is moderate-sized right
+     effusion and a small left effusion, both of which have increased in size in
+     comparison to the prior study.  The right lower lobe is collapsed and there
+     are irregular heterogeneous low-attenuation foci within the collapsed lobe,
+     likely due to metastatic foci.  There are patchy inspissated secretions in the
+     right lower lobe branches.
+     
+     ABDOMEN CT WITH IV CONTRAST:  An 8 mm x 8 mm low-attenuation focus is present
+     within the posterior right lobe of the liver, immediately adjacent to the IVC.
+       The gallbladder, pancreas, and adrenal glands are unremarkable.  Two low-
+     attenuation foci are present within the spleen.  These are not fully
+     characterized on this study.  The largest measures 1.4 cm in diameter.  The
+     kidneys are normal.  Scattered small paraaortic lymph nodes are present, none
+     of which meet criteria for pathologic enlargement.  The stomach, small bowel,
+     and large bowel are normal.  There is an inferior vena cava filter, with tip
+     at the level of the renal vein insertions.
+     
+     PELVIS CT WITH IV CONTRAST:  The distal ureters, rectum, and pelvic loops of
+                                                                 (Over)
+
+     DATE: [**3461-2-19**] 2:50 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11477**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lymphadenopathy; possible mets              
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     bowel are unremarkable.  There is a Foley within the bladder.  A small amount
+     of free fluid is present within the pelvis consistent with mild ascites.
+     Bilateral femoral vein thrombi are present.
+     
+     The osseous structures reveal no suspicious lytic or sclerotic lesions.
+     Diffuse mild increased attenuation is seen within the subcutaneous fat,
+     consistent with diffuse edema.
+     
+     IMPRESSION:
+     
+     1.  Left suprahilar mass with post obstructive consolidation.  This is highly
+     concerning for a primary lung malignancy.  This is likely amenable to
+     bronchoscopic biopsy.
+     
+     2.  Mediastinal lymphadenopathy and innumerable pulmonary tiny nodules,
+     consistent with metastatic disease.
+     
+     3.  Right internal jugular/brachiocephalic vein, right femoral vein, and left
+     femoral vein thrombi.
+     
+     4.  Subcutaneous edema, bilateral effusions, and mild ascites, consistent with
+     anasarca.
+     
+     5.  8-mm low-attenuation liver lesion.  This is too small to characterize in
+     this study.
+     
+     6.  Two small splenic lesions, incompletely characterized on the current
+     study.
+     
+     These results were communicated to Dr. [**First Name (STitle) 11478**] at 6 p.m. on [**3461-2-19**].
+     
+
+",,
+8898,27562,11063,,3461-02-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-19**] 2:50 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11477**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lymphadenopathy; possible mets              
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 yo with lung nodules, ?malignancy                                            
+     REASON FOR THIS EXAMINATION:
+      please eval for lymphadenopathy; possible mets                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lung nodules, question malignancy.
+     
+     TECHNIQUE:  Multidetector CT images of the chest, abdomen, and pelvis were
+     obtained with oral and intravenous contrast.  150 cc of Optiray contrast were
+     administered.
+     
+     COMPARISON:  [**3461-2-9**] chest CTA.
+     
+     CHEST CT WITH IV CONTRAST:  There is a thrombus within the right internal
+     jugular vein and right brachiocephalic vein.  The left brachiocephalic vein
+     and left internal jugular vein are patent.  No thrombus is seen within the
+     superior vena cava.  No axillary lymphadenopathy is present.  There are
+     multiple enlarged mediastinal lymph nodes, with two lymph nodes immediately
+     below the aortic arch measuring 1.8 x 1.5 cm and 1.3 x 2.2 cm. There is an ill
+     defined irregular mass in the left suprahilar region, which is causing
+     compression of the upper lobe vessels as well as compression of the apical and
+     posterior left upper lobe segmental bronchi.  Persistent consolidation is seen
+     in the left upper lobe superiorly and posteriorly and is unchanged from the
+     prior study.
+     
+     There are innumerable bilateral pulmonary nodules, which do not appear
+     significantly changed from the prior study.  There is moderate-sized right
+     effusion and a small left effusion, both of which have increased in size in
+     comparison to the prior study.  The right lower lobe is collapsed and there
+     are irregular heterogeneous low-attenuation foci within the collapsed lobe,
+     likely due to metastatic foci.  There are patchy inspissated secretions in the
+     right lower lobe branches.
+     
+     ABDOMEN CT WITH IV CONTRAST:  An 8 mm x 8 mm low-attenuation focus is present
+     within the posterior right lobe of the liver, immediately adjacent to the IVC.
+       The gallbladder, pancreas, and adrenal glands are unremarkable.  Two low-
+     attenuation foci are present within the spleen.  These are not fully
+     characterized on this study.  The largest measures 1.4 cm in diameter.  The
+     kidneys are normal.  Scattered small paraaortic lymph nodes are present, none
+     of which meet criteria for pathologic enlargement.  The stomach, small bowel,
+     and large bowel are normal.  There is an inferior vena cava filter, with tip
+     at the level of the renal vein insertions.
+     
+     PELVIS CT WITH IV CONTRAST:  The distal ureters, rectum, and pelvic loops of
+                                                                 (Over)
+
+     DATE: [**3461-2-19**] 2:50 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11477**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lymphadenopathy; possible mets              
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     bowel are unremarkable.  There is a Foley within the bladder.  A small amount
+     of free fluid is present within the pelvis consistent with mild ascites.
+     Bilateral femoral vein thrombi are present.
+     
+     The osseous structures reveal no suspicious lytic or sclerotic lesions.
+     Diffuse mild increased attenuation is seen within the subcutaneous fat,
+     consistent with diffuse edema.
+     
+     IMPRESSION:
+     
+     1.  Left suprahilar mass with post obstructive consolidation.  This is highly
+     concerning for a primary lung malignancy.  This is likely amenable to
+     bronchoscopic biopsy.
+     
+     2.  Mediastinal lymphadenopathy and innumerable pulmonary tiny nodules,
+     consistent with metastatic disease.
+     
+     3.  Right internal jugular/brachiocephalic vein, right femoral vein, and left
+     femoral vein thrombi.
+     
+     4.  Subcutaneous edema, bilateral effusions, and mild ascites, consistent with
+     anasarca.
+     
+     5.  8-mm low-attenuation liver lesion.  This is too small to characterize in
+     this study.
+     
+     6.  Two small splenic lesions, incompletely characterized on the current
+     study.
+     
+     These results were communicated to Dr. [**First Name (STitle) 11478**] at 6 p.m. on [**3461-2-19**].
+     
+
+",,
+8898,27562,11063,,3461-02-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-19**] 2:50 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11477**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lymphadenopathy; possible mets              
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 yo with lung nodules, ?malignancy                                            
+     REASON FOR THIS EXAMINATION:
+      please eval for lymphadenopathy; possible mets                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lung nodules, question malignancy.
+     
+     TECHNIQUE:  Multidetector CT images of the chest, abdomen, and pelvis were
+     obtained with oral and intravenous contrast.  150 cc of Optiray contrast were
+     administered.
+     
+     COMPARISON:  [**3461-2-9**] chest CTA.
+     
+     CHEST CT WITH IV CONTRAST:  There is a thrombus within the right internal
+     jugular vein and right brachiocephalic vein.  The left brachiocephalic vein
+     and left internal jugular vein are patent.  No thrombus is seen within the
+     superior vena cava.  No axillary lymphadenopathy is present.  There are
+     multiple enlarged mediastinal lymph nodes, with two lymph nodes immediately
+     below the aortic arch measuring 1.8 x 1.5 cm and 1.3 x 2.2 cm. There is an ill
+     defined irregular mass in the left suprahilar region, which is causing
+     compression of the upper lobe vessels as well as compression of the apical and
+     posterior left upper lobe segmental bronchi.  Persistent consolidation is seen
+     in the left upper lobe superiorly and posteriorly and is unchanged from the
+     prior study.
+     
+     There are innumerable bilateral pulmonary nodules, which do not appear
+     significantly changed from the prior study.  There is moderate-sized right
+     effusion and a small left effusion, both of which have increased in size in
+     comparison to the prior study.  The right lower lobe is collapsed and there
+     are irregular heterogeneous low-attenuation foci within the collapsed lobe,
+     likely due to metastatic foci.  There are patchy inspissated secretions in the
+     right lower lobe branches.
+     
+     ABDOMEN CT WITH IV CONTRAST:  An 8 mm x 8 mm low-attenuation focus is present
+     within the posterior right lobe of the liver, immediately adjacent to the IVC.
+       The gallbladder, pancreas, and adrenal glands are unremarkable.  Two low-
+     attenuation foci are present within the spleen.  These are not fully
+     characterized on this study.  The largest measures 1.4 cm in diameter.  The
+     kidneys are normal.  Scattered small paraaortic lymph nodes are present, none
+     of which meet criteria for pathologic enlargement.  The stomach, small bowel,
+     and large bowel are normal.  There is an inferior vena cava filter, with tip
+     at the level of the renal vein insertions.
+     
+     PELVIS CT WITH IV CONTRAST:  The distal ureters, rectum, and pelvic loops of
+                                                                 (Over)
+
+     DATE: [**3461-2-19**] 2:50 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11477**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lymphadenopathy; possible mets              
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     bowel are unremarkable.  There is a Foley within the bladder.  A small amount
+     of free fluid is present within the pelvis consistent with mild ascites.
+     Bilateral femoral vein thrombi are present.
+     
+     The osseous structures reveal no suspicious lytic or sclerotic lesions.
+     Diffuse mild increased attenuation is seen within the subcutaneous fat,
+     consistent with diffuse edema.
+     
+     IMPRESSION:
+     
+     1.  Left suprahilar mass with post obstructive consolidation.  This is highly
+     concerning for a primary lung malignancy.  This is likely amenable to
+     bronchoscopic biopsy.
+     
+     2.  Mediastinal lymphadenopathy and innumerable pulmonary tiny nodules,
+     consistent with metastatic disease.
+     
+     3.  Right internal jugular/brachiocephalic vein, right femoral vein, and left
+     femoral vein thrombi.
+     
+     4.  Subcutaneous edema, bilateral effusions, and mild ascites, consistent with
+     anasarca.
+     
+     5.  8-mm low-attenuation liver lesion.  This is too small to characterize in
+     this study.
+     
+     6.  Two small splenic lesions, incompletely characterized on the current
+     study.
+     
+     These results were communicated to Dr. [**First Name (STitle) 11478**] at 6 p.m. on [**3461-2-19**].
+     
+
+",,
+8898,27562,11063,,3461-02-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-19**] 2:50 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11477**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lymphadenopathy; possible mets              
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 yo with lung nodules, ?malignancy                                            
+     REASON FOR THIS EXAMINATION:
+      please eval for lymphadenopathy; possible mets                                  
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Lung nodules, question malignancy.
+     
+     TECHNIQUE:  Multidetector CT images of the chest, abdomen, and pelvis were
+     obtained with oral and intravenous contrast.  150 cc of Optiray contrast were
+     administered.
+     
+     COMPARISON:  [**3461-2-9**] chest CTA.
+     
+     CHEST CT WITH IV CONTRAST:  There is a thrombus within the right internal
+     jugular vein and right brachiocephalic vein.  The left brachiocephalic vein
+     and left internal jugular vein are patent.  No thrombus is seen within the
+     superior vena cava.  No axillary lymphadenopathy is present.  There are
+     multiple enlarged mediastinal lymph nodes, with two lymph nodes immediately
+     below the aortic arch measuring 1.8 x 1.5 cm and 1.3 x 2.2 cm. There is an ill
+     defined irregular mass in the left suprahilar region, which is causing
+     compression of the upper lobe vessels as well as compression of the apical and
+     posterior left upper lobe segmental bronchi.  Persistent consolidation is seen
+     in the left upper lobe superiorly and posteriorly and is unchanged from the
+     prior study.
+     
+     There are innumerable bilateral pulmonary nodules, which do not appear
+     significantly changed from the prior study.  There is moderate-sized right
+     effusion and a small left effusion, both of which have increased in size in
+     comparison to the prior study.  The right lower lobe is collapsed and there
+     are irregular heterogeneous low-attenuation foci within the collapsed lobe,
+     likely due to metastatic foci.  There are patchy inspissated secretions in the
+     right lower lobe branches.
+     
+     ABDOMEN CT WITH IV CONTRAST:  An 8 mm x 8 mm low-attenuation focus is present
+     within the posterior right lobe of the liver, immediately adjacent to the IVC.
+       The gallbladder, pancreas, and adrenal glands are unremarkable.  Two low-
+     attenuation foci are present within the spleen.  These are not fully
+     characterized on this study.  The largest measures 1.4 cm in diameter.  The
+     kidneys are normal.  Scattered small paraaortic lymph nodes are present, none
+     of which meet criteria for pathologic enlargement.  The stomach, small bowel,
+     and large bowel are normal.  There is an inferior vena cava filter, with tip
+     at the level of the renal vein insertions.
+     
+     PELVIS CT WITH IV CONTRAST:  The distal ureters, rectum, and pelvic loops of
+                                                                 (Over)
+
+     DATE: [**3461-2-19**] 2:50 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11477**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: please eval for lymphadenopathy; possible mets              
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     bowel are unremarkable.  There is a Foley within the bladder.  A small amount
+     of free fluid is present within the pelvis consistent with mild ascites.
+     Bilateral femoral vein thrombi are present.
+     
+     The osseous structures reveal no suspicious lytic or sclerotic lesions.
+     Diffuse mild increased attenuation is seen within the subcutaneous fat,
+     consistent with diffuse edema.
+     
+     IMPRESSION:
+     
+     1.  Left suprahilar mass with post obstructive consolidation.  This is highly
+     concerning for a primary lung malignancy.  This is likely amenable to
+     bronchoscopic biopsy.
+     
+     2.  Mediastinal lymphadenopathy and innumerable pulmonary tiny nodules,
+     consistent with metastatic disease.
+     
+     3.  Right internal jugular/brachiocephalic vein, right femoral vein, and left
+     femoral vein thrombi.
+     
+     4.  Subcutaneous edema, bilateral effusions, and mild ascites, consistent with
+     anasarca.
+     
+     5.  8-mm low-attenuation liver lesion.  This is too small to characterize in
+     this study.
+     
+     6.  Two small splenic lesions, incompletely characterized on the current
+     study.
+     
+     These results were communicated to Dr. [**First Name (STitle) 11478**] at 6 p.m. on [**3461-2-19**].
+     
+
+",,
+8898,27562,11063,0,3461-02-19 05:14:00 EST,3461-02-19 05:22:00 EST,1163,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+NEURO: Q2 HR NEURO CHECKS, FINGER TO FINGER, VISION, HICCUPS, ALL NEG. PT TO HEAD CT AT 2000. PT ALERT, OX3, MAE, FOLLWOING COMMANDS. PT DENIES ANY CHANGE IN MENTAL STATUS. 
+
+RESP: PT REMAINS ON 40% COOL NEB MASK W/ SATS 90-95%. LS COARSE, DIMINHSHED. PT C/O RIGHT PLEURTIC PAIN, MEDICATED W/ PRN MORPHINE X1. PT HAS A PRODUCTIVE COUGH. SPUTUM CONT TO BLOODY. 
+
+CV: HR 70-90'S NSR, SBP 90'S. TEAM TOLERATING MAPS GREATER THAN 50. AFEBRILE. PT STARTED ON HEPARIN GTT AT 700U/HR. PTT PENDING. RIGHT ARM AND BIL LEGS SWOLLEN, ELEVATED ON PILLOWS THROUGH OUT NIGHT. 
+
+GI/GU: ABD SOFT, +BS, NO BM. PT TOLERATING PO'S. FOLEY INTACT DRAINING CLEAR AMBER URINE. 
+
+ACCESS: PT HAS 2 PIC IN LEFT ARM. 
+
+DISPO: PT SPOKE WITH MEMBRERS OF TEAM. AWARE FOR PLAN. PT WILL HAVE REPEAT HEAD CT, CT OF ABD AND PELVIS TODAY. CONT TO MONITOR PTT, HEPARIN GTT. Q2HR NEURO CHECKS. PT'S FAMILY IN DURING EARLY EVENING. PT IS A FULL CODE. 
+",,
+8898,27562,11063,0,3461-02-19 17:37:00 EST,3461-02-19 17:41:00 EST,959,"N",69,"Nursing/Other","MICU NURSING PROGRESS NOTE.  0700-1900","
+MICU NURSING PROGRESS NOTE.  0700-1900
+     PLEASE SEE CAREVIEW FOR OBJECTIVE DATA.
+
+     Please see transfer note for subjective data.  Pan scan this pm, results pending.  Neuro checks every 2 hrs are unchanged, wnl at present with pupils 3mm and brisk.  Medicated for rt chest pain with mso4 4mg x 2 with good effect.  Plan is to call pt out to floor.  
+",,
+8898,27562,11063,,3461-02-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-20**] 11:06 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11479**]
+     Reason: assess for interval change, hemorrhagic transformation      
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with new cereballer stroke                                      
+     REASON FOR THIS EXAMINATION:
+      assess for interval change, hemorrhagic transformation                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cerebellar stroke.  Evaluate for interval change, hemorrhagic
+     transformation.
+     
+     TECHNIQUE:  Non-contrast CT of the head was performed, compared to yesterday's
+     CT.
+     
+     FINDINGS:
+     
+     There is no intracranial hemorrhage, mass effect, or shift of normally midline
+     structures.  Extra-axial spaces appear somewhat prominent for the patient's
+     age.  The focus of infarction seen on the prior MRI again is not seen on this
+     examination in the left cerebellum.  The [**Doctor Last Name 30**]-white matter differentiation
+     remains preserved.  Osseous and soft tissue structures are within normal
+     limits, aside from a large left nasal septal spur.
+     
+     IMPRESSION:  No appreciable interval change or evidence of hemorrhagic
+     transformation in comparison to either the CT of the head performed yesterday
+     or the examination performed the day before.
+                                                                           
+
+",,
+8898,27562,11063,0,3461-02-20 06:42:00 EST,3461-02-20 06:53:00 EST,1303,"N",69,"Nursing/Other","NPN  1900-0700","
+NPN  1900-0700
+Events:  Temp 100.9 po.  Pt pan cx at 0500.  Abx cont.  
+
+Neuro:  A&Ox3.  PERL at 3mm, bsk.  Q 2hr neuro signs negative.  mae with nl strength.  Cont to c/o L chest pain, med with morphine 4mg iv x2 c good relief.  Pt not wanting to turn due to pain.
+
+Resp:  Face mask at 40%, sats 93-99.  RR 19-25.  LS coarse/diminished esp on L.  Expectorating mod amt bloody sputum.  
+
+CV:  SBP 84/48 - 95/50.  HR 95-108, ns-st, no ectopy.  R arm swollen, elevated on pillows.  R neck site hematoma from line, heat applied.  Heparin gtt, now at 1000u/hr.  Bolused x2 with 1200 units heparin per protocol.  am chems pending.  
+
+GI:  Taking flds well.  Abd soft, +BS.  No stool this shift.  .  
+
+Gu:  Adequate u.o, clear, yellow urine.  Pt's fld balance slightly neg yest.
+
+Social:  No calls from family.
+
+Plan:  Monitor temp, f/u on cx.  ? if pt will go out today.  Needs bx of lymph nodes.  
+",,
+8898,27562,11063,0,3461-02-20 17:18:00 EST,3461-02-20 17:35:00 EST,379,"N",69,"Nursing/Other","MICU EAST NPN 0700-1900","
+MICU EAST NPN 0700-1900
+
+
+Please see flowsheet for further details..
+
+A&O x3. No noted neuro changes. To CT for serial head scan while on Heparin gtt. Plan for head CT qd x7 days. OOB-chair w/gd wt bearing. Tol well at present. Pre-med w/ 4mg MSO4 before CT scan as well as before moving to chair. Lidocaine patch started with improved relief of pain as pt was moving very little in bed d/t R chest/rib pain. Also recieved Tylenol x2 as adjunct to pain med. ? PT consult. 
+
+Heparin gtt remains subtherapeutic. Needs Ptt at 1930. He also needs 2 extra blue tops of blood for study to which pt has consented (leave at bedside). No noted bleeding. Hct stable.
+
+U.O.~100cc/hr. He is ~ 450cc neg since midnight. R arm as well as LEs appear less edematous.
+
+Afebrile. Maintaining gd O2sats on 50% CN. Continues to expectorate dark bloody sputum.
+
+Upset today about his pnd lymph node bx and his prognosis. He says he wants to ""fight it"" but is discocurage at how quickly he got this sick. Spoke w/social worker. Spirits much improved. He would like to speak with his PCP when available. Social worker e-mailed his PCP. 
+
+Sister has not been in yet but pt has had a few visitors and some phone calls.
+",,
+8898,27562,11063,,3461-02-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-21**] 4:28 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11481**]
+     Reason: eval for pna                                                
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        51 year old man with PE and pulmonary nodules.  now w/ fever                  
+     REASON FOR THIS EXAMINATION:
+      eval for pna                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  PE and pulmonary nodules, now with fever.  Evaluate for
+     pneumonia.
+     
+     COMPARISON:  [**3461-2-18**].
+     
+     UPRIGHT AP CHEST:  This exam was performed at the bedside.  The right internal
+     jugular central venous catheter has been removed in the interim since the
+     prior exam.  Cardiac, mediastinal, and hilar contours are unchanged.  Moderate
+     sized right pleural effusion is unchanged.  No significant left pleural
+     effusion.  Opacity within the left upper lobe has become slightly more
+     confluent in the interim, suggesting pneumonia.  Asymmetric pulmonary edema is
+     lower on the differential diagnosis, especially given the patient's symptoms.
+     The right upper lung is clear.  No pneumothorax.  Osseous structures are
+     unchanged.  An inferior vena cava filter is noted.
+     
+     IMPRESSION:
+     1.  Left upper lobe opacity has become more confluent, consistent with
+     pneumonia.  Continued followup is recommended to ensure resolution.
+     2.  Persistent moderate right pleural effusion.
+
+",,
+8898,27562,11063,,3461-02-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-21**] 11:41 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11480**]
+     Reason: Assess for hemorrhagic transformation                       
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with cerebellar stroke, on heparin. Per neurosurgery, doing 
+      daily head CTs to assess for hemorrhagic transformation
+     REASON FOR THIS EXAMINATION:
+      Assess for hemorrhagic transformation                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     NON-CONTRAST HEAD CT SCAN
+     
+     HISTORY:  Followup study for cerebellar stroke.  On heparin.
+     
+     TECHNIQUE:  Non-contrast head CT scan.
+     
+     COMPARISON STUDY:  [**3461-2-20**], non-contrast head CT scan.
+     
+     FINDINGS:  There has been no change compared to the prior day's study.  There
+     is no new intracranial hemorrhage or development of a visible infarct.  There
+     are no other findings that have appeared since the previous study.
+     
+     CONCLUSION:  No interval change compared to the prior examination.
+                                                                           
+
+",,
+8898,27562,11063,0,3461-02-21 04:14:00 EST,3461-02-21 04:28:00 EST,5197,"N",69,"Nursing/Other",,"
+
+NARRATIVE NOTE:
+
+CV: B/P HAS RANGED FROM 82/57-119/55. B/P CHECKED Q4 HR AS PT IS A CALL OUT AND HAS PAIN IN HIS RIGHT ARM. NSR/ST WITH HR RANGING FROM 85-108, NO ECTOPY NOTED. AM MAG 1.6 REPLEATED WITH 2GM IV MG+ AND 800MG PO MG+. PPP VERY WEAK, WITH 2-3+ PEDAL EDEMA BIL. R ARM WITH 3+ EDEMA. HEPARIN INCREASED AT 2000 FROM 1070 UNITS TO 1220 UNITS WITH A BOLUS OF 1200 UNITS FOR A PTT OF 37.8. AT 0200 PTT 62.4 WITH NO CHANGE IN HEPARIN GTT. T-MAX 99.4
+
+RESP: LUNGS CLEAR BUT VERY DIM. AT 0200 PT DID COUGH UP LG AMT OF BROWNISH SPUTUM. AT HS PT CHANGED FROM N/C4L TO COOL NEB 40%. SAO2 92-99%. RR 19-39, SHALLOW WHEN AWAKE BUT MORE NORMAL WHEN ASLEEP. 
+
+NEURO: A&O X3. NO DEFICTS NOTED. PERL. PT DID RECEIVE OXYCODONE 5MG FOR LATERAL CHEST DISCOMFORT WITH GOOD EFFECT. PT IS TO HAVE HEAD CT QD X7DAYS.
+
+GU/GI: FOLEY CATH PATENT DRAINING CLEAR, DARK YELLOW URINE IN GOOD AMTS. BS+. APPETITE FAIR. PASSING FLATUS. REFUSED LACTULOSE.PLAN: KEEP MAPS >50 AS PT DOES RUN LOW B/P. PT IS CALLED OUT TO THE FLOOR. GET PT UP IN THE CHAIR AND ENC TO USE ARMS AND MOVE AS MUCH AS POSSIBLE. PT IS WAITING FOR LYMPH BX AND IS ANXIOUS ABOUT DX. PT WOULD LIKE TO SPEAK TO HIS PCP, [**Name10 (NameIs) **] WORKER DID E-MAIL PCP. 
+
+
+",,
+8898,27562,,,3461-02-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-22**] 9:00 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11482**]
+     Reason: CEREBELLAR STROKE,? BLEED
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with Hx of cerebellar stroke and is on Heparin gtt for PE.      
+     REASON FOR THIS EXAMINATION:
+      ? Bleed                                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of cerebellar stroke, on heparin.  Evaluate for
+     hemorrhage.
+     
+     TECHNIQUE:  Non-contrast CT of the head was compared to the examinations
+     performed over the last four days.
+     
+     FINDINGS:  No intracranial hemorrhage or change since examinations of 2/2,
+     [**2-20**], [**2-19**], or [**3461-2-18**].
+                                                                           
+
+",,
+8898,27562,,,3461-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-26**] 4:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11483**]
+     Reason: eval for ptx                                                
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         51 year old man s/p thoracentesis                                            
+     REASON FOR THIS EXAMINATION:
+      eval for ptx                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP single view of the chest has been obtained with the patient in semi-upright
+     position.  Analysis is performed in direct comparison with a similar preceding
+     study of [**3461-2-21**].  The previously described right-sided basal density
+     obliterating the right diaphragmatic contour and blunting the pleural sinus
+     remains rather unchanged.  No new parenchymal abnormalities can be identified.
+     Also the left upper lobe parenchymal densities are again seen, and may even
+     have increased slightly in extension.  There is no evidence of pneumothorax in
+     the apical region on either side.  The noninvolved pulmonary areas do not show
+     any vascular congestive pattern, nor is there evidence of cardiac enlargement.
+     
+     IMPRESSION:  Persistent right-sided pleural density, left upper lung field
+     densities with slight progression.  Further evaluation recommended.
+                                                                           
+
+",,
+8898,27562,,,3461-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-28**] 11:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11486**]
+     Reason: eval for reaccumulation                                     
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          51 year old man s/p thoracenteis on [**2-26**] w/ decreased bs.                    
+                       
+     REASON FOR THIS EXAMINATION:
+      eval for reaccumulation                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TYPE OF EXAMINATION:  Chest AP portable single view.
+     
+     INDICATION:  Status post thoracocentesis performed on [**2-26**] but now with
+     decreased breath sounds.  Evaluate for reaccumulation of fluid.
+     
+     FINDINGS:  AP single view obtained with the patient in semi-upright position
+     is analyzed in direct comparison with a similar preceding study of [**3461-2-26**].  The previously shown extensive parenchymal infiltrate in the left upper
+     lobe area has regressed slightly but significant densities persist.  The
+     previously seen right-sided pleural effusion which had regressed after
+     successful thoracocentesis.
+                                                                           
+
+",,
+8898,27562,,,3461-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-28**] 12:54 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 11487**]
+     Reason: eval for mets                                               
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: MAGNEVIST Amt: 11
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with non-small cell lung cancer                                 
+     REASON FOR THIS EXAMINATION:
+      eval for mets                                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN WITH AND WITHOUT CONTRAST
+     
+     CLINICAL HISTORY:  Nonsmall cell lung carcinoma.  Pulmonary emboli.
+     
+     TECHNIQUE:  Multiplanar pre- and post-contrast T1-weighted images, axial T2-
+     weighted, susceptibility FLAIR and diffusion-weighted images were obtained.
+     
+     FINDINGS:
+     
+     There are additional acute cerebellar infarcts superimposed upon the infarcts
+     seen on [**3461-2-17**].  There is involvement of portions of both PICA territories
+     with fairly extensive involvement of the inferior medial surface of the right
+     cerebellar hemisphere and the punctate area of restricted diffusion in the
+     inferior left cerebellar hemisphere.  The restricted diffusion associated with
+     the left anterior cerebellar infarct has faded since the prior study.  There
+     are bilateral wedge-shaped defects in the posterolateral cerebellar hemisphere
+     suggesting additional, older infarcts, unchanged.  No cerebral infarct is
+     seen.  There is no evidence of a mass or abnormal enhancement.  The ventricles
+     remain mildly prominent, without change.
+     
+     On the pre-contrast T1-weighted images, the C1 though C5 vertebral bodies are
+     visualized and there has been some loss of the fatty marrow seen on [**3457-8-18**]
+     which could be related to bony metastatic disease or red marrow.  The clivus
+     and calvarium are similarly involved.  The case was discussed with Dr. [**First Name (STitle) 11488**]
+     [**Name (STitle) 11489**] who is covering for Dr. [**First Name4 (NamePattern1) 1780**] [**Last Name (NamePattern1) 11490**], at 8:30 p.m. on [**2-28**].  He was
+     already aware of the findings.
+     
+     IMPRESSION:  There are acute posterior circulation infarcts, new since the
+     study of
+     [**2-17**]
+     
+
+",,
+8898,27562,,,3461-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-2-28**] 12:54 PM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 11487**]
+     Reason: eval for mets                                               
+     Admitting Diagnosis: SHORTNESS OF BREATH
+      Contrast: MAGNEVIST Amt: 11
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with non-small cell lung cancer                                 
+     REASON FOR THIS EXAMINATION:
+      eval for mets                                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN WITH AND WITHOUT CONTRAST
+     
+     CLINICAL HISTORY:  Nonsmall cell lung carcinoma.  Pulmonary emboli.
+     
+     TECHNIQUE:  Multiplanar pre- and post-contrast T1-weighted images, axial T2-
+     weighted, susceptibility FLAIR and diffusion-weighted images were obtained.
+     
+     FINDINGS:
+     
+     There are additional acute cerebellar infarcts superimposed upon the infarcts
+     seen on [**3461-2-17**].  There is involvement of portions of both PICA territories
+     with fairly extensive involvement of the inferior medial surface of the right
+     cerebellar hemisphere and the punctate area of restricted diffusion in the
+     inferior left cerebellar hemisphere.  The restricted diffusion associated with
+     the left anterior cerebellar infarct has faded since the prior study.  There
+     are bilateral wedge-shaped defects in the posterolateral cerebellar hemisphere
+     suggesting additional, older infarcts, unchanged.  No cerebral infarct is
+     seen.  There is no evidence of a mass or abnormal enhancement.  The ventricles
+     remain mildly prominent, without change.
+     
+     On the pre-contrast T1-weighted images, the C1 though C5 vertebral bodies are
+     visualized and there has been some loss of the fatty marrow seen on [**3457-8-18**]
+     which could be related to bony metastatic disease or red marrow.  The clivus
+     and calvarium are similarly involved.  The case was discussed with Dr. [**First Name (STitle) 11488**]
+     [**Name (STitle) 11489**] who is covering for Dr. [**First Name4 (NamePattern1) 1780**] [**Last Name (NamePattern1) 11490**], at 8:30 p.m. on [**2-28**].  He was
+     already aware of the findings.
+     
+     IMPRESSION:  There are acute posterior circulation infarcts, new since the
+     study of
+     [**2-17**]
+     
+
+",,
+8898,27562,,,3461-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 11484**]
+     Reason: NON-SMALL LUNG CANCER. EVAL FOR METS
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 51M with non-small cell lung cancer; staging 
+      
+     INTERPRETATION:   
+      
+     Whole body images of the skeleton were obtained in anterior and posterior  
+     projections. No abnormal foci of tracer uptake are seen to suggest metastases. 
+      
+     The kidneys and urinary bladder are visualized, the normal route of tracer
+     excretion. 
+      
+     IMPRESSION: No scintigraphic evidence of osseous metastatic disease. 
+                                                                           
+
+             [**First Name8 (NamePattern2) 9792**] [**Last Name (NamePattern1) 1275**], M.D.
+             [**Last Name (NamePattern5) 65**], M.D.          Approved: FRI [**3461-3-1**] 3:42 PM
+
+
+             Date Mailed: [**3461-3-4**]                     West [**Medical Record Number 11485**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8898,27562,,,3461-03-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-3-3**] 9:02 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 11491**]
+     Reason: r/o perforation                                             
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with HIV/AIDS, NSCLC now w/ actue llq abdominal pain - would 
+      like KUB to r/o perforation
+     REASON FOR THIS EXAMINATION:
+      r/o perforation                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old man with HIV, AIDS, nonsmall cell lung cancer.  Acute
+     left lower quadrant abdominal pain.
+     
+     TECHNIQUE:  Portable abdominal radiograph.
+     
+     COMPARISON:  Torso CT dated [**3461-2-19**], and abdominal CT dated [**3-3**], 2006.
+     
+     FINDINGS:  The bowel gas pattern is unremarkable, and there is no evidence of
+     free air.  Note is made of IVC filter.  In the visualized portion of the
+     chest, again note is made of right-sided pleural effusion.  There is an
+     airspace consolidation in the left upper lobe with underlying emphysema,
+     representing post-obstructive consolidation due to hilar mass noted on the
+     prior torso CT in this patient with lung cancer.
+     
+     IMPRESSION:  No evidence of free air on this plain film.  Unremarkable bowel
+     gas pattern.
+     
+     Right-sided pleural effusion and left upper lobe consolidation representing
+     post-obstructive opacity in this patient with lung cancer noted on the prior
+     CT scan.
+     
+     Please also refer to the official report of abdominal CT taken 2 hours after
+     the plain film.
+                                                                           
+
+",,
+8898,27562,,,3461-03-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-3-3**] 10:54 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 11492**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: would like to evaluate for pancreatitis vs. evidence of mese
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with HIV/AIDS, recent dx of lung cancer s/p 1st round chemo, 
+      multiple PE/DVT on coumadin now s/p IVC filter w/ acute onset of 
+      epigastric/peri-umbilical pain - would like abdominal CT w/ IV contrast (CTA) 
+      to eval for pancreatitis, vs evidence of mesenteric ischemia                    
+     REASON FOR THIS EXAMINATION:
+      would like to evaluate for pancreatitis vs. evidence of mesenteric ischemia     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old man with AIDS, recent diagnosis of lung cancer, status
+     post first round of chemotherapy, multiple PEs and DVTs, now on Coumadin with
+     acute onset epigastric and periumbilical pain.
+     
+     COMPARISON:  [**3461-2-19**].
+     
+     TECHNIQUE:  Mesenteric CTA of the abdomen and pelvis was performed, consisting
+     of a non-contrast sequence followed by an arterial phase and delayed phase
+     imaging.  Multiplanar reformatted images were obtained.
+     
+     CT ABDOMEN:  There are numerous pulmonary nodules at the lung bases.  They are
+     likely not significantly changed compared to the recent torso CT, but are more
+     apparent due to the decrease in size of pleural effusions.  Filling defects
+     are observed in the subsegmental right lower lobe pulmonary arteries
+     consistent with pulmonary emboli.  There is a small right pleural effusion,
+     which is decreased compared to recent examination.  The left pleural effusion
+     has resolved.  The liver, gallbladder, and pancreas are unremarkable.  There
+     has been interval development of perfusion defects involving most of the
+     spleen consistent with infarction.  The kidneys are overall stable in
+     appearance.  There are tiny bilateral low-attenuation foci, which may
+     represent cysts, but are too small to be fully characterized.  Small wedge-
+     shaped perfusion defects in the right kidney are consistent with prior
+     infarcts.  Within the limits of this noncontrast study, the bowel loops are
+     fluid filled and slightly hyperenhancing.  No definite wall thickening or
+     pneumatosis is identified.  There is a tiny amount of free air along the
+     infrainguinal, linea [**Female First Name (un) 11493**].  No significant free fluid is identified.
+     
+     There is mild narrowing at the origin of the celiac axis, but it is patent.
+     The superior mesenteric and inferior mesenteric arteries appear occluded at
+     their origins.  Although, the CT of [**3461-2-19**] was not optimized for
+     arterial evaluation, these findings appear to have been present on that exam.
+     There is reconstitution of the superior mesenteric and inferior mesenteric
+     territories.  An IVC filter is again observed.  There is a small amount of
+     thrombus captured within the filter.  Thrombus is observed in both common
+     femoral veins.
+     
+                                                                 (Over)
+
+     DATE: [**3461-3-3**] 10:54 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 11492**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: would like to evaluate for pancreatitis vs. evidence of mese
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT PELVIS:  The bladder is unremarkable.  Calcifications are again noted in
+     the prostate.  The sigmoid colon and rectum are unremarkable.  There is no
+     free fluid and no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION:
+     
+     1.  Tiny amount of intraperitoneal free air.  In the absence of recent
+     intraabdominal intervention, this finding is concerning for bowel perforation.
+     Within the limits of this study, no definite bowel abnormalities are
+     identified other than slight hyperenhancement.  No wall thickening,
+     pneumatosis or free fluid is identified.  However, the presence of superior
+     mesenteric and inferior mesenteric artery occlusion places this patient at
+     risk for mesenteric ischemia.  Close clinical follow up is recommended.
+     
+     2.  Interval infarction of the majority of the spleen.  The visualized splenic
+     artery is patent, suggesting an embolic phenomenon.
+     
+     3.  Right lower lobe subsegmental pulmonary embolism.  Small amount of
+     thrombus captured within the IVC filter.  Bilateral common femoral vein
+     thrombus.
+     
+     4.  Multiple pulmonary nodules at the lung bases.
+     
+     5.  Slight decrease in size of right pleural effusion.  Interval resolution of
+     left pleural effusion.
+     
+     6.  Small wedge-shaped perfusion defects in the right kidney suggestive of
+     prior infarcts.
+     
+     
+
+",,
+8898,27562,,,3461-03-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-3-3**] 10:54 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 11492**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: would like to evaluate for pancreatitis vs. evidence of mese
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with HIV/AIDS, recent dx of lung cancer s/p 1st round chemo, 
+      multiple PE/DVT on coumadin now s/p IVC filter w/ acute onset of 
+      epigastric/peri-umbilical pain - would like abdominal CT w/ IV contrast (CTA) 
+      to eval for pancreatitis, vs evidence of mesenteric ischemia                    
+     REASON FOR THIS EXAMINATION:
+      would like to evaluate for pancreatitis vs. evidence of mesenteric ischemia     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old man with AIDS, recent diagnosis of lung cancer, status
+     post first round of chemotherapy, multiple PEs and DVTs, now on Coumadin with
+     acute onset epigastric and periumbilical pain.
+     
+     COMPARISON:  [**3461-2-19**].
+     
+     TECHNIQUE:  Mesenteric CTA of the abdomen and pelvis was performed, consisting
+     of a non-contrast sequence followed by an arterial phase and delayed phase
+     imaging.  Multiplanar reformatted images were obtained.
+     
+     CT ABDOMEN:  There are numerous pulmonary nodules at the lung bases.  They are
+     likely not significantly changed compared to the recent torso CT, but are more
+     apparent due to the decrease in size of pleural effusions.  Filling defects
+     are observed in the subsegmental right lower lobe pulmonary arteries
+     consistent with pulmonary emboli.  There is a small right pleural effusion,
+     which is decreased compared to recent examination.  The left pleural effusion
+     has resolved.  The liver, gallbladder, and pancreas are unremarkable.  There
+     has been interval development of perfusion defects involving most of the
+     spleen consistent with infarction.  The kidneys are overall stable in
+     appearance.  There are tiny bilateral low-attenuation foci, which may
+     represent cysts, but are too small to be fully characterized.  Small wedge-
+     shaped perfusion defects in the right kidney are consistent with prior
+     infarcts.  Within the limits of this noncontrast study, the bowel loops are
+     fluid filled and slightly hyperenhancing.  No definite wall thickening or
+     pneumatosis is identified.  There is a tiny amount of free air along the
+     infrainguinal, linea [**Female First Name (un) 11493**].  No significant free fluid is identified.
+     
+     There is mild narrowing at the origin of the celiac axis, but it is patent.
+     The superior mesenteric and inferior mesenteric arteries appear occluded at
+     their origins.  Although, the CT of [**3461-2-19**] was not optimized for
+     arterial evaluation, these findings appear to have been present on that exam.
+     There is reconstitution of the superior mesenteric and inferior mesenteric
+     territories.  An IVC filter is again observed.  There is a small amount of
+     thrombus captured within the filter.  Thrombus is observed in both common
+     femoral veins.
+     
+                                                                 (Over)
+
+     DATE: [**3461-3-3**] 10:54 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 11492**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: would like to evaluate for pancreatitis vs. evidence of mese
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT PELVIS:  The bladder is unremarkable.  Calcifications are again noted in
+     the prostate.  The sigmoid colon and rectum are unremarkable.  There is no
+     free fluid and no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION:
+     
+     1.  Tiny amount of intraperitoneal free air.  In the absence of recent
+     intraabdominal intervention, this finding is concerning for bowel perforation.
+     Within the limits of this study, no definite bowel abnormalities are
+     identified other than slight hyperenhancement.  No wall thickening,
+     pneumatosis or free fluid is identified.  However, the presence of superior
+     mesenteric and inferior mesenteric artery occlusion places this patient at
+     risk for mesenteric ischemia.  Close clinical follow up is recommended.
+     
+     2.  Interval infarction of the majority of the spleen.  The visualized splenic
+     artery is patent, suggesting an embolic phenomenon.
+     
+     3.  Right lower lobe subsegmental pulmonary embolism.  Small amount of
+     thrombus captured within the IVC filter.  Bilateral common femoral vein
+     thrombus.
+     
+     4.  Multiple pulmonary nodules at the lung bases.
+     
+     5.  Slight decrease in size of right pleural effusion.  Interval resolution of
+     left pleural effusion.
+     
+     6.  Small wedge-shaped perfusion defects in the right kidney suggestive of
+     prior infarcts.
+     
+     
+
+",,
+8898,27562,,,3461-03-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-3-3**] 10:54 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 11492**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: would like to evaluate for pancreatitis vs. evidence of mese
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with HIV/AIDS, recent dx of lung cancer s/p 1st round chemo, 
+      multiple PE/DVT on coumadin now s/p IVC filter w/ acute onset of 
+      epigastric/peri-umbilical pain - would like abdominal CT w/ IV contrast (CTA) 
+      to eval for pancreatitis, vs evidence of mesenteric ischemia                    
+     REASON FOR THIS EXAMINATION:
+      would like to evaluate for pancreatitis vs. evidence of mesenteric ischemia     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  51-year-old man with AIDS, recent diagnosis of lung cancer, status
+     post first round of chemotherapy, multiple PEs and DVTs, now on Coumadin with
+     acute onset epigastric and periumbilical pain.
+     
+     COMPARISON:  [**3461-2-19**].
+     
+     TECHNIQUE:  Mesenteric CTA of the abdomen and pelvis was performed, consisting
+     of a non-contrast sequence followed by an arterial phase and delayed phase
+     imaging.  Multiplanar reformatted images were obtained.
+     
+     CT ABDOMEN:  There are numerous pulmonary nodules at the lung bases.  They are
+     likely not significantly changed compared to the recent torso CT, but are more
+     apparent due to the decrease in size of pleural effusions.  Filling defects
+     are observed in the subsegmental right lower lobe pulmonary arteries
+     consistent with pulmonary emboli.  There is a small right pleural effusion,
+     which is decreased compared to recent examination.  The left pleural effusion
+     has resolved.  The liver, gallbladder, and pancreas are unremarkable.  There
+     has been interval development of perfusion defects involving most of the
+     spleen consistent with infarction.  The kidneys are overall stable in
+     appearance.  There are tiny bilateral low-attenuation foci, which may
+     represent cysts, but are too small to be fully characterized.  Small wedge-
+     shaped perfusion defects in the right kidney are consistent with prior
+     infarcts.  Within the limits of this noncontrast study, the bowel loops are
+     fluid filled and slightly hyperenhancing.  No definite wall thickening or
+     pneumatosis is identified.  There is a tiny amount of free air along the
+     infrainguinal, linea [**Female First Name (un) 11493**].  No significant free fluid is identified.
+     
+     There is mild narrowing at the origin of the celiac axis, but it is patent.
+     The superior mesenteric and inferior mesenteric arteries appear occluded at
+     their origins.  Although, the CT of [**3461-2-19**] was not optimized for
+     arterial evaluation, these findings appear to have been present on that exam.
+     There is reconstitution of the superior mesenteric and inferior mesenteric
+     territories.  An IVC filter is again observed.  There is a small amount of
+     thrombus captured within the filter.  Thrombus is observed in both common
+     femoral veins.
+     
+                                                                 (Over)
+
+     DATE: [**3461-3-3**] 10:54 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 11492**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: would like to evaluate for pancreatitis vs. evidence of mese
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CT PELVIS:  The bladder is unremarkable.  Calcifications are again noted in
+     the prostate.  The sigmoid colon and rectum are unremarkable.  There is no
+     free fluid and no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic osseous lesions.
+     
+     IMPRESSION:
+     
+     1.  Tiny amount of intraperitoneal free air.  In the absence of recent
+     intraabdominal intervention, this finding is concerning for bowel perforation.
+     Within the limits of this study, no definite bowel abnormalities are
+     identified other than slight hyperenhancement.  No wall thickening,
+     pneumatosis or free fluid is identified.  However, the presence of superior
+     mesenteric and inferior mesenteric artery occlusion places this patient at
+     risk for mesenteric ischemia.  Close clinical follow up is recommended.
+     
+     2.  Interval infarction of the majority of the spleen.  The visualized splenic
+     artery is patent, suggesting an embolic phenomenon.
+     
+     3.  Right lower lobe subsegmental pulmonary embolism.  Small amount of
+     thrombus captured within the IVC filter.  Bilateral common femoral vein
+     thrombus.
+     
+     4.  Multiple pulmonary nodules at the lung bases.
+     
+     5.  Slight decrease in size of right pleural effusion.  Interval resolution of
+     left pleural effusion.
+     
+     6.  Small wedge-shaped perfusion defects in the right kidney suggestive of
+     prior infarcts.
+     
+     
+
+",,
+8898,27562,,,3461-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-3-6**] 2:37 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 11494**]
+     200CC NON IONIC CONTRAST SUPPLY
+     Reason: pt w/ multiple dvt/pe and newly infarcted spleen.  previous 
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 34 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with HIV/AIDS, recent dx of lung cancer s/p 1st round chemo,  
+      multiple PE/DVT on lovenox now s/p IVC filter w/ worsening abdominal pain    
+     REASON FOR THIS EXAMINATION:
+      pt w/ multiple dvt/pe and newly infarcted spleen.  previous abd CT w/ small 
+      amount of free air but exam fairly benign.  now pt w/ worsening abdominal pain 
+      and surgical abdomen.  please eval for acute mesenteric ischemia, perforation, 
+      and obstruction
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  HIV/AIDS, recent diagnosis of lung cancer, multiple DVTs, now
+     with worsening abdominal pain.
+     
+     TECHNIQUE:  Mesenteric CTA technique was used, along with delayed abdomen and
+     pelvis images.  Pre-contrast images were also obtained of the abdomen and
+     pelvis.  Coronal and sagittal reformatted images were obtained.  200 cc of
+     Optiray contrast were administered.
+     
+     COMPARISON:  [**3461-3-3**] abdomen and pelvis CT.
+     
+     MESENTERIC CTA:  Occlusion of the celiac trunk and superior mesenteric root
+     are noted.  Occlusion of the celiac trunk is new from the prior study.  There
+     is partial reconstitution of flow within the hepatic artery and a diminutive
+     splenic artery.  Partial reconstitution is also seen within a diminutive
+     superior mesenteric artery.  There is normal contrast opacification of the
+     right and left renal arteries.
+     
+     Delayed phase imaging reveals bilateral femoral DVTs and right iliac vein DVT.
+     No opacification is seen within the superior mesenteric vein.  Small caliber
+     opacified splenic vein and partially opacified small caliber portal vein are
+     present.  Thrombi are seen within several posterior right lower lobe pulmonary
+     arterial branches.
+     
+     ABDOMEN CT WITHOUT AND WITH IV CONTRAST:  Right lower lobe effusion is present
+     and there are multiple nodular opacities at the right lung base.  Right lower
+     lobe atelectasis is seen.  There is markedly abnormal liver attenuation with
+     hypoperfusion, which is new from the prior study.  Given the significant
+     vascular abnormalities as described above, this is concerning for evolving
+     infarcts. The pancreas is unremarkable.  The spleen is diffusely low
+     attenuation with minimal enhancement consistent with near total infarction.
+     Normal enhancement of the left kidney is seen.  A 1.5 cm wedge-shaped defect
+     is seen in the lower pole of the right kidney, likely consistent with an
+     infarct.  There is otherwise normal renal cortical enhancement.  There is no
+     hydronephrosis.  The bowel is diffusely abnormal, with moderate-to-severe
+     bowel dilatation.  This is new from the prior study.
+                                                                 (Over)
+
+     DATE: [**3461-3-6**] 2:37 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 11494**]
+     200CC NON IONIC CONTRAST SUPPLY
+     Reason: pt w/ multiple dvt/pe and newly infarcted spleen.  previous 
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 34 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     PELVIS CT WITHOUT AND WITH IV CONTRAST:  The distal ureters, and bladder are
+     unremarkable.  Multiple abnormal dilated loops of bowel are present within the
+     pelvis.
+     
+     The osseous structures are unremarkable.
+     
+     IMPRESSION:  Evidence of severe vascular compromise, with occluded celiac and
+     superior mesenteric artery origins and associated liver hypoperfusion, splenic
+     infarction, and evidence of bowel ischemic changes.
+     
+     These results were communicated to Dr. [**Last Name (STitle) 4183**] immediately following the
+     examination on [**3461-3-6**].
+     
+
+",,
+8898,27562,,,3461-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-3-6**] 2:37 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 11494**]
+     200CC NON IONIC CONTRAST SUPPLY
+     Reason: pt w/ multiple dvt/pe and newly infarcted spleen.  previous 
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 34 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with HIV/AIDS, recent dx of lung cancer s/p 1st round chemo,  
+      multiple PE/DVT on lovenox now s/p IVC filter w/ worsening abdominal pain    
+     REASON FOR THIS EXAMINATION:
+      pt w/ multiple dvt/pe and newly infarcted spleen.  previous abd CT w/ small 
+      amount of free air but exam fairly benign.  now pt w/ worsening abdominal pain 
+      and surgical abdomen.  please eval for acute mesenteric ischemia, perforation, 
+      and obstruction
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  HIV/AIDS, recent diagnosis of lung cancer, multiple DVTs, now
+     with worsening abdominal pain.
+     
+     TECHNIQUE:  Mesenteric CTA technique was used, along with delayed abdomen and
+     pelvis images.  Pre-contrast images were also obtained of the abdomen and
+     pelvis.  Coronal and sagittal reformatted images were obtained.  200 cc of
+     Optiray contrast were administered.
+     
+     COMPARISON:  [**3461-3-3**] abdomen and pelvis CT.
+     
+     MESENTERIC CTA:  Occlusion of the celiac trunk and superior mesenteric root
+     are noted.  Occlusion of the celiac trunk is new from the prior study.  There
+     is partial reconstitution of flow within the hepatic artery and a diminutive
+     splenic artery.  Partial reconstitution is also seen within a diminutive
+     superior mesenteric artery.  There is normal contrast opacification of the
+     right and left renal arteries.
+     
+     Delayed phase imaging reveals bilateral femoral DVTs and right iliac vein DVT.
+     No opacification is seen within the superior mesenteric vein.  Small caliber
+     opacified splenic vein and partially opacified small caliber portal vein are
+     present.  Thrombi are seen within several posterior right lower lobe pulmonary
+     arterial branches.
+     
+     ABDOMEN CT WITHOUT AND WITH IV CONTRAST:  Right lower lobe effusion is present
+     and there are multiple nodular opacities at the right lung base.  Right lower
+     lobe atelectasis is seen.  There is markedly abnormal liver attenuation with
+     hypoperfusion, which is new from the prior study.  Given the significant
+     vascular abnormalities as described above, this is concerning for evolving
+     infarcts. The pancreas is unremarkable.  The spleen is diffusely low
+     attenuation with minimal enhancement consistent with near total infarction.
+     Normal enhancement of the left kidney is seen.  A 1.5 cm wedge-shaped defect
+     is seen in the lower pole of the right kidney, likely consistent with an
+     infarct.  There is otherwise normal renal cortical enhancement.  There is no
+     hydronephrosis.  The bowel is diffusely abnormal, with moderate-to-severe
+     bowel dilatation.  This is new from the prior study.
+                                                                 (Over)
+
+     DATE: [**3461-3-6**] 2:37 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 11494**]
+     200CC NON IONIC CONTRAST SUPPLY
+     Reason: pt w/ multiple dvt/pe and newly infarcted spleen.  previous 
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 34 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     PELVIS CT WITHOUT AND WITH IV CONTRAST:  The distal ureters, and bladder are
+     unremarkable.  Multiple abnormal dilated loops of bowel are present within the
+     pelvis.
+     
+     The osseous structures are unremarkable.
+     
+     IMPRESSION:  Evidence of severe vascular compromise, with occluded celiac and
+     superior mesenteric artery origins and associated liver hypoperfusion, splenic
+     infarction, and evidence of bowel ischemic changes.
+     
+     These results were communicated to Dr. [**Last Name (STitle) 4183**] immediately following the
+     examination on [**3461-3-6**].
+     
+
+",,
+8898,27562,,,3461-03-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3461-3-6**] 2:37 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 11494**]
+     200CC NON IONIC CONTRAST SUPPLY
+     Reason: pt w/ multiple dvt/pe and newly infarcted spleen.  previous 
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 34 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       51 year old man with HIV/AIDS, recent dx of lung cancer s/p 1st round chemo,  
+      multiple PE/DVT on lovenox now s/p IVC filter w/ worsening abdominal pain    
+     REASON FOR THIS EXAMINATION:
+      pt w/ multiple dvt/pe and newly infarcted spleen.  previous abd CT w/ small 
+      amount of free air but exam fairly benign.  now pt w/ worsening abdominal pain 
+      and surgical abdomen.  please eval for acute mesenteric ischemia, perforation, 
+      and obstruction
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  HIV/AIDS, recent diagnosis of lung cancer, multiple DVTs, now
+     with worsening abdominal pain.
+     
+     TECHNIQUE:  Mesenteric CTA technique was used, along with delayed abdomen and
+     pelvis images.  Pre-contrast images were also obtained of the abdomen and
+     pelvis.  Coronal and sagittal reformatted images were obtained.  200 cc of
+     Optiray contrast were administered.
+     
+     COMPARISON:  [**3461-3-3**] abdomen and pelvis CT.
+     
+     MESENTERIC CTA:  Occlusion of the celiac trunk and superior mesenteric root
+     are noted.  Occlusion of the celiac trunk is new from the prior study.  There
+     is partial reconstitution of flow within the hepatic artery and a diminutive
+     splenic artery.  Partial reconstitution is also seen within a diminutive
+     superior mesenteric artery.  There is normal contrast opacification of the
+     right and left renal arteries.
+     
+     Delayed phase imaging reveals bilateral femoral DVTs and right iliac vein DVT.
+     No opacification is seen within the superior mesenteric vein.  Small caliber
+     opacified splenic vein and partially opacified small caliber portal vein are
+     present.  Thrombi are seen within several posterior right lower lobe pulmonary
+     arterial branches.
+     
+     ABDOMEN CT WITHOUT AND WITH IV CONTRAST:  Right lower lobe effusion is present
+     and there are multiple nodular opacities at the right lung base.  Right lower
+     lobe atelectasis is seen.  There is markedly abnormal liver attenuation with
+     hypoperfusion, which is new from the prior study.  Given the significant
+     vascular abnormalities as described above, this is concerning for evolving
+     infarcts. The pancreas is unremarkable.  The spleen is diffusely low
+     attenuation with minimal enhancement consistent with near total infarction.
+     Normal enhancement of the left kidney is seen.  A 1.5 cm wedge-shaped defect
+     is seen in the lower pole of the right kidney, likely consistent with an
+     infarct.  There is otherwise normal renal cortical enhancement.  There is no
+     hydronephrosis.  The bowel is diffusely abnormal, with moderate-to-severe
+     bowel dilatation.  This is new from the prior study.
+                                                                 (Over)
+
+     DATE: [**3461-3-6**] 2:37 PM
+     CTA ABD W&W/O C & RECONS; CTA PELVIS W&W/O C & RECONS           Clip # [**Clip Number (Radiology) 11494**]
+     200CC NON IONIC CONTRAST SUPPLY
+     Reason: pt w/ multiple dvt/pe and newly infarcted spleen.  previous 
+     Admitting Diagnosis: SHORTNESS OF BREATH
+     Field of view: 34 Contrast: OPTIRAY Amt: 200
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     PELVIS CT WITHOUT AND WITH IV CONTRAST:  The distal ureters, and bladder are
+     unremarkable.  Multiple abnormal dilated loops of bowel are present within the
+     pelvis.
+     
+     The osseous structures are unremarkable.
+     
+     IMPRESSION:  Evidence of severe vascular compromise, with occluded celiac and
+     superior mesenteric artery origins and associated liver hypoperfusion, splenic
+     infarction, and evidence of bowel ischemic changes.
+     
+     These results were communicated to Dr. [**Last Name (STitle) 4183**] immediately following the
+     examination on [**3461-3-6**].
+     
+
+",,

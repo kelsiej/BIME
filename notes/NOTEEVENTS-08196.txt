@@ -1,0 +1,2430 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8196,,,,2770-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-3-22**] 5:31 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5655**]
+     Reason: assess for acute cardiopulmonary process                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 YO M with dm, ESRD presents with mental status changes and emesis            
+     REASON FOR THIS EXAMINATION:
+      assess for acute cardiopulmonary process                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Chest x-ray PA and lateral views.
+     
+     INDICATION:  70-year-old male with end-stage renal disease presenting with
+     mental status changes and vomiting.  Assess for acute cardiopulmonary process.
+     
+     COMPARISONS:  [**2770-2-23**].
+     
+     FINDINGS:  Mild cardiomegaly is again present.  The mediastinal and hilar
+     contours are unremarkable.  The lungs are clear.  The pulmonary vascularity is
+     normal.  There are no pleural effusions.  A few clips are noted in the right
+     axillary space.  The soft tissues and osseous structures are otherwise
+     unremarkable.
+     
+     IMPRESSION:  No evidence of acute cardiopulmonary process.
+                                                                           
+
+",,
+8196,,,,2770-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-3-22**] 9:37 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 5656**]
+     Reason: r/o obstruction                                             
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with mental status changes, n/v                                 
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  70-year-old male with mental status change, nausea,
+     vomiting.  Rule out obstruction.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  Supine and upright views of the abdomen demonstrate abnormal bowel
+     gas within the central abdomen, which may represent sigmoid volvus. Fecal
+     matter and gas is seen within the asecending colon. No intra- abdominal free
+     air is detected.
+     
+     IMPRESSION:  Abdominal gas pattern suspicious for sigmoid volvulus. 
+
+",,
+8196,,,,2770-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-3-22**] 4:21 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5654**]
+     Reason: r/o bleed                                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man s/p BLA presents from home with change in mental status         
+     REASON FOR THIS EXAMINATION:
+      r/o bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AHPb SUN [**2770-3-22**] 5:45 PM
+      no hemorrhage or evidence for large infarct.  mr is more sensitive for
+      ischemia.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post BLA with change in mental status.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Non-contrast axial head CT.
+     
+     FINDINGS:  There is no evidence of hemorrhage.  The ventricles and sulci are
+     prominent secondary to atrophic change with periventricular hypodensities and
+     scattered lacunar infarcts.  The [**Doctor Last Name 30**]- white matter differentiation is
+     preserved.  There is no mass effect or shift of normally midline structures.
+     There is atherosclerotic calcification of the cavernous carotids.  There is
+     partial obstruction of the right ethmoid air cells. Mastoid air cells are
+     clear but asymmetrically aerated (left greater than right).
+     
+     IMPRESSION:  No evidence hemorrhage or infarction.
+
+",,
+8196,,,,2770-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-3-23**] 8:34 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 5657**]
+     Reason: please eval for volvulus                                    
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with constipation, change in mental status, acute on chri=onic 
+      renal failure constipation X 7 days, now with ? sigmoid volvulus.
+     REASON FOR THIS EXAMINATION:
+      please eval for volvulus                                                        
+     CONTRAINDICATIONS for IV CONTRAST:
+      Renal failure
+
+      Yes to Choyke questions.
+     ______________________________________________________________________________
+     WET READ: MAlb MON [**2770-3-23**] 9:09 PM
+      Stool-filled colon.  No evidence of sigmoid volvulus (long, redundant sigmoid
+      colon likley explains the radiographic appearance).  No bowel abnormalities.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  70-year-old man with constipation, change in mental status, for
+     evaluation for sigmoid volvulus.
+     
+     COMPARISON:  Abdominal radiograph from [**2770-3-22**].
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images were obtained from the lung
+     bases to the pubic symphysis with multiplanar reformatted images.
+     
+     CONTRAST:  Images were obtained with oral contrast only.  No intravenous
+     contrast was administered secondary to worsening renal function.
+     
+     CT OF THE ABDOMEN:  No pleural effusions, parenchymal consolidation, or
+     pulmonary nodules are identified at the lung bases.  Minimal dependent
+     atelectasis is seen bilaterally.  There are scattered coronary artery and
+     aortic root/valve calcifications.
+     
+     There is limited evaluation of solid organs without intravenous contrast.
+     Several coarse calcifications are seen within the liver and spleen from prior
+     granulomatous infection.  The remainder of the non-contrast enhanced liver and
+     spleen are normal in appearance.  The gallbladder is located in a ventral
+     position, but is otherwise normal in appearance. The adrenal glands are
+     normal. The pancreas is atrophic. Several densities are seen within the renal
+     hila bilaterally, which likely reflect vascular calcifications, though small
+     non- obstructing stones cannot be excluded.  There is heavy aortic
+     calcification, without any evidence of aneurysmal dilatation. There is a small
+     fat-containing umbilical hernia.
+     
+     No free air or free fluid is identified within the abdomen.  The bowel is
+     normal, without any evidence of bowel wall thickening or dilatation.
+     Specifically, the colon demonstrates normal caliber and contour throughout its
+     course.  There is no evidence of pericolonic stranding. There is a very long
+     redundant sigmoid colon, which likely explains the radiographic appearance.
+                                                                 (Over)
+
+     DATE: [**2770-3-23**] 8:34 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 5657**]
+     Reason: please eval for volvulus                                    
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     There is no evidence of volvulus.
+     
+     CT OF THE PELVIS:  The sigmoid colon and rectum are within normal limits,
+     though contain a lot of stool.  A Foley catheter is seen in the bladder, which
+     is decompressed.  No free fluid or pelvic lymphadenopathy seen.  The appendix
+     is normal in appearance.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+     Degenerative changes are seen throughout the visualized lumbar and lower
+     thoracic spine.
+     
+     CT RECONSTRUCTIONS:  Multiplanar reconstructions were essential in delineating
+     the anatomy and pathology.
+     
+     IMPRESSION:
+     1.  No evidence of sigmoid volvulus.  The colon demonstrates normal caliber
+     and wall thickness throughout its course.  There is a very long redundant
+     sigmoid colon, which may explain the radiographic appearance.
+     2.  Liver and splenic calcifications suggest prior granulomatous infection.
+     3.  Densities within the renal hila bilaterally likely represent vascular
+     calcifications, though small non-obstructing stones cannot be entirely
+     excluded.
+
+",,
+8196,,,,2770-03-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-3-23**] 8:34 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 5657**]
+     Reason: please eval for volvulus                                    
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with constipation, change in mental status, acute on chri=onic 
+      renal failure constipation X 7 days, now with ? sigmoid volvulus.
+     REASON FOR THIS EXAMINATION:
+      please eval for volvulus                                                        
+     CONTRAINDICATIONS for IV CONTRAST:
+      Renal failure
+
+      Yes to Choyke questions.
+     ______________________________________________________________________________
+     WET READ: MAlb MON [**2770-3-23**] 9:09 PM
+      Stool-filled colon.  No evidence of sigmoid volvulus (long, redundant sigmoid
+      colon likley explains the radiographic appearance).  No bowel abnormalities.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  70-year-old man with constipation, change in mental status, for
+     evaluation for sigmoid volvulus.
+     
+     COMPARISON:  Abdominal radiograph from [**2770-3-22**].
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images were obtained from the lung
+     bases to the pubic symphysis with multiplanar reformatted images.
+     
+     CONTRAST:  Images were obtained with oral contrast only.  No intravenous
+     contrast was administered secondary to worsening renal function.
+     
+     CT OF THE ABDOMEN:  No pleural effusions, parenchymal consolidation, or
+     pulmonary nodules are identified at the lung bases.  Minimal dependent
+     atelectasis is seen bilaterally.  There are scattered coronary artery and
+     aortic root/valve calcifications.
+     
+     There is limited evaluation of solid organs without intravenous contrast.
+     Several coarse calcifications are seen within the liver and spleen from prior
+     granulomatous infection.  The remainder of the non-contrast enhanced liver and
+     spleen are normal in appearance.  The gallbladder is located in a ventral
+     position, but is otherwise normal in appearance. The adrenal glands are
+     normal. The pancreas is atrophic. Several densities are seen within the renal
+     hila bilaterally, which likely reflect vascular calcifications, though small
+     non- obstructing stones cannot be excluded.  There is heavy aortic
+     calcification, without any evidence of aneurysmal dilatation. There is a small
+     fat-containing umbilical hernia.
+     
+     No free air or free fluid is identified within the abdomen.  The bowel is
+     normal, without any evidence of bowel wall thickening or dilatation.
+     Specifically, the colon demonstrates normal caliber and contour throughout its
+     course.  There is no evidence of pericolonic stranding. There is a very long
+     redundant sigmoid colon, which likely explains the radiographic appearance.
+                                                                 (Over)
+
+     DATE: [**2770-3-23**] 8:34 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 5657**]
+     Reason: please eval for volvulus                                    
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     Field of view: 36
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     There is no evidence of volvulus.
+     
+     CT OF THE PELVIS:  The sigmoid colon and rectum are within normal limits,
+     though contain a lot of stool.  A Foley catheter is seen in the bladder, which
+     is decompressed.  No free fluid or pelvic lymphadenopathy seen.  The appendix
+     is normal in appearance.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.
+     Degenerative changes are seen throughout the visualized lumbar and lower
+     thoracic spine.
+     
+     CT RECONSTRUCTIONS:  Multiplanar reconstructions were essential in delineating
+     the anatomy and pathology.
+     
+     IMPRESSION:
+     1.  No evidence of sigmoid volvulus.  The colon demonstrates normal caliber
+     and wall thickness throughout its course.  There is a very long redundant
+     sigmoid colon, which may explain the radiographic appearance.
+     2.  Liver and splenic calcifications suggest prior granulomatous infection.
+     3.  Densities within the renal hila bilaterally likely represent vascular
+     calcifications, though small non-obstructing stones cannot be entirely
+     excluded.
+
+",,
+8196,,,,2770-03-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-3-24**] 8:13 PM
+     MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5658**]
+     Reason: please rule out CVA                                         
+     Admitting Diagnosis: ALTERED MENTAL STATUS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with mental status changes                                      
+     REASON FOR THIS EXAMINATION:
+      please rule out CVA                                                             
+     ______________________________________________________________________________
+     WET READ: FBr TUE [**2770-3-24**] 11:48 PM
+      No evidence of acute stroke. the samll  lacunar area in the left frontal area
+      most likely represents an old lacunar infarct.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY: MR head. 
+     
+     INDICATION:  70-year-old man with mental status changes.  Assess for
+     infarction.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Multiplanar T1 and T2-weighted imaging was performed. Diffusion-
+     weighted and ADC mapping imaging was also performed.
+     
+     FINDINGS:  T2-weighted images demonstrate multiple foci of abnormal signal
+     within the cerebellum bilaterally, the pons, the basal ganglia bilaterally and
+     within the left subcortical frontal lobe all representative of chronic small
+     vessel infarction.  Diffusion-weighted imaging demonstrates no abnormal
+     signal.  There is also, no intracranial mass lesion, hydrocephalus, shift of
+     normally midline structures or again, major vascular territorial infarct.  The
+     signal intensity values of the brain parenchyma are within normal limits.  The
+     soft tissues and osseous structures are unremarkable.  The major flow patterns
+     are preserved.
+     
+     IMPRESSION:  No evidence of acute infarction.  Multiple foci representing
+     remote lacunar infarctions within the cerebellum, basal ganglia, pons and left
+     frontal subcortical white matter.
+
+",,
+8196,26718,,,2770-04-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2770-4-2**]              Discharge Date:   [**2770-4-30**]
+ 
+Date of Birth:  [**2699-8-27**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 8160**] 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+70M Cape-Verdean speaking with h/o DM, HTN, PVD s/p bilateral 
+BKA (Right [**2770-2-25**]) and ESRD s/p LUE fistula [**2770-3-6**], recent 
+admission for altered mental status presents with intermittent 
+CP and SOB x 3 days. The patient is a poor historian. He 
+describes the onset of palpitations 3 days ago, which on further 
+history reports as substernal chest pain. Denies any radiation, 
+SOB, nausea, or diaphoresis. The episode lasted 30-60 min and 
+resolved. He had repeat episodes yesterday and then today when 
+he was brought into the ED by his son. No cough, fever, chills, 
+SOB, HA, nausea/vomiting. Continues to make urine, perhaps 
+slightly increased amount recently but no dysuria.  
+.  
+Of note, the patient was recently admitted ([**Date range (1) 11311**]) for 
+altered mental status thought to be multifactorial from 
+medication confusion/noncompliance, severe hypertension at 
+presentation, and vomiting/minimal po intake; his confusion 
+improved prior to discharge. He also had bilious nausea/vomiting 
+with KUB and CT abdomen/pelvis negative for obstruction that 
+then resolved, hypertensive urgency, and isolated leukocytosis 
+(WBC 17) without obvious signs for infection and therefore not 
+treated.  
+.  
+In the ED, vitals: T 96.0 HR 84 BP 136/58 RR 16 SaO2 86 on RA -> 
+97% on 4.5L. Noted to be tachypnea intermittently to RR 32. ECG 
+nondiagnostic with LVH with repol changes, worsening ST 
+depressions laterally and positive troponin but normal CK. ABG 
+7.53/27/58; lactate 1.6; WBC 15.3; BNP[**MD Number 11312**]. CXR with ?left 
+infiltrate vs. pulmonary edema. Pt received Lasix 20mg IV, ASA 
+325mg, and Levaquin 500mg PO. He adamantly refused blood cxs 
+prior to antibiotics.  
+
+ 
+Past Medical History:
+Insulin dependent diabetes mellitus-nephropathy, neuropathy, 
+retinopathy  
+Hypertension  
+Peripheral Vascular disease  
+s/p bilateral BKA  
+Coronary artery disease  
+End stage renal disease  
+BPH  
+
+ 
+Social History:
+retired engineer, married, lives at home with wife. no tob, 
+etoh, ivdu
+
+ 
+Family History:
+noncontributory
+ 
+Physical Exam:
+T 97.7 HR 72 BP 118/71 RR 22 SaO2 93% on 4.5L  
+General: WDWN, +acc muscle use, speaks in full sentences  
+HEENT: PERRL, EOMi, anicteric sclera, conjunctivae pink  
+Neck: supple, trachea midline, no thyromegaly or masses, no LAD  
+
+Cardiac: RRR, s1s2 normal, no m/r/g, JVP ~12cm  
+Pulmonary: Bilateral crackles lower [**11-27**] lung fields with 
+decreased BS at the left base and dullness to percussion  
+Abdomen: +BS, soft, nontender, nondistended, no HSM  
+Extremities: warm, bilateral BKAs with stumps c/d/i (staples on 
+left), no edema apparent  
+Neuro: Alert, speech clear and logical, CNII-XII intact, moves 
+all extremities  
+
+ 
+Brief Hospital Course:
+70 y/o M with PMHx of DM, CRI, CAD, PVD s/p b/l BKA who was 
+initially admitted on [**2770-4-2**] for NSTEMI and CHF that was later 
+felt to be due to demand ischemia from CHF rather than plaque 
+rupture. While on the floor was refusing lab draws and 
+echocardiogram to assess resolution of NSTEMI. His hospital 
+course was then complicated by 2 embolic strokes on [**4-6**] (R 
+parietal and L frontal lesion) which caused him to become 
+aphasic and develop R sided weakness. He did not receive any 
+thrombolysis, and coumadin was held as felt risk on 
+anticoagulation outwayed the benefits. He has ESRD but not 
+getting dialysis yet as making urine, has a working fistula on R 
+arm. On [**4-12**] he was intubated and transfered to the ICU for 
+Urosepsis. He was treated with Meropenem, extubated, and 
+transfered out of the ICU and back to the medical floor. While 
+in the ICU a double lumen PICC was placed.  
+.  
+On the medical floor a PEG tube was placed and dispo planning 
+was in process until [**2770-4-25**] AM when he was found to be grunting 
+and coughing. At that time Lasix was given for fluid overload 
+and enzymes were cycled. His EKG showed suggestion of anterior 
+STEMI with no reciprocal changes, cardiology evaluated this and 
+felt it was most likely a NSTEMI. They felt that no further 
+intervention was warented. His troponin bumped to 1.49 and then 
+2.75 without an increase in his MB fraction. He was started on 
+Heparin for anticoagulation.  
+.  
+At 6:30 AM on [**2770-4-26**] a trigger was called for hypoxia and 
+tachypnia. Per the vitals sheet her O2 sat had dropped at 4:30AM 
+to 80s however he was due for transfusion which was started and 
+respiratory status worsened. The blood transfusion was stopped 
+and he was placed on 100% on shovel mask with sats recorded at 
+86%, he was then placed on NRB with sats up to 97%. He was given 
+100mg Lasix and 500mg Diurel. He was then transfered to FICU for 
+management of pulmonary edema.  
+.
+On the evening of [**2770-4-26**] he again developed acute respiratory 
+failure.  He was intubated.  A family meeting was held [**4-27**], and 
+the decision was made to make the patient DNR, and to not pursue 
+any further escalation of care (no pressors, no dialysis).  A 
+seconde family meeting was held on [**4-29**], and the decision was 
+made to make the patient comfort measures only.  He was 
+extubated in the evening of 6/6.  He died at 0600 on [**2770-4-30**].  
+His son, [**Doctor Last Name **], was contacted at the time of death.  
+
+ 
+Medications on Admission:
+ASA 325mg daily  
+Sodium citrate-citric acid 500-334 30ml tid  
+Sevelamer 800mg tid  
+Docusate 100mg bid  
+Senna 8.6mg bid  
+Lactulose 30ml tid  
+Lantus 7 units qhs  
+ISS  
+Amlodipine 10mg daily  
+Isosorbide dinitrate 40mg bid  
+Simvastatin 20mg daily  
+Lopressor 100mg bid  
+
+ 
+Discharge Medications:
+NA
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Primary:
+1. Diastolic Heart Failure.
+2. NSTEMI.
+3. Acute Embolic Left Frontal and Right Parietal Stroke.
+4. Acute Renal Failure
+
+Secondary:
+1. Chronic Kidney Disease Stage V.
+2. Peripheral Vascular Disease.
+3. Bilateral BKA.
+4. Diabetes Mellitus Type II.
+5. Peripheral Neuropathy.
+6. S/P LUE fistula [**2770-3-6**]
+
+ 
+Discharge Condition:
+NA
+ 
+Discharge Instructions:
+NA
+ 
+Followup Instructions:
+NA
+ 
+                             [**First Name11 (Name Pattern1) 15**] [**Last Name (NamePattern4) 8166**] MD [**MD Number 8167**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1703**] MD [**Last Name (un) 1704**] [**2770-4-30**] @ 0632
+Signed electronically by: DR. [**First Name4 (NamePattern1) 15**] [**Last Name (NamePattern1) 4972**]
+ on: [**Doctor First Name 46**] [**2770-4-30**] 6:25 PM
+(End of Report)
+
+
+",,
+8196,26718,,,2770-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-2**] 5:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5659**]
+     Reason: Please eval for infiltrate vs CHF.                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 YO M with dm, ESRD presents with acute SOB.                                 
+     REASON FOR THIS EXAMINATION:
+      Please eval for infiltrate vs CHF.                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  70-year-old man with end-stage renal disease and shortness of
+     breath.
+     
+     CHEST, UPRIGHT AP VIEW:  Comparison is made to prior films.  These include
+     [**2770-3-22**].
+     
+     The heart is enlarged.  There is marked pulmonary edema, with a predilection
+     for the right side, as well as moderately large pleural effusions.  There is
+     no pneumothorax.
+     
+     Repeat radiography following appropriate diuresis recommended to assess for
+     underlying infection.
+
+",,
+8196,26718,,,2770-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-2**] 5:34 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5660**]
+     Reason: Repeat, prior film was expatory.                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 YO M with dm, ESRD presents with acute SOB.                                
+       
+     REASON FOR THIS EXAMINATION:
+      Repeat, prior film was expatory.                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  70-year-old man with diabetes and end-stage renal disease, with
+     acute shortness of breath.
+     
+     CHEST, UPRIGHT:  Correlation to earlier films of the same day.  There is
+     persistent asymmetric edema and bilateral effusions.  The possibility of
+     pneumonia in the left lower lobe or marked atelectasis is also possible.  More
+     focal right lower lobe opacity is also concerning for pneumonia.
+     
+     IMPRESSION: Bibasilar opacities concerning for pneumonia. Also effusions and
+     mild pulmonary edema.
+
+",,
+8196,26718,,,2770-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-2**] 5:34 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5660**]
+     Reason: Repeat, prior film was expatory.                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 YO M with dm, ESRD presents with acute SOB.                                
+       
+     REASON FOR THIS EXAMINATION:
+      Repeat, prior film was expatory.                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  70-year-old man with diabetes and end-stage renal disease, with
+     acute shortness of breath.
+     
+     CHEST, UPRIGHT:  Correlation to earlier films of the same day.  There is
+     persistent asymmetric edema and bilateral effusions.  The possibility of
+     pneumonia in the left lower lobe or marked atelectasis is also possible.  More
+     focal right lower lobe opacity is also concerning for pneumonia.
+     
+     IMPRESSION: Bibasilar opacities concerning for pneumonia. Also effusions and
+     mild pulmonary edema.
+
+",,
+8196,26718,,,2770-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-6**] 1:30 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5661**]
+     Reason: evaluate for intracranial hemorrhage                        
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man previously on plavix, heparin, concern for acute stroke given 
+      MS change, inability to speak, RUE weakness
+     REASON FOR THIS EXAMINATION:
+      evaluate for intracranial hemorrhage                                            
+     CONTRAINDICATIONS for IV CONTRAST:
+      end stage renal disease not on HD
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Plavix.  Fall.  Mental status changes.  Inability to speak. Right
+     upper extremity weakness.
+     
+     TECHNIQUE:  A non-contrast head CT was performed.
+     
+     FINDINGS:  There is no intracranial hemorrhage.  There is no midline shift,
+     mass effect or hydrocephalus.  There are periventricular white matter
+     hypodensities, most consistent with chronic microvascular ischemic changes.
+     More wedge-like region of hypodensity in the region of the right parietal lobe
+     is felt to represent a subacute infarct.  A small, more subtle area of
+     hypodensity is noted in the left frontal lobe.  This could represent a more
+     acute infarct.  Dr. [**Last Name (STitle) 3499**] was contacted with these findings at the time of
+     dictation. MRI is recommended if further evaluation is clinically warranted.
+     
+     There is no intracranial hemorrhage.
+     
+     No fractures are noted.
+     
+     IMPRESSION:  
+     
+     Subacute infarct in the right parietal lobe.  There is also a subtle hypodense
+     region in the posterior left frontal lobe, which could be better evaluated at
+     that time also, as it may indicate an early infarct.
+     
+     Dr. [**Last Name (STitle) 3499**] was contacted with these findings at the time of dictation.
+     
+     
+     
+     
+     
+     
+
+",,
+8196,26718,,,2770-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-6**] 6:12 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 5662**]
+     Reason: evaluate for stroke, specifically left MCA distribution     
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with end stage renal disease, coronary artery disease, 
+      peripheral vascular disease, concern for left MCA stroke given inability to 
+      speak, RUE weakness
+     REASON FOR THIS EXAMINATION:
+      evaluate for stroke, specifically left MCA distribution                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ROUTINE MRI OF THE BRAIN WITHOUT GADOLINIUM.  ROUTINE MRA USING 3D TIME-OF-
+     FLIGHT TECHNIQUE.
+     
+     HISTORY:  End-stage renal disease, coronary artery disease with focal
+     neurological symptoms, concern for left MCA stroke.  
+     
+     Comparison is made with previous CT from the same day and previous MRI from
+     [**2770-3-24**].
+     
+     FINDINGS:
+     
+     The study is markedly motion degraded.  There are extensive small vessel
+     ischemic sequelae in the subcortical and periventricular white matter.
+     
+     There are foci of acute ischemia in the right parietal and left frontal lobes.
+     Old bilateral cerebellar infarcts are seen.  There is small vessel ischemic
+     sequela and lacunes in the pons.  Intracranial flow voids are maintained.
+     
+     There is mucosal thickening in the right ethmoid sinus.
+     
+     There is prominence of ventricles and sulci compatible with age appropriate
+     volume loss, which is unchanged.
+     
+     The MRA is nondiagnostic.  On the source images of the MRA, no large
+     discontinuity of flow is seen.
+     
+     IMPRESSION:
+     
+     Acute infarctions in the right parietal and left frontal lobes.
+     
+     MRA is nondiagnostic.  
+     
+     The results were conveyed to the CCC dashboard at the time of resident
+     interpretation with which I concur.
+     
+                                                                 (Over)
+
+     DATE: [**2770-4-6**] 6:12 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 5662**]
+     Reason: evaluate for stroke, specifically left MCA distribution     
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8196,26718,,,2770-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-6**] 6:12 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 5662**]
+     Reason: evaluate for stroke, specifically left MCA distribution     
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with end stage renal disease, coronary artery disease, 
+      peripheral vascular disease, concern for left MCA stroke given inability to 
+      speak, RUE weakness
+     REASON FOR THIS EXAMINATION:
+      evaluate for stroke, specifically left MCA distribution                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ROUTINE MRI OF THE BRAIN WITHOUT GADOLINIUM.  ROUTINE MRA USING 3D TIME-OF-
+     FLIGHT TECHNIQUE.
+     
+     HISTORY:  End-stage renal disease, coronary artery disease with focal
+     neurological symptoms, concern for left MCA stroke.  
+     
+     Comparison is made with previous CT from the same day and previous MRI from
+     [**2770-3-24**].
+     
+     FINDINGS:
+     
+     The study is markedly motion degraded.  There are extensive small vessel
+     ischemic sequelae in the subcortical and periventricular white matter.
+     
+     There are foci of acute ischemia in the right parietal and left frontal lobes.
+     Old bilateral cerebellar infarcts are seen.  There is small vessel ischemic
+     sequela and lacunes in the pons.  Intracranial flow voids are maintained.
+     
+     There is mucosal thickening in the right ethmoid sinus.
+     
+     There is prominence of ventricles and sulci compatible with age appropriate
+     volume loss, which is unchanged.
+     
+     The MRA is nondiagnostic.  On the source images of the MRA, no large
+     discontinuity of flow is seen.
+     
+     IMPRESSION:
+     
+     Acute infarctions in the right parietal and left frontal lobes.
+     
+     MRA is nondiagnostic.  
+     
+     The results were conveyed to the CCC dashboard at the time of resident
+     interpretation with which I concur.
+     
+                                                                 (Over)
+
+     DATE: [**2770-4-6**] 6:12 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 5662**]
+     Reason: evaluate for stroke, specifically left MCA distribution     
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8196,26718,,,2770-04-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-7**] 9:16 AM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 5663**]
+     Reason: STROKE, CHF
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70M h/o PVD, DM, CAD presented with decompensated CHF and demand ischemia, now 
+      with concern for CVA
+     REASON FOR THIS EXAMINATION:
+      eval for carotid disease                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CAROTID SERIES COMPLETE.
+     
+     REASON:  Stroke.
+     
+     FINDINGS:  Duplex evaluation was performed of both carotid arteries.  Minimal
+     plaque is identified.
+     
+     On the right, peak systolic velocities are 100, 112, 109 in the ICA, CCA, ECA
+     respectively.  The ICA/CCA ratio is 0.9.  This is consistent with less than
+     40% stenosis.
+     
+     On the left, peak systolic velocities are 90, 99, 106 in the ICA, CCA, and ECA
+     respectively.  The ICA/CCA ratio is 0.9.  This is consistent with less than
+     40% stenosis.  Antegrade flow in both vertebral arteries.
+     
+     Although there are no elevated velocities in the carotid artery, both sides
+     show diminished diastolic flow, especially on the left.  This may be
+     consistent with intracranial carotid disease.
+     
+     IMPRESSION:  Minimal plaque with bilateral less than 40% cervical internal
+     carotid artery stenosis.  However, waveforms as described above may indicate
+     more distal intracranial carotid disease.  Clinical correlation and potential
+     further evaluation is warranted.
+                                                                           
+
+",,
+8196,26718,,,2770-04-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-9**] 1:13 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5664**]
+     Reason: evaluate for NG tube placement                              
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         70 YO M with dm, ESRD, PVD, s/p embolic stroke s/p NG tube placement         
+     REASON FOR THIS EXAMINATION:
+      evaluate for NG tube placement                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, AP PORTABLE SINGLE VIEW
+     
+     INDICATION:  Diabetes, end-stage renal disease, and peripheral vessel disease,
+     status post embolic stroke and NG tube placement.  Evaluate tube position.
+     
+     FINDINGS:  AP single view of the chest has been obtained with patient in
+     semi-upright position and is analyzed in direct comparison with a similar
+     study dated [**2770-4-2**].  During the interval, an NG tube has been placed,
+     seen to reach far below the diaphragm pointing to the left within the fundus
+     of the stomach.  Also the sideport has reached below the diaphragm.  No
+     complication has occurred during the procedure.  The lungs remain clear.  The,
+     on previous examination, [**2770-4-2**], identified basal densities including
+     pleural effusion and parenchymal infiltrates have normalized.
+     
+     IMPRESSION:  Uncomplicated placement of NG tube.
+                                                                           
+
+",,
+8196,26718,,,2770-04-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-11**] 11:32 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5665**]
+     Reason: eval for infiltrate, edema                                  
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 YO M with dm, ESRD, PVD, s/p embolic stroke now with fever, tachypnea        
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate, edema                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     `HISTORY:  End-stage renal disease for stroke now with fever and tachypnea.
+     
+     COMPARISON:  [**2770-4-9**].
+     
+     PORTABLE CHEST RADIOGRAPH:  The heart size is within normal limits.  The
+     mediastinal and hilar contours are normal in appearance.  The lungs are clear
+     without focal consolidations or pleural effusions.  There is an NG tube with
+     its tip in the stomach in satisfactory position.
+     
+     IMPRESSION:  No pneumonia or CHF.
+
+",,
+8196,26718,,,2770-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-12**] 6:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5666**]
+     Reason: eval for pneumonia                                          
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 YO M with dm, ESRD, PVD, s/p embolic stroke now with fever, tachypnea and 
+      increasing 02 req
+     REASON FOR THIS EXAMINATION:
+      eval for pneumonia                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST, [**2770-4-12**], AT 07:07 HOURS.
+     
+     HISTORY:  Multiple medical problems with fever and tachypnea.
+     
+     COMPARISON:  Multiple priors, the most recent dated [**2770-4-11**].
+     
+     FINDINGS:  Motion degrades the diagnostic quality of the current examination. 
+     No gross consolidation or superimposed edema is noted.  Nasogastric tube is
+     evident stable in course and position.  There may be a small left pleural
+     effusion.  No pneumothorax is definitely identified.
+     
+     IMPRESSION:  Marginal quality secondary to respiratory motion.  No gross
+     consolidation seen.
+                                                                           
+
+",,
+8196,26718,,,2770-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-12**] 1:28 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5668**]
+     Reason: Please re-evaluate for new strokes.                         
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with recent b/l strokes, now with altered mental status, now 
+      s/p code.
+     REASON FOR THIS EXAMINATION:
+      Please re-evaluate for new strokes.                                             
+     CONTRAINDICATIONS for IV CONTRAST:
+      renal failure
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recent bilateral strokes with altered mental status post code.
+     
+     COMPARISON:  [**2770-4-6**], CT and MR.
+     
+     TECHNIQUE:  Non-contrast axial CT images of the head were obtained at 5-mm
+     section thickness.
+     
+     NON-CONTRAST CT HEAD:  No hemorrhage, shift of normally midline structures is
+     apparent.  Evolving  right posterior parietal and left frontal infarcts are
+     observed.  Again, unchanged periventricular white matter hypodensities
+     consistent with chronic microvascular infarction.  Mild ethmoid sinus mucosal
+     thickening is noted.  Mastoid air cells appear well aerated.
+     
+     IMPRESSION:
+     1.  No evidence of hemorrhage.
+     2.  Evolving right parietal and left frontal infarcts.
+
+",,
+8196,26718,,,2770-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-12**] 9:18 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5667**]
+     Reason: STAT CXR-interval change                                    
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 YO M with dm, ESRD, PVD, s/p embolic stroke now with fever, tachypnea and  
+      increasing 02 req- apnic breathing
+     REASON FOR THIS EXAMINATION:
+      STAT CXR-interval change                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST [**2770-4-12**] AT 10:07 A.M.
+     
+     HISTORY:  Apneic breathing.
+     
+     COMPARISON:  Multiple priors, the most recent dated earlier the same day.
+     
+     FINDINGS:  The patient has been intubated in the interval, and the
+     endotracheal tube distal tip is approximately 6 cm from the carina. 
+     Nasogastric tube again remains in place.  Again there is minimal blurring of
+     the hemidiaphragms due to respiratory motion, although much improved
+     visualization of lung parenchyma is present on the current exam.  Overall, the
+     lungs are clear.  There is no consolidation or superimposed edema.  The
+     mediastinum is unremarkable.  The cardiac silhouette is within normal limits. 
+     No effusion or pneumothorax is seen.
+     
+     IMPRESSION:  Interval intubation as above.  For optimal placement, consider
+     advancing endotracheal tube 2 cm.
+                                                                           
+
+",,
+8196,26718,,,2770-04-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-12**] 9:18 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5667**]
+     Reason: STAT CXR-interval change                                    
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 YO M with dm, ESRD, PVD, s/p embolic stroke now with fever, tachypnea and  
+      increasing 02 req- apnic breathing
+     REASON FOR THIS EXAMINATION:
+      STAT CXR-interval change                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP PORTABLE CHEST [**2770-4-12**] AT 10:07 A.M.
+     
+     HISTORY:  Apneic breathing.
+     
+     COMPARISON:  Multiple priors, the most recent dated earlier the same day.
+     
+     FINDINGS:  The patient has been intubated in the interval, and the
+     endotracheal tube distal tip is approximately 6 cm from the carina. 
+     Nasogastric tube again remains in place.  Again there is minimal blurring of
+     the hemidiaphragms due to respiratory motion, although much improved
+     visualization of lung parenchyma is present on the current exam.  Overall, the
+     lungs are clear.  There is no consolidation or superimposed edema.  The
+     mediastinum is unremarkable.  The cardiac silhouette is within normal limits. 
+     No effusion or pneumothorax is seen.
+     
+     IMPRESSION:  Interval intubation as above.  For optimal placement, consider
+     advancing endotracheal tube 2 cm.
+                                                                           
+
+",,
+8196,26718,10193,0,2770-04-12 16:26:00 EST,2770-04-12 16:27:00 EST,7041,"N",53,"Nursing/Other","Resp Care","
+Resp Care
+Pt found unresponsive on F3, intubated and trans to unit.  Continues on CMV, traveled for head ct without incident.  Plan to continue with current tx.
+",,
+8196,26718,10193,0,2770-04-12 18:37:00 EST,2770-04-12 18:50:00 EST,7951,"N",53,"Nursing/Other","FOCUSED NURSING NOTE","
+FOCUSED NURSING NOTE
+Please see carevue flowsheet for furhter details
+
+NEURO:Intubated, propofol gtt for therapeutic ventilation and comfort. PERRL, 2-3mm. Moves all extremities (BKA) weakly when propofol lightened, strong cough/gag. Not following commands, pt speaks [**Country **] only. 
+
+RESP: ETT 22 lip, ventilated on CMV for metabolic acidosis- current settings .50/500/14/5, RR 26-28, SPO2 100%. Lungs coarse right lobe, clear on left. Suctioned for thick/yellow secretions, ?aspiration prior to transfer. copious oral secretions as well- 
+
+HEMODYNAMICS: Unresponsive, tachy and hypotensive trigger on [**Hospital Ward Name **] 3. Dopmaine/levo gtts  to sustain SBP>90. Dopamine titrated off by 1500 (pt became tachycardic just prior to successful wean- EKG confirms ST). Levophed at 0.3-0.5mcg/kg/min, ABP 95-130s/40s, goal MAP>60.  u.o. 20-30ml/hr. s/p 1500ml D5W w/ 1amp NaHCO3 to correct met acidosis/hypernatremia. Received 1LR in am. 
+
+ID: Tmax 100.1 oral. Pancx, loose brown stool with very foul odor- Cdiff pending. Vanco/Zosyn given as ordered. Urine cldy.
+
+GI/METABOLIC: NPO. NGT in place, intermittent LCS draining light brown fluid. Large amt stool output.Nutrition on hold today. Hyperglycemic to 316, insulin gtt titrated [**First Name8 (NamePattern2) 34**] [**Last Name (un) 30**] protocol, current glucose 133.  K+ 3.1, Ion Ca++ 1.06, Cr 5.1 (5.6) MICU team aware.
+
+SKIN INTEGRITY: Skin intact- fecal bag placed for volume of loose stool. Turn and repostion q2-3hr. 
+
+PSYCHOSOCIAL: Multiple family members at bedside, very concerned. Son served as spokesperson for language barrier of wife. Family updated on plan of care by RN and MICU team frequently.
+
+PLAN OF CARE: 
+
+
+
+
+
+
+",,
+8196,26718,10193,,2770-04-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-13**] 2:51 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5671**]
+     Reason: Pt had r sided picc line repositioned and needs new cxry to 
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         70 YO M with dm, ESRD, PVD, s/p embolic stroke who needs picc line for iv 
+      access,heparin and antibiotics.
+     REASON FOR THIS EXAMINATION:
+      Pt had r sided picc line repositioned and needs new cxry to confirm tip 
+      placement,please page [**Doctor First Name **] at [**Pager number 1320**] with wet read,thanks.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of PICC line placement.
+     
+     The right PICC line was  repositioned with its tip now terminating at least 1
+     cm below the cavoatrial junction at the level of eighth thoracic vertebra. The
+     NG tube tip is still terminating to proximal at the gastroesophageal junction.
+     The ETT tube position is also unchanged, 6.3 cm above the carina with neck
+     in partly flexed position, and might be advanced 2 cm for more standard
+     positioning. The left retrocardiac consolidation has been slightly improved.
+     These findings were discussed with the IV nurse at the time of dictation.
+
+",,
+8196,26718,10193,,2770-04-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-13**] 1:28 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5670**]
+     Reason: please check picc tip position. 46cm v-cath picc. please pag
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 YO M with dm, ESRD, PVD, s/p embolic stroke now with fever, s/p code with  
+       hypotension and hypoxia and intubated now s/p NGT re-advancement
+     REASON FOR THIS EXAMINATION:
+      please check picc tip position. 46cm v-cath picc. please page beeper #[**Pager number 1320**] 
+      with wet read asap. thanks.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of PICC line placement.
+     
+     Portable AP chest radiograph was reviewed.  The right PICC line continues into
+     the right internal jugular vein, going up with its tip terminating above the
+     upper limit of the chest film most likely within the skull.  The ET tube tip
+     is 6 cm above the carina but given the flexion of the neck, might be advanced
+     for at least 2 cm.  The NG tube tip terminates proximal at the cavoatrial
+     junction with the sidehole situated in the mid esophagus.  The left
+     retrocardiac consolidation is grossly unchanged.  No sizeable pleural effusion
+     is identified.
+
+",,
+8196,26718,10193,,2770-04-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-13**] 5:13 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5672**]
+     Reason: evaluate tube and line placement                            
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          70 YO M with dm, ESRD, PVD, s/p embolic stroke who needs picc line for iv  
+      access,heparin and antibiotics.
+     REASON FOR THIS EXAMINATION:
+      evaluate tube and line placement                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  70-year-old man with embolic stroke.  Please evaluate PICC line.
+     
+     Comparison is made to the prior study done one hour earlier.
+     
+     FINDINGS:  The endotracheal tube is in satisfactory position.  The NG tube
+     side port is projecting below the diaphragm.  Right-sided PICC line tip is
+     projecting at the level of the cavo- atrial junction.
+     
+     The heart, mediastinal and hilar contours are normal.  The lungs are clear
+     with no pleural effusion or pneumothorax.  Mild retrocardiac opacity might be
+     present, which is unchanged compared to prior study.
+     
+     IMPRESSION:
+     1.  Proper position of the lines with recent PICC line projecting at level of
+     cavo-atrial junction.
+     2.  The left retrocardiac opacity is unchanged and most likely
+     represents atelactasis.
+     
+
+",,
+8196,26718,10193,,2770-04-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-13**] 4:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5669**]
+     Reason: eval lines, tubes, infiltrates                              
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 YO M with dm, ESRD, PVD, s/p embolic stroke now with fever, s/p code with  
+      hypotension and hypoxia and intubated now s/p NGT re-advancement
+     REASON FOR THIS EXAMINATION:
+      eval lines, tubes, infiltrates                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 4:40 A.M., [**4-13**].  
+     
+     HISTORY:  Embolic stroke with fever, hypotension and hypoxia.  Readvance
+     tubes.
+     
+     IMPRESSION:  AP chest compared to [**4-9**] through 20:
+     
+     Lungs clear.  Heart size normal.  ET tube in standard placement.  Nasogastric
+     tube ends above the gastroesophageal junction would need to be advanced at
+     least 10 cm to move all the side ports into the stomach.  No pneumothorax or
+     pleural effusion.  Heart size normal.
+                                                                           
+
+",,
+8196,26718,10193,,2770-04-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-13**] 2:51 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5671**]
+     Reason: Pt had r sided picc line repositioned and needs new cxry to 
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         70 YO M with dm, ESRD, PVD, s/p embolic stroke who needs picc line for iv 
+      access,heparin and antibiotics.
+     REASON FOR THIS EXAMINATION:
+      Pt had r sided picc line repositioned and needs new cxry to confirm tip 
+      placement,please page [**Doctor First Name **] at [**Pager number 1320**] with wet read,thanks.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of PICC line placement.
+     
+     The right PICC line was  repositioned with its tip now terminating at least 1
+     cm below the cavoatrial junction at the level of eighth thoracic vertebra. The
+     NG tube tip is still terminating to proximal at the gastroesophageal junction.
+     The ETT tube position is also unchanged, 6.3 cm above the carina with neck
+     in partly flexed position, and might be advanced 2 cm for more standard
+     positioning. The left retrocardiac consolidation has been slightly improved.
+     These findings were discussed with the IV nurse at the time of dictation.
+
+",,
+8196,26718,10193,,2770-04-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-13**] 1:28 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5670**]
+     Reason: please check picc tip position. 46cm v-cath picc. please pag
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 YO M with dm, ESRD, PVD, s/p embolic stroke now with fever, s/p code with  
+       hypotension and hypoxia and intubated now s/p NGT re-advancement
+     REASON FOR THIS EXAMINATION:
+      please check picc tip position. 46cm v-cath picc. please page beeper #[**Pager number 1320**] 
+      with wet read asap. thanks.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of PICC line placement.
+     
+     Portable AP chest radiograph was reviewed.  The right PICC line continues into
+     the right internal jugular vein, going up with its tip terminating above the
+     upper limit of the chest film most likely within the skull.  The ET tube tip
+     is 6 cm above the carina but given the flexion of the neck, might be advanced
+     for at least 2 cm.  The NG tube tip terminates proximal at the cavoatrial
+     junction with the sidehole situated in the mid esophagus.  The left
+     retrocardiac consolidation is grossly unchanged.  No sizeable pleural effusion
+     is identified.
+
+",,
+8196,26718,10193,,2770-04-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-13**] 5:13 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5672**]
+     Reason: evaluate tube and line placement                            
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          70 YO M with dm, ESRD, PVD, s/p embolic stroke who needs picc line for iv  
+      access,heparin and antibiotics.
+     REASON FOR THIS EXAMINATION:
+      evaluate tube and line placement                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  70-year-old man with embolic stroke.  Please evaluate PICC line.
+     
+     Comparison is made to the prior study done one hour earlier.
+     
+     FINDINGS:  The endotracheal tube is in satisfactory position.  The NG tube
+     side port is projecting below the diaphragm.  Right-sided PICC line tip is
+     projecting at the level of the cavo- atrial junction.
+     
+     The heart, mediastinal and hilar contours are normal.  The lungs are clear
+     with no pleural effusion or pneumothorax.  Mild retrocardiac opacity might be
+     present, which is unchanged compared to prior study.
+     
+     IMPRESSION:
+     1.  Proper position of the lines with recent PICC line projecting at level of
+     cavo-atrial junction.
+     2.  The left retrocardiac opacity is unchanged and most likely
+     represents atelactasis.
+     
+
+",,
+8196,26718,10193,0,2770-04-13 01:23:00 EST,2770-04-13 01:38:00 EST,1007,"N",69,"Nursing/Other",,"
+
+NPN (SEE CAREVUE FOR SPECIFICS)
+AT BEGINNING OF THE SHIFT, PT BREATHING IN 30'S ON AC, ABG SHOWING ALKALOSIS WITH PCO2 OF 24. PT APPEARING UNCOMFORTABLE, GRIMACING WHEN MOVED. HR 110-115, SINUS TACH, HYPOTENSIVE WITH LEVO TITRATED UP TO .4 MCGS/KG/MIN. DR. [**Last Name (STitle) **] PAGED, DECISION MADE TO INCREASE PROPOFOL, FENTANYL PRN ORDERED FOR PAIN WITH EXCELLENT EFFECT. ABG IMPROVED, PT NOW BREATHING A FEW BREATHS ABOVE SET RATE, IS NOW SYNCHRONOUS WITH THE VENT. BP CONTINUED TO DROP WITH INCREASED SEDATION, HR REMAINED 115-120 DESPITE 50MCGS OF FENTANYL. 1 LITER OF LR GIVEN OVER AN HOUR WITH EXCELLENT EFFECT, HR CURRENTLY 80'S, NSR, BP STABLE WITH MAP ABOVE 60 AND ABLE TO TITRATE LEVO DOWN TO .2-.3 MCGS. RESIDENT SUGGESTING ADDITIONAL FLUID IF PT BECOMES TACHY ABOVE 110. 
+NO SPONTANEOUS MOVEMENT AT THIS TIME, NOW THAT PT IS MORE STABLE ON THE [**Last Name (LF) 84**], [**First Name3 (LF) **] DO DAILY WAKE UP THIS MORNING TO FULLY ASSESS NEURO STATUS. LUNGS CLEAR, O2 SAT 100%. ABD SOFT, + BS. CONTINUES TO HAVE LOOSE STOOL VIA FIB. LOW GRADE TEMPS, AWAITING CULTURE RESULTS.  
+",,
+8196,26718,10193,0,2770-04-13 02:46:00 EST,2770-04-13 02:49:00 EST,6644,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+
+ Pt continues on full ventilatory support. No changes made. B/S ess clear. Will continue to follow closely.
+",,
+8196,26718,10193,0,2770-04-13 13:03:00 EST,2770-04-13 13:24:00 EST,1016,"N",69,"Nursing/Other",,"
+
+MPM 0700-1500;
+EVENTS; WEANED LEVO  AND MAINTAINED SBP [**Last Name (un) 5495**] THAN 100.
+PROPOFOL OFF AT 0830 VERY SLOW TO AWAKEN  BEGINNING  TO GRIMACE WITH  WITH NOXIOUS STIMULI SOME MOVEMENT OF OF HEAD WITHDRAWS TO PAINFUL STIMULI IN LT ARM
+INSULIN GTT OFF AT 1130 AFTER BEING GIVEN LANTUS 5UNITS S/C AT 1130 AM.
+PICC PLACED IN RT ARM. CXR DONE AWAITING READ.
+NEURO ;OFF PROPOFOL AT 0830; DOES NOT OPEM EYES MOTHING TO VCOMMAND MN MOVEMENT OF LOWER LIMBS ON BED NO MOVEMENT OF RT ARM  WITHDRAWS TO NAILBED PRESS ON LT ARM.
+
+RESP; LUNGS CLEAR DIMINISHED AT BASES VENT CHANGED TO CPAP WITH PS 5 PEEP 5 ABG  WITH PCO2 25-26. TEAM AWARE. SUCTIONED FOR MOD AMOUNT OF YELLOW SECRETIONS.Q3 SATS 97-100% RR 22-28 TV 360-400 WITH REPEAT ABG PENDING.
+
+CVS; TMAX 100.1 PO NSR 75-83 ISO PACS NOTED BP 125-131/36 . LEVO OFF BY 1030 BP MAINTAINED.
+
+GU; PASSING 30-40 MLS/HR  100 MLS/HR LR/D5% CONTINUES.
+
+GI; BELLY SOFT HYPOACTIVE BS LOOSE BROWN STOOL VIA RECTAL BAG C-DIFF  SENT.
+
+ENDO; GIVEN GLARGINE 5 UNITS S/C AT 1130 AND INSULIN DRIP TURNED OFF AT 1330 BS 97-126.
+
+SOC; FAMILY INTO VISIT NO ONE  SPEAKING ENGLISH AT THIS POINT.
+
+A/P; MONITOR VENT  CHECK RSBI THIS AFTERNOON CONTINUE WITH NEURO OBS.
+FOLLOW UP ON CULTURES AFTER PICC PLACEMENT IS CONFIRMED D/C FEM LINE. PREPARE FOR TRANSFER TO [**Hospital Ward Name 274**] 4.
+
+
+",,
+8196,26718,10193,0,2770-04-13 16:01:00 EST,2770-04-13 16:03:00 EST,1077,"N",69,"Nursing/Other","resp. care","
+resp. care
+pt. transfered from [**Location 5496**] via resp. therapist, nurse, emt's. continued on cpap/ps 5/5 and 40% with tidal vols. 500 and rate 18.
+ett secure at 22cm with #8.0. vent alarms set. plan to continue 
+vent for a/w protection until pt. wakes up.
+",,
+8196,26718,10193,0,2770-04-13 19:18:00 EST,2770-04-13 19:39:00 EST,117,"N",69,"Nursing/Other","MICU NPN 5PM-11PM:","
+MICU NPN 5PM-11PM:
+Pt is 70y.o. male adm [**4-2**] with NSTEMI/CHF who has had two embolic strokes this admission. He was found unresponsive on [**4-12**] while on regular floor with temp 102.3 and required transfer to ICU intubated on pressors. Pt transferred to [**Hospital Ward Name **] 4 from SICU due to bed availability. Pt is MICU pt. Orders rewritten. Pt is off sedation, propofol off at 0830 today. Levophed has been off as well since early AM. Pt has been slow to wake but opens eyes spontaneously at this point and followed commands to squeeze his wife's hand during her visit. Family is aware of transfer and have been involved and updated.
+
+Cultures are growing resistent Klebsiella in urine and sputum. Pt put on isolation precautions as ordered. Antibiotics changed to meropenum/vanco.
+
+Neuro: Awake and alert alt w/ sleeping. Opens eyes to my voice. Moves left arm to midline and reaches for ETT. PEARL.
+
+CV: BP 130-170's/  HR 80's NSR. Skin cool and dry. Labs sent at 7PM are pnd. Calcium repletion will be given.
+
+Resp: Remains intubated on PSV 5/5 40%. Small to mod amts thick tan bloody secretions suctioned Q3hr. Sputum sent for culture.
+
+GI: Started on tube feeds at 10cc/hr full str Nutren Renal. Goal is 40cc/hr. Positve bowel sounds heard. Butt bag in place.
+
+GU: UO adequate via foley. BUN 118 and creat 5.1. Pt has left arm fistula in place but has not needed dialysis as of yet. Fistula has strong bruit.
+
+ID: afebrile on meropenum and vanco. A dose of vanco is ordered for this evening. WBC 18.0 Vanco level due with AML.
+
+Endo: Pt is on sliding scale insulin coverage QID and gets Lantus QD.
+
+IV: PICC inserted today and I took out the groin line which was in his left groin.
+
+Skin: Pt has bilateral BKA. Skin intact.
+
+Social: Pt speaks only portuguese. Wife was here with a friend who spoke English very well and helped explain everything to her. Pt's son [**Name (NI) 5497**] is spokesperson and speaks English well also.
+",,
+8196,26718,10193,,2770-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-14**] 6:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5673**]
+     Reason: intubated patient                                           
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           70 YO M with dm, ESRD, PVD, s/p embolic stroke who needs picc line for iv  
+       access,heparin and antibiotics.
+     REASON FOR THIS EXAMINATION:
+      intubated patient                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 5:31 A.M. [**4-14**]  
+     
+     HISTORY:  Embolic stroke.  PICC line.
+     
+     IMPRESSION:  AP chest compared to [**4-11**] through 21:
+     
+     Left lower lobe atelectasis persists.  Tip of the right PIC line is partially
+     obscured, but passes at least as far as the upper SVC.
+     
+     Tip of the ET tube at the upper margin of the clavicles is at least 6 cm from
+     the carina, with the chin partially flexed.  This is 3 cm above optimal
+     placement.  NG tube passes below the diaphragm and out of view.  Lungs grossly
+     clear.  Heart size normal.  No pneumothorax.
+                                                                           
+
+",,
+8196,26718,10193,0,2770-04-14 03:53:00 EST,2770-04-14 03:56:00 EST,7780,"N",69,"Nursing/Other","Respiratory CAre","
+Respiratory CAre
+Pt remains intubated on ventilatory support for airway protection. Tol PSV well all shift. BS occ. coarse clear with sx of thick tan secretions. Oxygenting well. AM RSBI 53. Mentation appears to be improving and plan is to wean to extubation later today.
+",,
+8196,26718,10193,0,2770-04-14 04:19:00 EST,2770-04-14 04:38:00 EST,5192,"N",69,"Nursing/Other","ficu nsg note: 19:00-7:00","
+ficu nsg note: 19:00-7:00
+this is a 70 y.o. man adm [**4-2**] with NSTEMI/CHF who had 2 embolic strokes this admission. he was found unresponsive on [**4-12**] while on the regular floor with temp 102.3 and required transfer to sicu intubated on pressors. pt transferred to [**Hospital Ward Name **] 4 when bed available as pt a micu pt. pt off sedation since 8:30am yesterday (was on propofol). has also been off levophed since yesterday am too. pt slow to wake but opens eyes to voice. awaiting possible extubation today if awake enough.
+
+neuro: very lethargic at beginning of shift with mental status improving t/o the shift. pt now opens eyes spontaneously, squeezing my hand with his l hand but otherwise not following commands. did grimace once requiring 25mcg fentanyl for pain with good effect. tries to move l hand toward ett when repositioned. bilat wrist restraints maintained for safety.
+
+cv: hr ranging 60s-80s sr with no ectopy noted. sbp ranging 120s-160s. am labs pending with vanco level drawn. 
+
+resp: lungs cta and diminshed at bases. suctioned for scant to small amts thick tan secretions. sp02 ranging 99-100% on psv .4, 5ps, 5 peep. RSBI  53. 
+
+gi/gu: abd soft, +bs, tolerated tf with no residual. tf stopped at 3am in anticipation of extubation this am [**Name8 (MD) 34**] md. [**First Name (Titles) **] [**Last Name (Titles) 4872**] draining adequate amts clear yellow urine. l arm fistula intact with +bruit, +thrill. fecal bag draining moderate amts brown liquid stool sent for cdiff spec. 
+
+id: t max 99.6 po. cultures are growing resistent Klebsiella in urine and sputum. pt maintained on isolation precautions as ordered. continues on iv meropenem/vanco. am vanco level pending.
+
+skin: bilat BKA. 
+
+endo: on ss insuin coverage QID. 
+
+social: speaks only portuguese. has a wife and a son [**Name (NI) 5497**]. son [**Name (NI) 5497**] is spokesperson and speaks english well. 
+
+plan: possible extubation later today if wakes up enough. monitor mental status.
+",,
+8196,26718,10193,0,2770-04-14 16:10:00 EST,2770-04-14 16:34:00 EST,1008,"N",69,"Nursing/Other","MICU/SICU NPN ICU day #3","
+MICU/SICU NPN ICU day #3
+Events: successfully extubated this AM
+
+S/O:
+
+Neuro: pt is lethargic, retracts to painful stimuli only, PERRL sluggish 4mm, nonpurposeful movements of LUE, no verbal communication
+
+Pulm: extubated, SpO2 93-98% RA, LS coarse with scattered rhonchi, nonproductive cough
+
+CV: HR 67-89 SR with occasional PVC's, BP 138-182/35-51, please see flowsheet for data
+
+Integ: C/W/D/I
+
+GI/GU: abd soft, NT/ND, BS present, hiccoughs, NGT in place, TF retarted at 10cc/h, Foley in place draining adequate amts yellow urine with yeast 
+
+Access: right radial art line day #3, right cephalic PICC day #2
+
+A:
+
+high risk for injury, trauma r/t immobility, altered mental status
+risk for infection r/t indwelling catheter, invasive lines
+high risk for aspiratation r/t altered mental status
+
+P:
+
+conintinue to monitor hemodynamic/respiratory status, aspiration precautions, slowly advance TF, speech and swallow eval, PT consult, continue post acute care planning
+",,
+8196,26718,10193,,2770-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-15**] 7:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5674**]
+     Reason: Presence of worsening airspace disease post intubation      
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            70 YO M with dm, ESRD, PVD, s/p embolic stroke who needs picc line for iv 
+         access,heparin and antibiotics.
+     REASON FOR THIS EXAMINATION:
+      Presence of worsening airspace disease post intubation                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE SEMI-UPRIGHT CHEST, 7:08 A.M, 5:23.
+     
+     INDICATION:  Worsening airspace disease post-intubation.
+     
+     FINDINGS:  Compared with [**2770-4-14**], the ETT has been removed.  The tip of the
+     NGT projects at the mid stomach level with its proximal sidehole near the GE
+     junction.  The tip of the right arm PICC line projects at the mid SVC level.
+     
+     There has been significant interval reexpansion of the retrocardiac
+     atelectasis.
+     
+     Allowing for some respiratory motion, the lungs are otherwise grossly clear.
+                                                                           
+
+",,
+8196,26718,10193,0,2770-04-15 01:58:00 EST,2770-04-15 02:22:00 EST,5192,"N",69,"Nursing/Other","ficu nsg note: 19:00-7:00","
+ficu nsg note: 19:00-7:00
+this is a 70 y.o. male adm [**4-2**] with NSTEMI/CHF who has had two embolic strokes this admission. He was found unresponsive on [**4-12**] while on a regular floor with temp 102.3 and required transfer to ICU intubated on pressors. pt transferred to [**Hospital Ward Name **] 4 from SICU due to bed availability as pt is a MICU pt. pt off sedation since 8:30 [**4-13**] (was on propofol). has also been off levophed since am of 5/21. extubated [**4-14**]. 
+
+neuro: alert most of shift with eyes open but not tracking. nonverbal. inconsistently squeezes with l hand, moves le's. no movement of rue. perrla 3mm sluggish to brisk. no evidence of discomfort.
+
+cv: hr ranging 60s-90s sr with one run of unsustained vtach. otherwise, no ectopy. bp ranging 140s-190s/40s-50s. pt given iv lopressor 5mg when sbp 190s without effect. given 10mg iv hydralazine x2 with some effect. started on norvasc 5mg pngt with good effect with sbp in 140s-160s. 
+
+resp: lungs with rhonchi t/o. sp02 91% at beginning of shift with pt coughing but not able to get sputum up requiring nts for moderate amts thick tan secretions with sat up to mid 90s. pt placed on 50% cool neb scoop mask with sat mid to upper 90s. also given cpt. no further desat. 
+
+gi/gu: abd soft, nt, +bs, ngt patent. feed stopped at beginning of shift when desated. free h20 also held. foley patent draining yellow urine with sediment with adequate amts. 
+
+skin: warm, dry and intact.
+
+social: portuguese speaking pt. family was visiting yesterday. has a wife and son. son [**Name (NI) 5497**] is spokesperson and speaks english well. 
+
+plan: continue to monitor mental status, continue metoprolol, hydralazine and norvasc and hold per parameters. keep map > or equal to 70 (currently 80s). maintain aspiration precautions, cpt, cool neb, suction prn, swallow eval-may need peg in near future. pt consult.
+",,
+8196,26718,10193,0,2770-04-15 16:32:00 EST,2770-04-15 16:45:00 EST,8179,"N",69,"Nursing/Other",,"
+
+Neuro: alert followsto commands intermittently when spoken with creol language, purpose movements, L arm normal in strength, lift and holds LLE, no movement R extremeties. puplis equally reactive, grimacing to pain, given tylenol 650 mgs per NGT; pateint able to [**Doctor Last Name 5**] intermittently
+
+CV: hydralazine 10mg IV given x 1 for SBP >180's, on lopressor and norvasc SBP goal 140's-160's MAP < 90 ( see careview for details ) SR without ectopy; edema both hands noted. 
+
+Respi: cough out moderate amount of tan colored secretions, lung sounds rhonchorous, sats >95% at room air
+
+GI: tube feeds restarted at 10cc/hr no residuals, free water q6hrs continued. tubefeeds dc'd at 1600 consistently hiccups. bowel sounds present, incontinent bag intact with brown liquid stool. plan for PEG insertion.
+
+GU: -200cc for LOS BUN and crea rising, renal following patient. Renal attending talked with family about dialysis where they consented however no dialysis is needed at this moment per renal. 
+
+ID: on contact precaution for Klebsiella growing urine and sputum, afebrile continues on meropenem 500mg q24hrs
+
+Access: Aline and double lumen PICC R arm; AV fistula [**Last Name (un) **]
+
+Social: patient's wife stayed for visit, needs interpreter. team reviewed advance directive again with wife, full code. 
+",,
+8196,26718,,,2770-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-16**] 7:40 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5676**]
+     Reason: location of tip of picc line                                
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             70 YO M with dm, ESRD, PVD, s/p embolic stroke who needs picc line for 
+      iv     access,heparin and antibiotics.
+     REASON FOR THIS EXAMINATION:
+      location of tip of picc line                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  70-year-old man with recent PICC placement.
+     
+     Comparison is made to the prior study done on [**2770-4-15**].
+     
+     The heart, mediastinal and hilar contours are normal.  The lungs are clear.
+     The right-sided PICC tip projects at the level of mid SVC.  The NG tube side
+     port projects at the level of the diaphragm.
+     
+     IMPRESSION:
+     1.  Proper position of the right-sided PICC, with its tip projecting at the
+     level of mid SVC.
+     2.  Stable radiographs of the chest with no evidence of acute cardiopulmonary
+     process.
+     3. NG tube side-port projects at the level of the GE junction, and needs to be
+     advanced.
+     
+
+",,
+8196,26718,,,2770-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-16**] 10:42 AM
+     UNILAT UP EXT VEINS US LEFT                                     Clip # [**Clip Number (Radiology) 5675**]
+     Reason: please evaluate LUE for clot in fistula or DVT              
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       70 year old man with ESRD, with recent acute embolic CVA, with maturing LUE 
+      fistula and LUE swelling.                    
+     REASON FOR THIS EXAMINATION:
+      please evaluate LUE for clot in fistula or DVT                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recent acute embolic stroke.  Please evaluate left upper
+     extremity and fistula.
+     
+     COMPARISON:  [**2770-3-2**].
+     
+     FINDINGS:  Limited evaluation of the left upper extremity and fistula was
+     performed only for the evaluation of clot. Grayscale and color Doppler images
+     of the left internal jugular, subclavian, axillary, and brachial veins were
+     performed as was as images of the fistula. The left basilic vein was not well
+     identified. Allowing for the fistula, compressibility, flow and augmentation
+     are within normal limits. No intraluminal thrombus is identified.
+     
+     IMPRESSION:  Left basilic vein not seen. No evidence of left upper extremity
+     thrombus or thrombus within the fistula. 
+
+",,
+8196,26718,,,2770-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-17**] 12:04 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5677**]
+     Reason: hypoxic, please assess for pna, aspiration                  
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              70 YO M with dm, ESRD, PVD, s/p embolic stroke who needs picc line for  
+      iv     access,heparin and antibiotics.
+     REASON FOR THIS EXAMINATION:
+      hypoxic, please assess for pna, aspiration                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypoxia.
+     
+     CHEST, ONE VIEW:  Comparison with examination of same day, 18:39 p.m.  Motion
+     blurs this image.  The nasogastric tube is seen with its tip in the stomach.
+     A Zoll pad terminates over the left hemithorax.  PICC tip is not well
+     identified, but can be seen coursing in the mid superior vena cava.  The lungs
+     appear clear on this limited examination. Cardiac, mediastinal, and hilar
+     contours are probably unchanged. No pneumothorax is identified.
+
+",,
+8196,26718,,,2770-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-17**] 5:19 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5679**]
+     Reason: evaluate Dopoff NG placement                                
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               70 YO M with dm, ESRD, PVD, s/p embolic stroke s/p NG Dopoff 
+      placement.
+     REASON FOR THIS EXAMINATION:
+      evaluate Dopoff NG placement                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Evaluate NGT placement in 70-year-old man with end-stage renal
+     disease status post embolic stroke.
+     
+     Comparison is made to prior chest radiograph dated [**2770-4-16**].
+     
+     UPRIGHT PORTABLE CHEST RADIOGRAPH
+     
+     FINDINGS:
+     
+     A nasogastric tube is coiled within the gastric fundus.  Limited examination
+     of the lungs appears unremarkable.  A right-sided PICC catheter is seen
+     coursing through the right axilla.
+                                                                           
+
+",,
+8196,26718,,,2770-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-17**] 12:42 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5678**]
+     Reason: please assess for ICH or other pathology                    
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with recent massive CVA now with fever and altered mental 
+      status, ? ICH
+     REASON FOR THIS EXAMINATION:
+      please assess for ICH or other pathology                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of recent massive stroke, now with fever and altered
+     mental status, ? intracranial hemorrhage.
+     
+     COMPARISON:  CT scans dated [**2770-4-12**] and [**2770-4-6**] and MRI dated [**2770-4-6**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  Study is limited by motion.  The areas of infarction in the left
+     frontal and right parietal lobes are slightly more hypodense compared to the
+     previous study, consistent with continued evolution of infarction.  The
+     ventricles are stable in size and configuration.  There is no evidence of
+     acute intracranial hemorrhage.  There is opacification of right posterior
+     ethmoid air cells, also noted on the previous CT scan.
+     
+     IMPRESSION:  Continued evolution of left frontal and right parietal
+     infarction, with no evidence of hemorrhage.
+
+",,
+8196,26718,,,2770-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-17**] 5:19 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5679**]
+     Reason: evaluate Dopoff NG placement                                
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               70 YO M with dm, ESRD, PVD, s/p embolic stroke s/p NG Dopoff 
+      placement.
+     REASON FOR THIS EXAMINATION:
+      evaluate Dopoff NG placement                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Evaluate NGT placement in 70-year-old man with end-stage renal
+     disease status post embolic stroke.
+     
+     Comparison is made to prior chest radiograph dated [**2770-4-16**].
+     
+     UPRIGHT PORTABLE CHEST RADIOGRAPH
+     
+     FINDINGS:
+     
+     A nasogastric tube is coiled within the gastric fundus.  Limited examination
+     of the lungs appears unremarkable.  A right-sided PICC catheter is seen
+     coursing through the right axilla.
+                                                                           
+
+",,
+8196,26718,,,2770-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-18**] 1:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5680**]
+     Reason: evaluate Dopoff tube                                        
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                70 YO M with dm, ESRD, PVD, s/p embolic stroke s/p NG Dopoff  
+      placement.
+     REASON FOR THIS EXAMINATION:
+      evaluate Dopoff tube                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 1:23 P.M., [**4-18**]
+     
+     HISTORY:  End-stage renal and pulmonary vascular disease.  Check Dobbhoff tube
+     placement.
+     
+     IMPRESSION:  Feeding tube ends with the weighted tip traversing the
+     gastroesophageal junction.  Side ports are in the esophagus.  Heart size
+     normal.  Lungs clear.  No pneumothorax or mediastinal widening.  Tip of the
+     right PIC catheter projects over the junction of the brachiocephalic veins. No
+     pneumothorax or pleural effusion.  Healed fractures, posterior left middle
+     ribs.
+
+",,
+8196,26718,,,2770-04-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-19**] 5:01 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5681**]
+     Reason: eval Dopoff placement                                       
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                 70 YO M with dm, ESRD, PVD, s/p embolic stroke s/p NG Dopoff   
+      placement.
+     REASON FOR THIS EXAMINATION:
+      eval Dopoff placement                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAMINATION:  AP chest.
+     
+     INDICATION:  Dobbhoff placement.
+     
+     A single AP view of the chest was obtained [**2770-4-19**] at 17:10 hours and compared
+     with the prior radiograph performed the prior day.  The Dobbhoff tube has been
+     advanced and its tip now projects over the expected location of the gastric
+     body.  Minimal subsegmental atelectasis seen at the left base.  There is a
+     right-sided PICC line with its tip unchanged in position from the prior
+     examination and likely in the mid SVC.
+     
+     IMPRESSION:
+     
+     Further advancement of Dobbhoff tube with the tip in the gastric body.  It
+     still needs to be advanced for optimal placement.
+                                                                           
+
+",,
+8196,26718,,,2770-04-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-21**] 8:08 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5683**]
+     Reason: S/P CVA WITH INCREASING SOMNOLENCE.  ? BLEED.
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man s/p CVA with increasing somnolence                              
+     REASON FOR THIS EXAMINATION:
+      r/o bleed, assess prior noted evolving stroke                                   
+     CONTRAINDICATIONS for IV CONTRAST:
+      ARF
+     ______________________________________________________________________________
+     WET READ: DSsd WED [**2770-4-22**] 2:29 AM
+      No bleed or other acute process.  No significant interval change.  [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 3928**]
+      02:30, [**2770-4-22**].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT SCAN OF THE BRAIN WITHOUT INTRAVENOUS CONTRAST
+     
+     HISTORY:  Status post CVA with increasing somnolence.  Rule out intracranial
+     hemorrhage.
+     
+     TECHNIQUE:  Non-contrast head CT scan.
+     
+     PRELIMINARY REPORT:  ""No bleed or other acute process.  No significant
+     interval change.""  This report was issued by Dr. [**First Name8 (NamePattern2) 5064**] [**Last Name (NamePattern1) 3928**] at 2:30 a.m.,
+     on [**2770-4-22**].
+     
+     PRIOR REPORT:  ""Continued evolution of left frontal and right parietal
+     infarction, with no evidence of hemorrhage"", reported by Drs. [**Last Name (STitle) 5684**] and [**Name5 (PTitle) 322**]
+     on [**2770-4-17**].
+     
+     FINDINGS:  There has been no definite interval change in the appearance of the
+     brain compared to the prior study.  Specifically, the left frontal-temporal
+     and right temporal-parietal infarcts are redemonstrated, without evidence of
+     hemorrhagic transformation.  There is no other new intracranial abnormality
+     discerned.  There is continued demonstration of focal opacification by soft
+     tissue density of the most posterior right ethmoid sinus air cell, with a
+     slight amount of marginal sclerosis suggesting that the abnormality could be a
+     reflection of chronic inflammatory sinus disease in this locale.
+     
+     CONCLUSION:  No evidence of hemorrhagic transformation of previously
+     identified infarcts, as noted above.
+                                                                           
+
+",,
+8196,26718,,,2770-04-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-21**] 10:42 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5682**]
+     Reason: PLEASE GET LOW XRAY TO INCLUDE ABDOMEN FOR ASSESSMENT OF DOB
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man s/p CVA w/ Dobhoff in place                                     
+     REASON FOR THIS EXAMINATION:
+      PLEASE GET LOW XRAY TO INCLUDE ABDOMEN FOR ASSESSMENT OF DOBHOFF PLACEMENT      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST AT 10:02 A.M. [**4-21**] 
+     
+     INDICATION:  Dobbhoff tube placement.
+     
+     FINDINGS:  Compared with [**2770-4-19**], the Dobbhoff tube has advanced from the
+     level of the mid to the distal stomach.
+     
+     Motion artifact precludes evaluation of the lung fields.
+                                                                           
+
+",,
+8196,26718,,,2770-04-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-22**] 8:38 AM
+     US ABD LIMIT, SINGLE ORGAN                                      Clip # [**Clip Number (Radiology) 5685**]
+     Reason: please do RUQ u/s to assess GB and liver for evidence of , h
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 year old man with elevated LFTs and rising wbc                               
+     REASON FOR THIS EXAMINATION:
+      please do RUQ u/s to assess GB and liver for evidence of 
+      hepatitis/cholecystitis/vascular occlusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMINAL ULTRASOUND LIMITED.
+     
+     INDICATION:  70-year-old man with elevated LFTs and rising white blood cell
+     count.  Assess gallbladder and liver for evidence of hepatitis, cholecystitis,
+     and vascular occlusion.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND:  Comparison is made to a prior examination of
+     [**2770-2-14**].  The examination is limited as the patient is not able to follow
+     breathing instructions.  The echotexture of the liver is coarse.  No focal
+     lesions are seen.  The gallbladder is unremarkable.  There is no wall
+     thickening.  No stones are seen.  The gallbladder is not distended.  The
+     common bile duct is normal at 3 mm.  Normal flow is identified in the hepatic
+     veins and the portal vein.  A Doppler of the hepatic artery could not be
+     obtained as the patient could not follow breathing instructions.
+     
+     IMPRESSION:  Somewhat limited examination as described above.  No evidence for
+     cholecystitis.  Patent portal vein and hepatic veins.  Hepatic artery could
+     not be evaluated as described above.
+                                                                           
+
+",,
+8196,26718,,,2770-04-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8196,26718,,,2770-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-23**] 10:41 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5686**]
+     Reason: please place GJ tube for continuous tube feeds and medicatio
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+      Contrast: OPTIRAY Amt: 30
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 yo M s/p NSTEMI, acute CVA, and urosepsis w/ resulting poor mental 
+      status/aspiration - NPO
+     REASON FOR THIS EXAMINATION:
+      please place GJ tube for continuous tube feeds and medication administration    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     
+     
+     
+     
+     This is a 70-year-old gentleman who is status post non-ST-segment elevation
+     myocardial infarction with an acute CVA and urosepsis.  The patient is aphasic
+     and cannot swallow.  He is unable to tolerate a nasogastric tube for long-term
+     therefore the request was made to place a gastrojejunostomy tube.
+     
+     Informed consent was obtained from the wife.  The patient was brought to the
+     interventional suite and the abdomen prepped.  The nasogastric tube was
+     insufflated with air and three punctures were made for tie tacks to secure the
+     stomach to the internal abdominal wall.  The stomach was then entered and a
+     guidewire passed into the ampullary area followed by an Omni Sos catheter to
+     access the pyloric canal.  The wire was passed into the duodenum past the
+     ligament of Treitz over which a 14-French [**Doctor Last Name 936**] was passed through a peel-
+     away sheath.  The pigtail was coiled in the duodenum in excellent position.
+     There was no immediate complication.
+     
+     MODERATE SEDATION was provided by administering divided doses of 50 mcg of
+     Fentanyl and 1 mg of Versed throughout the intraservice time of 30 minutes
+     during which the patient's hemodynamic parameters were continuously monitored.
+     
+     CONCLUSION:  Status post gastrojejunostomy with tip of the feeding tube distal
+     to the ligament of Treitz.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2770-4-23**] 10:41 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5686**]
+     Reason: please place GJ tube for continuous tube feeds and medicatio
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+      Contrast: OPTIRAY Amt: 30
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8196,26718,,,2770-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-23**] 10:41 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5686**]
+     Reason: please place GJ tube for continuous tube feeds and medicatio
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+      Contrast: OPTIRAY Amt: 30
+     ********************************* CPT Codes ********************************
+     * 43750 PERC PLCMT GASTROMY TUBE       74350 PERC PLCMT GASTROSOTMY TUBE   *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      70 yo M s/p NSTEMI, acute CVA, and urosepsis w/ resulting poor mental 
+      status/aspiration - NPO
+     REASON FOR THIS EXAMINATION:
+      please place GJ tube for continuous tube feeds and medication administration    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     
+     
+     
+     
+     This is a 70-year-old gentleman who is status post non-ST-segment elevation
+     myocardial infarction with an acute CVA and urosepsis.  The patient is aphasic
+     and cannot swallow.  He is unable to tolerate a nasogastric tube for long-term
+     therefore the request was made to place a gastrojejunostomy tube.
+     
+     Informed consent was obtained from the wife.  The patient was brought to the
+     interventional suite and the abdomen prepped.  The nasogastric tube was
+     insufflated with air and three punctures were made for tie tacks to secure the
+     stomach to the internal abdominal wall.  The stomach was then entered and a
+     guidewire passed into the ampullary area followed by an Omni Sos catheter to
+     access the pyloric canal.  The wire was passed into the duodenum past the
+     ligament of Treitz over which a 14-French [**Doctor Last Name 936**] was passed through a peel-
+     away sheath.  The pigtail was coiled in the duodenum in excellent position.
+     There was no immediate complication.
+     
+     MODERATE SEDATION was provided by administering divided doses of 50 mcg of
+     Fentanyl and 1 mg of Versed throughout the intraservice time of 30 minutes
+     during which the patient's hemodynamic parameters were continuously monitored.
+     
+     CONCLUSION:  Status post gastrojejunostomy with tip of the feeding tube distal
+     to the ligament of Treitz.
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2770-4-23**] 10:41 AM
+     PERC G/G-J TUBE PLMT                                            Clip # [**Clip Number (Radiology) 5686**]
+     Reason: please place GJ tube for continuous tube feeds and medicatio
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+      Contrast: OPTIRAY Amt: 30
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8196,26718,,,2770-04-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-25**] 9:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5687**]
+     Reason: r/o new infiltrate                                          
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        70 year old man s/p CVA w/ hypoxia and cough                                  
+     REASON FOR THIS EXAMINATION:
+      r/o new infiltrate                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 8:46 [**Initials (NamePattern4) **] [**4-25**]
+     
+     HISTORY:  CVA, hypoxia and cough.
+     
+     IMPRESSION:  AP chest compared to [**4-19**] and 29:
+     
+     Pulmonary vascular and mediastinal vascular congestion have developed
+     suggesting perihilar opacification in the right lung is more likely edema than
+     pneumonia.  Heart size is top normal though increased since [**4-21**].  Tip of
+     the right PIC catheter projects over the upper SVC.  New tubing projects over
+     the upper abdomen but cannot be localized on this view alone.  Dr. [**Last Name (STitle) 5688**] and I
+     discussed these findings by telephone at the time of dictation.
+                                                                           
+
+",,
+8196,26718,,,2770-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-26**] 7:13 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5690**]
+     Reason: question of flash pulm edema                                
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           70 year old man s/p CVA w/ hypoxia and cough query pulmonary oedema        
+                                
+     REASON FOR THIS EXAMINATION:
+      question of flash pulm edema                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Cough.
+     
+     A single portable radiograph of the chest demonstrates a similar
+     cardiomediastinal contour to that seen on the chest radiograph obtained
+     thirteen hours prior.  Again noted is increased airspace opacity involving
+     both lungs, worse on the right than the left and unchanged.  Right-sided PICC
+     line is unchanged.  Bilateral pleural effusions persist.  Trachea is midline. 
+     No pneumothorax.  Radiopaque tubing and surgical staples project over the
+     epigastrium.  The appearance of the lungs is unchanged compared with [**2770-4-25**].
+     
+     IMPRESSION:
+     
+     Persistent CHF.
+                                                                           
+
+",,
+8196,26718,,,2770-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-26**] 6:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5689**]
+     Reason: query pulmonary oedema                                      
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         70 year old man s/p CVA w/ hypoxia and cough query pulmonary oedema          
+                            
+     REASON FOR THIS EXAMINATION:
+      query pulmonary oedema                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Cough.
+     
+     Single portable radiograph of the chest is submitted.  The right lateral
+     hemithorax is excluded from the imaged field of view.  Right-sided PICC line
+     is unchanged.  Surgical staples and radiopaque tubing again project over the
+     epigastrium.  There are small bilateral pleural effusions.  Assessment of the
+     pulmonary parenchyma is limited by respiratory motion, but increased airspace
+     opacity persists.  Trachea is midline.  There is no pneumothorax.
+     
+     IMPRESSION:
+     
+     Limited examination.
+     
+     Persistent CHF, unchanged.
+                                                                           
+
+",,
+8196,26718,,,2770-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-26**] 7:13 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5690**]
+     Reason: question of flash pulm edema                                
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           70 year old man s/p CVA w/ hypoxia and cough query pulmonary oedema        
+                                
+     REASON FOR THIS EXAMINATION:
+      question of flash pulm edema                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Cough.
+     
+     A single portable radiograph of the chest demonstrates a similar
+     cardiomediastinal contour to that seen on the chest radiograph obtained
+     thirteen hours prior.  Again noted is increased airspace opacity involving
+     both lungs, worse on the right than the left and unchanged.  Right-sided PICC
+     line is unchanged.  Bilateral pleural effusions persist.  Trachea is midline. 
+     No pneumothorax.  Radiopaque tubing and surgical staples project over the
+     epigastrium.  The appearance of the lungs is unchanged compared with [**2770-4-25**].
+     
+     IMPRESSION:
+     
+     Persistent CHF.
+                                                                           
+
+",,
+8196,26718,10195,0,2770-04-26 10:00:00 EST,2770-04-26 10:15:00 EST,117,"N",69,"Nursing/Other","Nursing Admission Note:","
+Nursing Admission Note:
+70y.o. portuguese speaking male transferred from 11R today for increased resp distress, new NSTEMI, possible intubation.
+
+PMH: CAD, CVA, IDDM, MI, PVD s/p bilateral BKA, ESRD with left AV fistula in place but has not received dialysis as yet, This admission has had CVA and MI already. Pt has PEG in place. Pt also has PICC right upper extremity
+
+Allergies: NKA
+
+Pt has had increased Resp distress noted in past 24hrs while on 11R and CPK/troponins indicated new NSTEMI. CXR showed worsening pulmonary edema and possible aspiration PNA. Pt's urine output low and he has not responded well to lasix/diuril doses on floor. Transfers to MICU for possible intubation/possible dialysis. Cardiology does not have any intervention to offer him at this time. He transfers to MICU on heparin drip at 910u/hr and NTG drip at 3 drops.
+
+Arrives moaning in bed slightly distressed resp status. Good sat on 100% NRB. Weaning down at present. He has large sacral decubitus ulcer which is black and unstagable. Kinaire bed ordered. Family aware of transfer.
+
+Neuro: Pt non-verbal at baseline. Stiff to move in bed. Moans at times.
+
+CV: BP 110-120/50. HR 90's NSR with APC's. Labs sent are pnd. Initial PTT was 101 so heparing drip dropped to 700u/hr and repeat PTT needs to be drawn at 5PM. Getting BP in lower right arm. NTG on. Pt received 100mg lasix and 500mg IV diuril prior to transfer to MICU and will hopefully respond to this. Renal may opt for dialysis later today.
+
+Resp: Lungs clear w/deminished sounds at bases. RR 24-36 ABG pnd. 
+
+GI: Has PEG in place and is having diarrhea. Pt is getting banana flakes via PEG TID. Tube feeds full strength renal goal is 40cc/hr.
+
+GU: Foley in place draining small amts yellow urine with sediment.
+
+ID: afebrile on transfer.
+
+Skin: Needs Kinaire bed. Has large sacral decubitus. Needs to be seen by skin care/wound nurse.
+
+Social: Pt's family is Portuguese speaking. Son [**Name (NI) **] is proxy [**Telephone/Fax (1) 5498**]
+
+Access: PICC in right upper extemity is double lumen. Working well.
+",,
+8196,26718,10195,0,2770-04-26 13:19:00 EST,2770-04-26 13:27:00 EST,117,"N",69,"Nursing/Other","MICU NPN Addendum to admit note:","
+MICU NPN Addendum to admit note:
+Still awaiting arrival of Kinaire bed to unit. Renalk has come by and decision to use lasix/diuris tonight and hold of dialysis for now. UO ranging 40-60/hr. May need another large lasix dose followed by diuril this evening.
+
+BP 100-120/50 HR 80's after getting dose of lopressor 50mg PO. His dose ordered is 100mg but since BP boarderline I gave him only 50mg and BP dropped from 110-90's. The rest of the dose of lopressor held. Continue on NTG drip increased to 6gtt. Heparin drip rate dropped to 700u/hr at 11AM. Please send repeat labs at 5PM along with his PM labs ordered.
+
+ABG on 40% cool neb was 75/20/7.50 showing a combined resp alkalosis and metabolic acidosis. FIO2 increased to 70% CN and will watch closely. RR continues to be 30's.
+
+Team is watching his temp curse as his WBC has climbed up to 22.3 today. Pt is ordered for echo to check for endocarditis. No antibiotics for now.
+
+Plan: Continue diuresis. Follow resp status, he still looks tenuous and may need intubation if family wants to continue aggressive care. Follow temp closely and notify team of any spike. Please send PM labs as ordered. Follow PTT Q6hr while on heparin.
+",,
+8196,26718,10195,0,2770-04-26 21:42:00 EST,2770-04-26 22:17:00 EST,95,"N",69,"Nursing/Other","MICU NPN 1500-2300","
+MICU NPN 1500-2300
+     Pt is a 70 yo male, who arrived in the MICU earlier in the day after having respiratory distress on the floor.  
+
+Review of systems:
+
+Resp:  Received pt on 100% CN with RR in the low 20's.  LS were course, NT sxn'd ~1600, for thick tan secretions.  Approx 1845, pt having increasing resp distress after a drop in BP required the NTG to be turned off.  LS coarse with scattered rales at that time.  Ordered and received 100mg IV lasix followed by 500 mg IV Diuril.  Fair urine response.   Placed on masked ventilation, with noted improvement.
+
+CV:  CPK's resent at 1900, increased to 1462 with MB 23.  HR has been in the 70's-90's, 100's with distress.  Difficulty with monitoring BP acurately.  Had been monitoring BP on right wrist, becoming bypotensive to the 70's/, Rechecked in the left arm:  125/, unable to con't monitoring BP in this extremity due to A-V fistula.  Right upper arm has a PICC line and BLE a BP was undetectable.  Team notified, and A-line placed for continued monitoring.  NTG restarted ~2000 after being shut off for hypotension, currently infusing at 6gtts/hr, .56 mcg/kg/hr.  Heparin infusing at 700units/hr.  PTT checked ~51, no changes made.
+
+GU:  Fair response to the lasix and diuril.  Amts recorded in carevue. Foley intact, draining clear yellow urine.
+
+GI:  +BS, 3 stools this shift.  Sent off for C-Diff culture.  TF's stopped during resp distress episode.  Con'ts off during masked ventilation.  Will need to reassess later prior to restarting.  Had been infusing at 20cc/hr.  Goal is 40cc/hr.
+
+Skin:  BUE edema.  Sacral decub cleansed per protocol.  Awaiting skin care consult tomorrow.  Incontinent of stool times 3.  Difficult to keep area clean.  Checked and turned frequently.
+
+Social:  No contact from family this shift.
+
+Neuro:  Pt responds to tactile stimuli, but does not visually track.  He will squeeze left hand, but not on command.  Does not appear to move RUE, moves RLE and LLE.
+
+ID:  Afeb at present.  No antibiotic coverage at this time.  Sputum and stool sent this shift.
+
+Lines:  new A-line in right radial, PICC in RUE.
+",,
+8196,26718,10195,,2770-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-27**] 1:47 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5691**]
+     Reason: ETT placement, interval change                              
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            70 year old man s/p CVA w/ hypoxia and cough,  pulmonary edema, now s/p 
+      intubation                                   
+     REASON FOR THIS EXAMINATION:
+      ETT placement, interval change                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CVA, intubated.
+     
+     CHEST, ONE VIEW:  Comparison with [**2770-4-26**], 18:19 p.m.  New endotracheal
+     tube terminates approximately 6.0 cm above the carina.  Right PICC is
+     unchanged in position.  Lungs appear better aerated, which may be due in part
+     to positive pressure ventilation.  Pulmonary edema has decreased slightly.  A
+     small right pleural effusion has decreased in the interim.  Extensive left
+     lower lobe atelectasis, with slight leftward mediastinal shift is slightly
+     worse than the last exam.
+                                                                           
+
+",,
+8196,26718,10195,,2770-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-27**] 9:06 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5693**]
+     Reason: new OGT, please check placement                             
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              70 year old man s/p CVA w/ hypoxia and cough,  pulmonary edema, now s/p 
+        intubation                   
+     REASON FOR THIS EXAMINATION:
+      new OGT, please check placement                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CVA status post ET tube placement.
+     
+     CHEST, ONE VIEW:  Comparison with exam of same day, 1:22 a.m. A new orogastric
+     tube terminates in the fundus. Lungs appear better aerated, and pulmonary
+     edema is less marked. The remainder of the exam is unchanged.
+
+",,
+8196,26718,10195,,2770-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-27**] 9:06 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5693**]
+     Reason: new OGT, please check placement                             
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              70 year old man s/p CVA w/ hypoxia and cough,  pulmonary edema, now s/p 
+        intubation                   
+     REASON FOR THIS EXAMINATION:
+      new OGT, please check placement                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CVA status post ET tube placement.
+     
+     CHEST, ONE VIEW:  Comparison with exam of same day, 1:22 a.m. A new orogastric
+     tube terminates in the fundus. Lungs appear better aerated, and pulmonary
+     edema is less marked. The remainder of the exam is unchanged.
+
+",,
+8196,26718,10195,,2770-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-27**] 2:15 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5692**]
+     Reason: ETT placement, s/p adjustment                               
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             70 year old man s/p CVA w/ hypoxia and cough,  pulmonary edema, now s/p  
+      intubation                   
+     REASON FOR THIS EXAMINATION:
+      ETT placement, s/p adjustment                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ET tube replacement.
+     
+     CHEST, TWO VIEWS:  Comparison with examination of 45 minutes earlier. 
+     Endotracheal tube remains in position.  Remainder of the examination is
+     unchanged.
+                                                                           
+
+",,
+8196,26718,10195,,2770-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-27**] 2:15 AM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5692**]
+     Reason: ETT placement, s/p adjustment                               
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             70 year old man s/p CVA w/ hypoxia and cough,  pulmonary edema, now s/p  
+      intubation                   
+     REASON FOR THIS EXAMINATION:
+      ETT placement, s/p adjustment                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ET tube replacement.
+     
+     CHEST, TWO VIEWS:  Comparison with examination of 45 minutes earlier. 
+     Endotracheal tube remains in position.  Remainder of the examination is
+     unchanged.
+                                                                           
+
+",,
+8196,26718,10195,0,2770-04-27 02:35:00 EST,2770-04-27 03:09:00 EST,8661,"N",69,"Nursing/Other","M/SICU ICU day 2 (2300 -0700)","
+M/SICU ICU day 2 (2300 -0700)
+
+Events: Recieved pt from previous shift @ 2300, VS @ the time of transfer were as follows  ABP 123/43, RR 35, Sat 100%, on Non invasive mask ventilation (NIMV). @ ~ 2345 pts respirations became agonal RR dropped from mid 30's to low 20's, sats trended down to low 90's, became bradycardic and hypotensive to high 70's systolic.  ABG @ this time was 7.29/37/157,  family was notified of the change in condition and reaffirmed the desire for pt to remain full code.
+
+Recieved 1 amp Na bicarb, emergently intubated w/ succ's/etomodate.  Follow up ABG 7.49/27/300 on the following settings AC 100% 600x 20 PEEP 8. L Femoral TLCL placed, levophed and dopamine gtts initiated. Vanco/zosyn administered.
+
+Reiview of Systems:
+
+Neuro: Lightly sedated on fent, opens eyes to stimulation, unable to track or follow commands, no movement x 4 extremities.  
+
+CV: NSR w/ occasional ventricular ectopy, Levoped gtt titrated to maintain MAP >60, ABP 100-110's systolic. Afebrile. Please refer to flow sheet for objective data.
+
+Resp: Intubated 25cm @ lip, size 8.0 ett, current vent settings 50% 500x 18 PEEP 8. ABG on these settings pending @ this time. LS coarse upper lobes, crackles lower.  Sats 100%.
+
+GU/GI: TF remains off r/t heme/resp instability, abd soft/nt/nd, +BS.  Recieved 100mg IVP lasix w/ only 80 cc output, clear yellow, U/O since emergent intubation <30cc/hr.
+
+Access: R DL PICC, L femoral TLCL (all ports flush appropriately, only brown draws). R radial A-line.
+
+Plan: Family meeting to be held this AM to discuss Code Status and then re-evaluate goals/plan of care.  Cont. to monitor/maintain heme/resp status.    
+",,
+8196,26718,10195,0,2770-04-27 04:16:00 EST,2770-04-27 04:18:00 EST,1017,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt. placed on NIV for increased WOB/high Fio2 requirement. Tolerated well however respirations became in-effective/tachypneic/ HR decreased. Intubated.
+abgs:chronic metabolic acidosis with resp. compensation. Oxygenation improved t/o shift.
+Bs:clear uppers with bibasilar crackles.
+Plan: Cont. current support.
+",,
+8196,26718,10195,0,2770-04-27 16:06:00 EST,2770-04-27 16:07:00 EST,7973,"N",69,"Nursing/Other",,"
+
+Respiratory Care: pt recieved intubated and vented on AC. No vent changes done today. Lung sounds clear/diminished bilaterally. Suctioned for small thick yellow secretions.Will follow.
+",,
+8196,26718,10195,0,2770-04-27 16:21:00 EST,2770-04-27 16:35:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Pt sometimes found with his eyes open, does not appear to track, at times he is lethargic, remains on a fent gtt, this has not been increased and remains at 75 mcg/hr.
+
+CV:  Conts on the hep gtt at 700 units/hr, last PTT was 39.5 and his rate was not increased because he has repeatedly needed to have his gtt rate decreased or stopped on the same rate.  His BP has been stable 110-120s, off of pressures and NTG gtt, his BP has not been high enough to tolerate the lopressor.
+
+Resp:  Remains vented, no changes were made on the vent, LS coarse.
+
+GI:  TF were restarted at 10cc/hr with a goal rate of 40cc/hr, babnanaflakes cont, he has not had any stool this shift.
+
+GU:  His urine remains light in color, u/o has been 20-40cc/hr, no further diuretics have been given.  Renal saw him today and said that he is not a cadidate for dialysis.
+
+Skin:  He remains on a kinair matress for his unstagable decube.  it conts to have some areas of blackened skin as well as red raw area that tend to bleed.  Conts with the skin care oint and turning.
+
+Soc:  His wife and son were in this morning, they were told that he was not doing very well overall, a family meeting occured with ethics, an interpreter, MICU attending, nursing and his wife and son.  It was decided that comfort would be our primary goal, that we would not escalate care, would not add back pressures, his son was ready to withdraw the vent but his wife was not and asked for a little more time.  He is now DNR.
+",,
+8196,26718,10195,,2770-04-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-28**] 5:34 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5694**]
+     Reason: assess lines/tubes/lung fields                              
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               70 year old man s/p CVA w/ hypoxia and cough,  pulmonary edema, now 
+      s/p    intubation                   
+     REASON FOR THIS EXAMINATION:
+      assess lines/tubes/lung fields                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 5:32 A.M. ON [**4-28**]
+     
+     HISTORY:  CVA, hypoxia, and cough.
+     
+     IMPRESSION:  AP chest compared to [**4-26**] through 4:
+     
+     Mild pulmonary edema has returned accompanied by increased small bilateral
+     pleural effusions.  Heart size is normal and there is no appreciable
+     mediastinal vascular engorgement.  Opacification at the base of the left lung
+     is probably atelectasis, improved since [**4-27**].  ET tube is in standard
+     placement.  Nasogastric tube loops in the stomach and passes out of view. 
+     Right PIC catheter passes as far as the upper SVC.  No pneumothorax.
+                                                                           
+
+",,
+8196,26718,10195,0,2770-04-28 02:15:00 EST,2770-04-28 02:32:00 EST,7964,"N",69,"Nursing/Other","Shift Note: 1900-0700","
+Shift Note: 1900-0700
+Neuro: Pt remains intubated and sedated on fentanyl gtt at 75mcg/hr. Moves LE w/ nail bed pressure to UE. Opening eyes spontaneously, though appears calm and relaxed t/o shift w/ no diaphoresis, acute change in VS, grimacing or other s/s pain noted t/o shift. Appears comfortable.
+
+Resp: Vented AC 500/8 X 18 FiO2 40%. Snx occasionally for scant amount thick white secretions. SpO2 remains 99-100%. BBS clear to diminished at bases. Remains afebrile.
+
+CV: HR 60's to 70's, SR w/ no appreciable ectopy noted. BP remains stable off levophed and dopamine. Also remains off nitro gtt. Continues on heparin gtt initially at 550 units/hr though 1000 unit bolus given and rate increased to 800 units/hr per SS for PTT result 37.6 at 0200. Repeat PTT entered for 0800. Pt remains free of s/s active bleeding t/o shift.
+
+FEN: Continues w/ TF nutren renal at 30ml/hr increasing to goal rate 40ml/hr as ordered. DSD over large unstagable pressure sore to coccyx per report. Dsng remains intact and pt remains w/o BM so far this shift. Will send am labs. FSBS have remained stable 60's to 70's. Pt ordered for fixed doses of regular insulin qhr w/ insulin glargine qpm. 9 units glargine given at 1800 per report. All regular insulin held this shift and TF increased as pt tolerates. Will continue to monitor for s/s hypoglycemia. Pt is not a dialysis candidate at this time per renal progress note.
+
+Social: Per report family mtg took place yesterday w/ team, nursing and ethics. Decision made for pt to be DNR and orders written. Also plan for no further escalation in care. Pressors will not be restarted as stated in orders. Though son ready for comfort measures, wife needs more time. Possible transition to CMO over next several days though priority at this time remains comfort.
+
+Plan: Continue to monitor VS and labs as ordered. Priority on comfort. Continue fentanyl gtt as ordered and titrate as necessary. Continue support for family.
+",,
+8196,26718,10195,0,2770-04-28 04:22:00 EST,2770-04-28 04:24:00 EST,1017,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt. remains intubated w/o change this shift. No abgs drawn.
+Bs: clear equal bilat. secreations minimal.
+Plan:Family meeting yesterday,made DNR however not made CMO as of yet.Continue current support.
+",,
+8196,26718,10195,0,2770-04-28 14:26:00 EST,2770-04-28 14:50:00 EST,1277,"N",69,"Nursing/Other",,"
+
+neuro: pupils equal at 2-3 mm slugish to nonreactive, pt oens eyes to voice stim but no tracking, pos coreal reflex. rt side flacid upper extrem seems to move both stumps upon stimulation. no movement or  reaction to nail bed press. no grimacing with movement. fentanyl gtt maintained at 75 mcg /hr
+
+resp: remains on cmv with 40%, tv 500 rate 18, MV 8.6 . not suctioned this shift. lung snds clear upper and diminished at basess
+
+card: nsr 65-80's bp 112=130 sys, no ectopy. heparing gtt with ptt 52 at 0900 and will check at 1500 and if in range will be able to hold at dose of 800 units/hr. rt stump with lg pressure hematoms and poss site for skin breakdown. need to protect rt stump with pillow. 
+
+fen: flushed G/J tube and hooked tube feeds to that and gave meds via peg. could d/c oral gastric tube and will be better to prevent asp.  tube feeds at goal and consulted nutrition and should be feeding continously. endo: glucose 200 and given standing and coverage SSI today. 
+
+skin: monitor rt stump for poss breakdown. skin care nurse consulted.
+ordered no double guard to buttocks and lg pressure ulcer. wash after each bm and apply critic -aid clear skin oint after rubbing it in hand, to total ulcer area. no dressing
+
+social :no visitors today.
+
+plan: family has made him dnr. no pressors, goal will be for comfort with no further escalation of care. may extubate and make cmo in next 24-48 hr but no definate process in place ast this time
+",,
+8196,26718,10195,0,2770-04-28 15:48:00 EST,2770-04-28 15:50:00 EST,7438,"N",69,"Nursing/Other",,"
+
+Resp Care
+Pt remains intubated. Current vent settins: A/C 500 x 18 8P 40%. No current ABG's. Still waiting for family decision. No other changes noted.
+",,
+8196,26718,10195,0,2770-04-29 02:21:00 EST,2770-04-29 02:54:00 EST,7964,"N",69,"Nursing/Other","Shift Note: 1900-0700","
+Shift Note: 1900-0700
+Neuro: Remains intubated and sedated on fentanyl drip. Opening eyes spontaneously or to voice at times, though not tracking RN in room. Moves bilat lower extremities w/ nail bed pressure to upper extremities. Pupils 3mm and non-reactive to light. Pt appears calm and relaxed, no diaphoresis, acute change in VS, grimacing or other s/s pain t/o shift. Occasionally moves LE. No spontaneous movement noted to upper extremities. Pt appears comfortable t/o shift.
+
+Resp: Continues AC 500/8 X 18 FiO2 40% - no spontaneous resp noted. Snx X 1 for scant thick white secretions. BBS CTA to slightly diminshed L base. SpO2 remains 95-98%.
+
+CV: Hr remains 60's to 70's, SR w/ no appreciable ectopy. BP remains stable. Continues on heparin gtt at 800 units/hr. PTT has been therapeutic X 2 sets. Am labs pnd. Pt remains free of s/s active bleeding.
+
+FEN: Continues TF nutren renal at goal rate of 40ml/hr through PEG. Ok to use PEG per team and OGT removed. FSBS covered w/ fixed dose regular insulin and SS humalog insulin as ordered. UOP decreasing w/ worsening renal function. Pt is not a dialysis candidate per renal progress note. Am labs pnd. Generalized edema increasing. Abd soft, non-tender w/ BS present. No BM this shift and banana flakes have been held. 
+
+Skin: Large pressure sore to coccyx w/ necrotic area and [**Doctor Last Name **] tissue sloughing. Difficult to stage. Areas of wound base red w/ granulation tissue. Scant s/s drainage noted. Using foam cleanser and barrier ointment as well as citiric aid ointment per wound care recommendations.
+
+Social: No contact from family this shift.
+
+Plan: Continue to monitor VS and labs as ordered. Continue wound care tx as recommended, [**Doctor First Name 27**] air bed, frequent repositioning and other skin care measures. Continue fentanyl gtt as ordered w/ priority on comfort. Pt is DNR w/ plan for possible transition to CMO in next 24hr as per family meeting [**2770-4-27**]. Anticipate 2nd family meeting. Support for family ongoing.
+",,
+8196,26718,10195,0,2770-04-29 04:09:00 EST,2770-04-29 04:11:00 EST,1017,"N",69,"Nursing/Other","Resp Care","
+Resp Care
+Pt. remains on same ventilator settings x3 days, with no abgs.Occ. breaths [**11-25**] over set rate.
+Bs:ess. clear anteriorly with minimal secreations.
+Plan:DNR with possibly transition to CMO, no rsbi done.
+",,
+8196,26718,10195,0,2770-04-29 16:14:00 EST,2770-04-29 16:17:00 EST,7617,"N",69,"Nursing/Other",,"
+
+rsp care - Pt remains intubated and on full vent support. No changes made this shift. Pt suctioned frquently for small amounts of thick, white secretions. BLBS were coarse t/o. Continued resp support planned.
+",,
+8196,26718,10195,0,2770-04-29 16:27:00 EST,2770-04-29 16:39:00 EST,1520,"N",69,"Nursing/Other",,"
+
+MICU nursing progress note: 
+
+          Please  see flowsheet for more details
+
+Neuro: Opens eyes sponts. at times and to voice, but lacks tracking. Moves lower exts w/ nail bed pressure to uper exts. Pupils remain 3mm and NR. Fentanyl gtt at 75mcg/hr. No signs/symptoms of pain/discomfort.
+
+Resp: Remains orally intubated on AC x 18/500/8/40%. No spont resp. noted. Suctioning for small amt of thick whitish secretions. BBS CTA. Stable Spo2. 
+
+CV: HR 66-68-SR w/ no ecopty noted. T. max. 99.0. ABP 114/40 - 126/46. Increasing generalized body edema noted. Continues on heparin gtt at 800 units/hr w/ therapeutic PTT. 
+
+GI/GU: + BS noted. Abd is soft, nt, nd. On TF (nutren renal FS) goal rate of 40cc/hr via PEG. No BM for my shift. Foley in place w/ low uo. Pt. is not a dialysis candidate per renal notes. 
+
+SKIN:  Coccyx area w/ stage II pressure ulcer --wound care RN consulted and recommended barrier cream application. 
+
+SOCIAL:  Family meeting this afternoon to decide continuing further treatment vs CMO/withdrawal of care. No decision at present.
+
+Plan: Monitor per protocol. Cont. wound tx as recommended, [**Doctor First Name 27**] air bed. Cont. fenantyl gt as ordered.  Pt. remains DNR. Provide support to family.
+",,
+8196,26718,10195,0,2770-04-29 17:47:00 EST,2770-04-29 17:48:00 EST,1520,"N",69,"Nursing/Other",,"
+
+addendum:
+
+Pt. made CMO at 18:30. Awaiting arrival of priest and plan is to withdrawal care. Pt. to remain on fentanyl gtt. Family at bedside.
+",,
+8196,,10195,0,2770-04-30 01:57:00 EST,2770-04-30 01:58:00 EST,1154,"N",69,"Nursing/Other",,"
+
+Resp: Rec'd pt intubated on a/c 18/500+8/40%. Following family meeting the decision was to make pt cmo and extubate. Pt was extubated @ 2100. 
+",,
+8196,,10195,0,2770-04-30 04:28:00 EST,2770-04-30 04:35:00 EST,5197,"N",69,"Nursing/Other",,"
+
+NARRATIVE NOTE:
+
+PT IS A CMO AND WAS EXTUBATED LAST EVENING AT 2045. PT HAS REMAINED ON R/A THROUGHOUT THE SHIFT. SAO2 CURRENTLY DROPPING INTO THE MID 70'S. B/P WAS IN THE 130'S AND HAS DECREASED TO THE LOW 90'S WITH THE MAP 45. HR WAS IN THE 80'S AND NOW IS IN TH LOW 50'S. PUPILS HAVE REMAINED NON-REACTIVE ALTHOUGT HE HAS OPENED HIS EYES TO VERBAL STIMULI. FAMILY WAS IN WITH PT LAST EVENING AND LEFT PRIOR TO EXTUBATION. REMAINS ON FENTANYL 300MIC/HR. PLEASE SEE CAREVUE FOR SPECIFICS.
+",,
+8196,,10195,0,2770-04-30 05:21:00 EST,2770-04-30 05:22:00 EST,5197,"N",69,"Nursing/Other",,"
+
+PT EXPIRED AND WAS PRONOUNCED AT 0600. POST MORTUM CARE PROVIDED AND TRANSPORT NOTIFIED. TEAM NOTIFIED SON AND FAMILY DECLINED TO COME IN.
+",,

@@ -1,0 +1,275 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8749,,,,3410-07-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3410-7-22**] 8:29 AM
+     MR [**Name13 (STitle) 128**] W & W/O CONTRAST                                     Clip # [**Clip Number (Radiology) 10353**]
+     Reason: 63 y/o male with known plasma cell myeloma, c/o bilateral le
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with above history.
+     REASON FOR THIS EXAMINATION:
+      63 y/o male with known plasma cell myeloma, c/o bilateral leg pain with
+      walking. Would like to r/o spinal involvement/mass.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI LUMBAR SPINE:
+     
+     CLINICAL INFORMATION:  Patient with known plasmocytoma and bilateral lower
+     extremity pain and weakness.  For further evaluation.
+     
+     TECHNIQUE:  T1, T2, and IR sagittal and T1 and T2 axial images of the lumbar
+     spine were obtained before Gadolinium.  T1 sagittal and axial images were
+     obtained following Gadolinium.
+     
+     There are no prior similar examinations for comparison.
+     
+     FINDINGS:  The visualized vertebral bodies from T9 to L5 and sacrum
+     demonstrate diffuse decreased signal on T1W images with mild heterogeneous
+     increased signal on IR images indicative of marrow infiltration.  The T11
+     vertebra demonstrate pathologic fracture with soft tissue mass in the left
+     paraspinal region.  Mild epidural soft tissue changes are seen on the sagittal
+     images without evidence of high grade thecal sac compression or spinal cord
+     compression.  Mild pathologic compression of L2 vertebra is identified.
+     
+     At L5 level soft tissue changes are seen within the posterior aspect of the
+     vertebral bodies at L4 and L5 level with high grade compression of the thecal
+     sac due to epidural soft tissue disease.  Mild Grade I spondylolisthesis of L4
+     over L5 is identified.  Signal abnormalities within the posterior aspect of L5
+     vertebral body indicate focal myeloma deposits.
+     
+     IMPRESSION:
+     1)  Diffuse marrow signal abnormalities indicative of new infiltration.
+     2) Focal marrow abnormalities with soft tissue mass on the left side at T11
+     level with mild epidural disease at T11 level.  3) Mild pathologic compression
+     fractures of T11, T12 and L2.  4) Focal myeloma deposits in the posterior
+     portion of L5 vertebra with epidural soft tissue changes from L5 to superior
+     aspect of S1 with high grade thecal sac compression.  The findings were
+     discussed with Dr. [**First Name (STitle) 10354**] at the time of interpretation of this study on
+     [**3410-7-22**] at 6 P.M.
+
+",,
+8749,3959,,,3410-08-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+8749,3959,,,3410-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3410-8-16**] 10:33 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 10356**]
+     Reason: evaluate for infiltrate                                     
+     Admitting Diagnosis: TTP-MULT MYELOMA-INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with seizure and questionable cerebral bleed.                   
+     REASON FOR THIS EXAMINATION:
+      evaluate for infiltrate                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Change in mental status.
+     
+     FINDINGS:  AP supine view is compared to PA and lateral views of 6/18. The
+     newly placed endotracheal tube terminates 25 mm above the carina.  The heart
+     remains enlarged.  There is mild congestive heart failure.  The mediastinum is
+     within normal limits for supine view.  A right pleural effusion is present.
+     The left costophrenic angle is not included on the study, and a left effusion
+     cannot be ruled out.  There is a left lower lobe opacity consistent with
+     atelectasis.  The osseous structures are unchanged.
+     
+     IMPRESSION:
+     
+     1) Satisfactory position of endotracheal tube.
+     2) Congestive heart failure and right pleural effusion.
+     3) Left lower lobe atelectasis.
+
+",,
+8749,3959,,,3410-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3410-8-16**] 10:11 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10355**]
+     Reason: TRANSFER WITH BLLED? SIZE
+     Admitting Diagnosis: TTP-MULT MYELOMA-INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      63 year old man with multiple myeloma,thrombocytopenia transferred with 
+      questionable intracerbral bleed.
+     REASON FOR THIS EXAMINATION:
+      r/o intracerebral hemorrhage                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT BRAIN NO CONTRAST.
+     
+     INDICATION:  Intracranial hemorrhage.
+     
+     COMPARISON:  [**3410-5-29**].
+     
+     FINDINGS:  There are bilateral subdural fluid collections, new since the prior
+     study.  Mostly the collections are of low attenuation, however there are
+     multiple areas of high attenuation indicating acute blood products. A thin
+     right parafalcian hematoma is also present and ther is blood along the right
+     tentorium.  There are no areas of parenchymal hemorrhage.  The underlying
+     sulci are slightly narrowed. The ventricles are not dilated. There is slight
+     displacment of the anterior midline structures to the right since the left
+     subdural collection is larger than the right, but there is no downward
+     displacement of the brain. There are no areas where there has been loss of the
+     [**Doctor Last Name 30**]/white matter differentiation.
+     
+     Sphenoid fluid is seen which may indicate sinusitis.
+     There are lytic foci in the skull./
+     
+     IMPRESSION:  Interval development of acute and subacute bilateral subdural
+     hematomas with mild mass effect.  There are no areas of intra-axial
+     hemorrhage. There are no signs of infarction.  There may be sphenoid
+     sinusitis.
+     
+     
+
+",,
+8749,3959,10885,0,3410-08-16 16:50:00 EST,3410-08-16 16:53:00 EST,1670,"N",69,"Nursing/Other",,"
+
+resp care
+
+pt arrived to micu intubated.  oett #8.o secured 24cm @lip.  b/s +/= bil.  pt placed on [**Last Name (un) 471**] vent, see carevue for settings.  cxr to be done.  plan: cont w/mech support.
+",,
+8749,3959,10885,0,3410-08-16 17:43:00 EST,3410-08-16 17:51:00 EST,2190,"N",69,"Nursing/Other","MICU NSG ADMISSION NOTE","
+MICU NSG ADMISSION NOTE
+63 y.o. male w/ Multiple Myeloma, prostate cancer, TTP, now presents as transfer from OSH w/ seizure activity w/ intracranial hemmorhage.
+Arrived to micu 1800, intubated, unresponsive on propofol gtt, w/ stable vs. Family (dtr and brother are physicians) accompanied patient.
+
+ALLERGIES: PCN, TEGRETOL
+
+ROS:
+
+RESP: intubated # 8, 22@ lip, a/c500/12br/5cmpeep/30% w/ abg(here) 7.49/35/177. Overbreathing vent.
+
+CARDIAC: 84-90/50, HR 90NSR NO VEA
+
+GI: trace + brown diarrhea, continuous.
+
+RENAL: bun 33/cr1.7, clear urine.
+
+NEURO: last twitching @1030, eeg at OSH confirmed L sides activity. On mulitple antisz agents. On propofol. Presents flacid w/ pearl. For CT scan and EEG tonight.
+
+ID: tmax @ OSH 102.3, presents here afebrile.
+
+HEME: plt cnt 6 @ OSH-> bag platelets there, no repeat labs . For full profile here. Initial lytes wnl. 2 bags platelets given at OSH.
+
+ASSESS: stable w/ ? ongoing seizure activity. Risk for further bleeding. 
+
+PLAN: ct scan, labs, neuro exam.
+",,
+8749,3959,10885,,3410-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3410-8-17**] 6:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10357**]
+     Reason: evaluate for change evaluate placement  of og tube.         
+     Admitting Diagnosis: TTP-MULT MYELOMA-INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       63 year old man with seizure and questionable cerebral bleed.                  
+       
+     REASON FOR THIS EXAMINATION:
+      evaluate for change evaluate placement  of og tube.                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: OG tube placement.
+     
+     COMMENTS: AP supine view is compared to the AP supine view dated [**8-16**].
+     The OG tube extends into the body of the stomach, and its tip is below the
+     margin of the image. The ETT remains in good position. Mild congestive heart
+     failure and a right pleural effusion remain present. Left lower lobe
+     atelectasis is again noted. The left costophrenic angle is not included on the
+     image. Osseous structures are stable.
+     
+     IMPRESSION: 1) Satisfactory OG tube position.
+     
+     2) Persistent mild congestive heart failure and right pleural effusion.
+     
+     3) Stable left lower lobe atelectasis.
+
+",,
+8749,3959,10885,,3410-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3410-8-17**] 2:40 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10358**]
+     Reason: evaluate RIJ central line placement                         
+     Admitting Diagnosis: TTP-MULT MYELOMA-INTRACRANIAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        63 year old man with seizure and questionable cerebral bleed.                 
+         
+     REASON FOR THIS EXAMINATION:
+      evaluate RIJ central line placement                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST ONE VIEW.
+     
+     INDICATION:  63 year old man with seizure and questionable cerebral bleed.
+     
+     COMMENTS:  Portable AP radiograph of the chest is reviewed, and compared to
+     the previous study at 6:30AM.
+     
+     The tip of endotracheal tube is identified 2 cm above the carina.  The right
+     jugular IV catheter terminates in the distal SVC.  A feeding tube courses
+     towards the stomach.
+     
+     There is continued mild congestive heart failure with cardiomegaly and small
+     right pleural effusion.  There is continued patchy atelectasis in both lower
+     lobes.  No evidence of pneumothorax is identified.
+
+",,
+8749,3959,10885,0,3410-08-17 03:44:00 EST,3410-08-17 04:25:00 EST,2776,"N",69,"Nursing/Other","MICU nursing progress note 7P-7A","
+MICU nursing progress note 7P-7A
+Neuro - Unresponsive to noxious stimuli. Started having focal seizures presenting as right facial twitching in entire side of face, at times more prominent than others but only stopping occaisionally for seconds at a time. Neuro in with pt, phenobarb bolus given with no change in status epilepticus. Head CT shows bilateral subdural hematomas acute and chronic, narrowing third ventricle. Pentabarb bolus given with cessation of seizures, gtt initiated at .3mg/k/hr, to be titrated to no seizures. Occ slight twitching right cheek/lip since pentabarb. Facial grimacing x 1 with turn. LP done to R/O menigitis. PERL, brisk. EEG machine not available so pentabarb titrated to Sz activity. Hold fosphentoin for now given therapeutiC dilantin level per neuro.
+
+Resp - Received on AC 12x500, 40% + 5. decreased TV to 450, ABG 7.55/30/154. RR high 20s. Vt 380 - 400. Lung sounds bronchial throughout. Sx minimal yellow secretions. 
+
+CV - BP 82-93/33-50, MAPs 50-63. 500cc FB x 1 no effect on BP. Plt 23, Hct 18 -> transfused 6 UFFP, 3U Plts, 1 UPRBC. Vit K given. NSR 80s-90s. No VEA. Left leg +4 edema d/t chronic DVT, right +2. + DP bil. Multiple eccymotic areas (TTP) on arms/legs. Tumor below left antecub.Plt up to 50 after 2nd Unit plts.  
+
+GI - NPO. Needs OGT placed. Abd soft, +BS. Rectal bag for small amt liquid golden stool.
+
+GU - U/O adequate see careview. 
+
+ID - ? septic, pan Cx. Vanco/ceftriaxone given. T max 100.5 but is afebrile now. WBC 1.6.
+
+Social - Pts daughter [**Name (NI) **] who is HCP in last night , pt is full code for now, all 4 chldren will discuss pts code status tomorrow. Pts wife, brother, son [**Name (NI) **] also in to visit. Spoke with team last night.
+
+Plan - EEG today, need EEG at bedside for serial EEGs when available. Pentabarb gtt titrate to no seizure activity. Monitor BP, HR on pentabarb. Cx pending, antibx as ordered. Neuro checks q 1 hr. Call Neuro if any increase Sz activity, ie left facial Sz, etc. Neutropenic precautions. Follow Hct, plt, coags, pentabarb & dilantin levels.
+",,
+8749,3959,10885,0,3410-08-17 04:46:00 EST,3410-08-17 04:52:00 EST,2536,"N",69,"Nursing/Other",,"
+
+Resp:  Rec'd pt on [**Last Name (un) 471**] a/c 12/500/+5/50%.  Alarms on and functioning.  Ambu/syringe @ hob.  BS auscultated reveal bilateral coarse sounds, no change with suctioning.  Pt transported to CT, results revealed subdural hematomas both chronic and acute.  ABG's drawn x2 LR.  Vent changes as follows:  VT decreased to 450 and fio2 to 40% where they remain.  02 sats @ 99%.  At present time pt is full [**Last Name (un) 6145**].  No further changes noted.
+",,
+8749,3959,10885,0,3410-08-17 16:36:00 EST,3410-08-17 17:12:00 EST,1741,"N",69,"Nursing/Other","MICU A NSG 7A-7P","
+MICU A NSG 7A-7P
+RESP--REMAINS ON AC 12 PEEP 5 450 40%.  LUNGS WITH COARSE BS THROUGHOUT, SX'D FOR SM AMOUNTS THIN WHITE SECRETIONS.  REMAINS ALKALOTIC, PLEASE SEE CAREVIEW FOR DATA.
+NEURO--REMAINS ON PENTOBARB GTT.  ON FIRST EXAM THIS AM, PT NOTED TO HAVE SLIGTHLY UNEQUAL PUPILS, L 2MM, R 1.5MM AND MIN RESPONSIVE.  ALSO NOTED TO HAVE RIGHT SIDED FACIAL TWITCHING ANF TREMOR IN LEFT ARM.  NEUROLOGY TEAM IN TO EVAL AND PENTOBARB GTT INC TO 4MG/KG/HR, EEG MONITOR PLACED AND HOURLY EEG READING SHOWING FLAT TRACINGS WITH MINIMAL BURSTS, ONCE EVERY 30-40SEC.  PER NEUROLOGY TEAM, PENTOBARB SLOWLY TITRATED DOWN TO 2MG/KG/HR.  LP FROM LAST NIGHT SHOWING PLASMA CELLS FROM MYELOMA.  INITALLY HAD PLANNED FOR REPEAT CT OF HEAD, CANCELLED AND EEG TECH HERE TO REMOVE CONTS EEG MONITOR.        
+CV--BP INITALLY IN THE 90'S/, SBP DROPPED TO 77/, TREATED WITH IVF (RECEIVED TOTAL OF ~2L NS), WITH LITTLE EFFECT, STARTED ON LEVOPHED GTT INITALLY PERIPHERALLY, THAN TRANS TO TLCL IN RIGHT IJ.  ALINE PLACED AND SBP 66/, LEVO TITRATED FOR MAP ~60 WITH GOOD EFFECT.  PLEASE SEE CAREVIEW.  HR REMAINS IN 80-90'S WITH ECTOPY ONLY DURING TLCL INSERTION, PT HAD NONSUSTAINED RUN OF VT.  K 3.3 THIS AM, REPLETED WITH 40MEQ PO KCL.  TEMP MAX 102.4, RECEIVED TYLENOL AND PLACED ON COOLING BLANKET, TMIN 100.6, BLANKET NOW OFF.  PT WITH GENERALIZED BODY EDEMA.  MULTIPLE ECCHYMOTIC AREAS SCATTERED OVER BODY.  
+HEME--RECEIVED TOTAL OF 4U FFP AND 2U PC'S THIS SHIFT.  LAST HCT 24.5, PLT'S 62, INR PENDING.  NEXT LABS DUE AT ~8PM AND PLANS TO KEEP HCT >22, PLT >40.  PT OOZING FROM LINE SITES.
+GI--ABD SOFT WITH HYPOACTIVE BS THROUGHOUT.  NO STOOL VIA RECTAL BAG THIS SHIFT.  OGT ASPIRATED HEME NEG.
+GU--U/O INITALLY 40-50CC/HR, NOW 5-10CC/HR.  
+SOCIAL--FAMILY MEETING HELD.  PT NOW DNR, AWAITING DAUGHTER FROM [**Name2 (NI) 6146**] ARRIVAL AND PT TO BE MADE CMO AND WITHDRAW CARE. FOR NOW FAMILY WOULD LIKE PT TO BE MAINTAINED IN ANTICIPATION OF DAUGHTER'S ARRIVAL TOMORROW.  
+",,
+8749,,10885,0,3410-08-18 03:17:00 EST,3410-08-18 03:28:00 EST,2487,"N",69,"Nursing/Other",,"
+
+MICU NPN 1900-0730:
+  Neuro:  Pt continues on pentobarbitol gtt at 2 mg/kg/hr.  No s/sx of sz activity.  Pt without corneals, cough, gag or withdrawal to pain.  He does have sponatneous RR over set AC rate of vent.  Pupils 2m/equal but not reactive.  EEG off--pentobarbitol to be titrated for s/sx of sz activity (titrated by 0.5 mg/kg/hr q 30 minutes).
+  CV:  Pt persistantly febrile despite tylenol X 2 (last at 0400) and cooling blanket.  Tmax 101.7.  No cultures ordered.  Pt in NSR rate in low 80's.  No ectopy.  Levophed gtt titrated to keep MAP > 60.  CBC stable with last HCT=26.5 and plts at 54.  INR stable at 1.5.  No transfusions overnight.  R IJ TLC site intact with oozing stoopped.  New dressing placed with surgicel over site.  
+  Pulm:  Pt continues on AC settings of AC 12/450/5/40%.  RR in low 20's.  Lungs course.  Pt suctioned for minimal to no secretions.  
+  GI:  OGT in place.  + plcmt via airbolus.  Residuals 30-50 cc green bile.  Abd benign with absent BS.  No stool output via FICC bag.
+  GU:  Foley to gravity with minimal (5-10 cc/hr) of urine.  
+  Family:  Dtr flying in from [**State **] this am.  At that time family meeting will occur and decision will be made whether to make pt CMO.  Currently he is DNR.  
+",,
+8749,,10885,0,3410-08-18 03:44:00 EST,3410-08-18 03:47:00 EST,2536,"N",69,"Nursing/Other",,"
+
+RESP:  REC'D PT ON [**Last Name (un) **] AC 12/450/5+/40%.  ALARMS ON AND FUNCTIONING.  AMBU/[**Last Name (un) **] @ HOB.  BS AUSCULTATED REVEAL BILATERAL COARSE SOUNDS WITH NO INPROVEMENT FOLLOWING SUCTIONING. SUCTIONED X2 SMALL AMOUNT OF TANISH SECRETIONS.  02 SATS @ 97%.  NO FURTHER CHANGES NOTED
+",,
+8749,,10885,0,3410-08-18 15:42:00 EST,3410-08-18 15:54:00 EST,2783,"N",69,"Nursing/Other","Nursing Progress/Expiration Note 0700-1540","
+Nursing Progress/Expiration Note 0700-1540
+Events: Received pt on Levophed @ .092mcg/kg/hr, Pentobarb @ 2mg/kg/hr. Vent settings AC12/450/5/40% with SRR 24. VSS with HR 77-82, BP 99/53-108/56. Urine ouput 10-20ml/hr. Pt totally unresponsive, without gag/cough/response to painful stimuli. Pupils equal and unreactive @ 2mm.
+Family elected to have comfort measures only for pt. At 1520 a MSO4 drip was started @ 1mg/hr. Pt was extubated by resp therapist @ 1530 (with family present), and cont to breathe on his own at a steadily declining rate. Levophed was D/C'd @ 1532. HR and BP steadily declined. At 1540 pt was without spontaneous respirations, Heart rate or pulse. Pt's intern was notified. Pt was pronounced expired.
+",,

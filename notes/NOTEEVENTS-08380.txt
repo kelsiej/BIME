@@ -1,0 +1,524 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8380,20658,,,2603-08-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2603-8-9**]              Discharge Date:   [**2603-8-29**]
+ 
+Date of Birth:  [**2516-4-21**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 306**] 
+Chief Complaint:
+Hip Fracture, Transfer from OSH for cath
+ 
+Major Surgical or Invasive Procedure:
+LHORIF
+PICC placement
+ 
+History of Present Illness:
+87 yo man with CAD s/p CABG/PTCA, ischemic CMP EF 30%, A.fib 
+admitted to [**Hospital **] Hosp on [**2603-8-8**] s/p fall w/ L hip fx. No h/o 
+syncope. Patient with h/o A.fib apparently rate controlled at 
+OSH, no ischemic EKG changes, TnI negative and CK negative, BNP 
+459. Echo performed showed inferolateral hypokinesis c/w 
+ischemia and EF of 30%. Mild MR, Trace TR, mild LVH. Normal RV 
+size and function. Patient transferred to [**Hospital1 83**] for cath.  Upon 
+arrival, pt was taken to cath lab, which was subsequently 
+cancelled due to lack of evidence supporting intervention.  
+Vitals signs unremarkable.  Upon initial eval, pt denied any 
+complaints (no sob, cp, abd pain, some shoulder pain, no leg 
+pain). 
+
+ 
+Past Medical History:
+1. Ischemic CMP EF 30%  
+2. Paroxysmal A.fib
+3. Aortic sclerosis  
+4. CAD s/p CABG x4 in [**2577**], PTCA [**2588**], s/p MI (remote).  
+5. HTN  
+6. PVD, carotids 50-70% on right; 80-90% on left  
+7. Normal pressure hydrocephalus with a right ventricular shunt 
+[**11-5**]  
+8. GERD  
+9. HOH  
+10. Dementia  
+11. L hip fracture, falls x 10 yrs 
+12. h/o UTIs  
+13. hyperlipidemia  
+14. h/o depression  
+15. TURP x 4 --last 2 yrs ago, bladder scapping to ?malignant 
+cells  
+ 
+Social History:
+Worked in Wool trade. Assissted Living (Inn at [**Doctor Last Name **] [**Doctor Last Name 11612**]).  
+Widowed, wife died 1 [**12-6**] [**Name2 (NI) 7619**] ago, married 54 yrs. Five sons, one 
+daughter. Denies tobacco use, alcohol socially in past.
+ 
+Family History:
+Mother died of an MI suddenly in late 60s. No CA in family.
+ 
+Physical Exam:
+VS: 98 78 150/74 20 95% RA  
+Ht 5'7"" Wt 175 lbs  
+Gen: frail elderly M, NAD, lying flat in bed, HOH  
+Heent: OP clear, MM dry, anicteric, PERRL  
+Chest: Expiratory wheeze throughout. Bibasilar crackles, R>L.  
+CVS: nl S1 S2, RRR, [**1-10**] <> @ RUSB, [**1-10**] HSM at apex 
+Abd: soft NT/ND, BS+, no HSM appreciated  
+Ext: warm, L leg in brace, moves toes, 2+ dp pulses b/l  
+Neuro: HOH, responds appropriately, grossly intact  
+
+ 
+Pertinent Results:
+At OSH: 
+WBC 12.8 Hct 34.8 Plts 194 Cl 101 HCO3 27 Glu 125 Bun 16 Cr 1.0 
+Ca 9.8
+TP 6.4 Alb 4.2 T.bili 0.7 AP 94 AST 15 ALT 13
+Na 139 K 3.3 Cl
+CK 61 TnI <0.1
+BNP 459
+
+On Admission:
+WBC 12.9 Hct 31.3 Plts 169 Na 142 K 3.6 Cl 103 HCO3 30 Glu 117 
+Bun 22 Cr 1.2 Ca 8.9 Phos 4.0 Mg 2.1
+
+Cardiac Enzymes   CK    CKMB    TropT  Hct
+[**8-22**] 9:10A        40     ND      0.68  33.9
+[**8-22**] 6:20A        42     ND      0.63  33.8 (1U tx)
+[**8-16**] 0[**Telephone/Fax (2) 11613**].2
+[**8-16**] 0110         95             0.82 
+[**8-15**] 1538        119     14      0.86  (2U tx)
+[**8-15**] 0615        147     12      0.78  23.9
+[**8-14**] 2215        149     11      0.63  23.8
+[**8-14**] 0416        106     15      0.51  21.7
+[**8-13**]  0530         99      7      0.18  22.9
+[**8-12**]  1931        110      2      0.05  25.2
+.
+Studies:
+EKG [**2603-8-11**]: SR at 75 bpm, RBBB, VPB, prolonged PR , old Q-waves 
+in 2,3,aVF; these were unchanged compared to previous EKG    
+.  
+Echo [**2603-8-9**]  
+Aortic sclerosis with adequate opening, septal knuckle, mild MR, 
+trace TR, RV wnl, LVH, Reverse E/A ratio c/w non compliant LV, 
+mitral annular calcification, EF of 30% with inferolateral 
+hypkinesis c/w infarction. Per Daughter [**3-9**] yrs ago had echo 
+with EF 40-45%. 
+.
+[**2603-8-13**]
+EF 35%. 3+/4+ MR. 
+.  
+Carotid Duplex ([**2603-8-10**]): b/l 60-69% stenosis  
+.
+EEG ([**2603-8-12**]): This is an abnormal EEG in the waking and drowsy 
+states due to the slow background rhythm and bursts of 
+generalized delta slowing. These abnormalities suggest a 
+moderate encephalopathy, which may be seen with infections, 
+medication effect, toxic metabolic abnormalities, or ischemia.
+.
+MRI/MRA head ([**2603-8-12**]):  
+No acute stroke. No hemorrhage.Moderate ventriculomegaly. 
+Diffuse  thickening of the meninges most likely secondary to 
+right parietal  shunt. Old left cerebellarinfarct. Normal circle 
+of [**Location (un) 345**] with no  areas of abnormality.
+.
+CT Head w/out contrast ([**2603-8-12**]): 
+Allowing for differences in technique from MR,no significant 
+change. Please note that this examination is very limited by 
+motion artifact.
+.
+CXR Pa/lat ([**2603-8-16**]):
+Interval development of bilateral basal hazy opacities which may 
+represent multifocal pneumonia
+.
+CT Head w/o contrast ([**2603-8-18**]):
+1) Severely motion limited study. 
+2) Allowing for this, no evidence of hemorrhage. 
+3) Ventricles are just slightly more prominent than the CT of 
+[**2603-8-12**]; without a baseline study for reference, it is difficult 
+to assess for shunt malfunction.
+.
+Neck soft tissues ([**2603-8-19**]):
+Suboptimal exam. Normal airway.
+.
+CT Head w/o contrast ([**2603-8-21**]):
+1.  No significant change in size of enlarged ventricles with 
+shunt present in the right lateral ventricle. 
+2.  No evidence of hemorrhage.
+.
+CXR [**8-22**] r/o CHF (final):
+1. Small bilateral pleural effusions persist. 
+2. Slight interval improvement in pulmonary vascular congestion. 
+
+.
+CTA Chest ([**2603-8-22**]) (final): 
+1.  No evidence of PE. 
+2.  Bilateral pleural effusions and atelectases. 
+3.  Small scattered subcentimeter lymph[**MD Number 65**]. 
+4.  Scattered peripheral nonspecific opacities in the right 
+upper lobe. 
+.
+[**2603-8-24**] CATH [**Last Name (LF) 11614**],[**First Name3 (LF) **]/C 
+Successful placement of a 4 French single lumen 42 cm PICC by 
+way 
+of the right brachial vein with the tip at the cavoatrial 
+junction.  The line is ready for use. 
+.
+[**8-25**] EEG
+Abnormal EEG due to the disorganized and mildly slow background 
+and due to the bursts of generalized slowing. These slowings 
+indicate a widespread encephalopathic condition affecting both 
+cortical and subcortical structures. Medications, metabolic 
+disturbances, and infection are among the most common causes. 
+There was occasional additional focal slowing in the right 
+anterior quadrant. No epileptiform features were evident. 
+.
+[**8-26**] CXR
+Mild pulmonary edema has improved substantially since [**8-25**] and small bilateral pleural effusions have decreased.  The 
+heart is normal size.  Left lower lobe atelectasis is stable.  
+No pneumothorax.  Tip of the right PICC line projects over the 
+right atrium. 
+.
+[**8-26**] CXR
+Left base airspace disease and probable small pleural effusion, 
+without appreciable interval change allowing for differences in 
+positioning 
+.
+[**8-26**] CT Left Lower Ext
+1.  Hematoma with layering fluid-fluid level expanding the 
+vastus intermedius, lateralis, and rectus femoris. 
+2.  No evidence for hardware complication. 
+3.  Dense atherosclerotic disease of the visualized arteries. 
+.
+[**8-28**] CXR
+Bibasilar atelectasis with mild hydrostatic edema.
+
+ 
+Brief Hospital Course:
+Pt had several issues addressed during this admission:
+.
+1. Hip Fracture: The patient fractured his L hip in a mechanical 
+fall. The L hip was repaired with an ORIF on [**2603-8-11**]. DVT 
+prophylaxis with Lovenox 30 BID. Physical therapy worked with 
+him to improve weight bearing on his L leg.
+.
+2. Neuro: The patient had a GTC seizure soon after hip surgery. 
+The patient was evaluated by both neurology and neurosurgery.  
+Neurology was concerned that his presentation of L sided 
+weakness on the floor could represent either a new stroke or a 
+[**Doctor Last Name 1210**] paralysis after seizure activity.  MRI/MRA of the brain 
+was negative for an acute lesion although it did reveal an old L 
+sided infarct.  Mild ventriculomegaly was noted but, in 
+consultation with neurosurgery, this was felt to not represent 
+malfunctioning of his VP shunt and the decision was made to 
+defer tapping the shunt.  An EEG showed no specific seizure 
+focus but rather demonstrated a diffuse encephalopathy c/w a 
+toxic-metabolic derangement.  He was loaded with phenytoin and 
+tolerated the load well.  His mental status improved in the ICU 
+until he was near his baseline per his daughter, sleeping much 
+of the day, occasionally disoriented/confused but able to answer 
+questions and interact. He remained disoriented on the floor and 
+phenytoin 300 daily was continued for 10 days for his seizures. 
+Keppra was started and titrated up to 1000 BID, with no 
+subsequent seizures.  His mental status continued a 
+waxing/[**Doctor Last Name 36**] course consistent with delerium. Geriatrics was 
+consulted and thought his delerium was multifactorial, likely a 
+combination of reversed day/night cycles, unfamiliar location, 
+pneumonia and multiple medications.  Soft restraints and a 
+sitter were required for his delerium. Zyprexa was started at 
+bedtime to help with agitation and have him [**Doctor Last Name 314**] at night.  
+Trazadone was started for insomnia.  In the hours prior to his 
+passing, pt was comfortable in no acute distress.
+.
+3. CV: The patient was initially transferred for cardiac 
+catheterization but this was deferred prior to surgery.  In the 
+ICU, an ECHO was checked and demonstrated new (since [**2593**]) 4+MR 
+along with significant hypokinesis and akinesis of the LV.  His 
+cardiac medications were discontinued after his seizure and were 
+restarted back on the floor.  There were several cardiovascular 
+sub-issues addressed during his course:
+a. Ischemia: Patient dropped hematocrit to 21 during his ICU 
+stay.  He had increase in CE, max troponin T of 0.86.  After 
+transfusion to 33, his CE trended downward. However, he 
+complained of chest pain on several occasions, demanding 
+sublingual nitrates.  Patient had  baseline ST depressions in 
+V2-V5 which were stable during these events.  Pt was started on 
+isosorbide dinitrate, and thereafter pt was chest-pain free.  
+b. CHF: Echo from [**2593**] showed EF of 35%. Echo on [**8-13**] w/ EF of 
+25-30%. Patient had bilateral crackles on exam consistently and 
+evidence of pulmonary edema on multiple CXRs throughout his 
+course.  Afterload reduction with AceI and isosorbide dinitrate 
+were started.  Lasix 40 BID was started on HD 14, with 
+improvement in respiratory symptoms.  Lasix was dosed both 
+orally and IV depending on the gravity of need.  Ultimately, 
+pt's pulmonary edema became significant one day before his 
+demise following a blood transfusion; he received Lasix and 
+improved.  However, due to continued need for transfusion, pt's 
+family was consulted, and it was agreed that pt should be made 
+CMO on [**2603-8-28**].  All measures were discontinued beyond pain 
+management, and his respiratory status began to decline, likely 
+in absence of diuresis.  Pt ultimately died peacefully from 
+cardiopulmonary failure, likely secondary to decompensated CHF 
+w/ pulmonary edema.
+c. Rhythm: History of Afib, but Afib was not appreciated on 
+telemetry. Metoprolol was continued until pt was made CMO.
+d. LV thrombus: 3 cm LV thrombus seen on ECHO. Anticoagulation 
+with coumadin was started, goal INR [**1-7**]. INR to 9.1 on [**8-22**], 
+recovery with vitamin K. Coumadin restarted on [**8-23**].  Once pt 
+developed a left thigh hematoma, however, anticoagulation was 
+ceased and reversal was initiated with vitamin K.
+e. HTN: Controlled using BB, AceI, isordil, and lasix; goal SBP 
+> 120 (due to carotid stenosis) but < 140 (due to CHF); pt's BP 
+was well-controlled on the floor using this regimen.   
+.
+4. Respiratory: Once transferred to floor, patient became 
+tachypneic w/ RR 25-40 and appeared to be in moderate distress. 
+Distress resolved with ipratropium neb. CXR revealed bilateral 
+infiltrates suggestive of pneumonia. Zosyn was added to 
+patient's regimen for 6 days and Levofloxacin/flagyl for 3 days. 
+Repeat CXR showed resolution of infiltrates but respiratory 
+distress remained. Neck soft tissue film showed no evidence of 
+oropharyngeal or tracheal abnormality. After restarting home 
+Lasix, respiratory status improved; oxygen, prn Lasix, and 
+Atrovent nebs were the mainstays of pt's respiratory support.
+.
+5. Fever: The patient developed low grade temps in the ICU that 
+were first attributed to post-surgical atelectasis.  However, on 
+the day prior to call-out his BCX grew GPC and he was started on 
+vancomycin.  No speciation was available at the time of call out 
+to tailor therapy.  However, based on the cultures being 
+positive in 2/8 bottles this may represent a skin contamination. 
+Patient was on vancomycin for 7 days. Subsequent blood cultures 
+were negative.  Pt remained afebrile for the remainder of his 
+course.
+.
+6. Hypernatremia: Due to poor po water intake, patient had serum 
+sodium up to 147, with a free water deficit of 2.1L. He was 
+initially encouraged to drink thickened water, with no benefit. 
+1L of free water was given by IV.  Once CMO was instituted, pt's 
+sodium continued to rise.
+.
+7. Left Thigh Hematoma: on [**8-27**] pt developed a swollen, tender, 
+firm left thigh, but retained distal dorsalis pedis pulses; 
+sensation was difficult to ascertain given pt's ALOC.  CT of the 
+LLE revealed a hematoma expanding the vastus intermedius, 
+lateralis, and rectus femoris muscle bellies.  Given the 
+proximity of this hematoma to pt's ORIF on [**2603-8-11**], orthopedic 
+attending E.K. [**Doctor Last Name 1172**] was consulted and evaluated pt.  Dr. 
+[**Last Name (STitle) 1172**] did not advise draining the hematoma given the high 
+likelihood of reexpansion; rather, he opted for reliance on 
+tamponade effect slowing blood collection, INR reversal with 
+vitamin K, and stopping anticoagulation as a means of therapy.  
+The medicine team agreed with this approach, and serial HCTs 
+were followed.  Pt's HCT remained unstable (although vitals were 
+unchanged), so he was transfused several units (each followed by 
+lasix for developing pulmonary edema) until pt's family agreed 
+to CMO on [**2603-8-28**].
+.
+Pt's last living examination was performed at 08:30 AM on [**8-29**], 
+when he was breathing but failed to respond to verbal or touch; 
+his lung sounds were congested bilaterally, but were not 
+significantly changed from his inpatient baseline.  He was 
+comfortable and in no acute distress.  At 09:00, pt was found 
+breathless; examination revealed the following: unresponsive to 
+noxious stimuli, no breath sounds, no heart sounds, no carotid 
+pulse, pupils fixed and dilated at 5 mm w/o reaction to light, 
+and no corneal reflex.  Pt was pronounced dead at 09:00 on 
+[**2603-8-29**].  Upon his passing, pt's daughter was contacted; autopsy 
+was offered, but the family deferred.  Pt's PCP, [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] of 
+[**Hospital 4558**] Medical Associates, was notified of his passing.
+
+ 
+Medications on Admission:
+Outpatient Medications
+- ASA EC 325 mg daily  
+- Coreg 12.5 mg BID  
+- Lexapro 5 mg daily  
+- Norvasc 10 mg daily  
+- Fibercom 625 mg bid  
+- Nexium 40 mg daily  
+- Imdur 20 mg daily  
+- Proscar 5 mg daily  
+- Nitro TP 0.2 mg/hr daily, removed at bedtime  
+- Lasix 40 mg bid  
+- Lisinopril 20 mg daily  
+- Lipitor 10 mg daily  
+
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Primary Diagnosis: 
+1. Left Hip Fracture s/p ORIF w/ subsequent hematoma.
+2. NSTEMI. 
+3. Systolic Heart Failure EF ~ 25% 
+4. Atrial Fibrillation. 
+5. LV Apical Thrombus. 
+6. Generalized Tonic-Clonic Seizure - Left Sided [**Doctor Last Name 1210**] 
+Paralysis. 
+7. Aspiration Pneumonia. 
+8. Delirium. 
+9. Malnutrition - Moderate Degree. 
+ 
+Secondary: 
+1. Dementia. 
+2. Normal Pressure Hydrocephalus s/p VP Shunt. 
+3. Coronary Artery Disease s/p CABG 
+4. Ischemic Cardiomyopathy 4+ Mitral Regurgitation. 
+
+ 
+Discharge Condition:
+Deceased.
+ 
+Discharge Instructions:
+None.
+ 
+Followup Instructions:
+None.
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 322**] MD [**MD Number 323**]
+ 
+Completed by: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 4027**] MD [**MD Number 4028**] [**2603-8-30**] @ 1523
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: FRI [**2603-9-23**] 6:12 PM
+(End of Report)
+
+
+",,
+8380,20658,10419,0,2603-08-12 04:13:00 EST,2603-08-12 04:45:00 EST,2750,"N",1,"Nursing/Other","CCU/MICU boarder Nursing Note 2330-0700","
+CCU/MICU boarder Nursing Note 2330-0700
+S:  No response
+
+O:  87yom with extensive pmh including CABG x4 '[**80**] with 3 known clotted grafts '[**98**], presents to CCU as MICU boarder at 2330.  Pt underwent orif l hip [**8-11**] with gamma nail.  Pt tx from PACU to [**Hospital Ward Name 3**] 2 awake and alert.  Pt on [**Hospital Ward Name 3**] 2 for approx 5 minutes, when he experienced 3 siezures.  Rx with 1mg IVP Ativan post 3rd siezure, with pt becoming drowsy post.  Tx to CCU/MICU service for neuro monitoring.  
+
+Neuro - Pt is difficult to assess, as he is very hoh, but does have hearing aide in r ear.  Pt will occasionally answer questions with one word, but inconsistently.  Pt has normal, but weak movement rue, as well as rle.  Does move lle and lue, but only to nailbed stimuli.  Dilantin load of 1600mg slow iv given.  To start q8hr dose this afternoon.  To MRI at 0130 - shows no acute infarct.  Neuro following.
+
+ID - T max 99.5 po.  Blood and urine cultures sent.
+
+CV - HR 70-80's nsr/1'hb with rare pac's.  BP 135-154/70-90's.  All card meds on hold at this point.
+
+Resp - ls have rales ^ on r, l is clear.  o2 on 2ln/p with sats 97-100%.
+
+Gu - u/o via foley draining cloudy yellow urine.  u/o 70-100cc/hr.
+
+GI - kept npo.  Abd is soft with +bs.
+
+Skin/Surgical site - left hip with 2 dsg sites.  Proximal site is d/i.  Distal site is covered with s/s drainage and the same was reported by [**Hospital Ward Name 3**] 2 nsg.  Dsg not requiring reinforcement at this time.  Pillow placed between knees for turning, pneumoboots in place and sheep skin + under heels.  No areas of breakdown noted.
+
+Social - Pt daughter [**Name (NI) **] called and has been updated by this nurse.  Per [**Doctor First Name **], pt is dni, but we are to perform cpr and administer meds as well as DCV if required.  [**Doctor First Name **] will speak to case manager regarding placement when she visits today.  
+
+A:  87yom s/p siezures rx with Ativan and Dilantin.  No siezure activity since tx to CCU.
+
+P: monitor neuro status and administer dilantin q8hrs as ordered, monitor hemodynamics, lopressor x1 dose ordered for sbp >200, monitor mental status and keep npo until awake, turn and position for comfort/skin breakdown, cont ivf until awake enough for po's.  keep pt and family informed of poc per multidisiciplinary rounds.
+",,
+8380,20658,10419,0,2603-08-12 17:36:00 EST,2603-08-12 18:13:00 EST,5517,"N",1,"Nursing/Other","Nursing Note 7a-7p","
+Nursing Note 7a-7p
+S:""OOOWWWW OOOWWW...come on [**Doctor First Name **] %#@*&?!""
+O: See careview for complete objective data.
+Neuro- Pt HOH, hearing aide in R ear. Received pt very lethargic, difficult to rouse. Responding only to pain @ L hip fx site w/yelling. By 1400 more alert, responding to voice w/one word answers. Not following commands, orientation unknown. Lifts/holds bil UEs, moves LEs in bed, not restrained. No observed seizure activity this shift. Received iv Dilantin loading dose + maintenence dose. EEG done @ bedside, results pending. Neuro [**Doctor First Name 4**] consulted by MICU regarding hydrocephalis shunt, ? poss tap. NS evaluated and declined a tap.
+CV- Tele SR rare PACs, HR 70s-80s. NBPs 96-130/40s-60. Received 1L D5 1/2NS for fluid hydration post-op, has kvo w/dilantin. Started on 5mg iv Lopressor, tol well. Bil P-boots on.
+Resp- LS +crackles RLL, strong prod-cough. 02 @ 2L nc w/sats >95%. CXR done, results unknown.
+GI/GU- Made NPO until MS clears, all po meds held. +bs, no stool. Voiding qs via foley.
+ID- Afeb, no abx.
+Skin- 2 L ORIF incisions intact, 2nd incision dsg saturated. Attempt made to contact Ortho about dsgs (still originals) change, no return call.   
+A/P: Pt stable, no seizure activity seen. Cont on dilantin monitoring for s/s seizure activity.
+",,
+8380,20658,10419,0,2603-08-12 22:15:00 EST,2603-08-12 22:38:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 1900-2300","
+CCU NPN 1900-2300
+S: ""Leave me alone...""
+O: please see carevue for complete assessment data
+NEURO: Sleeping, eye opening to vocal stim. MAE in bed, does not follow commands. PERRL 2mm/brisk. Later in shift he has been verbalizing a few full sentences. Does not verbalize pain but moaning w/ movement turning. No narcotic pain meds to be admin per MICU team (may obscure neuro assessemnt).  Cont dilantin IV. Head CT completed, results pending. 
+
+CV: Remains hemodynamically stable, HR NSR 1st degree AV delay (PR 0.22), BP 160s, to recieve 1 additional dose IV lopressor and to start PO antihypertensives when NGT placement is confirmed by CXR. Extremities cool, pale, distal pulses weak palp, verified by doppler. Hct stable low 25.2, lytes wnl. Cycling CK, negative so far. 
+
+RESP: SpO2 100% on 2L, 95% on RA (pt becoming slightly more tachycardic on RA, placed back on 2l). Later changed to cool mist face tent to help loosen thick secretions. Sxn'd x 1 for mod amts thick tan secretions. RR 16-24. 
+
+GI: abd soft, nontender, nondistended. +BS/-BM. NGT placed, awaiting radiographic confirmation. To start TFs v. restart maintenance fluid. 
+
+GU: Foley draining adeqate amts CYU. 
+
+ID: tmax 100.8, pancultured (except sputum). 
+
+SKIN: PIV x 2 patent and intact. No breakdown, reddedned area on coccyx->duoderm applied to coccyx. 
+
+SOC: no calls/visits
+
+A: post-op seizures, hemodynamically/resp stable w/ improving mental sts. 
+P: cont to monitor mental sts, start po antihypertensives when NGT placement confirmed. ? c/o in am to neuro. Cont support to pt and family. 
+",,
+8380,20658,10419,0,2603-08-13 04:53:00 EST,2603-08-13 05:13:00 EST,1722,"N",1,"Nursing/Other",,"
+
+CCU NPN
+
+CV: REMAINS IN 1AVBL WITH PR 0.26. OCCASSIONAL PVC'S NOTED. SBP 110-140. PRIOR TO RECEIVING LOPRESSOR AND ISORDIL PT'S SBP 140-160. GIVEN LOPRESSOR 5MG IV @ MN. CXR CONFIRMED NGT PLACMENT. PT NOW STARTED ON LOPRESSOR 25MG VIA NGT. HR IMPROVING TO 70-89.
+
+RESP; O2 SATS 98-100%. RR 19-25. PT APPEARS COMFORTABLE. COUGB IS BECOMING STRONGER AND MORE PRODUCTIVE. ORAL SUCTIONED FOR THICK TAN SECRETIONS. BS CL/ DIMINISHED, CL CRACKLES @ BASES. CON'T ON 35% OPEN HUMID. FM TO LOOSEN secretions.
+
+GI: NGT CONFIRMED BY CXR. STARTED ON PROBALANCE FS @ 10CC/HR. ABD IS SOFT AND NON TENDER + BS. NO STOOL THIS SHIFT.
+
+GU; U/O > 60 CC/HR LOS + 350CC/HR
+
+SKIN: DUODERM TO COCCYX INTACT. L HIP UPPER DSG C/D INTACT, LOWER DSG WITH SERSANG DRAINAGE, BUT NO OOZING OUTSIDE DSG.
+
+NEURO: PT WILL OPEN EYES TO VOICE. HE IS BEGINNING TO SPEAK, BUT HIS VOICE IS GARBBLED AND AT TIMES WITH INCOMPRHENSIBLE SOUNDS. HE DOES NOT FOLLOW COMMNADS. HIS R/L ARM HE CAN LIFT AND HOLD, OCCASSIONALLY TRIES TO GO FOR TUBES AND O2 MASK. HIS LOWER EXT HE CAN MOVE ON THE BED. HE HAS HAD NO SEIZURE ACTIVITY. HE CON'T ON DILANTIN IVPB
+
+DISPOSITION: DNI
+
+SOCIAL : NO ENQUIERES OVERNOC
+
+ID: TEMP 100.5-99.8 AWAITING AM WBC. FULL CULTURES DONE ON [**8-12**]
+
+PIV: #20 X2 ON POST PORTION OF R Arm. #20 IV ON ANT AREA OF R Arm D/CD D/T REDDEDNESS.
+
+P: S/P POST OP SEIZURES ? ETIOLOGY. NEURO FOLLOWING. MONITOR HR/BP NOW ON LOPRESSOR. RECHECK AM HCT. UPDATE FAMILY ON POC. SUPPORT PT.
+",,
+8380,20658,10419,0,2603-08-13 05:32:00 EST,2603-08-13 05:32:00 EST,1722,"N",1,"Nursing/Other",,"
+
+ADDENDUM: CLOTT OBTAINED AND SENT TO BB.
+",,
+8380,20658,10419,0,2603-08-13 16:35:00 EST,2603-08-13 17:14:00 EST,5517,"N",1,"Nursing/Other","Nursing Note 7a-7p","
+Nursing Note 7a-7p
+S:""Take this off my finger"".
+O: See careview for all objective data.
+Neuro- Responds to vocal stimuli, opens eyes spontan, makes needs known. Very HOH, aide in L ear. Speech remains garbled, orientation unknown. Bil wrists restrained for safty, moves LEs in bed. This shift had no observed seizure activity. Conts on iv Dilantin boluses.
+CV- Tele SR, 1st degree AVB (0.22) rare PVCs. HR 76-90, NBPs 104-156/40s-50s. Tol lopressor/isodil doses. Hct 22.2, clot sent w/blood ready. Repeat Hct pending @ 1800. Bedside ECHO done to assess EF, results pending. +DP/PTs by doppler.
+Resp- LS diminished in bil bases, 02 sats >96% on R/A. Has strong productive cough.
+GI/GU- Conts on probalance @ 10/hr, no residuals. Abd soft +bs, no bm, on colace. Voiding qs cyu via foley.
+Skin- Ortho came to assess L ORIF site/dsg, did not change. Will return tomorrow to take down.
+Daughter in to visit (HCP) confirmed DNR/DNI status.
+ID- Tmax 98.4 ax, no abx, awaiting pan cx results.
+A/P: 87yo s/p L ORIF c/b seizures of unknown etiology. Cont to monitor neuro status, Tele and HCTs. Blood ready if Transf required. 
+
+
+",,
+8380,20658,10419,0,2603-08-14 05:08:00 EST,2603-08-14 07:30:00 EST,2691,"N",1,"Nursing/Other","CCU NURSING PROGRESS NOTE","
+CCU NURSING PROGRESS NOTE
+S:""WATER""
+O:PT LETHARGIC, AROUSABLE W/ VERBAL AND TACTILE STIMULI. SPEECH AT TIMES DIFFICULT TO UNDERSTAND. HAND GRASP WEAK BUT EQUAL. MOVES RLE IN BED. NOT MOVING LLE. NO SZ ACTIVITY. REMAINS ON DILATIN.
+
+CV:MHR SR W/ IVCD, FREQ PVC. DP WEAK BUT PALP. 
+
+RESP:LS DIM BILAT, CRACKLE DEPENDANT AT RIGHT BASE. LEFT BASE COARSE. 
+PT NOT ABLE TO PERFORM COUGH AND DEEP BREATHING. CPT BILAT EVERY 4HRS. SUCTIONED POSTERIOR PHARYNX FOR THICK TAN SPUTUM. INEFFECTIVE COUGH. 
+
+GI:ABD SOFT ROUNDED NON TENDER W/ HYPO BS. NGT PLACEMENT CONFIRMED. MIN NG ASPIRATE OBTAINED. PROBALANCE ADVANCED TO 40CC/HR. TOL WELL. NO STOOL. GAG DELAYED. 
+
+ID:T MAX 100.6 RECTAL, PRELIM BLD CX OF GPC REPORTED TO MD. REPEAT BCX2 SENT. PT STARTED ON VANCO. 
+
+ORIF:LEFT HIP INCISION LINES W/ STAPLES INTACT. INCISION LINE WELL APPROXIMATED. PROX INCISION W/ SOME ERYTHEMA ALONE INCISION LINE. SITES CLEANSED. DSD OCCLUSIVE DSG. SEROSANG DRG FROM SITE. 
+
+SKIN:DUODERM ON COCCYX INTACT. WAFFLE BOOTS APPLIED TO KEEP HEELS OFF BED. PNEUMOBOOTS ON. 
+
+A/P:CONTINUE TO MONITOR FOR SZ ACTIVITY, DILANTIN LEVEL. INCREASE ACTIVITY AS PER ORTHO. CONTINUE ANTIBIOTICS, FOLLOW CULTURES. PT TO EVAL PT. SOC SVC FOR PLACEMENT. PT DNR/DNI. 
+
+
+",,

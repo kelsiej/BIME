@@ -1,0 +1,770 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8847,33441,,,3430-10-23 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3430-10-23**]              Discharge Date:   [**3430-10-28**]
+ 
+Date of Birth:  [**3368-4-21**]             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Erythromycin Base
+ 
+Attending:[**First Name3 (LF) 3454**] 
+Chief Complaint:
+s/p fall with head trauma 
+ 
+Major Surgical or Invasive Procedure:
+Left craniotomy for left frontal mass resection
+ 
+History of Present Illness:
+62 year old female wiht head trauma s/p fall in shower 
+complaining of right upper and lower extremity weakness times 
+five days 
+ 
+Past Medical History:
+Right eye gloucoma/cataract 
+HTN 
+SLE 
+Fibromyalgia 
+
+ 
+Social History:
+noncontributory
+ 
+Family History:
+noncontributory
+ 
+Physical Exam:
+expired [**3430-10-28**] @1802
+ 
+Pertinent Results:
+[**3430-10-23**] 03:00AM   WBC-12.9* RBC-4.09* HGB-13.7 HCT-37.9 MCV-93 
+MCH-33.6* MCHC-36.3* RDW-12.6
+[**3430-10-23**] 03:00AM   ALBUMIN-4.2 CALCIUM-10.2
+[**3430-10-23**] 03:00AM   LIPASE-34
+[**3430-10-23**] 03:00AM   ALT(SGPT)-11 AST(SGOT)-16 LD(LDH)-154 ALK 
+PHOS-90 AMYLASE-52 TOT BILI-0.4
+[**3430-10-23**] 07:05AM   FIBRINOGE-433*
+[**3430-10-23**] 07:05AM   PT-13.5* PTT-27.2 INR(PT)-1.2
+[**3430-10-23**] 07:05AM   PLT COUNT-218
+[**3430-10-23**] 07:05AM   GLUCOSE-165* UREA N-21* CREAT-1.0 SODIUM-142 
+POTASSIUM-4.5 CHLORIDE-105 TOTAL CO2-24 ANION GAP-18
+ 
+Brief Hospital Course:
+Patient was admitted [**3430-10-28**] after severeal days of right upper 
+and lower extremity weakness ultimately leading to lost of 
+balance and head trauma s/p fall in shower. Head Ct in outside 
+hospital revealex left frontal mass confirmed by repat CT in 
+[**Hospital1 83**]. Dilantin loading dose 1gm to be followed by 100mg TID was 
+initiated. Additionally Decadron 4mg Q6 hours along with MRI of 
+the Head with and without contrast, Chest/Abdominal/Pelvic CT, 
+bone scan, ESR, CRP, CEA ere added for work up.  MRI revealed 
+Left frontal lobe mass along the medial aspect of the brain 
+suggestive of a primary neoplasm glioblastoma appears more 
+likely than oligodendroglioma. Pateint was preop and consented 
+for resection of frontal lobe mass. Procedure was peformed 
+[**3430-10-26**] without complication and transfered to PACU. Please see 
+operative report for details. Postoperative day 2 [**3430-10-28**] @ 
+1802 patient expired after suffering an episode of pulseless 
+electrical activity (PEA). Family was notified and refused 
+option of autopsy for death evaluation. 
+
+ 
+Discharge Medications:
+expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+expired
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+expired
+ 
+Followup Instructions:
+expired
+ 
+                             [**Name6 (MD) **] [**Name8 (MD) **] MD [**MD Number 3459**]
+ 
+Completed by: [**First Name5 (NamePattern1) 7390**] [**Last Name (NamePattern1) 7391**] MD [**MD Number 7392**] [**3430-10-28**] @ 2016
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: FRI [**3430-10-29**] 8:58 AM
+(End of Report)
+
+
+",,
+8847,33441,,,3430-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-23**] 1:53 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for primary cancer                                 
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with L frontal lobe mass,  unknown primary source             
+     REASON FOR THIS EXAMINATION:
+      evaluate for primary cancer                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CT torso.
+     
+     INDICATION:  Left frontal lobe mass for primary cancer.
+     
+     TECHNIQUE:  MDCT of the torso was performed from the thoracic inlet up to the
+     pelvis with injection of intravenous and oral contrast.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  There is no mediastinal or hilar lymphadenopathy.  Prominent
+     azygous fissure is noted.  Ground glass opacities are noted in the right
+     middle lobe with peribronchial thickening.  Tree-in-[**Male First Name (un) 3927**] opacities are noted in
+     the left lower lobe.  The airways are patent up to the subsegmental bronchi.
+     There are no pleural or pericardial effusions.
+     
+     CT ABDOMEN WITH CONTRAST:  There is a 2.8 x 3 cm lesion in the right lobe of
+     the liver, which shows increasing peripheral enhancement on delayed scans and
+     is consistent with a hemangioma.  Small hypodense lesions are noted within the
+     both kidneys which are 6-7 mm, too small to characterize.  The gallbladder,
+     pancreas, spleen and adrenals are unremarkable.  There is no intraabdominal
+     lymphadenopathy.  There is no ascites or free abdominal air. The bowel is
+     unremarkable.
+     
+     No suspicious lytic or blastic lesions are seen in the bones.
+     
+     IMPRESSION:
+     1.  Ground-glass opacities in the right middle lobe with peribronchial
+     thickening and tree-in-[**Male First Name (un) 3927**] opacity in the left lower lobe consistent with
+     nonspecific inflammation/infection.
+     2.  Hemangioma in the right lobe of the liver.
+     3.  Multiple small bilateral hypodense lesions in the kidneys, which are too
+     small to characterize.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3430-10-23**] 1:53 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for primary cancer                                 
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8847,33441,,,3430-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-23**] 1:53 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for primary cancer                                 
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with L frontal lobe mass,  unknown primary source             
+     REASON FOR THIS EXAMINATION:
+      evaluate for primary cancer                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CT torso.
+     
+     INDICATION:  Left frontal lobe mass for primary cancer.
+     
+     TECHNIQUE:  MDCT of the torso was performed from the thoracic inlet up to the
+     pelvis with injection of intravenous and oral contrast.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  There is no mediastinal or hilar lymphadenopathy.  Prominent
+     azygous fissure is noted.  Ground glass opacities are noted in the right
+     middle lobe with peribronchial thickening.  Tree-in-[**Male First Name (un) 3927**] opacities are noted in
+     the left lower lobe.  The airways are patent up to the subsegmental bronchi.
+     There are no pleural or pericardial effusions.
+     
+     CT ABDOMEN WITH CONTRAST:  There is a 2.8 x 3 cm lesion in the right lobe of
+     the liver, which shows increasing peripheral enhancement on delayed scans and
+     is consistent with a hemangioma.  Small hypodense lesions are noted within the
+     both kidneys which are 6-7 mm, too small to characterize.  The gallbladder,
+     pancreas, spleen and adrenals are unremarkable.  There is no intraabdominal
+     lymphadenopathy.  There is no ascites or free abdominal air. The bowel is
+     unremarkable.
+     
+     No suspicious lytic or blastic lesions are seen in the bones.
+     
+     IMPRESSION:
+     1.  Ground-glass opacities in the right middle lobe with peribronchial
+     thickening and tree-in-[**Male First Name (un) 3927**] opacity in the left lower lobe consistent with
+     nonspecific inflammation/infection.
+     2.  Hemangioma in the right lobe of the liver.
+     3.  Multiple small bilateral hypodense lesions in the kidneys, which are too
+     small to characterize.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3430-10-23**] 1:53 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for primary cancer                                 
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8847,33441,,,3430-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-23**] 1:53 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for primary cancer                                 
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with L frontal lobe mass,  unknown primary source             
+     REASON FOR THIS EXAMINATION:
+      evaluate for primary cancer                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CT torso.
+     
+     INDICATION:  Left frontal lobe mass for primary cancer.
+     
+     TECHNIQUE:  MDCT of the torso was performed from the thoracic inlet up to the
+     pelvis with injection of intravenous and oral contrast.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  There is no mediastinal or hilar lymphadenopathy.  Prominent
+     azygous fissure is noted.  Ground glass opacities are noted in the right
+     middle lobe with peribronchial thickening.  Tree-in-[**Male First Name (un) 3927**] opacities are noted in
+     the left lower lobe.  The airways are patent up to the subsegmental bronchi.
+     There are no pleural or pericardial effusions.
+     
+     CT ABDOMEN WITH CONTRAST:  There is a 2.8 x 3 cm lesion in the right lobe of
+     the liver, which shows increasing peripheral enhancement on delayed scans and
+     is consistent with a hemangioma.  Small hypodense lesions are noted within the
+     both kidneys which are 6-7 mm, too small to characterize.  The gallbladder,
+     pancreas, spleen and adrenals are unremarkable.  There is no intraabdominal
+     lymphadenopathy.  There is no ascites or free abdominal air. The bowel is
+     unremarkable.
+     
+     No suspicious lytic or blastic lesions are seen in the bones.
+     
+     IMPRESSION:
+     1.  Ground-glass opacities in the right middle lobe with peribronchial
+     thickening and tree-in-[**Male First Name (un) 3927**] opacity in the left lower lobe consistent with
+     nonspecific inflammation/infection.
+     2.  Hemangioma in the right lobe of the liver.
+     3.  Multiple small bilateral hypodense lesions in the kidneys, which are too
+     small to characterize.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3430-10-23**] 1:53 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for primary cancer                                 
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8847,33441,,,3430-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-23**] 1:53 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for primary cancer                                 
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with L frontal lobe mass,  unknown primary source             
+     REASON FOR THIS EXAMINATION:
+      evaluate for primary cancer                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CT torso.
+     
+     INDICATION:  Left frontal lobe mass for primary cancer.
+     
+     TECHNIQUE:  MDCT of the torso was performed from the thoracic inlet up to the
+     pelvis with injection of intravenous and oral contrast.
+     
+     COMPARISON:  None.
+     
+     FINDINGS:  There is no mediastinal or hilar lymphadenopathy.  Prominent
+     azygous fissure is noted.  Ground glass opacities are noted in the right
+     middle lobe with peribronchial thickening.  Tree-in-[**Male First Name (un) 3927**] opacities are noted in
+     the left lower lobe.  The airways are patent up to the subsegmental bronchi.
+     There are no pleural or pericardial effusions.
+     
+     CT ABDOMEN WITH CONTRAST:  There is a 2.8 x 3 cm lesion in the right lobe of
+     the liver, which shows increasing peripheral enhancement on delayed scans and
+     is consistent with a hemangioma.  Small hypodense lesions are noted within the
+     both kidneys which are 6-7 mm, too small to characterize.  The gallbladder,
+     pancreas, spleen and adrenals are unremarkable.  There is no intraabdominal
+     lymphadenopathy.  There is no ascites or free abdominal air. The bowel is
+     unremarkable.
+     
+     No suspicious lytic or blastic lesions are seen in the bones.
+     
+     IMPRESSION:
+     1.  Ground-glass opacities in the right middle lobe with peribronchial
+     thickening and tree-in-[**Male First Name (un) 3927**] opacity in the left lower lobe consistent with
+     nonspecific inflammation/infection.
+     2.  Hemangioma in the right lobe of the liver.
+     3.  Multiple small bilateral hypodense lesions in the kidneys, which are too
+     small to characterize.
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3430-10-23**] 1:53 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11041**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for primary cancer                                 
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8847,33441,,,3430-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-23**] 3:57 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 11040**]
+     Reason: NEW DX. BRAIN MASS.
+     Admitting Diagnosis: LEFT FRONTAL MASS
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with new dx brain mass                                        
+     REASON FOR THIS EXAMINATION:
+      brain w/ and w/o gad, also obtain susceptibility imaging, eval frontal mass and 
+      look for any additional lesions
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI BRAIN
+     
+     CLINICAL INFORMATION:  Patient with diagnosis of brain mass for further
+     evaluation.
+     
+     TECHNIQUE:  T1 sagittal and axial and FLAIR, susceptibility and diffusion
+     axial images obtained before gadolinium.  T1 axial and coronal images obtained
+     following gadolinium.  There are no prior similar examinations for comparison.
+     
+     FINDINGS:  There is an area of brain edema in the left frontal lobe.  There is
+     an irregular area of enhancement identified in the medial left frontal lobe
+     measuring approximately 3 cm in size with several rim-enhancing areas and a
+     small nodular component.  The susceptibility images demonstrate blood products
+     of chronic and subacute nature.  There is no evidence of slow diffusion
+     identified in the cystic component of the mass.  There is mass effect on the
+     left lateral ventricle.  There is no hydrocephalus.  There are no other
+     enhancing lesions identified.
+     
+     IMPRESSION:  Left frontal lobe mass along the medial aspect of the brain
+     demonstrating blood products of various ages.  The mass is suggestive of a
+     primary neoplasm.  Given the deep location, glioblastoma appears more likely
+     than oligodendroglioma.
+
+",,
+8847,33441,,,3430-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-23**] 3:57 AM
+     MR HEAD W & W/O CONTRAST; MR CONTRAST GADOLIN                   Clip # [**Clip Number (Radiology) 11040**]
+     Reason: NEW DX. BRAIN MASS.
+     Admitting Diagnosis: LEFT FRONTAL MASS
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with new dx brain mass                                        
+     REASON FOR THIS EXAMINATION:
+      brain w/ and w/o gad, also obtain susceptibility imaging, eval frontal mass and 
+      look for any additional lesions
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI BRAIN
+     
+     CLINICAL INFORMATION:  Patient with diagnosis of brain mass for further
+     evaluation.
+     
+     TECHNIQUE:  T1 sagittal and axial and FLAIR, susceptibility and diffusion
+     axial images obtained before gadolinium.  T1 axial and coronal images obtained
+     following gadolinium.  There are no prior similar examinations for comparison.
+     
+     FINDINGS:  There is an area of brain edema in the left frontal lobe.  There is
+     an irregular area of enhancement identified in the medial left frontal lobe
+     measuring approximately 3 cm in size with several rim-enhancing areas and a
+     small nodular component.  The susceptibility images demonstrate blood products
+     of chronic and subacute nature.  There is no evidence of slow diffusion
+     identified in the cystic component of the mass.  There is mass effect on the
+     left lateral ventricle.  There is no hydrocephalus.  There are no other
+     enhancing lesions identified.
+     
+     IMPRESSION:  Left frontal lobe mass along the medial aspect of the brain
+     demonstrating blood products of various ages.  The mass is suggestive of a
+     primary neoplasm.  Given the deep location, glioblastoma appears more likely
+     than oligodendroglioma.
+
+",,
+8847,33441,,,3430-10-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-23**] 1:35 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11039**]
+     Reason: eval acute pulm disease, nodules                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with R hemipar, frontal lobe mass                             
+     REASON FOR THIS EXAMINATION:
+      eval acute pulm disease, nodules                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Right hemiparesis, frontal lobe mass.
+     
+     COMPARISON:  None.
+     
+     UPRIGHT AP VIEW OF THE CHEST:  The heart is normal in size.  The mediastinal
+     and hilar contours are normal.  The pulmonary vascularity is normal.  The
+     lungs are clear.  There are no effusions or pneumothorax noted.  The osseous
+     structures are within normal limits.
+     
+     IMPRESSION:  No acute cardiopulmonary abnormality.
+                                                                           
+
+",,
+8847,33441,,,3430-10-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-24**] 9:46 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11042**]
+     Reason: S/P FALL, INTRACRANIAL TUMOR ?GBM, FELL ONTO RIGHT SIDE WITH HEAD INJURY, ? BLEED
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with intracranial tumor ? GBM, now s/p fall onto right side 
+      with head injury.
+     REASON FOR THIS EXAMINATION:
+      Any evidence of acute bleed into tumor or subdural?                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  62-year-old woman with intracranial tumor and now status post fall
+     on right side with head injury.
+     
+     COMPARISON:  [**3430-10-23**] brain MRI.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  Again seen is a left frontal lobe mass adjacent to the falx with
+     surrounding edema.  Higher attenuation areas are seen along the medial aspect
+     of the lesion and likely represent prior hemorrhage and was seen on the
+     previous day's MRI.  No new foci of hemorrhage are identified.  There
+     continues to be slight shift of anterior midline structures to the right.
+     There is no evidence of hydrocephalus.  Surrounding osseous and soft tissue
+     structures are unremarkable.
+     
+     IMPRESSION:  No acute hemorrhage.  Left frontal lobe mass with higher
+     attenuation along the medial edge consistent with prior hemorrhage.  This
+     appearance is unchanged from previous exam.
+     
+
+",,
+8847,33441,,,3430-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-26**] 7:53 AM
+     MR HEAD W/ CONTRAST; MR CONTRAST GADOLIN                        Clip # [**Clip Number (Radiology) 11043**]
+     Reason: Needs pre-op WAND study                                     
+     Admitting Diagnosis: LEFT FRONTAL MASS
+      Contrast: MAGNEVIST Amt: 17
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with Left Frontal Mass                                        
+     REASON FOR THIS EXAMINATION:
+      Needs pre-op WAND study                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Left frontal mass.  Preop WAND study.
+     
+     TECHNIQUE:  Multiplanar T1 post-gadolinium and MP-RAGE sequences.
+     
+     COMPARISONS:  Brain MRI from [**3428-10-22**].
+     
+     MRI OF THE BRAIN WITH IV CONTRAST:  The left parafalcine frontal mass, which
+     demonstrates cystic and solid components, with mural enhancement, is unchanged
+     since the prior study.  No new lesions are identified in this study done for
+     spatial localization purposes.
+
+",,
+8847,33441,,,3430-10-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-26**] 7:53 AM
+     MR HEAD W/ CONTRAST; MR CONTRAST GADOLIN                        Clip # [**Clip Number (Radiology) 11043**]
+     Reason: Needs pre-op WAND study                                     
+     Admitting Diagnosis: LEFT FRONTAL MASS
+      Contrast: MAGNEVIST Amt: 17
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with Left Frontal Mass                                        
+     REASON FOR THIS EXAMINATION:
+      Needs pre-op WAND study                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Left frontal mass.  Preop WAND study.
+     
+     TECHNIQUE:  Multiplanar T1 post-gadolinium and MP-RAGE sequences.
+     
+     COMPARISONS:  Brain MRI from [**3428-10-22**].
+     
+     MRI OF THE BRAIN WITH IV CONTRAST:  The left parafalcine frontal mass, which
+     demonstrates cystic and solid components, with mural enhancement, is unchanged
+     since the prior study.  No new lesions are identified in this study done for
+     spatial localization purposes.
+
+",,
+8847,33441,,,3430-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8847,33441,,,3430-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-28**] 9:29 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 11046**]
+     Reason: r/o PE: Please do PE protocol CT.                           
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman s/p L frontal craniotomy for tumor resection, now with sudden 
+      cardiopulmonary arrest, resuscitated.
+     REASON FOR THIS EXAMINATION:
+      r/o PE: Please do PE protocol CT.                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post left frontal craniotomy for tumor resection, now with
+     sudden cardiopulmonary arrest.  Evaluate for PE.
+     
+     COMPARISON:  CT of the torso from [**3430-10-23**].
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images were obtained from the
+     thoracic inlet to the lung bases with multiplanar reconstructions.
+     
+     CONTRAST:  100 cc of IV Optiray contrast were administered due to the rapid
+     rate of bolus injection required for this study.
+     
+     CTA OF THE CHEST:  No filling defects or pulmonary emboli identified within
+     the pulmonary arterial system to the level of the segmental branches.  The
+     aorta demonstrates normal caliber and contour, without any filling defects.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  The lung window images demonstrate
+     scattered emphysematous changes.  There is an azygos lobe.  The previously
+     noted tree-in-[**Male First Name (un) 3927**] opacities within the right middle lobe are less prominent,
+     likely representing interval improvement in the nonspecific
+     inflammation/infection.  Soft tissue window images demonstrate secretions
+     within the bronchi bilaterally.  Additionally, the ET tube is seen with the
+     tip positioned at the carina.  No pathologically enlarged mediastinal or hilar
+     lymphadenopathy is seen.  There is a miniscule amount of air adjacent to the
+     anterior aspect of the right fourth rib, in association with a rib fracture.
+     
+     BONE WINDOWS:  Right rib fracture.  No suspicious lytic or sclerotic lesions
+     identified.
+     
+     IMPRESSION:
+     1.  No pulmonary embolism.
+     2.  Right fourth rib fracture, likely from resuscitative efforts.
+     3.  Previously noted faint opacities in the right middle lobe are improving.
+     Followup evaluation can be obtained to document complete resolution.
+     4.  The ET tube is seen with the tip positioned at the carina.  Recommend
+     withdrawal by several centimeters.
+     
+     Results were discussed with Dr. [**First Name8 (NamePattern2) 11047**] [**Last Name (NamePattern1) 16**] at 11:40 p.m. on [**3430-10-28**].
+                                                                 (Over)
+
+     DATE: [**3430-10-28**] 9:29 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 11046**]
+     Reason: r/o PE: Please do PE protocol CT.                           
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8847,33441,,,3430-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-28**] 9:09 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11045**]
+     Reason: ? intracranial bleed?                                       
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     Field of view: 25
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman with s/p craniotomy to remove L-frontal mass; PD#2; went into 
+      PEA at 7.20 am
+     REASON FOR THIS EXAMINATION:
+      ? intracranial bleed?                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     NONCONTRAST CT OF THE HEAD:
+     
+     FINDINGS:  There is evidence of a left frontal craniotomy.  The somewhat
+     high-density lesion in the mid portion of the left frontal lobe is no longer
+     demonstrated.  Some of the higher density material representing hemorrhage is
+     still seen.  There is some gas seen within the operative bed.  There is
+     obliteration of the basal cisterns and indistinctness of the sulci especially
+     on the right side.  The right lateral ventricle is not obliterated nor is the
+     right temporal [**Doctor Last Name 234**].  Nonetheless, the appearance suggests rather generalized
+     cerebral edema, which has increased compared to the previous examination.
+     
+     IMPRESSION:  No evidence of new intracranial hemorrhage.  Findings consistent
+     with increased intracranial pressure compared to the previous study.
+                                                                           
+
+",,
+8847,33441,,,3430-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-28**] 8:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11044**]
+     Reason: eval after code, transfer to [**Hospital Unit Name 461**]                           
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       62 year old woman with R hemipar, frontal lobe mass                            
+       
+     REASON FOR THIS EXAMINATION:
+      eval after code, transfer to [**Hospital Unit Name 461**]                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  62-year-old woman with right hemiparesis and frontal lobe mass now
+     status post cardiac arrest and transferred to the ICU.  Please assess
+     endotracheal tube position.
+     
+     TECHNIQUE:  A single AP supine portable chest radiograph was obtained.
+     
+     COMPARISON:  AP upright portable chest radiograph dated [**3430-10-23**].
+     
+     FINDINGS:  There is an endotracheal tube with tip approximately 3 cm from the
+     carina.  The heart size is within normal limits.  The cardiomediastinal
+     contours are unremarkable.  The pulmonary vasculature appears normal.  The
+     right costophrenic angle is not visualized on this study, but given this
+     limitation, the lungs appear clear and no pleural effusion or pneumothorax is
+     identified.  Bony structures are within normal limits.
+     
+     IMPRESSION:  Endotracheal tube in satisfactory position.
+     
+
+",,
+8847,33441,,,3430-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3430-10-28**] 9:29 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 11046**]
+     Reason: r/o PE: Please do PE protocol CT.                           
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old woman s/p L frontal craniotomy for tumor resection, now with sudden 
+      cardiopulmonary arrest, resuscitated.
+     REASON FOR THIS EXAMINATION:
+      r/o PE: Please do PE protocol CT.                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post left frontal craniotomy for tumor resection, now with
+     sudden cardiopulmonary arrest.  Evaluate for PE.
+     
+     COMPARISON:  CT of the torso from [**3430-10-23**].
+     
+     TECHNIQUE:  MDCT acquired contiguous axial images were obtained from the
+     thoracic inlet to the lung bases with multiplanar reconstructions.
+     
+     CONTRAST:  100 cc of IV Optiray contrast were administered due to the rapid
+     rate of bolus injection required for this study.
+     
+     CTA OF THE CHEST:  No filling defects or pulmonary emboli identified within
+     the pulmonary arterial system to the level of the segmental branches.  The
+     aorta demonstrates normal caliber and contour, without any filling defects.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  The lung window images demonstrate
+     scattered emphysematous changes.  There is an azygos lobe.  The previously
+     noted tree-in-[**Male First Name (un) 3927**] opacities within the right middle lobe are less prominent,
+     likely representing interval improvement in the nonspecific
+     inflammation/infection.  Soft tissue window images demonstrate secretions
+     within the bronchi bilaterally.  Additionally, the ET tube is seen with the
+     tip positioned at the carina.  No pathologically enlarged mediastinal or hilar
+     lymphadenopathy is seen.  There is a miniscule amount of air adjacent to the
+     anterior aspect of the right fourth rib, in association with a rib fracture.
+     
+     BONE WINDOWS:  Right rib fracture.  No suspicious lytic or sclerotic lesions
+     identified.
+     
+     IMPRESSION:
+     1.  No pulmonary embolism.
+     2.  Right fourth rib fracture, likely from resuscitative efforts.
+     3.  Previously noted faint opacities in the right middle lobe are improving.
+     Followup evaluation can be obtained to document complete resolution.
+     4.  The ET tube is seen with the tip positioned at the carina.  Recommend
+     withdrawal by several centimeters.
+     
+     Results were discussed with Dr. [**First Name8 (NamePattern2) 11047**] [**Last Name (NamePattern1) 16**] at 11:40 p.m. on [**3430-10-28**].
+                                                                 (Over)
+
+     DATE: [**3430-10-28**] 9:29 AM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 11046**]
+     Reason: r/o PE: Please do PE protocol CT.                           
+     Admitting Diagnosis: LEFT FRONTAL MASS
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8847,,11002,0,3430-10-28 17:40:00 EST,3430-10-28 17:54:00 EST,6775,"N",53,"Nursing/Other",,"
+
+SICU NN: See carevue for specific data. Received patient from [**Hospital Ward Name 3**] 5 at 0740 s/p cardiac arrest and resucitation.  Patient arrived intubated, sinus tach on cardiac monitor, and on a dopamine drip. Dopamine was changed to neosynephrine due to her tachycardia with good blood pressure control, maintaining bp between 120 and 130 as per neurosurgery team. CXR and EKG obtained. Aline inserted, labs and abg sent. Patient then transported to CT scan for scan of brain and chest to r/o p.e. Patient was transported without incident by two RN's, two RT's, and one MD [**Last Name (Titles) 1585**].  Upon return to the ICU patient received lasix, mannitol and decadron as ordered with no improvement in mental status. From the patients arrival to the unit until time of death neuro exam remained unchanged. Patient was unresponsive to all stimuli. Pupils dilated and fixed. No corneal reflex. No cough or gag reflex present. No spontaneous movement or posturing. Calcium, magnesium, kcl and phosphorous repleted as ordered. Frequent electrolyte checks done. Patient's right brachial aline dc'd due to no waveform or blood return. After multiple attempts by sicu team arterial line placed in left foot. At 1515 cold coloric test done and patient failed. Then apnea test done and patient failed. Brain death protocol checksheet done and placed in chart by m.d. Policy followed. Social work, clergy, and organ bank notified and in to see patient and family. Patient not a candidate for organ donation. Patient extubated at 1730. Patient pronounced at 1802 by Dr. [**Last Name (STitle) **]. Emotional support provided to family. Family refused autopsy. Post mortem care done. 
+",,

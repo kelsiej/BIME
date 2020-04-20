@@ -1,0 +1,693 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8186,4669,,,2714-05-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2714-5-4**]       Discharge Date:  [**2714-5-10**]
+
+Date of Birth:   [**2640-5-11**]       Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 73 year old
+male transferred from [**Hospital3 **] to [**Hospital1 74**] for permanent pacemaker placement.
+The patient presented to [**Hospital3 **] with three days of
+shortness of breath, pedal edema on [**2714-5-3**], and on
+electrocardiogram there, the patient was found to be in
+complete heart block with escape rhythm in the 30s.  The
+patient was also in congestive heart failure.  He has chronic
+renal insufficiency with a baseline creatinine of
+approximately 2.3.  Last night electrocardiogram showed
+normal sinus rhythm at 80 beats per minute, first degree AV
+block, right bundle branch block, left axis deviation.
+Temporary pacemaker wires were placed on [**2714-5-3**], with 70%
+capture noted as per discharge summary.  The patient was
+noted to have four beat run of ventricular tachycardia prior
+to wire placement as well.  Given both pacing needs and
+history of ventricular tachycardia, the patient was
+transferred to the [**Hospital1 75**] for
+pacer defibrillator placement.  Upon arrival to [**Hospital1 74**], it was noted that the patient's
+pacer was capturing only 30% of the time at bedside.  Dr.
+[**Last Name (STitle) **] was called urgently for bedside wire evaluation with
+fluoroscopy.  It was noted that the wires were noted to be in
+the right ventricular outflow tract and they were
+repositioned in the right ventricular apex. The patient was
+stable and capturing with threshold of 1.5 mV of current.
+
+PAST MEDICAL HISTORY:
+1.  Ischemic cardiomyopathy.
+2.  Porcine aortic valve replacement five years ago.
+3.  Coronary artery bypass graft times four five years ago.
+4.  Left ventricular aneurysmectomy 5 years ago.
+5.  History of nonsustained ventricular tachycardia.
+6.  Chronic obstructive pulmonary disease/emphysema.
+7.  Chronic renal insufficiency.
+8.  Diabetes mellitus, diet controlled.
+
+MEDICATIONS ON ADMISSION:
+1.  Aspirin 325 mg p.o. once daily.
+2.  Paxil 20 mg once daily.
+3.  Digoxin 0.125 mg once daily.
+4.  Captopril 6.25 mg twice a day.
+5.  Lipitor 10 mg p.o. once daily.
+6.  Furosemide 60 mg once daily.
+7.  Lorazepam 0.5 mg.
+8.  Zaroxolyn 2.5 mg Monday, Wednesday and Friday.
+9.  Potassium Chloride 50 meq once daily.
+10. Combivent nebulizer four times a day.
+11. Trusopt eye drops.
+12. Xalatan eye drops.
+
+PRIMARY CARE PHYSICIANS:  Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], and Dr. [**First Name4 (NamePattern1) **]
+[**Last Name (NamePattern1) **].
+
+PHYSICAL EXAMINATION:  Heart rate 70 beats per minute paced,
+blood pressure 102/60, oxygen saturation 98%, respiratory
+rate 23,  Moist mucous membranes.  Jugular venous pressure
+elevated to 10.  The pacing wires were in place.  Lungs -
+Expiratory wheezes with poor air flow.  Heart - regular rate
+and rhythm, S1 and S2.  The abdomen was soft and nontender.
+Extremities - +1 lower extremity edema bilaterally.
+Neurologically, the patient is alert and oriented times
+three.
+
+LABORATORY DATA:  On presentation, Digoxin level was 2.13.
+Hematocrit was 39.7.  White blood cell count 5.2, platelet
+count 195,000.  Creatinine 2.2, blood urea nitrogen 83.
+Sodium 138, chloride 93, bicarbonate 27, potassium 4.0,
+magnesium 2.6, CK 124, troponin 0.061.
+
+Electrocardiogram showed bigeminy.  Old electrocardiogram
+from [**Hospital3 **], complete heart block, right bundle
+branch block.
+
+HOSPITAL COURSE:  The patient is a 73 year old male with
+complete heart block and history of ventricular tachycardia
+transferred from [**Hospital3 **] with temporary pacing wires
+for permanent pacemaker/possible AICD placement.  On the
+night of admission the patien developed progressive respiratory
+distress due to pulmonary edema, and was intubated and sedated.
+Chest x-ray confirmed pulmonary edema.  Right heart
+catheterization showed cardiac output of 5.1 and cardiac index of
+2.75.  The patient had initially been started on Dopamine and
+Neo-Synephrine for hypotension status post the intubation. Pacing
+wire remained functional in the 70s.  On [**2714-5-5**], the Dopamine
+was weaned off.  On [**2714-5-6**], Neo-Synephrine was weaned off. The
+patient went to the Electrophysiology Laboratory and had a
+biventricular permanent pacemaker placed with no complications.
+Discussions had been made with the patient (prior to
+intubation) and the family regarding the possible placement of
+an ICD. Both the patient and family felt that this was not
+compatible with the patient's wishes.  On [**2714-5-7**], the patient
+was weaned from the ventilator successfully being alert and in
+good spirits.  He had been placed on a Lasix drip prior to being
+extubated with a diuresis of 3.5 liters.  During this period, the
+patient also had an echocardiogram on [**2714-5-5**].  The patient was
+found to have a left ventricular ejection fraction of 20%, TR
+gradient of 45, left atrium elongated, right atrium was mildly
+dilated. Catheter pacing wire was seen in the right ventricle
+and/or right atrium, left ventricle wall thickness normal, cavity
+was mildly dilated, several global left ventricular
+hypokinesis, no mass or thrombi seen in the left ventricle,
+right ventricular cavity is mildly dilated, right ventricular
+systolic function appeared depressed, [**1-15**]+ mitral
+regurgitation, moderate 2+ tricuspid regurgitation and
+moderate pulmonary artery systolic hypertension.
+
+The patient is a 73 year old male who presents with an
+ejection fraction of 20%, chronic obstructive pulmonary
+disease, with complete heart block, status post permanent
+pacemaker, also history of ventricular tachycardia, but the
+patient's family wanted him to be do not [**Last Name (LF) 7741**], [**First Name3 (LF) **] not
+resuscitate.  As a result, he did not have an AICD placed.
+
+Rhythm - Complete heart block - He is status post permanent
+pacemaker placement with no events.  The patient has a
+follow-up appointment on [**2714-5-14**], at 10:30 a.m. at Device
+Clinic, [**Telephone/Fax (1) 11296**].  The patient was noted to have brief
+episodes of atrial fibrillation, however the decision was made
+not to initiate coumadin at this time due to risk of falling
+and anemia and the relatively short periods of time that the
+patient has been in atrial fibrillation.  This will be
+readdressed in the future.
+
+Coronary artery disease - Aspirin, statin, low dose Zestril
+for congestive heart failure.  The patient was on 0.125 mg
+Digoxin once daily.  The patient should have a Digoxin level
+checked on Monday, [**2714-5-11**].  The patient will be discharged
+on a dose of Lasix p.o.  If the patient should have any
+weight gain, his primary care physician should be contacted.
+The patient should be followed up and have his Coreg started
+as an outpatient in the outpatient cardiology setting if his
+blood pressure tolerates it for his heart failure.
+
+Pulmonary - The patient has chronic obstructive pulmonary
+disease and has received Atrovent nebulizers here and is on
+Singulair as well and uses a Combivent inhaler.
+
+Renal - The patient's creatinine was 1.3 on the day of
+discharge.  It seemed to be relatively stable throughout his
+stay.  He actually presented with a higher creatinine of 2.2
+at the time of admission.
+
+Infectious disease - The patient received Vancomycin
+peripacemaker wire adjustment and pacemaker placement.  He
+then will be on Keflex for seven days postprocedure until
+[**2714-5-14**].
+
+DISCHARGE DIAGNOSES:
+1.  Congestive heart failure.
+2.  Complete heart block, status post permanent pacemaker
+placement.
+3.  Chronic renal insufficiency.
+4.  Chronic obstructive pulmonary disease.
+5.  Type 2 diabetes mellitus.
+6.  Coronary artery disease, status post coronary artery
+bypass graft.
+7.  Porcine aortic valve replacement.
+8.  Ischemic cardiomyopathy.
+
+DISCHARGE FOLLOW-UP:  Device Clinic, i.e., Pacemaker Clinic,
+[**Hospital Ward Name **] Building, seventh floor at 10:30 a.m., [**Telephone/Fax (1) 11297**],
+on [**2714-5-14**].
+
+MEDICATIONS ON DISCHARGE:
+1.  Aspirin 325 mg once daily.
+2.  Paxil 20 mg once daily.
+3.  Digoxin 0.125 mg once daily.  Should have level checked
+two to three days status post discharge.
+4.  Zestril 2.5 mg p.o. once daily.
+5.  Keflex 500 mg p.o. q12hours until [**2714-5-14**].
+6.  Lasix 30 mg p.o. twice a day.
+7.  Lipitor 10 mg p.o. once daily.
+8.  Dorzolamide 2% ophthalmic solution one drop O.U. twice a
+day.
+9.  Latanoprost 0.005% ophthalmic solution one drop O.U.
+q.h.s.
+10. Combivent one to two puffs q4hours.
+11. Singulair 10 mg p.o. once daily.
+
+The patient should have blood urea nitrogen and creatinine as
+well as potassium monitored frequently and have his potassium
+repleted as needed given the diuretic usage.
+
+
+
+
+                            [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 289**], M.D.  [**MD Number 290**]
+
+Dictated By:[**Last Name (NamePattern1) 1283**]
+MEDQUIST36
+
+D:  [**2714-5-10**]  11:52
+T:  [**2714-5-10**]  12:20
+JOB#:  [**Job Number 11298**]
+
+
+
+
+
+
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) 289**]
+ on: MON [**2714-6-22**] 10:34 AM
+(End of Report)
+
+
+",,
+8186,4669,,,2714-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2714-5-4**] 7:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5587**]
+     Reason: post-intubation film                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       73 year old man with complete heart block, emphysema, CHF                      
+       
+     REASON FOR THIS EXAMINATION:
+      post-intubation film                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Complete heart block emphysema post-intubation.
+     
+     COMPARISON:  [**2714-5-4**]
+     
+     SUPINE PORTABLE CHEST:  The endotracheal tube is well positioned 6 cm above
+     the carina.  There is persistent interstitial fluid bilaterally with
+     peribronchial cuffing.  There is hazy opacity overlying the right hemithorax
+     which may represent an effusion layering on that side.  This was not evident
+     before.  There is new bibasilar atelectasis.
+     
+     IMPRESSION:  CHF.  Satisfactory endotracheal tube placement.
+
+",,
+8186,4669,,,2714-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2714-5-4**] 6:45 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5586**]
+     Reason: evaluate for CHF                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with complete heart block, emphysema, CHF                       
+     REASON FOR THIS EXAMINATION:
+      evaluate for CHF                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Complete heart block, emphysema and CHF.
+     
+     COMPARISON:  None
+     
+     AP UPRIGHT PORTABLE CHEST:  A left-sided pacing lead terminates projecting
+     over the right ventricle.  Cutaneous Zoll pads are present.  The heart is
+     upper limits of normal in size.  The patient is post-CABG.  There is
+     cephalization of the pulmonary vessels with [**Last Name (un) 3012**] B-lines noted bilaterally
+     in addition to peribronchial cuffing and indistinctness of the pulmonary
+     vasculature.
+     
+     IMPRESSION:  CHF.
+
+",,
+8186,4669,,,2714-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2714-5-4**] 5:09 PM
+     CHEST FLUORO WITHOUT RADIOLOGIST; CHEST (SINGLE VIEW)           Clip # [**Clip Number (Radiology) 5584**]
+     Reason: TEMP PACER PLACEMENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST FLUORO WITHOUT RADIOLOGIST:
+     
+     INDICATION:  Pacemaker placement.
+     
+     Fluoroscopic guidance was provided to Dr.[**First Name4 (NamePattern1) 5585**] [**Last Name (NamePattern1) 725**] for placement of a
+     temporary pacemaker.  A single oblique fluoroscopic image of the chest is
+     submitted for interpretation and demonstrates the presence of a pacing lead
+     which is directed anteriorly in the region of the right ventricle.  Subsequent
+     chest radiograph has been obtained to confirm appropriate placement and is
+     dictated separately.
+     
+     
+
+",,
+8186,4669,,,2714-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2714-5-4**] 5:09 PM
+     CHEST FLUORO WITHOUT RADIOLOGIST; CHEST (SINGLE VIEW)           Clip # [**Clip Number (Radiology) 5584**]
+     Reason: TEMP PACER PLACEMENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST FLUORO WITHOUT RADIOLOGIST:
+     
+     INDICATION:  Pacemaker placement.
+     
+     Fluoroscopic guidance was provided to Dr.[**First Name4 (NamePattern1) 5585**] [**Last Name (NamePattern1) 725**] for placement of a
+     temporary pacemaker.  A single oblique fluoroscopic image of the chest is
+     submitted for interpretation and demonstrates the presence of a pacing lead
+     which is directed anteriorly in the region of the right ventricle.  Subsequent
+     chest radiograph has been obtained to confirm appropriate placement and is
+     dictated separately.
+     
+     
+
+",,
+8186,4669,10181,0,2714-05-04 18:50:00 EST,2714-05-04 19:00:00 EST,620,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s: will i get my neb soon?
+o: pls see carevue flowsheet for complete vs/data/events
+arrived from [**Hospital1 **] around 4pm. pt alert, in nad. pacer no fxn'ing properly. failure to cpture. rate 70, ma20.
+team notified, ep fellow came and repositioned pacing wire under fluro. now capturing well at 70. ma at 10, threshold 1.5.
+bp 110-130/60-70.
+pt had been comfortable and conversant until around 6:45pm while turning pt he became acutely sob. he requested a neb tx. while that was being ordered pt became more and more distressed. color very poor, moving air extremely poorly. attempted neb txs, lasix iv. iv ntg started. no response. abg: 7.25/77/169. pt tired, becoming less reponsive so was intubated at 7:30pm.
+family notified of events by dr [**Last Name (STitle) **],
+a: chb, pacer dep. bp stable. resp event ?copd flare or chf, now intubated.
+p: to ep for prob pacer, ?icd tomorrow. adjust vent as req, pulm toilet. med for comfort/anxiety. support to pt and family.
+",,
+8186,4669,10181,,2714-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2714-5-5**] 1:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5588**]
+     Reason: eval Swan placement                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        73 year old man with complete heart block, emphysema, CHF                     
+         
+     REASON FOR THIS EXAMINATION:
+      eval Swan placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Complete heart block, CHF, check Swan-Ganz placement. 
+     
+     PORTABLE AP CHEST: Comparison is made to previous films from  [**2714-5-4**].
+     
+     The newly inserted right internal jugular Swan-Ganz catheter tip is in the
+     intralobar PA. Additionally, a loop of the catheter goes down the inferior
+     vena cava before coming back into the right atrium and entering the right
+     ventricle.  The catheter should be withdrawn 3-4 cm for optimal positioning.
+     Again noted are dual external pacemaker pads, along with a left subclavian
+     approach pacemaker wire. A prosthatic aortic valve is again present. The NG
+     tube tip is well below the diaphragm but not visualized on this study. Again
+     noted is an endotracheal tube in satisfactory position.  There is stable
+     cardiac enlargement.  Pulmonary vasculature is essentially unchanged,
+     demonstrating moderate CHF. Patchy areas of opacity remain in both lung bases,
+     which are stable in appearance. Osseous structures are unchanged.
+     
+     IMPRESSION:  Swan-Ganz catheter tip in right intralobar pulmonary artery, with
+     additional loop which courses down the inferior vena cava before coming back
+     into the right atrium. Catheter should be withdrawn 3-4 cm for optimal
+     positioning.  Stable moderate congestive heart failure.
+
+",,
+8186,4669,10181,,2714-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2714-5-5**] 12:23 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5590**]
+     Reason: eval chf                                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         73 year old man with complete heart block, emphysema, CHF                    
+           
+     REASON FOR THIS EXAMINATION:
+      eval chf                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 73 y/o man with complete heart block, emphysema, CHF.
+     
+     PORTABLE AP VIEW OF THE CHEST: Comparison is made to the prior study performed
+     approximately 11 hours earlier same day. The Swan-Ganz catheter, ETT and NG
+     tube appear unchanged in position. The tip of the Swan-Ganz catheter overlies
+     the right descending pulmonary artery. The mid portion of the catheter is
+     coiled within the IVC. Grounding pads overlie the chest. Surgical clips and
+     wires are present consistent with prior median sternotomy. The right lateral
+     chest is excluded and cannot be assessed. There is stable prominence and
+     indistinctness of the pulmonary vasculature and hazy bilateral alveolar
+     opacities.
+     
+     IMPRESSION: Lines and tubes as described above. No change in the mild failure.
+
+",,
+8186,4669,10181,,2714-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2714-5-5**] 1:39 AM
+     CHEST FLUORO WITHOUT RADIOLOGIST PORT                           Clip # [**Clip Number (Radiology) 5589**]
+     Reason: FLOATING SWAN
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     A chest fluoro was performed without a radiologist present. .3 minutes of
+     fluoro time was used. No films submitted. 
+
+",,
+8186,4669,10181,0,2714-05-05 04:37:00 EST,2714-05-05 05:08:00 EST,-1,"N",1,"Nursing/Other","CCU NPN 7A-7P","
+CCU NPN 7A-7P
+Neuro: Receiving frequent boluses of versed for sedation, fair effect. Last night was opening eyes to name, following simple commands. This morning responding to pain, not following any commands. Will periodically [**Last Name (LF) 5481**], [**First Name3 (LF) **] sometimes pull at restraints with shaking episodes.
+
+CV: Remains Vpaced @ 70 w/ occ junctional escape/ventricular escape beats. VVI pacing wires in R SC, mA 10/sensitivity 2. External pacing pads on and attached to defib. BP down to 75/38, started on neo, titrated to 1.5mcg/kg/min. Swan placed under fluoro, RA 18 RV 65/28 PA 70/30 PCWP 25. CO 5.1 CI 2.73 SVR 675 (on 0.61mcg of neo). Attempted to switch dopamine to neo (per cardiology fellow), had long run VT on 10mcg dopamine, dopa turned off. This morning CO 3.9 CI 2.09 SVR 1087 (on 1.5mcg neo). 
+
+Pulm: Orally intubated w/ 7.5 ETT, 22@ lip. Advanced to 24 @ the lip. LS w/ bilateral crackles @ bases. Last night ABG showed respiratory acidosis w/ CO2 as high as 79 (OSH ABG-CO2 was 45), RR and TV increased accordingly. Current vent settings SIMV 550/24/40/5, no overbreathing. Recent ABG 7.44/46/119/32. Unable to suction any sputum. CXR showing pulm edema/COPD. 
+
+GI/GU: +BS, abd soft, non-tender. OGtube placed, remains NPO for now. On IV famotidine. Foley patent, draining cl yellow urine, hematuria noted last night. Given 120mg IV lasix last night @ 2000 w/ little effect. Zaroxyln 5mg given @ 2200. @ 0200 given additional 200mg IV lasix and started on lasix gtt @ 10mg/hr. HUO now 215-275cc/hr, -800 since MN. Creat 2.4 last night.
+
+ID: Temp 97.2R, WBC 14.9. Swan numbers have questionable septic pictures, pan-cultured except for sputum. Received 1-time dose of vancomycin for pacing wires.
+
+Access: 2 PIV, VIP swan, pacing wire sidearm.
+
+Social: Pt's son-in-law ([**Name (NI) **]) consented over the phone to place swan. Per pt's family pt does not want heroic measures done if it is an irreversible process.
+
+A/P: ECHO this morning to assess pump function. EP study and ICD/pacer placement this afternoon. Cont diuresis w/ lasix gtt, follow swan numbers, titrate neo for BP. Follow cultures, ?TF, wean vent as tol, versed prn.
+",,
+8186,4669,10181,0,2714-05-05 13:40:00 EST,2714-05-05 14:00:00 EST,620,"N",1,"Nursing/Other","ccu nursing progress note","
+ccu nursing progress note
+s: orally intubated and sedated
+o: pls see carevue flowsheet for complete vs/data/events
+
+cv: pacer rate ^'d to 80. 100%pacer dep, v paced via tranvenous pacer in lsc. capturing and sensing appropriately. ma 10, [**Last Name (un) **] 1.5.
+occ pvc. 60meq of k infused for k 3.6.
+weaning neo throughout day  slowly, tol well. now at .44mcg/kg with maps 65-70.
+paps 65-70/30-38. cvp 15-22. w 30 in am, down to 22 this afternoon. 
+co4.1, ci 2.2, svr 1054. mv sat 65.
+
+resp: weaning imv rate today. pt not overbreathing as of yet. fio2 to 30%, pO2 79, sat 91-95%. bs cxs in lower fields, scatt coarse. sxn'd for mod amt thick white secretions intermittently.
+
+gi: npo, min bilious aspirates from ogt. abd soft, nontender. no stool.
+gu: uop 200-400cc/hr. dc'd lasix this am. cont good uop. is currently 3L neg from mn!
+ms: sedated w versed 1-2mg q30-90min with fair results. at times able to talk w him and calm him. nods to ?s. able to follow commands. has req wrist restraints to maintain vent/lines.
+
+skin: intact. placed on 1st step mattress.
+social: proxy placed in chart. family visited updated by med team, home for day.
+
+a: pacer dep, weaning neo and vent as tol. 
+p: wean neo, maintain maps >65. wean vent rate as tol, follow abgs. med for comfort. plan for pacer and poss icd tomorrow. support to pt and family.
+
+",,
+8186,4669,10181,0,2714-05-05 17:49:00 EST,2714-05-05 17:50:00 EST,979,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+VSS- no change in assessment- tolerating vent changes- abg sent & pending- U/O gd
+",,
+8186,4669,10181,,2714-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2714-5-6**] 4:36 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5591**]
+     Reason: r/o PTX                                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          73 year old man s/p biventricular ICD with LV lead via left subclavian vein 
+     REASON FOR THIS EXAMINATION:
+      r/o PTX                                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  S/P biventricular ICD with LV lead via subclavian vein evaluate
+     for pneumothorax.
+     
+     Comparison is made to the chest radiograph from [**2714-5-5**].
+     
+     SEMI-UPRIGHT AP CHEST RADIOGRAPH:  A newly inserted dual chamber
+     pacemaker/AICD is present overlying the left anterior chest wall.  No left-
+     sided pneumothorax is seen.  Note is made of a skin fold overlying the right
+     apex.  The endotracheal tube, and NG tube are stable in appearance.  Heart
+     size and mediastinal contours and pulmonary vasculature are unchanged in
+     appearance, again demonstrating mild CHF.  Both costophrenic angles are not
+     included on this study.  Osseous structures are stable in appearance.
+     
+     IMPRESSION:  Newly inserted pacemaker as described above.  No pneumothorax.
+     Heart and lungs unchanged.
+
+",,
+8186,4669,10181,0,2714-05-06 03:50:00 EST,2714-05-06 04:14:00 EST,-1,"N",1,"Nursing/Other","CCU NPN 7P-7A","
+CCU NPN 7P-7A
+Neuro: Alert and awake, following commands, MAE. Mouthing questions and nodding head appropriately. Receiving versed boluses prn.
+
+CV: Tele Vpaced @ 80, occ. PVC/couplet. 100% paced, pacing wires via R SC. Box set @ VVI, 80BPM, mA 10 sensitivity 1.5. Neo weaned off, BP 91-109/48-60 w/ MAPs>60. PA pressures 58-67/28-33, unable to wedges. CVP 16-18. K 3.4, repleted w/ 60mEq. MVO2 59 CO/CI/SVR 3.8/1.82/1365.
+
+Pulm: LS few crackles @ bases. Orally intubated, sxn very scant white sputum. Attempted PS last night but pt unable to tol, became apneic w/ minute volume down to 2L. Current vent settings SIMV 550/18/30/5. AM ABG 7.48/46/90/35.
+
+GI/GU: +BS, abd soft, non-tender, no BM. OGtube in place w/ minimal billious aspirate. Remains NPO. Foley patent, draining cl yellow urine. -4.6L [**5-5**], HUO slowing to 80-170cc/hr. AM creatinine pending.
+
+ID: Afebrile, cont on vanco Q48hrs. Will need vanco trough checked tonight prior to dose.
+
+Social: No calls overnight.
+
+A/P: EP study w/ pacer/ICD placement today. Wean vent as tol, retry PS in AM. Decrease in CI from yesterday-inotropic therapy?
+",,
+8186,4669,10181,0,2714-05-06 15:58:00 EST,2714-05-06 15:59:00 EST,725,"N",1,"Nursing/Other",,"
+
+PT JUST BACK FROM CATH LAB.  PLACED ON VENT, SIMV 18X550 .30 [**5-18**]
+",,
+8186,4669,10181,0,2714-05-06 17:35:00 EST,2714-05-06 17:54:00 EST,901,"N",1,"Nursing/Other","CCU Nursing Progress Note 7am-7pm","
+CCU Nursing Progress Note 7am-7pm
+S:  Orally intubated
+O:  See careview for complete objective data
+
+Afebrile - extra dose Vanco given in proceedure room, and po/ng levofloxacin x1 given upon return.
+
+Resp- cont orally intubated with vent settings 30%/550/5ps/5peep, ls are decreased at bases otherwise clear.  Sx for mod amt white secretions.  ABG 61/50/7.45 with sat 93%. HO aware.
+
+CV - Temp pmr replaced by permanent DDD pmr with rate 60-130.  Dsg dry l Scapular area.  Post proceedure, pt is 100% v paced with rare pvc's.
+BP 90-98/50.  R IJ swan dc'd during proceedure and site is d&i.  R fem venous site d&i.  Pulses d/d bilat.  Hct 34.6 during proceedure, and one is pending from 615pm.
+
+GI - ogt patent with good placement.  +BS with no stool today
+
+GU - creat 2.2 as u/o continues @100cc/hr. 
+
+MS - Awake and alert prior to PMR placement.  Attempting to speak.  Nods head appropriately and obeys commands.  Post proceedure, pt is quite sedated, opens eyes, but does not follow commands.  R wrist soft restraint on so pt does not reach up to ETT
+
+Social - Wife spoke with MD [**First Name (Titles) 1359**] [**Last Name (Titles) 5482**] placement, and has visited pt.
+
+A:  Off unit for 8hr permanent pmr placement, ABG's fair, 
+
+P:  Cont monitor HR and BP, Monitor resp status, freq sx, and checks of ABG's, check pending hct, check with HO re: vanco and Captopril dosing,  Attempt to lighten up sedation, so as able to extubate in AM
+
+
+
+
+ 
+",,
+8186,4669,10181,,2714-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2714-5-7**] 7:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5592**]
+     Reason: assess lead position                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          73 year old man s/p biventricular ICD with LV lead via left subclavian vein 
+     REASON FOR THIS EXAMINATION:
+      assess lead position                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post biventricular pacemaker placement.  Evaluate lead
+     position.
+     
+     Comparison is made with the chest radiograph from [**2714-5-6**].
+     
+     AP CHEST RADIOGRAPH:  Again seen is a left anterior chest wall biventricular
+     and atrial pacemaker.  The atrial and right ventricular leads appear in
+     satisfactory position.  The left ventricular pacemaker wire appears slightly
+     more inferior and medial than usual.  Correlation with a lateral view is
+     recommended. Again seen are sternal wires and clips from prior coronary artery
+     bypass surgery. The aorta is calcified and slightly unfolded.  Heart size and
+     pulmonary vasculature are again prominent, indicative of mild CHF, which is
+     stable in appearance. There is increased opacity in the right lung base, which
+     likely represents a posterior layering pleural effusion.  Osseous structures
+     are stable in appearance.
+     
+     IMPRESSION: Biventricular pacemaker lead slightly more medial and inferior
+     than expected. Correlate with lateral radiograph to confirm appropriate
+     placement. CHF and right pleural effusion, allowing for differences in
+     positioning, unchanged.
+
+",,
+8186,4669,10181,0,2714-05-07 05:35:00 EST,2714-05-07 05:48:00 EST,103,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P RESP FX; CHB","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P RESP FX; CHB
+
+S- INTUBATED
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA.
+
+CV- PT WITH PERM PACER IN PLACE- DDD LEFT SHOULDER SITE- DRY/INTACT- RT ARM IN SLING- IMMOBILIZED S/P PACER PLACEMENT.
+PT WITH INTRINSIC P WAVES AND SENSING/V PACING APPROPRIATELY THROUGHOUT SHIFT. ONE RUN VT 6-8 BEATS- SELF LIMITING- IN SETTING OF LARGE DIURESIS. GIVEN K/MG REPLETION.
+BP- STABLE- 90/ ASLEEP/SEDATE TO 130/ AWAKE AND ALERT/AGITATED.
+
+RESP- PT SWITCHED OVER TO PRESSURE SUPPORT 10 /PEEP 5 AT 9PM ONCE WIDE AWAKE S/P SEDATION IN EP LAB. TOLERATING MODE WITHOUT ISSUE- GOOD MINUTE VENTILATION/TIDAL VOLUMES. APPEARING COMFORTABLE.
+
+ID- AFEBRILE
+RECEIVED QD VANCO IN CATH LAB.
+
+GU- GOOD UO- S/P LARGE DIURESIS- I/O GREATLY (-) - MAJOR ISSUES WITH THIRST THROUGHOUT SHIFT- GIVEN SWABS H20 VIA GREEN SPONGE SWABS..
+
+MS- PT VERY ALERT, MOUTHING WORDS, APPEARING A/O X3. 
+GIVEN VERSED 2 MG X 4 DOSES FOR AGITATION- RE-RESTRAINING AND MUCH VERBAL REINFORCEMENT THOUGHOUT SHIFT- BOUTS OF AGITATION THROUGHOUT SHIFT- WANTING TO GET EXTUBATED/ DRINK ETC..
+REPSONDING TO VERSED, BUT NOT LASTING..TRAZODONE AT QHS AND TYLENOL.
+SOME SHOULDER DISCOMFORT, BUT MAJOR C/O ETT AND THIRST.
+SON IN LAW CALLED FOR UPDATE.
+
+A/P- PT S/P CHB C/B RESP FX/PULM EDEMA- CURRENTLY WITH PERM PACER IN PLACE-
+   - TOLERATING PRESSURE SUPPORT WEAN CURRENTLY.
+
+PLAN TO CHANGE MODE TO 5 PS/5 PEEP THIS AM AND WEAN QUICKLY, AS PT IS TOLERATING WEAN AND HAS ISSUES WITH AGITATION/NEED FOR SEDATION.
+CHECK AM LABS- REPLETE AS NEEDED.
+CONTINUE RT ARM IMMOBILITY- CLOSELY MONITOR PACER FOR RHYTHYM/ANY ISSUES.
+KEEP PT AND FAMILY AWARE PF PLAN OF CARE.
+",,
+8186,4669,10181,0,2714-05-07 17:49:00 EST,2714-05-07 18:01:00 EST,901,"N",1,"Nursing/Other","CCU Nursing Progress Note 7am-7pm","
+CCU Nursing Progress Note 7am-7pm
+S:  I'm glad that's out!
+O:  See careview for complete objective data. 
+Resp - Able to extubate this am, post 5ps and 5peep with ABG per careview.  Tolerated 3ln/p throughout day with clear ls and sats 97-99%.  Non-productive cough.
+Afebrile
+HR 90's V paced with rare PVC's and PAC's. Pacer site/ dsg @ l scapula is d/i
+BP via aline 120-140/50.  Captopril restarted 6.25, and has rec'd 2 doses today without change in BP
+u/o approx 100cc/hr via foley, which was dc/d at 4pm. pt did void 100cc amber/blood tinged urine.
++BS and ob - stool today on commode.  tolerating po's well
+OOB to chair for 2-3 hrs x2 and tolerated well.
+MS - awake and alert with family vss throughout day.
+A:  Tolerated extubation
+P:  Increase activity as tolerated, cont monitor HR and rhythum, cont monitor resp status for change.  
+",,
+8186,4669,10181,0,2714-05-08 03:29:00 EST,2714-05-08 03:40:00 EST,103,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P CHB; PERM PACER","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P CHB; PERM PACER
+
+
+S- "" I DON'T REMEMBER THE PAST 2 DAYS///""
+
+O- SEE FLOWSHEET FOR OBJECTIVE DATA.
+
+CV- PT REMAINS HEMODYNAMICALLY STABLE- PACER APPROPRIATELY SENSING AND PACING- INTRINSIC P WAVES AND V PACING. BP- 110- 130/= TOLERATING CAPTOPRIL 6.25 TID. PACER SITE D/I- MILD PAIN- TYLENOL FOR SHOULDER DISCOMFORT. NO ISSUES CURRENTLY.
+
+RESP- PT SUCCESSFULLY EXTUBATED- ON 3 L WITH GOOD O2 SATS- 96%- OCCASIONALLY WITH MOUTH BREATHING- DROP O2 SATS--< 90%- INCREASING IMMEDIATELY WITH AWAKENING.
+
+ID- AFEBRILE- VANCO CHANGED TO QOD.
+
+GU- FOLEY D/C- USING URINAL WITH SUCCESS- VERY THIRSTY AFTER LARGE DIURESIS OVER PAST COUPLE OF DAYS.
+
+GI- SEE ABOVE- OOB TO COMMODE FOR ATTEMPT AT BM- UNABLE CURRENTLY.
+
+MS- PT ALERT, COOPERATIVE.
+
+A/P- PT CURRENTLY HEMODYNAMICALLY STABLE S/P PACER INSERTION FOR CHB
+
+CONTINUE TO CLOSELY MONITOR HEMODYNAMICS AND RESP STATUS.
+CONTINUE TO INCREASE ACTIVITY- D/C ALINE AND C/O TO FLOOR ONCE HEMODYNAMICALLY STABLE.
+KEEP PT AWARE OF PLAN OF CARE/CURRENT PROGRESS. 
+",,
+8186,4669,,,2714-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2714-5-9**] 10:08 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5593**]
+     Reason: chf                                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           73 year old man s/p biventricular ICD with LV lead via left subclavian 
+      vein 
+     REASON FOR THIS EXAMINATION:
+      chf                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, TWO VIEWS:
+     
+     HISTORY:  Biventricular ICD with LV lead via the subclavian vein.  CHF.
+     
+     REFERENCE EXAM:  [**2714-5-7**].
+     
+     Again seen, is a left anterior chest wall biventricular and atrial pacemaker
+     with leads unchanged in position.  There is mild cardiomegaly and mild
+     vascular redistribution.  There are small bilateral effusions.  The aeration
+     in the right lower lobe is slightly improved compared to prior study.
+     
+     
+
+",,
+8186,,,,2714-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2714-5-14**] 8:07 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 5594**]
+     Reason: SOB h/o CHF                                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            73 year old man s/p biventricular ICD with LV lead via left subclavian  
+      vein 
+     REASON FOR THIS EXAMINATION:
+      SOB h/o CHF                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST TWO VIEWS PA/LATERAL
+     
+     HISTORY:  Biventricular ICD with shortness of breath.
+     
+     Status-post biventricular and right atrial ICD placement with leads unchanged
+     in location since the prior study of [**2714-5-9**]. Wires appear intact.
+     Status-post CABG/MVR. Heart size is borderline. There has been partial
+     resolution of the small bilateral pleural effusions since the prior study. No
+     evidence of new pulmonary consolidation or new pulmonary edema.
+
+",,

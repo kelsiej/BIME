@@ -1,0 +1,617 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8131,6697,,,2751-02-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2751-2-22**]              Discharge Date:   [**2751-2-27**]
+ 
+Date of Birth:  [**2698-6-26**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 6203**] 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization, status post placement of drug-eluting 
+stents.
+
+ 
+History of Present Illness:
+52 y.o. pt of Dr.[**First Name4 (NamePattern1) 70**] [**Last Name (NamePattern1) **], with h/o silent MI in [**2748**], DM, HTN, 
+with known 2 vessel disease by OSH cath report transferred to [**Hospital1 **] 
+for a possible intervention.
+The patient was admitted to the OSH on [**2751-2-18**] with a one-week 
+history of nausea and non-bilious non-bloody vomiting. The 
+patient also describes symtpoms of fatigue and malaise over the 
+last week. For 2-3 days prior to admission she had had atypical 
+angina. She describes episodes of intermittent shortness of 
+breath with associated left sided chest pain that would 
+frequently happen at rest. She describes left sided chest pain 
+as sharp, lasting ""minutes"", localized over left shoulder and 
+radiating to left upper arm, pain would change with change in 
+arm position. Patient was admitted to [**Hospital 51**] hospital and 
+treated with supportive therapy/antiemetrics. She was given SL 
+NTG with resolution of her symptoms. She ruled out MI with three 
+sets of enzymes. On [**2751-2-19**] she underwent p-MIBI which showed 
+inferior ischemia/no infarct. The patient was then cathed at the 
+OSH and cath revealed 2 vessel disease: 85-90% proximal LAD and 
+70% RCA stenosis, dampening LMA; normal left heart hemodynamics. 
+Per Dr.[**Last Name (STitle) **], it was decided to tx the patient here for further 
+treatment.
+
+Patient had stents to LAD placed on [**2751-2-22**]. During the 
+procedure she developed CP/nausea with 2mm ST elevations in 
+inferior leads, became bradycardic and was given atropine and 
+dopamine. Flow in LAD/LCX normal/no dissection. RCA was stented 
+with 2.5x18mm Cypher stent with no residual, TIMI 3 flow. 
+
+Following the procedure she ruled in for myocardial infarction 
+by enzymes but was symptomatically stable until early morning 
+[**2751-2-24**] when she developed acute chest pain with EKG changes. In 
+stent thrombosis was suspected and she was brought emergently to 
+the cath lab. In the cath lab, she was found to have thrombus in 
+her LAD.Export catheter was used to remove the clot when she 
+started having EMD. Code was called and she was defibrllated and 
+pressor were started. Stent was successfully deployed in the 
+LAD. She went into VF and was again shocked. It was then decided 
+that she might have had coronary spasm and showering of emboli. 
+All pressors were stopped and 2000mcg diltiazem were given 
+intracoronary and she return to NSR. Echocardiogram was done and 
+ruled out pericardial tamponade but anterior wall AK. SHe 
+recieved 6 unit of blood transfusion during the procedure. CT 
+surgery evaluated patient in the catheterization lab but surgery 
+was not deemed to be indicated at that time. Patient was 
+transferred to the CCU.
+
+ 
+Past Medical History:
+MI, silent in [**2748**]
+depression, followed by a psychiatrist
+diabetes x 5 years
+renal stones
+chronic back pain
+HTN
+COPD
+endometriosis
+s/p bilateral ooporectomy, on premarin
+spinal fusion L5-S1 2000 for vertebral fractures
+ear surgery in [**2724**]
+s/p 4 c/section
+
+ 
+Social History:
+Lives with her daughter. On disability because of back pain. Has 
+never smoked. Denies EtOH, drug use. 
+ 
+Physical Exam:
+Vitals: AF, 107/70  80's  16  99% RA
+Gen: pale woman, awake, alert and oriented, in no apparent 
+distress. Anxious and tearful when talking about going for the 
+procedure. 
+Neck: supple, no elevation of JVP 
+Lungs: CTA bilaterally.
+CV: regular, nl S1S2, no m/g/r
+Abd: soft, nontender, nondistended, with normoactive bowel 
+sounds. 
+R groin: with no ecchymosis, hematoma, no bruit
+Back: well healed vertical scar c/w prior back surgery
+Ext: warm, no LE edema
+ 
+Pertinent Results:
+*******Cath [**2751-2-22**]
+2 vessel disease. Ao 142/82/108
+RCA mid 80%;  LMCA duffuse 40%  (FFR 0.95 suggestivng non-flow 
+limiting stenosis); LAD diffuse 40%; LAD prox 90%, mid 80-90%.
+Interventions: 1. Prox LAD lesion could not be crossed with 
+Cyphher stents and two 2.5x12mm overlapping Taxus stensts were 
+placed. This revealec mid LAD lesion that was underappreciated. 
+Pt had CP/nausea, 2mm ST elevations in inferior leads, became 
+bradycardic and was given atropine and dopamine. Flow in LAD/LCX 
+normal/no dissection. 
+2. RCA was stented with 2.5x18mm Cypher stent - no residual, 
+TIMI 3. 3. Mid LAD 2.5x8 cm Cypher stent with no residuaa and 
+TIMI 3.
+
+EKG (post-cath at OSH): rate 80, sinus, nl axis, nl intervals, 
+no ischemic ST or TW changes, Q in III, aVF.
+.
+Labs at OSH: 
+wbc 5.8, h/h 34.4/11.6, plt 181, inr 1.2, na 137, k 4.4, 
+bun/creat 16/.8, trig 236, chol 239, HDL 40, LDL 113; FS=123 
+this AM
+.
+Echo [**2751-2-19**]: EF 60-65%; mild concentric LVH, trace MR. 
+.
+P-MIBI [**2751-2-19**]: HR 76->96; SBP 126/70-> 100/62, no chest pain or 
+ST changes. Mild exercise induced LV dilation and failure. Small 
+to mod anterior wall ischemia. Inferior infarct No evidence of 
+infarct.
+
+CT [**2751-2-24**]:
+no retroperitoneal bleed 
+.
+
+ 
+Brief Hospital Course:
+A/P: 52 yo patient of Dr.[**First Name4 (NamePattern1) 70**] [**Last Name (NamePattern1) **], with history of silent MI in 
+[**2748**], diabetes mellitus, Hypertension, known 2 vessel CAD 
+transferred from the OSH which was intervened. 
+Patient has 2 vessel CAD s/p three stents to LAD and a stent to 
+RCA complicated by MI. Patient was found to have in stent 
+thrombosis of LAD stent [**2751-2-24**] which was intervened upon after 
+resuscitation in the cath lab. She had polymorphic VT while in 
+cath lab. 
+She was subsequently transferred to the CCU with intraaortic 
+balloon pump support and was on bivalirudin due to question of 
+heparin induced thrombocytopenia. She was eventually stable 
+enough to be weaned off balloon pump and dobutamine. She was 
+continued on aspirin, lipitor. Her plavix was switched to 
+ticlopidine since she developed in stent thrombosis while on 
+plavix. Captopril was eventually started as her blood pressure 
+tolerated it. Beta blocker was held as she has severe 
+bronchospasm. She remained in normal sinus rhythm throughout CCU 
+stay. On the day of her death, she developed respiratory 
+distress and ventricular fibrillation. Resuscitation effort was 
+attempted without success. 
+ 
+Medications on Admission:
+Singulair 10 daily
+Premarin 0.3mg daily
+Lorazepam 1mg bid
+Celexa 40 mg qd (was resently changed to another antidepressant)
+Metoprolol XL 25 mg qd
+Glyburide 5 mg po qd
+Enalapril 10 mg po qd
+Morphine SR 30 mg tid
+Gemfibrozil 600 mg bid
+Advair 250 bid
+Albuterol qid
+Percocet 5/325 mg qid 
+Ipratropium qid
+Lipitor 40 mg po qd
+Fosamax 70 mg q Monday
+Detrol 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnoses:
+1. Coronary artery disease
+2. Myocardial infarction
+
+Secondary diagnoses:
+1. Depression
+2. Diabetes
+3. Chronic back pain
+4. Hypertension
+5. Hypercholesterolemia
+
+ 
+Discharge Condition:
+expired
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6208**] MD [**MD Number 6209**]
+ 
+Completed by: [**Name6 (MD) 496**] [**Name8 (MD) 497**] MD [**MD Number 498**] [**2751-5-28**] @ 2312
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: TUE [**2751-6-19**] 7:53 AM
+(End of Report)
+
+
+",,
+8131,6697,,,2751-02-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2751-2-24**] 4:16 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5101**]
+     Reason: tube placement                                              
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with CAD post cath, post intubation                           
+     REASON FOR THIS EXAMINATION:
+      tube placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Coronary artery disease post cath, post intubation and tube
+     placement.
+     
+     FINDINGS:  There is an endotracheal tube 3 cm above the carina.  There is an
+     NG tube with the tip in the stomach.  There is a femoral presumed Swan-Ganz
+     catheter with tip in the pulmonary outflow tract.  Low lung volumes.  There is
+     volume loss in both lower lobes.
+     
+
+",,
+8131,6697,,,2751-02-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2751-2-24**] 1:33 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 5100**]
+     Reason: ABD.PAIN.HCT DROP.R/O BLEED
+     Admitting Diagnosis: CHEST PAIN\CATH
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman s/p cardiac catheterization. Now with dropping hct and no 
+      obvious source. Received intergrillin, now on plavix. 
+     REASON FOR THIS EXAMINATION:
+      R/o RP bleed.                                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  52-year-old woman status post cardiac catheterization, now with
+     dropping hematocrit.
+     
+     COMPARISONS:  No comparisons are available.
+     
+     TECHNIQUE:  8-MDCT axial images of the abdomen and pelvis were obtained
+     without oral or IV contrast.
+     
+     There are atelectasis in the lung bases.  There are no pleural effusions or
+     focal consolidations.  There is no evidence of retroperitoneal hematoma. There
+     is stranding in the left inguinal region from prior catheterization. But,
+     however, there is no evidence of a hematoma in the left groin.
+     
+     With the limitations of this noncontrast study, the liver, gallbladder,
+     spleen, small and large bowel are unremarkable.  There is no free fluid or
+     free air in the abdomen.  There are 2 areas of calcification overlying the
+     pancreas that could most likely represent chronic pancreatitis rather than
+     vascular calcifications.
+     
+     There is a hyperdense area in the upper pole of the right kidney that may
+     represent retained contrast from prior cath in a calyceal diverticulum. There
+     is a hyperdense area (2 mm) in the right kidney collecting system, which is
+     could represent tiny nonobstructive versus contrast from prior cath. There is
+     a 5 x 2 mm hyperdense area in a midpole calyx of the left kidney that could
+     represent nonobstructive stone vs contrast.
+     
+     CT OF THE PELVIS WITHOUT ORAL OR IV CONTRAST:  There is a Foley catheter
+     within the urinary bladder.  There is stranding of the fat in the left groin
+     from prior cardiac catheterization.  There is no evidence of groin hematoma.
+     There is no evidence of retroperitoneal hematoma.  With the limitations of
+     this noncontrast study, the rectum and urinary bladder are unremarkable.
+     
+     BONE WINDOWS:  The patient is status post posterior fusion of the lumbosacral
+     spine.  Scout view demonstrated probable anterior-listhisis of L5 over S1.
+     There are no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     1. There is no evidence of retroperitoneal hematoma.
+     2. Probable grade I anterior listhesis of L5 over S1.
+                                                                 (Over)
+
+     DATE: [**2751-2-24**] 1:33 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 5100**]
+     Reason: ABD.PAIN.HCT DROP.R/O BLEED
+     Admitting Diagnosis: CHEST PAIN\CATH
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+8131,6697,,,2751-02-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2751-2-24**] 1:33 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 5100**]
+     Reason: ABD.PAIN.HCT DROP.R/O BLEED
+     Admitting Diagnosis: CHEST PAIN\CATH
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman s/p cardiac catheterization. Now with dropping hct and no 
+      obvious source. Received intergrillin, now on plavix. 
+     REASON FOR THIS EXAMINATION:
+      R/o RP bleed.                                                                   
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  52-year-old woman status post cardiac catheterization, now with
+     dropping hematocrit.
+     
+     COMPARISONS:  No comparisons are available.
+     
+     TECHNIQUE:  8-MDCT axial images of the abdomen and pelvis were obtained
+     without oral or IV contrast.
+     
+     There are atelectasis in the lung bases.  There are no pleural effusions or
+     focal consolidations.  There is no evidence of retroperitoneal hematoma. There
+     is stranding in the left inguinal region from prior catheterization. But,
+     however, there is no evidence of a hematoma in the left groin.
+     
+     With the limitations of this noncontrast study, the liver, gallbladder,
+     spleen, small and large bowel are unremarkable.  There is no free fluid or
+     free air in the abdomen.  There are 2 areas of calcification overlying the
+     pancreas that could most likely represent chronic pancreatitis rather than
+     vascular calcifications.
+     
+     There is a hyperdense area in the upper pole of the right kidney that may
+     represent retained contrast from prior cath in a calyceal diverticulum. There
+     is a hyperdense area (2 mm) in the right kidney collecting system, which is
+     could represent tiny nonobstructive versus contrast from prior cath. There is
+     a 5 x 2 mm hyperdense area in a midpole calyx of the left kidney that could
+     represent nonobstructive stone vs contrast.
+     
+     CT OF THE PELVIS WITHOUT ORAL OR IV CONTRAST:  There is a Foley catheter
+     within the urinary bladder.  There is stranding of the fat in the left groin
+     from prior cardiac catheterization.  There is no evidence of groin hematoma.
+     There is no evidence of retroperitoneal hematoma.  With the limitations of
+     this noncontrast study, the rectum and urinary bladder are unremarkable.
+     
+     BONE WINDOWS:  The patient is status post posterior fusion of the lumbosacral
+     spine.  Scout view demonstrated probable anterior-listhisis of L5 over S1.
+     There are no suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     1. There is no evidence of retroperitoneal hematoma.
+     2. Probable grade I anterior listhesis of L5 over S1.
+                                                                 (Over)
+
+     DATE: [**2751-2-24**] 1:33 AM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 5100**]
+     Reason: ABD.PAIN.HCT DROP.R/O BLEED
+     Admitting Diagnosis: CHEST PAIN\CATH
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     
+
+",,
+8131,6697,10118,0,2751-02-24 16:12:00 EST,2751-02-24 16:15:00 EST,2070,"N",1,"Nursing/Other",,"
+
+Resp. Care Note
+Pt intubated by Anesthesia in cath lab with 7.5 ETT secured at 21cm lip. Pt intubated for resp distress. Initial vent settings AC 500x 16 x100% peep 5. FiO2 decreased to 50% for PaO2 319. Cont vent support, follow ABG's
+",,
+8131,6697,10118,,2751-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2751-2-25**] 8:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5102**]
+     Reason: assess ballon pump placement                                
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       52 year old woman with CAD post cath, post intubation  and has IABP            
+               
+     REASON FOR THIS EXAMINATION:
+      assess ballon pump placement                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Intraaortic balloon pump.
+     
+     FINDINGS:  This is a markedly lordotic film.  The radiopaque marker of the
+     intraaortic balloon pump is visualized in the region of the aortic
+     arch, but because of the lordosis the exact position cannot be determined.
+     Endotracheal tube is 3 cm above the carina. The NG tube is in the stomach.
+     There is a femoral Swan- Ganz catheter with tip in the pulmonary outflow
+     tract. The lungs are clear.
+
+",,
+8131,6697,10118,0,2751-02-25 06:03:00 EST,2751-02-25 06:26:00 EST,1836,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+52 yo female admitted [**2-20**] osh w cp--ro, but w positive mibi (inferior ischemia) & card cath-2vd (lad & rca). transfered to [**Hospital1 **] for intervention. [**2-22**] cath lab-taxus stent x2 to lad & cypher stent to rca. [**2-24**] decreased hct-abd ct-wo retroperitoneal bleed-tx w 2urbc. developed cp w anterior st elevations-taken to cath lab noted thrombus in lad-removed & stented x1-c/b cardiac arrest requiring cpr, intubation, fl & bl (5u) resuscitation, pressors, & defibrilation. admitted to ccu post cath.
+
+o:neuro=sedated w fent & versed gtts w effect. arousable & follows simple commands, but easily agitated (attempting to get oob-extremely restless)-requiring prn boluses of fent to maint adeq sedation.
+  pulm=intubated & vented. settings adjusted to abg's-see flow sheet. breath sounds=course throughout. sx-sl bl tinged secretions. sats upper 90's.
+  cv=iabp 1:1 w maps 60-70's. poor augmentation w intermittent s/d unloading. pads low 20's. diuresed x1 w lasix 20mg iv w gd effect. dobutamine presently @ 7.5mcg/kg/min w #'s 5.2/2.94. bivalirudin started @ 2200-0.2mg/kg/hr w am ptt pending. puplses dopplerable x4. ticlopidine 500mg po @ 0600.
+  gi=ogt. bilious material w some coffee grounds. abd-firm moderately distended w distant/hypoactive bowel sounds. wo stool. 
+  endo=insulin gtt started. titrated to keep bs low 100 range. presently @ 3.5u/hr.
+  heme=hct stable. am 34.8.
+  gu=gd response to 2000 lasix. overall remains positive. urine becoming rose' in color wo clots.
+  id=afebrile.
+  social=family (children & siblings) present. update given & encouraged to go home for night.
+
+a:improved numbers on dobutamine. 
+
+p:maint adeq sedation till ready to wean/extubate. ?keep sedated/ ballooned/intubated-allow heart to rest. contin present management. support pt/family as indicated. 
+",,
+8131,6697,10118,0,2751-02-25 06:11:00 EST,2751-02-25 06:14:00 EST,2999,"N",1,"Nursing/Other",,"
+
+Pt remained on rr 16 and FiO2 50% t/o night. weaned to AC 12, 40%, 5 peep. ABG on previous settings 7.48,31,161,24 showing uncompensated resp alkalosis with hyperoxemia
+",,
+8131,6697,10118,0,2751-02-25 16:12:00 EST,2751-02-25 16:13:00 EST,1994,"N",1,"Nursing/Other",,"
+
+Resp. care note - Pt. remaines intubated and vented, no vent changes made at this time.
+",,
+8131,6697,10118,0,2751-02-25 19:08:00 EST,2751-02-25 19:48:00 EST,1619,"N",1,"Nursing/Other","ccu npn","
+ccu npn
+o- id- low grade temp, max 100.5po, ho aware. 
+cv- hr 100-118 st, no vea. on iabp 1:1 with maps 79-96 with intermittent unloading. pads 15-19 most day, up to 24 this pm. dobutamine weaned slowly x2 to 2.5mic with last co 4.3 and ci 2.43. hct 33.6 to 32.1. changed to lepirudin iv. k 3.1 after diuresis, re'd 40meq ogt and 40meq iv. also replaced with 2amps mag sulfate iv. po4 replaced via ogt. cks high, trending down. groins d+i, no hematomas visible. pulses dopp and palpable dp/pt bilat. feet warm/pale. 
+resp- on vent, 40%, rate 12, tv 500 w/5peep. abg done 122/37/7.44. sats not reading well until this pm high 90s to 100. l/s coarse, esp. lower. sx'd for mod. amts brn to tan thick secretions via ett, sx'd orally for small bld tinged. diuresed well in am from lasix given earlier with about 1200cc out. u/o then down to low 20cc, up to 30-180cc/hr this pm. i+o positive about 500cc. urine conc. this pm, ?blood tinged. 
+gi- abd soft, slightly distended with hypoactive bowel sounds. no bm. 
+ms- cont. on versed and fentanyl drips. awake and mae, following commands. agitated in am, responding well to small boluses fentanyl and versed. later, awake and nods to uncomfortable, denies pain. asked her if she wanted more medication and she mouthed yes, so fentanyl and versed increased to 100mic and 6mg. since, more sedated, still awakens, cooperative. able to communicate somewhat nonverbally, wrote but difficult to read. 
+skin- still has ecchymosis l lower cheek, less prominent and color fading. has some ecchymosis near ivs. no skin breakdown. repositioned side to side w/skin and oral care. eyelids edematous, esp left. [**First Name9 (NamePattern2) 5422**] [**Doctor Last Name **] given to both eyes. 
+dm- cont. on insulin drip. bs down to 90s this pm (see flowsheet also) drip adjusted, left on .5units/hr. 
+social- fx in most day, supportive. fx updated on pt's condition, equipment and plan by rn, mds, understand, need frequent reinforcement. fx coping better today with pt able to communicate/recognize them and with pt's improvement. social worker following pt and updated.
+a- mi, s/p stents and stent thrombosis and arrest, iabp, dobutamine weaned.  
+p- cont. iabp. ?d/c dobutamine tonoct, follow co/ci. follow k, hct.check ptt on lepirudin, follow protocol per pharmacy. ?wean vent in am. ?start t/f tomorrow if not extubated. cont. to update fx, emotional support fx, social worker assist as needed for fx. 
+",,
+8131,6697,10118,,2751-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2751-2-26**] 7:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5103**]
+     Reason: r/o infiltrate, CHF, position of lines                      
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        52 year old woman with CAD post cath, post intubation  and has IABP           
+                 
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate, CHF, position of lines                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  CAD status post catheterization.  Intubation.  IABP.  Assess for
+     CHF.
+     
+     COMPARISON:  [**2751-2-25**].
+     
+     PORTABLE SUPINE CHEST:  The endotracheal tube, NG tube, intraaortic balloon
+     pump, and a femoral Swan-Ganz catheter all appear in good position.  There is
+     mild cardiomegaly, and the lung volumes are low.  The lungs are clear, and
+     there is no effusion or pneumothorax.  The vascularity is unremarkable.
+     
+     IMPRESSION:  Satisfactory lines and tubes without evidence of CHF.
+
+",,
+8131,6697,10118,,2751-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2751-2-26**] 8:13 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5104**]
+     Reason: Please assess for interval change                           
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         52 year old woman with CAD post cath, post extubation  and has IABP          
+                   
+     REASON FOR THIS EXAMINATION:
+      Please assess for interval change                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PORTABLE.
+     
+     INDICATION:  52 year old woman with CAD post cath, post extubation.  Patient
+     has IABP.
+     
+     CHEST  PORTABLE:  Comparison is made to a prior study of earlier the same day.
+     The heart is normal in size.  The mediastinal and hilar contours are
+     unremarkable.  The pulmonary vasculature is normal.  A Swan-Ganz catheter is
+     again identified with its tip in the left pulmonary artery.  The endotracheal
+     tube and balloon pump have been removed.  
+     
+     IMPRESSION:  No evidence for CHF or pneumonia.
+                                                                           
+
+",,
+8131,6697,10118,,2751-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2751-2-26**] 8:13 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5104**]
+     Reason: Please assess for interval change                           
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         52 year old woman with CAD post cath, post extubation  and has IABP          
+                   
+     REASON FOR THIS EXAMINATION:
+      Please assess for interval change                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST PORTABLE.
+     
+     INDICATION:  52 year old woman with CAD post cath, post extubation.  Patient
+     has IABP.
+     
+     CHEST  PORTABLE:  Comparison is made to a prior study of earlier the same day.
+     The heart is normal in size.  The mediastinal and hilar contours are
+     unremarkable.  The pulmonary vasculature is normal.  A Swan-Ganz catheter is
+     again identified with its tip in the left pulmonary artery.  The endotracheal
+     tube and balloon pump have been removed.  
+     
+     IMPRESSION:  No evidence for CHF or pneumonia.
+                                                                           
+
+",,
+8131,6697,10118,0,2751-02-26 05:31:00 EST,2751-02-26 05:52:00 EST,1836,"N",1,"Nursing/Other","ccu nsg progress note","
+ccu nsg progress note
+52 yo female w large anterior mi due to thrombus in lad-emergent removal w stent placement [**2-24**], c/b cardiac arrest requiring cpr,  intubation, defib, pressors & iabp placement. prior intervention [**2-22**] w stents x2 to lad & x1 to rca c/b hct drop (neg ct for rpb) rxed w 2u rbc.
+
+o:neuro=sedated-fent/midazolam w effect. easily arousable-follows simple commands, but becomes easily agitated when over stimulated.
+  pulm=intubated/vented w gd-sats/abg. breath sounds=deminished throughout-wo audible crackles. sx-tannish/bl tinged secretions.
+  cv=dobutamine dced 2000-2hrs later w iabp 1:1 #'S-co/ci 4.8/2.71, iabp map 90, & pad 24. trial iabp 1:2 from 2-4am w #'s-co/ci 4.8/2.71, iabp map 72, & pad 23. lepirudin increased to 0.17mg/kg/hr w am ptt pending.
+  gi=npo. ogt-bilious. wo stool.
+  renal:overall positive i&o. creat 0.7. lasix 20mg iv @ 0530.
+  endo=insulin gtt presently @ 1u/hr w bs low 100's.
+  heme=hct trending down. 
+  id=afebrile.
+  misc=generalized edema-decreasing.
+  social=very supportive family. wants to be present when pt extubated for support.
+
+a:tolerating dobuta dc & 2hr trial 1:2 w stable #'s. decreasing hct-? dilutional.
+
+p:?wean iabp w goal dc. ?add low dose captopril. contin slow diuresis. ?hold wean/extubation till iabp dced. support pt/family as indicated. 
+",,
+8131,6697,10118,0,2751-02-26 06:27:00 EST,2751-02-26 06:30:00 EST,2999,"N",1,"Nursing/Other",,"
+
+Resp Care Note
+
+At present time pt continued with AC vent 12 x 500 , 40% and 5 peep.
+She is still on balloon pump 1:1 but the sedation is lightened and plan for today may be to wean pump and perhaps begin to wqean ventilatior.
+
+
+",,
+8131,6697,10118,0,2751-02-26 18:22:00 EST,2751-02-26 18:24:00 EST,5250,"N",1,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt received orally intubated on full mechanical support, weaned to PSV and succesfully extubated this PM to .40% cool neb via face tent.  Positive cuff leak prior to extubation, no stridor, but significant wheezing noted so albuterol/atrovent nebs started to good effect. Pt states she also takes these at home.  See resp flowsheet for specific vent data/changes.
+
+Plan: will follow for PRN nebs
+",,
+8131,6697,10118,0,2751-02-26 18:32:00 EST,2751-02-26 18:49:00 EST,2261,"N",1,"Nursing/Other",,"
+
+CCU NPN: pleae see flowsheet for objective data
+
+Cardiac: HR 100-116 ST no VEA,BP 90-120/60-72 IABP d/ced 2pm,pulses palpable and site D&I. captopril started and now at 12.5mg po TID. 
+
+GU/Volume: given lasix twice this shift,first dose 29mg second 40mg. now negative 2l today,still + over 4liters LOS. electrolytes have been checked and repleted. current K is 4.0 and mag is 1.8
+
+ID: low grade temp TMAX 100.8. pan cultured
+
+Heme: off lepirudin since 9am. repeat HCT 32 this afternoon had been 29.7 this am
+
+Resp: while intubated suctioning thick tan blood tinged secretions. extubated 5:30pm. currently has insp and exp wheezes. coarse left lower. received combivent nebs post extubation. ABG on 8PSV/5 peep 7.45/36/157. has good cough.
+
+Endocrine: on insulin drip at 0.5units/hr with blood sugars 91-118.
+
+GI: NPO except meds prior to extubation,+BS,abd non tender
+
+Neuro: alert and oriented x2,was on fent and versed weaned down though not d/ced till right before extubation. 
+
+Social: social worker met with children today.also cardiology fellow spoke with family. the fellow also spoke with pt's primary care MD.
+
+A/P: good day today,IABP and vent d/ced
+    hemodynamically stable tolerating captopril
+    good diuresis,cont to closely follow I&O's and lytes
+    one femoral vein sheath in each groin,perhaps at least one could be d/ced
+    cont emotional support pt and family
+",,
+8131,6697,10118,0,2751-02-27 05:39:00 EST,2751-02-27 06:02:00 EST,1853,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" My back hurts ""
+O:  pt. very uncomfortable in eve.  moving all over the bed, trying to reposition.  very restless.  pt. stating that she has chronic back pain and takes MS [**First Name (Titles) **] [**Last Name (Titles) 876**] and also percocets TID for breakthrough pain at home.  This is also documented in chart.
+ordered and given MS contin 30mg in eve.. also given morphine 2mg IV x2 during night for breakthrough with good relief per pt. 
+also c/o pain in chest area where she was shocked.  
+
+neuro:  A/Ox2-3. voice is hoarse from ETT.  only slept for short periods.  
+CV:  HR 116->98ST.  AM K+ 3.5-40KCL IV, Mg+ 1.7- 2gms IV. 
+BP 85-108/60.  captopril held in eve for SBP <100 but tolerated well at 0300 (12.5mg). 
+PAD 19-23.  C.O. 5.1/2.8
+
+Resp:  pt. having audible wheezes, I/E in eve.  pt. not wearing face tent. placed on 4lnc with good sats.  then placed on face tent in addition for added humidification.  sats 100%.  albuteral nebs q6hr with minimal effect on wheezes.  appear to be more tracheal than bronchial.  HO evaluated pt.~ 0400.  pt. denies SOB, taking meds fine po. drinking water through night.  will contin. to watch.  
+weak prod. cough of thick tan secretions.  
+
+GU: good u/o via foley.  neg. 2.8L for [**2-26**].  neg. 300cc today. 
+GI:  bedpan x3 with no BM.  ABD soft, distended.  
+heme:  AM hct 27.2- repeat 28.9.  HO aware.  plts 92.  
+endo:  FS 100.  insulin gtt at .5u/hr. 
+
+access:  right fem. single lumen swan. left fem. venous sheath. fem. sites D/I.  no ooze/hematoma. pulses doppler/extrem. cool.  MAE.  
+
+A: tol. captopril, tracheal wheezing. HCT down slightly. chronic back pain.
+P:  follow lytes, HCT.  nebs prn.  MS [**First Name (Titles) **] [**Last Name (Titles) 876**].  morphine prn.  ? change to percocet prn for breakthrough.  sheaths out today.  monitor for change in wheezes.  
+",,

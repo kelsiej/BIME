@@ -1,0 +1,475 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8575,18949,,,3291-09-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3291-9-22**]              Discharge Date:   [**3291-10-3**]
+ 
+Date of Birth:  [**3225-5-29**]             Sex:   F
+ 
+Service: MED
+ 
+Allergies: 
+Penicillins / Codeine
+ 
+Attending:[**First Name3 (LF) 81**] 
+Chief Complaint:
+hip/knee pain
+ 
+Major Surgical or Invasive Procedure:
+Closed reduction of right supracondylar fracture
+
+ 
+History of Present Illness:
+66 y/o female with severe COPD on 4L n/c home O2, CAD with ? 
+silent MI in distant past, multiple falls, and severe 
+osteoporosis, tripped over her cat and fell on her knees on day 
+of admission.  Experienced immediate bilateral knee pain. no 
+head trauma/loc.  no ha, dizziness, vertigo, cp, sob, 
+palpitations prior to or following fall. brother in law called 
+911.  she was alert and oreinted x3when found.  also noted to be 
+in afib.  she reported some numbness and tingling in her toes.
+
+In the ED was found to have bilateral supracondylar fractures 
+with the right fx angulated 90 degrees posteriorly.  She 
+underwent closed reduction of right fracture with 14 mg morphine 
+and 6mg etomidate.  Currently being evaluated for medical risk 
+of ORIF.
+ 
+Past Medical History:
+copd on home O2 (FEV1 40% predict in [**3282**])
+CAD
+migraine HA
+MDD/anxiety
+chronic lower back pain
+recurrent falls s/p colles fx ([**7-27**]), s/p b/l pelvic fx
+osteoporosis
+choledococyst s/p sphincterotomy
+ 
+Social History:
+pt widow, lives with brother in law. no etOH, tobacco = 135 pack 
+yr (quit 2 yrs ago), ambulates with a cane at baseline
+ 
+Family History:
+CAD
+ 
+Physical Exam:
+VS: 98.6, bp 101/63 --> 85/53,  p75,  rr18,  96% on 4l n/c
+gen: in obvious pain, nard
+heent: mm dry, no OP erythema
+chest: CTA anterio-laterally
+cv: s1/s2, rrr  no afib on monitor
+abd: soft, nttp, nabs
+Ext: in bilateral air casts, no pedal edema, DP 2+ bilat, nml 
+sensation, moves toes without pain.
+neuro: alert and orient x3
+ 
+Pertinent Results:
+[**3291-9-22**] 08:35PM   HCT-30.9*
+[**3291-9-22**] 03:10PM   CK(CPK)-109
+[**3291-9-22**] 03:10PM   CK-MB-7 cTropnT-<0.01
+[**3291-9-22**] 03:10PM   HCT-33.9*#
+[**3291-9-22**] 08:00AM   CK(CPK)-77 TOT BILI-0.4
+[**3291-9-22**] 08:00AM   CK-MB-NotDone cTropnT-<0.01
+[**3291-9-22**] 08:00AM   ALBUMIN-3.8 CALCIUM-8.4 PHOSPHATE-5.8*# 
+MAGNESIUM-1.9 IRON-65
+[**3291-9-22**] 08:00AM   calTIBC-355 FERRITIN-18 TRF-273
+[**3291-9-22**] 08:00AM   NEUTS-82.5* LYMPHS-10.3* MONOS-6.9 EOS-0.2 
+BASOS-0.2
+[**3291-9-22**] 08:00AM   MACROCYT-1+
+[**3291-9-22**] 08:00AM   PLT COUNT-290
+[**3291-9-22**] 12:45AM   GLUCOSE-144* UREA N-19 CREAT-0.6 SODIUM-136 
+POTASSIUM-4.4 CHLORIDE-99 TOTAL CO2-24 ANION GAP-17
+[**3291-9-22**] 12:45AM   CK(CPK)-87
+[**3291-9-22**] 12:45AM   CK-MB-NotDone cTropnT-<0.01
+[**3291-9-22**] 12:45AM   NEUTS-90.9* BANDS-0 LYMPHS-6.2* MONOS-2.4 
+EOS-0.2 BASOS-0.2
+[**3291-9-22**] 12:45AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-1+ MICROCYT-NORMAL POLYCHROM-NORMAL
+[**3291-9-22**] 12:45AM   PLT SMR-NORMAL PLT COUNT-299
+[**3291-9-22**] 12:45AM   PT-14.8* PTT-32.0 INR(PT)-1.4
+ 
+Brief Hospital Course:
+The patient was admitted to medicine for treatment of her pain 
+and management of her COPD in conjection with orthopedic 
+attention to her fx.
+
+1 bilateral supracondylar fracture
+The patient was placed in bilateral air casts while in the ED.  
+Her pain was controlled with narcotics and she underwent initial 
+closed reduction of her posterior 90% angulated comminuted R 
+supracondylar fracture while in the ED.  She was also noted to 
+be hypotensive with a Hct that had dropped from 30.9 to 26.3.  
+She was transfused and given IVF.  Abdominal CT was negative for 
+intraabdominal / retroperitoneal bleed.  Post transfusion, she 
+remained hemodynamically stable with stable serial Hct b/w 
+30-33.8. guiaic (-) and no obvious source of bleed found.
+Because of her severe osteoporosis and COPD, it was determined 
+that the risk of ORIF was too high, and that conservative 
+management of her fx's with bilateral leg casts for 6 wks would 
+provide greater benefit than surgery.  She will need 
+anticoagulation during this time for DVT prophylaxis and 
+extensive rehab afterwards.  Her pain is currently being 
+controlled with tylenol q6h and 5-10 mg of oxycodone Q4 hours 
+prn. However, pt often forgets to ask for the pain medicine so 
+it is important to remind her to ask for medicine for pain 
+relief. She lives in a home that is accessable only by stairs 
+and would not be able to enter her home while in bilateral leg 
+casts. Pt on aggressive bowel regimen with adequate BM's. She 
+will f/u with orthopedics service on [**10-16**].
+2. Respiratory distress-Patient with tachypnea (up to RR of 36), 
+inc wob, tachycardia, and diaphoresis on hospital day 7. Her 
+decline in respiratory status was most likely due to combination 
+of very poor baseline pulmonary function (restrictive and 
+obstructive disease), (aspiration) pneumonia, and derecruitment 
+from being in bed so much. EKG with no significant changes and 
+CTA with no evidence CTA did show evidence of emphysema, b/l pl 
+effusions, and LLL pneumonia-likely aspiration. Mrs.[**Known patient lastname 11926**] was 
+started on levofloxacin and vanc as her respiratory status 
+continued to deteriorate. On [**9-27**] pt was transferred to the MICU 
+for evaluation/initiation of BIPAP. Vanc d/ced and flagyl added 
+to cover ? aspiration PNA.  Echo to r/o CHF in unit revealed: 
+EF>55% and mild symmetric LV hypertrophy. Pt respiratory status 
+improved and tachypnea resolved with BIPAP during 2 days in 
+unit. Transferred back to floor [**9-29**] on 4LO2 with intermittent 
+BIPAP. However, on floor despite multiple attempts at 
+administering BIPAP, pt repeatedly refused stating she 
+understood the importance of it but felt that the mask was too 
+suffocating. Despite this, pts respiratory status continued to 
+improve, breathing comfortably, and her sats remained >92% on 
+4LO2. She was discharged to rehab on 4L02(her home requirements 
+prior to admission). She is to continue her abx regimen 
+(levofloxacin 500mg QD and Flagyl 500mg TID) until [**10-10**].
+3. COPD - On admission, pt was placed on inhaled steroids and 
+bronchodilators.  O2 was continued at her baseline requirement 
+of 4L.  She remained >94% as long as NC in place until hosp day 
+7 when she became tachypneic,tachy, inc wob and occasional 
+desats to mid 80's. Her decline in respiratory status was 
+attributed to COPD exacerbation in setting of PNA requiring 
+BIPAP. IV steroids were started in the MICU and pt was switched 
+to oral prednisone on [**9-29**] with 2 week taper. ON discharge ([**10-3**]) 
+she was on 40 mg of prednisone. Taper as follows: 30mg X3 days 
+([**Date range (1) 1891**]), 20mgX3 days([**Date range (1) 11927**]), 10mgX3days([**3204-10-9**]), and 
+5mgX3days([**Date range (1) 11928**]).Pt should cont. atrovent, flovent, and prn 
+albuterol MDI's. 
+4. Cardiac: pt presented with HTN(177/108) which improved with 
+lopressor. pt was continued on lopressor during admission and 
+started on asa. HR remained 90-120's during admission. Pt with 
+occassional(1-2Xper week) substernal chest pain which is typcial 
+for her for months. Relieved spontaneously or with sublingual 
+nitro. R/o for MI on admission. Repeat EKG's with no significant 
+changes when compared to old ekg's. Some concern for ? afib on 
+admission - paramedics noted ""atrial fibrillation"" at the scene. 
+ No prior history of afib.  In the ED, EKG was sinus rhythm and 
+she remained in sinus rhythm throughout admission. 
+5.Anemia: Most recent hct levels found from [**3288**] at which time 
+baseline b/w 33-36. Pt required transfusion on admission with 
+hct 30-33 s/p transfusion. Iron studies within normal limits 
+with iron 65, ferriten 18, TIBC 355. Guiaic negative. NO obvious 
+bleed. Pt transferred total of 6 units PRBCs, although she 
+remained hemodynamically stable throughout admission. Hct on d/c 
+was 32.7
+5. Osteoperosis-cont calcitonin, calcium, vitamin D. Fosamax 
+restated prior to discharge. Pt is to be in straight UPRIGHT 
+position for 30 minutes after fosamax is given to avoid GI 
+upset. Pt on fall precautions given fragile body frame and h/o 
+falls.
+6.Depression - Pt seen by social worker while in ICU, no SSRI 
+was started during admission as contraindicated in patient 
+taking ultram. Was on risperidone prn during admission.
+7. FEN - On admission pt was started on QID fingersticks with 
+SSRI to cover if blood glucose >200. Pt required no insulin 
+during admission even while on steroids. Cont replacement of 
+calcium/phosphorus at rehab.
+8. PPx: pt on protonix, lovenox 30mg SC for at least 6 weeks 
+while b/l casts in place. may consider stopping lovenox once 
+patient ambulating again.aggresive bowel regimen; 
+fall/aspiration precautions.
+ 
+Medications on Admission:
+diltiazem ? tid
+tanadol
+colace
+Ca/vitD
+atrovent
+albuterol
+azmacort
+fioracet prn
+O2
+NTG sl
+miacalcin
+ 
+Discharge Medications:
+1. Calcitonin (Salmon) 200 unit/Actuation Aerosol, Spray Sig: 
+One (1)  Nasal QD (once a day).  
+2. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: 
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). 
+ 
+3. Multivitamin     Capsule Sig: One (1) Cap PO QD (once a day). 
+ 
+4. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TID; PLEASE GIVE 2 HOURS AFTER MEALS ().  
+5. Ascorbic Acid 500 mg Tablet Sig: One (1) Tablet PO TID , 
+PLEASE GIVE WITH CALCIUM ().  
+6. Ipratropium Bromide 18 mcg/Actuation Aerosol Sig: Two (2) 
+Puff Inhalation QID (4 times a day).  
+7. Enoxaparin Sodium 30 mg/0.3 mL Syringe Sig: One (1)  
+Subcutaneous Q12H (every 12 hours).  
+8. Risperidone 0.5 mg Tablet Sig: One (1) Tablet PO BID (2 times 
+a day) as needed.  
+9. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO QD (once a day).  
+10. Metoprolol Tartrate 50 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+11. Fluticasone Propionate 110 mcg/Actuation Aerosol Sig: Six 
+(6) Puff Inhalation BID (2 times a day).  
+12. Albuterol 90 mcg/Actuation Aerosol Sig: Two (2) Puff 
+Inhalation Q6H (every 6 hours) as needed.  
+13. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO QD (once a day).  
+14. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H 
+(every 24 hours) for 7 days.  
+15. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 7 days.  
+16. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day): hold for diarrhea.  
+17. Docusate Sodium 100 mg Capsule Sig: One (1) Capsule PO BID 
+(2 times a day): hold for diarrhea.  
+18. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO QD (once a day): hold for 
+diarrhea.  
+19. Lactulose 10 g/15 mL Syrup Sig: Thirty (30) ML PO Q6H (every 
+6 hours) as needed for constipation.  
+20. Lorazepam 0.5 mg Tablet Sig: 1-2 Tablets PO Q4-6H (every 4 
+to 6 hours) as needed for anxiety.  
+21. Oxycodone HCl 5 mg Tablet Sig: 1-2 Tablets PO Q4H (every 4 
+hours) as needed for pain uncontrolled by Tylenol.  
+22. Acetaminophen 325 mg Tablet Sig: Two (2) Tablet PO Q6H 
+(every 6 hours).  
+23. Aspirin-Caffeine-Butalbital 325-40-50 mg Capsule Sig: [**1-26**] 
+Tablets PO Q4-6H (every 4 to 6 hours) as needed for headache.  
+24. Alendronate Sodium 70 mg Tablet Sig: One (1) Tablet PO QSUN 
+(every Sunday).  
+25. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  QID 
+(4 times a day) as needed.  
+26. Prednisone 10 mg Tablet Sig: One (1) Tablet PO QD (once a 
+day) for 3 days: [**Date range (1) 11929**].  
+27. Prednisone 20 mg Tablet Sig: One (1) Tablet PO once a day 
+for 3 days: [**Date range (1) 11927**].  
+28. Prednisone 5 mg Tablet Sig: One (1) Tablet PO once a day for 
+5 days: [**Date range (1) 11930**].  
+29. Prednisone 10 mg Tablet Sig: Three (3) Tablet PO once a day 
+for 3 days: [**Date range (1) 1891**].  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 11931**] Center
+ 
+Discharge Diagnosis:
+Primary:
+Biliateral supracondylar femural fractures, pneumonia, COPD 
+exacerbation
+
+Secondary:
+Anemia
+severe COPD(at baseline on home O2: 4L) , CAD, osteoperosis, 
+chronic lower back pain, migraines, depression
+
+ 
+Discharge Condition:
+fair, but stable
+ 
+Discharge Instructions:
+[**Doctor First Name 10**] have bilateral knee fractures.  [**Doctor First Name 10**] will need to remain in 
+the casts for a minimum of 6 weeks.  [**Doctor First Name 10**] may sit up in a chair 
+as long as both of your legs are supported. Please complete all 
+prescribed antibiotics to treat your pneumonia.
+ 
+Followup Instructions:
+Please contact your primary care physcian, Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **], 
+PHONE: [**Telephone/Fax (1) 2807**], to make an appointment within 2 weeks of 
+your hospital discharge.
+
+Please follow up with your orthopedics surgeon, Dr. [**Last Name (STitle) 1296**], at 
+11:30AM  on [**3291-10-16**] @ [**Location (un) 5338**] office on [**Location (un) 11932**].
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 86**] MD [**MD Number 87**]
+ 
+Completed by:[**3291-10-3**]
+
+",,
+8575,18949,10681,,3291-09-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3291-9-28**] 5:20 PM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 9204**]
+     Reason: Please place PICC--bedside unable to evaluate.              
+     Admitting Diagnosis: BILATERAL FEMORAL  FX
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O [**State/Zipcode 54**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * 76937 US GUID FOR VAS. ACCESS        C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      66 year old woman with COPD                                                     
+     REASON FOR THIS EXAMINATION:
+      Please place PICC--bedside unable to evaluate.                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 66 year-old-female with COPD and need for intravenous medications.
+     Please place single lumen PICC line.
+     
+     PHYSICIANS: The procedure was performed by Dr. [**First Name4 (NamePattern1) 1165**] [**Last Name (NamePattern1) 1558**], Dr. [**First Name8 (NamePattern2) 1559**]
+     [**Name (STitle) 1129**], and Dr. [**First Name (STitle) 79**] [**Name (STitle) 43**] d'Othee. Dr. [**Last Name (STitle) 43**] [**Name (STitle) 44**], the staff
+     radiologist was present and supervising throughout the entire procedure.
+     
+     PROCEDURE: The patient was placed supine on the angiography table. Her left
+     upper extremity was prepped and draped in the standard sterile fashion. Since
+     no suitable superficial vein was visible, ultrasound was used for localization
+     of an appropriate vein. The left basilic vein was patent and compressible. The
+     skin was anesthetized with 3 cc of 1% Lidocaine. Under ultrasonographic
+     guidance, the left basilic vein was accessed using a 21-gauge micropuncture
+     needle. A 0.018 guidewire was advanced through the access needle into the
+     superior vena cava under fluoroscopic guidance. The skin entry site was
+     incised with a #11 blade scalpel. The access needle was exchanged for a 4-
+     French micropunture sheath with inner dilator. The inner dilator was removed.
+     Based on the markers on the guidewire, it was determined that a length of 31
+     cm would be appropriate. The PICC line was then trimmed to length and advanced
+     over the guidewire through the peel-away sheath into the superior vena cava.
+     The guidewire and peel-away sheath were removed. The catheter was flushed,
+     capped, and heplocked. It was secured to the skin using a Stat-Lock device.
+     
+     FINDINGS: A final AP chest x-ray was obtained, demonstrating the tip of the
+     catheter to be present in the superior vena cava just above the right atrium.
+     
+     COMPLICATIONS: None.
+     
+     IMPRESSION: Successful placement of a 31 c long, 4-French single lumen PICC
+     line via the left basilic vein. The tip of the catheter is present in the
+     superior vena cava. The line is ready for immediate use.
+
+",,
+8575,18949,10681,1,3291-09-28 01:56:00 EST,3291-09-28 04:53:00 EST,2560,"Y",69,"Nursing/Other",,"
+
+VM is at 31%, not 80%.  Pt is tol VM better than bipap.  She's more comfortable, breathing easier, altho her rate is still 24-27, and BP=90-100/, and 02sat=96%.CV:  HR=110s, ST, no ectopy.  BP= 120-130s/60s.  +pulses by doppler, extrems cool, no edema.  
+
+Skin:  douderm to coccyx intact.  Barrier cream applied to peri-rectal area as pt is freq stooling.
+
+ID: Afebrile.  On Levaquin, flagyl and Vanco.
+
+Resp:  At 0500, pt placed on VM 80% w/ RR=24, 02sat variable from 85-93.  Lungs sound the same w/ crackles throu-out all fields.
+
+",,
+8575,18949,10681,2,3291-09-28 01:56:00 EST,3291-09-28 06:15:00 EST,2560,"Y",69,"Nursing/Other",,"
+
+VM is at 31%, not 80%.  Pt is tol VM better than bipap.  She's more comfortable, breathing easier, altho her rate is still 24-27, and BP=90-100/, and 02sat=96%.CV:  HR=110s, ST, no ectopy.  BP= 120-130s/60s.  +pulses by doppler, extrems cool, no edema.  
+
+Skin:  douderm to coccyx intact.  Barrier cream applied to peri-rectal area as pt is freq stooling.
+
+ID: Afebrile.  On Levaquin, flagyl and Vanco.
+
+Resp:  At 0500, pt placed on VM 80% w/ RR=24, 02sat variable from 85-93.  Lungs sound the same w/ crackles throu-out all fields.
+
+",,
+8575,18949,10681,0,3291-09-28 01:56:00 EST,3291-09-28 02:31:00 EST,2560,"N",69,"Nursing/Other",,"
+
+
+DNR/DNI   Universal Precautions   Allergy: PCN, Codeine
+
+
+66yr-old female adm [**9-22**] w/ bilat femur fx after sustaining a fall at home (fell over the cat). 
+
+PMH: Severe COPD on 4l home 02, osteoporosis, CAD (?silent MI), migraine h/a, anxiety, chronic LBP, recurrent falls w/ fx, cholidocolcyst, s/p sphincterotomy.
+
+Pt was on CC7, developed CP and ^resp distress.  No changes in EKGs.Chest CT ruled out PE, but did show large PNA - placed on levo and vanco. Pt has been tachypnic and tachycardic x2days.  She was given sl NTG, MS04, and resp tx w/ no improvement.  TX to MICU B for bipap.
+
+Neuro:  AAOx3 when tx to ICU.  She has recieved MS04 and Ativan for comfort, but ?sundowning and/or meds, she is a little confused by her converstaion about her deceased father.  She's  not removing the mask. MAEx4, follows all commands.
+
+Resp:  On BIPAP 40% 5/5 w/ 02sat 99-100%.  RR at 30.  She is uncomfortable w/ the mask but is keeping it on.  Lungs w/ crackles in all fields bilat ([**Last Name (LF) 5980**], [**First Name3 (LF) 34**] Dr [**Last Name (STitle) **]).  No cough, no sputum.
+
+GI/GU:  Abd soft, +BS, BMx2 liquid.  NPO at this time.  Foley cath w/ amber clear urine.  Marginal output.
+
+Pain:  Med /w MS04 and Ativan prn for comfort.
+
+Access:  #22 LLFA and #20 inserted in RLFA for blood draws and more access.
+
+Skin: intact at this time, altho cast at inner thighs will need to by assessed by ortho.  Pt stooling liquid stool - barrier cream applied.
+
+Labs: ok
+
+Social:  No calls from family or friends.
+
+Plan:  Continue w/ bipap as long as pt will tolerate it, maintain comfort.
+
+
+    
+",,
+8575,18949,10681,0,3291-09-28 03:00:00 EST,3291-09-28 03:11:00 EST,2183,"N",69,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt transferred from floors to MICU B to begin a trial of NIPPV for resp decompensation. Pt on NIPPV as per Carevue. Tol well with improved gas exchange. Pt noted to have irregular breathing pattern with what appear to be hypopneas/apneas periodically however oxygen sats remain stable. Cont NIPPV as tol.
+",,
+8575,18949,10681,0,3291-09-28 16:00:00 EST,3291-09-28 16:14:00 EST,1640,"N",69,"Nursing/Other","NPN 11AM-7PM:","
+NPN 11AM-7PM:
+Neuro: Pt alert, oriented times two. Speech clear, follows commands. MAE. C/O headache, given fiorinal one tablet with good effect. Does not complain of leg pain unless moved. Requires full assist with all ADL's.
+
+Resp: Remains on 4L N/C today with productive junky cough. Becomes DOE and ABG is stable. CPT done Q4hrs. Encouraged to cough andeep breath Q2hr WA. Plan is for her to go back on full face mask ventillation tonight and to fit her for nasal c-pap when she needs to go to the floor. Plan is for back to floor tomorrow if she is stable.
+
+CV: BP 100-130/50-60. HR 90-110 NSR rare PVC. Denies chest pain. CPK sent 4PM and needs to be repeated at midnight tonight.
+
+GI: Pt NPO but I have let her have sipd water/ice chips and she needs pills crushed in applesauce. Tolerating this well in fact pt c/o being hungry but doctors [**Name5 (PTitle) **] [**Name5 (PTitle) **] [**Name5 (PTitle) **] for now. +BS. Passing loose stool frequently.
+
+GU: Problems with leaking foley on/off today. I changed foley catheter once today and it is still leking slightly. 5 extra cc's saline added to balloon. If foley continues to leak I have asked MD if we can give pt a trial without foley to see if she can use bedpan without getting cast wet. We will do this if needed.  Her UO remains low and few NS boluses have been given to improve UO.
+
+Access: Pt has one peripheral IV and I was not able to get in another. She is on antibiotics for the pneumonia as well as fluids. PICC line scheduled to be done this eve.
+
+ID: Afebrile on flagyl/levo.
+
+Endo: Pt is on steroids and glucose has been a little high requiring sliding scale coverage at times.
+
+Skin: Pt's coccyx has two small stage two ulcers. uoderm replaced due to it falling off. Pt does not turn well and is at risk for further skin breakdown so Kinaire bed ordered and obtained. Ortho came by and trimmed back the cast on her right thigh due to it getting soiled with stool. They said it is a temporary fix and may need to be recasted next week. Call ortho tech coverage over the WE with any problems.
+",,
+8575,18949,10681,0,3291-09-28 21:00:00 EST,3291-09-28 21:06:00 EST,1640,"N",69,"Nursing/Other","MICU NPN 7PM-11PM:","
+MICU NPN 7PM-11PM:
+Breif Update to previous note written earlier. Pt has had stable mental status and vital signs. She went down to IR and had PICC placed without incident. Pt was assisted on/off the bedpan for mod sized stool. Ortho tech came by to cut off the soiled portion of the cast on her right leg.  The foley has also  stopped leaking after more NS was added to the balloon. She continues to have marginal UO but has not required further boluses. Her resp status is stable on the four liters NC and the p[[**Doctor First Name **] is to try either nasal c-pap or mask ventillation tonight.
+
+Of note at 10PM pt called me to tell me that her right leg was throbbing with increased pain since her last turning in the bed. I inspected the top portion of the cast and no skin breakdown is noted. I have called the team, Dr. [**First Name4 (NamePattern1) 5981**]  [**Last Name (NamePattern1) **] has been notified and will come up to examine and talk to pt avout the new pain. Pt isvery distraught about being NPO and so immobile and now with the increased pain is unhappy and stating she would rather die than go through any more of this. I have given her a dose of fiorinal and team will asses when they are able. 
+",,
+8575,18949,10681,0,3291-09-29 04:54:00 EST,3291-09-29 05:13:00 EST,2715,"N",69,"Nursing/Other",,"
+
+Nursing Progress Note
+[**3291-9-29**]   0000->07:30
+
+S/O
+
+NEURO: A&O x3, appropriate. C/O pain in BLE [**11-4**], unrelieved with morphine 1mg IV or postion changes -> started on Toradol 15mg IM, received 1 dose and pain relieved to level of 0. Requested ""relaxing medicine"" -> Ativan 1mg IV given to help maintain sleeping state.
+
+Pt took in po's w/o coughing or any signs of impaired swallow or impaired airway management.
+
+CV: HRR, 90's without ectopy. Bil DP pulsees easily palpated. SBP 100's-130's.
+
+RESP: Strong, productive cough. Nasal cannula at 4LPM maintained SpO2 93-100%. LS coarse with end expiratory wheezes -> albuterol and atrovent inhalers with improved air movement. Turning, coughong and deepbreathing effectively cleared airways. BiPAP declined by pt and not needed.
+
+GI: C/O hunger -> toast, apple juice, and coffee apeased hunger. Abd soft with hyperactive bowel sounds, no BM.
+
+FEN: PO intake as noted, pt tolerated without respiratory issues. Phos 2.5 this a.m.
+
+HAEM: A.M. labs pending; no apparent issues.
+
+GU: Continues with low to marginal urine output, > 20mL/hr.
+
+MUSCULOSKEL: BLE remain casted, DP pulses easily palpable. Toradol given with + pain relief. On air mattress, coccyx less pink.
+
+A/P
+
+Continue to advance diet as appropriate for this patient.
+Encourage coughing and deep breathing.
+Check with Ortho and PT / OT re: OOB.
+Prepare for transfer to floor, out of unit, as appropriate.
+Continue current support and nursing care.                                       
+",,

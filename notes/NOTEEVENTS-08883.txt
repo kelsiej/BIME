@@ -1,0 +1,123 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8883,1540,,,2706-09-09 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2706-9-9**]     Discharge Date:  [**2706-10-1**]
+
+Date of Birth:   [**2622-8-17**]     Sex:  F
+
+Service:
+
+Please see the initial dictation that went through from
+[**9-9**] to [**9-25**].  This discharge addendum is from
+[**9-25**] to [**10-1**].
+
+REMAINDER OF HOSPITAL COURSE:  The patient was scheduled to
+have a CT scan to investigate her rising white count.
+Because of her difficulty swallowing, a nasogastric tube was
+planned to be placed.  We tried placing the tube initially to
+cause the patient a lot of discomfort, and after the first
+attempt, the patient refused any further attempts.
+
+The CT scan was cancelled and after attempting multiple more
+times to discuss with the patient her desire for any kind of
+invasive feeding devices including nasogastric tube or
+Dobhoff tube, PEG tube, as well as discussing with her
+health-care proxy with her daughter and her prior understood
+wishes for no artificial means of nutrition.  Her TPN was
+continued for four more days while these ongoing sessions
+were going on as well as we were continuing to hospital
+course.
+
+After multiple long discussions with the daughter as well as
+multiple attempts to try to speak with the patient about all
+of these issues, it was decided to discontinue TPN, not
+pursue any kind of invasive feeding tube, and to allow the
+patient to eat what she is able to tolerate by mouth with the
+understanding that this may not provide adequate nutritional
+support, and also in light of the patient's difficulties with
+swallowing.
+
+The patient remains stable throughout the remainder of her
+course.  Her medications were changed back to po medication
+and she is to be discharged today to a nursing home to take
+her po medications as tolerated and nutrition by mouth.
+
+DISCHARGE CONDITION:  Fair.
+
+DISCHARGE STATUS:  Discharged to her nursing home.
+
+DISCHARGE MEDICATIONS:  Lasix 40 mg po q day, levothyroxine
+112 mcg po q day, citalopram 20 mg po q day, digoxin 0.125 mg
+po q day, lisinopril 10 mg po q day, metoprolol 25 mg po bid,
+Lovenox 60 mg subQ q24h, and nitroglycerin ointment of 2% q6h
+prn.
+
+
+
+                    DR.[**Last Name (STitle) 2309**],[**First Name3 (LF) 2308**] 13-268
+
+
+
+
+Dictated By:[**Last Name (NamePattern1) 4265**]
+
+MEDQUIST36
+
+D:  [**2706-10-1**]  10:10
+T:  [**2706-10-1**]  10:33
+JOB#:  [**Job Number 12382**]
+Signed electronically by: DR. [**First Name (STitle) 2308**] [**Name (STitle) 2309**]
+ on: MON [**2706-10-8**] 8:09 AM
+(End of Report)
+
+
+",,
+8883,1540,11045,0,2706-09-09 19:02:00 EST,2706-09-09 19:09:00 EST,3062,"N",54,"Nursing/Other",,"
+
+NEURO: PT ADMITTED FROM ER. PT DOES OPEN HER EYES WHEN [**Doctor First Name **] CALL HER NAME, PT SPEECH IS GARBLED PT ORIENTED TO SELF, AND YEAR,PT FOLLOWING COMMANDS, PT ABLE TO LIFT RIGHT ARM OFF BED, PT MOVES LEFT ARM ON BED, PT ABLE TO LIFT RIGHT LEG OFF BED, PT LIFT LEFT LEG OFF BED. PUPILS BOTH EQUAL AND REACT SLUGGISH TO LIGHT.  PT DENIES ANY C/O PAIN.
+
+CARDS: PT IN AFIB, ALINE PLACED BP IN 160'S (PLEASE SEE FLOW SHEET FOR VS) PT TO BE STARTED ON LABETOTOL. NUERO MED WANT BP B/W SBP 100-120.
+
+PULM: LUNGS DIMISHED. 02 SAT 100% ON 100% NRB
+
+GI: NG-TUBE PLACED. PT NPO
+
+GU: PT URINE OUTPUT CLOUDY U/O AT 1900 60CC/HR.
+
+COAG: INR 1.4 PT TO RECIEVE ANOTHER UNIT OF FFP, BLOOD BANK CALLED TO THAW.
+
+SKIN: PT WITH RASH ON FACE, ARM, LEG, BACK, UNDER BREAST, PERI-AREA AND ON LEGS.
+",,
+8883,1540,11045,0,2706-09-10 05:39:00 EST,2706-09-10 05:48:00 EST,3439,"N",54,"Nursing/Other","neuro","
+neuro
+data/action: neuro-speech garbled but able to understand. keeps eyes closed most of the time but will open when asked. mae-upper arms and lt leg constantly-rt leg on bed. rec'd 1u ffp(total of 3u's) w/ inr 1.3 this morning. 
+pt has poor iv access-veins very thin and fragile-needs iv nurse consult for picc line. pt knows name&month but not place. 
+K+,mg+ and ca+ repleted. Rash persists over entire body ?source.
+duaghter in from wash. state @ mn.-spoke w/ dr. [**First Name (STitle) **] regarding pt condition-is staying @ best western hotel. 
+",,
+8883,1540,11045,0,2706-09-10 14:03:00 EST,2706-09-10 14:25:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Nursing Progress Note
+[**9-10**] -> @1500
+
+S/O
+NEURO: Lethargic but arousable, oriented x 3. Speech garbled but coherent and appropriate. Moves right side w/o deficit; left uuper extremity weak, able to move on bed but unable to lift against gravity; moves left leg laterally and bends mnee about 10 degrees but unable to lift leg or bend at knee without assist. PERRLA, brisk, tongue midline, cough intact, gag intact, swallows water from mouth swabs w/o gagging. Repeat head CT without change from initial post thalamic bleed, per neuro team.
+
+According to daughter, pt has h/o lethargy and sleeping 12-14 hours/day. This issue has been addressed repeatedly in nsg home with caffeine treatment and discontinuation.
+
+CV: Chronic afib with ventricular response in 80's, no ectopy. Pulses palpable, Skin warm, moist. Labetolol drip weaned to off at 1430 after Lopressor 25mg pNGT and hydralazine 10mg IV given. SBP currently 110-120.
+
+RESP: LS clear, no distress. On nc @ 2LPM, no distress. Occ cough, non-productive.
+
+GI: BS positivem hypoactive. NGT clamped, scant aspirate, bilious. Abd non-tender. No nausea/vomiting/diarrhea.
+
+FEN: BS 140's -> regular insulin per neuro treatment f 2 units s/c. K+ repleted this a.m. for K+3.4, currently 4.2. Mg2+ repleted with 2 Gm x 2 IV. NS with KCl 20 mEq/L infusing at 60mL/hr.
+
+GU: Levofloxacin for UTI, cultures pending. Foley to straight drainage with yellow-amber, cloudy u/o ~20mL/hr. Pt takes Lasix ~1x/mo, none given this admission.
+
+SKIN: Rash over back, chest and legs. Per nsg home, rash was present on back and chest. Per neuro, Dilantin was held (d/c'd) today due to concern of Dilantin rxn causing rash. Neuro team spoke with primary care physician [**Last Name (NamePattern4) **]: seizure sxs prior to admission.
+
+A/P
+Positive neuro deficit without change in status since admission. 
+Continue beta-blocker tx as ordered and appropriate to keep SBP within narrow limits defined by neuro team to limit insult from thalamic bleed.
+",,

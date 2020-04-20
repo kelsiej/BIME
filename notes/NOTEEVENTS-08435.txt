@@ -1,0 +1,355 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8435,5149,,,3455-03-08 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3455-3-8**]     Discharge Date:  [**3455-3-10**]
+
+Date of Birth:   [**3395-8-6**]     Sex:  M
+
+Service:  [**Company **]
+
+CHIEF COMPLAINT:  Shortness of breath and mental status
+change.
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 59-year-old
+male with a history of congestive obstructive pulmonary
+disease requiring home O2, schizo-affective disorder and
+assaultive behavior.  Is sent from the [**Hospital3 11697**] Home
+after the patient became combative, refuses alcohol, and was
+noted to be hypoxic.  On presentation to the Emergency
+Department, the patient was somnolent and intermittently
+arousable, thus unable to provide a significant history or
+review of systems, but reports that the patient was noted to
+be slightly ""off"" cognitively on [**3-5**].  On [**3-6**],
+he had increasing congestion and was started on levofloxacin.
+
+On [**3-7**] and [**3-8**], he became increasingly
+combative with decreased O2 saturations 67-70% with O2
+noncompliance.  Also he is found to be bleeding from his nose
+and mouth, although there was no known trauma.  There is a
+history of physical assault from his roommate.  With
+worsening sats, he is transferred to the [**Hospital1 74**] Emergency Department for further
+evaluation.
+
+PAST MEDICAL HISTORY:
+1. Schizo-affective disorder.
+2. History of assaultive behavior.
+3. History of alcohol abuse.
+4. Congestive obstructive pulmonary disease on 4 liters O2 at
+home with sats in the low 90% range on that.
+5. Hypertension.
+6. Psoriasis.
+7. Genital herpes.
+8. Status post anal fistulectomy 20 years ago.
+9. Status post tonsillectomy.
+
+MEDICATIONS ON ADMISSION:
+1. Depakote 1,000 mg po q am, 1125 mg po q pm.
+2. Lithium SA 900 mg po q hs.
+3. Haldol Decanoate 75 mg po q month.
+4. Cogentin 1.5 mg po bid.
+5. Azmacort two puffs tid.
+6. Albuterol and Atrovent home nebulizers qid and q hs.
+7. Lisinopril 2.5 mg po q day.
+8. Vitamin C.
+9. Vitamin D.
+10. Vitamin E.
+11. Folate.
+12. Colace 100 mg po bid.
+13. Detrol SA 1 mg po q day.
+14. Metamucil prn.
+15. Zantac 150 mg po bid.
+
+ALLERGIES:  Penicillin.
+
+SOCIAL HISTORY:  Smoker.  History of alcohol abuse.  Was a
+teacher, former scholar.  Lives in [**Hospital3 11697**] Home.
+Has a legal guardian, Mr. [**Last Name (Titles) 6597**], whose number is
+[**Telephone/Fax (1) 11698**], who is out of the country until [**3-10**].
+
+PHYSICAL EXAMINATION ON ADMISSION:  Temperature of 98.1,
+heart rate 92, blood pressure 125/64, respiratory rate 14,
+and O2 saturation is 96% on 30% Ventimask.  Obese, initially
+somnolent in the Emergency Department, but improved as
+oxygenation improved.  HEENT:  Blood around the mouth and
+nares.  Pupils are equal, round, and reactive to light.
+Neck:  Neck veins flat.  Neck is supple.  Lungs:  Decreased
+breath sounds throughout with poor air movement.
+Cardiovascular examination:  Regular, rate, and rhythm,
+normal, no murmurs, rubs, or gallops.  Abdomen is soft,
+nontender, nondistended, normoactive bowel sounds.  No
+organomegaly.  Extremities:  No edema, 2+ pulses.
+Neurological examination:  Cranial nerves II through XII are
+grossly intact.  Answers in slightly garbled speech, 2+
+symmetric reflexes throughout the upper and lower
+extremities.  Toes are upgoing bilaterally.  Tone within
+normal limits.  Strength is symmetric [**4-23**] throughout.
+
+ADMISSION LABORATORIES:  White blood cell count 13.8,
+hematocrit 48.1, platelets 187, differential:  81%
+neutrophils, 11.9 lymphocytes, 6 monocytes.  Sodium 139,
+potassium 4.2, chloride 102, bicarbonate 29, BUN 17,
+creatinine 1.0, glucose 97, calcium 10.3, phosphorus 3.0,
+magnesium 2.1.  Valproic acid level is 74, tox screen
+negative.  Arterial blood gas:  7.32/56/70.
+
+IMAGING:  CT scan of the head:  No gross intracranial
+hemorrhage.
+
+CHEST X-RAY:  Bibasilar opacities may represent atelectasis,
+but a pneumonic process cannot be excluded.
+
+IMPRESSION:  Patient is a 59-year-old male with a history of
+congestive obstructive pulmonary disease and schizo-affective
+disorder who presents with increasing cough and worsening
+oxygenation.  Brief course of levofloxacin started two days
+prior to admission.
+
+HOSPITAL COURSE:  The patient was admitted to the Medical
+Intensive Care Unit where he received intravenous Solu-Medrol
+and nebulizers.  In addition, he was continued on
+levofloxacin for suspected pneumonia in the lower lobes.  He
+quickly improved, so that he was able to be transferred out
+of the MICU to the [**Company **] Medicine service after about six
+hours.
+
+On the Medicine service, he was transferred to oral steroids,
+and continued on his nebulizers and antibiotics.  He
+continued to improve, so that he is now back to his baseline
+oxygen saturation on his 4 liters of home oxygen and his
+mental status has now returned back to baseline.  He is no
+longer combative, and agrees to wear his home oxygen as he
+understands that he needs it.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE STATUS:  Transferred back to [**Hospital3 11697**]
+Home.
+
+DISCHARGE DIAGNOSES:
+1. Emphysema.
+2. Congestive obstructive pulmonary disease exacerbation.
+3. Pneumonia.
+4. Schizo-affective disorder.
+5. Mental status changes secondary to hypoxia and
+hypercapnia.
+
+DISCHARGE MEDICATIONS:
+1. Prednisone taper 50 mg po q day for three days, 40 mg po q
+day for three days, 30 mg po q day for three days, 20 mg po q
+day for three days, and then 10 mg po q day for three days
+and then stop.
+2. Levofloxacin 500 mg po q day, last dose on [**3-13**].
+3. Depakote 1,000 mg po q am, 125 mg po q pm.
+4. Lithium SA 900 mg po q hs.
+5. Haldol Decanoate 75 mg subQ q month.
+6. Cogentin 1.5 mg po bid.
+7. Azmacort two puffs tid.
+8. Albuterol and Atrovent home nebulizers qid and q hs.
+9. Lisinopril 2.5 mg po q day.
+10. Vitamin C.
+11. Vitamin D.
+12. Vitamin E.
+13. Folate.
+14. Colace 100 mg po bid.
+15. Detrol SA 1 mg po q day.
+16. Metamucil prn.
+17. Zantac 150 mg po bid.
+
+
+
+
+                          [**First Name11 (Name Pattern1) 1395**] [**Last Name (NamePattern4) 3015**], M.D.
+[**MD Number 3016**]
+
+Dictated By:[**Name8 (MD) 2183**]
+
+MEDQUIST36
+
+D:  [**3455-3-25**]  23:24
+T:  [**3455-3-27**]  13:21
+JOB#:  [**Job Number 11699**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) 1395**] [**Last Name (NamePattern1) **]
+ on: [**Doctor First Name 46**] [**3455-3-29**] 12:45 PM
+(End of Report)
+
+
+",,
+8435,5149,,,3455-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3455-3-8**] 7:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7735**]
+     Reason: altered mental status, r/o pneumonia
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with 
+     REASON FOR THIS EXAMINATION:
+      altered mental status, r/o pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Altered mental status, evaluate for pneumonia.
+     
+     Comparison is made with a chest radiograph from [**3455-1-5**].
+     
+     AP CHEST RADIOGRAPH:  The heart size and mediastinal contours are unchanged in
+     appearance. There is some interval elevation of the right hemidiaphragm, with
+     increased opacity in the right lung base, which may indicate atelectasis. A
+     pneumonic process cannot be excluded. There is also streaky increased density
+     in the left lung base.  Again, this could represent atelectasis, but a
+     pneumonic process cannot be excluded.  Osseous structures are unchanged in
+     appearance.
+     
+     IMPRESSION:  Bibasilar opacities may represent atelectasis, although pneumonia
+     cannot be excluded.
+     
+
+",,
+8435,5149,,,3455-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3455-3-8**] 7:31 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7736**]
+     Reason: altered mental status, r/o bleed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with 
+     REASON FOR THIS EXAMINATION:
+      altered mental status, r/o bleed
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 7737**] [**Doctor First Name 114**] [**3455-3-8**] 8:03 AM
+      limited study (patient motion). no gross intracranial hemorrhage
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Altered mental status, evaluate for hemorrhage.
+     
+     No prior head CT is available for comparison.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  Study is extremely limited by patient motion, including absence of
+     coverage of the vertex due to marked movement of the patient . Allowing for
+     these limitations, no definite areas of intra or extraaxial hemorrhage are
+     seen. There is no hydrocephalus. There is preservation of [**Doctor Last Name 30**]/white matter
+     differentiation.
+     
+     No skull fractures or soft tissue swelling are seen.  The visualized portions
+     of the paranasal sinuses are clear.
+     
+     IMPRESSION:  Limited study.  No gross intracranial hemorrhage.
+
+",,
+8435,5149,10482,0,3455-03-08 18:04:00 EST,3455-03-08 18:10:00 EST,-1,"N",69,"Nursing/Other","MICU/SICU NPN HD #1","
+MICU/SICU NPN HD #1
+S/O:
+
+Neuro: pt is confused and agitated/combative, MAEW, occasionally follows commands, denies pain
+
+Resp: SpO2 96-98% on 2L NP, LS are coarse
+
+CV: AVSS, please see flowsheet for data, skin is C/W/D/I
+
+GI/GU: abd is obese soft, NT/ND, BS present, currently NPO, Foley patent for clear yellow urine in adequate amts
+
+Lines: #18 angio in left FA and #18 angio in right FA
+
+A:
+
+high risk for injury r/t agitiation, restlessness
+altered nutrtion, LBR r/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 5760**] caloric intake
+
+
+P:
+
+cntinue to monitor hemodynamic stability, resume med regimen, agressive pulmonary toilet, ADAT
+",,
+8435,,,,3455-03-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3455-3-15**] 2:12 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7738**]
+     Reason: r/o cardiopulmonary process and check central line placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with copd and change in mental status with low O2 Sat
+     REASON FOR THIS EXAMINATION:
+      r/o cardiopulmonary process and check central line placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Mental status changes, central venous line placement.
+     
+     Comparison is made to the chest radiograph from [**3455-3-8**].
+     
+     AP CHEST RADIOGRAPH:  There is a left subclavian approach central venous line
+     with the tip at the junction of the brachiocephalic and subclavian veins.  No
+     pneumothorax is present.  Heart size, mediastinal contours, and pulmonary
+     vasculature are stable in appearance.  No pleural effusions or pneumonic
+     consolidations are seen.  Again demonstrated are patchy areas of opacity in
+     the left lung base, which likely represent atelectasis.
+     
+     IMPRESSION:  Successful central venous line placement.  No pneumothorax.  Tip
+     at junction of brachiocephalic and SVC.  Left basilar atelectasis.
+
+",,
+8435,,,,3455-03-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3455-3-15**] 3:02 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7739**]
+     Reason: mental status changes
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with 
+     REASON FOR THIS EXAMINATION:
+      mental status changes
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: [**First Name8 (NamePattern2) 738**] [**Last Name (NamePattern1) 114**] [**3455-3-15**] 3:22 PM
+      no intracranial hemorrhage
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mental status changes.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     COMPARISON:  [**3455-3-8**].
+     
+     FINDINGS:  There is no acute intracranial hemorrhage.  The [**Doctor Last Name 30**]-white matter
+     differentiation is preserved.  There is no shift of normally midline
+     structures.  The ventricles, sulci and cisterns appear normal.  The
+     surrounding paranasal sinuses, soft tissue and osseous structures are
+     unremarkable.
+     
+     IMPRESSION:  No acute intracranial hemorrhage.  Evaluation somewhat limited
+     secondary to patient motion.
+
+",,
+8435,,,,3455-04-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3455-4-2**] 8:06 AM
+     MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7740**]
+     Reason: cognitive changes suggestive of frontal lobe pathology - wan
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      59 year old man with hx bipolar disorder
+     REASON FOR THIS EXAMINATION:
+      cognitive changes suggestive of frontal lobe pathology - want to ascess extent
+      of atrophy and white matter  disease
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cognitive changes and history of bipolar disorder, assess for
+     frontal lobe pathology.
+     
+     COMPARISON:  Noncontrast head CT [**3455-3-15**].
+     
+     TECHNIQUE:  Multiplanar T1 and T2 MRI scan of the brain.
+     
+     FINDINGS:  This exam is limited due to patient motion.  No structural brain
+     parenchymal abnormalities are seen.  There is no abnormal FLAIR signal or
+     susceptibility artifact.
+     
+     IMPRESSION:  Exam limited by patient motion.  No gross parenchymal brain
+     abnormalities seen.
+
+",,

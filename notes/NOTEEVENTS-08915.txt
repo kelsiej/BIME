@@ -1,0 +1,2591 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8915,17012,,,3391-06-01 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3391-6-1**]              Discharge Date:   [**3391-6-29**]
+ 
+Date of Birth:  [**3335-2-6**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 7318**] 
+Chief Complaint:
+mental status changes 
+ 
+Major Surgical or Invasive Procedure:
+Intubation
+ 
+History of Present Illness:
+Pt. is a 56 y/o w/ MMP including cirrhosis, chronic renal 
+insufficiency, diabetes who p/w mental status changes. History 
+per EMS report/daughter. Pt. w/ long h/o cirrhosis, unclear 
+baseline mental status. Recently pt. w/ gait instability. One 
+day prior to presentation, pt. flew from [**State 9504**] to here for 
+evaluation by liver transplant team at [**Hospital1 **]. On day of arrival to 
+MAss., but was talking, but seemed confused. Over the next 24 
+hours, pt. had nausea/vomiting, but continued to take insulin. 
+Pt. was unable to answer questions, not talking, seemed weak and 
+was having difficulty walking. Daughter unable to confirm if pt. 
+had complaints, but did note rigors in the a.m. and cough. Day 
+of admission - pt's daughter called EMS and pt. was taken to 
+[**Hospital3 **].  
+.  
+At OSH, pt. was tachycardic, but otherwise VSS. On evaluation, 
+he was intermittently following commands, not answering 
+questions. Pt. found to have ammonia for 236. Pt. given 
+lactulose. Pt. w/ FS at OSH was 66 (given D50). Pt. was also 
+given 2 L NS, thiamine and kayexalate(45 mg) for hyperkalemia. 
+Pt. was transferred to [**Hospital1 83**] for further liver evaluation.  
+.  
+In ED, pt w/ mental status changes - oriented to person only. 
+Pt. was sleepy, but combatative. Concern for encephalopathy 
+given high ammonia level at OSH. Pt. was in need of infectious 
+w/u including extensive CT scans. Concern for sedating pt. w/ MS 
+changes and risking apneic arrest in [**Last Name (LF) **], [**First Name3 (LF) **] decision was made to 
+intubate patient for airway protection. Per report from ED 
+attending, pt. was oxygenating well w/ good sats at that point. 
+In ED, pt. given vanco/levo/flagyl. Pt. hyperkalemic in ED - 
+given kayexalate, D50, calcium gluconate. Pt. w/ lactate of 3.0.
+ 
+Past Medical History:
+Cirrhosis - supposed to get liver transplant eval w/ liver at [**Hospital1 **] 
+ 
+Esophageal Varices  
+Renal Insufficiency(last (Cr 2.9)  
+Diabetes - insulin dependent  
+HTN  
+GERD  
+Gout  
+Alcoholism - quit last [**Female First Name (un) 493**]  
+Hypercholesterolemia  
+
+ 
+Social History:
+Alcoholism - quit last [**Female First Name (un) 493**], married - lives in [**State 9504**] w/ 
+daughter in [**Name2 (NI) **], retired fire chief 
+ 
+Family History:
+mom - ovarian CA, dad stroke 
+ 
+Physical Exam:
+Gen: encephalopathic, open eyes to commands but no other 
+response  
+Skin: warm, multiple bruises  
+HEENT: PERLA, ecchymosis along eye, sclera, anicteric, multiple 
+petechiae on hard palate  
+CV: RRR, loud S1/S2  
+Lungs: upper airway soundss  
+Abd: umbilical herniation (reducicble), caput medusea, 
+distended, soft, no rebound/guard, tympanic superiorly, fluid 
+wave, no HSM appreciated,  
+Ext: bruises, no c/c/e  
+Neuro: nl tone,  
+
+ 
+Pertinent Results:
+[**3391-6-25**] 04:35AM BLOOD WBC-13.8* RBC-2.80* Hgb-9.4* Hct-29.8* 
+MCV-107* MCH-33.5* MCHC-31.5 RDW-24.5* Plt Ct-94*
+[**3391-6-25**] 04:35AM BLOOD Plt Ct-94*
+[**3391-6-25**] 04:35AM BLOOD PT-14.5* PTT-34.7 INR(PT)-1.3*
+[**3391-6-25**] 04:35AM BLOOD Glucose-277* UreaN-54* Creat-4.4* Na-147* 
+K-3.8 Cl-111* HCO3-21* AnGap-19
+[**3391-6-18**] 04:56AM BLOOD LD(LDH)-177 TotBili-2.1*
+[**3391-6-18**] 04:56AM BLOOD LD(LDH)-177 TotBili-2.1*
+[**3391-6-25**] 04:35AM BLOOD Calcium-9.9 Phos-4.9* Mg-2.1
+[**3391-6-20**] 01:40PM BLOOD calTIBC-116* Ferritn-60 TRF-89*
+[**3391-6-1**] 10:43PM BLOOD Ammonia-156*
+[**3391-6-15**] 02:15AM BLOOD TSH-1.4
+[**3391-6-15**] 02:15AM BLOOD Free T4-0.6*
+[**3391-6-2**] 02:50PM BLOOD PTH-174*
+[**3391-6-3**] 01:02PM BLOOD Cortsol-59.7*
+[**3391-6-15**] 02:15AM BLOOD CEA-13* PSA-1.5
+[**3391-6-16**] 10:45PM BLOOD Type-ART pO2-89 pCO2-30* pH-7.30* 
+calHCO3-15* Base XS--9
+[**3391-6-15**] 11:56AM BLOOD Glucose-158*
+[**3391-6-7**] 03:53AM BLOOD Lactate-1.5
+[**3391-6-12**] 11:43AM BLOOD freeCa-1.23
+ 
+Brief Hospital Course:
+# Hepatic encephalopathy: MS changes from Cirrhosis and hepatic 
+encephalopathy aggravated by pneumonia.  Condition became 
+progressively worse and then he was deemed not be a candidate 
+for liver transplant.
+.
+# Renal Failure: complicated w/ hyperkalemia. Most likely from 
+hepatorenal syndrome. Dialysis was performed intially but then 
+team decided to stop once it was decided to make him CMO.
+.
+# Diabetes - pt. w/ insulin dependent diabetes.  Pt. w/ 
+hypoglycemia in ED.  Will monitor sugars and ISS for now
+.
+# Code Status: after extensive discussion between Dr.[**Last Name (STitle) **] and 
+patient's wife and daughter, patient was made DNR/DNI and then 
+CMO. He passed away in the morning of [**3391-6-29**].
+ 
+Discharge Medications:
+EXPIRED
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Hepatic failure from Cirrhosis
+Renal Failure
+ 
+Discharge Condition:
+EXPIRED
+ 
+Discharge Instructions:
+EXPIRED
+ 
+Followup Instructions:
+EXPIRED
+ 
+                             [**First Name11 (Name Pattern1) 835**] [**Last Name (NamePattern1) 4339**] MD [**MD Number 7320**]
+ 
+Completed by: [**Name6 (MD) **] [**Name8 (MD) 3387**] MD [**MD Number 3388**] [**3391-6-29**] @ 1337
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 835**] [**Initial (NamePattern1) **]. [**Last Name (NamePattern1) **]
+ on: MON [**3391-7-4**] 1:47 PM
+(End of Report)
+
+
+",,
+8915,17012,,,3391-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-1**] 9:41 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 11695**]
+     Reason: bleed?                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with encephalopathy, diffuse bruising, AMS, not responsive.     
+     REASON FOR THIS EXAMINATION:
+      bleed?                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MPtb WED [**3391-6-1**] 10:16 PM
+      No intracranial hemorrhage, shift of normally midline structures,
+      hydrocephalus, major vascular territorial infarct, or fracture.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  56-year-old male with encephalopathy and diffuse bruising.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There is no evidence of  hemorrhage, shift of normally midline
+     structures, hydrocephalus, or infarction. There is preservation of the normal
+     [**Doctor Last Name 30**]-white matter distinction.  The ventricles and sulci are symmetric.  The
+     sinuses are pneumatized, and the orbits are unremarkable.  Surrounding osseous
+     and soft tissue structures are within normal limits.
+     
+     IMPRESSION:  No evidence of hemorrhage.
+     
+     ER dashboard wet read at 10:15 p.m., [**3391-6-1**].
+
+",,
+8915,17012,,,3391-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-1**] 9:41 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 11697**]
+     Reason: fx?                                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with encephalopathy, diffuse bruising, AMS, not responsive.     
+     REASON FOR THIS EXAMINATION:
+      fx?                                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MPtb WED [**3391-6-1**] 10:24 PM
+      No fracture or malalignment of the C spine. Chronic degenerative change at
+      C5/6 with endplate sclerosis, mild-mod disc space narrowing and posterior
+      osteophyte which mildly indents spinal canal.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     56-year-old male with encephalopathy and diffuse bodily bruising.
+     
+     TECHNIQUE:  MDCT continuously acquired axial images of the cervical spine were
+     obtained without IV contrast.  Coronal and sagittal reconstructions were
+     performed.
+     
+     CT OF THE CERVICAL SPINE WITHOUT CONTRAST:  There is no evidence of fracture
+     or spondylolisthesis.  There is preservation of the vertebral body heights.
+     There is chronic degenerative change at the C5/6 level with endplate sclerosis
+     and mild-to-moderate disc space narrowing and a posterior osteophyte, which
+     indents the spinal canal.  The patient is intubated.  The prevertebral soft
+     tissues are unremarkable.
+     
+     IMPRESSION:  No fracture or malalignment of the cervical spine.  Chronic
+     degenerative change at C5/6.
+     
+     ER dashboard wet read at 10:20 p.m., [**3391-6-1**].
+     
+     NOTE ADDED AT ATTENDING REVIEW: The osteophytes at C5-6 cause moderate to
+     severe narrowing of the spinal canal on the right and likely compress the
+     spinal cord.
+
+",,
+8915,17012,,,3391-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-1**] 9:41 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11696**]
+     Reason: ascites? bowel edema?                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       56 year old man with encephalopathy, diffuse bruising, AMS, not responsive.    
+       
+     REASON FOR THIS EXAMINATION:
+      ascites? bowel edema?                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MPtb WED [**3391-6-1**] 10:46 PM
+      Left lower lobe consolidation c/w aspiration or pneumonia. Massive ascites,
+      cirrhotic appearing liver. Mild-mod  renal cortical thinning.  Eval of bowels
+      limited by ascites and lack of IV or oral contrast. Bowel is of normal caliber
+      and no evident wall thickening or inflammatory stranding.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 56-year-old male with encephalopathy and diffuse bodily bruising.
+     
+     TECHNIQUE:  MDCT continuously acquired axial images of the abdomen and pelvis
+     were obtained without IV or oral contrast.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  Incompletely visualized on this
+     abdominal CT is consolidation at the base of the left lower lobe consistent
+     with aspiration or pneumonia.  Evaluation of the abdomen is limited by massive
+     ascites and lack of intravenous or oral contrast.  The liver appears nodular
+     and shrunken consistent with cirrhosis.  This noncontrast study cannot exclude
+     the possiblity of a hepatic mass. The spleen, adrenal glands, and pancreas are
+     grossly unremarkable.  There is mild- to- moderate chronic renal parenchymal
+     thinning. Bowel loops are of normal caliber.  No definite bowel wall
+     thickening or inflammatory stranding. There is no evidence of bowel
+     obstruction.  There is no free intraabdominal air.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  The prostate is enlarged.  There is a
+     Foley catheter in a decompressed urinary bladder.  The rectum and sigmoid
+     colon are unremarkable.  Both left inguinal and periumbilical hernias contain
+     ascites. There is no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic osseous lesion is identified.
+     
+     IMPRESSION:
+     1.  Left lower lobe consolidation consistent with aspiration or pneumonia.
+     2.  Cirrhosis with massive ascites.
+     3.  Mild-to-moderate chronic renal parenchymal thinning.
+     4.  Left inguinal and periumbilical hernias containing ascites.
+     
+     ER dashboard wet read at 10:40 p.m., [**3391-6-1**].
+                                                                 (Over)
+
+     DATE: [**3391-6-1**] 9:41 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11696**]
+     Reason: ascites? bowel edema?                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8915,17012,,,3391-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-1**] 9:41 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11696**]
+     Reason: ascites? bowel edema?                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       56 year old man with encephalopathy, diffuse bruising, AMS, not responsive.    
+       
+     REASON FOR THIS EXAMINATION:
+      ascites? bowel edema?                                                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MPtb WED [**3391-6-1**] 10:46 PM
+      Left lower lobe consolidation c/w aspiration or pneumonia. Massive ascites,
+      cirrhotic appearing liver. Mild-mod  renal cortical thinning.  Eval of bowels
+      limited by ascites and lack of IV or oral contrast. Bowel is of normal caliber
+      and no evident wall thickening or inflammatory stranding.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 56-year-old male with encephalopathy and diffuse bodily bruising.
+     
+     TECHNIQUE:  MDCT continuously acquired axial images of the abdomen and pelvis
+     were obtained without IV or oral contrast.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  Incompletely visualized on this
+     abdominal CT is consolidation at the base of the left lower lobe consistent
+     with aspiration or pneumonia.  Evaluation of the abdomen is limited by massive
+     ascites and lack of intravenous or oral contrast.  The liver appears nodular
+     and shrunken consistent with cirrhosis.  This noncontrast study cannot exclude
+     the possiblity of a hepatic mass. The spleen, adrenal glands, and pancreas are
+     grossly unremarkable.  There is mild- to- moderate chronic renal parenchymal
+     thinning. Bowel loops are of normal caliber.  No definite bowel wall
+     thickening or inflammatory stranding. There is no evidence of bowel
+     obstruction.  There is no free intraabdominal air.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  The prostate is enlarged.  There is a
+     Foley catheter in a decompressed urinary bladder.  The rectum and sigmoid
+     colon are unremarkable.  Both left inguinal and periumbilical hernias contain
+     ascites. There is no pelvic or inguinal lymphadenopathy.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic osseous lesion is identified.
+     
+     IMPRESSION:
+     1.  Left lower lobe consolidation consistent with aspiration or pneumonia.
+     2.  Cirrhosis with massive ascites.
+     3.  Mild-to-moderate chronic renal parenchymal thinning.
+     4.  Left inguinal and periumbilical hernias containing ascites.
+     
+     ER dashboard wet read at 10:40 p.m., [**3391-6-1**].
+                                                                 (Over)
+
+     DATE: [**3391-6-1**] 9:41 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11696**]
+     Reason: ascites? bowel edema?                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8915,17012,,,3391-06-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-1**] 9:14 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11694**]
+     Reason: fluid?                                                      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with encephalopathy, diffuse bruising, AMS, not responsive.     
+     REASON FOR THIS EXAMINATION:
+      fluid?                                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  56-year-old man with encephalopathy and diffuse bodily bruising,
+     now unresponsive.
+     
+     AP PORTABLE CHEST:  The endotracheal tube is in appropriate position,
+     approximately 3 cm above the carina.  There is a nasogastric tube terminating
+     in the stomach.  The heart size and cardiomediastinal contours are within
+     normal limits.  The pulmonary vasculature is unremarkable.  The lungs are
+     clear without focal consolidation, pleural effusion, or pneumothorax.
+     Surrounding osseous and soft tissue structures are unremarkable.
+     
+     IMPRESSION:  Tubes and lines in appropriate position.  No acute
+     cardiopulmonary process.
+     
+     
+
+",,
+8915,17012,39263,,3391-06-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-2**] 12:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11698**]
+     Reason: pneumonia, OGT placement?                                   
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with cirrhosis w/ ? aspiration pneumonia w/ OGT replacement     
+     REASON FOR THIS EXAMINATION:
+      pneumonia, OGT placement?                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of the OGT placement.
+     
+     Portable AP chest radiograph compared to the previous film from [**3391-6-1**]
+     done four hours earlier.
+     
+     The upper lungs are out of the film view.  The ETT tube is 5 cm above the
+     carina.  The OG tube is coiled within the stomach in normal position.  There
+     is enlargement of the left pleural effusion which is most probably due to
+     positional change.
+                                                                           
+
+",,
+8915,17012,39263,,3391-06-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-2**] 1:29 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT; -59 DISTINCT PROCEDURAL SERVICEClip # [**Telephone/Fax (1) 11699**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: please do a RUQ US with dopplers to eval hepatic parenchyma 
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with cirrhosis, massive ascites with encephalopathy             
+     REASON FOR THIS EXAMINATION:
+      please do a RUQ US with dopplers to eval hepatic parenchyma and bile ducts      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  56-year-old man with cirrhosis, massive ascites and
+     encephalopathy.  Need evaluation of liver vascular flows, Doppler.
+     
+     STUDY:  Portable liver/gallbladder ultrasound with Doppler.
+     
+     TECHNIQUE:  2D grayscale and color Doppler sonography was performed of the
+     liver and gallbladder.
+     
+     FINDINGS:
+     The liver is shrunken, nodular, and diffusely echogenic consistent with
+     cirrhosis.  No focal hepatic lesions.  Portal vein is patent and has
+     hepatopetal flow.  Hepatic arteries are patent.  Hepatic veins are patent,
+     though they have decreased variability.  No intrahepatic biliary ductal
+     dilatation.  Common bile duct is normal in caliber measuring 3 mm.  The
+     gallbladder is entirely filled with sludge.  No definite gallbladder wall
+     thickening, however, assessment is slightly limited because of cirrhotic liver
+     and sludge filled gallbladder.  There is marked ascites within the upper
+     abdomen.
+     
+     IMPRESSION:
+     Cirrhotic liver with marked ascites, but patent vessels.  No focal hepatic
+     lesion.  Sludge filled gallbladder.
+
+",,
+8915,17012,39263,,3391-06-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-2**] 1:29 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT; -59 DISTINCT PROCEDURAL SERVICEClip # [**Telephone/Fax (1) 11699**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: please do a RUQ US with dopplers to eval hepatic parenchyma 
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with cirrhosis, massive ascites with encephalopathy             
+     REASON FOR THIS EXAMINATION:
+      please do a RUQ US with dopplers to eval hepatic parenchyma and bile ducts      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  56-year-old man with cirrhosis, massive ascites and
+     encephalopathy.  Need evaluation of liver vascular flows, Doppler.
+     
+     STUDY:  Portable liver/gallbladder ultrasound with Doppler.
+     
+     TECHNIQUE:  2D grayscale and color Doppler sonography was performed of the
+     liver and gallbladder.
+     
+     FINDINGS:
+     The liver is shrunken, nodular, and diffusely echogenic consistent with
+     cirrhosis.  No focal hepatic lesions.  Portal vein is patent and has
+     hepatopetal flow.  Hepatic arteries are patent.  Hepatic veins are patent,
+     though they have decreased variability.  No intrahepatic biliary ductal
+     dilatation.  Common bile duct is normal in caliber measuring 3 mm.  The
+     gallbladder is entirely filled with sludge.  No definite gallbladder wall
+     thickening, however, assessment is slightly limited because of cirrhotic liver
+     and sludge filled gallbladder.  There is marked ascites within the upper
+     abdomen.
+     
+     IMPRESSION:
+     Cirrhotic liver with marked ascites, but patent vessels.  No focal hepatic
+     lesion.  Sludge filled gallbladder.
+
+",,
+8915,17012,39263,,3391-06-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-2**] 1:29 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN) PORT; -59 DISTINCT PROCEDURAL SERVICEClip # [**Telephone/Fax (1) 11699**]
+     DUPLEX DOP ABD/PEL LIMITED
+     Reason: please do a RUQ US with dopplers to eval hepatic parenchyma 
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with cirrhosis, massive ascites with encephalopathy             
+     REASON FOR THIS EXAMINATION:
+      please do a RUQ US with dopplers to eval hepatic parenchyma and bile ducts      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  56-year-old man with cirrhosis, massive ascites and
+     encephalopathy.  Need evaluation of liver vascular flows, Doppler.
+     
+     STUDY:  Portable liver/gallbladder ultrasound with Doppler.
+     
+     TECHNIQUE:  2D grayscale and color Doppler sonography was performed of the
+     liver and gallbladder.
+     
+     FINDINGS:
+     The liver is shrunken, nodular, and diffusely echogenic consistent with
+     cirrhosis.  No focal hepatic lesions.  Portal vein is patent and has
+     hepatopetal flow.  Hepatic arteries are patent.  Hepatic veins are patent,
+     though they have decreased variability.  No intrahepatic biliary ductal
+     dilatation.  Common bile duct is normal in caliber measuring 3 mm.  The
+     gallbladder is entirely filled with sludge.  No definite gallbladder wall
+     thickening, however, assessment is slightly limited because of cirrhotic liver
+     and sludge filled gallbladder.  There is marked ascites within the upper
+     abdomen.
+     
+     IMPRESSION:
+     Cirrhotic liver with marked ascites, but patent vessels.  No focal hepatic
+     lesion.  Sludge filled gallbladder.
+
+",,
+8915,17012,39263,0,3391-06-02 02:43:00 EST,3391-06-02 03:05:00 EST,7283,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+THIS IS A 56YO MALE WITH PMH: ESLD FROM ALCOHOLIC CIRROSIS WITH ESOPHAGEAL VARICES, RENAL FAILURE, CHF, DIABETES, HTN, GOUT AND GERD. P/W CHANGE IN MENTAL STATUS. ONE DAY PRIOR TO PRESENTATION HE FLEW TO MASS FROM [**State **] FOR EVAL BY LIVER TRANSPLANT TEAM HERE AT [**Hospital1 **]. WHEN HE ARRIVED IN MASS HE SEEMED WEAK, CONFUSED, WAS HAVING TROUBLE WALKING AND WAS VOMITTING ( INFORMATION FROM DAUGHTER) PT. FOUND HIM INCREASINGLY UNRESPONSIVE TODAY AND CALLED EMS. IN EW PT. WAS NOTED TO BE ENCEPHALOPIC AND WAS INTUBATED AT APPROX. 2200. HE HAD A PULL BODY CT SCAN BECAUSE BRUISING NOTED ALL OVER BODY. (NO SIGNIFICANT FINDINGS FROM PRELIMINARY REPORT) PT. TRANSFERRED HERE TO MICU FOR VENT MANAGEMENT AND TREATMENT OF HEPATORENAL FAILURE.
+
+WHEN PT. ARRIVED HE WAS FOUND TO BE COMPLETELY UNRESPONSIVE. (HE WAS GIVEN ROCURONIUM BROMIDE 20MG FOR INTUBATION AT 2200) AS WE TURNED HIM TO CHANGE HIS SHEETS WHAT APPEARED TO BE STOMACH CONTENTS WERE COMING FROM HIS NOSE AND MOUTH. (OGT HOOKED UP TO LOW CONT SUCTION AT THIS TIME.) HE WAS ALSO NOTED TO BE DESATURATING. HIS VENT SETTINGS AT THIS TIME WERE: 100%/500/14/5 BLOOD GAS COLLECTED AND RESULTS: 7.20/53/97/-[**7-30**]. DECISION WAS MADE AT THIS TIME TO TAP PT. 5L REMOVED WITH PARACENTESIS. AFTER PROCEDURE COMPLETED GASES APPEAR TO BE IMPROVING (SEE CAREVIEW FOR MLTPL. RESULTS) AN A-LINE WAS PLACED D/T PROBABILITY OF FREQUENT GASES. 
+
+NEURO: AT THIS TIME PT. REMAINS UNRESPONSIVE. PUPILS 3MM AND BRISK BILAT. NO RESPONSE TO STERNAL RUB OR ANY NOXIOUS STIMULI. TREMORS NOTED ALONG WITH NONPURPOSEFUL SPONTANEOUS MOVEMENTS. MDS AWARE. 
+
+RESP: PT. INTUBATED WITH #7ETT 23CM AT LIP. AT PRESENT TIME PT ON AC: 70%/500/18/10. BREATH SOUNDS COARSE THROUGHOUT ALL LUNG FIELDS. IT APPEARS THAT PT. DESATURATES WHEN HOB RAISED. [**Name8 (MD) **] MD PT. HAS HEPATOPULMONARY SYNDROME WITH WHICH THIS IS COMMON. HOB REMAINS FLAT AT THIS TIME BECAUSE OF THIS. SUCTIONED FOR MOD. AMOUNTS OF TANISH SECRETIONS (APPEARS TO BE SAME CONTENTS COMING FROM NOSE UPON PT. ARRIVAL) ? ASPIRATION.
+
+CV: PT. NSR/ST WITH OCCASSIONAL PVC'S. SBP WNL 120'S TO 160'S. L RADIAL A-LINE PLACED WITH SHARP WAVEFORM. PULSES WEAK BUT PALPABLE. NO EDEMA. TMAAX 99.8 RECTALLY. (UNABLE TO OBTAIN TEMP ORALLY OR AXILLARY) PT. CULTURED IN EW. HE WAS PUT ON FLAGYL AND CEFTRIAXONE AND WAS GIVEN A ONE TIME DOSE OF AZITHROMYCIN.
+
+GI: OGT REMAINS IN PLACE CONNECTED TO LOW CONT. SUCTION AS NOTED ABOVE. ASCITES  NOTED. BS HYPOACTIVE. ALBUMIN 25G GIVEN POST PARACENTESIS. PT. GIVEN LACTULOSE AND KEXELATE IN EW. FECAL INCONTINENCE BAG PLACED D/T CONTINUOUS LEAKING OF LOOSE GOLDEN BROWN STOOL. GUIAC NEGATIVE. PT. NPO 
+
+GU: FOLEY WITH YELLOW/CLOUDY URINE. 20-40CC/HR OUT.
+
+SKIN: PT. HAS MULTIPLE BRUISED AREAS THROUGHOUT ENTIRE BODY. L KNEE HAS ABRASION OPEN TO AIR. LEFT ARM HAS LARGE OPEN ABRASION COVERED WITH A DSD.
+
+ACCESS: PT. HAS 3 PIVS 
+
+PLAN: ? PLACEMENT OF CENTRAL LINE IF PT. NEEDS. AT THIS TIME PLAN IS TO WEAN PT. OFF VENTILATOR AS TOLERATED. CONTINUE TO MONITOR NEURO STATUS CLOSELY. LIVER AND RENAL DOCS TO 
+",,
+8915,17012,39263,0,3391-06-02 02:44:00 EST,3391-06-02 03:05:00 EST,7283,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 7P-7A","
+NURSING PROGRESS NOTE 7P-7A
+(Continued)
+BE IN TO SEE PATIENT THIS AM. ALL INFORMATION REGUARDING PT. WAS OBTAINED FROM HIS DAUGHTER. ACCORDING TO HER HIS HCP IS HIS WIFE WHO [**Name2 (NI) 6320**] IN [**State **]. NO CONTACT MADE WITH HER AT THIS TIME. AWAITING RESULTS OF AM LABS TO FORMULATE CURRENT POC AND FIND OUT EXACTLY WHAT IS CAUSING THIS PT.'S SUDDEN DETERIORATION.  
+",,
+8915,17012,39263,0,3391-06-02 05:45:00 EST,3391-06-02 05:52:00 EST,3659,"N",54,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient intubated in ER for airway protection/encephalopathic. 7.5 ETT/taped at 23cm mark. ? Aspiration. Initially sx'd for yellow/greenish secretions. Later secretions changing to thick yellow. Bs expiratory wheezes bilaterally. Albuterol MDI started and given Q4hr. Wheezes decreasing with MDI. Significant metabolic acidosis with low PaO2. Pt. requiring high minute ventilation, increased Peep and Fio2. Fio2 slowly weaned to 60%. No further changes made. See Carevue for further details.Plan: Continue with mechanical support and increase peep as tolerated. 
+",,
+8915,17012,39263,0,3391-06-02 15:50:00 EST,3391-06-02 15:56:00 EST,7440,"N",54,"Nursing/Other",,"
+
+Resp Care
+Pt remains intubated on A/C. MDI's given, Pt suctioned for copious amt of thick yellow sputum. Pt remains agitated due to insufficient sedation, causing increase in MV and vent dysynchrony. No other changes noted.
+",,
+8915,17012,39263,0,3391-06-02 16:45:00 EST,3391-06-02 17:42:00 EST,3896,"N",54,"Nursing/Other",,"
+
+MICU 7 RN note 0700-1900
+
+Events: ^restlessness, initated sedation, hypotensive episodes, Fluid bolus x4, Abd U/S 
+
+Neuro:  Opens eyes spont Pupils 3-4mm PEARL, Intermitantly tracks to voice command,nonpurposeful, Unresponsive(encephalopathic) to verbal stimulation withdraws to tactile stimulation, MAE random not to command equal strength. continuoius tremulous movement no siezures.  restless and agitated moving about on bed resistive movements, recieved Fent 12.5-25mcg and versed 0.5-1mg IV bolus PRN for agitation.  Cervical collar in place c-spine xray adm ? compression Fx. . Neuro eval inconclussive for cervical injury.  Plan MRI spine to clear. 
+
+CV:  HR 95-124 NSR-ST occass PVC. EKG no acute abn. L radial aline inplace sharp wave form BP labile SBP 95-128 MAPS 60-70 transient episodes hypotension related to sedation SBP 75-88  Goal Maps >60, recieved Fluid Bolus 1L X4 with responding BP. Recieved Albumin 12.5GM x3. IV access 3PIV NS 10cc/hr. Peripheral pulses 3+DP/DT neg edema. hyperphosphatemia started binder(aluminum hydroxide) 
+
+Heme:  Hct 39.2 INR 1.4
+
+Resp:  Intubated # 7.0 ETT pos 23  R Lip. Vent mode A/C 600-18-40%  12 peep ABG 7.36-29-140-17, multiple vent chances made to correct met acidosis /resp compensation. OBV 4-10BPM TV >600. Sats 93-97% Lungs coarse BS bile with occas I/E wheezes. recieved Alb/atr MDI q4hrs. Suctioned via ETT for modlg amt thick yellow green sputum scant orally. CXR revealled LLL consolidation.
+
+ID:  afebrile t-max 98.6, WBC 12.7, + asp PNA, Cultures to dated pending, Sputum sent . Abx Flagyl/levofloxicin. Lactate 1.8/3.1/2.6
+
+GI/Liver: Abd soft distended Ascites, hypoactive BS, OGT to LCS now clamped for meds recieved Lactalose per routine dose increased added lactalose enema BID recieved x1 passed mod amt liq brown stool. 
+Abd u/S done result pending
+
+Endo:  FSBS q2hrs Sliding scale insuline changed to IV which was not started due to falling BS @ 1700 recieved D50 1 amp. with reponding increased BS.
+
+GU/renal: [**Doctor First Name **] BUN creat trending down BUN/creat 91/4.4- 83/3.6. Started shift with foley cath found to be leaking removed and replaced with difficulty and noted increased pt discomfort foley remove and condom cath applied u/o 30-100cc/hr.
+
+Derm: impaired skin integrity jaundice cool dry multiple ecchymotic areas all over (?due to fall) multiple skin tears. +petechi
+
+Social:  Full code status. Daughter visited most of day, met with intern updated on status and plan. Updated med list given to team. Glaucome eye gtts added. 
+
+Plan:  Continue Fluid and Albumin  repletio MAPS>60
+       central line access 
+       MRI spine
+     start octreotide gtt
+     TF per noutrition recommendation.
+
+  
+",,
+8915,17012,39263,0,3391-06-03 02:57:00 EST,3391-06-03 03:00:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT and on mech vent as per Carevue. Lung sounds coarse suct mod=>lge th yellow sput[spec obt]. MDI given as per order. ABGs stable; no vent changes required overnoc. Cont mech vent support.
+",,
+8915,17012,39263,0,3391-06-03 04:04:00 EST,3391-06-03 04:29:00 EST,6440,"N",54,"Nursing/Other",,"
+
+1900-0700 micu rn notes
+
+neuro: no changes in neuro status, does not follow commands, opens eyes to voice, withdraw to sternal rub. time to time became restless, received Versed 1mg x1, d/ced fentanyl PRN, start Dilaudid o.5mg q2hr PRN. 
+
+resp: intubated on vent mode CMV 40%/600/18/peep 12, no vent changes made overnight. sx moderate yellow thick secretion,sputum cx sent. LS coarse, sat 96-98%.ABG sent.
+
+cv: HR 97-125,NSR/ ST,rare PVC's. given fluid bolus NS 500ccx2 for SBP 88 and MAp 56-58, with good response. received albumin 12,5mgx1. 
+
+gu/gi: condom cath in place,drainge yellow with sedement 20-120cc/hr. ABD ascites, BS hypoactive, pt start passing liquid stool, put mushroom cath, held Lactolose PR.given Lactolose PO. pt cont NPO.
+
+endo: restart sliding scale, at midninght BS 87.
+
+id: afebrile, cont ABX.
+
+social: full code, daughter called for updated.
+
+plan: cont monitoring neuro/resp/cardio status
+      keep MAP >60.
+spinal MRI.
+
+",,
+8915,17012,39263,0,3391-06-03 16:05:00 EST,3391-06-03 16:56:00 EST,7972,"N",54,"Nursing/Other",,"
+
+nursing note micu-7 west 0700-1900
+
+EVENTS: RECEIVED NS 500CC FB AND ALBUMIN FOR HYPOTENSION (SBP 80S) @ 0900, RECEIVED  DILAUDID IVP PRN FOR AGITATION/RESTLESSNESS, FOLEY CATH INSERTED TODAY, TMAX=100.2, VANCO STARTED, FAMILY VISITED.
+
+NEURO: PT. OPENS EYES TO VOICE BUT DOES NOT KEEP EYES OPEN FOR MORE THAN A FEW SECONDS, DOES NOT CONSISTENTLY TRACK OBJECTS, PUPILS PEARL 3MM BRISK, MOVES ALL FOUR EXTREMETIES ON THE BED W/ FULL STRENGTH, MOVEMENT NONPURPOSEFUL, RECEIVED DILAUDID 0.5-1.0MG Q 2-3 HRS FOR AGITATION/GRIMACING/RESTLESSNESS. PT. HAS BEEN OFF SEDATION FOR SHIFT PER MEDICAL TEAM'S REQUEST - (PT.  KNOWN TO BECOME SEVERLY HYPOTENSIVE ON SEDATION, PREVIOUSLY REQUIRING MULTIPLE FB) 
+
+RESP: RECEIVED PT. INTUBATED  ON CMV/.40/600/18 PEEP 12, PT OBV 2=6 BPM ABGS: 7.38/29/89, AFTER ROUNDS RESPIRATORY CHANGED VENT SETTINGS TO CPAP + PS .40/PEEP 12/PS 5 RR=8, AROUND 1400 CHANGED TO PEEP 10/PS 5 RR=[**6-16**], ABG RESULTS: 7.33/33/85/18. O2SATS=93-98%, LS COARSE, SUCTIONING MODERATE AMTS OF THICK GREEN/YELLOW SPUTUM Q 2 HRS. CXR POS FOR PLEURAL EFFUSION/GRAM NEG PNA. 
+
+CARDIAC: ST/NSR W/ RARE PVCS HR=90-120S, SVT IN AM FOR 8 BEATS - MDS NOTIFIED, AROUND 0900 (FOLLOWING DILAUDID 5MG IVP) PT. BECAME HYPOTENSIVE SBP IN 80S AND MAPS 58-60, NS 500CC FB AND ALBUMIN WAS GIVEN [**Name8 (MD) **] MD ORDER W/ GOOD EFFECT, SINCE THEN SBP MAINTAINED 100-120S (INCREASES TO 140S W/ TURNING) AND MAPS >65 (GOAL >60), ICA=1.24, K+=4.7, LACTULOSE GIVEN PO.
+
+HEME: HCT=34.4 (TRENDING DOWN) (GOAL HCT>28), PLT=90(89) (GOAL >50
+), RBC=3.7, PT=19.1, PTT=41.2, INR=1.8, LEFT WRIST/16G WNL AND RIGHT HAND/20G WNL. LEFT HANFD/18G FEEL OUT DURING TURNING THIS SHIFT, A=LINE SHARP WNL.
+
+ENDO= SS, REQUIRING COVERAGE THIS SHIFT
+
+ID= TMAX=100.2 AT 1600, SPUTUM GROWING GRAM NEG, BLOOD/URINE=PENDING, ABX LEVO AND FLAGYL, VANCO STARTED THIS SHIFT PROPHYLACTIC FOR GRAM POS SPUTUM, LACTIC ACID=2.3, [**Last Name (un) **] STEM DONE TODAY.
+
+GU= CONDOM CATH DC'D AND 14F FOLEY INSERTED VOIDING 40CC/HR YELLOW/CLEAR URINE, BLADDER PRESSURE=18 - MD NOTIFIED. CR=3.8 (PRERENAL FAILURE IMPROVING).
+
+GI= ABD MASSIVE ASCITES ([**6-2**] 500CC PARACENTESIS OUT), HYPOACTIVE BS, 800CC STOOL OUT LAST NIGHT, AND MUSHROOM CATH DRAINING LARGE AMTS OF GOLDEN/LIQUID STOOL OUT TODAY. TF (NEPRO FULL) STARTED @ 10CC/HR, HOB @ 30 DEGREES.
+
+SOCIAL: WIFE ARRIVED FROM [**State **] TODAY AND VISITED MOST OF DAY, COUSIN CAME FROM [**State **] AND VISITIED IN AFTERNOON. PT'S BIOLOGICAL DAUGHTER VISITED [**Name2 (NI) 6321**] AND BROUGHT LIVING WILL. SOCIAL WORK/CASE MANAGER TALKED TO WIFE AND DAUGHTER [**Name (NI) 6321**]. FAMILY MET WITH TEAM TODAY.
+
+PLAN: CONT. ABX
+      SBT IN MORNING 
+      CENRAL LINE?
+      UOP>30CC/HR
+      MAP>60
+      GUIACC STOOL
+      CONSIDER LR OR D5W W/ BICARB FPR FLUID RESUSCITATION (PT. IS      HYPERCHLOREMIC - AVOID BOLUSING WITH NS)
+      PROVIDE FAMILY SUPPORT
+      
+",,
+8915,17012,39263,,3391-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-4**] 7:25 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 11700**]
+     Reason: line placement                                              
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       56 year old man with cirrhosis w/ ? aspiration pneumonia w/ new line placement 
+     REASON FOR THIS EXAMINATION:
+      line placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 7:31 p.m., [**6-4**]
+     
+     HISTORY:  Cirrhosis, possible aspiration pneumonia.
+     
+     IMPRESSION:  AP chest compared to [**6-1**] and 25:
+     
+     Since [**6-2**], extensive consolidation has appeared predominantly in the left
+     lung, to a lesser extent in the right perihilar and infrahilar lung.  This
+     could be asymmetric edema if the patient spends time on the left side,
+     otherwise I would favor severe aspiration or hemorrhage, much worse in the
+     left lung than the right.  Heart is normal size.  ET tube and nasogastric tube
+     are in standard placements.  There is no pneumothorax or appreciable pleural
+     effusion.
+                                                                           
+
+",,
+8915,17012,39263,0,3391-06-04 03:03:00 EST,3391-06-04 03:09:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT and on mech venyt as per Carevue. Lung sounds rhonchi clearing weth suct mod=>lge th yellow sput. ABGs stable on PSV. MDI given as per order. Pt easily aggitated causing ^HR and BP with falling PaO2/sats; given sedation with good result. Cont PSV.
+",,
+8915,17012,39263,0,3391-06-04 03:04:00 EST,3391-06-04 03:30:00 EST,6440,"N",54,"Nursing/Other",,"
+
+1900-0700 rn notes micu
+
+neuro: at 2000 pt became very agitated, received Dilaudid 1mg with minimal effect for short period of time, given Versed 2mg with good effect and start valium 2.5mg per CIWA scale for ?withdraw/DT, pt received  Valium 5mg with effect for short period of time, cont be extrimely agitated, constently moved in the bed,desat to 89-90%, did not follow commands, opens eyes to voice unconsistently, received Halidol 5mg w/o any effect, at 0200 start Versed gtt, currently versed 2mg/hr, pt requires boluseof versed with reposition and suction. plan: EEG to r/o diffused encephalopatia.
+
+resp: received on vent mode CMV 40%/peep10/Ps5, pt became agitated, desat to 89-90%, changed vent CPAP/PS 40%/peep 12/PS5, ABG: 7.34/32/74, increased FIo2 60%/peep 10/PS5, ABG:7.35/31/124. sat improved to 94-96%. LS coarse, clear to sx for moderate/copiuos yellow/thick secretion.
+
+CV: with agitation HR up to130-140's,ST, after start versed gtt HR 97-101,NSR/ST, no ectopy. SBP incraesed to 150-160's with agitation, after start Versed for sedation SBP droped to 81/50, given fluid bolus NS 500cc with good response SBP 100/55, MAP>60,pt also received Albumin 12.5mg. morning labs pending.
+
+gi/gu: foley in place, drainge yellow urine 30-50cc/hr. ABD ascitis, BS hypoactive, cont passing mod amount of liquid stool via mushroom cath. pt cont TF Nepro 30cc/hr,tolerates good, goal 45cc.
+
+id: Tmax 99.1, cont ABX for ?pna.
+
+endo: at midniht BS 217, cover by sliding scale.
+
+social: full code, wife and pt's daughter called for updated.
+
+plan: EEG
+      MRI in future when pt'll be stable
+      cont monitorine neuro/resp/cardio status
+      cont sedation for comfort.
+      central line.
+",,
+8915,17012,39263,0,3391-06-04 14:01:00 EST,3391-06-04 14:28:00 EST,7972,"N",54,"Nursing/Other",,"
+
+0700-1500 nursing note micu 7 west
+
+fullcode/nkda
+
+events: Versed GTT cont'd, potassium repleted, and suctioned q 2 hours.
+
+neuro: Received pt. sedated on Versed 3mg/hr, pt. appears comfortable, withdrawls to painful stimuli, does not open eyes spontaneously, does not grimace to sternal rub but moves extremeties on bed w/ nonpurposeful movement, and occassionally becomes shaky in upper extremeties, agitated, and moves around in bed. Cervical collar in place. 
+
+resp: Received pt. intubated on cpap+ps, 10 peep/5 ps, fiO2=60%, pt. appeared to have a cuff leak and O2 between 90-94%, respiratory was called and tube was adjusted ET 7 Lip 24 and pt. was suctioned for copious amts of yellow/green thich sputum, subsequently O2 sat increased and has maintained between 96-98%, pt. still requiring suctioning at least every 2hrs. Ls coarse,RR=9, tv=800-900. most recent abg: 7.35/31/124.  sputum pos for gram neg/gram pos 
+
+cv: hr=100s st, sbp= 150s throughout shift, on two occassions pt. became hypetensive w/ sbp in 170s, shaking upper extremities, but would shortly resolve w/ Versed .5mg Bolus, pulses palpable in all four extremeties, no edema in upper or lower extremeties, potassium 40Meq give po for K=3.3. 
+
+gu: foley draining 30-120cc/hr yellow/clear urine, cr=3.1 (baseline 2.8)
+
+gi: abd massive ascites, bs present, mushroom cath in place draining golden brown liquid stool, tf @ 30cc/hr. lactulose and rifaxamin given for liver failure.
+
+endo: fsbs up to 204 today, coverage given per ss.
+
+id: afebrile for shift tmax=98.6, abx vanco/flagl/Levoflax, wbc=18.4, lactic acid=2.3, [**Last Name (un) **] stem neg. 
+
+social: wife came to visit, biological daughter called from [**State 2483**] (where she is visiting her mom), medical team talked to wife. 
+
+skin: eccymoisis on pt. left side of face, and in between thighs from a fall, cervical collar digging into pt.s back creating small abrasions
+
+plan: off sedation in am
+      sbt in morning
+      mri?
+      aspen or [**Location (un) **] collar needed
+
+
+
+
+
+
+
+
+",,
+8915,17012,39263,0,3391-06-05 02:52:00 EST,3391-06-05 02:55:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT and on mech vent as per Carevue. Lung sounds rhonchi clearing with suct mod=>lge th yellow sput. MDI given as per order. Pt in NARD on current vent settings; no vent changes required overnoc. Cont PSV.
+",,
+8915,17012,39263,0,3391-06-05 04:45:00 EST,3391-06-05 05:01:00 EST,3891,"N",54,"Nursing/Other",,"
+
+MICU NPN 1900-0700
+
+Events: Rt SC catheter placed and CXR confirmed placement.  Pt had transient episodes of hypotension requiring NS boluses.  Otherwise, uneventful night for pt.  Please see carevue for all objective data.
+
+Neuro: pt remains sedated on 4mg Versed IV gtt.  Pt required minimal boluses for aggitation.  Pt does not open eyes to stimuli.  He does withdraw to painful stimuli.  Non purposeful movement noted. Pt does not follow commands. PERRL.    [**Location (un) 204**] J short placed on pt. Pt awaiting MRI in am to clear collar.  MRI checklist completed yesterday day and sent to MRI already.  
+
+Resp:No vent changes this shift. Pt remains on CPAP and PS 5/10peep.60% fio2.  RR 10-18.  Sats 97-100%.  ABG"" 7.36/34/168/20.  LS coarse. Decrease sounds RT base. Sxed for thick yellow secretions q 2-4 hours.
+
+CV: BP 89-160/63-78.  HR 94-115 SR/ST with occasional PVCs. Pt did have very brief ST 150's with no drop in BP and resolved without intervention.  K 3.8 and repleted with 20meq KCL.  Pt receieved 500 NS boluses x2 for MAPs <60.  Hct 35%.  Central line with small amount of bleeding around exit site. Pressure applied to site.  CVP 3-6.
+
+GI: Abdomen with large amount ascites.  BS hypoactive.  TF, nepro infusing @ goal of 45cc/hr.  Pt receiving lactulose.  Stool this shift >800cc.  
+
+GU: BUN/Creatinine improving.  u/o adequate 10-60cc/hr.  
+
+ID: afebrile. Pt remains on current antibx.  Levofloxacin changed to qd secondary to improving creatinine.  
+
+Skin: multiple ecchymotic areas and skin tears.  Duoderm applied to buttocks area.  
+
+Social: wife called and updated.  Wife requested to speak with SW today regardings finding different accomadations.  Daughter also called and updated.
+
+Dispo: remain in MICU. Full Code.
+",,
+8915,17012,39263,0,3391-06-05 17:12:00 EST,3391-06-05 17:42:00 EST,3484,"N",54,"Nursing/Other",,"
+
+pmicu nursing progress 7a-7p
+review of systems
+CV-has been tachycardic to the 120's with bps labile.CVP also ~[**3-12**] despite bp. was tx with total 2L ivf (1NS and 1 bicarb drip) with eventual change in CVP to 8, but bp still up and down and hr still rapid.Ho is aware.
+
+RESP-has been on CPAP/PS with peep 10 and PS 5. fio2 was weaned from 50--40% and abg on this setting with po2 64, pco2 32 and pH 7.37. his o2 sats were 95-96%, when his sats dropped to 94% he was returned to 50% and sats upped to 97%. rr has been 18-20 and TVs have been 500-800cs.lungs are coarse throughout and he has been sx several times for thick white-yellow sputum.
+
+ID-has been afebrile-low grade.wbc=8.7.receiving antibx as ordered for pneumonia
+
+GI-abd is huge with ascites, has hypoactive bowel sounds.is passing large quantities of liquid golden stool via mushroom catheter.on po lactulose q 6 hrs.tube feeds infusing at 45/hr.is on ppi.
+
+NEURO-is basically unresponsive other than to pain,does not open eyes or move limbs spontaneously.PERL. versed drip decreased from 4-->3 mgs/hr.[**Location (un) **] collar in place
+
+F/E-as above, was bolused with 2L total IVF for low CVPs, tachycardia.IVF now at kvo.i think all the fluid is going to his belly and he is intravascularly dry.has had a meager urinary output.creat improving though.had a large stool output.mucous membranes are dry.
+
+SKIN-duoderm on coccyx intact.has been turned s-s logrolled.has multiple bruises and ecchymotic areas.mouth care done, has flaky lips.
+
+IV ACCESS-has a triple lumen R subclavian and an a-line L wrist.
+
+SOCIAL-wife in x 2, very weepy.states she needs a new place to [**Doctor Last Name 5**] as she cannot afford the [**Last Name (un) **]-will see SW on tommorrow hopefully.daughter also called from [**State **] and was updated.
+
+a-busy day with unsteady bp, tachycardia
+
+P_will for now put ivf to KVO unless MAPS drop below 60-then will reassess for bolus.will decrease versed drip by 20%/day to lighten up.assess need for albumin as suggested by Liver team.continue to support wife through this trying time. will reattempt weaning of fio2 again tommorrow. 
+",,
+8915,17012,39263,,3391-06-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-6**] 4:51 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11701**]
+     Reason: assess for PNA                                              
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        56 year old man with cirrhosis w/ ? aspiration pneumonia w/ new line 
+      placement 
+     REASON FOR THIS EXAMINATION:
+      assess for PNA                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST
+     
+     INDICATION:  Line placement.
+     
+     Extensive left-sided pneumonia is present.  ETT and NGT remain unchanged since
+     [**3391-6-4**].  A right subclavian catheter terminates just below the caval-atrial
+     junction, and there may be a slight improvement in the diffuse infiltrate in
+     the left lung since [**3391-6-4**].
+                                                                           
+
+",,
+8915,17012,39263,0,3391-06-06 02:49:00 EST,3391-06-06 02:54:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT and on mech vent as per Carevue. Lung sounds mod th yellow sput. MDI given as per order. ABGs stable able to wean FIO2. Cont PSV.
+",,
+8915,17012,39263,0,3391-06-06 04:30:00 EST,3391-06-06 04:55:00 EST,3554,"N",54,"Nursing/Other","NPN-MICU","
+NPN-MICU
+Mr [**Known patient lastname 6322**] [**Last Name (Titles) 630**] to make little progress.
+Neuro:pt remains unchanged. He cont on versed drip at 3mg, he has min rsp with weak withdrawal for pain. PERL. Collar intact
+
+ID:pt spiked temp, BC drawn and he cont on IVAB.
+
+CV:he cont to be tachycardic but has been increasing through the night as temp has increased as well. He  has cont in 140's ST. IVF bolus and tylenol given as well as tepid bath to get temp down. His CVP has been [**7-16**] amd BP has been good at 110-140's/70-80's.
+
+Resp:pt cont on PSV of 5/10. His RR 20's with TV of 700-800. His Fio2 was decreased back to 40% and sats have been good at 93-95%. He still has mod amt of thick sticky sputum. His ABG are good
+
+GI: pt cont on TF, intermittent asp but not too high. He cont to pass lg amts of stool in rsp to the lactolose. ABd is full of ascites.
+
+Endo: Bs cont to be >200, so pt placed back on Insulin drip, currently at 5U/hr and BS down to 207.
+
+GU: u/o remains marginal at 15-20cc/hr. He got one more IVF bolus but it had little effect in anything.
+
+Skin:multiple bruising noted all over body but all abrasions are healing
+
+A/P:Will follow fever curve and cont IVAB, await cx
+    Aggressive pulm toilet as needed
+    Follow BP and support as needed.
+    Note TF asp and stool amt
+    Cont to wean versed 20% daily and asses MS 
+",,
+8915,17012,39263,0,3391-06-06 15:20:00 EST,3391-06-06 15:24:00 EST,7566,"N",54,"Nursing/Other","resp care","
+resp care
+pt continues to be intubated and mechanically ventilated on PSV no vent changes made today.  BS diminished and slightly course with small-mod amts of thick yellow secretions and plugs.  MDIs given as ordered. will continue to follow and wean as tolerated.
+",,
+8915,17012,39263,0,3391-06-06 16:02:00 EST,3391-06-06 16:26:00 EST,4302,"N",54,"Nursing/Other","NPN 7a-7p","
+NPN 7a-7p
+EVENTS: Pt has had no improvement this shift. U/O scant...BUN 86(79) and Cr 3.5(3.0). Pt given 50mcg Albumin. Na 154(152)...free water bolus increased to 200cc Q6H. Bladder pressure 12.
+
+NEURO: Pt has no response to painful stimuli, no spontaneous movements observed. Pt does not grimace or withdraw. Versed was weaned from 3mg to 2mg/hr...cont to wean 25% per day. PERRL 4mm, brisk. No gag reflex and very impaired cough. Continues on Lactulose. [**Location (un) 204**]-J collar intact. 
+
+CV: ST 120s-140s, occas-frequent PVCs noted. HR has started to trend down later in shift. BP 110-154/70s-80s. CVP 5-8.  Palpable pulses bilaterally.
+
+RESP: No vent chagnes this shift. Continues on CPAP+PS 40%/[**5-18**]. Surveilance ABG: 7.30/39/137/20. LS coarse t/o. Sats 94-98%. Suctioning thick yellow secretions. RR 15-20. ETT rotated. 
+
+GI: Pt has large Ascites, firm. hypoactive BS. Mushroom catheter draining golden liquid stool. Pt tolerating TFs @45cc/hr with small amounts of residuals. Pt did vomit small amount of TFs during turning this am. Pt maintained sats and no evidence of aspiration. TFs held for 1H. OGT placement confirmed by auscultation. 
+
+GU: Pt has had very scant u/o 2-25cc/hr. Team aware. Renal had signed off, but will re-consult as BUN/Cr worsening. 
+
+ID: Pt continues to have low grade temp tmax 100.8. Ice packs place under arms, and pt given cool bath. Pt continues on Vanco and Flagyl for PNA. 
+
+ENDO: pt is on insulin gtt with BS ranging 89-243. 
+
+SOCIAL: Pts wife in today and issues of pts code staus arose. According to her, pt's wishes in a living will, which has not been found, have been to be DNR/DNI. HO spoke with attending who was going to issue CPR not indicated order, but he never wrote the order and has signed off today. Plan is to have family meeting tomorrow with wife and conference call to daughter in [**State 2483**] for further plan.
+
+PLAN: Continue to follow fever curve and f/u with pending BCs. Monitor u/o...BUN/Cr. Continue free water bolus for ^^ Na. Wean sedation 25%/day and monitor MS.  
+ 
+",,
+8915,17012,39263,0,3391-06-07 02:09:00 EST,3391-06-07 02:21:00 EST,5223,"N",54,"Nursing/Other",,"
+
+NARRATIVE NOTE:
+
+CV: B/P HAS RANGED FROM 113/66-149/81. ST WITH HR RANGING FROM 101-113, RARE PVC'S NOTED. PPP BIL. 
+
+RESP: REMAINS ON CPAP 40%/10/5PS. LUNGS COARSE THROUGHOUT, SX SM AMT OF THICK YELLOW SPUTUM. RR 11-14. SAO2 97-98%. 
+
+NEURO: REMAINS UNRESPONSIVE TO PAINFUL OR VERBAL STIMULI. ON VERSED 2MG/HR, WILL CONT TO WEAN VERSED 25% PER DAY. PERLA, 4MM BIL. ABSENT GAG AND IMPARED COUGH. 
+
+GU: FOLEY CATH PATENT DRAINING SMALL AMTS OF AMBER, CLEAR URINE. U/O 5-25CC/HR. TEAM AWARE, PT RECIEVED 500CC D5W BOLUS WITH SOME INCREASE IN U/O. D5W GIVEN DUE TO HIGH NA+ LEVEL YESTERDAY. RENAL WILL RECONSULT WITH PT BUN AND CREAT WORSENING.
+
+GI: ABD WITH SLOW BS. ASITES. NEPRO AT GOAL OF 45CC/HR. MUSHROOM CATH DRAINING LG AMTS OF GOLDEN LIQUID STOOL. 
+
+ID: AFEBRILE THIS SHIFT BUT DID HAVE LOW GRADE TEMP YESTERDAY 100.8. IS ON LEVO/VANCO AND FLAGYL FOR PNA.
+
+SOCIAL: WIFE WAS IN YESTERDAY AND STATES THAT PT HAD A DNR/DNI IN HOSPITAL IN [**State **], UNABLE TO LOCATE THIS. PLAN IS TO HAVE A DISCUSSION WITH WIFE AND DAUGHTER BY PHONE TODAY REGARDING DNR STATUS. PRESENTLLY PT IS FULL CODE. 
+
+PLAN: FOLLOW VS AND LABS, REPLENISH LYTES AS NEEDED. RENAL CONSULT. PROVIDE EMOTIONAL SUPPORT FOR FAMILY. CONT TO OBSERVE FOR TEMPS AND F/U WITH PENDING BL CX. COJNT TO WEAN SEDATION 25% EACH DAY.
+
+",,
+8915,17012,39263,0,3391-06-07 05:20:00 EST,3391-06-07 05:21:00 EST,5223,"N",54,"Nursing/Other",,"
+
+ADDENDIUM:
+
+ENDO: FSBS HAVE VARIED FROM 75-236. INSULIN GTT PRESENTLY OFF AND WILL RECHECK AT 0700 AND RESTART INSULIN GTT ACCORDING TO PROTOCOL.
+",,
+8915,17012,39263,0,3391-06-07 16:39:00 EST,3391-06-07 16:41:00 EST,7739,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+CPAP/PS 5/5, 40% nasally intubated, alot of upper airway edema, Plan is to continue to evaluate source of upper airway edema and work towards extubation. 
+",,
+8915,17012,39263,0,3391-06-07 17:22:00 EST,3391-06-07 17:47:00 EST,7969,"N",54,"Nursing/Other",,"
+
+MICU 7 NPN 0700-1900
+
+Please refer to flowsheet for all objective data.
+
+Events: Family meeting was supposed to be held today to discuss patients potential for liver transplant, and the need to possibly change his status to DNR. However, the meeting did not take place due to communication breakdown between the liver team, RN, and Medical team. Patient's wife was updated by liver MD and told that they want to watch the patient for 2-3 days to see if he improves before ruling out a transplant. 
+
+Neuro: Versed is off. Pt. is unresponsive, does not withdraw to painful stimuli. Pupils are 4mm/bsk bilaterally, No tracking noted this shift. No movement noted this shift. [**Location (un) 204**]-J/C-spine still intact.
+
+CV: Patient ST with occassional PVC's. ST as high as 130's. MD notified. Gave 500cc NS bolus to decrease HR. Bolus had no effect.
+
+Resp: Pt. continues to be intubated. Weaned down to 5 of peep. RISB this shift was 35. Suctioned multiple times for plugs and copious amounts of yellow secretions. Patient desat to low 80's with turns, had to suction to help patient recover while administering patient care.
+
+GI/GU: OGT fluid water flush increased to 300cc q4hrs. TF was changed to half strength Nepro with a goal of 90cc/hr. TF is currently running at 70cc/hr with minimal residuals, 10cc. Abdomen is distended due to ascites. Mushroom catheter is intact and draining golden brown liquid stool. Foley is intact and draining amber urine, urine output is minimal at 10-30cc/hr. Output has been trending down. MD notified. There was no increase in urine output after 500 cc bolus was given to decrease HR and increase output.
+
+Skin: Multiple abrasions and bruises noted on patient. Impaired skin noted due to [**Location (un) 204**]-J.
+
+ID: Low grade temp this shift. Abx: Levo day 6, Vanco day 3, and Flagyl day 7. ? VAP
+
+Social: Wife updated this shift by Liver MD. Daughter updated this shift by this RN.
+
+Plan: Continue to monitor patients respiratory status. Suction for secretions. May need to lavage with normal saline in order to move secretions. ? if patient will be a liver transplant in the next 2-3 days. ? need for paracentesis to draw off abdominal fluid. Monitor electrolytes. Check bladder pressure. Increase to TF to goal of 90cc/hr as tolerated.
+",,
+8915,17012,39263,0,3391-06-07 17:56:00 EST,3391-06-07 18:00:00 EST,7739,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+Correction to Resp Care note entered 17:39, Pt on CPAP/PS set back to [**10-13**] No airway upper edema noted and he is not nasally intubated. 
+",,
+8915,17012,39263,0,3391-06-07 21:44:00 EST,3391-06-07 21:53:00 EST,3369,"N",54,"Nursing/Other","7PM-11Pm NPN","
+7PM-11Pm NPN
+NEURO:  pt off Versed gtt since 11am,  appears uncomfortable,  using accessory muscles to breath on the vent,  rr high 2o's  pt placed back on Versed gtt, currently at 2 mg/hr,  pt appears more comfortable.
+
+RESP:  remains intubated on 5 peep, 5 pressure support, 40%  FIO2,  PS increased to 10.  rr~22  TV's 600  MV 16 liters.  pt sx x 2 for thick tan secretions.  
+
+CV/FLUIDS:   as eve progressed HR increasing ( HO aware) HR 130's.  BP 139/77    afebrile,  pt appears comfortable on Versed.  need to get HR down,   CVP 13.     UO low 10-20 cc/hr     
+
+
+GI:  tube feeds at goal   [**1-10**] st Nepro @ 90 cc/hr,   mushroom catheter intact - draining loose golden stool  200cc's
+
+ENDO:  FS 74, Insulin gtt off,   FS back up to 200's   regular insuling gtt restarted, currently at 3 units/hr.    blood sugar very labile.
+
+PLAN:  need to address HR.  pt is currently full code,  need family meeting.  liver team to evaluate in a few days.  continue w/ antibx,  Versed, tube feedings,  insulin gtt.  ?removal of collar. 
+",,
+8915,17012,39263,,3391-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-8**] 10:23 AM
+     ABDOMEN (SUPINE & ERECT) PORT                                   Clip # [**Clip Number (Radiology) 11703**]
+     Reason: evaluate for obstruction                                    
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with cirrhosis w/ ? aspiration pneumonia with respiratory 
+      failure and abdominal distention
+     REASON FOR THIS EXAMINATION:
+      evaluate for obstruction                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     56-year-old male with cirrhosis and concern for bowel obstruction.
+     
+     ABDOMEN, SIX VIEWS:  There is a nasogastric tube terminating in the stomach.
+     The stomach is not distended, and there is air in the normal caliber
+     transverse colon.  No gas filled distended loops of bowel are identified.
+     There are no air fluid levels.  There is massive ascites.  No free
+     intraabdominal gas is found.
+     
+     IMPRESSION:  Massive ascites.  No evidence of obstruction or free intra-
+     abdominal gas.
+
+",,
+8915,17012,39263,,3391-06-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-8**] 10:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11702**]
+     Reason: evaluate for infiltrates, overload                          
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with cirrhosis w/ ? aspiration pneumonia with respiratory 
+      failure and abdominal distention
+     REASON FOR THIS EXAMINATION:
+      evaluate for infiltrates, overload                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Cirrhosis, question aspiration pneumonia.
+     
+     COMPARISON:  [**3391-6-6**].
+     
+     FINDINGS:  The lines and tubes are in stable position.  There is no
+     pneumothorax.  There has been slight interval improvement in the previously
+     described left lung opacity.  There are no new areas of consolidation
+     identified.
+                                                                           
+
+",,
+8915,17012,39263,0,3391-06-08 03:14:00 EST,3391-06-08 03:16:00 EST,3681,"N",54,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT and on mech vent as per Carevue. Lung sounds sl coarse bilat suct sm=>mod th yellow sput. MDI given as per order. Pt in NARD on current vent settings. Cont PSV.
+",,
+8915,17012,39263,0,3391-06-08 05:24:00 EST,3391-06-08 05:41:00 EST,3499,"N",54,"Nursing/Other","MICU NPN 11pm-7am","
+MICU NPN 11pm-7am
+S/O: See vs/objective data per care vue.  
+ID: Tmax 100.7 orally, remains on same antibx (flagyl, vanco, levoflox).  Blood cultures x 2 sent and stool sent for c-diff due to ^ing WBC.  
+CV: Tachycardic to the 130's st with pvc/couplets, hr decreased to 110's approx 3am without intervention.  Bp initially 130's that dropped to high 90's low 100's without cause, gradually increased back to present 130-150's without intervention.  INR 1.8 with PT 19.2 and a stable hct of 36.9.  Distal pulses easily palpable.  CVP 7-upper teens.  
+Resp: Remains orally intubated with no vent changes made.  AM's ABG 90/37/7.32/20 -6.  Suctioned for small amts of thick yellow secretions.  Lungs with clear/course aeration scattered throughout.  
+GI: Remains on 1/2 strength nepro at goal rate (90cc/hr).  Abd with (+) ascites.  Bowel sounds hypoactive but tube feed residuals 20-45cc. Of note, when turned small amt of yellow discharge from patients nose noted.  Suctioned immediately after with scant amt of creamy yellow secretions from ett.  ? if secretions from mouth wash.  
+GU: Foley drng amber, clear urine.  Attempted to obtain bladder pressure, 1st attempt flush fluid immediately coming out of penis.  Foley changed with an ^size (#16). Attempted bladder pressure again, this time seemed like foley held with a pressure of 20 but then fluid again noted to be coming out of penis.  ^ creat/bun to 4.1/102 this am.  Urine output conts to be low.  No boluses given.  
+Endo: Insulin gtt titrated to blood sugar.  Currently at 4units/hr.  
+MS: No sedation given, pt unresponsive to painful stimuli.  Corneal reflexes impaired with no cough or gag noted.  No movement noted in extrems to painful stimuli.  Pupils equally reactive and consensually reactive.  [**Location (un) 204**] brace intact.  
+A: ^ hr decreasing down to 110's on own
+   insulin gtt
+   ^'ing wbc
+P: cont to titrate insulin gtt
+   follow cultures
+   cont to assess neuro status ? neuro consult
+   
+",,
+8915,17012,39263,0,3391-06-08 05:52:00 EST,3391-06-08 05:53:00 EST,3499,"N",54,"Nursing/Other","MICU NPN Addendum","
+MICU NPN Addendum
+Upon turning pt again with bright yellow secretions from nose.  Intern present and saw drng.  Tube feeds dc'd.  To get cxr this am to determine nature of drng.
+",,
+8915,17012,39263,0,3391-06-08 13:23:00 EST,3391-06-08 14:00:00 EST,7969,"N",54,"Nursing/Other",,"
+
+MICU 7 NPN 0700-1900
+
+Please see flowsheet for all objective data.
+
+Hx: 56yo male with past medical hx including RF, Liver Failure and Diabetes who presented with mental status changes. One day prior to his mental status changes he flew in from [**State 5701**] to here for eval by liver transplant team at [**Hospital1 **]. Upon arrival to Mass. patient seemed confused and hand N/V, weakness and trouble walking. 
+
+Neuro: Versed has been off since 0800 this shift. Patient is starting to open his eyes to stimulation. Still no movement of extremities. PERL, 4mm/bsk bilaterally. Does not follow commands. Is starting to grimace to pain since sedation has worn off.
+
+CV: HR 89-105 with occassional ectopy. CVP has been running at 16-18, paracentesis done today and CVP is now at 6-8. SBP 93-150's, occ bp drops to 80-90's sys  after turning. patient recovers on his own.
+
+Resp: Patient remains intubated. Currently weaned down to 5Peep, and 10 of PS. O2 sats >95%. Continued to suction patients ETT several times for thick yellow secretions. During patient turn gastric contents were expelled via patient mouth and nose. No signs of aspiration. Lung sounds are coarse to clear throughout bilaterally.
+
+GI/GU: Recieved patient with TF off. Restarted per team. Currently patient's TF is at goal of 90cc/hr. Residuals <60cc. Mushroom catheter is intact and draining golden liquid stool. Foley intact draining clear amber urine. Output 15-25cc/hr.
+
+Skin: Multiple bruises and abrasions. [**Location (un) 204**] J still intact and causing impaired skin integrity to patients neck.
+
+Endo: Blood sugar
+ID: Tmax 100.7, Vanco c/d. Patient continues on Levo/Flagyl.
+
+Social: Wife in to visit this shift. 
+
+Plan: Continue to monitor respiratory status.
+",,
+8915,17012,39263,0,3391-06-08 16:11:00 EST,3391-06-08 16:25:00 EST,7969,"N",54,"Nursing/Other",,"
+
+MICU 7 NPN 1600-1900
+
+Additional Events: Neuro: Changed [**Location (un) 204**]-J collar, cleansed backside under collar w/ with soap and water and ABD pad placed over impaired skin. Versed turned back on at 1mg/hr.
+
+GI/GI: Placed collection bag over paracentesis site in order to prevent patient weeping, and account for additional fluid loss. Also attempted to obtain a bladder pressure. Urine began to weep out around the penis once pressure applied. Patient was noted to be uncomfortable. Notified team. They are consulting with Urology and patient may need an ultrasound.
+
+
+Plan: Continue to monitor Respiratory status, urine output, and labs. Continue collar care q shift. Suction ETT and oral cavity for secretions. ? Plan for Ultrasound. ?Continue monitor patient progress and how it relates to possible liver transplant. 
+",,
+8915,17012,39263,0,3391-06-09 04:07:00 EST,3391-06-09 04:42:00 EST,7972,"N",54,"Nursing/Other",,"
+
+MICU [**Location 6323**] 7 Nursing Note 1900-0700
+
+NKDA/FULL CODE
+
+EVENTS: OFF SEDATION, INSLUIN GTT, UOP 0-5CC/HR, STOOL GUAICC POS.
+
+NEURO: RECEIVED PT. INTUBATED SEDATION OFF  -- PT. DID NOT AROUSE TO VOICE OR STIMULI, NO SPONT EYE MOVEMENT, NO GRIMACE TO NAIL BED PRESSURE, EXTREMETIES DID NOT MOVE ON BED, AND PT. DID NOT FOLLOW COMMANDS. PUPILS PEARL 4MM BRISK, NO TRACKING, NEG BABINSKI, NO GAG, AND IMPAIRED COUGH REFLEX. AROUND 0300, PT. BEGAN OPENING EYES TO VOICE, AND  TRACKING OPBJECTS IN ROOM, BUT DID NOT GRIMACE TO STERNAL RUB. PT DOES NOT FOLLOW COMMANDS, DOES NOT LIFT AND HOLD EXTREMTIES, BUT NOW MOVES EXTREMETIES NONPURPOSEFULLY ON BED. [**Location (un) **] J COLLAR IN PLACE.
+
+RESP: PT. INTUBATED ON CPAP + PS, 10PS/5PEEP FIO2=40%, RR=22 OBV BY 6 BREATHS/MIN, RIGHT LS - INSP WHEEZES, LEFT LS - CLEAR TO AUSCULTATION, NORMAL RESP EFFORT, DEEP SUCTIONED LARGE AMTS OF THICK, YELLOW SPUTUM,
+TV=700-750, MOST RECENT ABGS: 7.38/30/106/18, O2SAT=95-98%, CXR POS
+ F0R PNA, AND CULT POS FOR KLEBSIELLA AND E.COLI. 
+
+CV: HR=89-105 NS-ST NO ECTOPY, SBP=89-135, MAP >60, LEFT A-LINE WNL SHARP, CVP=[**5-18**]  RIGHT MULTI-SC WNL, EXTREMETIES WARM AND PULSES PALPABLE, POS ECCYMOSIS AND BRUISING THROUGHOUT BODY AND FACE FROM S/P FALL. 
+
+ID: AFEBRILE FOR SHIFT, ABX FLAGYL
+
+ENDO: INSLUIN GTT [**First Name8 (NamePattern2) **] [**Last Name (un) **] SS, FSBS Q HOUR, FSBS RANGED BETWEEN 60-150 FOR SHIFT AND ADJUSTED ACCORDINGLY. 
+
+GU: 16 FRENCH FOLEY DRAINING AMBER/CLEAR UOP 0-15CC/HR , 
+CR= 4.1(TRENDING UPWARDS)/BUN=85, BLADDER PRESSURE CONTRAINDICATED AS IT MAY CAUSE BLADDER SPASMS.
+
+GI: BS POS, ABD MASSIVE ASCITES/NONTENDER, TF CONTINUED NEPRO HALF STRGTH @ 90CC/HR (GOAL), GOLDEN/LIQUID STOOL OUT VIA MUSHROOM CATH  - POS. GUIACC, LACTULOSE DOSE GIVEN THIS PM. 
+
+SOCIAL: FAMILY MEETING DID NOT OCCUR THIS WEEK, LIVING WILL STILL NOT LOCATED. WIFE EXPRESSING CONCERN REGARDING HUSBAND'S COMFORT AND END OF LIFE WISHES. DAUGHTER WILL BE BACK WED. FROM VISITING HER BIOLOGICAL MOTHER IN [**State **]. DAUGHTER ALSO EXPRESSES CONCERN ABOUT FATHER'S WISHES AS WELL. 
+
+PLAN: FAMILY MEETING? 
+       MAP>60
+       SBT/RSBI
+       BLADDER ULTRASOUND
+       DUIRESE VS FLUIDS FOR LOW UOP
+       CONT. OFF SEDATION
+       FSBS Q HOUR 
+       WATCH FOR SS BLEEDING AND GUIACC STOOL AGAIN
+",,
+8915,17012,39263,0,3391-06-09 14:29:00 EST,3391-06-09 14:58:00 EST,7969,"N",54,"Nursing/Other",,"
+
+MICU 7 0700-1500 NPN
+
+Please refer to flowsheet for all objective data.
+
+Neuro: Versed remains off. Patient is more alert than previous shift. He is opening eyes when asked and squeezing hands on command at times. PERL, 4mm/Bsk bilaterally.
+
+CV: Patients HR is NSR with no ectopy. SBP up to 155. This AM patient sbp dropped to 60's. Repositioned patient and stimulated patient with good effect. BP increased to maintain MAP>60.
+
+Resp: Patient remains intubated on PS10, Peep5. O2 sats >95. Suctioned ETT for thick yellow secretions.
+
+GI/GU: Patient remains on TF at goal of 90cc/hr. +BS, mushroom catheter intact and draining golden liquid stool. Foley intact and draining minimal amounts of amber urine. Renal team wants r/o prerenal failure vs. hepatic renal failure. Challenged patients kidneys with 2L bolus over two hours. Output was minimal.
+
+Endo: Blood sugar remains very labile. Insulin gtt currently at 4.0.
+
+ID: Patient remains on levo/flagyl abx. Patient afebrile this shift.
+
+Social: Daughter and Wife updated on patients condition this AM by this RN. Dr. [**Last Name (STitle) **] informed of conversation with both. Dr. [**Last Name (STitle) **] is going to call daughter concerning plan of care pending renal challenge. Wife has been updated by Dr. [**Last Name (STitle) **] this shift and is aware this is meant to help the medical team, family, and wife decide wether to perform HD or comfort measures.
+
+Plan: Continue to monitor patients urine output/CR/BUN. Continue to suction ETT to move thick yellow secretions. Follow fingersticks and adjust insulin per protocol. Encourage family meeting and POC for patient. 
+",,
+8915,17012,39263,0,3391-06-10 03:46:00 EST,3391-06-10 03:48:00 EST,3561,"N",54,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings. See vent flow sheet for details. Suctioned mod amts thick yellow secrtions.RSBI done on 0 peep/5 ips 25.4. Getting insulin. Will cont to monitor resp status.
+",,
+8915,17012,39263,0,3391-06-10 04:14:00 EST,3391-06-10 04:46:00 EST,7972,"N",54,"Nursing/Other",,"
+
+NURSING NOTE 1900-0700 MICU-7 WEST
+
+FULL CODE/NKDA
+
+TONIGHTS EVENTS: uop < 30cc/hr, insulin gtt adjusted per ss
+
+NEURO: pt. off sedation for 72 hours, calm and cooperative lying in bed, occassionally obeys commands, and began opening eyes to voice and nodding appropriately this shift. Pt. moves all four extremeties on bed, left upper arm tremors at times, pupils 4mm brisk, tracks objects, corneal reflex intact, absent gag, and impaired cough. [**Location (un) **] j collar in place. 
+
+resp: received pt intubated on fiO2=40%, ET 7.5 Lip 23, cpap and ps 5 peep/10 ps, tv=900s obv at times, rr=20s normal effort. LS clear on right side and insp. wheezes on left side. O2 sats=95-98%, suctioned large amts of very thick yellow sputum, most recent abg: 7.38/26/120/16 
+
+cv: hr=80-[**Street Address 6324**], sbp=85-140s, map>60, pulses easily palpable in all four extremeties, eccymosis and bruising throughout entire body, hypernatremic - 300cc  fb via ng continued. Left A-line and Right Multi-lumen SC WNL, paracentesis site drainng continously serosanginous fluid.
+
+heme: pt=17/ptt=31.6/inr=1.6
+
+ID: afebrile for shift, receiving abx: flagyl and levo
+
+endo: insulin gtt adjusted per ss
+
+GU/GI: catheter outputing 5-20cc/hr amber/clear urine,cr=4.8/BUN=114 TF Nepro [**1-10**] @ 90cc/hr (goal) tolerating well, mushroom cath outputing golden liq stool, abd massive ascites/nontender, and bs present. 
+
+social: daughter visited tonight and was updated regarding pt. condition. 
+
+plan: map>60
+      stool c.dif?
+      cont. lactulose
+      family meeting
+      address renal function and low uop
+      C-spine MRI?
+      
+
+
+",,
+8915,17012,39263,0,3391-06-10 15:16:00 EST,3391-06-10 15:23:00 EST,7793,"N",54,"Nursing/Other","Respiratory Therapist","
+Respiratory Therapist
+Breath sounds clear, diminished at bases, suctioned for moderate thick clear, patient follows command during the shift, had a NIF of -40 this morning at 0930, spent the whole day into sinus tachycardia, was afebrile, Hemoglobin 10.6, WBC 8.6, no ABGs done up to this point, treated with Albuterol inhaler three times today. No vent changes ordered, no ABGs done up to this point, patient will continue to have ventilatory support.
+",,
+8915,17012,39263,0,3391-06-10 17:01:00 EST,3391-06-10 17:19:00 EST,3871,"N",54,"Nursing/Other",,"
+
+neuro: opens eyes to voice and occasionally follows simple command of wiggling toes. +tracking noted. +mae noted. cough impaired/ gag absent. +perrla noted. remains off sedation. [**Location (un) **] j collar intact. collar care done. logroll precautions maintained. 
+cv: monitor shows nsr-st with no ectopy noted. 
+resp: ls coarse throughout. no vent changes this shift. sxn for mod amts clear secretions via ett. ett rotated. 
+gi: abd soft and distended with +umbilical hernia noted. mushroom catheter intact draining loose brown stool. tf's at goal with minimal residuals noted.
+gu: foley intact and patent draining amber urine with no sedimentation noted. remains on octretotide, midodrine and albumin for hepato-renal failure. 
+skin: duoderm to coccyx c/d/i. breakdown noted on upper back area and duoderm applied. multiple eccymotic areas and abrasions noted on extremites s/p fall.
+ ostomy appliance to previous tap site draining pink tinged/yellowish drainage. 
+i-d: temp max 99.9. remains on levo and flagyl for asp pna. 
+endo: remains on insulin gtt and titrated [**First Name8 (NamePattern2) 34**] [**Last Name (un) **] scale... received dextrose x1 for bs of 58.
+psy-soc: wife at bedside throughout day and updated on status and plan of care by this rn and dr [**Last Name (STitle) **]. social work consult in place. 
+
+",,
+8915,17012,39263,0,3391-06-11 03:04:00 EST,3391-06-11 03:06:00 EST,3561,"N",54,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings. See vent flow sheet for details. Suctioned for lrg amts thick yellow secretions. MDI'S given. Temp 100.3.RSBI done on 0 peep/5 ips 21.5. Getting insulin. HR-ST. Will cont to monitor resp status.
+",,
+8915,17012,39263,0,3391-06-11 03:12:00 EST,3391-06-11 03:29:00 EST,7972,"N",54,"Nursing/Other",,"
+
+Micu west 1900-0700 nursing note
+
+full code/nkda
+
+NEURO: 
+Pt. opens eyes to voice, able to communicate understanding and pain by nodding/shaking head, obeys commands consistenly, moves all extremeties on bed, but non-purposeful, tracks objects, pupils 4-5mm pearl brisk, no gag reflex, impaired cough. [**Location (un) 204**] J collar in place.
+
+RESP:
+Pt. intubated on CPAP and PS Fi02=40%, 15PS + 5PEEP, TV= 800s, 02 sat= 95-98%, LS clear to asucultation, deep suctioned thick yellow sputum q 2 hours, RR=22
+
+CV:
+HR 100s ST no ectopy, pulses palpable in all four extremeties, sbp=130-150s map>60, Left A-line WNL sharp and Right Multi-lumen SC WNL.
+
+GU/GI:
+Foley cath intact and draining 0-30cc/hr amber/clear urine, abd-massive ascited, + umb hernia, octreotide, midrodine, and albumin continued for hepatic-renal failure. Mushroom cath draining golden-liquid stool - lactulose continued, TF Nepro [**1-10**] @ goal of 90cc/hr, minimal residuals, 300cc Free H2O bolus q 4 hr.
+
+ID:
+Tmax for shift 100.3 and Tcurrent= 99.3, Levoflaxacin and Flagly give for PNA. 
+
+ENDO: 
+insulin gtt continued per SS, FSBS labile 
+
+Social:
+Daughter visited in pm and updated regarding pt. disease process, she spoke to Liver on the phone last night and updated. 
+
+Plan:
+Re-evaluate pt. in a few days (Sunday?) re: Liver
+Family Meeting?
+Monitor Neuro status for any acute change
+Monitor uop 
+Insulin gtt per ss
+
+
+",,
+8915,17012,39263,0,3391-06-11 16:04:00 EST,3391-06-11 16:08:00 EST,7566,"N",54,"Nursing/Other","Resp care","
+Resp care
+Pt remains intubated on PSV.  pt was placed on SBT for almost 2hr p[t tolerated well, but no plans on extubation at this time due to excessive secretions and plan for family meeting.  pt was suctioned for copious amts of thick pale yellow secretions.  MDI given. Plan at this time is to remain on PSV.
+",,
+8915,17012,39263,0,3391-06-11 16:33:00 EST,3391-06-11 16:53:00 EST,3995,"N",54,"Nursing/Other",,"
+
+Micu  nursing note 7-7p
+
+Neuro Pt seems more awake this afternoon, pt opens eyes spontanously, unable to move hands very flacid can wiggle toes, hands remain in soft  restraints,
+
+Cv pt hemodymaically stable, hr more tacky low 100's durring the day, pedal and tibial pulses palp.
+
+Resp Pt weened down on pressure support to [**10-13**] of peep 40% tv 860-920 Abg 7.38/27/83/17, pt continues to have mod-lg amount of thick yellow/white secreation suctioned q1-2, pt had spontanous breathing trial told well abg 7.30/27/78/17 pt did spont trial x2 hr then placed back to [**5-13**] of peep, by 5 pm pt using excessory muscles and rate still 22 looked uncomfortable sats 92% at the time, pt placed back to 10 of pressure support and now is resting.
+
+GI pt remains on nepro [**1-10**] st at 90 hr, tol well, pt still have lg loose stools via mushroom cath, pt has min residuals 10-20 cc abd distended and firm
+GU pt has foley with amber urine min amount durring the day 5-10 cc hr
+Id t  mas 100.6   this am remians on iv anitbiotics.
+Social wife in this afternoon, meeting set up fot tomorrow at 11am wtih family , real and transplant alone with micu team to discuss plan and prognosis. I spoke with wife this afternoon and explained that transplant wanted to to hd, and that she needed to discuss this treatmetn with them becuase at this point they felt that pt needed hd. before they could consider transplant because of his ^ fluid status and ^ labs.
+endo pt blood sugars very labile 69-222 ( see careview) pt given 1 amp d50 dor bs 69  and insulin drip off x2 hrs then restarted at 2 u hr now ^ to 4 and requiring q1 bs
+
+skin, skin tear on LL wrist cleaned with soap and water and [**First Name9 (NamePattern2) 6325**]  [**Last Name (un) **] applied , also tear on l upper thigh ceaned and [**Last Name (un) **] applied,
+A/P follow Bs q1 hr until stable, hold on weening tonight, and will have family meeting in the am. 
+",,
+8915,17012,39263,,3391-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-12**] 12:59 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11704**]
+     Reason: eval for pulmonary edema                                    
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       56 year old man with cirrhosis w/ ? aspiration pneumonia with respiratory 
+      failure
+     REASON FOR THIS EXAMINATION:
+      eval for pulmonary edema                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory failure, evaluate for pneumonia, pulmonary edema.
+     
+     Comparison is made to [**3391-6-8**].
+     
+     PORTABLE SUPINE RADIOGRAPH OF THE CHEST:  The left lateral aspect of the chest
+     is not included in this study.  The endotracheal tube is located approximately
+     6 cm above the carina.  A right-sided subclavian vein catheter is seen in
+     unchanged position.  No pneumothorax is seen.  The left-sided opacity is
+     difficult to evaluate due to motion and incomplete visualization of the left
+     lung.  No definite new consolidations are seen.
+                                                                           
+
+",,
+8915,17012,39263,,3391-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-12**] 4:37 PM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 11705**]
+     Reason: eval for cord compression                                   
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with end-stage liver disease, chronic kidney disease, ? cord 
+      compression on CT in neck collar
+     REASON FOR THIS EXAMINATION:
+      eval for cord compression                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CERVICAL SPINE MRI SCAN:
+     
+     HISTORY:  End-stage liver disease and chronic kidney disease.  Question of
+     cord compression on CT of the neck.  Evaluate for cord compression.
+     
+     TECHNIQUE:  Multiplanar T1 and T2-weighted as well as axial gradient echo
+     scans of the cervical spine.
+     
+     COMPARISON STUDY: CT of the cervical spine dated [**3391-6-1**] interpreted by
+     doctors [**Name5 (PTitle) 11706**] and [**Name5 (PTitle) 322**] as revealing ""osteophytes at C5-6 cause moderate to
+     severe narrowing of the spinal canal on the right and likely compress the
+     spinal cord.""
+     
+     FINDINGS:  Unfortunately, a number of the imaging sequences are of limited
+     resolution due to patient motion.  In that regard, the sagittal T1-weighted
+     scans are nearly uninterpretable, despite repeat scanning attempts.
+     
+     FINDINGS:  At C4/5, uncovertebral spurring produces prominent left and
+     moderate right-sided neural foraminal stenosis, in accord with the recent CT
+     scan.
+     
+     At C5/6, a moderate posterior spondylytic ridge causes moderate deformity of
+     the spinal cord along its ventral margin with a slight caudal extension of the
+     ridge to the right of midline, again mildly deforming the right ventrolateral
+     cord margin.  Motion artifacts render foraminal dimension assessment
+     difficult, but I believe uncovertebral spurring at this locale again causes
+     prominent foraminal stenosis, in accord with the recent CT scan.  This disc is
+     moderately narrowed.  No other overt spinal or paraspinal pathology is seen.
+     
+     CONCLUSION:  Poor quality imaging secondary to patient motion but with
+     reasonable correspondence of the MR [**First Name (Titles) **] [**Last Name (Titles) **] findings as noted above.  
+     
+     COMMENT:  There are probable secretions layering within the oro- and
+     nasopharynx regions.  Apparently, the patient is intubated.
+
+",,
+8915,17012,39263,0,3391-06-12 03:48:00 EST,3391-06-12 03:50:00 EST,3752,"N",54,"Nursing/Other",,"
+
+Resp Care,
+Pt. remains intubated on IPS 10 overnoc. VT 900 RR 18. BS coarse, suctioned for thick white sputum. MDI's as ordered. RSBI 28 this am. See carevue.
+",,
+8915,17012,39263,0,3391-06-12 03:54:00 EST,3391-06-12 04:10:00 EST,3871,"N",54,"Nursing/Other",,"
+
+neuro: remains off sedation. opens eyes spontaneously and follows simple commands. +mae noted...able to grasp hand upon request with L hand only and wiggles bilat toes upon command. nonpurposeful movement of rue. cough intact/gag impaired. +perrla noted. [**Location (un) **] j collar intact. collar care done. logroll precautions maintained.  
+cv: monitor shows nsr-st with no ectopy noted. 
+resp: ls coarse throughout. sxn for mod amts thick yellow secretions via ett. rr 15-21 with tv's ~800. rsbi 28 this am. ett rotated. 
+gi: abd firm and distended with +umbilical hernia. hypo bs noted. mushroom cathteter intact draining liquid brown stool. nepro [**1-10**] st @ goal of 90 cc/hr with minimal residuals noted. remains on free water flushes 300 cc's q4hr. 
+gu: foley intact and patent draining amber urine with no sedimentation noted. 
+skin: l arm skintear wash with ns, xeroform and dsd applied. superficial open area noted on l inner thigh wash with ns, xeroform and dsd applied. duoderm to coccyx and upper back intact. multiple eccymotic areas noted s/p fall. ostomy appliance to l abd intact (? from old tap site).
+endo: remains on insulin gtt and titrated [**First Name8 (NamePattern2) 34**] [**Last Name (un) **] scale.
+i-d: afebrile. remains on levo and flagyl for asp pna.
+psy-soc: no phone calls or visitors this shift. plan for family meeting this am @ 1100 with renal, transplant and micu to address prognosis and plan of care. ? dialysis to be initiated. remains full code on micu service. 
+",,
+8915,17012,39263,0,3391-06-12 17:05:00 EST,3391-06-12 17:10:00 EST,7566,"N",54,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains intubated on PSV.  pt tolerated SBT for 4hrs and was otherwise on [**5-13**].  MDI given, pt still has course BS with mod-copious amt of thick white-yellow secretions.  family meeting held today which determined a plan for possible extubation within next few days dependant on secretions and pt ablitly to clear own secretions.  uneventful trip to MRI this afternoon in hopes to clear cervical collar, results pending.  plan at this time is to continue on low level of PS as tolerated by pt.
+",,
+8915,17012,39263,0,3391-06-12 17:43:00 EST,3391-06-12 17:52:00 EST,3532,"N",54,"Nursing/Other",,"
+
+RESP: BS'S COARSE. SUCTIONED FOR THICK YELLOW SECRETIONS. ON PS OF 5/0 PEEP AND DID WELL. PRESENTLY ON PS OF 5/5  40%. TV'S 1L AT TIMES. 
+GI: TF'INGS AT 90CC/HR. NO RESIDUALS. NO BS'S PRESENT. STOOL LIQUID BROWN. MUSHROOM CATH IN PLACE. TF'INGS ORDERS CHANGED TO START AT MN. 
+RENAL: CREAT'S IMPROVING, BUT LITTLE TO NO U/O. HEMODIALYSIS ON HOLD. WAS DISCUSSED WITH HIS WIFE TODAY.
+[**Name2 (NI) 4286**]: CONT. ON INSULIN GTT AT 3U/HR. BS'S 104-179. ? OF WHY SO LABILE. K+ REPLETED. REPEAT K+ AND MG+ SENT. 
+NEURO: MORE AWAKE TODAY. WIFE INTO VISIT. ANSWERING QUESTIONS BY NODDING. TRYING TO MOUTH WORDS. MOVING UPPER BODY, BUT LITTLE LEG MOVEMENT NOTED EXCEPT WHEN TURNED. 
+CV: HEMODYNAMICALLY STABLE. 
+HEM: PARACENTESIS DONE-REMOVED 4L FLUID. BAG APPLIED. EMPTIED FOR 250CC PRIOR TO MRI. 
+ORTHO: COLLAR STILL ON. MRI OF NECK DONE. ? OF BULGING DISCS. RADIOLOGY NEEDS TO READ. 
+SKIN INTEGRITY: SMALL SKIN TEARS. BRUISING. 
+ID: AFEBRILE. 
+PAIN CONTROL: GIVEN DILAUDID 1MG IVP FOR C/O ABD PAIN -PT. SLEPT. 
+SOCIAL: WIFE MET WITH TRANSPLANT TEAM. 
+PLAN: POSSIBLE EXTUBATION TONIGHT OR TOMORROW. 
+ACCESS: WHITE PORT OF TRIPLE LUMEN IS CLOTTED. 
+",,
+8915,17012,39263,0,3391-06-12 17:54:00 EST,3391-06-12 17:55:00 EST,3532,"N",54,"Nursing/Other",,"
+
+UPDATE: PT. PAN CULTURED THIS AM. STOOL SENT FOR C-DIFF-NEEDS ANOTHER SENT. 
+",,
+8915,17012,39263,,3391-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-13**] 4:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11707**]
+     Reason: evaluate for edema, increasing effusions                    
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        56 year old man with cirrhosis w/ ? aspiration pneumonia with respiratory  
+      failure, ?volume overload
+     REASON FOR THIS EXAMINATION:
+      evaluate for edema, increasing effusions                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Suspected volume overload in a patient with known
+     cirrhosis.  
+     
+     Portable AP chest radiograph compared to the previous film from [**3391-6-8**].
+     
+     The ETT tube position is high 6.5 cm above the level of the carina at the
+     level of the thoracic inlet.  The heart size is normal.  The tip of the right
+     subclavian line is at the level of the cavoatrial junction.  The NG tube tip
+     is in the stomach.  Right middle lobe and right lower lobe discoid atelectasis
+     is grossly unchanged.  Persistent patchy left retrocardiac opacity may be due
+     to atelectasis or infection.  There is some mild peribronchial cuffing which
+     may represent mild fluid overload or peribronchial inflammation.
+
+",,
+8915,17012,39263,0,3391-06-13 00:46:00 EST,3391-06-13 00:52:00 EST,3659,"N",54,"Nursing/Other",,"
+
+Respiratory Care: 
+
+Patient intubated on PSV. Ventilator settings PSV 5, Peep 5, Fio2 40%. Spont vols [**Telephone/Fax (1) 6260**]. RR 8-13. Bs clear bilaterally. Sx'd for thick yellow/tan secretions. Sputum cx sent via RN. CXR L Lung opacity. No new consolidations. Metabolic acidosis. Will repeat RSBI later this morning. Pt. appears comfortable on PSV with vols as above.Plan: Continue with PSV and increased level as needed.  
+",,
+8915,17012,39263,0,3391-06-13 03:16:00 EST,3391-06-13 03:46:00 EST,3871,"N",54,"Nursing/Other",,"
+
+neuro: alert and follows simple commands. +mae, weak and deconditioned. passive rom administered. cough impaired/gag absent. +perrla noted. [**Location (un) **] j collar intact. collar care done. logroll precautions maintained. 
+cv: monitor shows nsr. cvp 7-11. 
+resp: ls coarse throughout with occ insp wheezes noted. sxn for lg amts thick yellow secretions via ett. sputum cx sent. ps increased to 10 with most recent abg of 7.28/33/198. dr [**Last Name (STitle) 6326**] notified and no vent changes at this time. rr 7-19. cont with tv's ~1L. cxr done this am. ett rotated.
+gi: abd firm and distended. +umbilical hernia noted. +bs hypo. mushroom cathteter intact and patent draining liquid brown stool. lactulose prn given x2. tf's changed from [**1-10**] st nepro to fs nepro...started @ 40 cc/hr with goal rate of 90 cc/hr. remains on free water flushes q8hr. 
+gu: foley intact and patent draining amber urine with no sedimentation noted. received total of 3L of NS for renal challenge. ? to start on dialysis in future. 
+heme: hct stable 29. k repleted last evening. am labs pending. 
+skin: pt with multiple eccymotic areas s/p fall. superficial open area on coccyx and duoderm applied. pt with abrasions beneath [**Location (un) **] j collar and douderm applied. r upper leg with superficial open area and telfa and dsd applied. l abd ostomy appliance draining lg amts serous drainage (paracentesis site). pt placed on kinair bed [**2-10**] [**Last Name (un) **] score <13 with multiple skin issues. mpb alternated ble q4hr. 
+endo: remains on fingersticks q1-2 hr and titrated [**First Name8 (NamePattern2) 34**] [**Last Name (un) **] scale.
+i-d: afebrile. remains on levo and flagyl for asp pna.
+psy-soc: dtr in to visit last evening and updated on status and plan of care by dr [**Last Name (STitle) 6327**]. remains full code on micu service.  
+
+",,
+8915,17012,39263,0,3391-06-13 15:32:00 EST,3391-06-13 15:49:00 EST,6443,"N",54,"Nursing/Other",,"
+
+Nursing note (0700-1900) 16:30
+
+Neuro.
+Pt A+Ox3, some complaints of abdominal pain during the day, given versed and haldol with no effect, given 4mg morphine with excellent result.  Following simple commands, generaly weak to all limbs.
+
+Resp.
+PS increased to 15 to encourage pt to blow off CO2 to help with acidosis, initially good response, but now back to previous level (see careview for details).  SpO2 98-100%, LS coarse to all fields, Sx'd for copious amounts of thick yellow sputum.
+
+CVS.
+HR 60's-80's NSR with rare ectopy seen.
+BP 110's-120's/50's-70's, stable via a-line (positional at times).
+Albumin given per Rx.  Started on sodium bicarb for acidosis.
+
+GI/GU.
+TF's continue at goal rate of 50cc/hr of Nepro FS with minimal residuals, free H2O boluses given Q8hrs.  Liquid stool passed via mushroom cath.
+Foley in place for minimal [**Last Name (LF) 688**], [**First Name3 (LF) 833**] with sedement, sent for osm and lytes.  ?? use of dialysis due to pt's fluid status, given 500cc bolus for low UOP with minimal effect, abdominal assessment: large amount of ascites.
+
+Endo.
+FSG stable, pt remains on insulin gtt at 2 units per hour.
+
+Skin.
+Multiple areas of abbrasion due to fall, dressing to upper R leg left intact.  Duoderms intact to back.
+
+Social.
+Called by wife and daughter, wife plans to visit later today, given update.
+
+Plan.
+Continue supportive care.
+? dialysis.
+
+",,
+8915,17012,39263,0,3391-06-13 17:18:00 EST,3391-06-13 17:25:00 EST,7566,"N",54,"Nursing/Other","Resp care","
+Resp care
+pt remained intubated on PSV.  ips was increased to 15 today based upon a metebolic acidosis with a pH of 7.28.  With increase in ips pH improved slighly at first then became more acidotic.  plan at this time is to continue on vent until HD is started, and continue monitoring ABGs.   
+",,
+8915,17012,39263,,3391-06-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-14**] 2:21 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11709**]
+     Reason: eval ETT placement                                          
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          56 year old man with resp failure [**2-10**] end stage liver disease, aspiration 
+      pneumonia, intubated.  ETT advanced after previous CXR
+     REASON FOR THIS EXAMINATION:
+      eval ETT placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of the ET tube.
+     
+     Portable AP chest radiograph compared to the previous one done the same date
+     at 0324 a.m.
+     
+     The ET tube is advanced, now being 4 cm above the carina.  The NG tube tip and
+     the right subclavian line tip are in standard position.  There are no other
+     changes in the chest appearance in comparison to the previous film.
+                                                                           
+
+",,
+8915,17012,39263,,3391-06-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-14**] 3:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11708**]
+     Reason: Eval for infiltrates, effusions                             
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         56 year old man with cirrhosis w/ ? aspiration pneumonia with respiratory   
+      failure, ?volume overload
+     REASON FOR THIS EXAMINATION:
+      Eval for infiltrates, effusions                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  A followup in a patient with known cirrhosis and
+     
+     Portable AP chest radiograph compared to [**3391-6-13**].
+     
+     The ET tube tip is again very high at the level of the first thoracic rib. The
+     right internal jugular line tip is at the level of the cavoatrial junction,
+     and the NG tip is in the stomach.  The right middle and  lower lobe discoid
+     atelectasis are slightly improved as well as the left lower lobe atelectasis.
+     There is no pulmonary edema.  The pleural surfaces are smooth with no pleural
+     effusion
+     
+     IMPRESSION:
+     
+     1.  Still high position of the ET tube.  These findings were discussed with
+     Dr. [**First Name (STitle) **].
+     
+     2.  Improvement of bilateral lower lobe atelectasis.
+
+",,
+8915,17012,39263,,3391-06-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-14**] 2:21 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11709**]
+     Reason: eval ETT placement                                          
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          56 year old man with resp failure [**2-10**] end stage liver disease, aspiration 
+      pneumonia, intubated.  ETT advanced after previous CXR
+     REASON FOR THIS EXAMINATION:
+      eval ETT placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of the ET tube.
+     
+     Portable AP chest radiograph compared to the previous one done the same date
+     at 0324 a.m.
+     
+     The ET tube is advanced, now being 4 cm above the carina.  The NG tube tip and
+     the right subclavian line tip are in standard position.  There are no other
+     changes in the chest appearance in comparison to the previous film.
+                                                                           
+
+",,
+8915,17012,39263,0,3391-06-14 03:57:00 EST,3391-06-14 04:20:00 EST,3554,"N",54,"Nursing/Other","NPN-MICU","
+NPN-MICU
+Mr. [**Known patient lastname 6322**] [**Last Name (Titles) 630**] to make slow progress.
+Neuro: pt cont off sedatives. He is interactive and cont to follow all commands. He intermittently ask for help but yet he has nothing specific. he has denied any pain so far, he is able to MAE when asked.
+
+CV: pt cont to maintain BP of 110-130's/70's, HR in the 80-90's, lytes are unchanged.
+
+Resp:pt cont on PSV of 15/5. He cont to have variable TV of 700-1.2L with a RR of 8-18. His O2 sats are >98%, ABG to be pnd at 6am.
+his secretions are about the same, thick yellow
+
+GI:pt cont to tol his TF and it is being slowly increased to goal of 90cc/hr. His abd remains with lg amt of ascites. He cont to stool on lactolose. Insulin drip cont at 2.5U/hr to keep BS 120-140.
+
+GU:pt cont with marginal u/o BUN/CR unchanged 126/5.5
+
+ID:pt remains afebrile on IVAB
+
+A/P:Will cont to eval pt's ABG and chances of further weaning. Aggressive pulmonary toilet as needed.
+    Will cont to note stool amt, adv TF to goal rate  and keep BS <150 on Insulin drip
+    Will cont to follow renal function and eval for HD
+",,
+8915,17012,39263,0,3391-06-14 04:58:00 EST,3391-06-14 05:02:00 EST,3508,"N",54,"Nursing/Other","Respirtory care:","
+Respirtory care:
+Patient remains intubated and mechanically vented. Vent checked and alarms functioning. Current settings: Cpap/ps  15/5 40%. RSBI 33.3 this am.  Continues to be acidotic. Please see respiratory section of carevue for further data.
+Plan: Continue mechanical ventilation. Wean as tolerated.
+",,
+8915,17012,39263,0,3391-06-14 15:53:00 EST,3391-06-14 16:32:00 EST,3871,"N",54,"Nursing/Other",,"
+
+neuro: remains off sedation. alert and follows simple commands. +mae noted, weak and deconditioned...passive rom administered. cough impaired/gag absent. +perrla noted. remains in [**Location (un) **] j collar. logroll precautions maintained. collar care done. bialt soft hand restraints intact [**2-10**] pt attempts to self d/c equipment. 
+cv: monitor shows nsr with no ectopy noted. cvp 8-13. remains on albumin bid. 
+resp: ls coarse throughout. sxn for mod amts thick yellow secretions via ett. remains on cpap+ps 10/5 x.40 rr 10-22 with tv's 800-1.1L. 
+gi: abd soft and distended with +ascites (umbicilical hernia noted). tf's advanced to goal of 90 cc/hr with minimal residuals noted. remains on free water flushes 100 cc's q8hr. lactulose given x1. mushroom cathter intact draining liquid brown stool heme+.
+gu: foley intact and patent draining amber urine with sm amt sedimentation noted. bldr pressure 17. renal consult in place and feels pt is pre-renal (not hepato-renal). ?dialysis in future [**2-10**] persistent acidemia. 
+skin: multiple eccymotic areas and skin tears noted [**2-10**] recent fall. duoderm to coccyx and below collar c/d/i. r knee abrasion healing. l forearm and l upper thigh with superficial skin tears...[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in to eval and recommended aloe protective barrier cream and ota. 
+endo: fingersticks q1-2 hr and insulin gtt titrated per scale. 
+pain: c/o abd pain x2 and medicated with morphine 2 mg with +effect. 
+i-d: afebrile. remains on levo and flagyl for asp pna.
+psy-soc: wife in to visit and updated on status and plan of care by this rn and dr [**First Name (STitle) **]. remains full code on micu service. currently being worked up for liver transplant and will need lab work, echo, and mra of abdomen. continue with supportive care. 
+
+",,
+8915,17012,39263,0,3391-06-14 17:19:00 EST,3391-06-14 17:26:00 EST,3090,"N",54,"Nursing/Other",,"
+
+Patient remains on PSV all day without problem.Generating large spontaneous VT probably would do well on PSV. ETT advanced 3 cm now @ 26 cm (Lips). CXR shows atelectasis. Abdomen objectively appears distended but pressure only read 17.Alert,coop RTT rotated will continue to follow.
+",,
+8915,17012,39263,0,3391-06-15 03:18:00 EST,3391-06-15 04:27:00 EST,8143,"N",54,"Nursing/Other","Nursing Notes 1900-0700","
+Nursing Notes 1900-0700
+Received a 56 year old male patient from previous shift with diagnosis of altered mental status.  Past medical history of CHF, DM, ETOH, HTN, LIVER FAILURE, RENAL FAILURE, ALCOHOLIC CIRRHOSIS WITH ESOPHAGEAL VARICES, GOUT, GERD.
+
+Alarms and environment checked for safety.
+
+Neuro.  Patient remains to be off sedation.  Awake and alert and answers appropriately to yes/no questions by nodding or turning head from side to side.  GCS remains to be 11.  Pupils 5mm PERRLA brisk.  Able to follow commands and moves all extremeties.  Remains on bilat soft restraints with adequate circulation and passive range of motions done.  Patient unable to get any [**Doctor Last Name 5**] appeared to be uncomfortable at times with vitals slightly elevated, frequent positioning for conmfort done.  Prn Versed 2mg ivp given at 0300 am with some effect.  Vitals went down from SBP 140-150mmhg to 110-120mmhg with HR from 125 down to 97bpm for a couple of mins but patient still unable to get any [**Doctor Last Name 5**].  Patient denies of any pain the entire shift. Patient was very uncomfortable around 0500 when asked, PRN 2mg IVP Morphine given as ordered with good effect. Tremors still noted.
+
+Cardio.  Patient remains to be in Sinus Tachy with no ectopy noted, with Heart rate between 100-110bpm and goes up to 125bpm when uncomfortable or post suctioning.  SBP has been in between 125mmhg-150mmhg with MAP of 100-115.  CVP at 7-10.  Patient has palpable strong pulses on all extremeties. Hct remains to be stable at 27.9.
+
+Respiratory.  ET to Vent on CPap with FiO2 of 0.40 with PS 10 PEEP 5 with course breath sounds on bil upper and lower lungs with diminished breath sounds noted on right lower lobe.  ABGs remains to be acidodic with compensation (see current ABGs in flowsheet.).  Eupneic with RR between 15-25 bpm with no distress noted.  Suctioned at 0400 very thick white to yellowish secretions mod amount.  Oral care done per protocol. RISBI of 54 noted c/o RT.
+
+Integumentary.  Patient has multiple echymosis on face, upper extremeties, abdomen and lower extremeties.  Multiple skin tears and abrassions noted on 4 extremeties with aloe skin protectant applied (see flowsheet for details).  Duoderm applied to back neck and coccyx..  Remains to have ascites.  Bath/skin/collar care done per protocol/as necessary.
+
+GI.  Pt has OGT with positive placement noted through auscultation residual of 0-10cc noted.  TF Nepro running at 90 cc/hr tolerated well with bolus of 100cc q8hrs given as ordered.  Hypo-normoactive bowel sounds noted on 4 quadrants.  Lactulose 30ml given as ordered with good effect.  rectal tube draining to a liquid brown stool to cd bag.
+
+GU.  Foley cath to cd bag draining 15-30cc of amber clear urine.  Bladder pressure of 24 noted.
+
+Endo.  Finger sticks q1hr done with insulin drip titrated accordingly.  [**Hospital1 1421**] remains between 124-220mg/dl with insulin drip between 3.5-7units/hr (see flowsheet for details)
+
+ID.  Remains to be afebrile. On IV antibiotics for PNA.
+
+Social.  Daughter called informing that she wo
+",,
+8915,17012,39263,0,3391-06-15 03:19:00 EST,3391-06-15 04:27:00 EST,8143,"N",54,"Nursing/Other","Nursing Notes 1900-0700","
+Nursing Notes 1900-0700
+(Continued)
+nt be able to come in as she is sick update given.  Information relayed to patient.  Continues to be on full code.
+
+Plan.  Continue to monitor sugar and titrate insulin drip accordingly.    Attempt to wean and get ABGs to assess how patient is responding if will tolerate extubation.  Neuro, liver and renal continues to follow patient.  possible MRI today.  Awaiting Neurosurg consult for Cspine clearance.
+
+Endorsed.
+
+
+",,
+8915,17012,39263,0,3391-06-15 04:51:00 EST,3391-06-15 04:55:00 EST,3317,"N",54,"Nursing/Other",,"
+
+Resp Care: Pt continues intubated and on ventilatory support with minimal psv, no vent changes overnoc maintaining comp met acidosis  with good oxygenation; bs clear to coarse, sxn thick tan secretions, rsbi 21, will hold sbt given pH.
+",,
+8915,17012,39263,0,3391-06-15 15:28:00 EST,3391-06-15 15:52:00 EST,6443,"N",54,"Nursing/Other",,"
+
+Nursing note (0700-1900) 16:30
+
+
+Neuro.
+Pt was A+Ox3 for most of shift, following commands etc, was noted to have termmors by wife, who felt he was anxious also, Rx'd for Ativan 0.5mg which was given, pt now lethargic, not following commands or answering questions.  MD aware.
+C-Collar remains in place, awaiting neuro team to clear neck clinically.
+
+Resp.
+Weaned to SBT with adequate abg, aiming for extubation initially, now to hold off until am due to response to Ativan.  RT to do SBT at 6am so team can consider extubation in am.
+Continues with thick yellow secretions, LS coarse to all fields.
+
+CVS.
+ST continues, team aware, nothing ordered at present.  has now dropped rate to 90's since ativan dose.
+BP stable 100's/60's. CVP 5-13 depending on position.
+
+GI/GU.
+Abdomen further distended per this nurse over last two days.  TF's on hold for a period of time due to extubation attempt, restarted now, given extra free H2O bolus for increased Na of 151 this pm.  +BS with liquid stool passed via mushroom catheter, Lactulose given PRN.
+Foley patent for clear amber urine of minimal amounts, renal following.  BUN & Creat on gradual increase, no plans for dialysis at present.  Pt is being worked up for Liver transplant.
+
+Endo.
+FSg labile at times, insulin gtt increased to 5 units/hr, then stopped when TF's off.
+
+Skin.
+No improvement in skin status at present.  Continues on Kinair bed.
+
+Social.
+Pt visited by wife, who is now feeling quite ill [**Last Name (LF) 6328**], [**First Name3 (LF) **] be in tomorrow morning for short time to cath up with medics.
+
+Plan.
+MRI of [**Last Name (un) **] (liver work up).
+Follow lytes.
+Q1hr FSG.
+? family meeting in am.
+",,
+8915,17012,39263,0,3391-06-15 17:52:00 EST,3391-06-15 18:01:00 EST,3090,"N",54,"Nursing/Other",,"
+
+Patient spent many hours on SBT with good ABG then swithed back to previous settings due to increased WOB.(+)I/O,and pleural effusion.will continue to wean to extubate,kidney candidate.
+",,
+8915,17012,39263,,3391-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-16**] 8:29 PM
+     ABDOMEN U.S. (PORTABLE)                                         Clip # [**Clip Number (Radiology) 11714**]
+     Reason: please mark safe area for paracentesis                      
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       56 year old man with cirrhosis, massive ascites with umbilical hernia.         
+     REASON FOR THIS EXAMINATION:
+      please mark safe area for paracentesis                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Mark spot for paracentesis.
+     
+     FINDINGS:  Focussed four quadrant ultrasound was performed showing abundant
+     ascites.  An appropriate position for paracentesis was demonstrated in the
+     right lower quadrant and the patient's skin was marked accordingly.
+                                                                           
+
+",,
+8915,17012,39263,,3391-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-16**] 8:26 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11713**]
+     Reason: eval tube placement.                                        
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             56 year old man with resp failure [**2-10**] end stage liver disease, 
+      aspiration    pneumonia, intubated.  dophoff placed
+     REASON FOR THIS EXAMINATION:
+      eval tube placement.                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  56-year-old man with respiratory failure, now with Dobbhoff tube
+     placed.  Compare.
+     
+     COMPARISON:  [**3391-6-16**].
+     
+     AP UPRIGHT CHEST RADIOGRAPH:  The examination is technically limited.  A
+     Dobbhoff tube is seen coursing into the lower mid abdomen.
+                                                                           
+
+",,
+8915,17012,39263,,3391-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-16**] 6:15 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11712**]
+     Reason: eval placement                                              
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            56 year old man with resp failure [**2-10**] end stage liver disease, aspiration 
+        pneumonia, intubated.  dophoff placed
+     REASON FOR THIS EXAMINATION:
+      eval placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  56-year-old man for Dobbhoff tube placement evaluation.
+     
+     COMPARISON:  [**3391-6-16**].
+     
+     AP UPRIGHT CHEST RADIOGRAPH:  A Dobbhoff tube is seen with its tip at the GE
+     junction.  Would recommend advance 7 cm.  Otherwise, the examination is
+     unchanged compared to the prior study.
+     
+     IMPRESSION:
+     
+     Dobbhoff tube at GE junction.  Recommend advance 7 cm.
+                                                                           
+
+",,
+8915,17012,39263,,3391-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-16**] 11:31 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11716**]
+     Reason: reeval placement.                                           
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               56 year old man with resp failure [**2-10**] end stage liver disease,   
+      aspiration    pneumonia, intubated.  dophoff placed, pt pulled tube
+     REASON FOR THIS EXAMINATION:
+      reeval placement.                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 7:56 [**Initials (NamePattern4) **] [**6-16**]
+     
+     HISTORY:  Respiratory failure.  Aspiration pneumonia.  Dobhoff tube placed and
+     repositioned.
+     
+     IMPRESSION:  AP chest compared to [**6-16**]:
+     
+     Nasogastric feeding tube with a wire stylet in place has been withdrawn from
+     the third portion of the duodenum to the stomach.  No endotracheal tube is
+     seen below T1, the upper margin of this film.  Lateral aspect of the left
+     lower chest is excluded from the examination.  Other pleural surfaces are
+     normal.  Previously severe bibasilar atelectasis has improved, though there is
+     still some volume loss in the medial aspect of the right lung projecting over
+     the hilus either in the middle lobe or superior segment of the lower lobe. 
+     There is no pneumothorax.  Tip of the right subclavian central venous line is
+     obscured by the overlying nasogastric tube that appears to be in the SVC or
+     near the superior cavoatrial junction.
+                                                                           
+
+",,
+8915,17012,39263,,3391-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-16**] 8:58 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11715**]
+     Reason: eval tube replacement                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              56 year old man with resp failure [**2-10**] end stage liver disease,  
+      aspiration    pneumonia, intubated.  dophoff placed, pt pulled tube
+     REASON FOR THIS EXAMINATION:
+      eval tube replacement                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  56-year-old with respiratory failure, pneumonia, intubated,
+     Dobbhoff tube in place, evaluate for Dobbhoff tube.
+     
+     COMPARISON:  [**3391-6-16**].
+     
+     SUPINE CHEST RADIOGRAPH:  The examination is technically limited.  A dobbhoff
+     tube is seen overlying the lower mid abdomen.
+
+",,
+8915,17012,39263,,3391-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-16**] 11:31 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11716**]
+     Reason: reeval placement.                                           
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+               56 year old man with resp failure [**2-10**] end stage liver disease,   
+      aspiration    pneumonia, intubated.  dophoff placed, pt pulled tube
+     REASON FOR THIS EXAMINATION:
+      reeval placement.                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 7:56 [**Initials (NamePattern4) **] [**6-16**]
+     
+     HISTORY:  Respiratory failure.  Aspiration pneumonia.  Dobhoff tube placed and
+     repositioned.
+     
+     IMPRESSION:  AP chest compared to [**6-16**]:
+     
+     Nasogastric feeding tube with a wire stylet in place has been withdrawn from
+     the third portion of the duodenum to the stomach.  No endotracheal tube is
+     seen below T1, the upper margin of this film.  Lateral aspect of the left
+     lower chest is excluded from the examination.  Other pleural surfaces are
+     normal.  Previously severe bibasilar atelectasis has improved, though there is
+     still some volume loss in the medial aspect of the right lung projecting over
+     the hilus either in the middle lobe or superior segment of the lower lobe. 
+     There is no pneumothorax.  Tip of the right subclavian central venous line is
+     obscured by the overlying nasogastric tube that appears to be in the SVC or
+     near the superior cavoatrial junction.
+                                                                           
+
+",,
+8915,17012,39263,,3391-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-16**] 8:26 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11713**]
+     Reason: eval tube placement.                                        
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             56 year old man with resp failure [**2-10**] end stage liver disease, 
+      aspiration    pneumonia, intubated.  dophoff placed
+     REASON FOR THIS EXAMINATION:
+      eval tube placement.                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  56-year-old man with respiratory failure, now with Dobbhoff tube
+     placed.  Compare.
+     
+     COMPARISON:  [**3391-6-16**].
+     
+     AP UPRIGHT CHEST RADIOGRAPH:  The examination is technically limited.  A
+     Dobbhoff tube is seen coursing into the lower mid abdomen.
+                                                                           
+
+",,
+8915,17012,39263,,3391-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-16**] 6:15 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11712**]
+     Reason: eval placement                                              
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            56 year old man with resp failure [**2-10**] end stage liver disease, aspiration 
+        pneumonia, intubated.  dophoff placed
+     REASON FOR THIS EXAMINATION:
+      eval placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  56-year-old man for Dobbhoff tube placement evaluation.
+     
+     COMPARISON:  [**3391-6-16**].
+     
+     AP UPRIGHT CHEST RADIOGRAPH:  A Dobbhoff tube is seen with its tip at the GE
+     junction.  Would recommend advance 7 cm.  Otherwise, the examination is
+     unchanged compared to the prior study.
+     
+     IMPRESSION:
+     
+     Dobbhoff tube at GE junction.  Recommend advance 7 cm.
+                                                                           
+
+",,
+8915,17012,39263,,3391-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-16**] 5:29 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11710**]
+     Reason: confirm dophoff placement.                                  
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           56 year old man with resp failure [**2-10**] end stage liver disease, aspiration  
+      pneumonia, intubated.  dophoff placed
+     REASON FOR THIS EXAMINATION:
+      confirm dophoff placement.                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  56-year-old with respiratory failure, end-stage liver disease.
+     Patient is intubated.  Assess location of Dobbhoff tube.
+     
+     COMPARISON:  [**3391-6-14**].
+     
+     FINDINGS:  Technically limited study.  The left costophrenic angle and
+     portions of the left hemithorax cannot be evaluated.
+     
+     A nasogastric tube is seen coiled within the esophagus with tip above the GE
+     junction.  A right-sided subclavian central venous catheter is in unchanged
+     position.  The endotracheal tube is not well visualized on this examination.
+     The cardiomediastinal silhouette is unchanged.  There are low lung volumes.
+     There is bibasilar atelectasis.
+     
+     IMPRESSION:
+     1.  Low lung volumes and technically limited examination.
+     2.  Dobbhoff tube coiled within the esophagus with tip above the GE junction.
+     
+     These findings were discussed with Dr. [**Last Name (STitle) 11711**] at 6 p.m. on [**3391-6-16**].
+     
+     
+     
+
+",,
+8915,17012,39263,,3391-06-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-16**] 8:58 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11715**]
+     Reason: eval tube replacement                                       
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+              56 year old man with resp failure [**2-10**] end stage liver disease,  
+      aspiration    pneumonia, intubated.  dophoff placed, pt pulled tube
+     REASON FOR THIS EXAMINATION:
+      eval tube replacement                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  56-year-old with respiratory failure, pneumonia, intubated,
+     Dobbhoff tube in place, evaluate for Dobbhoff tube.
+     
+     COMPARISON:  [**3391-6-16**].
+     
+     SUPINE CHEST RADIOGRAPH:  The examination is technically limited.  A dobbhoff
+     tube is seen overlying the lower mid abdomen.
+
+",,
+8915,17012,39263,0,3391-06-16 03:27:00 EST,3391-06-16 03:30:00 EST,3561,"N",54,"Nursing/Other",,"
+
+Resp Caree Note, Pt remains on current vent settings. See vent flow sheet for details.Suctioned for copious amts thick yellow secretions.MDI'S given. RSBI done on 0 peep/5 ips 30. Will cont to monitor resp status. 
+",,
+8915,17012,39263,0,3391-06-16 03:46:00 EST,3391-06-16 04:07:00 EST,7354,"N",54,"Nursing/Other","NPN 7p-7a","
+NPN 7p-7a
+Neuro: Pt alert, follows commands consistantly to wiggle toes, stick out tongue. + asterixis noted, denies pain and denies anxiety. Pt appeared to [**Doctor Last Name 5**] on/off t/o night. Afebrile. Multi podus boot changed from r->l foot q2hour. [**Location (un) 204**]-J collar on AAT, collar care done. Soft wrists restraints on to prevent self extubation/harm. Released Q2hour and ROM exercises done.
+Cardiac: aline dampened, attempted to take wrist board off however lost aline tracing. b/p 110-130/60-70s, HR 90s to 119 SR-ST, occ PVC noted. Requiring q1hour suctioning, anasarca persists, appears to have component of CHF.(R)IJ TLC patent, site OK. Needs cardiac clearance according to liver MD (cardiac cath wanted.)
+Resp: Remains vent on CPAP7/5, 40%. Suctioning large amt thick yellow to occasional blood tinged secretions Q ONE HOUR. Oral care done q2hour, gag impaired. Goal is to extubate today, however, secretions may be too much. LS: coarse t/o, crackles ausc LLL.
+SKin: Multiple echymoses on face persist, scabbed area right cheek intact. Duoderm covering abrasions on back of neck intact. Drainage bag over LUQ abd intact, small amt serous fluid. Pt continues to have what appears to be an impressive umbilical hernia which also appears to have taught fluid sack, approx size of a baseball and apparently no change from last night according to ICU team. Lesions on thighs open to air, small amt sang drainage, cleansed w/soap and water. 
+GI: ABD firm distended. Appeared to tolerate tube feeds @ goal rate of 90cc/hr, unable to aspirate from OGT. Cont'd w/400cc water flushes administered via tube feed bag and gravity. q2hours until 0400 as ordered. Will recheck Na this morning. Mushroom catheter intact and patent, 600cc liquid stool this shift.
+GU: foley patent, draining 10-20cc urine/hr. 
+Endo: FS checked q1hour, insulin titrated accordingly, currently @ 1u/hr w/FS 88. NPO for possible extubation.
+Social: no contact w/family this shift.
+",,
+8915,17012,39263,0,3391-06-16 15:52:00 EST,3391-06-16 16:22:00 EST,6443,"N",54,"Nursing/Other",,"
+
+Nursing note (0700-1900) 16:50
+
+EVENTS:  Pt extubated at 12:00
+
+Neuro.
+Pt alert this am, less so at present, trying to make needs known, though not effective, unable to articulate very well, not following commands consistantly.  Gradually becoming encephalopathic again.
+Neurology saw pt to try to clear neck, pt unable to answer as to pain in neck so unable to clear at present, will probably need to flouro c-spine.
+
+Resp.
+Extubated as above, now on face mask, 70% humidified, with adequate abg [**Name8 (MD) 34**] MD's.  Pt with weak cough effort, able to expectorate thick yellow sputum with encouragement, C+DB encouraged.  Pt re-positioned multiple times due to habit of slumping to his left and sliding down in bed (pt most comfortable in this position).
+
+CVS.
+HR 80's NSR with no ectopy seen, BP stable via positional a-line.
+No contact regarding cardiac cath as yet.
+
+GI/GU.
+OG tube pulled with ETT, pt aspirated when tried on sips of H2O, so meds held at present, team plan to place dophoff tube for meds/feeds.
+Passing small amounts of liquid stool via mushroom cath.
+Foley patent for small amounts of clear amber urine at 10-30cc/hr, bladder pressure this am 15.  No plans for dialysis or diuresis at this time.
+Abdomen increasingly distended due to ascites, no plans to tap as yet.
+
+Endo.
+Continues on Insulin gtt, now at 1.5 units/hr with stable FSG checked Q2hrs now.
+
+Skin.
+No change in skin status this shift, multiple areas of echymosis to torso, face and arm, multiple abrasions healing over slowly.
+
+Social.
+Visited by wife for short period, she became quite upset at times and felt it best to leave for the day.  She is spending most of time looking for appartments for her to live in while here, and her costs are mounting.
+Team have ordered an ethics consult for all team members, and family, so that goals can be discussed, and realistic plan established, no date or time as yet.
+
+Plan.
+Dophoff at bedside.
+Aggressive pulmonary toilet.
+Encourage C+DB.
+Monitor MS closely.
+",,
+8915,17012,39263,0,3391-06-17 04:15:00 EST,3391-06-17 04:45:00 EST,3885,"N",54,"Nursing/Other","npn 1900-0700","
+npn 1900-0700
+
+Dobhoff placed overnight.
+Paracentesis for 6 liters.
+
+neuro: Pt is axox3, follows commands, MAE. He is very mobile in the bed, attempting to put legs over side rails. He was restrained last evening after pulling out Dobhoff twice. [**Location (un) 204**] J collar in place. C spine cleared by scan, but not by patient verbalizing absence of pain.
+
+resp: Pt is on 70% face mask with sats 100%. LS coarse and diminished at bases.
+
+cv: SR in the 70's. BP 120/60's.
+
+access: R sc tlc, L radial aline.
+
+gi/gu: Abdomen with ascites and a large umbilical hernia. + BS. Mushroom catheter in place with liquid green stool. Lactulose q6h.
+Patent foley with minimal u/o.
+
+Labs: Creatinine is 6.2 and hematocrit 23.9 from 27.1 yesterday.
+
+skin: Multiple areas of abrasions that have become scabbed over.
+
+ID: Afebrile.
+
+Plan: Please repeat crit at 0900. Continue to follow mental status and give lactulose, wean O2 as tolerated. Ethics has been consulted and will come by today to review chart and arrange time to have a multi-disciplinary meeting re. plan of care.
+",,
+8915,17012,39263,0,3391-06-17 14:25:00 EST,3391-06-17 14:36:00 EST,3789,"N",54,"Nursing/Other","FOCUS;NURISNG PROGRESS NOTE","
+FOCUS;NURISNG PROGRESS NOTE
+56 YEAR OLD MALE ADMITTED TO [**Hospital1 22**] WITH ETOH CIRRHOSIS. HX OF HTN AND CHF. ADMITTED WITH MS CHANGES. INTUBATED FOR AIRWAY PROTECTION. SUCESSFULLY EXTUBATED [**3391-6-16**]. HOSPITAL COURSE COMPLICATED BY RF. 
+REVIEW OF SYSTEMS- 
+NEURO- HE WAS ONLY ORIENTED X1 THIS AM. HAD NOT MUCH MUCH STOOL IN PRVIOUS 24 HOURS. LACTULOSE DOSE INCREASED. HE NOW KNOWS HE IS IN [**Location (un) **]. AND KNOWS WHO HE IS. HE IS NOT ORIENTED TO THE DAY,MONTH OR YEAR. HIS PEARL. MAE. FOLLOWS COMMANDS. CONT WITH [**Location (un) **] J COLLAR UNTIL NECK CAN BE CLEARED CLINICALLY ONCE PATIENT MORE ORIENTED. 
+RESP- HE WAS WEANED FROM 40% FM TO RA. HIS SATS ARE 97% OR GREATER. BS COARSE DIMINISHED AT THE BASES. COUGHING WITHOUT RAISING. 
+CARDIAC-HR 70-80'S NSR WITHOUT ECTOPI. SBP 109-118. CVP 3-5. RECEIVING 250CC NS BOLUS AT PRESENT FOR LOW UO. CONT ON 25GMS OF 25% ALBUMIN BID.
+GI- ABD WITH ASCITES. BLADDER PRESSURE 11 TODAY. POS BS. DOBOFF WITH TF OF NEPRO FS AT GOAL RATE OF 45CC/HR. NO RESIDUALS. PASSED 900CC  OF GUAIC POS STOOL TODAY AFTER PRN DOSE OF LACTULOSE WAS INCREASED. SPEECH AND SWOLLOW EVAL HELD OFF TILL PATIENT MORE ALERT. 
+GU- FOLEY PATENT DRAINING AMBER URINE AT 10-25CC/HR.
+RENAL- BUN 142 CREAT 6.2. TUNNELLED LINE TO BE PLACED FOR CVVHD TO BE STARTED AT SOME POINT SOON.  
+ENDO- ON INSULIN DRIP AT 0-1U/HR WITH BS OF 83-157. 
+SKIN- BRUSING HEALING. 
+HEME- HCT THIS AM 23.9. REPEAT AT 0900 23. REPEAT TO BE DRAWN AT 1600. 
+SOCIAL- WIFE IN AND UPDATED BY THIS NURSE.
+DISPO- REMAINS IN THE MICU A FULL CODE. 
+PLAN- TUNNEL LINED TO BE PLACED. 
+      CVVHD TO BE STARTED IN FUTURE. 
+WILL NEED CARDIAC CATH AS PART OF TRANSPLANT EVAL.   
+",,
+8915,17012,39263,0,3391-06-17 16:11:00 EST,3391-06-17 16:12:00 EST,3789,"N",54,"Nursing/Other","focus;addendum","
+focus;addendum
+HEME- RPEAT HCT IS 21.7. DR [**Last Name (STitle) **] INFORMED. 
+RENAL- DIALYSIS LINE TO BE PLACED IN AM. 
+",,
+8915,17012,39263,,3391-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-18**] 3:16 PM
+     C-SPINE FLEX AND EXT ONLY 2 VIEWS; SPINAL FLUORO WITHOUT RADIOLOGIST PORTClip # [**Telephone/Fax (1) 11717**]
+     Reason: r/o listhesis/ligamentous injury                            
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with s/p fall, neg MRI, in C-collar x 2 weeks                   
+     REASON FOR THIS EXAMINATION:
+      r/o listhesis/ligamentous injury                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CERVICAL SPINE FLUOROSCOPY FROM [**3391-6-18**]
+     
+     INDICATION:  Rule out listhesis or ligamentous injury in a 56-year-old male.
+     
+     TECHNIQUE:  Two lateral fluoroscopic images of the cervical spine in flexion
+     and extension are submitted for interpretation on [**3391-6-23**].  Image
+     quality is very limited, due to lack of coning of the fluoroscopic image.
+     
+     FINDINGS:  C2 through C5 are visualized on these images.  C1-C2 articulation
+     is seen only on the extension view.  During flexion, there is minimal
+     straightening of the cervical lordosis.  No evidence of anterolisthesis is
+     present.  There is a nasogastric tube overlying the anterior spinal tissues.
+     
+     IMPRESSION:  Limited visualization of the cervical spine showing minimal
+     straightening of the lordosis during flexion, without evidence of
+     anterolisthesis.  The lower cervical spine is not visualized, due to
+     obscuration by the patient's shoulders.
+     
+
+",,
+8915,17012,39263,,3391-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-18**] 5:43 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11719**]
+     Reason: assess line placement s/p pull back                         
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                 56 year old man with resp failure [**2-10**] end stage liver disease,     
+      aspiration    pneumonia. s/p line placement and pull back
+     REASON FOR THIS EXAMINATION:
+      assess line placement s/p pull back                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, [**3391-6-18**].
+     
+     HISTORY:  56-year-old man with respiratory failure and sepsis.  Readjustment
+     of line.
+     
+     FINDINGS:  Comparison is made to the prior study performed two hours earlier.
+     
+     The right-sided central venous catheter has been pulled back slightly and the
+     tip is now at the cavoatrial junction.  There is a feeding tube, which is
+     unchanged in position.  There are low lung volumes with bibasilar subsegmental
+     atelectasis.  No pneumothoraces are seen.
+                                                                           
+
+",,
+8915,17012,39263,,3391-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-18**] 5:43 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11719**]
+     Reason: assess line placement s/p pull back                         
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                 56 year old man with resp failure [**2-10**] end stage liver disease,     
+      aspiration    pneumonia. s/p line placement and pull back
+     REASON FOR THIS EXAMINATION:
+      assess line placement s/p pull back                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, [**3391-6-18**].
+     
+     HISTORY:  56-year-old man with respiratory failure and sepsis.  Readjustment
+     of line.
+     
+     FINDINGS:  Comparison is made to the prior study performed two hours earlier.
+     
+     The right-sided central venous catheter has been pulled back slightly and the
+     tip is now at the cavoatrial junction.  There is a feeding tube, which is
+     unchanged in position.  There are low lung volumes with bibasilar subsegmental
+     atelectasis.  No pneumothoraces are seen.
+                                                                           
+
+",,
+8915,17012,39263,,3391-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-18**] 4:36 PM
+     CHEST PORT. LINE PLACEMENT                                      Clip # [**Clip Number (Radiology) 11718**]
+     Reason: placement of new right sc tlcl                              
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                56 year old man with resp failure [**2-10**] end stage liver disease,    
+      aspiration    pneumonia.
+     REASON FOR THIS EXAMINATION:
+      placement of new right sc tlcl                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Line placement.
+     
+     FINDINGS:  Comparison is made to the previous study from [**3391-6-16**].
+     
+     A feeding tube whose distal tip is not included on the study.  Previously, the
+     tip was looped and pointing cephalad near the gastroesophageal junction. There
+     is a new right-sided central venous catheter whose distal tip is in the mid to
+     lower right atrium and could be pulled back for more optimal placement.
+     Cardiac silhouette and mediastinum within normal limits.  There is markedly
+     low lung volumes.  There is some streaky density seen within the left base
+     which is most likely subsegmental atelectasis.  No pneumothoraces are
+     identified.
+     
+     
+
+",,
+8915,17012,39263,,3391-06-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-18**] 3:16 PM
+     C-SPINE FLEX AND EXT ONLY 2 VIEWS; SPINAL FLUORO WITHOUT RADIOLOGIST PORTClip # [**Telephone/Fax (1) 11717**]
+     Reason: r/o listhesis/ligamentous injury                            
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56 year old man with s/p fall, neg MRI, in C-collar x 2 weeks                   
+     REASON FOR THIS EXAMINATION:
+      r/o listhesis/ligamentous injury                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CERVICAL SPINE FLUOROSCOPY FROM [**3391-6-18**]
+     
+     INDICATION:  Rule out listhesis or ligamentous injury in a 56-year-old male.
+     
+     TECHNIQUE:  Two lateral fluoroscopic images of the cervical spine in flexion
+     and extension are submitted for interpretation on [**3391-6-23**].  Image
+     quality is very limited, due to lack of coning of the fluoroscopic image.
+     
+     FINDINGS:  C2 through C5 are visualized on these images.  C1-C2 articulation
+     is seen only on the extension view.  During flexion, there is minimal
+     straightening of the cervical lordosis.  No evidence of anterolisthesis is
+     present.  There is a nasogastric tube overlying the anterior spinal tissues.
+     
+     IMPRESSION:  Limited visualization of the cervical spine showing minimal
+     straightening of the lordosis during flexion, without evidence of
+     anterolisthesis.  The lower cervical spine is not visualized, due to
+     obscuration by the patient's shoulders.
+     
+
+",,
+8915,17012,39263,0,3391-06-18 03:45:00 EST,3391-06-18 03:58:00 EST,3885,"N",54,"Nursing/Other","npn 1900-0700","
+npn 1900-0700
+
+No changes overnight.
+
+neuro: Pt is axox2-not oriented to place. PERL, follows commands, MAE. Denies pain. [**Location (un) 204**] J collar in place. Did not [**Doctor Last Name 5**] at all tonite, or last night.
+
+resp: Sats 97% on RA. Productive cough. LS coarse and diminished at bases.
+
+cv: SR in the 80-90's. BP 120/500-60.
+
+access: L radial aline and R sc tlc.
+
+gi/gu: Abdomen with ascites and prominent umbilical hernia. TF was held since 0100. Dobhoff in place. Patent foley in place with u/o 10-25cc/h of clear, amber urine. Mushroom cath in place with liquid stool; pt is receiving lactulose.
+
+id: afebrile.
+
+endo: Insulin gtt with BS q1h.
+
+skin: Please see carevue.
+
+social: Wife called last evening.
+
+Plan: When mental status becomes clearer: speech and swallow eval, clear neck so collar can be removed.
+      Follow crit which has been trending down 21.7 last evening, now pending.
+      Ethics is consulting and will arrange a multi-disciplinary meeting to formulate plan of care.
+      IR to place a tunnelled dialysis catheter and then start CVVH.
+",,
+8915,17012,39263,0,3391-06-18 16:24:00 EST,3391-06-18 16:36:00 EST,3239,"N",54,"Nursing/Other","MICU 7 NSG 7A-7P","
+MICU 7 NSG 7A-7P
+RESP--PT REMAINS ON RA, SATS >95%. DENIES RESP DISTRESS.
+
+CV--HR 70-80'S SR NO ECTOPY NOTED. BP VIA POSITIONAL LEFT READ ALINE STABLE. RIGHT SC TLCL CHANGED OVER WIRE AND WILL BE D/C'D IN AM AFTER NEW 3 LUMEN HD LINE PLACED. ATTEMPTED TO PLACE PIV AND ONLY ABLE TO PLACE 1 #22G PIV, IV TEAM ALSO UNSUCCESFUL. PT WITH POS FUNGAL CX FROM CENTRAL LINE. RECEIVED 1 DOSE PO FLUCONAZOLE AND TO BEGIN CASPOFUNGIN WHEN DOSE AVAILABLE. HCT 21.7 THIS AM, ORDERED FRO 2U PC'S., WILL TRANSFUSE WHEN AVAILABLE. 
+
+NEURO--FLUORO OF C-SPINE DONE AT BEDSIDE AND SPINE CLEARED, C-COLLAR REMOVED. PT REMAINS ALERT, ORIENTED X1-2. REMAINS RESTRAINED FOR SAFETY, AS ATTEMPTING TO PULL AT FEEDING TUBE AND TRYING TO GET OOB ON OWN. 
+
+GI--TF RESTARTED, NEPRO AT 45CC/HR. PT ORDERED FOR QID LACTULOSE, STOOLING VIA MUSHROOM CATH OB NEG LIQUID STOOL. ABD DISTENDED DUE TO ASCITES.SCLERA WHITE, NO JAUNDICE NOTED. NA 147, AND REPEAT 146 THIS PM, ORDERED FOR FREE H2O BOLUS 400CC QID. INSULION GTT D/C'D AND STARTED ON SSREG. 
+
+RENAL--PLANS FOR HD IN AM AFTER LINE PLACEMENT. U/O VIA FOLEY CATH 10-30CC/HR.
+
+SOCIAL--RECEIVED PHONE CALLS FROM WIFE AND DAUGHTER, BOTH UPDATED OVER PHONE.
+
+PLAN--TRANSFUSE 2U PC'S, POST TRANSFUSION HCT
+--FREE H2O BOLUS FOR HIGH NA
+--HD LINE TO BE PLACED IN AM, AND D/C' TLCL
+--CASPOFUNGIN FOR NEW FUNGEMIA
+",,
+8915,17012,39263,,3391-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-19**] 2:08 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11721**]
+     Reason: S/P line                                                    
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                   56 year old man with resp failure [**2-10**] end stage liver disease,     
+        aspiration    pneumonia. s/p NGT placement. 
+     REASON FOR THIS EXAMINATION:
+      S/P line                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Central line placement, [**3391-6-19**].
+     
+     HISTORY: 56-year-old man with respiratory failure and end-stage liver disease.
+     Status post placement of line.
+     
+     FINDINGS:  There is a nasogastric tube whose tip and side port are in the
+     stomach.  There is a right-sided IJ Cordis with distal tip in the mid SVC.
+     There is a right-sided subclavian central line with the distal tip at the
+     cavoatrial junction.  Heart size and mediastinum are within normal limits.
+     There is again seen low lung volumes with atelectasis at the bases.  The left
+     lateral chest wall has been cut off from the study.
+     
+     
+     
+
+",,
+8915,17012,39263,,3391-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-19**] 9:51 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11720**]
+     Reason: eval placement.                                             
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                  56 year old man with resp failure [**2-10**] end stage liver disease,      
+      aspiration    pneumonia. s/p NGT placement. 
+     REASON FOR THIS EXAMINATION:
+      eval placement.                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  AP chest.
+     
+     HISTORY:  56-year-old man respiratory failure and endstage liver disease.
+     Evaluate for placement of nasogastric tube.
+     
+     FINDINGS:  There has been removal of the Dobbhoff tube and there has been
+     placement of a nasogastric tube.  The distal tip is not well seen, however, it
+     is well below the gastroesophageal junction.  The upper lung fields are not
+     included on the study.  There are persistent low lung volumes with vascular
+     crowding and subsegmental atelectasis at the bases.
+     
+     
+
+",,
+8915,17012,39263,,3391-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-19**] 3:34 PM
+     RENAL U.S. PORT                                                 Clip # [**Clip Number (Radiology) 11722**]
+     Reason: eval for [**Female First Name (un) 10087**] collections in kidney bilat                
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      56M liver failure, renal failure, now candidemia, candiduria.                   
+     REASON FOR THIS EXAMINATION:
+      eval for [**Female First Name (un) 10087**] collections in kidney bilat                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  56-year-old male with liver failure, renal failure and now with
+     candidemia with concern for kidney infection.
+     
+     RENAL ULTRASOUND:  The right kidney measures 10.9 cm and the left kidney
+     measures 9.9 cm.  There is no evidence of renal mass, stones, or
+     hydronephrosis.  No perinephric fluid collection is identified.  No abscess is
+     visualized.
+     
+     IMPRESSION:  No perinephric fluid collection or abscess identified.
+                                                                           
+
+",,
+8915,17012,39263,,3391-06-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3391-6-19**] 2:08 PM
+     CHEST PORT. LINE PLACEMENT; -76 BY SAME PHYSICIAN               [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 11721**]
+     Reason: S/P line                                                    
+     Admitting Diagnosis: ALTERED MENTAL STATUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+                   56 year old man with resp failure [**2-10**] end stage liver disease,     
+        aspiration    pneumonia. s/p NGT placement. 
+     REASON FOR THIS EXAMINATION:
+      S/P line                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     STUDY:  Central line placement, [**3391-6-19**].
+     
+     HISTORY: 56-year-old man with respiratory failure and end-stage liver disease.
+     Status post placement of line.
+     
+     FINDINGS:  There is a nasogastric tube whose tip and side port are in the
+     stomach.  There is a right-sided IJ Cordis with distal tip in the mid SVC.
+     There is a right-sided subclavian central line with the distal tip at the
+     cavoatrial junction.  Heart size and mediastinum are within normal limits.
+     There is again seen low lung volumes with atelectasis at the bases.  The left
+     lateral chest wall has been cut off from the study.
+     
+     
+     
+
+",,
+8915,17012,39263,0,3391-06-19 04:04:00 EST,3391-06-19 04:12:00 EST,4027,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVRIONMENT SECURED FOR SAFETY.
+
+NEURO:  PT ALERT AND ORIENTED X 2- NEEDS REORIENTATION TO TIME AND PLACE.  SPEECH A BIT GARBLED.  CONFUSED AT TIMES.  ABLE TO EXPRESS APPROPRIATELY IF UNCOMFORTABLE OR IN PAIN- IS CURRENTLY NEITHER.  PERRLA, 3/BRISK.  MAE X 4- VERY RESTLESS IN THE BED.  DID NOT [**Doctor Last Name **] TONIGHT.  AFEBRILE.  NO SEIZURE ACTIVITY NOTED.
+
+RR:  RA.  BBS= ESSENTIALLY CLEAR AND DIMINISHED TO BILATERAL BASES.  BILATERAL CHEST EXPANSION NOTED.  RR- 15-20.  NO C/O SOB OR DIFFICULTY BREATHING.  NO INCREASED WOB NOTED OR USE OF ACCESORY MUSCLES NOTED.  SP02 > OR = TO 95%.
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NSR, HR 70'S WITH NO SIGNS OF ECOTPY NOTED.  SBP > OR = TO 100 WITH NO HYPER OR HYPOTENSIVE CRISIS NOTED.  BILATERAL DORSALIS AND RADIAL PULSES PALPATED.  DENIES ANY CHEST PAIN.  
+
+GI:  ABD IS DISTENDED- ASCITES.  BS X 4 QUADRANTS.  PASSING FLATUS.  PT PULLED OUT HIS [**Name6 (MD) **] [**Name8 (MD) 6329**] MD MADE AWARE.  HAS NOT RECEIVED ANY OF HIS PO MEDS.  NPO SINCE MIDNIGHT.  MUSHROOM CATHETER IS SECURE AND PATENT.  LIQUID, BROWN STOOL NOTED.  
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT. CLEAR, YELLOW URINE AVG 20CC/HR.  PT TO HAVE DIALYSIS LINE INSERTION TODAY.
+
+INTEG:  MULTIPLE AREAS OF ECCHYMOSIS, DUODERM INTACT TO COCCYX AND UPPER BACK FROM WHERE C-COLLAR HAD BEEN.
+
+SOCIAL:  WIFE CALLED IN FOR UPDATE.  NO ISSUES.
+
+PLAN:  HD CATHETER INSERTION TODAY.  WILL NEED TO REPLACE [**Name8 (MD) **].  SPEECH AND SWALLOW.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION AS NEEDED.  THANK [**Doctor First Name **]!
+",,
+8915,17012,39263,1,3391-06-19 15:51:00 EST,3391-06-19 17:32:00 EST,3239,"Y",54,"Nursing/Other","MICU 7 NSG 7A-7PM","
+MICU 7 NSG 7A-7PM
+addendum--free h20 bolus d/c'd. will recheck na in am. 
+",,
+8915,17012,39263,0,3391-06-19 15:51:00 EST,3391-06-19 16:04:00 EST,3239,"N",54,"Nursing/Other","MICU 7 NSG 7A-7PM","
+MICU 7 NSG 7A-7PM
+RESP--PPT CONTS ON RA. PT WITH CONGESTED COUGH AND UNABLE TO CLEAR SECRETIONS. NTS FOR MOD AMOUNTS TENACIOUS TAN ANS YELLOW SECRETIONS. 
+
+CV--ALINE AND RIGHT TLCL D/C'D AND TIPS SENT FOR CX. NEW RIGHT IJ VIP HD LINE PLACED, PLACEMENT CONFIRMED. PT REMAINS IN SR 70-80'S, NO ECTOPY NOTED. BLD CX X1 SENT FROM NEW LINE. 
+
+GI--NGT INSERTED AND FILM DONE TO CONFIRM PLACEMENT. TUBE OK'D FOR USE. NEPRO TF RESTARTED AT 45CC/HR. PARACENTESIS DONE AND 10L REMOVED, PT TO RECEIVE 2 DOSE ALBUMIN 50GM IV IN ADDITION TO ROUTINE DOSE. RENAL US DONE, RESUTLS PENDING. RECTAL MUSHROOM CATH REMAINS IN PLACE DRAINIGN LIQUID BROWN OB NEG STOOL. NA 149 THIS AM AD FREE H20 BOLUS' RESUMED. 
+
+GU--FOLEY CAHT CHANGED TO TO YEAST IN URINE, PT NOW WITH MILD HEMATURIA. U/O 10-20CC/HR. HD TREATMENT STARTED THIS PM. 
+
+NEURO--PT ORIENTED X1 AND AT TIMES SPEECH TO GARBLED TO UNDERSTAND ANSWERS. PT SUCTIONED AS ABOVE, HAVING DIFF CLEARING SECRETIONS.  PT REMAINS RESTRAINED FOR SAFETY AS MAKES ATTEMPTS AT PULLING AT IV/NGT/FOLEY. 
+
+SOCIAL--RECEIVED PHONE CALL FROM WIFE.
+
+PLAN--FREE H2O BOLUS F/U NA IN AM
+--? HD TOMORROW
+--ADDITONAL ALBUMEN DOSE THIS EVENING
+--
+
+",,
+8915,17012,39263,,3391-06-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8915,17012,39263,0,3391-06-20 03:58:00 EST,3391-06-20 04:18:00 EST,4027,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+THIS IS A 56 Y/O M WITH ALCOHOLIC CIRRHOSIS CURRENTLY WITH ENCEPHALOPATHY, ASCITES AND ESOPHAGEAL VARICES.  PT INITIALLY CAME TO [**Location (un) **] IN LATE MAY FOR LIVER TRANSPLANT EVALUATION.  HE REPORTEDLY FORGOT HIS LACTULOSE AT HOME AND SOON AFTER ARRIVAL IN MA- HE DEVELOPED CONFUSION.  PRESENTED TO [**Hospital1 22**] ON [**6-1**] AND WAS INTUBATED IN THE ED FOR AIRWAY PROTECTION.  CXR SIGNIFICANT FOR ASPIRATION PNA- PT EVENTUALLY EXTUBATED ON [**6-16**]- HOSPITAL COURSE COMPLICATED BY PROGRESSIVE DETERIORATING OF RENAL FUNCTION- SEVERAL PARACENTESIS PERFORMED- LAST ONE ON [**5-19**]- REMOVED 10L (10,000CC). QUESTION OF SPINAL CORD COMPRESION AT C4/C5 AND C5/C6- NEUROSURG CLEARED.  CURRENTLY BEING WORKED UP FOR LIVER TRANSPLANT.  BLOOD CULTURES SIGNIFICANT FOR FUNGEMIA- BEING FOLLOWED BY ID AS WELL.  CONTINUES ON LACTULOSE FOR WORSENING ENCEPHALOPATHY.
+
+NEURO:  PT WAXES AND WANES BETWEEN BEING ALERT AND ORIENTED X 1- TO HAVING GARBLED SPEECH AND CONFUSION.  PT HAS NOT SLEPT IN THREE DAYS- THIS IS THE FIRST NIGHT HE HAS SLEPT UNINTERRUPTED FOR APPROXIMATELY 4 HOURS.  WAKES UP TO VOICE AND INTERMITTENTLY FOLLOWS COMMANDS.  PT RECEIVED ONE DOSE OF 5MG HALDOL FOR PERIOD OF AGITATION.  PT HAS BEEN A SAFETY RISK AS HE ACTIVELY ATTEMPTS TO GET OUT OF BED.  CURRENTLY HAS BILATERAL WRIST RESTRAINTS AND A MITT TO LT HAND AS HE HAS PULLE DOUT A TOTAL OF 3 NGT.  ALSO ATTEMPTS TO PULL AT DIALYSIS LINE.  PERRLA, 3/BRISK.  AFEBRILE.  NO SEIZURE ACTIVITY NOTED.  
+
+RR:  INITIALLY PT ON RA- CURRENTLY ON 40% OFM.  RR 15-20, NO SIGNS OF INCREASED WOB OR USE OF ACCESSORY MUSCLES- PT HAS IMPAIRED GAG REFLEX AND IS UNABLE TO CLEAR OUT HIS SECRETIONS- NGT SUCTION FOR SCANT-SMALL, VERY THICK YELLOW, BLOOD TINGED SECRETIONS. BILATERAL CHEST EXPANSION NOTED.  SP02  > OR = TO 95%.  
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NSR, HR 60-70'S WITH NO SIGNS OF ECOTPY NOTED.  SBP > OR = TO 100 WITH NO HYPER OR HYPOTENSIVE EPISODE NOTED.  PALPABLE PULSES NOTED TO BILATERAL DORSALIS AND RADIALS.  DENIES ANY CHEST PAIN.  
+
+GI:  ABD IS MUCH SMALLER SINCE TAP- REMAINS DISTENDED- BUT MUCH SOFTER TO PALPATION.  BS X 4 QUADRANTS.  PT HAS FLUID COLLECTION BAG AT TAP SITE- SANGUNIOUS DRAINAGE NOTED.  PASSING FLATUS.  LACTOLUSE DOSAGE INCREASED TO Q 2 HOURS.  MUSHROOM CATH IS SECURE AND PATENT. BROWN, LIQUID STOOL NOTED IN ADEQUATE AMOUNTS.  NGT IS SECURE AND PATENT.  PROPER POSITIONING VERIFIED WITH AUSCULTATION OF 30CC/AIR.  RECEIVING NEPOR AT GOAL RATE OF 45CC/HR.  NO GASTRIC RESIDUALS NOTED.
+
+GU:  INDWELLING FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, AMBER URINE NOTED AVG 10-20CC/HR. RECEIVED DIALYSIS [**5-19**] (NO FLUID REMOVAL).
+
+SOCIAL:  DAUGHTER AND WIFE CALLED IN FOR UPDATE.  NO QUESTIONS.  
+
+INTEG: MULTIPLE AREAS OF BREAKDOWN- DUODERM SEUCRE AND INTACT TO COCCYX AND TO CERVICAL AREA WHERE HE HAS SOME BREAKDOWN FORM C-COLLAR. MULTIPLE AREAS OF ECCHYMOSIS.  SEVERAL SKIN TEARS AND SCABS TO EXTREMITIES.
+
+PLAN:  
+",,
+8915,17012,39263,0,3391-06-20 03:59:00 EST,3391-06-20 04:18:00 EST,4027,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+(Continued)
+MONITOR NEURO STATUS.  VERY TENUOUS RESPIRATORY STATUS.  CONTINUE Q 2 HOUR LACTULOSE.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]!   
+",,
+8915,17012,39263,0,3391-06-20 15:18:00 EST,3391-06-20 15:36:00 EST,4284,"N",54,"Nursing/Other",,"
+
+Nsg Progress Note  0700-1900
+
+CV - Afebrile.  BP stable - had a couple of dips to 90's systolic during dialysis but otherwise stable.  HR 90's NSR - no ectopy.  IVF at KVO.
+
+Resp - Continues of face tent for humidity.  Strong non prod cough.  Maintaining O2 sats throughout the day.  No c/o SOB.  BS course upper and cl at bases.
+
+GI - Tolerating TF's well.  Restarted q3 hours free H2O bolus' for high Na.  Pt did recieve dialysis today and labs pending - may need to re evaluate need for free h20 after Na level checked.  Continues on q2hours lactulose with mushroom cath draining mod to large amt golden liquid stool.  Abd is soft.  Tap site continues to drain serosang fluid.
+
+GU - foley cath draining marg amt cl yellow urine.  Dialysis done today and will be done again tomorrow and then proceed to every other day.
+
+Endocrine - Continues on RISS and has been requiring coverage with reg insulin.
+
+ID - afebrile - Continuing on antibiotics - no changes made today.
+
+Neuro - Pt more alert but still has tremors.  Attempting to communicate more - sometimes he can make himself clear and is able to get his words out = other times, he is unable to complete a sentence.  He is able to nod his head appropriately.  He moves all extremities but is very weak. Pt was medicated x1 with haldol for agitation with some relief.  Pt has been restrained all day to prevent him from pulling at lines.
+
+Social - Daughter has called but is not coming in because she is sick.  Wife was in visiting against advise.  She has the flu so she was required to mask, glove and gown while visiting patient.  She did leave and was encouraged not to return today due to her illness. Wife did call for update and is very upset about pt's condition.  Would recommend getting social work more involved so wife feels she has more support systems to contact.
+",,
+8915,17012,39263,0,3391-06-21 04:59:00 EST,3391-06-21 05:22:00 EST,4273,"N",54,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+Review of systems:
+
+Neuro: Pt was able to [**Doctor Last Name 5**] overnight for several hrs after rec'ing Haldol 5mg @ 2300 for restlessness. When awake, mumbles incoherently with rare approp words. Denies pain consistantly. MAE, esp purposeful movements of R arm. Soft wrist restraints in place bilat, [**University/College **] on L hand as well, for pt safety.
+
+Resp: O2 sat 100% on 50% FT. RR 16-21 and regular, noted to have rare [**Doctor Last Name 5**] apnea. Lung snds coarse in upper airways, clearer @ bases. Gag impaired->absent. Cough strong but unable to completely raise secretions which must be suctionned from back of throat. Pt unable to cough on command.
+
+CV: HR 69-104SR without VEA. BP 102/61-125/71. AM labs include K+ 3.3(3.8), Hct 26.6(28.7), INR 1.5, Na 146. Pt cont to receive 400ml free water boluses Q3hrs. Lactulose ordered for Q2hrs held after MN as pt with continuous liquid stool.
+
+GI: TF of Nepro cont @ goal of 45ml/hr via GT. Abd remains very distended/soft with + bowel snds. Mushroom cath drained 1150ml loose golden stool this shift. 
+
+GU: Pt with total 40ml amber urine this shift. LOS fluid balance +14.5liters. AM BUN/creat 68/4.3. Pt to have dialysis today, and QOD after that.
+
+Endo: FSG 317-164, covered by SSI. 
+
+Social: No contact with family overnight.
+
+Plan: Dialysis today. Hold Lactulose until diarrhea slows. ? Insulin qtt if FSG remains elevated.
+",,
+8915,17012,39263,0,3391-06-21 14:24:00 EST,3391-06-21 14:42:00 EST,3871,"N",54,"Nursing/Other",,"
+
+neuro: eyes open spontaneously and follows simple commands. difficult to understand pt [**2-10**] garbled speech (rare appropriate words noted). denies pain or discomfort. cough/gag impaired. +perrla noted. pupils dilated this afternoon [**2-10**] eye exam at bedside.
+cv: monitor shows nsr-st with no ectopy noted. 
+resp: ls coarse/diminished bibasilar. fio2 weaned to off. no sob or resp distress noted. +nonprod cough noted. 
+gi: abd soft and distended with +ascites. +bs noted. tf's @ goal with minimal residuals noted. free water flushes 400 cc's q3hr. mushroom cathter intact and patent draining loose golden stool. held lactulose per parameters of >1000 cc/d.
+gu: foley intact and patent draining scant amts amber colored urine with no sedimentation noted. received dialysis today, however unable to remove fluid [**2-10**] marginal bp.
+skin: duoderm to coccyx and upper back c/d/i.
+endo: remains on fingersticks q6hr with riss...scale tightened [**2-10**] ^ bs's.
+i-d: afebrile. remains on caspofungin for fungemia. eye exam at bedside with no evidence of fungal lesions per note in chart. 
+heme: 1600 na not sent [**2-10**] pt currently being dialysed. will send 2 hr after completion.
+psy-soc: wife called x2 and updated on status and plan of care. c/o to medical floor awaiting bed availability. remains full code. 
+",,
+8915,17012,39263,0,3391-06-22 04:41:00 EST,3391-06-22 04:59:00 EST,4273,"N",54,"Nursing/Other","Nursing Progress Note 1900-0700","
+Nursing Progress Note 1900-0700
+Review of Systems:
+
+Neuro: Pt able to [**Doctor Last Name 5**] much of night. Answering questions approp more freq than previou noc. Stated that he ""hurt all over"", tx'd with repositioning.
+
+Resp: O2 sat 95-98% on RA with RR 17-22 and regular. Lung snds coarse, diminished @ bases. Occas strong cough productive of thick white secretions. Pt cont to have difficulty fully raising sputum, requiring suctionning of back of throat. Gag remains impaired.
+
+CV: HR 91-110SR without VEA. BP 93/69-107/79. AM labs include Hct stable @ 27.8, K+ 3.5, Mg 1.7. 
+
+GI: TF of Nepro cont at goal 45ml/hr via NGT with scant residuals. Pt also rec'ing 400ml free water Q3hrs. Na 141. Abd remains distended/soft with + bowel snds. Mushroom cath draining small amt loose golden stool. Approx [**1-10**] Lactulose ordered (Q2hrs) given, with goal ~1000ml/day stool.
+
+GU: Scant amts amber urine via foley. LOS fluid balance +19 liters this am. BUN/creat 46/3.3.
+
+ID: Afebrile. AM WBC 9.3(7.8).
+
+Endo: FSG @ MN 287 despite tightened sliding scale.
+
+Social: Wife called and would like feeding tube removed and pt made CMO. Dgtr visited and feels pt should cont to receive full tx. MD spoke with both, and encouraged them to speak with one another. 
+
+Plan: Family mtg with ethics moderating to be scheduled. Pt called out to floor when bed available. Dialysis tomorrow.
+",,
+8915,17012,39263,0,3391-06-23 03:44:00 EST,3391-06-23 04:34:00 EST,5715,"N",54,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700 HOURS:","
+NURSING PROGRESS NOTE 1900-0700 HOURS:
+** DNR/DNI
+
+** ALLERGY: NKDA
+
+** ACCESS: RIGHT IJ DIALYSIS CATH WITH EXTRA PORT
+
+IN BRIEF: PT IS A 56YO MALE WITH PMH: CHF, DM, ETOH, HTN, LIVER FAILURE, RENAL FAILURE, ALCOHOLIC CIRRHOSIS, ESOPHAGEAL VARICES, GOUT, GERD.  PRESENTED WITH MS CHANGES. ONE DAY PRIOR TO ADMIT TO HOSPITAL-FLEW IN FROM [**State **] TO VE EVAL BY LIVER TRANSPLANT.  UPON ARRIVAL TO MASS-PT SEEMED CONFUSED, N/V AND TROUBLE WALKING. ENCEPHALOPATHIC AND INTUBATED. TREATEMENT OF HEPATORENAL FAILURE. C/B ASP PNA-PROLONGED EXTUBATION-BUT SUCCESSFULLY EXTUBATED LAST WEEK-THOUGH RESP STATUS HAS BEEN TENUOUS AT TIMES. 
+
+NEURO: PT IS ALERT AND APPEARS TO UNDERSTAND AS HE CAN FOLLOW COMMANDS AND AT TIMES NODS YES AND NO.  BUT, UTTERS WORDS THAT ARE INCOMPREHENSIBLE. ALSO EXHIBITS SHAKING/TREMULOUS TYPE FACIAL MOVEMENTS WHICH ARE APPARENTLY NOT NEW. PEARL AT 3MM/BRISK. ABLE TO MOVE ALL EXT'S. RESTRAINTS IN PLACE FOR SAFETY. GENERALIZED WEAKNESS. 
+
+CARDIAC: HR 90'S. SR-ST WITH NO ECTOPY. SBP >100, MAP >60.  AM LEABS PENDING. K REPLETED OVERNIGHT PER TEAM DESPITE RENAL PT-ESSENTIALLY ANURIC AND HAS BEEN GETTING DAILY DIALYSIS. 
+
+RESP: RA WITH O2 SATS >94%.  LUNGS DIMINISHED WITH SOME RHONCHI.  NEEDS ENCOURAGEMENT TO COUGH AND DEEP BREATH. IMPAIRED/ABSENT GAG. DOES COUGH UP SOME CLEAR SPUTUM-ASSIST WITH YANKEUR BUT COUGH IS WEAK. 
+
+GI/GU: ABD GROSSLY DISTENDED-ASCITES. PUNCTURE SITES FROM TAPS AND PROTRUDING BELLY BUTTON. NEPRO AT GOAL OF 45CC/HR-TOL WELL WITH ONLY MINIMAL RESIDUALS. DECREASED FW ORDER-NA STILL ELEVATED. PT RECEIVING LACTULOSE WITH GOAL OF 1LITER STOOL OUT A DAY-GOAL MET FOR 24 HOURS AT MIDNIGHT. POS DISTANT BS. RECTAL CATH IN PLACE. FOLEY DC'D ON EVES [**6-22**]-ANURIC.  
+
+ID: AFEBRILE WBC PENDING. 
+
+ENDO: FS WITH S.S. COVERAGE AS ORDERED. 
+
+PSYCHOSOCIAL: PT'S WIFE CALLED OVERNIGHT-UPDATED. WAS REPORTED THAT DAUGHTER AND WIFE HAVE OPPOSING VIEWS ON OVERALL POC AND PROGNOSIS.  STAFF KEEPING FAMILY UPDATED. 
+
+DISPO: FAMILY MEETING WITH ETHICS TO BE SCHEDULED.  PT IS A C/O TO FLOOR-WHEN BED AVAILABLE. TRANSFER NOTE WRITTEN BY DAYSHIFT [**6-22**].  PLAN FOR HD QOD NOW. CONT MED REGIMEN AND ICU SUPPORTIVE CARE. 
+
+
+                
+
+",,
+8915,17012,39263,0,3391-06-23 17:03:00 EST,3391-06-23 17:12:00 EST,8114,"N",54,"Nursing/Other",,"
+
+Nursing Note 7A-7P:
+
+Patient was dialysed today, 2 L removed. Spouse visited, was updated by MD. Spouse was tearful during visit, stating that she no longer wanted her husband to receive HD, but after speaking to MD, stated that she wished to continue everything. Daughter called and was updated by RN, plans to visit this evening. Patient has transfer order and a bed, transfer note is complete, awaiting transfer orders.
+
+Neuro: alert, nods to quest, follows commands. attempts to speak result in incomprhensable sounds. Tremor of jaw and hands continue. 
+
+Resp: Lung sounds clear to diminished on room air. Congested cough.
+
+Card: NSR-ST no ectopy noted.
+
+GI: Nepro @ goal of 45cc/hr via NGT. residuals low 0-5cc. Abdomen distended w/ ascites, +BS heard.
+
+GU: Anuric, HD. Dialysis cath RIJ intact, pigtail available to med admin.
+",,

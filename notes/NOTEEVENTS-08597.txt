@@ -1,0 +1,715 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8597,,,,3371-03-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3371-3-11**] 10:36 PM
+     ABDOMEN (SUPINE ONLY) PORT                                      Clip # [**Clip Number (Radiology) 9262**]
+     Reason: r/o obstruction                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with N/V since this AM, decreased colostomy output, no bowel 
+      sounds
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Nausea and vomiting since this morning, decreased colostomy
+     output, no bowel sounds.  Evaluate for obstruction. Additional history of
+     pancreatic cancer provided by referring clinician at the time of
+     interpretation.
+     
+     TECHNIQUE: Single AP portable supine view of the abdomen.
+     
+     FINDINGS: There is marked gaseous distention of the stomach, and a paucity of
+     bowel gas throughout the remainder of the abdomen.  An ostomy appliance is
+     seen in the right mid abdomen.  An IVC filter is in place. The visualized
+     portions of the lung bases appear unremarkable.  The surrounding osseous
+     structures appear unremarkable.
+     
+     IMPRESSION: Gaseous distention of the stomach with a paucity of bowel gas
+     elsewhere in the abdomen, nonspecific findings which could indicate gastric
+     outlet obstruction or bowel obstruction.  These findings were discussed with
+     the surgical resident at the time of interpretation.
+     
+
+",,
+8597,,,,3371-03-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3371-3-12**] 1:44 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9263**]
+     CT RECONSTRUCTION
+     Reason: 84 yo male with SBO in setting of stage 4 panc cancer s/p lo
+     Admitting Diagnosis: BOWEL OBSTRUCTION,PANCREATIC CANCER
+     Field of view: 44
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      84 yo male with SBO in setting of stage 4 panc cancer s/p loop colostomy last 
+      year. Now reccurent bowel obstruction. Evalaute for level of obstruction and 
+      the ?likely? mass causeing it.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient with ?bowel obstruction. Patient known to have stage IV
+     pancreatic carcinoma.
+     
+     TECHNIQUE: Axial multidetector CT acquisitions of the abdomen and pelvis were
+     acquired. No IV contrast was used due to possible remote history of allergy.
+     Oral contrast was administered.
+     
+     COMPARISON:[**3370-11-19**]
+     
+     CT OF LUNG BASES: At least three large pleural-based lesions are identified,
+     worrisome for metastasis. Inflammatory changes are identified.
+     
+     Some epicardial lymph nodes are identified.
+     
+     CT ABDOMEN AND PELVIS: A loop colostomy is in situ. Patient's stomach is
+     dilated. Contrast is seen to run from the stomach all the way through to the
+     stoma meaning that there is no complete obstruction. There is an increase in
+     soft tissue surrounding the duodenum and pancreas extending from T2 close to
+     T3/T4. An air-filled focus here likely represents a duodenal diverticulum.
+     Spleen appears normal in size. Note is made of massively enlarged
+     gastroepiploic vein, indicating probably splenic vein thrombosis, although in
+     this noncontrast study this is uncertain. Adrenal glands appear normal. Some
+     vascular calcifications are identified in the kidneys. Kidneys otherwise
+     appear normal. There is at least one filter if not two filters within the
+     inferior vena cava. Vascular calcifications are seen.
+     
+     CT PELVIS WITH CONTRAST: Prostatomegaly is seen. Contrast is identified within
+     the redundant distal colon which probably related to remote study. A catheter
+     is within the patient's bladder. Scattered ascites is seen. In addition, there
+     is generalized evidence of some mesenteric stranding and thickening as well as
+     some omental stranding and thickening, some of which is more confluent and
+     solid looking suggestive of caking.
+     
+     When compared to previous examination, there has been little interval change.
+     The amount of ascites has increased. The previous study had IV contrast on
+     board and shows the omental lesions more convincingly to represent tumor
+     deposit.
+                                                                 (Over)
+
+     DATE: [**3371-3-12**] 1:44 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9263**]
+     CT RECONSTRUCTION
+     Reason: 84 yo male with SBO in setting of stage 4 panc cancer s/p lo
+     Admitting Diagnosis: BOWEL OBSTRUCTION,PANCREATIC CANCER
+     Field of view: 44
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CONCLUSION:
+     No evidence of obstruction. Extensive intraperitoneal carcinomatosis as
+     described. Of note, the patient has a dilated gastroepiploic vein and while
+     this does not interfere with the upper part of the stomach, if percutaneous
+     gastrostomy is being considered it should be noterd that this vein does run
+     along the anteroinferior surface of the stomach. Please see image 23 and 24.
+     
+     
+     
+
+",,
+8597,,,,3371-03-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3371-3-12**] 1:44 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9263**]
+     CT RECONSTRUCTION
+     Reason: 84 yo male with SBO in setting of stage 4 panc cancer s/p lo
+     Admitting Diagnosis: BOWEL OBSTRUCTION,PANCREATIC CANCER
+     Field of view: 44
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      84 yo male with SBO in setting of stage 4 panc cancer s/p loop colostomy last 
+      year. Now reccurent bowel obstruction. Evalaute for level of obstruction and 
+      the ?likely? mass causeing it.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient with ?bowel obstruction. Patient known to have stage IV
+     pancreatic carcinoma.
+     
+     TECHNIQUE: Axial multidetector CT acquisitions of the abdomen and pelvis were
+     acquired. No IV contrast was used due to possible remote history of allergy.
+     Oral contrast was administered.
+     
+     COMPARISON:[**3370-11-19**]
+     
+     CT OF LUNG BASES: At least three large pleural-based lesions are identified,
+     worrisome for metastasis. Inflammatory changes are identified.
+     
+     Some epicardial lymph nodes are identified.
+     
+     CT ABDOMEN AND PELVIS: A loop colostomy is in situ. Patient's stomach is
+     dilated. Contrast is seen to run from the stomach all the way through to the
+     stoma meaning that there is no complete obstruction. There is an increase in
+     soft tissue surrounding the duodenum and pancreas extending from T2 close to
+     T3/T4. An air-filled focus here likely represents a duodenal diverticulum.
+     Spleen appears normal in size. Note is made of massively enlarged
+     gastroepiploic vein, indicating probably splenic vein thrombosis, although in
+     this noncontrast study this is uncertain. Adrenal glands appear normal. Some
+     vascular calcifications are identified in the kidneys. Kidneys otherwise
+     appear normal. There is at least one filter if not two filters within the
+     inferior vena cava. Vascular calcifications are seen.
+     
+     CT PELVIS WITH CONTRAST: Prostatomegaly is seen. Contrast is identified within
+     the redundant distal colon which probably related to remote study. A catheter
+     is within the patient's bladder. Scattered ascites is seen. In addition, there
+     is generalized evidence of some mesenteric stranding and thickening as well as
+     some omental stranding and thickening, some of which is more confluent and
+     solid looking suggestive of caking.
+     
+     When compared to previous examination, there has been little interval change.
+     The amount of ascites has increased. The previous study had IV contrast on
+     board and shows the omental lesions more convincingly to represent tumor
+     deposit.
+                                                                 (Over)
+
+     DATE: [**3371-3-12**] 1:44 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9263**]
+     CT RECONSTRUCTION
+     Reason: 84 yo male with SBO in setting of stage 4 panc cancer s/p lo
+     Admitting Diagnosis: BOWEL OBSTRUCTION,PANCREATIC CANCER
+     Field of view: 44
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CONCLUSION:
+     No evidence of obstruction. Extensive intraperitoneal carcinomatosis as
+     described. Of note, the patient has a dilated gastroepiploic vein and while
+     this does not interfere with the upper part of the stomach, if percutaneous
+     gastrostomy is being considered it should be noterd that this vein does run
+     along the anteroinferior surface of the stomach. Please see image 23 and 24.
+     
+     
+     
+
+",,
+8597,,,,3371-03-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3371-3-12**] 1:44 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9263**]
+     CT RECONSTRUCTION
+     Reason: 84 yo male with SBO in setting of stage 4 panc cancer s/p lo
+     Admitting Diagnosis: BOWEL OBSTRUCTION,PANCREATIC CANCER
+     Field of view: 44
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      84 yo male with SBO in setting of stage 4 panc cancer s/p loop colostomy last 
+      year. Now reccurent bowel obstruction. Evalaute for level of obstruction and 
+      the ?likely? mass causeing it.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient with ?bowel obstruction. Patient known to have stage IV
+     pancreatic carcinoma.
+     
+     TECHNIQUE: Axial multidetector CT acquisitions of the abdomen and pelvis were
+     acquired. No IV contrast was used due to possible remote history of allergy.
+     Oral contrast was administered.
+     
+     COMPARISON:[**3370-11-19**]
+     
+     CT OF LUNG BASES: At least three large pleural-based lesions are identified,
+     worrisome for metastasis. Inflammatory changes are identified.
+     
+     Some epicardial lymph nodes are identified.
+     
+     CT ABDOMEN AND PELVIS: A loop colostomy is in situ. Patient's stomach is
+     dilated. Contrast is seen to run from the stomach all the way through to the
+     stoma meaning that there is no complete obstruction. There is an increase in
+     soft tissue surrounding the duodenum and pancreas extending from T2 close to
+     T3/T4. An air-filled focus here likely represents a duodenal diverticulum.
+     Spleen appears normal in size. Note is made of massively enlarged
+     gastroepiploic vein, indicating probably splenic vein thrombosis, although in
+     this noncontrast study this is uncertain. Adrenal glands appear normal. Some
+     vascular calcifications are identified in the kidneys. Kidneys otherwise
+     appear normal. There is at least one filter if not two filters within the
+     inferior vena cava. Vascular calcifications are seen.
+     
+     CT PELVIS WITH CONTRAST: Prostatomegaly is seen. Contrast is identified within
+     the redundant distal colon which probably related to remote study. A catheter
+     is within the patient's bladder. Scattered ascites is seen. In addition, there
+     is generalized evidence of some mesenteric stranding and thickening as well as
+     some omental stranding and thickening, some of which is more confluent and
+     solid looking suggestive of caking.
+     
+     When compared to previous examination, there has been little interval change.
+     The amount of ascites has increased. The previous study had IV contrast on
+     board and shows the omental lesions more convincingly to represent tumor
+     deposit.
+                                                                 (Over)
+
+     DATE: [**3371-3-12**] 1:44 PM
+     CT ABDOMEN W/O CONTRAST; CT PELVIS W/O CONTRAST                 Clip # [**Clip Number (Radiology) 9263**]
+     CT RECONSTRUCTION
+     Reason: 84 yo male with SBO in setting of stage 4 panc cancer s/p lo
+     Admitting Diagnosis: BOWEL OBSTRUCTION,PANCREATIC CANCER
+     Field of view: 44
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CONCLUSION:
+     No evidence of obstruction. Extensive intraperitoneal carcinomatosis as
+     described. Of note, the patient has a dilated gastroepiploic vein and while
+     this does not interfere with the upper part of the stomach, if percutaneous
+     gastrostomy is being considered it should be noterd that this vein does run
+     along the anteroinferior surface of the stomach. Please see image 23 and 24.
+     
+     
+     
+
+",,
+8597,5775,,,3371-03-22 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3371-3-22**]              Discharge Date:   [**3371-3-28**]
+ 
+Date of Birth:  [**3286-11-9**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Heparin Agents / Fish Product Derivatives / Keflex / Iodine; 
+Iodine Containing / Penicillins
+ 
+Attending:[**First Name3 (LF) 11952**] 
+Chief Complaint:
+Black stool in ostomy bag.
+ 
+Major Surgical or Invasive Procedure:
+EGD on [**3371-3-23**].
+
+ 
+History of Present Illness:
+The pt. is an 84 year-old gentleman with a history of metastatic 
+pancreatic cancer, hypertension, diabetes mellitus and PE/DVT on 
+anticoagulation who presented to the ED complaining of black 
+stool in his colostomy bag. 
+He noted that he had been having loose bowel movements/diarrhea 
+which were black in color.  At the time of admission, he denied 
+abdominal pain, nausea, vomiting, fever, chills, shortness of 
+breath, palpitations, dizziness or lightheadedness, or chest 
+pain. He noted that he has had difficulty swallowing recently 
+and had one episode of ""dry heaves"" on the morning of admission. 
+
+
+In the ED, he was found to have guaiac positive black stool in 
+his ostomy bag. An NG tube was placed and was lavaged resulting 
+in  bright red blood that was unable to clear with saline.  He 
+was admitted to the MICU for presumed upper GI bleed.
+ 
+Past Medical History:
+1. Metastatic pancreatic Ca- diagnosed [**8-22**] with omental biopsy 
+during ex-lap and decompressible colostomy. Now with extensive 
+intraperitoneal carcinomatosis-- palliative chemo(gemcitabine) 
+has been deferred by patient over last few months  
+2. hx of SBO- medically managed last admission  
+3. splenic vein thrombosis with varices  
+4. hx DVT/PE, s/p IVC filter in [**3363**]  
+5. HIT  
+6. benign colon polyps  
+7. HTN- on metoprolol  
+8. DM- on oral agents  
+9. PVD- s/p left lower extremity bypass surgery in [**3363**]  
+10.post-op Afib temporarily on amio- self d/c'd in 9/04  
+11.hypothyroidism  
+ 
+Social History:
+The pt. is a retired chef. He is married, lives with wife. 
+Denies tobacco or illicit drug use;  occasional EtOH in past, 
+none recently. He is originally from Venice,[**Country 1727**] and moved to 
+the United States at age 14.  
+
+ 
+Family History:
+Father died of cardiac disease. Mother had breast cancer. One 
+sibling, a brother with gastric cancer.  
+
+ 
+Physical Exam:
+Vitals: T: 96.5F P: 100(83-101) R: 19 BP: 131/52 (92-144/70-85) 
+SaO2: 98% RA
+General: Awake, alert, NAD.
+HEENT: NC/AT, PERRL, EOMI without nystagmus, no scleral icterus 
+noted, MMM, no lesions noted in OP
+Neck: supple, no JVD or carotid bruits appreciated
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: tachycardic, RR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or 
+organomegaly noted, ostomy in RUQ with brown stool.
+Extremities: No C/C/E bilaterally, 2+ radial, DP and PT pulses 
+b/l.
+Lymphatics: No cervical, supraclavicular, axillary or inguinal 
+lymphadenopathy noted.
+Skin: no rashes or lesions noted.
+Neurologic:
+-mental status: Alert, oriented x 3.  Able to relate history 
+without difficulty.
+-cranial nerves: II-XII intact
+-motor: normal bulk, strength and tone throughout. No abnormal 
+movements noted.
+-sensory: No deficits to light touch, pinprick, vibration or 
+proprioception throughout.
+-cerebellar: No nystagmus, dysarthria, intention or action 
+tremor, dysdiadochokinesia noted. FNF and HKS WNL bilaterally.
+-DTRs: 2+ biceps, triceps, brachioradialis, patellar and ankle 
+jerks bilaterally. Plantar response was flexor bilaterally.
+ 
+Pertinent Results:
+Studies at admission:
+EKG: NSR at 80bpm, q's in III and aVF with poor voltage 
+inferiorly, no ST/Twave changes from prior EKG  
+
+KUB: Nitinol filter. There is an NG tube with tip in the 
+stomach. There is barium contrast in the rectum. No dilated 
+loops of small bowel are seen. There is no unknown specific 
+small bowel gas pattern. There is a small amount of air in the 
+cecum and descending colon.  
+
+Labs on admission:
+
+[**3371-3-22**] 01:00PM BLOOD WBC-5.3 RBC-4.23* Hgb-11.7* Hct-33.7* 
+MCV-80* MCH-27.7 MCHC-34.8 RDW-16.3* Plt Ct-220#
+[**3371-3-22**] 01:00PM BLOOD PT-20.7* PTT-30.1 INR(PT)-2.7
+[**3371-3-22**] 01:00PM BLOOD Glucose-141* UreaN-32* Creat-1.2 Na-138 
+K-4.2 Cl-100 HCO3-28 AnGap-14
+[**3371-3-22**] 01:00PM BLOOD Calcium-9.2 Phos-3.5 Mg-1.6
+
+Labs on discharge:
+
+[**3371-3-28**] 05:10AM BLOOD Hct-29.4*
+ 
+Brief Hospital Course:
+1.Upper GI bleed: Shortly after admission, the gastroenterology 
+service performed an EGD.  This showed gastric fundal variceal 
+bleeding with large blood clot in the fundus and abnormal mucosa 
+in the stomach. He was given 4U FFP, 2U PRBC, 10mg SC Vitamin K, 
+started on IV octreotide, and BID IV PPI on arrival.  He 
+remained on an octreotide drip for five days. His hematocrits 
+were cycled roughly q8hours and were noted to be stable. He was 
+maintained on a PPI bid.  He had no further episodes of melena.  
+He was discharged on p.o. protonix b.i.d. and instructed to 
+discontinue coumadin for fear of a repeat episode of 
+gastrointestinal bleeding.
+
+2. HTN: The pt's blood pressure was stable for the duration of 
+the hospital stay.  He was restarted on metoprolol on hospital 
+day four.
+
+3. DM2: He was initially managed with a sliding scale of regular 
+insulin.  Once he began to take p.o., glipizide was 
+re-introduced.
+
+4. Hypothyroidism: The pt. was maintained on levothyroxine.
+
+ 
+Medications on Admission:
+1. Levoxyl 25 mcg once a day.  
+2. Glipizide 5 mg once a day.  
+3. Coumadin 2.5 mg every other day.  
+4. Metoprolol Tartrate 25 mg Tablet BID.  
+ 
+Discharge Medications:
+1. Glipizide 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+2. Levothyroxine Sodium 25 mcg Tablet Sig: One (1) Tablet PO 
+DAILY (Daily).  
+3. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: 
+One (1) Tablet, Delayed Release (E.C.) PO Q12H (every 12 hours).
+Disp:*60 Tablet, Delayed Release (E.C.)(s)* Refills:*2*
+4. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO twice 
+a day.  
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+-upper gastrointestinal bleed, likely from gastric varices
+-pancreatic cancer
+-hypertension
+-hypothyroidism
+-type 2 diabetes mellitus
+ 
+Discharge Condition:
+Stable.
+ 
+Discharge Instructions:
+Please continue to take all of your medications as prescribed.  
+[**Doctor First Name 10**] should no longer take coumadin (warfarin).  Also, note that 
+[**Doctor First Name **] have been placed on a new medication called protonix.  If 
+[**Doctor First Name **] experience any further episodes of abdominal pain, black 
+stool, bloody vomit, chest pain, shortness of breath or any 
+other symptoms that are concerning to [**Doctor First Name **], please call your 
+primary care doctor or come to the emergency department for 
+urgent evaluation.
+ 
+Followup Instructions:
+Provider: [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], MD [**MD Number 105**]: [**Hospital6 106**] 
+HEMATOLOGY/ONCOLOGY Phone:[**Telephone/Fax (1) 647**] Date/Time:[**3371-4-4**] 2:30
+
+Please call Dr. [**Last Name (STitle) 1775**]' office at [**Telephone/Fax (1) 6925**] to schedule a 
+follow-up appointment at a time convenient for [**Doctor First Name **] within the 
+next 7-10 days.
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 11953**] MD [**MD Number 4664**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2378**] MD [**MD Number 2379**] [**3371-3-29**] @ 0758
+Signed electronically by: DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 4663**] [**Location (un) **]
+ on: WED [**3371-6-12**] 11:05 AM
+(End of Report)
+
+
+",,
+8597,5775,,,3371-03-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3371-3-22**] 3:13 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 9264**]
+     Reason: assess for bowel obstruction                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with decreased osotmy output and abd distension refusing CT     
+     REASON FOR THIS EXAMINATION:
+      assess for bowel obstruction                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 84-year-old male with decreased ostomy output and abdominal
+     distention. Patient is refusing CT.
+     
+     COMPARISON: Comparison is made to [**3371-3-11**].
+     
+     TECHNIQUE: AP single view of the abdomen on supine view.
+     
+     FINDINGS: There is [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 4317**]-Nitinol filter. There is an NG tube with tip in the
+     stomach. There is barium contrast in the rectum most likely from remote barium
+     study.  No dilated loops of small bowel are seen. There is non-specific small
+     bowel gas pattern. There is a small amount of air in the cecum and descending
+     colon.
+
+",,
+8597,5775,10705,0,3371-03-23 05:15:00 EST,3371-03-23 05:36:00 EST,2421,"N",69,"Nursing/Other",,"
+
+npn 7p-7a (see also carevuew flownotes for objective data)
+
+dx: GIB
+
+med hx: pancreat CA, s/p colect [**9-22**]; HIT; DVT/PE, s/p IVC filter--coumadin; htn; DM; PVD; a-fib;
+
+Pt w/ [**2-21**] day hx dysphagia, and recent hospitalization for obstruction syndrome; presented again [**3-22**] w/ dysphagia and nausea; also noted to have dark stool in colostomy;
+  ngt in ER--return of 3 l frank blood, anti-coagulation reversed w/ 2 units FFP, Vit K, received 1 unit PRBC's;
+
+admitted to MICU-A approx 18:30, had bedside endoscopy approx 19:00; pt received total of 75 mcgs fentanyl, 3 mgs versed; tolerated procedure well--vss, no episodes of hypotension or apnea or de-sats; 
+
+received 2n unit PRBC's last eve; 22:00 hct 29.6, 03:30 hct 27.6--pt also received IVF's of NS at 200 cc/hr overnight;  
+
+very little dark liquid stool output as of 05:30; no n/v;
+currently pt on PPI, also octreotide gtt at 25 mcg/hr; 
+
+wife and relatives in to visit last eve at approx 21:00;
+
+ASSESSMENT:
+stable overnight, asympt of active bleed
+
+PLAN: 
+1) serial hcts
+2) protonix
+3) octreotide
+4) IVF's
+
+further plan per a.m. rounds
+",,
+8597,5775,10705,0,3371-03-23 17:17:00 EST,3371-03-23 17:30:00 EST,2776,"N",69,"Nursing/Other","MICU nursing progress note 7A-7P","
+MICU nursing progress note 7A-7P
+Pt remains hemodynamically stable. Discussion with team and pt and his wife re:code status. Pt wishes to remain full code at this time. 
+
+Neuro - A&O x 3. MAE, remains on bedrest. Denies pain.
+
+Resp - Lungs clear, diminished at bases. Sats 100% 2L NC. RR 16-22.
+
+CV - Remains hemodynamically stable. BP 96-121/36-53. NSR 89-104, occ PVCs but less so since 2 Gm MagSO4 infused. Occ in bigeminy/trigeminy. NS @ 100/hr when blood not transfusing. No edema. 
+
+GI - NPO. Abd soft, distended. No stool in colostomy. Denies N/V/abd discomfort. Serial Hcts q 4 hrs. Hct 25.8 @ 8:30. Tx 1 UPRBC with f/u Hct 31. Will recheck Hct at 19:00. No S/S bleeding. INR 1.8. Frequent mouth swabs. Protonix and octreotide gtt.
+
+GU - UOP 22-60cc/hr via foley. Pt is ~2L positive so far today.
+
+Skin - Slight excoriation on coccyx. Positioned side->side with aloe to coccyx. 
+
+Access - PIV x 3.
+
+Social - Wife in to visit, discussion with team as above. 
+
+Plan - Serial Hct q 4 hrs, monitor for S/S GIB. NPO, ? advance to clears tomorrow if no further bleeding. IVF, may need increased rate if UOP tapers off, ? still dehydrated. If pt rebleeds, angio for red tag. 
+
+
+",,
+8597,5775,10705,0,3371-03-24 05:15:00 EST,3371-03-24 05:31:00 EST,5861,"N",69,"Nursing/Other",,"
+
+Events: Uneventful night for Mr [**Known patient lastname 5994**]. 
+
+Neuro: A+Ox3, pleasant/cooperative. MAE, no c/o pain, able to participate in care. 
+
+Resp: Lung sounds diminished throughout. O2 sats high 90's on 1L O2 via n/c. 
+
+Cardiac: SR with Tri/bigeminy frequently during shift. electrolytes wnl. B/P wnl, HR tachycardic in low 100's throughout shift. 
+
+Heme: HCT slowly trending down during shift. At 0200 HCT 27.7. Will recheck at 0600. Will transfuse if HCT is <25. 
+
+GI: Guiac + watery stool via colostomy x2 this shift. Hypoactive bowel sounds. Abd soft nontender. Sandostatin continues at 25 mcg/hr. No c/o nausea/vomit this shift. NPO blood sugars unremarkable 
+
+GU: voiding 20-80cc/hr amber urine via foley. BUN 32  Cr 1.1  NS continues at 100cc/hr. 
+
+Derm: Grossly intact. Coxxyx pink. repositioned frequently barrier cream applied. PIV x3 patent 
+
+Plan: Continue with Q4hr HCT checks, transfuse prbc's if <25, Monitor HR and rhythm (pt has hx of afib) resume anticoagulation once HCT stabilizes. full code. 
+
+
+
+
+",,
+8597,5775,10705,0,3371-03-24 16:31:00 EST,3371-03-24 16:53:00 EST,2776,"N",69,"Nursing/Other","MICU nursing progress note 7A-7P","
+MICU nursing progress note 7A-7P
+Pt and his wife had [**Name2 (NI) 5995**] discussion with Dr [**Last Name (STitle) 1135**] e: medical prognosis and pts wishes for medical management. Pt wishes to be DNR/DNI and to continue medical management for now. DNR/DNI order written.
+
+Neuro - A&O x 3. MAE, remains on bedrest. Denies abd pain but says his belly feels ""lousy"" as it often does off/on. 
+
+Resp - Lungs clear, diminished. Sats 99-100% 1L NC.
+
+CV - Hemodynamically stable. BP 99-138/38-56. NSR 79-100, frequent PVCs. Serial Hcts are slowly increasing, last Hct 29.7. Next Hct due at 1800. No S/S bleeding. NS @ 100cc/hr cont. 
+
+GI - Abd soft, distended. +BS. Minimal liquid maroon stool in colostomy  bag. NPO. FSBS WNL, no coverage needed. 
+
+GU - UOP 30-40cc amber clear urine. 
+
+Social - Wife at bedside all afternoon.
+
+Plan - Serial Hcts q 8 hrs, next due 1800. Monitor for further bleeding. Palliative care consult. Pt is DNR/DNI.
+
+
+
+",,
+8597,5775,10705,0,3371-03-25 06:24:00 EST,3371-03-25 06:33:00 EST,5861,"N",69,"Nursing/Other",,"
+
+Events: Uneventful night for Mr [**Known patient lastname 5994**]
+
+Neuro: A+O, mae, follows commands, pleasant/cooperative, slept on and off during night. C/O dull pain in L abd particularly when positioned on that side. 
+
+Resp: O2 sats in high 90's on 1L n/c. Lung sounds clear in apices and diminished in bases
+
+Cardiac: frequent pvc's continue, Electrolytes this am wnl, B/P 120-130's/50-60's. Occasional tachycardia to low 100's. No c/o cp or sob. 
+
+Heme: HCT at o200 28.3. Next due at 10. Pt is HIT +
+
+GI: No bm this shift. positive bowel sounds. abd soft/distended. Diet increased to clear liqs today. Blood sugars unremarkable. Octreotide at 25mcg/hr continues
+
+GU: Voiding adequate amts of yellow urine via foley. BUN 28  Cr 1.1 NS at 100cc/hr running via peripheral IV
+
+Derm: PIV x3 patent. Coxxyx pink with no skin breaks barrier cream applied. Colostomy site benign. 
+
+
+Plan: Continue to cycle HCT, palliative care following, advance diet to clr liqs. DNR/DNI  Possible tx to floor. 
+
+",,
+8597,5775,,,3371-03-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3371-3-26**] 2:08 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 9265**]
+     Reason: Any evidence of bowel obstruction?                          
+     Admitting Diagnosis: GASTROINTESTINAL BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with h/o SBO now with inc. distention.                          
+     REASON FOR THIS EXAMINATION:
+      Any evidence of bowel obstruction?                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  An 84-year-old man with history of small-bowel obstruction, now with
+     increasing distention.
+     
+     ABDOMEN, THREE VIEWS:  There has been interval removal of the NG tube.  The
+     stomach is air filled and distended.  There is a single loop of dilated small
+     bowel measuring 4.2 cm.  No air fluid levels are seen.  Again, seen are a
+     right upper quadrant ostomy and [**Doctor Last Name 4317**] nitinol IVC filter.  Retained barium in
+     the rectum remains.  Osseous structures are unchanged.
+     
+     IMPRESSION:
+     
+     1.  Distended, air filled stomach.
+     2.  Single loop of dilated small bowel, without air fluid levels.  No definite
+     evidence of obstruction.
+                                                                           
+
+",,
+8597,,,,3371-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3371-5-16**] 10:20 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 9266**]
+     Reason: r/o obstruction                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       84 year old man with metastatic pancr Ca, h/o SBO, now p/w FTT, cannot 
+      tolerate POs.
+     REASON FOR THIS EXAMINATION:
+      r/o obstruction                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  84-year-old man with metastatic pancreatic cancer and history of
+     small-bowel obstruction, now with failure to thrive.
+     
+     COMPARISON:  [**3371-3-26**].
+     
+     SUPINE AND UPRIGHT ABDOMEN:  The stomach is air filled.  There are dilated
+     loops of small bowel without air-fluid level seen.  There is a paucity of air
+     within the colon.  Retained barium is again noted in the rectum.  Right upper
+     quadrant ostomy and IVC filter are again noted.
+     
+     IMPRESSION:  Dilated loops of small bowel in a nonspecific pattern. 
+     Small-bowel obstruction cannot be excluded.
+                                                                           
+
+",,
+8597,,,,3371-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3371-5-17**] 1:54 PM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 9267**]
+     Reason: eval for DVT                                                
+     Admitting Diagnosis: FAILURE TO THRIVE;PANCREATIC CANCER
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      84 year old man with pancreatic CA, noted to have assymetric swelling in R leg  
+     REASON FOR THIS EXAMINATION:
+      eval for DVT                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pancreatic cancer, noted to have asymmetric leg swelling.
+     
+     Grayscale, color, and pulsed Doppler examination of the right and left common
+     femoral, superficial femoral, and popliteal veins was performed.  There is
+     thrombus extending from the right proximal superficial femoral vein to the
+     right popliteal vein and into a right calf vein.  This right sided
+     thrombus appears to be occlusive from the level of the mid superficial
+     femoral vein to the right popliteal vein.  There is thrombus extending from
+     the left distal superficial femoral vein to the left popliteal vein through to
+     the left calf veins.  The left- sided thrombus appears to be partially
+     occlusive from the level of the distal superficial femoral vein to the
+     popliteal vein.
+     
+     IMPRESSION:  Bilateral lower extremity DVTs as described above.
+     
+     The above was conveyed to Dr. [**First Name4 (NamePattern1) 1440**] [**Last Name (NamePattern1) 9268**] at 3:50 p.m. on [**3371-5-17**].
+
+",,

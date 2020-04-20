@@ -1,0 +1,1760 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8815,29403,,,3141-06-27 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3141-6-27**]              Discharge Date:   [**3141-7-14**]
+ 
+Date of Birth:  [**3071-10-21**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ivp Dye, Iodine Containing
+ 
+Attending:[**First Name3 (LF) 2946**] 
+Chief Complaint:
+chest pain
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+cardiac catheterization
+pericardiocentesis
+pericardial drain placement
+
+ 
+History of Present Illness:
+69 yo with metastatic cancer to lung, with unknown primary had 
+chemo today and then developed acure onset of chest pain at 2 am 
+that woke her from [**Doctor Last Name 314**], described as [**7-4**] with diaphoresis, 
+nausea and SOB with STE inferiorly and laterally she notes that 
+it was simlar to her previous episodes of CP that she has had in 
+the past, but never had an MI.  She still had CP on arrival to 
+ED and was taken to cath lab directly after head CT neg for 
+bleed or mass effect with concern for mets.  She was started on 
+nitro, heparin and integrillin gtt. Cath with normal coronaries 
+except 40%ostial LCX, elevated right and left heart pressures 
+and low cardiac output, thought to have pericarditis.  Currently 
+she feels alright, pain is gone, but it comes and goes.  She 
+hasn't noticed a difference or improvement with NTG.  She had 
+started her first dose of chemo today as well, and notes she has 
+been losing some weight, but otherwise denies any URI, 
+f/c/sweats/SOB besides with the pain or pain anywhere else.
+*****
+Briefly, 69yo woman with h/o HTN, hyperlipidemia, DM2, bladder 
+CA, metastatic lung cancer who had chemo on DOA with 
+carboplatin/gemcytobene, then developed acute onset chest pain, 
+SOB that woke her from [**Doctor Last Name 314**], found to have pericarditis with 
+pericardial effusion but no tamponade. A head CT was neg for 
+bleed or mass effect but with concern for metastatic disease. 
+She was taken to cath lab for concern about MI, had no flow 
+limiting lesions (40%ostial LCX), evidence of left heart 
+diastolic dysfunction and moderate pulmonary HTN with increased 
+right sided filling pressures. Also had a TTE ([**3141-6-27**]) that 
+showed normal regional left ventricular wall motion, 
+hyperdynamic LV (EF>75%), and a small pericardial effusion that 
+was stable on repeat TTE ([**3141-6-29**]). 
+.
+Over the weekend, the patient had acute worsening of her 
+shortness of breath in the setting of receiving a blood 
+transfusion for her anemia, with chest xray revealing pulmonary 
+edema consistent with a flash from her known hypertrophic 
+cardiomyopathy. Also of note, the patient developed cough 
+productive of copious yellow sputum, and given her 
+immunosuppression from chemotherapy as well as the CTA findings, 
+was started on Ceftaz/Flagyl and diuresed with Lasix. The CTA 
+showed: no PE, multiple pulmonary nodules c/w metastases, 
+multiple pleural-based metastases with adjacent invasion into 
+the ribs, a loculated hydropneumothorax in the proximal left 
+lower lobe, compressive atelectasis or consolidation in the left 
+lower lobe, a loculated pleural fluid collection in the 
+posterior left base, and a small to moderate pericardial 
+effusion. In talking with her Oncologist, Dr. [**Last Name (STitle) 12272**] at [**Hospital 9881**], the CMed resident confirmed that most of these findings 
+were not new. The Oncologist did not feel that a transfer to DF 
+was warranted as it seemed the patient might be able to be 
+discharged soon from [**Hospital1 83**].
+.
+Since undergoing diuresis and starting on Ceftaz/Flagyl, the 
+patient's shortness of breath has improved dramatically, and her 
+sputum production has decreased as well. Of note, she is also 
+developing pancytopenia but has remained afebrile with ANC 1000 
+today. She also has a climbing sodium concentration and BUN/Cr 
+ratio, taking in only tube feeds and occassion ice.
+
+ 
+Past Medical History:
+metastatic ca with mets to lung, unknown primary s/p chemo two 
+cycles, but with esophageal mass s/p PEG [**3141-5-28**]
+bladder ca s/p urostomy 1980's
+type II diabetes mellitus
+hypertension
+hyperlipidemia
+ 
+Social History:
+lives with her daughter, son-in-law
+no [**Name2 (NI) **], etoh, illicits
+ 
+Family History:
+non-contributory
+ 
+Physical Exam:
+VS: P 91  BP 127/66 Sat 93%on 2LNC
+GEN aao, lethargic, in nad
+HEENT PERRL, MMM, clear OP, Right IJ triple lumen in place
+CHEST CTAB no crackles
+CV RRR no murmurs
+ABD Soft NT/ND, +BS
+EXT trace LE edema
+ 
+Pertinent Results:
+[**3141-6-27**] 03:15AM   HYPOCHROM-3+ ANISOCYT-1+ POIKILOCY-NORMAL 
+MACROCYT-NORMAL MICROCYT-3+ POLYCHROM-NORMAL OVALOCYT-OCCASIONAL 
+TARGET-OCCASIONAL PENCIL-OCCASIONAL
+[**3141-6-27**] 03:15AM   NEUTS-85.7* BANDS-0 LYMPHS-12.8* MONOS-1.3* 
+EOS-0.1 BASOS-0
+[**3141-6-27**] 03:15AM   WBC-5.3 RBC-3.86* HGB-8.8* HCT-28.8* MCV-75* 
+MCH-22.7* MCHC-30.4* RDW-21.0*
+[**3141-6-27**] 03:15AM   CK-MB-NotDone cTropnT-0.01
+[**3141-6-27**] 03:15AM   CK(CPK)-31
+[**3141-6-27**] 03:15AM   GLUCOSE-153* UREA N-33* CREAT-1.1 SODIUM-141 
+POTASSIUM-5.0 CHLORIDE-109* TOTAL CO2-18* ANION GAP-19
+[**3141-6-27**] 04:20AM   PT-13.7* PTT-23.2 INR(PT)-1.3
+[**3141-6-27**] 05:55AM   HGB-7.5* calcHCT-23 O2 SAT-94
+[**3141-6-27**] 05:55AM   K+-4.1
+[**3141-6-27**] 05:55AM   TYPE-ART PO2-71* PCO2-32* PH-7.35 TOTAL 
+CO2-18* BASE XS--6
+[**3141-6-27**] 07:00AM   PLT COUNT-206
+[**3141-6-27**] 07:00AM   WBC-4.5 RBC-3.21* HGB-7.2* HCT-24.1* MCV-75* 
+MCH-22.4* MCHC-29.8* RDW-21.2*
+[**3141-6-27**] 07:00AM   CALCIUM-8.5 PHOSPHATE-4.5 MAGNESIUM-2.1
+[**3141-6-27**] 07:00AM   CK-MB-NotDone cTropnT-<0.01
+[**3141-6-27**] 07:00AM   GLUCOSE-131* UREA N-32* CREAT-0.9 SODIUM-142 
+POTASSIUM-4.2 CHLORIDE-112* TOTAL CO2-17* ANION GAP-17
+ 
+Brief Hospital Course:
+69 yo woman with presumed metastatic lung CA, possible 
+post-obstructive pna, transferred to the CCU with pericarditis 
+and tamponade s/p pericardial drain placement and fungemia. 
+.  
+1) Pericarditis/pericardial effusion: THis is felt to be a 
+malignant effusion from metastatic disease. She underwnet 
+pericariocentesis and pericardial drain placement on [**3141-7-9**]. 
+THoracic surgery was consulted to place a window but she was too 
+sick as there was concern for collapsing a lung during the 
+procedure and that she would not have enough lung reserve to 
+survive that. Pericardial fluid sent grew yeast. Drainage 
+diminished and the drain was pulled given infection and no 
+re-accumulation.
+.
+2) ID: She was transferred with fungemia ([**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 2061**]) on 
+voriconazole that was swtiched to caspofungin. Her blood was 
+also positive enterococcus faecium and she was started on 
+vancomycin. Her post obstructive pneumonia was treated with 
+ceftazidime and zosyn initially, then meropenum. 
+.  
+3) Hypotension: 
+She became septic with initial SVR 450. She was started on 
+vasopressin on [**7-9**] and levophed. She was pressor dependent from 
+then on.
+.  
+4) Resp:
+She had a post-obstructive pna and pleural effusion:  
+She was treated with Ceftaz/Flagyl and then meropenum. CT chest 
+showed loculated effusions that were not amenable for 
+throacentesis. She was intubated on [**7-9**] for respiratory failure 
+secondary to fatigue. The posivtive pressure helped to open 
+collapsed L lung.
+She had a bronchoscopy on [**7-8**], with no frank obstruction, 
+extrinsic compression of L lower bronchus. 
+.  
+5) Metastatic lung CA: followed by Dr. [**Last Name (STitle) 12273**] at [**Company 7414**], spoke to 
+him on [**7-9**],per records it is a squamous cell pathology, likely 
+lung. He said given poor prognosis would not favor aggressive 
+treatment.
+.  
+6) Pancytopenia:  
+-Anemia: felt to be secondary to recent chemotherapy. SHe was 
+transfused for hematocrits less than 27. 
+-Thrombocytopenia: Her platelets dropped, likely from 
+chemotherapy. Her HIT antibody was negative.    
+
+7) CV: 
+Rhythm - She was in intermittent atrial flutter, initially 
+treated with diltiazem but that was discontinued when she became 
+septic.
+
+8) Metabolic acidosis: Non anion gap, likely ARF from ATN and 
+RTA given + urine anion gap.
+
+9) Goals of care: Given her multiple organ failure and inability 
+to wean from the ventilator, and her poor prognosis with the 
+metastatic cancer, her code status was changed to DNR. After 
+several days of no improvement and continued septic picture and 
+dependence on pressors and ventilator, additinal family meetings 
+were held. She was made CMO and passed away comfortably with her 
+family at her side on [**3141-7-14**]. 
+ 
+Medications on Admission:
+ferrous sulfate
+lipitor
+macrodantin
+protonix
+folate
+B12
+MVI
+lantus
+zofran
+compazine
+lorazapam
+fentanyl
+
+ 
+Discharge Medications:
+N/A
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Metastatic cancer
+Pericadial effusion
+Sepsis
+
+ 
+Discharge Condition:
+Expired
+ 
+Discharge Instructions:
+N/A
+ 
+Followup Instructions:
+N/A
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 2948**] MD [**MD Number 2949**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 7416**] [**Last Name (NamePattern4) 7417**] MD [**MD Number 7418**] [**3141-7-16**] @ 1559
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: TUE [**3141-7-22**] 5:25 PM
+(End of Report)
+
+
+",,
+8815,29403,,,3141-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-6-27**] 3:54 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10797**]
+     Reason: eval for chf                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with cp/sob                                                   
+     REASON FOR THIS EXAMINATION:
+      eval for chf                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  69-year-old woman with chest pain and shortness of breath.
+     Evaluate for CHF.
+     
+     COMPARISONS:  No comparisons are available.
+     
+     TECHNIQUE:  AP upright single view of the chest.
+     
+     FINDINGS:  There is a right IJ central line with the tip in the right atrium.
+     The heart appears to be enlarged for technique.  There are multiple nodular
+     opacities in the lungs bilaterally consistent with metastasis in this patient
+     with known metastasis.  There are low lung volumes what limits the evaluation
+     of the lungs. Visualized osseous structures are unremarkable. There is a G-
+     tube within the region of the stomach.  There are degenerative changes of the
+     right acromioclavicular joint.
+     
+     IMPRESSION:
+     1)  Multiple lung nodules consistent with metastasis.
+     2)  Right IJ central line with the tip in the right atrium.  There is no
+     evidence of pneumothorax.
+
+",,
+8815,29403,,,3141-06-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-6-27**] 3:32 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10796**]
+     Reason: st elev mi but altered ms and known met ca, eval for lesion/
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      st elev mi but altered ms and known met ca, eval for lesion/bleed               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: FKh FRI [**3141-6-27**] 4:32 AM
+      No hemorrhage. No mass effect.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 69-year-old woman with change in mental status.  The patient
+     has an MI and will require anticoagulation.
+     
+     COMPARISONS:  No comparisons are available.
+     
+     TECHNIQUE:  CT of the head without IV contrast.
+     
+     FINDINGS:  There is no evidence of acute intracranial hemorrhage, mass effect,
+     shift of normally midline structures, major vascular territorial infarcts.
+     There are hypodensities in the periventricular white matter, particularly
+     around the posterior aspect of the lateral ventricles, left greater than
+     right.  This is probably related to chronic ischemic changes.  No obvious mass
+     effect seen. The paranasal sinuses are normally aerated.
+     
+     IMPRESSION:  No evidence of acute intracranial hemorrhage.
+
+",,
+8815,29403,,,3141-06-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-6-28**] 3:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10798**]
+     Reason: eval for flash pulmonary edema                              
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        69 year old woman with cp/sob now tachy into the 130's                        
+                               
+     REASON FOR THIS EXAMINATION:
+      eval for flash pulmonary edema                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath, tachycardia.
+     
+     Bilateral effusions with an opacity at the left base.  The heart is enlarged
+     with pulmonary vascular engorgement.  A catheter is present in the mid
+     epigastrium.  Faint pulmonary opacity is suspected in a prior chest x-ray of
+     [**3141-6-27**], difficult to confirm in today's study.  A right IJ line terminates in
+     the junction of middle and lower thirds of the SVC.
+     
+     IMPRESSION:  Congestive failure with developing density at the left base.
+                                                                           
+
+",,
+8815,29403,,,3141-06-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8815,29403,,,3141-06-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-6-29**] 11:31 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10799**]
+     Reason: eval for pna, pulm congestion                               
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with mets cancer to lung, pericarditis, with hypoxia, course 
+      breath sounds
+     REASON FOR THIS EXAMINATION:
+      eval for pna, pulm congestion                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     The heart is enlarged.  Right IJ line terminates in the right atrium.  A
+     catheter is present in the left upper quadrant of the abdomen.  There is a
+     large opacity at the left base, which is likely due to a large effusion. 
+     Vague nodular opacities are present throughout the lungs.  Sclerotic changes
+     in the lower right ribs may indicate bony metastasis.
+     
+     IMPRESSION:  No change in the chest since [**4-29**].
+                                                                           
+
+",,
+8815,29403,,,3141-06-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-6-29**] 9:24 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 10800**]
+     Reason: evaluate left lower lobe infiltrate, rule out PE            
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       69 year old woman with met CA now with tachycardia, hypoxia                    
+     REASON FOR THIS EXAMINATION:
+      evaluate left lower lobe infiltrate, rule out PE                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  A 69-year-old woman with metastatic cancer with tachycardia and
+     hypoxia.
+     
+     COMPARISONS:  No prior CT.
+     
+     TECHNIQUE:  Axial CT images of the chest were acquired without IV contrast.
+     Then, a CT angiogram of the chest with IV contrast was performed, and sagittal
+     and coronal reconstructions were also performed.
+     
+     CT OF THE CHEST WITH AND WITHOUT IV CONTRAST:  There is a central venous
+     catheter whose tip terminates in the distal SVC.  There are coronary artery
+     calcifications.  There is a percutaneous feeding tube in the stomach, not
+     fully evaluated here.
+     
+     There are multiple bilateral pleural pulmonary nodules.  These are fairly
+     dense with irregular borders and some spiculation.  These may represent foci
+     of metastatic disease, although in the appropriate clinical setting, septic
+     emboli would be a consideration.  There is no mediastinal, hilar or axial
+     lymphadenopathy although small mediastinal nodes are present, which do not
+     meet CT criteria for pathological enlargement.  There is a small to moderate
+     pericardial effusion.  The great vessels are unremarkable without evidence of
+     pulmonary embolism.
+     
+     In addition to the bilateral pulmonary nodules, there is atelectatic change at
+     the right base.  In the left lung, there is a large soft tissue mass in the
+     anterior left upper lobe, which is eroding into the adjacent rib with bony
+     destruction. There is a second site as well of pleural- based soft tissue
+     density with bony destruction of adjacent rib. These masses may stem from
+     either bony or pleural-based metastases but now span the chest wall.
+     
+     In this latter region at the left base, there is adjacent compressive
+     atelectasis or consolidation. Posteriorly at the left lung base is a loculated
+     crescentic collection of fluid surrounded by probably enhancing tissue. More
+     centrally in the left lower lobe adjacent to the hilum is an area of loculated
+     fluid and gas. This overall appearance could all be due to metastatic disease,
+     although superimposed infection is not excluded as well.
+     
+     Very limited views of the upper abdomen are unremarkable. There is some soft
+     tissue density adjacent to the stomach in the lesser sac, which could
+     represent fluid, but cannot be characterized here.
+                                                                 (Over)
+
+     DATE: [**3141-6-29**] 9:24 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 10800**]
+     Reason: evaluate left lower lobe infiltrate, rule out PE            
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     BONE WINDOWS:  Multiple left destructive bony lesions are described above.
+     There are no other suspicious lytic or blastic lesions visualized.
+     
+     CT RECONSTRUCTIONS:  Sagittal and coronal reformats confirm the axial
+     findings.
+     
+     NOTE: The patient had a history of IV contrast reaction with throat swelling
+     in the past. However, the patient was premedicated with steroids by the
+     referring team and gave informed consent for the procedure in spite of the
+     history of allergy. No allergic reaction occurred.
+     
+     IMPRESSION:
+     1.  Multiple bilateral pulmonary nodules, which probably represent metastases,
+     although the possibility of a septic emboli cannot be excluded.
+     2.  Multiple peripheral metastatic masses with destruction of adjacent ribs.
+     3.  Loculated hydropneumothorax in the proximal left lower lobe.
+     4.  Compressive atelectasis or consolidation in the left lower lobe.
+     5.  Small loculated pleural fluid collection in the posterior left base.
+     6.  Small to moderate pericardial effusion.
+     
+
+",,
+8815,29403,,,3141-06-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-6-29**] 9:24 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 10800**]
+     Reason: evaluate left lower lobe infiltrate, rule out PE            
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       69 year old woman with met CA now with tachycardia, hypoxia                    
+     REASON FOR THIS EXAMINATION:
+      evaluate left lower lobe infiltrate, rule out PE                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  A 69-year-old woman with metastatic cancer with tachycardia and
+     hypoxia.
+     
+     COMPARISONS:  No prior CT.
+     
+     TECHNIQUE:  Axial CT images of the chest were acquired without IV contrast.
+     Then, a CT angiogram of the chest with IV contrast was performed, and sagittal
+     and coronal reconstructions were also performed.
+     
+     CT OF THE CHEST WITH AND WITHOUT IV CONTRAST:  There is a central venous
+     catheter whose tip terminates in the distal SVC.  There are coronary artery
+     calcifications.  There is a percutaneous feeding tube in the stomach, not
+     fully evaluated here.
+     
+     There are multiple bilateral pleural pulmonary nodules.  These are fairly
+     dense with irregular borders and some spiculation.  These may represent foci
+     of metastatic disease, although in the appropriate clinical setting, septic
+     emboli would be a consideration.  There is no mediastinal, hilar or axial
+     lymphadenopathy although small mediastinal nodes are present, which do not
+     meet CT criteria for pathological enlargement.  There is a small to moderate
+     pericardial effusion.  The great vessels are unremarkable without evidence of
+     pulmonary embolism.
+     
+     In addition to the bilateral pulmonary nodules, there is atelectatic change at
+     the right base.  In the left lung, there is a large soft tissue mass in the
+     anterior left upper lobe, which is eroding into the adjacent rib with bony
+     destruction. There is a second site as well of pleural- based soft tissue
+     density with bony destruction of adjacent rib. These masses may stem from
+     either bony or pleural-based metastases but now span the chest wall.
+     
+     In this latter region at the left base, there is adjacent compressive
+     atelectasis or consolidation. Posteriorly at the left lung base is a loculated
+     crescentic collection of fluid surrounded by probably enhancing tissue. More
+     centrally in the left lower lobe adjacent to the hilum is an area of loculated
+     fluid and gas. This overall appearance could all be due to metastatic disease,
+     although superimposed infection is not excluded as well.
+     
+     Very limited views of the upper abdomen are unremarkable. There is some soft
+     tissue density adjacent to the stomach in the lesser sac, which could
+     represent fluid, but cannot be characterized here.
+                                                                 (Over)
+
+     DATE: [**3141-6-29**] 9:24 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 10800**]
+     Reason: evaluate left lower lobe infiltrate, rule out PE            
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     Field of view: 40 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     BONE WINDOWS:  Multiple left destructive bony lesions are described above.
+     There are no other suspicious lytic or blastic lesions visualized.
+     
+     CT RECONSTRUCTIONS:  Sagittal and coronal reformats confirm the axial
+     findings.
+     
+     NOTE: The patient had a history of IV contrast reaction with throat swelling
+     in the past. However, the patient was premedicated with steroids by the
+     referring team and gave informed consent for the procedure in spite of the
+     history of allergy. No allergic reaction occurred.
+     
+     IMPRESSION:
+     1.  Multiple bilateral pulmonary nodules, which probably represent metastases,
+     although the possibility of a septic emboli cannot be excluded.
+     2.  Multiple peripheral metastatic masses with destruction of adjacent ribs.
+     3.  Loculated hydropneumothorax in the proximal left lower lobe.
+     4.  Compressive atelectasis or consolidation in the left lower lobe.
+     5.  Small loculated pleural fluid collection in the posterior left base.
+     6.  Small to moderate pericardial effusion.
+     
+
+",,
+8815,29403,,,3141-07-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-7-3**] 8:35 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10801**]
+     Reason: r/o ptx and check for line placement.                       
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         69 year old woman with cp, sob, hypotension, s/p swan ganz cath and cordis.  
+                                                       
+     REASON FOR THIS EXAMINATION:
+      r/o ptx and check for line placement.                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post Swan-Ganz placement, evaluate for pneumothorax.
+     
+     COMPARISON:  6/5/5.
+     
+     PORTABLE AP CHEST RADIOGRAPH:  There has been interval placement of a
+     right-sided Swan-Ganz catheter with the tip positioned in the right main
+     pulmonary artery.  There is low inspiratory lung volumes, resulting in
+     crowding of the pulmonary vasculature, without overt CHF.  Left retrocardiac
+     opacity is again seen and unchanged.  The cardiac and mediastinal contours are
+     stable in appearance.  No definite pneumothorax is seen.  Soft tissue and
+     osseous structures are unchanged.
+     
+     IMPRESSION:
+     1)  Interval placement of a right-sided Swan-Ganz catheter with the tip in the
+     right main pulmonary artery.  No pneumothorax.
+     2)  Left retrocardiac and lower lobe opacities unchanged from prior exam.
+                                                                           
+
+",,
+8815,29403,10965,0,3141-07-03 17:15:00 EST,3141-07-03 17:23:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICU B Nursing Admission Note
+
+Please see FHPA for detailed history. Pt. admitted from [**Hospital Ward Name 3**] 6 with possible sepsis (fungemia), hypotension...for possible S-G catheter.. Pt. has history of metastaic cancer and has been treated with chemotherapy recently.
+
+CNS: Pt. alert, oriented and cooperative. Follows commands without difficulty. MAE's. PEARL, 3mm.
+
+CVS: B/P 90-120/syst since admission to MICU. Pt. received a total of 1500cc NS fluid boluses on [**Hospital Ward Name 3**] 6 and is currently receiving another liter. (Infusing at 300cc/hr as she only has one #22 peripheral line at this time). Heart rate 100, ST.
+
+RESP: Lungs with I and E wheezing throughout. Sats in the mid 90's on 3lnc. Pt. with strong, productive cough...expectorating thick, tan, purulent secretions. Spec sent for C and S.
+
+GI: Tube feeds of probalance infusing via G tube at 40cc/hr.
+
+GU: Urostomy present...small amount of yellow urine with sediment in baag. 
+
+ID: Initial temp of 99.4 po. 
+
+SOCIAL: Relatives accompanied pt. on transfer and are visiting. Updated by nursing.
+",,
+8815,29403,10965,,3141-07-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-7-4**] 11:53 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10802**]
+     Reason: c/o increased sob and desat                                 
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          69 year old woman with cp, sob, hypotension, s/p swan ganz cath and cordis. 
+                                                         
+     REASON FOR THIS EXAMINATION:
+      c/o increased sob and desat                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  69-year-old with chest pain, shortness of breath and
+     hypertension.  Now with increased hypoxia.
+     
+     PORTABLE SEMI-UPRIGHT CHEST:  Compared to AP upright portable chest of the
+     prior day and CTA chest of [**3141-6-29**].  Right IJ Swan-Ganz catheter unchanged in
+     position.  Catheter overlying the mid abdomen unchanged in position.  Severe
+     cardiomegaly with worsening retrocardiac opacity.  Multiple nodules are seen
+     throughout the right lung, concerning for either metastatic lesions or septic
+     emboli.  There appears to be interval worsening of overlying CHF/volume
+     overload.
+     
+     IMPRESSION:
+     1) Worsening retrocardiac opacity.
+     2) Multiple right lung nodules concerning for either metastatic lesions or
+     septic emboli.
+     3) Cardiomegaly with possible mild CHF/volume overload; correlate clincally.
+     
+     
+
+",,
+8815,29403,10965,0,3141-07-04 04:20:00 EST,3141-07-04 05:26:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+THIS IS A 69 Y/O METASTATIC NSCLCA INITIALLY ADMITTED TO CMED SERVICE ON [**3141-6-27**] AFTER SUDDEN ONSET OF CP S/P CHEMO.  ECG SIGNIFICANT FOR INFARCT AND ST ELEVATION.  PT HAD CATH AND WAS FOUND TO HAVE CLEAN CORONARY ARTERIES.  PT NOTED TO HAVE PULMONARY HYPERTENSION WITH NO TAMPONADE.  CHEST PAIN ATTRIBUTED TO PERICARDITIS.  PT DEVELOPED LLL OPACITY-WHICH WAS TREATED WITH ABX.  DEVELOPED INCREASED DYSPNEA AND HYPOXIA- TREATED WITH LASIX.  ON [**3141-6-30**], PT HAD EPISODE OF RAPID AFIB- DILTIAZEM INITIATED AND PT. CONVERTED TO NSR.  PT TX TO MICU AFTER EPISODE OF WORSENING PULMONARY EDEMA AND HYPOTENSION WITH SBP IN THE 70'S. PT TO BE EVALUATED BY CT-[**Doctor First Name **] FOR CHEST TUBE IN LIGHT OF WORSENING OF FLUID ACCUMILATION TO LEFT LUNG.
+
+PMH:  METSTATIC CA, H/O BLADDER CA S/P UROSTOMY, HTN, HYPERLIPIDEMIA, ESOPHAGEAL METS, S/P PEG, DM
+
+NEURO:  PT IS ALERT AND ORIENTED X 3.  SPEECH CLEAR, ABLE TO EXPRESS NEEDS WITHOUT DIFFICULTY.  ASSISTS WITH REPOSITIONING IN BED.  LOW GRADE TEMP OF 99.  NO C/O PAIN.  PERRLA, 3/BRISK.  NO SEIZURE ACTIVITY NOTED.  ANXIOUS AT TIMES- NEEDS CONSTANT REASSURANCE AND FULL EXPLANATIONS PRIOR TO ANY CARE GIVEN.  
+
+RR:  BBS= ESSENTIALLY COARSE THROUGHOUT ALL LUNG FIELDS- DIMINISHED TO LLL.  AT TIMES- NOTED TO HAVE TRANSIENT I/E WHEEZING.  NO C/O SOB OR DIFFICULTY BREATHING.  3L NC.  SP02 > OR = TO 95%.  BILATERAL CHEST EXPANSION NOTED.  RR 20-25.  STRONG COUGH EFFORT- PRODUCTIVE FOR FOUL SMELLING, THICK, BEIGE SECRETIONS.  
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  RECEIVED PT IN NSR WITH NO SIGNS OF ECTOPY.  AT 0500 PT STARTED HAVING BOUTS OF RAPID AFIB WITH HR TO THE 150'S.  DILTIAZEM GTT INITIATED WITH THERAPEUTIC EFFECT.  SBP > OR = TO 90 WITH NO HYPER OR HYPOTENSIVE CRISIS.  SWAN GANZ INSERTION- PT. TOLERATED WELL.  SECURED AT 45CM MARK.  WEDGING PROPERLY.  LAST WEDGE OF 12.  DPAP 30-40'S, SPAP [**11-13**]. CVP 10-12.  
+
+GI:  ABD IS SOFT, NON-DISTENDED.  PEG TUBE IS SECURE AND PATENT- TF AT GOAL RATE OF 40CC/HR.  NO GASTRIC RESIDUALS NOTED.  NO BM THIS SHIFT, PASSING FLATUS.  PT DOES NOT TOLERATE ANYTHING PO WELL- BECOMES EXTREMELY NAUSEOUS.  
+
+GU:  PT S/P UROSTOMY- COLLECTION BAG IS SECURE AND PATENT.  YELLOW URINE WITH SEDIMENT NOTED IN ADEQUATE AMOUNTS.
+
+INTEG:  NO SIGNS OF BREAKDOWN NOTED TO BACK OR BUTTOCKS.
+
+SOCIAL:  VERY LARGE INVOLVED FAMILY- 8 CHILDREN.  ICU ORIENTATION, ICU POLICIES AND VISITING HOURS REINFORCED.  ALL QUESTIONS ANSWERED.  NO ISSUES.  
+
+PLAN:  TITRATE DILT GTT AS NEEDED FOR AFIB.  CT-[**Doctor First Name **] TO EVALUATE FOR QUESTIONABLE CHEST TUBE PLACEMENT.  PAIN CONTROL.  REASSURANCE- MAINTAIN COMFORT.  PT IS A FULL CODE- PT AND FAMILY ARE ADAMANT THAT ALL AGGRESIVE CARE BE TAKEN.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]!        
+",,
+8815,29403,10965,0,3141-07-04 15:52:00 EST,3141-07-04 16:21:00 EST,2800,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+S: "" I'm glad the procedure is over with.""
+
+O: Please see flow sheet for objective data. Pt arrived from cath lab at approx 315. Pericardial drain site is C&D. Drainage bag has sm amt of serosanguanious drainage. Swan in PA via R IJ and  and swan left in RA via L femoral. L fem is C&D without evidence of hematoma. Distal pulses are palpable. CVP 7-11 and RA [**9-5**]. SBP > 100. Tele sinus rhythm since arrival. Started on po Diltiazem prior to transfer.
+
+Resp: Lungs coarse throughout. C&R tan sputum. O2 sat 93-96 on 4l NP.
+
+Neuro: Pt is alert and oriented. Able to MAE. Denies any chest pain. Conts on Fentanyl patch and MSO4 po for ongoing pain.
+
+GU/GI: Pt is NPO at present. Pt has a PEG in place for nutrition. Pt tolerates very little po intake. ABD is slightly distended with bowel sounds present. Pt with urostomy bag. Draining dark concentrated urine. Bag d/t be changed by ostomy nurse later this pm.
+
+ID: Afebrile today. Pt with known positive fungal cultures. Being treated with Voriconazole 400mg IV Q 12. Surveliance cultures to be drawn today.
+
+Social: Pt with large family husband and 8 children. Husband and 2 daughters have spoken with MD's regarding events of today.
+
+A&P:69 yo women with metastatic cancer of lung & esophagous with development of pericardial effusion which was tapped today. Pt hemodynamically stable at present. Cont to assess for further pericardial drainage. Flush catheter as needed. Restart TF of Probalance at 20ml/hr to GR of 40ml/hr. CT to evaluate for possible pericardial window.
+",,
+8815,29403,10965,0,3141-07-04 16:32:00 EST,3141-07-04 17:05:00 EST,6578,"N",1,"Nursing/Other",,"
+
+0700-1300 NPN:
+
+EVENTS- ADMIT [**6-27**] TO [**Hospital Ward Name **] 6 W/ CP, R/O MI. S/P CHEMO FOR METS TO LUNGS, SPINE, AND ESOPHAGUS. EKG SHOWED ST ELEVATION W/ INFARCT. CARDIAC CATH DONE SHOWING ELEVATED RIGHT AND LEFT FILING PRESSURES AND PULMONARY HTN. CXR= LLL OPACITY. CHEST CT= NEGATIVE PE, MULTIPLE PULMONARY NODULES CONSISTENT W/ METS. ECHO= EF 60-65%, MODERATE TO LARGE PERICARDIAL EFFUSION, RISK FOR CARDIAC TAMPONADE. ON [**Hospital Ward Name **] 6- TX W/ DILTIAZEM GTT FOR RAPID AFIB, DIURESIS, IV ABX AND IV ANTIFUNGAL FOR FUNGEMIA. BLD CX FROM CENTRAL LINE POSITIVE FOR [**Female First Name (un) **]. PT BECAME HYPOTENSIVE, SBP= 70'S- TX W/ FLUID BOLUSES. TRANSFER TO MICU [**7-3**] FOR SEPSIS W/U. SWAN-GANZ PA CATH PLACED W/ READINGS- PAWP=12, C.O.=6.1, C.I.=3.5, CVP=12. IN MICU [**7-4**]- DILTIAZEM GTT RESTARTED AT 0500 FOR RAPID AFIB, RATE AT MAX 15MG/HR. PT BECAME BRADYCARDIC, HR=38-47. DILTIAZEM GTT WEANED TO OFF. PT C/O ONSET OF SOB, LS SEVERLY DIMINSHED LEFT LOBES. PAWP=15, C.O.=3.2, C.I.=1.8. FINDINGS REPORTED TO MICU TEAM. CXR AND EKG DONE STAT, PT ASSESSED BY MICU TEAM AND CARDIO TEAM CALLED TO EVAL. PT TRANSPORTED TO CATH LAB AT APPROX 1300 FOR PERICARDIOCENTESIS R/T WORSENING EFFUSION AND POSSIBLE TAMPONADE.
+
+SYSTEMS- ALERT AND ORIENTED. ANXIOUS AT TIMES, REQUIRES REASSURANCE. MAE WELL, PERLA. C/O BACK PAIN, FENTANYL AND LIDOCAINE PATCH APPLIED AS ORDERED. FAMILY SUPPORTIVE, 8 CHILDREN. PT'S SPOUSE AND DAUGHTER [**Name (NI) 6189**] MADE AWARE OF NEED FOR PROCEDURE. NSR AT 60-90, W/ BURSTS HR 140-150'S, IN AND OUT OF RAPID AFIB. DILTIAZEM PO STARTED, GTT D/C'D AT 1100. NO C/O CP. EKG SHOWED EVIDENCE OF RECENT MI, CONTINUES W/ ST ELEVATION. NBP 94-112/40-52. AM HCT=25.1. LS= COARSE/DIM, OCCAS I/E WHEEZES. ORAL SXN FOR THICK TAN SECRETIONS. ABD SOFT/DISTENDED. HYPO BS, NO BM. PROBALANCE AT 40CC/HR VIA PEG TUBE, STOPPED AT 1130 FOR PROCEDURE. PT HAS UROSTOMY S/P BLADDER CANCER, ADEQ AMTS OF YELLOW URINE W/ SEDIMENT. PALPABLE PEDAL PULSES. TRACE PEDAL EDEMA. AFEBRILE. FS AT 1200=258, 1/2 DOSE GIVEN R/T NPO STATUS. IV ACCESS= SWAN-GANZ W/ EXTRA INFUSION PORT AND PIV LEFT FOREARM #22G. REMAINS FULL CODE.
+
+[**Hospital **] TRANSFER TO CCU RM 623 FROM CATH LAB S/P PROCEDURE. CHANGED FROM MICU TO CCU SERVICE FOR TREATMENT AND CARE. 
+",,
+8815,29403,10965,0,3141-07-05 03:39:00 EST,3141-07-05 04:02:00 EST,1722,"N",1,"Nursing/Other",,"
+
+NSG NOTE
+
+CV: REMAINS IN NSR WITH HR 76-90 CON'T ON CARDIAZEM 30 MG. NO A-FIB NOTED. CO 4.9, CI 2.71, SVR 914. PAD'S 14-20, RAP [**8-2**]. PERICARDIAL DRAIN SITE INTACT. FLUSHED X1 WITH HEPARIN PER PROTOCOL, NOW DRAINING SERSANG DRAINAGE. DSG SITE SM SANG DRAINAGE NOTED NOW STABLE. 
+
+RESP: APPEARS COMFORTABLE. RR-20'S ON 4L NP WITH SATS 93-97%. C&R THICK YELLOW SECRETIONS. BS PER FLOW SHEET.
+
+GI: CON'T ON TF VIA PEG PROBALANCE. RATE INCREASED TO 30CC/HR TOL WELL BY PT. + BS NO STOOL OVERNOC. GIVEN SENNA AND COLACE AS ORDERED. ABD SOFT.
+
+GU: CL YELLOW URINE DRAINING FROM UROSTOMY SITE. STOMA IS PINK, BAG INTACT. + FOR 24/HR 685CC
+
+SKIN: L GROIN C/D ( PA LINE SITE) PULSES BILAT DP'A 3+ ,PT 2+.
+
+ID: AFEBRILE. SURVALLIENCE CULTURES DRAWN AT 2100. ( BC AND FUNGAL ) CON'T ON CEFTAZIDIME AND VORICONAZOLE.
+
+NEURO: PLEASANT. A/O X3 FOLLOWS COMMANDS. MAE.
+
+COMFORT: RECEIVING MS04 VIA PEG. DENIES PAIN AT THIS TIME.
+
+ENDO; RECEIVED GLARGINE @ HS 14U
+
+LABS: RECHECK HCT PER ORDER 25.0
+      BS PER FLOW SHEET.
+
+A/P: 69 S/P CHEMOTHERAPY FOR MET CA TO LUNGS,SPINE AND ESOPHAGUS. PRESENTS WITH ACUTE ONSET CP EKG INF LAT ST ELEVATION. + FUNGAL INFECTION, A-FB. [**7-4**] TO CATH LAB. PERICARDIAL DRAIN PLACED. SENT TO CCU FROM MICU AND CATH LAB FOR CON'T TREATMENT. CON'T MONITOR DRAIN VSS.
+
+ADDENDUM: 0500 WHILE PT WAS COUGHING, CONVERTED TO ST ? A-FLUTTER WITH RATE 160. STABLE SBP 136/ DENIES PAIN. BROKE SPONTANEOUSLY NOW IN NSR WITH HR 98.
+",,
+8815,29403,10965,0,3141-07-05 17:06:00 EST,3141-07-05 17:29:00 EST,2800,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+S: ""How am I doing.""
+
+O: Please see flow sheet for objective data. Tele sinus rhythm with several very short runs of AF quickly resolving on their own. Started on Amiodarone 400mg TID & pt remains on Diltiazem 30mg QID. Pt denies chest pain. L fem swan dc'd by house staff. L groin is C&d without evidence of hematoma. Distal pulses palpable. Pericardial drain site is C&D. Flushed x's 2 today other wise able to aspirate and draining well. Total output for shift 150 serous drainage. HCT 24.5. Echo without change in effusion.
+
+Resp: Conts to have I/E wheezing with coarse breath sounds throughout bases. O2 sat 94-96% on 4liters. 
+
+Neuro: Pt alert and oriented cooperative with care. Pt denies any pain. Conts on Fentanyl patch Q 72 hrs changed today. MSO4 Q 4hrs changed to prn d/t ^ sedation with good pain control.
+
+GU/GI: Pt continues on TF via PEG of Probalance at GR of 40/hr. Abd is slightly distended. Conts on colace and senakott BID. Pt has h/o constipation with narcotics. Urostomy draining CYU. Pt given NS bolus 1 liter this am and 500NS bolus this pm. Urine output remains low.
+
+Social: Husband and several daughters in to visit today. Updated on POC.
+
+A&P: Pericardial effusion unchanged by echo today. To be seen by CT surgery about possible pericardial window. Cont with POC. Cont to assess pain management.
+",,
+8815,29403,10965,0,3141-07-06 04:43:00 EST,3141-07-06 05:05:00 EST,2001,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S:""I just so afraid.""
+O: See vs/objective per carevue. Low grade temp on multiple antibx for LLL infiltrate and (+) fungal growth from blood culture. 
+CV: Hr 70-80's sr with episodes of ^^ hr to 140-150's ? atrial tachycardia, also having pac's. Bp 90-100's, held 12am dilt due to a low bp. PAP 40's/ mid teens with cvp 8-12.  Pericardial drain  draining sero-sang approx 150cc for past 12hr.  Flushed multiple times with 3-4cc 1unit/cc hep, difficult to pull back fluid, had to have pt roll on r side to asp fluid. Drng bag became disconnected, new bag put on.  No c/o pain. 
+Resp: Lungs with coarse aeration at times otherwise clear.  Has productive cough of yellow sputum.  She is on 4lnp with sats in the low to mid 90's.  
+GI/GU: PEG intact with feeding of probalance at 40cc/hr (goal rate). Abd softly distended with hypoactive bowel sounds.  Had large soft bm, on many bowel meds. Urostomy intact, drng clear yellow urine approx 30-40cc/hr.
+Heme: Low hct, rec'd one unit prbc, tol well.   
+MS: Alert and oriented x 3. Stating how fearful she is, continously asking how she is doing. Emotional support given. Reminded her that she is no longer rec'ing morphine rtc and not to wait for pain to become severe to ask for pain meds. 
+A: mets ca c/b tamponade s/p pericardial drain
+   decrease hct > transfused one unit prbc
+P: cont with pericardial drain protocol, helps to turn her on her r side if unable to aspirate
+   cont with emotional support
+   give dilt when bp ^
+   follow lytes ? free h2o bolus if na remains elevated
+   
+   
+",,
+8815,29403,10965,0,3141-07-06 16:51:00 EST,3141-07-06 17:33:00 EST,2800,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+S: "" Is everything alright.""
+
+O: Please see flow sheet for objective data. SBP>90. Tele sinus rhythm with occ PAC's Pt conts to have short runs of PAT. Conts on Diltiazem 30mg QID and Amiodarone 400mg TID. PAD's [**1-8**] PCW 6 this pm. Dr [**First Name (STitle) **] aware. Pulses approx 8. Pt given 500cc NS x's 1 hr. Pericardial drain with sm amt of old drainage. Unable to aspirate back drainage this pm so catheter irrigated as per protocol. Draining minimal amts of straw colored fluid. Seen by CT surgery today. Possible window tomorrow if Platlet ct > 100,000. Count today 91,000.
+
+Resp: Lung diminshed in bases. Remains on 4l NP with O2 sats 92-96%.
+
+Neuro: Pt very anxious this am. Very concerned about what's going to happen while she is her. POC explained to pt. Pt somewhat reassured with explainations. Pt requesting MSO4 today for back pain with good effect.
+
+GU/GI: TF conts with Probalance at GR of 40/hr. Pt NPO after mn for possible pericardial window in am. Abd is soft with bowel sounds present. 1 mod BM today. Urostomy draining CYU.
+
+Social: Husband and several children in during the day. Family aware of plan for possible OR in am.
+
+A&P: Hemodynamically stable today. Awaiting pericardial window possibly tomorrow. Cont with POC. Check plt ct later this pm.
+
+ 
+",,
+8815,29403,10965,,3141-07-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-7-7**] 8:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10803**]
+     Reason: r/o infiltrate                                              
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           69 year old woman with cp, sob, hypotension, s/p swan ganz now with 
+      productive cough                                              
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Chest pain, shortness of breath and hypotension.  Status post
+     Swan-Ganz placement.  Productive cough.
+     
+     COMPARISON:  [**3141-7-4**].
+     
+     SEMI-ERECT AP PORTABLE CHEST:  The Swan-Ganz catheter remains in similar
+     position with its tip in the interlobar right pulmonary artery.  A presumed
+     pericardial drain has been inserted, projecting over the lower left
+     hemithorax.  A gastric tube is noted.  There is decreased aeration of the left
+     lung.  Given the relative lack of rightward mediastinal shift, this most
+     likely represents progressive collapse of the left lung.  The left pleural
+     effusion probably also contribute to this appearance.  A small right effusion
+     persists.  CHF has increased.
+     
+     IMPRESSION:
+     1)  Complete opacitification of left hemithorax, probably due to lung
+     collapse given lack of contralateral shift of mediastinum. A component of
+     pleural effusion is also present.
+     2)  Increased failure.  Persistent bilateral pleural effusions, left greater
+     than right.
+     3)  Presumed pericardial drain insertion.
+     
+
+",,
+8815,29403,10965,0,3141-07-07 05:15:00 EST,3141-07-07 05:43:00 EST,1722,"N",1,"Nursing/Other",,"
+
+NSG
+
+S: "" ARE MY VITALS SIGNS OK?""
+
+CV: STABLE SBP 91-120 WITH MAP'S 61-87.  HR NSR 79-90. PAD'S 16-19, CVP 5-9 PCWP 9. HOUSE STAFF [** 56**] OF LOW PAD'S. PT WAS TO RECEIVE BLD TRANSFUSION OVERNOC. SEE HEME NOTES. CO 6.8,CI 3.79 SVR 706. CON'T ON AMIODARONE PO. PERICARDIAL DRAIN FLUSHED ONCE OVERNOC, NOW DRAINING TOTAL 50CC SEROUS DRAINAGE. POSSIBLE CARDIAC WINDOW PROCEDURE TODAY.
+
+RESP: O2 @ 6L NP. HAS PERIODS OF SOB WITH ANXIETY OR REPOSITIONING. BS COURSE TO DIMINISHED AT BASES. OCCASSIONAL COUGH, RAISING THICK TAN SECRETIONS. RR-20-24. O2 SATS 91-99%
+
+GI: TF OFF @ MN FOR OR. + BS ABD SOFT. NO STOOL OVERNOC. PT REFUSED SENNA AND COLACE. STATES HAD LOOSE STOOL DAY PRIOR.
+
+GU: DRAINING CL YELLOW URINE VIA UROSTOMY. STOMA PINK. BAG INTACT. BUN 20 CREAT 0.8 THIS AM
+
+SKIN: PERICARDIAL DRAIN SITE DSG CHG( FALLING OFF) SITE C/D. PEG SITE HAS THICK GREENISH/TAN MATERIAL FROM AROUND DRAIN SITE. BETADINE APPLIED. DSD. R IJ SWAN SITE. C/D
+
+NEURO: A/O X3 FOLLOWS COMMANDS. PLEASANT AND COOPERATIVE. MAE. SHE HAS PERIODS OF ANXIETY. ALWAYS ASKING IF HER VITALS ARE STABLE. SUPPORT GIVEN. SHE IS ANXIOUS OVER PROCEDURE SCHEDULED TODAY. I SPOKE WITH DR [**Last Name (STitle) **] ABOUT STARTING HER ON LOW DOSE ANTIANXIETY. ONLY ORDER THUS FAR WAS FOR AMBIEN) GIVEN. PT SLEPT MOST OF THE NOC. SOCIAL SERVICE CONSULT ENTERED FOR COPING.
+
+ID: AFEBRILE. HAS + BC [**6-30**] CON'T ON VORICONAZOLE AND CEFTAZIDIME. + FUNGAL CULT. LAST SET CULT (SURVALLIENCE) SENT ON [**7-4**]. HAS PNA AS WELL.
+
+LABS/HEME:  PLTS MONITOR OVERNOC @ 2100-97, THIS AM 105.
+      HCT 25.3 RECEIVED ONE UNIT PRBC'S. REPEAT 28.9. T& C SENT 
+      BS LAST EVE 167. PER DR [**First Name (STitle) **] PT RECEIVED 1/2 DOSE GLARGINE (7 UNITS AND AND FULL DOSE REG SSI. REPEAT BS THIS AM 46. PT ALERT WITH NO C/O VSS. GIVEN 1 AMP D5W IV REPEAT BS 153,118. DR [**First Name (STitle) **] [**Name (STitle) 56**] OF BS AND TREATMENT.
+       K+ THIS AM 3.5 RECEIVED 60MEQ TOTAL KCL 0530
+       MG 1.9 RECEIVED 1 GM MAG SULFATE @ 0530
+
+A/P: 69 YR OLD PMH DM,HTN,ELEVATED CHOL,BLADDER CA S/P UROSTOMY 1985, NOW PRESENT WITH METASTATIC CA [**Last Name (un) **] PRIMARY SITE METS TO LUNGS,ESOPHAGUS AND SPINE. ADM [**6-27**] ACUTE ONSET CP ST ELEVATION INF/LAT. [**6-27**] CATH WHICH WAS NEG. ? C/P D/T PERICARDITIS. R/L PRESSURES ELEVATED. [**6-27**] ECHO EF > 70% SM PERCARDIAL EFFUSION, [**7-3**] REPEAT ECHO EF > 55% BUT LG PERICARDIAL EFFUSION. [**7-4**] PERICARDIALCENTESIS WITH 350CC DRAINED. DRAIN REMAINS IN. PT TO HAVE PERICARDIAL WINDOW TO. ADDRESS ANXIETY LEVEL. FOLLOW PLTS. ADDRESS D/C SWAN. SUPPORT AS NEEDED.
+
+
+
+       
+      
+",,
+8815,29403,10965,0,3141-07-07 17:25:00 EST,3141-07-07 18:07:00 EST,1563,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+Neuro/comfort: pt awake, alert, oriented x3, very pleasant and cooperative w/ care. Very anxious, given .5 mg ativan x2 w/ excellent effect. c/o back pain and given ms w/ good effect.
+cv: hr 76-92 sr w/ occ apc w/ exception of very brief episode of st w/ rate ^ 150, ekg done but rhythm slowed and unable to capture. bp 101-140/46-67. PAP 53-56/16-21 mean 29-33. cvp 8-11. Pericardial drain draining serous fluid ~ 100cc this shift.
+resp: c/o sob w/ any activity. SATS 90-95% on 5lnp. lungs diminished at bases.
+gi: TF off for pericardial window tonight. + BS, no stool, 
+gu: urostomy draining cyu15-100cc/hr. + 735 for day. 
+id: afebrile, cont on abx. 
+labs: na 151 given 1600cc d5w. phos 1.9 repleted w/ kphos.
+A: hemodynamically stable awaiting pericardial window. 
+P: f/u lytes, monitor resp status, pericardial drainage. ativan for anxiety
+
+",,
+8815,29403,10965,,3141-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-7-8**] 11:18 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 10805**]
+     Reason: placement ett                                               
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with cp, sob, hypotension, s/p intubation.                    
+     REASON FOR THIS EXAMINATION:
+      placement ett                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check ETT placement.
+     
+     AP SEMI-UPRIGHT CHEST:  Compared to the prior day's film.  Endotracheal tube
+     has been placed with its tip well positioned 6 cm above the carina.  Swan-Ganz
+     catheter tip now resides in the main pulmonary artery.  Multiple chest tubes
+     have been placed, and there has been significant re-aeration of the left upper
+     and mid-lung zones compared to the prior study.  There remains a component of
+     collapse/effusion at the left base and a small right-sided pleural effusion.
+     There remains pulmonary edema and multiple nodular opacity seen in the right
+     lung, likely consistent with metastatic lesions.  No pneumothorax is seen.
+     
+     IMPRESSION:  
+     1. Satisfactory ETT placement.
+     2. Significant improved aeration of the left upper and mid-lung zones.  There
+     remains a component of collapse/effusion at the left base.
+     3. Persisting pulmonary edema.
+     4. Multiple nodular opacities are seen throughout the right lung concerning
+     for metastatic lesions.
+     
+
+",,
+8815,29403,10965,,3141-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-7-8**] 12:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10804**]
+     Reason: assess interval change                                      
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            69 year old woman with cp, sob, hypotension, s/p swan ganz now worsening 
+      SOB
+     REASON FOR THIS EXAMINATION:
+      assess interval change                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate for interval change.
+     
+     AP PORTABLE UPRIGHT CHEST:  Compared to AP semi-erect chest of the prior day.
+     Swan-Ganz catheter, pericardial drain, and catheter overlying the left mid
+     abdomen are unchanged in position.  There is persistent total opacification of
+     the left hemithorax, with minimal shift to the left suggesting a combination
+     of collapse and pleural effusion.  There is no significant interval change.
+     There is mild underlying congestive heart failure again not significantly
+     changed.  Subtle right basilar opacity likely representing atelectasis.
+     
+     IMPRESSION:  No significant interval change.
+
+",,
+8815,29403,10965,,3141-07-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-7-8**] 11:18 AM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 10805**]
+     Reason: placement ett                                               
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with cp, sob, hypotension, s/p intubation.                    
+     REASON FOR THIS EXAMINATION:
+      placement ett                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check ETT placement.
+     
+     AP SEMI-UPRIGHT CHEST:  Compared to the prior day's film.  Endotracheal tube
+     has been placed with its tip well positioned 6 cm above the carina.  Swan-Ganz
+     catheter tip now resides in the main pulmonary artery.  Multiple chest tubes
+     have been placed, and there has been significant re-aeration of the left upper
+     and mid-lung zones compared to the prior study.  There remains a component of
+     collapse/effusion at the left base and a small right-sided pleural effusion.
+     There remains pulmonary edema and multiple nodular opacity seen in the right
+     lung, likely consistent with metastatic lesions.  No pneumothorax is seen.
+     
+     IMPRESSION:  
+     1. Satisfactory ETT placement.
+     2. Significant improved aeration of the left upper and mid-lung zones.  There
+     remains a component of collapse/effusion at the left base.
+     3. Persisting pulmonary edema.
+     4. Multiple nodular opacities are seen throughout the right lung concerning
+     for metastatic lesions.
+     
+
+",,
+8815,29403,10965,0,3141-07-08 04:40:00 EST,3141-07-08 05:23:00 EST,5517,"N",1,"Nursing/Other","Nurses Note 7p-7a","
+Nurses Note 7p-7a
+S:""So I keep both the oxygens on"".
+0: Neuro- A+Ox3, cooperative but anxious. Given ativan 0.5mg ivp x2 with good effect. Mso4 5mg po x1 for back pain with good effect. PEARL/MAE in bed.
+CV- Tele SR with no vea, HR 80-93. HO placed an A-line in R radial, BPs 87-110/40s-50s. Pt given 250cc NS [**Doctor Last Name 364**] for BPs in 80s with a good response. Percardial drain to gravity bag intact, op 50cc of serous fluid this shift,(350cc total) R IJ Swan intact PAPs 48-58/14-26, CVPs 9-13. Na+141, K+4.1, Phos3.2
+Resp- LS diminished on L side, coarse on R. CXR showed total white out in L lobe. Placed on 02 face mask @ 10L with 4L nc in order to maintain sats >95%. Gets very doe. ABG 7.33 45 66 -2 25. Productive coughing using yankawer, conts neb tx q6.
+Endo- Given [**1-26**] pm glargine d/t NPO status, fs 60s, received [**1-26**] amp D50.
+GI/GU- Abd soft/firm +bs +flatus, no stool. Peg tube intact, TFs remain on hold for surgery. Urostomy patent, voiding cyu 15-100cc/hr.
+A/P: Stable over noc, A-line placed for better BP management/labs. Cont NPO for a pericardial window today, watch resp status, 02 sats encourage c+db. Monitor ABGs, medicate prn for anxiety/pain. 
+",,
+8815,29403,10965,0,3141-07-08 09:41:00 EST,3141-07-08 09:47:00 EST,1592,"N",1,"Nursing/Other",,"
+
+Patient intubated with # 7.5 ETT taped @ 23 cm.Tube pulled back to 19 cm under bronchoscopic visualization.Episode of of vagal stimulation during bronch procedure BP and HR decreased.Chronotopic agents administered by RN.ABG result shows metabolic acidosis,pericardial drain on.Patient had plan for pericardial window today will follow.ABG repeated on 100% and zero peep,result pending.
+",,
+8815,29403,10965,0,3141-07-08 14:59:00 EST,3141-07-08 15:10:00 EST,1592,"N",1,"Nursing/Other",,"
+
+Patient with metabolic acidosis,RR increased to 24 ABG now compensated. Will alter RR in small increment to keep patient somewhat acidotic with pac02 (ie)47mmhg.CXR opacification of (L) hemithorax,echocardiogram Ok with small pericardial effusion noted.Patient has pericardial drain in place,sedated,remained on mechanical ventilation.Bronchoscopic procedure done this AM;plan to have surgery for pericardial window.
+",,
+8815,29403,10965,0,3141-07-08 17:15:00 EST,3141-07-08 18:09:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 7a-7p","
+CCU NPN 7a-7p
+S: ""Yes, I'm getting tired breathing so hard..."",
+O: please see carevue for complete assessment data
+EVENTS: OR for pericardial window postponed, Orally intubated for ^ resp distress, TTE, Bronch, vagal induced hypotension/bradycardia requiring pressors and atropine. 
+
+RESP: Intubated @ 0900 d/t ^ WOB (tachypnic w/ RR consistently 40s, SpO2 low/mid 90s on face mask and NC subjective c/o exhaustion), Etomidate and succs during intubation, initially in RMSB pulled back to 19cm w/ good positioning. LS coarse anteriorly, diminished L>R, posteriorly w/ fine rales RLL after 2L fluid boluses and LLL w/ expiratory wheezes. Bronchoscopy shortly after extubation showed external obstruction LMSB. Currently on AC 500x22/.[**5-29**], ABG w/ cont metabolic acidosis and adequate oxygenation. Sxn'd q2hr for mod amts tan/green secretions. 
+
+CV: initially HD stable t/o intubation, 0930 1 episode RAF/flutter w/ HR 155 BP stable t/o, broke w/o intervention to NSR/ST 90s-100s. Vagal mediated bradycardia r/t bronch @ 1000 w/ HR down to 38 and BP 55/, HR recovered to 40s w/ removal of stim but eventually requiring 1 amp atropine and neo for BP support. Stable on 1.1-1.3mcg/kg/min neo w/ MAP > 60 but SVR ^ and CI down t/o shift, changed to levophed @ 1800 needs CO/CI @ 2000. Total of 1.5L in fluid boluses for hypotension. Hct stable 28.5. Repleted ICa++ of 1.09 w/ 2gm Ca++Gluconate, awaiting repletion for K 3.7 and Mg 1.9. Distal pulses palp, L groin angio site C/D/I slightly ecchymotic. Cont PO amio and dilt. Pericardial drain w/ ~25cc out for shift, flushed easily but unable to aspirate, collection bag changed in order to obtain sterile spec for culture.
+
+NEURO: A&Ox3 initially, currently sedated on 20mcg/kg/min Propofol, eye opening and nodding to verbal stim, follows commands, PERRL 3mm/brisk. MAE. 
+
+GI: abd soft, distended, hypoactive BS. TF restarted @ 1500, to be stopped @ MN for potential window tomorrow. Small amt purulent drainage noted around G-tube insertion site, ? rxn to sutures. Tol TFs and meds. No BM/RF. 
+
+GU: urostomy draining bright yellow urine/ +mucous/sediment. Cr bumped to 1.1 after hypotensive episode, u/o dropped to 0 for several hours and is slowly picking up. Ostomy changed by skin care RN, very small but round/pink. 
+
+ENDO: BG 60s-80s, gave 60cc OJ for BG 62 @ 1700, ^ 71, all RISS coverage held, Glargine D/c'd. 
+
+ID: tmax 101.4, pan cultured and gave 650mg tylenol w/ some effect, currently 100.8. To change Abx from voriconazole to caspofungin upon ID approval. 
+
+SOC: husband and multiple children in to visit, updated by RN and MD, asking appropriate questions but still seem to want all aggressive measures taken. 
+
+A: 69yo w/ metastatic CA (lung/esophagus/spine/bladder) admitted w/ inf/lat STEMI following chemo, clean c's and ^ filling pressures noted in cath [**6-27**], to floor-> rapid AF/hypotensive/pulm edema, tx'd to MICU for further management and PA line, back to cath lab for pericardial drain (350cc initially) [**7-4**] and tx'd to CCU. Intubated today f
+",,
+8815,29403,10965,0,3141-07-08 17:16:00 EST,3141-07-08 18:09:00 EST,6237,"N",1,"Nursing/Other","CCU NPN 7a-7p","
+CCU NPN 7a-7p
+(Continued)
+or ^ resp distress, hypotensive and bradycardic s/p bronch requiring pressors and atropine, spiked temp, abx changed. Awaiting pericardial window possibly tomorrow. 
+P: cont to monitor hemodynamics, wean neo to off and use levo to maintain MAP > 55. Follow CO/CI on levo. Cont propofol to maintain sedation, lido pacth off @ 0400. Cont pulm hygine, ? decrease FiO2 as tolerated, monitor acidosis and renal sts. TF off @ MN. F/u lyte repletion. Monitor pericardial drainage, flush/aspirate q4hr and send culture of fluid. 
+
+",,
+8815,29403,10965,,3141-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8815,29403,10965,,3141-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-7-9**] 6:54 AM
+     CHEST (PRE-OP AP ONLY) PORT                                     Clip # [**Clip Number (Radiology) 10806**]
+     Reason: ?decreased lung collapse                                    
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with cp, sob, hypotension, s/p intubation.                    
+     REASON FOR THIS EXAMINATION:
+      ?decreased lung collapse                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  69-year-old with persistent hypotension and shortness of breath
+     status post intubation.  Evaluate for decrease in lung collapse.
+     
+     AP PORTABLE SEMI-UPRIGHT CHEST:  Compared to the film of the prior day.
+     Multiple lines and tubes unchanged in position.  There has been interval
+     removal of both chest tubes.  The left upper lung zone remains reaerated with
+     persistent collapse/effusion at the left base in a retrocardiac position.
+     There is no interval change.  Persisting underlying volume overload/failure.
+     Persisting nodular opacities throughout the right lung field concerning for
+     metastatic lesions.
+     
+     IMPRESSION:
+     1)  Interval removal of both chest tubes; no pneumothorax.  Other lines and
+     tubes are unchanged in position.
+     2)  No significant change in the amount of left lung collapse with persisting
+     aeration of the left upper lung zone and collapse/effusion at the left base.
+     3)  Persisting congestive heart failure.
+     4)  Nodular opacities throughout the right lung zone again identified.
+     
+
+",,
+8815,29403,10965,,3141-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-7-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 10807**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PLEURAL EFFUSION/?FLUID/?SEPTIC SOURCE?MALIGNANCY
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     Field of view: 46 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        69 year old woman with met CA now with tachycardia, hypoxia intubated, with 
+      pericardial drain.              
+     REASON FOR THIS EXAMINATION:
+      ?pleural effusion                                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  69-year-old woman with metastatic carcinoma of unknown primary,
+     now with increasing signs of sepsis, including respiratory failure.  Please
+     evaluate for possible septic source.
+     
+     COMPARISON:  CT angiography of the chest, [**3141-6-29**].
+     
+     TECHNIQUE:  After administration of oral contrast, an MDCT was used to obtain
+     contiguous axial images through the liver.  IV contrast enhanced images
+     through the chest and abdomen, as well as 3 minute delayed abdominal and
+     pelvic images were also obtained.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  As seen on the previous examination, there
+     are multiple lung nodules in both lungs.  These have not changed significantly
+     in the interim.  However, there has been interval development of a loculated
+     right pleural effusion, moderate in size, with associated compressive
+     atelectasis.  A smaller left pleural effusion is also present, with associated
+     atelectasis.  Also, as previously described, in the left lower lobe there is a
+     large loculated collection of fluid and air, between the aorta and proximal
+     stomach.  It is not significantly changed since the last examination.  This
+     collection may represent necrotic tumor or necrotic lung.  It measures
+     approximately 56 x 70 mm.  The pericardial effusion has improved, although it
+     is still present. No mediastinal or hilar lymphadenopathy is definitively
+     identified. Increased prominence of septal lines indicates a degree of fluid
+     overload.  
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  A 7 mm lesion in the right
+     lobe of the liver is identified, which is too small to characterize fully. The
+     left adrenal medial limb has an 11 x 21 mm lesion ([**Doctor Last Name **] 19 pre-contrast, 120
+     post-contrast) which may represent another focus of metastasis.  The right
+     adrenal has a similar appearing lesion, 11 x 13 mm, ([**Doctor Last Name **] 34 pre-contrast, 120
+     post-contrast), which also may represent a focus of metastasis.  The left
+     kidney has an exophytic 10 mm low-density lesion, too small to fully
+     characterize, but probably a cyst.  Within the mid pole of the right kidney,
+     heterogeneously enhancing foci may also represent metastasis. The pancreas is
+     grossly unremarkable.  There is no lymphadenopathy.  The gallbladder has
+     layering sludge, but is without CT evidence of cholecystitis. The stomach has
+     a gastrostomy tube within it.  Contrast is seen in the stomach and proximal
+     small bowel loops.
+                                                                 (Over)
+
+     DATE: [**3141-7-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 10807**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PLEURAL EFFUSION/?FLUID/?SEPTIC SOURCE?MALIGNANCY
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     Field of view: 46 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Diastasis of the rectus muscles results in
+     a small hernia containing a loop of small bowel.  There is a diverting ostomy
+     in the right lower quadrant.  Suture lines in the distal bowel indicate prior
+     bowel resection.  The uterus is surgically absent.  There are staples along
+     the iliac vessels and pouch of [**Location (un) 2421**].  The rectum and sigmoid are grossly
+     unremarkable.  There is a small amount of fluid in the left paracolic gutter.
+     No free fluid is seen in the pelvis.  
+     
+     Of note, there is extensive infiltration of fluid into the subcutaneous
+     tissues.  
+     
+     BONE WINDOWS:  A pathological fracture is identified in the left lateral
+     eighth rib.  Also seen is a 49 x 33 mm soft tissue mass investing the left
+     eleventh and twelfth ribs.
+     
+     IMPRESSION:
+     1.  Loculated hydropneumothorax in the left lower lobe, as previously
+     identified on CT scan of [**3141-6-29**], which may represent infected
+     cavity, necrotic tumor or necrotic lung.
+     2.  Multiple foci of probable metastatic disease, including bilateral
+     pulmonary nodules, soft tissue masses investing and destroying left-sided
+     ribs, and bilateral adrenal masses.
+     3.  Interval increase in bilateral pleural effusions, right greater than left,
+     with right pleural effusion containing a loculated component.
+     4.  Worsening consolidation/atelectasis of the left lower lobe.
+     5.  Cardiac failure and fluid overload, with anasarca.
+     6.  Low-density lesion in the liver, too small to fully characterize.
+     7.  Diastasis of rectus muscles with hernia containing a small bowel loop.
+     8.  Right lower quadrant diverting ostomy.
+     
+     Preliminary findings were discussed with Dr [**First Name (STitle) 1734**] at approximately 5:30 p.m.,
+     [**3141-7-9**].
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3141-7-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 10807**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PLEURAL EFFUSION/?FLUID/?SEPTIC SOURCE?MALIGNANCY
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     Field of view: 46 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8815,29403,10965,,3141-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-7-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 10807**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PLEURAL EFFUSION/?FLUID/?SEPTIC SOURCE?MALIGNANCY
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     Field of view: 46 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        69 year old woman with met CA now with tachycardia, hypoxia intubated, with 
+      pericardial drain.              
+     REASON FOR THIS EXAMINATION:
+      ?pleural effusion                                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  69-year-old woman with metastatic carcinoma of unknown primary,
+     now with increasing signs of sepsis, including respiratory failure.  Please
+     evaluate for possible septic source.
+     
+     COMPARISON:  CT angiography of the chest, [**3141-6-29**].
+     
+     TECHNIQUE:  After administration of oral contrast, an MDCT was used to obtain
+     contiguous axial images through the liver.  IV contrast enhanced images
+     through the chest and abdomen, as well as 3 minute delayed abdominal and
+     pelvic images were also obtained.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  As seen on the previous examination, there
+     are multiple lung nodules in both lungs.  These have not changed significantly
+     in the interim.  However, there has been interval development of a loculated
+     right pleural effusion, moderate in size, with associated compressive
+     atelectasis.  A smaller left pleural effusion is also present, with associated
+     atelectasis.  Also, as previously described, in the left lower lobe there is a
+     large loculated collection of fluid and air, between the aorta and proximal
+     stomach.  It is not significantly changed since the last examination.  This
+     collection may represent necrotic tumor or necrotic lung.  It measures
+     approximately 56 x 70 mm.  The pericardial effusion has improved, although it
+     is still present. No mediastinal or hilar lymphadenopathy is definitively
+     identified. Increased prominence of septal lines indicates a degree of fluid
+     overload.  
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  A 7 mm lesion in the right
+     lobe of the liver is identified, which is too small to characterize fully. The
+     left adrenal medial limb has an 11 x 21 mm lesion ([**Doctor Last Name **] 19 pre-contrast, 120
+     post-contrast) which may represent another focus of metastasis.  The right
+     adrenal has a similar appearing lesion, 11 x 13 mm, ([**Doctor Last Name **] 34 pre-contrast, 120
+     post-contrast), which also may represent a focus of metastasis.  The left
+     kidney has an exophytic 10 mm low-density lesion, too small to fully
+     characterize, but probably a cyst.  Within the mid pole of the right kidney,
+     heterogeneously enhancing foci may also represent metastasis. The pancreas is
+     grossly unremarkable.  There is no lymphadenopathy.  The gallbladder has
+     layering sludge, but is without CT evidence of cholecystitis. The stomach has
+     a gastrostomy tube within it.  Contrast is seen in the stomach and proximal
+     small bowel loops.
+                                                                 (Over)
+
+     DATE: [**3141-7-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 10807**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PLEURAL EFFUSION/?FLUID/?SEPTIC SOURCE?MALIGNANCY
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     Field of view: 46 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Diastasis of the rectus muscles results in
+     a small hernia containing a loop of small bowel.  There is a diverting ostomy
+     in the right lower quadrant.  Suture lines in the distal bowel indicate prior
+     bowel resection.  The uterus is surgically absent.  There are staples along
+     the iliac vessels and pouch of [**Location (un) 2421**].  The rectum and sigmoid are grossly
+     unremarkable.  There is a small amount of fluid in the left paracolic gutter.
+     No free fluid is seen in the pelvis.  
+     
+     Of note, there is extensive infiltration of fluid into the subcutaneous
+     tissues.  
+     
+     BONE WINDOWS:  A pathological fracture is identified in the left lateral
+     eighth rib.  Also seen is a 49 x 33 mm soft tissue mass investing the left
+     eleventh and twelfth ribs.
+     
+     IMPRESSION:
+     1.  Loculated hydropneumothorax in the left lower lobe, as previously
+     identified on CT scan of [**3141-6-29**], which may represent infected
+     cavity, necrotic tumor or necrotic lung.
+     2.  Multiple foci of probable metastatic disease, including bilateral
+     pulmonary nodules, soft tissue masses investing and destroying left-sided
+     ribs, and bilateral adrenal masses.
+     3.  Interval increase in bilateral pleural effusions, right greater than left,
+     with right pleural effusion containing a loculated component.
+     4.  Worsening consolidation/atelectasis of the left lower lobe.
+     5.  Cardiac failure and fluid overload, with anasarca.
+     6.  Low-density lesion in the liver, too small to fully characterize.
+     7.  Diastasis of rectus muscles with hernia containing a small bowel loop.
+     8.  Right lower quadrant diverting ostomy.
+     
+     Preliminary findings were discussed with Dr [**First Name (STitle) 1734**] at approximately 5:30 p.m.,
+     [**3141-7-9**].
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3141-7-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 10807**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PLEURAL EFFUSION/?FLUID/?SEPTIC SOURCE?MALIGNANCY
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     Field of view: 46 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8815,29403,10965,,3141-07-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-7-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 10807**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PLEURAL EFFUSION/?FLUID/?SEPTIC SOURCE?MALIGNANCY
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     Field of view: 46 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        69 year old woman with met CA now with tachycardia, hypoxia intubated, with 
+      pericardial drain.              
+     REASON FOR THIS EXAMINATION:
+      ?pleural effusion                                                               
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  69-year-old woman with metastatic carcinoma of unknown primary,
+     now with increasing signs of sepsis, including respiratory failure.  Please
+     evaluate for possible septic source.
+     
+     COMPARISON:  CT angiography of the chest, [**3141-6-29**].
+     
+     TECHNIQUE:  After administration of oral contrast, an MDCT was used to obtain
+     contiguous axial images through the liver.  IV contrast enhanced images
+     through the chest and abdomen, as well as 3 minute delayed abdominal and
+     pelvic images were also obtained.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  As seen on the previous examination, there
+     are multiple lung nodules in both lungs.  These have not changed significantly
+     in the interim.  However, there has been interval development of a loculated
+     right pleural effusion, moderate in size, with associated compressive
+     atelectasis.  A smaller left pleural effusion is also present, with associated
+     atelectasis.  Also, as previously described, in the left lower lobe there is a
+     large loculated collection of fluid and air, between the aorta and proximal
+     stomach.  It is not significantly changed since the last examination.  This
+     collection may represent necrotic tumor or necrotic lung.  It measures
+     approximately 56 x 70 mm.  The pericardial effusion has improved, although it
+     is still present. No mediastinal or hilar lymphadenopathy is definitively
+     identified. Increased prominence of septal lines indicates a degree of fluid
+     overload.  
+     
+     CT OF THE ABDOMEN WITHOUT AND WITH IV CONTRAST:  A 7 mm lesion in the right
+     lobe of the liver is identified, which is too small to characterize fully. The
+     left adrenal medial limb has an 11 x 21 mm lesion ([**Doctor Last Name **] 19 pre-contrast, 120
+     post-contrast) which may represent another focus of metastasis.  The right
+     adrenal has a similar appearing lesion, 11 x 13 mm, ([**Doctor Last Name **] 34 pre-contrast, 120
+     post-contrast), which also may represent a focus of metastasis.  The left
+     kidney has an exophytic 10 mm low-density lesion, too small to fully
+     characterize, but probably a cyst.  Within the mid pole of the right kidney,
+     heterogeneously enhancing foci may also represent metastasis. The pancreas is
+     grossly unremarkable.  There is no lymphadenopathy.  The gallbladder has
+     layering sludge, but is without CT evidence of cholecystitis. The stomach has
+     a gastrostomy tube within it.  Contrast is seen in the stomach and proximal
+     small bowel loops.
+                                                                 (Over)
+
+     DATE: [**3141-7-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 10807**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PLEURAL EFFUSION/?FLUID/?SEPTIC SOURCE?MALIGNANCY
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     Field of view: 46 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  Diastasis of the rectus muscles results in
+     a small hernia containing a loop of small bowel.  There is a diverting ostomy
+     in the right lower quadrant.  Suture lines in the distal bowel indicate prior
+     bowel resection.  The uterus is surgically absent.  There are staples along
+     the iliac vessels and pouch of [**Location (un) 2421**].  The rectum and sigmoid are grossly
+     unremarkable.  There is a small amount of fluid in the left paracolic gutter.
+     No free fluid is seen in the pelvis.  
+     
+     Of note, there is extensive infiltration of fluid into the subcutaneous
+     tissues.  
+     
+     BONE WINDOWS:  A pathological fracture is identified in the left lateral
+     eighth rib.  Also seen is a 49 x 33 mm soft tissue mass investing the left
+     eleventh and twelfth ribs.
+     
+     IMPRESSION:
+     1.  Loculated hydropneumothorax in the left lower lobe, as previously
+     identified on CT scan of [**3141-6-29**], which may represent infected
+     cavity, necrotic tumor or necrotic lung.
+     2.  Multiple foci of probable metastatic disease, including bilateral
+     pulmonary nodules, soft tissue masses investing and destroying left-sided
+     ribs, and bilateral adrenal masses.
+     3.  Interval increase in bilateral pleural effusions, right greater than left,
+     with right pleural effusion containing a loculated component.
+     4.  Worsening consolidation/atelectasis of the left lower lobe.
+     5.  Cardiac failure and fluid overload, with anasarca.
+     6.  Low-density lesion in the liver, too small to fully characterize.
+     7.  Diastasis of rectus muscles with hernia containing a small bowel loop.
+     8.  Right lower quadrant diverting ostomy.
+     
+     Preliminary findings were discussed with Dr [**First Name (STitle) 1734**] at approximately 5:30 p.m.,
+     [**3141-7-9**].
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**3141-7-9**] 12:22 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 10807**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: ?PLEURAL EFFUSION/?FLUID/?SEPTIC SOURCE?MALIGNANCY
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     Field of view: 46 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8815,29403,10965,0,3141-07-09 02:50:00 EST,3141-07-09 02:53:00 EST,2183,"N",1,"Nursing/Other",,"
+
+Resp Care Note:
+
+Pt cont intub with OETT and on mech vent as per Carevue. Lung sounds coarse suct sm=>mod th tan sput. ABGs compensated resp alkalosis with good oxygenation. Cont mech vent support.
+",,
+8815,29403,10965,0,3141-07-09 04:03:00 EST,3141-07-09 06:02:00 EST,5517,"N",1,"Nursing/Other","Nusing Note 7p-7a","
+Nusing Note 7p-7a
+S: Pt intubated & sedated.
+O: Neuro- Remains sedated on propofol @ 20mcg/kg/min. Able to open eyes and nod to verbal stimuli. PEARL/MAE in bed, remains in soft wrist restraints for safety.
+Resp- Vented on CMV 50% 500x22 peep5 with LL @ 19cm. LS coarse in R upper lobe with rhales in R base, L side diminished with faint crackles in base. Sx several times for thick tan sputum, receiving  nebs from RT. Latest ABG 7.38 29 93 -6 18
+CV- Tele SR with frequent to rare PVCs, HR 60-70. ABPs in the 80s when first weaning off the Neo gtt while increasing the Levophed gtt. Stable now @ 0.216 mcg/kg/min, ABPs 100-112/45-50 MAPs >55, Neo weaned off by 0100. R IJ Swan intact, PAPs 44-50/19-26, CVPs 11-13. Latest cardiac numbers CO 4.5, CI 2.49, SVR 996. Received 250cc NS [**Doctor Last Name 364**] x1.
+Percardial drain flushed x2 but unable to draw, culture spec pending. ID- Tmax 101.4, wbc 7.7 conts on Vanco plus started on caspofungin/  meropenem for + yeast in pericardium. Pt was pan cx yesterday.
+GI/GU- Abd soft/firm +hypo bs, no stool tonight. Peg site cd+i, TFs off @ MN for poss pericadial window procedure this AM. urostomy intact, urine op remains poor with no op for several hrs, HO aware, Cre 1.4 
+Endo- BS covered per SS, Glargine d/c'd.
+A/P: Able to wean off Neo, remains on Levophed for BP support, ? change to Vasopressin. Cont to monitor hemodynamics, ABGs and lytes. Monitor temps ? sepsis, urine op, drain op and obtain culture sample. NPO for window procedure. Keep pt comfortably sedated, provide frequent suctioning. ? Family meeting with team today. 
+
+",,
+8815,29403,10965,0,3141-07-09 17:26:00 EST,3141-07-09 18:19:00 EST,1563,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: intubated/sedated
+O: please see carevue for all objective data
+neuro: sedated on propofol 20 mcg/kg/min w/ good effect. Arousable to voice, nods head appropriately, following simple commands.
+cv: Vasopressin started, curretnly at .2 units/min, levophed weaned down to .045 mcg/kg/min. w/ bp 106/125/49-61. hr 58-70 sr no vea. PAP 40-48/18-23. co/ci 4.4/2.43/1109.Pericardial drain d/c. ECHO done, results pnd. Plan for pericardial window on hold for now. Calcium and phosphate repleted. 
+resp: remains intubated, vent settings unchanged. suctioned q 2-4 hrs for thick tan secretions. Chest CT done this afternoon, results pnd. 
+gi: TF restarted at 10cc/hr. 3 lg BM today, increasingly watery. Mushroom catheter placed. 
+gu: cr ^ 1.4. urostomy tube draining cyu 25-70cc/hr, curretnly ~ 2700cc +, 13 liter+ LOS.
+id: tm 101.5, core. Continues on merepenem, capsofungin, vancomycin. surveillence cultures sent. 
+skin: 2 skin tears on buttocks. gelfoam gel applied covered w/  allevyln.
+social: family met w/ team today to discuss prognosis and POC. At this time pt is still full code.
+A: hypotension requiring levo and vasopressin.
+   continued temp
+   ^ cr
+P: wean pressors as possible
+   follow temp curve
+   emotional support to family.
+",,
+8815,29403,10965,0,3141-07-09 18:31:00 EST,3141-07-09 18:33:00 EST,1592,"N",1,"Nursing/Other",,"
+
+Patient remains on mechanical ventilation,went to Cat Lab today.Still shows metabolic acidosis.Needs pericardial window MDs will meet with family.
+",,
+8815,29403,10965,,3141-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-7-10**] 8:10 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10808**]
+     Reason: eval L lung for aeration                                    
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       69 year old woman with cp, sob, hypotension, s/p intubation.                   
+       
+     REASON FOR THIS EXAMINATION:
+      eval L lung for aeration                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate for left lung aeration.
+     
+     AP SUPINE CHEST:  Comparison to the film of the prior day.  There has been
+     continued improvement in aeration involving the left upper, mid and lower lung
+     zones.  There is improvement in underlying congestive heart failure.
+     Endotracheal tube and Swan-Ganz catheter remain in position.  There remains
+     nodular opacity seen in the right mid lung consistent with previously known
+     nodules.
+     
+     IMPRESSION:  Interval improvement in left lung aeration and underlying
+     congestive heart failure.
+     
+
+",,
+8815,29403,10965,,3141-07-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-7-10**] 4:25 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 10809**]
+     Reason: evaluate Gtube placement, s/p gastrograffin                 
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      69 year old woman with esophageal mass, sepsis, pericarditis with  leaking 
+      around G tube.
+     REASON FOR THIS EXAMINATION:
+      evaluate Gtube placement, s/p gastrograffin                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Evaluate G-tube placement.
+     
+     FINDINGS:  Single abdominal film obtained after injection of gastrografin was
+     obtained.  The gastrografin was seen entering the stomach with rugal folds
+     outlined.  The exam is otherwise limited secondary to patient's body habitus.
+     Clips are demonstrated in the pelvis.
+     
+     IMPRESSION:  G tube terminating in the stomach.
+
+",,
+8815,29403,10965,0,3141-07-10 02:35:00 EST,3141-07-10 02:39:00 EST,2942,"N",1,"Nursing/Other",,"
+
+RESPIRATORY----
+PT MAINTAINED ON A/C VENTILATION AT 50%. VITALS STABLE WITH GOOD SATS BUT FEBRILE AT 101. B.S. BILAT AND MOSTLY CLEAR. SX FOR MOD AMTS. NO NEW ABGS AT THIS TIME. MENTALLY PT SEDATED BUT AROUSABLE. PLAN IS TO CONT. ON CURRENT SETTINGS.
+",,
+8815,29403,10965,0,3141-07-10 04:31:00 EST,3141-07-10 06:00:00 EST,5517,"N",1,"Nursing/Other","Nursing Note 7p-7a","
+Nursing Note 7p-7a
+S:Intubated & sedated.
+O: Neuro- Sedated on Propofol, requiring a steady increase in dose over noc to maintain a comfortable sedation. Currently @ 52mcg/kg/min, responding only to pain stimuli.
+Resp- Vented on CMV 50% 500x22 5peep, was over breathing @ times to 34. ABG 7.37,23,161,-9 14. Sx several times for thick tan sputum.
+CV- Tele SR/ST with frequent-rare PACs, HR 63-[**Street Address 6190**] bursts into 120s. Remains on Levophed @ 0.034mcg/kg/min and Vasopressin @ 0.20 U/min with ABPs 117-137/48-60. R IJ Swan in place, PAPs 37-48 /18-22, CVPs 9-13. Latest #'s 4.9/2.71/1012, HCT 25, lytes pending. A-line sharp but draws sluggish.
+ID- Tmax 102.5, given 1 gm apap via peg tube, conts on iv Vanco and antifungals.
+GI/GU- Peg tube sutures broke, tube protruding out with TFs oozing from site. Stopped feed @ 2300, HO called who stitched tube in place  covered with tegaderm. Cont to given po meds via peg. Urostomy intact draining qs yellow urine with sediment. Mushroom cath in place and conts to drain brown/green liquid stool. 
+Endo- All FS covered per SS.
+Skin- Coccyx duoderm intact.
+A/P: Pt spiking temp over noc to 102.5, HO aware. Peg tube loose needs resuturing, TFs on hold. Sedation increased to maintain comfort, BP/HR stable on current pressors. Monitor temps, hemodnamics and restart TFs once peg site sutured in. ? Second family meeting today regarding POC.
+ 
+",,
+8815,29403,10965,0,3141-07-10 16:23:00 EST,3141-07-10 16:52:00 EST,1563,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: Intubated/sedated
+O: please see carevue for all objective data
+neuro: sedation changed from propofol to versed 1mg/hr and fentanyl 150 mcg/hr for better pain control. Pt arousable to voice when lightened. 
+cv: this am vasopressin weaned to .04 units/minute and levophed to .011 mcg//kg/min w/ bp 115-130/45-60. At noon sbp dropped to 80's requiring total 750cc fluid bolus, and levophed titrated up to .175 mcg/kg/min, curretnly bp 92/43 (60). hr  71-80 w/ very frequent apc's, CO/CI 5.6/3.09/557.
+resp: no vent changes made today. sx q 3-4 hr for sm-mod amts thick tan secretions.
+gi: leaking of bilious drainage from around G tube site this am, less this afternoon. ? placement so po meds held this am. x ray w/ gastrographin done this afternoon showing good placement. Probalance restarted at 40cc/hr. Entry site of g tubecontinues w/ sm amts yellow drainage. Area cleaned and DSD applied.
+gu: urostomy  tube draining yellow urine w/ some sediment. 10-50cc/hr, decreasing thru afternoon. Cr today ^ 1.6. today + 1200, + 15 liters LOS.
+id: tm 103 this am, now down to 98.3. wbc 8.9. Continues on merepenem, caspofungin, and vanco. needs trough vanc level results from [**3036**] before 2000dose given. blood cultures including fungal isolator and sputum sent. 
+end: bs elevated, started on insulin gtt, currently at 3 units/hr, see carevue for bs.
+skin: duoderm gel covered w/ allevlyn in place on coccyx. No other breakdown. Extremeties cool. Generalized anasarca
+heme: hct down to 25 this am, currently receiving unit PRBC.
+social: family meeting today, pt has been made DNR, but will continue aggressive treatment for 48 hrs. 
+A: worsening sepsis, hemodynamically unstable requiring ^ in pressor support, temp spike, hct drop, ^ cr. Pt now DNR
+P: Continue currently level of care for 48 hrs. Titrate levophed as necessary to maintain maps 60, titrate insulin gtt, follow hct, renal fx. Continue fentanyl and versed to maintain pt comfort. Emotional support to family. support 
+",,
+8815,29403,10965,,3141-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3141-7-11**] 7:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10810**]
+     Reason: please evaluate for interval change                         
+     Admitting Diagnosis: MYOCARDIAL INFARCTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        69 year old woman with cp, sob, hypotension, s/p intubation.                  
+         
+     REASON FOR THIS EXAMINATION:
+      please evaluate for interval change                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain, shortness of breath, and hypotension.  Status post
+     intubation.  Evaluate for change.
+     
+     COMPARISON:  [**3141-7-10**].
+     
+     SEMI UPRIGHT AP PORTABLE CHEST:  The patient is rotated to the left.  The
+     endotracheal tube and Swan-Ganz catheter remain in similar position.  The
+     heart size remains similar.  Given changes in positioning, there is increased
+     haziness of the pulmonary vascularity, particularly in the upper lung fields.
+     Bilateral pleural effusions and atelectasis persist.  The known
+     bilateral multiple pulmonary nodules were better demonstrated by recent CT.
+     
+     IMPRESSION:  Increased failure with persistent bilateral effusions.
+
+",,
+8815,29403,10965,0,3141-07-11 04:48:00 EST,3141-07-11 04:52:00 EST,2308,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt. remains on full ventilatory support.  B/S scattered course crackles>>ETS small to moderate, thick, yellow.  Atrovent MDI's given X 3 without any noted changes.  ABG's well oxygenated with partially compensated metabolic acidosis.  Post ABG, team notified.  Will treat acidosis with bicarbonate.  No RSBI done secondary to hemodynamic support requirements, and severe acidosis.  Will follow.
+",,
+8815,29403,10965,0,3141-07-11 04:57:00 EST,3141-07-11 05:46:00 EST,2540,"N",1,"Nursing/Other","CCU Nursing Progress Note 1900-0700","
+CCU Nursing Progress Note 1900-0700
+S: Intubated and sedated.
+
+O: Please see careview for complete VS/additional objective data.
+
+MS: Remains sedated on Fentanyl 150 mcg/hr and Versed 1 mg/hr. Pt responds to stimuli. Occassional spontaneous eye movement noted. Remains unrestrained. No issues with attempting to remove ETT/invasive lines.
+
+CV: Received pt on Levophed and Vasopressin. Levophed increased to .200 mcg/kg/min [** 493**] to maintain MAP goal of >65. Otherwise no changes in regimen. Vasopressin cont at 0.04 units/min. ABP 84-112/40-60. ABP dampening. Confirmed BP w/ NIBP. Correlation varies by approximately 5 points. HR NSR/SB 53-64. (50s following Dilt dose at midnight). No ectopy. PAP 40/20. CVP 10-13. Co/CI/SVR 504/2.98/311. M venous 68%. Hct 25 on prior shift. Received 1 uprbcs. Posttransfusion HCT and am HCT stable at 33.4. Pt cont on Amio and Lipitor daily. Electrolytes wnl. Pulses palpable bilaterally.
+
+Resp: Remains mechanically ventilated. No vent changes [** 493**]. AC 40%/500*22/5 peep. Worstening metabolic acidosis w/ ABG this am 7.28/33/133. HO notified. Awaiting arrival of D5 w/ Bicarb. Cont to suction for sm-mod amts of thick yellow-tan secretions. Oral secretions copious at times. LS coarse throughout except diminished in bases. MDIs administered by RPT.
+
+GI/GU: Probalance at goal 40cc/hr. Residuals 50-60cc. Gtube site stable. No ooze noted. Mushroom catheter x2 placed [** 493**]. Unsuccessfully placement of rectal bag. Cont liquid golden brown stool [** 493**]. Approx 950cc in total. Urostomy site intact. Draining 15-90cc yellow urine w/sediment q 2-3 hrs. BUN/Cr cont to ^ 29/1.9. Pt eulovemic for past 24hrs. Pt remains +15.8L LOS.
+
+ID: Afebrile. Tmax 99.2 core. Serial cultures pending. Pt cont on Meropenem/ Caspofungin and Vanco based on level. Vanco last pm 31.7. Dose held. WBC ^ 13.6 (8.9).
+
+Endo: Resumed insulin gtt. BS 87-146 q 2hrs. Insulin gtt 2-3 units/hr [** 493**].
+
+Skin: Generalized anasarca and peripheral edema. Breakdown notable for multiple skin tears on/around coccyx. Redressed soiled Allevyn dsg after applying duoderm gel to breakdown.
+
+Social: Number of children into visit and updated on pt's condition.
+Daughter called [**Name2 (NI) 493**] and updated.
+
+A/P: 69 yo female w/ metastatic CA with development of pericardial effusion. Tapped and drained approx 350cc. Hospitalization c/b sepsis and pna. Cont abx and pressor support to maintain bp. Cont BS control. Titrate insulin gtt as indicated. Worstening metabolic acidosis [**Name2 (NI) 493**]. HO aware. Started Bicarb gtt. Cont aggressive treatment for 48hrs then reevaluate prognosis and discuss with family.  ?CMO/ MSO4 for comfort. Cont supportive care. Provide support for family.
+",,
+8815,29403,10965,0,3141-07-11 16:41:00 EST,3141-07-11 16:53:00 EST,1563,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: intubated/sedated
+O: please see carevue  for all objective data.
+neuro: sedated w/ fentanyl 200mcg/hr and versed 2 mg/hr w/ good effect. Pt arousable to stimuli, opens eves spontaneously. 
+cv: remains pressor dependent on levophed .150-.20 mcg/kg/min and vasopressin .04 units/min. w/ bp 88-124/46-59. hr 55-72 except very brief run svt rate 145, PAP 45-49/15-20 (24-30) Diltiazem d/c, continues on amiodarone. 
+resp: no vent changes made today.
+",,
+8815,29403,10965,0,3141-07-11 17:02:00 EST,3141-07-11 17:19:00 EST,1563,"N",1,"Nursing/Other",,"
+
+CCU NPN cont.
+sx q 3-4 hr for sm-mod amts thick tan secretions.  MV blood gas-> 40/39/7.30/20. 
+gi: Probalance at 40cc/hr. Mushroom cathter in place w/ sm amt drainage today. 
+gu: urostomy tube draining 10-15cc/hr. + 2500cc since mn, + 18 liters for LOS. cr ^ 1.9 this am from 1.5 [**7-10**].
+id: tm 99.6 blood. wbc 13.4 this am. urine growing enterococcus in urine fromn [**7-8**], started on linezoid and pt now on VRE precautions. 
+heme: hct this am 33. 
+end: remains on insulin gtt, 1-3 units/hr w/ bs 64-198.
+skin: coccyx has several skin tears which are covered with duoderm gel and allevlyn, intact. generalized edema +3.
+social: family, husband and 8 children in to visit all day. They have been updated on pt's condition. plan at this time is pt is DNR but we will continue to treat for the next 24-48 hrs and re-evaluate plan of care.
+A: sepsis, new VRE in urine, remains pressor dependent, vent dependent, rising creatinine. 
+P: Maintain currentl level of care, emotional support to family, 
+
+",,
+8815,29403,10965,0,3141-07-11 17:02:00 EST,3141-07-11 17:08:00 EST,2942,"N",1,"Nursing/Other",,"
+
+RESPIRATORY----
+PT MAINTAINED ON A/C VENTILATION AT 40%. VITALS STABLE WITH LOW GRADE FEVER. SATS OF 98%. B.S. BILAT BUT DECREASED TO LEFT. MEDS GIVEN. PT SEPTIC WITH HEMODYNAMIC INSTABILITY. MENTALLY PT IS SEDATED. TALKED WITH DAUGHTERS TODAY ABOUT SERIOUSNESS OF SITUATION. LOST A-LINE WITH MIXED VENOUS GASES ONLY. SOME IMPROVEMENT IN C.O. WITH INDEX. FAMILY MEETING TOMORROW. PLAN IS TO CONT. WITH CURRENT VENTILATION.
+",,
+8815,29403,10965,0,3141-07-12 04:27:00 EST,3141-07-12 04:55:00 EST,1722,"N",1,"Nursing/Other",,"
+
+NSG NOTE
+
+CV: CON'T ON PRESSORS VASOPRESSIN 0.04U/MIN. LEVO WEANED DOWN TO 0.125MCG/KG/MIN. LEVO WEANED SLOWLY, WHEN PT IS TURNED TO R SIDE SHE DROPS HER SBP 80'S AND 90'S. PAD'S 19-22, CVP 12-15, PCWP 17. CO 6.7 CI 3.7 SVR 537. CON'T ON AMIODARONE VIA PEG.
+
+RESP: MECH VENT  AC 40%,500 X 22, 5. SUCTIONED X4 [** **] FOR THICK YELLOW. BS COURSE THRUOUT. ABG'S VIA VEINPUNCTION PENDING. PT ON MDI'S  ETT # 7.5 @ 17.
+
+GI: CON'T ON PROBALANCE @ GOAL 40CC/HR. ABD SOFT, HYPOACTIVE BS. PT HAD SM AMT OF STOOL TO THICK TO PASS THRU MUSHROOM CATH. CATH IRRIGATED AND REINSERTED BUT STOOL CON'T TO OOZ AROUND CATH. MUSHROOM D/CD.
+
+GU: U/O 15-50CC/HR CREAT CLIMB OVER PAST SEVERAL DAYS. CREAT PENDING THE AM.
+
+SKIN: COCCYX HAS SEVERAL OPEN SKIN TEARS. WOUND CLEANSER APPLIED DUODERM GEL AND ALLEVYN DSG APPLIED. UROSTOMY SITE PINK. BAG INTACT. (LAST CHG [**7-11**])
+
+ID: AFEBRILE BUT WBC THIS AM ELEVATED TO 16.4 CON'T ON CONTACT PRECAUTIONS NEW VRE IN URINE. PNA. YEAST IN BLD AND PERICARDIAL FLUID. CON'T ON ABX AS ORDERED.
+
+NEURO: FENATNYL @ 200MCG/HR AND VERSED @ 2.0MG PT WILL OPEN EYES TO PAINFUL STIMULI. UNABLE TO FOLLOW COMMANDS. CALM AND QUIET WHEN ALLOWED TO REST. NO MOVMENT OF EXT.
+
+ENDO: BS PER CAREVUE. INSULIN GTT AND Q 1/HR BS. DIFFICULT TO CONTROL EARLIER IN SHIFT. THAN BS DIPPED TO 53.  INSULIN GTT OFF AND GIVEN D50 IV. BS NOW 140. WILL KEEP INSULIN GTT OFF TILL INDICATED.
+
+LABS: HCT 30.8
+
+HEME: T&C SENT THIS AM
+
+SOCIAL: FAMILY IN ON EVES AND UPDATED ON POC.
+
+DISPOSITION: DNR
+
+A/P: 69 YR OLD DM,HTN,ELEVATED CHOL BLADDER CA UROSTOMY, METASTATIC CA ( UNKNOWN PRIMARY) WITH METS TO LUNG,ESOPH,SPINE. S/P CHEMO [**6-26**],S/P PEG [**5-28**] ADM ON [**6-27**] ACUTE ONSET CP ST ELEVATION INF/LAT CATH [**6-27**] NEG. HOWEVER HAD ELEVATED R/L SIDED PRESSURES. [**6-27**] ECHO SM PERICARDIAL. REPEAT ECHO [**7-3**] LG PERICARDIAL EFFUSION REQUIERING PERICRDIAL TAP AND DRAIN PLACEMENT. DRAINED 350CC. WINDOW PLANNED ON [**7-7**] BUT PT SEPTIC FALLING BP'S. STARTED ON PRESSORS. RESP DISTRESS, INTUBATED. NOW PT DNR, BUT CON'T ON PRESSORS WITH ATTEMPTS TO SLOW WEAN. CON'T TO FOLLOW HEMODYNAMICS AND PLAN PER NSG JUDGEMENT.
+",,
+8815,29403,10965,0,3141-07-12 04:35:00 EST,3141-07-12 04:39:00 EST,2308,"N",1,"Nursing/Other","Respiratory Care:","
+Respiratory Care:
+Pt. remains on full ventilatory support.  SPO2 @ 100% this shift.  Pt. not overbreathing set RR of vent.  B/S scattered course.  ETS small to moderate amounts of thick yellow.  MDI's given X 2 this shift with no changes noted.  Obtained ABG this a.m.; results pending.  Will continue current support awaiting family concensus regarding future care.
+",,
+8815,29403,10965,0,3141-07-12 17:22:00 EST,3141-07-12 17:40:00 EST,2750,"N",1,"Nursing/Other","CCU Nursing Progress Note 7am-7pm","
+CCU Nursing Progress Note 7am-7pm
+S:  Orally intubated and sedated
+
+O:  Social - Family meeting with husband, children and Dr [**First Name (STitle) **].  Current situation was thoroughly explained to family, and they realize gravity.  At present, they are awaiting the arrival of a family member from [**State **].  Husband states that he will let us know by noon tomorrow about this family member.  Husband states that pt would not want to live on a machine.  Nursing has reinforced the fact that our goal now is to keep pt comfortable.  Family understands and has been present throughout the day.  Social service cx and vss to assist family with coping mechanisms for the grandchildren (ages 3 and 5).
+Fentanyl gtt maintained 200mcgs/hr, Versed cont 3mg/hr, Morphine added 2mg/hr and Ativan 2mg/hr.  Prior to initiation of Morphine and Ativan, pt would nod head appropriately when asked if she was in pain, she would grimace when cleaned of stool.  
+
+ID - T max 97.5 core.  Iv abx dc/d after discussion with family
+
+CV - HR 50-60's SB/SR with no vea.  HR increased when doing am care
+BP 85-123/50-60.  Cont on Vasopressin 0.04u/min and Levo  0.115mcgs/kg/min.  Meds continued until all family has vss pt.  PAD's 20.  CVP 14.  No co/ci done.
+
+Resp - Remains orally intubated with coarse bs throughout.  Sx q2-3hrs for thick yellow secretions.  40%/500/22br/5peep continues without change
+
+GI - Remains on tf via peg.  Probalance infusing 40cc/hr which is goal.  Pt is passing lg amts liquid golden brown stool.  Fecal incont bag placed, d/t small open areas around rectal area.  No mushroom cath at this point d/t thickness of stool
+
+GU - Urostomy patent clear yellow urine.
+
+Skin - Small skin tears noted under abdominal folds, peri area and coccyx.  Cleansed with wound cleanser and covered with duoderm gel and aloven dsg on coccyx area.  
+
+A:  69yof with metastatic ca is now dnr.  Awaiting arrival of family members from [**Name2 (NI) **] then will withdrawl care.
+
+P:  Cont to keep pt comfortable with IV meds, turn and positioning, freq sx and skin care.  Cont to support family throughout this hospitalization. 
+
+
+",,
+8815,29403,10965,0,3141-07-13 03:36:00 EST,3141-07-13 03:39:00 EST,2161,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient intubated on mechanical support. Vent settings unchanged Vt 500, A/c 22, Fio2 40%, and Peep 5. Bs clear bilaterally. Sx'd for sm amounts of thick yellow secretions. No further changes made. Continue with mechanical support. CMO. ? Withdrawal of mechanical support today. 
+",,
+8815,29403,10965,0,3141-07-13 04:08:00 EST,3141-07-13 04:50:00 EST,1853,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+O:  afeb. 
+HR 
+60's SR.  BP 93/53-119/54.  no changes made to pressors. levo .115mcq/k/min. vasopressin .04u/min.  
+PAP 40's/18-21.  no Cardiac numbers checked- no labs drawn.  resident aware.  
+
+many family members staying through night, at bedside.  coming in/out of CCU.  waiting for one more member to arrive today from out of state- then plan for comfort measures. 
+
+no vent changes.  AC 500x22/.40/5peep.  sats 100%.  LS diminished.  suctioned for thick yellow secretions.  
+
+GI:  probalance 40cc/hr.  no stool.  FIB intact.  
+GU: u/o 30-50cc/hr.  positive fluid balance. 
+
+neuro:  pt. remains sedated on fent/versed as well as morphine/ativan which was started [**7-12**] afternoon when decision was made to make pt. DNR.  opens eyes slightly when moved or suctioned.  otherwise no spont. movement.  
+
+
+",,
+8815,29403,10965,0,3141-07-13 16:00:00 EST,3141-07-13 16:02:00 EST,2450,"N",1,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains on same settings without changes. Suctioning small-mod amts of tan. Family in room with pt.
+",,
+8815,29403,10965,0,3141-07-13 17:24:00 EST,3141-07-13 17:34:00 EST,2750,"N",1,"Nursing/Other","CCU Nursing Progress Note 7am-7pm","
+CCU Nursing Progress Note 7am-7pm
+S:  Orally intubated and sedated.
+
+O:  CV - HR 60-70's NSR with no vea.  BP 100-120/60's cont on Vasopressin 0.04units/min and Levo 0.115mcgs/kg/min without change.  PAd's 22, CVP 11-14.  CO/CI unmeasured.  
+
+ID - Afebrile 99.1 core
+
+Resp - cont on current vent settings without change.  Sx q2-3hrs for copious amts whitish/yellow secretions.  Secretions increasing in amts.
+
+GI - Abd is obese with rectal bag intact.  No stool today.  Probalance dc'd at 4pm d/t absent bowel sounds.  
+
+GU - Urostomy intact clear yellow urine.  Bag was changed today, as was leaking.
+
+Neuro/Comfort - Minimal movement to painful stimuli, sx and turning.  Cont on Morphine 2mg/hr, Fentanyl 200mcgs/hr, Versed 3mg/hr and Ativan 1mg/hr.  Does grimace to deep sx, otherwise no response. 
+
+Skin- Multiple skin tears noted around coccyx, under abd skin folds and peri area.  Cleansed with skin cleanser and covered with duoderm hydrogel. 
+
+Social - Many family members here throughout day, but Mr. [**Known patient lastname 6191**] was not here today.  He is expected back in the morning.  MD's spoke at length with daughters, and they realize gravity of pt's situation.
+
+A:  Unchanged cv, maintained sedation at current level, increased resp secretions.
+
+P:  Cont pul toileting for comfort, cont current sedation regime with bolus' prn pre sx and turning,  cont max support for family, palliative care nurse to help with family coping tomorrow.
+ 
+",,
+8815,,10965,0,3141-07-14 04:45:00 EST,3141-07-14 04:59:00 EST,1853,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+O:  afeb. 
+HR 60-70'sSR.  BP 110-150/60-70.  no change in gtt's.  levo .115mcq/k/min.  vaso .04u/min.  PAD's 20's.  
+
+opens eyes slightly when stimulated with turns, suction. no grimace. 
+fent. 200mcq/hr, versed 3mg/hr, ativan 1mg/hr and morphine 2mg/hr. 
+fair u/o.
+TF d/c'd [**7-13**]. no stool.  absent BS.
+
+less family staying in room overnight.  palliative care consult ordered.  meeting set for 1030 per resident.  family to meet with palliative care team to set plan for withdrawl.  
+",,
+8815,,10965,0,3141-07-14 04:58:00 EST,3141-07-14 05:02:00 EST,2161,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient remains intubated on mechanical support. No changes in vent settings. Vt 500, A/c 22, Fio2 40%, and Peep 5. Bs clear bilaterally. Sx'd for sm amounts of thick yellow secretions. Plan: ? Withdrawing support today. 
+",,
+8815,,10965,0,3141-07-14 14:50:00 EST,3141-07-14 14:54:00 EST,2800,"N",1,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+
+Please see flow sheet for objective data. Husband and children met with palliative care sevices at approx 11am. All family members comfortable with withdrawing care slowly today.. Pressors dc'd and MSO4, versed and fentanyl drips titrated for comfort. Vent changed to CPAP 5/5. Pt pronouced at 245pm by house staff with multiple members present.
+",,
+8815,,10965,0,3141-07-14 15:27:00 EST,3141-07-14 15:28:00 EST,2931,"N",1,"Nursing/Other","RESP CARE","
+RESP CARE
+PT RECEIVED ON A/C-PARAMETERS NOTED.  PT MADE CMO AND VENT SLOWLY WITHDRAWN TO PS.  PT PASSED AWAY AT APPROX 0245.
+",,

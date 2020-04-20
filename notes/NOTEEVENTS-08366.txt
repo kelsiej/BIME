@@ -1,0 +1,1414 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8366,,,,3133-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-1-13**] 8:36 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7124**]
+     Reason: 71 M transferred from outside hospital with pneumonia and R 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with COPD                                                       
+     REASON FOR THIS EXAMINATION:
+      71 M transferred from outside hospital with pneumonia and R sided endocarditis, 
+      hypoxia, please eval for infiltrate, ? septic emboli
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  COPD and pneumonia, ? septic emboli.
+     
+     COMPARISONS:  None.
+     
+     PA AND LATERAL CHEST:  The cardiac and mediastinal contours are unremarkable.
+     The aorta is calcified.  There is no pulmonary vascular congestion. There is
+     patchy consolidation of the right lower lobe, compatible with known history of
+     pneumonia.  Small right pleural effusion.  The left lung is clear. No
+     pneumothorax. The soft tissue and osseous structures are unremarkable.
+     
+     IMPRESSION:   Right lower lobe pneumonia.  Followup to radiographic resolution
+     is recommended.
+
+",,
+8366,,,,3133-01-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-1-13**] 8:36 AM
+     CHEST (LAT DECUB ONLY)                                          Clip # [**Clip Number (Radiology) 7123**]
+     Reason: 71 M transferred from outside hospital with pneumonia and R 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with COPD                                                       
+     REASON FOR THIS EXAMINATION:
+      71 M transferred from outside hospital with pneumonia and R sided endocarditis, 
+      hypoxia, please eval for infiltrate, ? septic emboli
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pleural effusion.
+     
+     COMPARISON:  Earlier, same day.
+     
+     FINDINGS:  Right lateral decubitus demonstrates layering of pleural fluid in
+     the right minor fissure.  Right lower lobe consolidation again noted.  The
+     left lung remains clear.
+     
+     IMPRESSION:  Layering small right pleural effusion.
+
+",,
+8366,,,,3133-01-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-1-15**] 11:28 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7125**]
+     Reason: 71 M transferred from outside hospital with pneumonia and R 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       71 year old man with COPD                                                      
+       
+     REASON FOR THIS EXAMINATION:
+      71 M transferred from outside hospital with pneumonia and R sided endocarditis, 
+      hypoxia, please eval for infiltrate, ? septic emboli. follow up
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  71 y/o man with COPD transferred in with pneumonia and right
+     sided endocarditis, ? septic emboli. 
+     
+     PA AND LATERAL CHEST:   There is no change from prior study dated [**3133-1-13**].  As
+     before, patchy opacity at the right base is consistent with a right lower lobe
+     infiltrate.
+
+",,
+8366,,,,3133-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-1-16**] 6:07 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 7126**]
+     Reason: Evaluate for cavitary lesions, evid septic emboli, source of
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with R sided pneumonia, hi O2 requirement, ?endocarditis but 
+      neg TTE.
+     REASON FOR THIS EXAMINATION:
+      Evaluate for cavitary lesions, evid septic emboli, source of continued hypoxia. 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right-sided pneumonia, ? endocarditis.  Evaluate for cavitary
+     lesions, evidence of septic emboli or other source of continued hypoxia.
+     
+     No comparison studies available.
+     
+     TECHNIQUE:  CT chest with IV contrast.
+     
+     CONTRAST: 100 cc of Optiray was administered intravenously for patient's
+     general debilitation.
+     
+     CT CHEST WITH IV CONTRAST:  Soft tissue windows reveal small mediastinal and
+     borderline right hilar lymph nodes, presumably reactive in nature.  A small
+     right pleural effusion is noted.  There is a trace pericardial effusion and
+     pericardial thickening.  The heart size is normal.  There is no left pleural
+     effusion.
+     
+     Lung windows reveal diffuse emphysema.  Air space opacification with air
+     bronchograms is demonstrated in the right lower lobe.  Part of the
+     opacification in the right lower lobe has a somewhat honeycombing appearance,
+     probably due to the combined appearance of air space consolidation and
+     background emphysema.  There is no evidence of cavitary lesions or multiple
+     nodular opacities indicative of septic emboli.  Small areas of patchy
+     opacities are demonstrated in the right middle lobe anteriorly which appears
+     to be associated with minor fissure and may represent atelectasis or scarring.
+      Less likely, this could also represent patchy areas of infection.
+     
+     Bone windows reveal degenerative changes.
+     
+     In the imaged portion of the upper abdomen, a few high density foci is noted
+     in the gallbladder, which may represent small gallstones.  Otherwise no
+     significant abnormalities are seen.
+     
+     IMPRESSION:  Right lower lobe pneumonia on the background of diffuse
+     emphysema.  A small associated right pleural effusion.  There is no evidence
+     of cavitary lesions or septic emboli.
+                                                                 (Over)
+
+     DATE: [**3133-1-16**] 6:07 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 7126**]
+     Reason: Evaluate for cavitary lesions, evid septic emboli, source of
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8366,,,,3133-01-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-1-16**] 6:07 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 7126**]
+     Reason: Evaluate for cavitary lesions, evid septic emboli, source of
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with R sided pneumonia, hi O2 requirement, ?endocarditis but 
+      neg TTE.
+     REASON FOR THIS EXAMINATION:
+      Evaluate for cavitary lesions, evid septic emboli, source of continued hypoxia. 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right-sided pneumonia, ? endocarditis.  Evaluate for cavitary
+     lesions, evidence of septic emboli or other source of continued hypoxia.
+     
+     No comparison studies available.
+     
+     TECHNIQUE:  CT chest with IV contrast.
+     
+     CONTRAST: 100 cc of Optiray was administered intravenously for patient's
+     general debilitation.
+     
+     CT CHEST WITH IV CONTRAST:  Soft tissue windows reveal small mediastinal and
+     borderline right hilar lymph nodes, presumably reactive in nature.  A small
+     right pleural effusion is noted.  There is a trace pericardial effusion and
+     pericardial thickening.  The heart size is normal.  There is no left pleural
+     effusion.
+     
+     Lung windows reveal diffuse emphysema.  Air space opacification with air
+     bronchograms is demonstrated in the right lower lobe.  Part of the
+     opacification in the right lower lobe has a somewhat honeycombing appearance,
+     probably due to the combined appearance of air space consolidation and
+     background emphysema.  There is no evidence of cavitary lesions or multiple
+     nodular opacities indicative of septic emboli.  Small areas of patchy
+     opacities are demonstrated in the right middle lobe anteriorly which appears
+     to be associated with minor fissure and may represent atelectasis or scarring.
+      Less likely, this could also represent patchy areas of infection.
+     
+     Bone windows reveal degenerative changes.
+     
+     In the imaged portion of the upper abdomen, a few high density foci is noted
+     in the gallbladder, which may represent small gallstones.  Otherwise no
+     significant abnormalities are seen.
+     
+     IMPRESSION:  Right lower lobe pneumonia on the background of diffuse
+     emphysema.  A small associated right pleural effusion.  There is no evidence
+     of cavitary lesions or septic emboli.
+                                                                 (Over)
+
+     DATE: [**3133-1-16**] 6:07 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 7126**]
+     Reason: Evaluate for cavitary lesions, evid septic emboli, source of
+     Field of view: 38 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8366,,,,3133-01-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-1-18**] 2:32 PM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 7127**]
+     Reason: please check placement of left [**Hospital Unit Name 622**]. cub. PICCline.  patient 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        71 year old man with COPD                                                     
+         
+     REASON FOR THIS EXAMINATION:
+      please check placement of left [**Hospital Unit Name 622**]. cub. PICCline.  patient to be transfered to 
+      rehab once placement established please page IV nurse [**First Name (Titles) 619**] [**Last Name (Titles) 620**] reading #[**10/3569**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST X-RAY:
+     
+     INDICATION:  Placement of PICC line.
+     
+     TECHNIQUE:  A single PA view of the chest is obtained.
+     
+     FINDINGS:  There has been placement of a left sided PICC catheter, with tip in
+     the proximal left brachiocephalic, approximately 4-5 mm from the juncture with
+     the SVC.  The cardiomediastinal silhouette is unremarkable.  There are several
+     ill-defined nodular densities in the right mid lung zone, which corresponds
+     with effusion and infiltrate on CT two days prior.  Additionally, there is a
+     coarse, right basilar interstial process, which is essentially unchanged from
+     the prior exam of [**3133-1-15**].  Pulmonary vascularity is normal.  Osseous
+     structures are unremarkable.
+     
+     IMPRESSION:
+     
+     The tip of the PICC line is in the proximal brachiocephalic.  Unchanged
+     appearance of right sided pneumonia.
+     
+
+",,
+8366,1670,,,3133-02-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3133-2-2**]       Discharge Date:  [**3133-2-17**]
+
+Date of Birth:   [**3061-9-21**]       Sex:  M
+
+Service:  MEDICINE
+
+HISTORY OF PRESENT ILLNESS:  This is a 71-year-old male who
+had transferred from [**Hospital3 976**] with prolonged
+pneumonia.  The patient was originally admitted to [**Hospital3 975**] on [**3133-1-8**] for community acquired pneumonia after
+patient developed new onset pleuritic chest pain and
+shortness of breath while shoveling snow on [**Holiday 3516**].  He
+was found to have [**5-12**] blood cultures identified as staph
+hominis.  A TE was performed and preliminarily identified a
+vegetation on the RV outflow tract.
+
+He was transferred to [**Hospital1 75**] on
+[**3133-1-12**].  Events from his previous admission here including
+CTA which showed right lower lobe pneumonia and emphysema,
+but no evidence of PE.  The TE was reread by Cardiology here
+who felt that the vegetation was actually an artifact.  A
+repeat TTE here confirmed no vegetations and an ejection
+fraction of greater than 55%.  He was found to have one out
+of six blood cultures positive for coag negative staph.  He
+was also found to have urinary retention and has been with a
+Foley catheter since.
+
+He was discharged to [**Hospital6 **] on [**3133-1-18**] on a 21
+day course of Vancomycin and Levaquin.  The patient's
+pulmonary functions subjectively improved until [**3133-1-26**] when
+he became short of breath and had spiking fevers to 103.0 F.
+He was readmitted to [**Hospital3 976**] on [**3133-1-28**].  His
+hospital course there was significant for new right middle
+and left lower lobe pneumonia in addition to previous right
+lower lobe.  His Levaquin was stopped and he was started on
+Tobramycin and Vancomycin.  He was given Solu-Medrol times
+one dose for wheezing.  He was transferred to [**Hospital1 74**] for further evaluation.
+
+On admission, the patient denies any cough or sputum
+production.  He states that he has shortness of breath only
+when off oxygen and it is exacerbated when walking.  He
+denies, but has had night sweats and shaking chills.  Over
+the last month, he has never had blood sputum and has gained
+weight.  No calf pain.  No diarrhea, nausea or vomiting.  No
+new rash, focal numbness or weakness.  No recent sick
+contacts or recent travel.  No history of blood transfusions.
+No history of TB.
+
+PAST MEDICAL HISTORY:
+1.  Osteoporosis, hereditary diagnosis by bone scan in [**3120**].
+2.  Inguinal hernia repair on the right in [**3122**].
+3.  History of Rubella in [**3081**].
+
+SOCIAL HISTORY:  Retired accountant.  Formally worked in the
+Navy.  Married and lives with wife.  Has a 60 pack year
+smoking history.  Quit one year ago.  Rare alcohol use.  No
+asbestoses exposure.
+
+FAMILY HISTORY:
+1.  Brother with emphysema.
+2.  Mother died of heart disease.
+3.  Father died suddenly of unknown causes.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON TRANSFER:
+1.  Albuterol Atrovent nebs q. six hours.
+2.  Flovent 220 mcg b.i.d.
+3.  Humibid 1200 p.o. b.i.d.
+4.  Heparin subcutaneous 5000 units b.i.d.
+5.  Tobramycin 400 q.d.
+6.  Protonix 40 q.d.
+7.  Fosamax 70 mg q. Friday.
+8.  Vancomycin 1.5 grams q. 18 hours.
+9.  Ceptaz 2 grams q. eight hours.
+10. Tylenol p.r.n.
+11. Percocet p.r.n.
+
+PHYSICAL EXAMINATION:  On admission temperature 96.0 F, blood
+pressure 148/65, heart rate 113, respiratory rate 30, O2 sat
+93% on four liters plus 40% facemask.  In general the patient
+had no labored breathing, although appears to be breathing
+comfortably.  Head, eyes, ears, nose and throat:  Oropharynx
+with thrush.  Mucous membranes dry.  Jugular venous pressure
+not elevated.  Neck supple.  Anicteric sclerae.  Pupils
+equal, round and reactive to light.  Chest:  Decreased breath
+sounds bilaterally at the bases, right more than left.
+Egophony on the right lower lobe.  Decreased tactile fremitus
+on the right.  Bronchial breath sounds in right.  Dullness to
+percussion right more than left.  Occasional expiratory
+wheezes.  Heart:  Regular rate and rhythm, normal S1, S2, no
+murmur, gallop or rub appreciated.  Abdomen:  Soft,
+nontender, nondistended with normoactive bowel sounds, no
+hepatosplenomegaly.  Extremities:  Left PICC in place, clean,
+dry and intact.  No cyanosis, clubbing or edema.  There is 2+
+DP and PTs bilaterally.  Neuro:  Alert and oriented times
+three, no gross motor or sensory defects.
+
+LABORATORY DATA:  Most recent include white count of 8.7,
+hemoglobin 11.2, hematocrit 32.6.  The patient did have a
+white count of 17.7, however had subsequently decreased.
+Platelets 438.  [**2-4**] urinalysis negative.  Bum 15,
+creatinine 0.6, sodium 136, potassium 4.6, chloride 97,
+bicarbonate 30, ALT 46, AST 33, alkaline phosphatase 109, t
+bilirubin 0.3.  Patient also ruled out with CKs of 23, 23 and
+21.  Troponin less than 0.3, less than 0.3 and less than 0.3.
+The patient's peak liver enzymes were ALT of 110, AST 81, LD
+287, alkaline phosphatase 202 that was on admission.  The
+enzymes have subsequently decreased.
+
+The patient's hepatitis B antigen and antibody negative,
+hepatitis C negative, ANCA negative, [**Doctor First Name **] negative, RS
+negative, HIV negative.
+
+VAT biopsy, the tissue had no microorganisms on gram stain
+and was no growth for aerobic, anaerobic, acid-fast or fungal
+cultures.  Legionella also negative.
+
+Sputum contaminated.  Urine culture with no growth.  Blood
+cultures on [**2-3**] with no growth.  Fungal cultures on [**2-2**]
+with no growth.  Pleural fluid gram stain no microorganisms.
+Fluid culture no growth.  Anaerobic culture no growth.
+Acid-fast, none seen.
+
+Last chest x-ray on [**2-15**] shows slight increase in right
+lower lobe lung opacity.  This may be due to a pneumonia or
+atelectasis and small right pleural effusion.
+
+A pathology of the VAT biopsy on [**2-10**] revealed pleural
+biopsy adhesions, chronic inflammation and mesothelial
+hyperplasia, no evidence of malignancy.
+
+Right lower lobe wedge biopsy with patchy organizing
+pneumonitis with focal prominent scarring, focal interstitial
+fibrosis and focal interstitial chronic inflammation.
+
+Pleural fluid taken on [**3133-2-7**], cytology negative for
+malignant cells.
+
+HOSPITAL COURSE:
+1.  PULMONARY:  The patient was initially admitted to the
+MICU for observation.  The patient was never intubated in the
+MICU.  The patient, however had thoracentesis which revealed
+the transudate and negative cytology for malignancy.  A high
+resolution CT Scan showed emphysema and evidence of
+congestive heart failure and right lower lobe consolidation.
+Rheumatological work up was negative.
+
+The patient had been diuresed with Lasix p.r.n.  The patient
+in the MICU was started on only Ceftazidime.  Other
+antibiotics were discontinued.  The patient did not complain
+of dyspnea, cough or chest pain.  On [**3133-2-9**], the patient
+was taken for a VAT per CT Surgery with results as stated
+above.  Pulmonary consulted continued to follow and felt that
+the patient had no need for steroids.
+
+A right chest tube was placed on the day of the VAT.  There
+was never a pneumothorax and the chest tube was pulled per CT
+Surgery on [**3133-2-13**].  The patient did develop some chest pain
+a day or two following the surgery and described it as a band
+around his chest.  For thoroughness, the patient was ruled
+out for a MI.  The chest pain resolved on its on.
+
+From a pulmonary standpoint, the patient continued to improve
+throughout the hospitalization.  He was given nebulizer
+treatments, Flovent MDI, chest PT, incentive spirometry and
+eventually began ambulating.  The patient's O2 requirement on
+discharge was four liters nasal cannula.  The patient
+Ceftazidime was discontinued on [**3133-2-16**].  The patient will
+need follow up with Pulmonology as an outpatient.
+
+2.  URINARY RETENTION:  The patient had a Foley for the
+entire MICU stay and once transferred to the floor, the
+patient was given a trial without the Foley.  The patient did
+not urinate without the Foley and had to be straight cathed.
+The Foley was replaced.  A second trial was given on
+[**3133-2-15**].  The patient, again, failed the trial without the
+Foley and the Foley was replaced.
+
+Urology was consulted.  Urology stated that the patient
+should remain with the Foley in him for the next two weeks
+and then follow up in Urology Clinic as an outpatient.  The
+patient was also started on empiric Flomax for benign
+prostatic hypertrophy.
+
+3.  ELEVATED LIVER FUNCTION TESTS:  The patient was noted to
+have elevated LFTs on admission, however they subsequently
+decreased to normal.  Unclear etiology as to why the LFTs
+were elevated.
+
+4.  INFECTIOUS DISEASE:  The patient's blood, sputum, pleural
+fluid and tissue biopsy were all no growth.  The patient had
+a 12 day course of IV Ceftazidime while here in the hospital.
+
+CONDITION ON DISCHARGE:  The patient was discharged in good
+condition on [**3133-2-17**] to [**Hospital6 **].  The patient is
+to follow up with his PCP.
+
+DISCHARGE MEDICATIONS:
+1. Flomax 0.4 mg q.h.s.
+2.  Protonix 40 mg q. AM.
+3.  Albuterol nebs q. six hours p.r.n.
+4.  Atrovent nebs q. six hours p.r.n.
+5.  TUMs 500 mg t.i.d.
+6.  Vitamin D 400 IU q.d.
+7.  Miconazole powder 2% one application topically t.i.d.
+p.r.n.
+8.  Colace 100 mg b.i.d.
+9.  Flovent MDI 110 mcg two puffs b.i.d.
+
+FOLLOW UP:  The patient was instructed to follow up in the
+Urology Clinic at [**Telephone/Fax (1) 2315**] in two weeks.
+
+
+
+
+                            [**Name6 (MD) 1956**] [**Last Name (NamePattern4) 1957**], M.D.  [**MD Number 1968**]
+
+Dictated By:[**Last Name (NamePattern1) 11592**]
+MEDQUIST36
+
+D:  [**3133-2-16**]  15:47
+T:  [**3133-2-16**]  16:32
+JOB#:  [**Job Number 11593**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 1956**] [**Name (STitle) **]
+ on: [**First Name8 (NamePattern2) 442**] [**3133-2-21**] 10:22 AM
+(End of Report)
+
+
+",,
+8366,1670,,,3133-02-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8366,1670,10401,,3133-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-3**] 3:41 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 7130**]
+     Reason: Please eval for pneumonia, IPF, BOOP with high res CT       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       71 year old man with R sided pneumonia, persistent for the last month despite 
+      abx coverage.  Please eval for pneumonia, IPF, BOOP.
+     REASON FOR THIS EXAMINATION:
+      Please eval for pneumonia, IPF, BOOP with high res CT                           
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Right sided pneumonia. Evaluate for IPF.
+     
+     TECHNIQUE:  Helical and thin section HRCT images of the chest were obtained
+     without contrast.
+     
+     COMPARISONS: [**3133-1-16**]
+     
+     CT CHEST W/O CONTRAST:  There has been interval development of small bilateral
+     pleural effusions. Several subcentimeter mediastinal lymph nodes are seen,
+     likely reactive in nature.  There is a small amount of pericardial fluid as
+     well. There is evidence of coronary artery calcifications. The overall heart
+     size is within normal limits.
+     
+     Again seen is moderate, diffuse centrilobular emphysema, most prominent at the
+     lung apices. There is continued evidence of right lower lobe consolidation,
+     but slightly improved since the previous exam consistent with patient's
+     history of pneumonia. Since the prior study there is now evidence of
+     intralobular septal thickening consistent with pulmonary edema. There is no
+     evidence of honeycombing to suggest interstitial lung disease.
+     
+     In the imaged portion of the upper abdomen, the unehanced liver, spleen,
+     adrenal glands and upper poles of the kidneys are unremarkable.
+     
+     IMPRESSION:
+     
+     1) Slight improvement in right lower lobe pneumonia.
+     2) Pulmonary edema superimposed on background emphysema. Small pericardial
+     effusion and small bilateral pleural effusions.
+     3) No evidence of honeycombing to suggest interstitial lung disease.
+
+",,
+8366,1670,10401,,3133-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-3**] 2:06 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7129**]
+     Reason: improvement in PNA                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       71 year old man with multilobar pneumonia, temp spikes.  possible copd.        
+     REASON FOR THIS EXAMINATION:
+      improvement in PNA                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Continued fever.  Evaluate for improvement in pneumonia.
+     
+     COMPARISON:  [**3133-2-3**] at 6AM.
+     
+     PORTABLE SEMIUPRIGHT CHEST:  The overall appearance is not significantly
+     changed from the exam from earlier the same day.  Again seen are small
+     bilateral pleural effusions with basilar atelectasis.  There is an area of
+     opacity in the right lower lobe, consistent with the patient's history of
+     pneumonia.  The interstitial markings remain prominent, consistent with
+     superimposed CHF.  There is background emphysema. The PICC is unchanged.
+     
+     IMPRESSION:  Overall no significant change in appearance of right lower lobe
+     pneumonia and CHF with small bilateral pleural effusions.
+
+",,
+8366,1670,10401,,3133-02-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-3**] 6:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7128**]
+     Reason: progression of PNA, s/p thoracentesis                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with multilobar pneumonia, temp spikes.  possible copd.  
+      thoracentesis yesterday.  
+     REASON FOR THIS EXAMINATION:
+      progression of PNA, s/p thoracentesis                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Multifocal pneumonia. Fever. S/P thoracentesis.
+     
+     COMPARISON: [**3133-1-18**].
+     
+     PORTABLE SUPINE CHEST: There is a left PICC with tip just beyond the left
+     subclavian vein in the brachiocephalic vein. No pneumothorax. There are small
+     bilateral pleural effusions, right slightly greater than left. There is patchy
+     bibasilar atelectasis. There are areas of increased opacity within the right
+     lung, worse since the previous exam, which may reflect worsening pneumonia or
+     superimposed aspiration. The overall heart size is within normal limits. The
+     pulmonary vascularity on the left is also now more indistinct, which may
+     reflect component of CHF as well.
+     
+     IMPRESSION: No pneumothorax. Small bilateral pleural effusions with patchy
+     bibasilar atelectasis. Worsening opacity within the right lung could reflect
+     worsening pneumonia or superimposed aspiration. There may also be a component
+     of CHF.
+
+",,
+8366,1670,10401,0,3133-02-03 03:58:00 EST,3133-02-03 04:21:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+Neuro - Alert and oriented x 3. MAE. No gross sensory deficits.
+
+Resp - Remains on 4 L NC with 55% Venti mask. 02 sats 90-95% but dropped as low as 85% when mask not worn. RR initialy in the upper 30's and low 40's but decreased to upper 20s during the rest of the noc. Lungs with decreased BS bilat (R>L) and occas expir wheezing. Receiving alb/atrovent nebs from resp. Also treated with flovent inhaler and pt utilizing incentive spirometry effectively. Pt s/p thoracentesis of RLL on previous shift - 1 liter orange-colored fluid removed and specs sent to lab ( results pend). Has mildly productive cough thick yellow sputum ( cx sent). Plan is for chest CT this am prior to bronchoscopy.
+
+C-V - HR 87-112 ST, rare pvcs noted. BP 120-160/50-70. + peripherl pulses, no edema noted. Denies CP. 
+
+GI - Tolerated cl liqs well, NPO after MN for bronchoscopy. Abd soft. +BS. No stool. 
+
+F/E - IV D5 1/2 NS infusing at 75ccs/hr x 2 liters. Pt with hx of urinary retention, voiding > 100ccs hr clear yellow urine via foley catheter. Last eve, Calcium 7.3 and Phos 1.1. Repleted with 2 gms ca gluc iv and neutrophos initiated. 
+
+ID - Max temp 98 po. Pt pan cx on previous shift. Treated with one dose of iv ceftax ( awaiting  ID approval for drug to be given q8hrs), vanc 1 gm q 12hrs and gent 80 mg q8hrs for multilobar PNA. HIV test results pend.
+
+Endo - RISS
+
+Skin - Thoracentesis dssg d+i. Rash noted on back from below scapula to waist, nonpruritic in nature. Pt states has had rash x 2 weeks. 
+Oral thrush treated with nystatin s+s ( ? due to inhaled steroids). 
+
+Access - PIC left AC
+
+Status - Full Code
+
+Social - No phone calls or visitors last [**Name2 (NI) **]. 
+
+A+P  - Pt with multilobar PNA - Continue to monitor resp status closely, Plan is for Chest CT and bronchoscopy today. Pt with hx of high grade bacteremia - follow up on cx results. MOnitor f+e balance, replete lytes as indicated.
+",,
+8366,1670,10401,0,3133-02-03 18:32:00 EST,3133-02-03 18:41:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NPN see careview for details
+
+N- AXOX3 MAE
+
+R- lungs diminished bilat, on 50% venti mask w/ 5 liters NC, had CXR and chest CT today, MD's treating like failure at this point.Desats quickly when mask off.Dry cough, unable to provide sputum for spec.
+
+C/V-SR-ST no ectopy .Lasix 20 mg given @ 1830.
+
+F/E/N- UO 80-100ccs hr ,tol reg diet, NPO P MN for possible Bronch tommorow.
+
+PLAN :monitor resp status, diuress prn , NPO p MN for possible bronch
+
+
+
+",,
+8366,1670,10401,,3133-02-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-4**] 2:03 PM
+     BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 7131**]
+     Reason: EXTENDED HOSPITILIZATION, R/O DVT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with SOB, oxygen requirement; chronic hospitalization           
+     REASON FOR THIS EXAMINATION:
+      DVT                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Shortness of breath.
+     
+     TECHNIQUE: Bilateral lower extremity ultrasound.
+     
+     FINDINGS: Grey scale and Doppler sonograms of bilateral common femoral,
+     superficial femoral, and popliteal veins were obtained. There is normal flow,
+     compressibility, and augmentation. 
+     IMPRESSION: No evidence of bilateral lower extremity DVT.
+
+",,
+8366,1670,10401,0,3133-02-04 00:22:00 EST,3133-02-04 00:31:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7p to 12 MN Micu Progress Note
+
+Neuro - Remains alert and oriented x 3. MAE. Verbalized anxiety about planned bronchoscopy in am. Pt reassured he would be comfortable but awake during the procedure.
+
+Resp - Continues on 02 5 lnc with 55% venti mask. Continues to desat to mid 80s when mask removed otherwise maintaining 02 sats in the mid 90 range. Lungs coarse, diminished at bases. Receiving alb/atrovent nebs.
+
+GI - Tolerated reg diet well. Abd soft. +BS. No stool. NPO after MN for bronchoscopy in am. 
+
+F/E - Diuresed 560 ccs over 2 hrs after being treated with 20 mg lasix ivp. Foley continues to drain over 30ccs/hr.
+",,
+8366,1670,10401,0,3133-02-04 05:54:00 EST,3133-02-04 05:59:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Nursing Progress Note
+[**3133-2-4**]-0700
+
+S/O
+
+NEURO: A&O x 3 WA. No  deficits. Denies pain.
+
+CV: HRR, NSR. VSS.
+
+RESP: Crackles noted right lower to mid lobes, coarse LS over left lung fields. Remains on Venti mask and nasal cannula without distress.
+
+GI: NPO for bronch today.
+
+FEN: MgSO4 given for Mg2+=1.7.
+
+GU: U/O qs.
+
+ID: Gentamicin levels drawn around 4th dose. 
+
+
+",,
+8366,1670,10401,0,3133-02-04 14:33:00 EST,3133-02-04 14:42:00 EST,-1,"N",69,"Nursing/Other",,"
+
+MICU NPN 0700-1930:
+  Neuro:  Pt A + O, friendly, conversant and cooperative.  Moving all extremities (limited only by DOE).  Able to stand and pivot into chair with minimal assistance.
+  CV:  Afebrile.  Pt in NSR with rate in 90's.  BP stable.  Access = L PICC line.  Trace peripheral edema.  Bilat LE dopplers currently being done to r/o clot/PE that might help explain pts continued O2 requirement.
+  Pulm:  Even after vigorous pulm toilet (neb, CPT, CDB), pt unable to raise any sputum.  Lungsounds remain diminished in bases with diffuse basilar cracles.  Pt sitting in chair for most of day, encouraged to CDB q hour.  Bronch on hold pending diuresis (e.g. if pt improves with diuresis, bronch will be cancelled).
+  GI:  Regular diet resumed after bronch postponed.  Good intake.  No bm today.
+  GU:  aggressive diuresis.  Pt currently only about -300 cc, but lasix to be repeated as needed for > 1L out.
+  Family:  Wife and [**Name2 (NI) **] in to visit for much of morning.                                            
+",,
+8366,1670,10401,,3133-02-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-5**] 7:48 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7132**]
+     Reason: improvement in pulm edema with diuresis                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        71 year old man with pneumonia, copd, chf, continued oxygen requirement.      
+     REASON FOR THIS EXAMINATION:
+      improvement in pulm edema with diuresis                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST ON [**3133-2-5**] 8:06
+     
+     INDICATION: Pulmonary edema with diuresis and continuing oxygen requirement.
+     
+     COMPARISON:  [**3133-2-3**] AT 13:57
+     
+     FINDINGS: In comparing to the most recent prior and further prior examinations
+     there appears to be continued improvement with less density in the right lower
+     lobe air space process.  Thickening of the fissure remains.  There is also
+     continued evidence of atelectasis and or consolidation to the left lower lobe
+     but not substantially changed from prior exam. Effusions remain unchanged.
+     There is no new air space disease.
+     
+     The pulmonary vascular markings are stable and within normal limits. The heart
+     and mediastinal contours are within normal limits and unchanged.
+     
+     IMPRESSION: Persistent air space disease in the lung bases, right greater than
+     left. However, slight improvement versus [**3133-2-3**].  No new air space disease.
+
+",,
+8366,1670,10401,0,3133-02-05 04:58:00 EST,3133-02-05 05:08:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+Neuro - a+o x3, slightly fatigued. Pt slept most of the noc.
+
+Resp - Remains on 02 5lnc and 55% venti mask. 02 sats 93-97% with RR 20-30 breaths/min. Lungs coarse, diminished at bases, no wheezing noted. 
+
+C-V - HR 92-110 ST, no ectopy noted. BP 110-130/50-60.
+
+F/E - TFB neg approx 1500 ccs yest ( goal 2L neg). Given 40 mgs lasix at 2000 with diuresis of approx 500 ccs over 2 hrs. u/o decreased to 45 ccs at 0100 - given an additional 40 mg lasix iv with good results ( pt  diuresed approx 1100ccs over the next 4 hrs). K+ 4.2 at mn. 
+
+GI - Tolerating 2 gm na diet well. + flatus, no stool. Given colace. ? need for MOM or dulcolax. 
+
+A+P - ? call-out to floor if diuresis results in decreased 02 demand. 
+Cont to monitor resp and f+e status. Nsg transfer note initiated.
+",,
+8366,1670,10401,0,3133-02-05 16:52:00 EST,3133-02-05 16:59:00 EST,1826,"N",69,"Nursing/Other",,"
+
+[**3133-2-5**] Systems Review:
+
+CVS:  Afebrile. HR 97-115 ST, no ectopy noted. SBP=90-123. IV D51/2NS at KVO.  Skin warm and dry. A&Ox3. OOB to chair tolerated well.
+
+GI:  Eating fairly well. No c/o n&v. Large brown formed stool on commode, guaiac neg.
+
+GU:  U/O dipping into teens, but recovered without intervention, team aware.
+
+ENDO:  BS in 130's. No coverage ordered.
+
+NEURO:  No deficits noted. MAE.
+
+SKIN:  Intact. No edema or red areas.  Some ecchymotic areas from lab draws.
+
+RESP:  On O25L nc +55% ventimask. Pt states no change in breathing comfort. Lung sounds coarse and diminished at bases. Using IS faithfully and getting up to 1000. Sats diminish to 88% while eating but remain>93% otherwise.  No acute distress noted.  
+
+Access:  PICC line left antecubital but not for lab draws.
+
+Plan:  Cardiacsurgery to see pt for lung biopsy.
+",,
+8366,1670,10401,0,3133-02-05 18:38:00 EST,3133-02-05 18:38:00 EST,1826,"N",69,"Nursing/Other",,"
+
+[**3133-2-5**]: Addendum:  IV NS 500cc bolus given for low u/o.
+",,
+8366,1670,10401,0,3133-02-06 04:45:00 EST,3133-02-06 04:56:00 EST,-1,"N",69,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+Neuro - Alert and oriented. MAE. Up to commode with one assist. Fatigued - slept through part tof the evening and most of the noc.
+
+Resp - Continues on 5L NC with 55% venti mask. 02 sats 93-97%. RR low 20's but rises to 40 breaths/min with exertion. Lungs coarse, diminished at bases. No longer receiving nebs from resp. Nonprod cough.
+
+C-V - HR 86-112 ST, no episodes of PSVT observed. BP 110-140/50-60.
++ palp peripheral pulses. 
+
+GI - Good appetite. Abd soft. +BS. Passed lg amt soft brown ob neg stool this eve. 
+
+F/E - TFB + 200 yest. Urine output averaging 50ccs/hr overnoc. 
+
+Social - No phone calls or visitors.
+
+A+P Pt's resp status did not improve with previous attempt at diuresis. + D-Dimer yest. Plan is for CT angio with contrast to r/o PE and Cardiac [**Doctor First Name **] to eval pt for VATS.
+",,
+8366,1670,10401,0,3133-02-06 15:44:00 EST,3133-02-06 15:58:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress Note.","
+Nursing Progress Note.
+
+RESP: Pt received on 5LNCO2 and 55% Venti-Mask (14L O2 flow) c resting sats in the high 90's and a resting RR in the teens/low 20's.  Pt cont to have a non-prod cough.  Diminished BS through out lung fields c prominent crackles noted in RLL, no wheezing appreciated.  Incent spirometer utilized (Q3-4 hours) by pt c encouragement and demonstrates good technique.  The pt has denied SOB/dyspnea today (including during ambulation times two).  Plan is to diurese pt 1.0 to 1.5 liters today and tomorrow to see if this improves his resp fxn become pursuing more aggressive w/u (bronchoscopy, biopsy).  Pt placed on 100% non-rebreather while ambulating in [**Doctor Last Name 201**].  Pt cont on IV Ceftaz 2gm Q 8 hours via L AC PICC.  
+
+CV: Pt is HDSA in a NSR c no ectopy.  AM lytes WNL.  OOB to chair and has ambulated around unit twice today c minimal assistance.  Pt denied diff assoc c ambulating and felt stronger during 2nd walk.  
+
+GU: Pt med c a total of 80mg IV Lasix today for net output goal today of 1.0  to 1.5 liter output.  Presently the pt is net out 1.1 liters @ this time.  Urine is light yellow via foley cath.
+
+DERM: Back rash unchanged compared to day of admit.  No acute derm issues @ this time.  L AC PICC line is C/D/I and is not being utilized for blood draw's per pt instructions.
+
+MS: Pt is AAO times three, talkative/pleasant/cooperative, MAE, and in good spirits today.  No c/o pain/discomfort/anxiety today.
+
+GI: Good PO intake for both breakfast and lunch today.  No BM thus far today.
+
+FAMILY: No visitors or phone calls have been received thus far today for this pt.
+
+OTHER: The pt is a full code.  Please see CareVue for additional pt care data/comments.  Pt received 70mg PO Fosamax this AM 30 min prior to breakfast.
+",,
+8366,1670,10401,,3133-02-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-7**] 6:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7133**]
+     Reason: interval change                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         71 year old man with pneumonia, copd, chf, continued oxygen requirement.     
+       
+     REASON FOR THIS EXAMINATION:
+      interval change                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     Compared to 2 days earlier.
+     
+     INDICATION: Increasing oxygen requirement in patient with history of pneumonia
+     and congestive heart failure.
+     
+     A left PICC line has an unusual course, projecting over the head of the left
+     clavicle and coursing to the midline; the PICC line subsequently courses
+     superiorly in the left paraspinal region. This is not the expected course of
+     the left subclavian or brachiocephalic vein or the jugular vein. Correlation
+     with recent CT of several days earlier shows that the catheter is apparently
+     extravascular and courses anterior to the left subclavian and brachiocephalic
+     vein and subsequently courses into the presternal soft tissues and then into
+     the soft tissues of the neck.
+     
+     The heart size and mediastinal contours are stable in appearance. There
+     remains some slight volume loss on the right with rightward shift of the
+     mediastinum. There is improving opacity within the right lower lobe. There are
+     minor atelectatic changes of the left lung base. There remains small bilateral
+     pleural effusions.
+     
+     IMPRESSION: 1) Malpositioned left PICC line, which appears to be extravascular
+     in location as discussed with the clinical service caring for the patient.
+     
+     2) Improving right lower lobe pneumonia.
+     
+     3) Small bilateral pleural effusions.
+     
+     4) Emphysema.
+     
+     
+
+",,
+8366,1670,10401,0,3133-02-07 06:04:00 EST,3133-02-07 06:10:00 EST,1740,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700:
+RESP: Remains on 55% VM and 5l NC. At rest he is breathing comfortably in 20's with sats in mid 90's. With activity RR increases to 30's and sats drop to low 90's. Pt does require frequent rest periods with any activity. LS diminished t/o with fine crackes RUL. 
+ID: Afebrile; WBC 12.2; remains on Ceftaz.
+F/E: Pt given additional dose of Lasix, 80mg this time, with adequate response to achieve goal of 1-1.5L negative (actually 1.7L negative). AM lytes pending.
+GI: Small formed stool O/N. 
+
+A: stable night
+
+P: anticipate further diuresis today; if no significant improvement, anticipate more invasive w/u in next few days. 
+",,
+8366,1670,10401,0,3133-02-07 17:31:00 EST,3133-02-07 17:41:00 EST,-1,"N",69,"Nursing/Other","Nursing Progress Note","
+Nursing Progress Note
+Please see carevue for specifics and labs.
+
+Neuro:  Patient is Alert and Oriented X3. PERL. Moves all extremities to command. Patient is independent at home and supervised for ambulation while in hospital due to lines, leads, etc. Patient is concerned about health post discussion with MD.  No pain noted. 
+
+CV: Patient is hemodynamically stable. Patients HR NSR-ST with bursts of Pac's and SVT. MD aware with no new orders at this time. BP ranges from 100's-130's over 50's-70's.  Peripheral pulses are intact. No peripheral edema present.
+
+Resp: Patient continues on NC@5LTRS and Venti Mask @55%. Patient's lungs are clear and diminished but patient desats to 80's if mask is removed. Sats range from 92-96%. 
+
+GI:  Patient with poor po intake. Patient ate 50% of breakfast and 25% of lunch and dinner.  Patient drank approx 1600 cc's this shift. Patient is currently 440CC + at this time in his fluid balance.
+
+GU:  Patient with patent foley catheter. Patients urine is yellow and clear.  Patient with poor urines earlier in shift of 20ccX 4 hours. MD notified with Lasix 40mg given. Patient with marginal response to Lasix but improved response. 
+
+Per discussion with MD, Patient will have broncoscopy on Thursday. Patient is anxious as to his health status. Patient needs reassurance.
+
+
+
+[**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) **] RN
+",,
+8366,1670,,,3133-02-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-9**] 10:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7134**]
+     Reason: r/o pneumo                                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          71 year old man with pneumonia, copd, chf, continued oxygen requirement s/p 
+      VATs with lung bx and chest tube placement x2     
+     REASON FOR THIS EXAMINATION:
+      r/o pneumo                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Comparison is made to previous study [**3133-2-7**].
+     
+     INDICATION:  Status post lung biopsy with chest tube placement. Evaluate for
+     pneumothorax. Pneumonia.
+     
+     Two right sided chest tubes are present. No pneumothorax is identified.
+     
+     There remains right sided mediastinal shift. Cardiac and mediastinal contours
+     are stable. Increased opacity in the right lower lobe is again demonstrated.
+     There is some increase in patchy opacity at the left lung base. Small pleural
+     effusions are noted.
+     
+     IMPRESSION:
+     1) No radiographic evidence of pneumothorax.
+     2) Persistent right lower lobe opacity, consistent with history of pneumonia.
+     3) Interval increase in left basilar opacity, which could represent a new site
+     of pneumonia or may be secondary to other process such as atelectasis or
+     aspiration. 
+
+",,
+8366,1670,,,3133-02-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-10**] 8:58 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7135**]
+     Reason: ? resolution of ptx.                                        
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           71 year old man with pneumonia, copd, chf, continued oxygen requirement 
+      s/p  VATs with lung bx and chest tube placement x2     
+     REASON FOR THIS EXAMINATION:
+      ? resolution of ptx.                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     TWO VIEW CHEST, [**3133-2-10**]:
+     
+     CLINICAL INDICATION:  Pneumothorax.
+     
+     Two chest tubes remain in place in the right hemithorax.  No pneumothorax is
+     identified.  There is persistent mild volume loss in the right hemithorax with
+     slight rightward shift of the mediastinal structures.  There has been interval
+     improved aeration at the left lung base.  There remains increased opacity in
+     the right lower lobe predominantly in the retrocardiac region as well as some
+     increased patchy opacity in the right mid lung zone.  There are probable small
+     bilateral pleural effusions.
+     
+     Attenuation of pulmonary vasculature in the upper lobes is consistent with the
+     provided history of emphysema.
+     
+     IMPRESSION:
+     1)  No evidence of pneumothorax.
+     2)  Right mid and right lower lung zone opacities are unchanged, and are
+     probably related to the previously provided history of pneumonia.
+     3)  Improving aeration in left lung base.
+
+",,
+8366,1670,,,3133-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-11**] 8:41 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7136**]
+     Reason: ?evolution of ptx                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           71 year old man with pneumonia, copd, chf, continued oxygen requirement 
+      s/p  VATs with lung bx and chest tube placement x2     
+     REASON FOR THIS EXAMINATION:
+      ?evolution of ptx                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST [**3133-2-11**] AT 9:13
+     
+     INDICATION:  Pneumonia.  Continued oxygen requirement. Recent lung biopsy and
+     chest tube placement.
+     
+     COMPARISONS: [**3133-2-10**]
+     
+     Two right sided chest tubes remain in place. I see progressive air space
+     disease at right lung base compared to the prior. The left lung is clear with
+     the exception of previously demonstrated basilar subsegmental atelectasis.
+     
+     There is no pneumothorax. Heart and mediastinum remain within normal limits
+     and pulmonary vascular markings are not distended.
+     
+     IMPRESSION:
+     1. Progressive right lower lobe air space disease.
+
+",,
+8366,1670,,,3133-02-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-12**] 8:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7137**]
+     Reason: ?evolution of possible ptx                                  
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            71 year old man with pneumonia, copd, chf, continued oxygen requirement  
+      s/p  VATs with lung bx and chest tube placement x2     
+     REASON FOR THIS EXAMINATION:
+      ?evolution of possible ptx                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Pneumonia continued oxygen requirement. Chest tubes-check for
+     pneumothorax.
+     
+     COMPARISON [**3133-2-11**] at 9:13
+     
+     FINDINGS: The chest tubes remain in place without evidence of pneumothorax.
+     The right consolidation remains unchanged. The left basilar atelectasis is
+     again seen. The pulmonary vascular markings are unchanged as is the heart and
+     mediastinum.
+     
+     IMPRESSION: No significant change versus prior. No PTX.
+
+",,
+8366,1670,,,3133-02-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-13**] 7:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7138**]
+     Reason: ?evolution of possible ptx.                                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            71 year old man with pneumonia, copd, chf, continued oxygen requirement  
+      s/p  VATs with lung bx and chest tube placement x2     
+     REASON FOR THIS EXAMINATION:
+      ?evolution of possible ptx.                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     
+     INDICATIONS:  Pneumothorax. 
+     
+     PORTABLE CHEST:  Comparison is made to previous films from  one day earlier.
+     
+     There has been interval removal of two right sided chest tubes.  No
+     pneumothorax is identified.
+     
+     There is stable right sided volume loss. There remains increased opacity in
+     the right retrocardiac region.  A right sided pleural effusion extending into
+     the minor fissure is unchanged. There are minor atelectatic changes of the
+     left lung base.
+     
+     IMPRESSION:
+     
+     1.  Interval removal of two right sided chest tubes with no pneumothorax.
+     Persistent right pleural effusions and right basilar lung opacity.
+
+",,
+8366,1670,,,3133-02-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-14**] 9:03 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7139**]
+     Reason: chest tube removal                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            71 year old man with pneumonia, copd, chf, continued oxygen requirement  
+      s/p  VATs with lung bx and chest tube placement x2     
+     REASON FOR THIS EXAMINATION:
+      chest tube removal                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Chest tube removal.
+     
+     Comparison is made to previous study of one day earlier.
+     
+     There is no evidence of pneumothorax.
+     
+     Cardiac and mediastinal contours are stable with slight shift of the
+     mediastinum towards the right.  There is slight interval progression and
+     increased opacity within the right lower lobe.  There remains a small pleural
+     effusion on the right side.  A homogeneous band-like opacity is also noted
+     posteriorly in the right lung, possibly corresponding to an area of
+     atelectasis at a previous chest tube site, as compared to an older film of
+     [**3133-2-10**].
+     
+     The left lung demonstrates discoid atelectasis at the left lung base and is
+     otherwise grossly clear.
+     
+     IMPRESSION:
+     
+     1. Slight increase in right lower lobe lung opacity.  This may be due to
+     pneumonia or atelectasis.
+     
+     2. Small right pleural effusion.
+
+",,
+8366,,,,3133-02-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8366,,,,3133-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-25**] 1:45 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7140**]
+     Reason: 71 yo male with hx of pneumonia s/p iv abx now with temp and
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+            71 year old man with pneumonia, copd, chf, 
+         
+     REASON FOR THIS EXAMINATION:
+      71 yo male with hx of pneumonia s/p iv abx now with temp and desat to 83% needs
+      O2 5l to maintain > 7 bibasilar crackles r/o failure vs infection 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  History of pneumonia, status post IV antibiotics. Now with fever and
+     desaturation.
+     
+     CHEST, TWO VIEWS:  Comparison [**3132-8-8**].  Since the prior exam, there is new
+     patchy alveolar opacity in the left lower lobe, consistent with a developing
+     pneumonia.  The linear and patchy opacities in the right mid to lower lung
+     zone are unchanged. There is a small right effusion.  There is blunting of the
+     left lateral CP angle which might reflect a small left effusion. There is no
+     CHF. The cardiac and mediastinal contours are stable with slight shift of the
+     mediastinum towards the right, unchanged. There is no pneumothorax.
+     
+     IMPRESSION:  No significant change in right lower lobe atelectasis and
+     pneumonia. New left lower lobe pneumonia.
+
+",,
+8366,,,,3133-02-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-26**] 9:05 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 7141**]
+     Reason: BIL. PN,PLEASE ASSESS FOR LOCULATED RT. EFFUSION/COLLECTION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        71 year old man with R and L sided pneumonia, persistent for the last 6 wks 
+      with abx treatment.  Please assess for loculated effusion rt side/collection.  
+      will tap if rt effusion large enough.
+     REASON FOR THIS EXAMINATION:
+      71 yo male admitted 3rd time over 6 weeks for bilobar pna.  extensive 
+      work-up-including vats, afb, legionella, fungal, hiv, all 
+      negative/inconclusive. pt still febrile, decreased sats, new lt-sided consold 
+      in addition to persistent rt pna orig admitted for.  please assess for 
+      loculation rt-side.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Recurrent pneumonia not improving on antibiotics.
+     
+     TECHNIQUE: Multiple axial images of the chest were obtained without
+     intravenous contrast.
+     
+     COMPARISON: CT of the chest [**3133-2-3**].
+     
+     CT OF THE CHEST WITHOUT INTRAVENOUS CONTRAST: Small bilateral pleural
+     effusions are decreased in size from the prior study. No loculated collection
+     is identified. There is also a small pericardial effusion. Several sub cm
+     mediastinal lymph nodes are unchanged from the prior study. The coronary
+     arteries are calcified, as is the thoracic aorta. The heart size is unchanged
+     and within normal limits.
+     
+     Moderate diffuse centrilobular emphysema is again noted, most severe at the
+     lung apices. Consolidation of the right lower lobe has improved, with some
+     residual consolidation and air bronchograms present. In the lingula, basal
+     right middle lobe and bilateral lower lobes are areas of ground glass opacity,
+     significantly more extensive and confluent in comparison to the prior study.
+     The superior portions of the liver, spleen, adrenal glands and upper poles of
+     the kidney are normal in appearance. The major airways are patent to the
+     segmental bronchi bilaterally.
+     
+     Bone windows are without evidence of destructive osseous lesions.
+     
+     IMPRESSION: Improving right lower lobe consolidation on a background of
+     moderate emphysema. Small bilateral pleural effusions have decreased in size
+     and are without evidence of loculation. A diffuse pattern of ground glass
+     opacity within the lower lobes, right middle lobe and lingula is present and
+     may reflect drug toxicity, hypersensitivity or atypical pneumonia.
+
+",,
+8366,,,,3133-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-28**] 11:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7142**]
+     Reason: acute hypoxemia                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+             71 year old man with pneumonia, copd, chf, increased oxygen requirement  
+       
+     REASON FOR THIS EXAMINATION:
+      acute hypoxemia                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:
+     
+     INDICATION: Pneumonia, COPD, CHF. Increased oxygen requirement. Acute
+     hypoxemia. Check current status.
+     
+     FINDINGS: A single AP semi-upright view. Comparison study dated [**3133-2-25**]. There
+     is some increase in extent and intensity of the left lower lobe and inferior
+     lingula patchy infiltrate/atelectasis since the prior study. There is
+     persistent atelectasis at the right lung base. Blunting of bilateral
+     costophrenic angles is noted, consistent with small bilateral effusions. The
+     heart again shows slight left ventricular enlargement. The pulmonary vessels
+     do not indicate significant cardiac failure at this time.
+     
+     IMPRESSION:  Further extension of the patchy infiltrate/atelectasis at the
+     left base. This could be an expanding pneumonic process. Stable atelectatic
+     changes at the right base. Small bilateral effusions.
+
+",,
+8366,,,,3133-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-2-28**] 2:16 PM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 7143**]
+     Reason: evaluate for aspiration                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old man with recurrent hypoxia and lower lobe pulm infiltrates          
+     REASON FOR THIS EXAMINATION:
+      evaluate for aspiration                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Recurrent hypoxia and lower lobe pulmonary infiltrate, evaluate
+     for aspiration.
+     
+     VIDEO OROPHARYNGEAL SWALLOW:  This study was done in conjunction with the
+     speech pathology department.  Barium of various consistencies was administered
+     to the patient in the upright position.
+     
+     The patient has a normal oral transit time.  No significant residue is
+     identified in the valleculae or pyriform sinuses.  There is minimal laryngeal
+     penetration of thin barium only with rapid gulping of barium.  No aspiration
+     was noted.  The barium pill passed freely.
+     
+     IMPRESSION:  No evidence for aspiration.
+
+",,
+8366,,,,3133-06-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-6-5**] 10:31 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 7144**]
+     Reason: assess interval change in pulmonary infiltrates -- on predni
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        71 year old man with recent pulm infiltrates -- suspect BOOP.  Now 3 months
+      on prednisone. Assess interval change.
+     REASON FOR THIS EXAMINATION:
+      assess interval change in pulmonary infiltrates -- on prednisone for BOOP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT THORAX, [**3133-6-5**] compared to [**3133-2-26**]:
+     
+     CLINICAL INDICATION:  Probable BOOP.  Evaluate response of lung abnormalities
+     to interval steroid therapy.
+     
+     Helical CT of the chest was performed without IV or oral contrast
+     administration.  Images were acquired at 5 mm collimation and reconstructed at
+     5 mm intervals throughout the thorax.
+     
+     Assessment of the lungs reveals diffuse severe emphysema.  This is most marked
+     in the upper lobes.  Since the previous study, there has been marked interval
+     improvement in diffuse pulmonary opacities.  Areas of previously present
+     consolidation have resolved with residual areas of ground-glass attenuation in
+     most of these regions.  Previously present areas of ground-glass attenuation
+     have either resolved or are improved.  The residual remaining opacities are
+     most pronounced within the lower lobes, right greater than left.  Lesser
+     degree of involvement is seen within the right middle and right upper lobes.
+     No new or worsening areas of opacification are identified.  The central
+     airways appear patent with no obstructing central endobronchial lesions
+     observed.
+     
+     The skeletal structures of the thorax demonstrate degenerative changes within
+     the spine.
+     
+     The soft tissue structures of the thorax demonstrate no significantly enlarged
+     noncalcified mediastinal or hilar lymph nodes.  Calcified lymph nodes are seen
+     at the AP window regions.  The heart size is normal.  Coronary artery
+     calcifications are observed.  No significant pleural effusions are evident.  A
+     small amount of pericardial fluid is seen and appears decreased in the
+     interval.
+     
+     Within the imaged portion of the upper abdomen, the adrenal glands are normal
+     in appearance.  Vascular calcifications are noted in the abdominal aorta
+     extending into the proximal right renal artery.  Calcified stones are seen
+     dependently within the gallbladder.  Note is made of hyperdensities of the
+     liver compared to the spleen on this unenhanced exam.
+     
+     IMPRESSION:
+     
+     1)  Marked interval improvement in previously noted diffuse lung opacities.
+     Areas of previously present consolidation have decreased, with residual areas
+     of ground-glass attenuation, and previously present areas of ground-glass
+                                                                 (Over)
+
+     DATE: [**3133-6-5**] 10:31 AM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 7144**]
+     Reason: assess interval change in pulmonary infiltrates -- on predni
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     attenuation have either resolved or are significantly decreased in extent. The
+     observed findings may be due to response of BOOP to interval therapy.
+     
+     2)  Extensive emphysema.
+     
+     3)  Calcified gallstones within the gallbladder.
+     
+     4)  Hyperdensity of the liver on this unenhanced study.  Is the patient
+     receiving Amiodarone therapy? Amiodarone lung toxicity can present as BOOP.
+     
+
+",,
+8366,,,,3133-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-12-18**] 10:49 AM
+     CT CHEST W/O CONTRAST; CT RECONSTRUCTION                        Clip # [**Clip Number (Radiology) 7145**]
+     Reason: assess interval change in pulm infiltrates/BOOP
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with BOOP, now completed Rx with prednisone, clinically
+      improved.
+     REASON FOR THIS EXAMINATION:
+      assess interval change in pulm infiltrates/BOOP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  BOOP, status post steroid therapy.
+     
+     COMPARISON:  [**3133-6-5**] and [**3133-2-26**].
+     
+     TECHNIQUE:  Axial images of the chest were obtained with inspiration and
+     expiration in supine and prone positions.  Sagittal and coronal reconstruction
+     images were also obtained.
+     
+     CHEST HRCT WITHOUT CONTRAST:  Soft tissue windows show nonenlarged axillary
+     and mediastinal lymph nodes.  The heart has a normal size and shows coronary
+     calcifications.  Intrathoracic aorta has a normal caliber and shows mural
+     calcifications.  There are no pericardial or pleural effusions.
+     
+     Lung windows show multifocal new areas of subpleural consolidation involving
+     primarily the upper lobes but also the left base.  Areas of ground glass
+     opacity, subpleural lines, traction bronchiectasis and septal thickening are
+     also seen in the upper lung zones.  In addition, there is diffuse emphysema.
+     Air-trapping is seen on expiratory images.  The airways appear patent to the
+     level of the segmental bronchi bilaterally.
+     
+     The visualized upper abdomen shows gallstones in the gallbladder and renal
+     vascular calcifications.  The imaged regions of the liver, pancreas, spleen,
+     stomach, small and large bowel, kidneys and adrenals are unremarkable.  The
+     osseous structures show degenerative change of the spine and an old
+     compression deformity of a lower thoracic vertebra.
+     
+     IMPRESSION:   1. Interval development of new foci of subpleural consolidation
+     and interstitial abnormalities, with an upper zone predominance. Findings are
+     consistent with history of cryptogenic organizing pneumonia.
+     
+     2. Diffuse emphysema.
+     
+     3. Gallstones with no cholecystitis.
+     
+
+",,
+8366,,,,3133-12-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3133-12-18**] 10:49 AM
+     CT CHEST W/O CONTRAST; CT RECONSTRUCTION                        Clip # [**Clip Number (Radiology) 7145**]
+     Reason: assess interval change in pulm infiltrates/BOOP
+     Field of view: 36
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      72 year old man with BOOP, now completed Rx with prednisone, clinically
+      improved.
+     REASON FOR THIS EXAMINATION:
+      assess interval change in pulm infiltrates/BOOP
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  BOOP, status post steroid therapy.
+     
+     COMPARISON:  [**3133-6-5**] and [**3133-2-26**].
+     
+     TECHNIQUE:  Axial images of the chest were obtained with inspiration and
+     expiration in supine and prone positions.  Sagittal and coronal reconstruction
+     images were also obtained.
+     
+     CHEST HRCT WITHOUT CONTRAST:  Soft tissue windows show nonenlarged axillary
+     and mediastinal lymph nodes.  The heart has a normal size and shows coronary
+     calcifications.  Intrathoracic aorta has a normal caliber and shows mural
+     calcifications.  There are no pericardial or pleural effusions.
+     
+     Lung windows show multifocal new areas of subpleural consolidation involving
+     primarily the upper lobes but also the left base.  Areas of ground glass
+     opacity, subpleural lines, traction bronchiectasis and septal thickening are
+     also seen in the upper lung zones.  In addition, there is diffuse emphysema.
+     Air-trapping is seen on expiratory images.  The airways appear patent to the
+     level of the segmental bronchi bilaterally.
+     
+     The visualized upper abdomen shows gallstones in the gallbladder and renal
+     vascular calcifications.  The imaged regions of the liver, pancreas, spleen,
+     stomach, small and large bowel, kidneys and adrenals are unremarkable.  The
+     osseous structures show degenerative change of the spine and an old
+     compression deformity of a lower thoracic vertebra.
+     
+     IMPRESSION:   1. Interval development of new foci of subpleural consolidation
+     and interstitial abnormalities, with an upper zone predominance. Findings are
+     consistent with history of cryptogenic organizing pneumonia.
+     
+     2. Diffuse emphysema.
+     
+     3. Gallstones with no cholecystitis.
+     
+
+",,

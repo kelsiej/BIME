@@ -1,0 +1,456 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8829,,,,2564-08-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-26**] 11:57 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10878**]
+     Reason: SOB
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with respiratory distress
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE AP UPRIGHT CHEST RADIOGRAPH [**2564-8-27**]
+     
+     INDICATION: Respiratory distress.
+     
+     There is opacity of the right mid and lower lung zone. The heart size is
+     normal. No air-bronchograms are present. The mediastinal and hilar contours
+     are normal. The pulmonary vascularity is normal. There are no pleural
+     effusions.
+     
+     IMPRESSION: Right middle/lower lobe pneumonia versus a loculated pleural
+     effusion.
+
+",,
+8829,21567,,,2564-08-27 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2564-8-27**]     Discharge Date:  [**2564-9-10**]
+
+Date of Birth:   [**2473-12-14**]     Sex:  M
+
+Service:  ACOVE
+
+HISTORY OF PRESENT ILLNESS:  The patient is a [**Age over 90 **] year old
+resident of [**Location **] Nursing Home who was transferred to [**Hospital1 184**] for shortness of breath,
+tachypnea, fever, history of right middle lung nodule without
+workup in the past, with possible history of aspiration on
+the day of admission.  He had a history of right lower lobe
+pneumonia in [**Female First Name (un) 493**].
+
+He was in the Emergency Department with a heart rate of 130,
+blood pressure 100/60, respiratory rate 30, given Clindamycin
+600 mg and Levaquin 500 mg intravenously.  Blood pressure
+decreased to 94 systolic with further respiratory distress.
+Therefore, the patient was intubated.  Postintubation blood
+pressure was 60 systolic.  The patient was given Dopamine
+drip and taken to the Medical Intensive Care Unit.
+
+PAST MEDICAL HISTORY:
+1.  Dementia.
+2.  Gastroesophageal reflux disease.
+3.  Constipation.
+4.  Decreased hearing.
+5.  Right midlung nodule.
+
+PHYSICAL EXAMINATION:  Blood pressure is 96/34, pulse 92,
+respiratory rate 12.  In general, the patient was sedated.
+The pupils are equal, round, and reactive to light and
+accommodation.  The lungs were clear to auscultation
+bilaterally.  Heart - regular rate and rhythm, III/VI
+systolic ejection murmur that radiates to the carotids and
+across the precordium.  The abdomen was soft, mildly
+distended with active bowel sounds.
+
+LABORATORY DATA:  White blood count 31.6, hematocrit 32.8,
+platelets 683,000.  Chemistries were notable for a blood urea
+nitrogen of 44, creatinine 2.3, lactic acid of 5.5.  Arterial
+blood gases on admission were pH 7.42, 35 and 72.
+
+HOSPITAL COURSE:  The patient was treated for aspiration
+pneumonia and respiratory failure in the Medical Intensive
+Care Unit.  He was then transferred to the floor on the
+following medications:  Vancomycin intravenously, Flagyl
+intravenously, Lopressor, Zestril, Xalatan, Heparin,
+Protonix, Iron Sulfate, Tylenol and Morphine.  The patient
+had been transferred to the floor after discussion to make
+him DNR/DNI.  On the medicine floor, discussion was had with
+the patient's family about making him comfort measures as it
+appeared he would not be able to tolerate p.o. feeding and
+the family was against gastrostomy tube placement.
+Therefore, the patient was made comfort measures on [**2564-9-8**],
+and given Morphine drip.  The patient finally expired on
+[**2564-9-10**], at 1:30 a.m. at which time the attending, Dr.
+[**Last Name (STitle) **], and the patient's wife were notified.
+
+
+
+
+                          [**First Name4 (NamePattern1) 359**] [**Last Name (NamePattern1) 360**] [**Name8 (MD) **], M.D.  [**MD Number 361**]
+
+Dictated By:[**Name8 (MD) 5141**]
+
+MEDQUIST36
+
+D:  [**2564-11-13**]  17:51
+T:  [**2564-11-19**]  14:36
+JOB#:  [**Job Number 8721**]
+Signed electronically by: DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 364**] [**Doctor Last Name **]
+ on: [**First Name8 (NamePattern2) 46**] [**2564-12-27**] 9:11 PM
+(End of Report)
+
+
+",,
+8829,21567,,,2564-08-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-27**] 1:17 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 10882**]
+     Reason: [**Age over 90 **] yo man with aspiration pna, wbc 30K, temp, frequent diarr
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CLINICAL HISTORY:  Aspiration pneumonia.  Elevated temperature.  Frequent
+     diarrhea.
+     
+     ABDOMEN:  Supine only film.  The tip of the nasogastric tube lies in the
+     antrum of the stomach.  The distrbution of gas in the abdomen is unremarkable.
+      No evidence for obstruction is seen.
+     
+     IMPRESSION:  Unremarkable abdomen. 
+
+",,
+8829,21567,,,2564-08-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-27**] 7:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10881**]
+     Reason: NG tube placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with resp failure and diarrhea
+     REASON FOR THIS EXAMINATION:
+      NG tube placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE FILM
+     
+     HISTORY:  Respiratory failure and diarrhea with NG tube placement.
+     
+     Endotracheal tube is 3 cm above carina.  NG tube is in stomach.  A linear
+     opacity at the right apex is likely a skin fold but this may be confirmed on
+     follow up chest film.  There has been no change in appearance of extent of the
+     large right mid and lower zone opacity, likely due to dense consolidation; the
+     left costophrenic region is coned off the film.  There is opacity at the left
+     lung base with obscuration of the left hemidiaphragm likely due to atelectasis
+     and/or consolidation, new since the previous film of the same date.
+
+",,
+8829,21567,,,2564-08-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-27**] 2:59 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10880**]
+     Reason: S/P LINE PLACEMENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with respiratory distress, s/p ETT placement
+     REASON FOR THIS EXAMINATION:
+      intubated, s/p central line attempt; CXR to evaluate for pneumothorax
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE FILM
+     
+     HISTORY:  Respiratory distress with intubation and attempted CV line
+     placement.
+     
+     Endotracheal tube is 3 cm above carina.  No CV line identified.  No
+     pneumothorax.  No change in the large area of opacity in the right mid and
+     lower zones since the previous film of the same day.
+
+",,
+8829,21567,,,2564-08-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-27**] 1:56 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10879**]
+     Reason: ETT placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with respiratory distress, s/p ETT placement
+     REASON FOR THIS EXAMINATION:
+      ETT placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE FILM
+     
+     HISTORY:  Respiratory distress and intubation.
+     
+     Endotracheal tube is 3 cm above carina.  No change in appearance or extent of
+     the large area of opacity in the right mid and lower zones since the previous
+     film of the same date.  However there is a new area of opacity at the left
+     lung base consistent with atelectasis/consolidation.  No pneumothorax.
+
+",,
+8829,21567,10981,0,2564-08-27 03:53:00 EST,2564-08-27 03:54:00 EST,2254,"N",69,"Nursing/Other",,"
+
+RESP CARE,
+PT. ADMITTED FROM ED INTUBATED #7 ET 22@LIP. BILATERAL BS. PLACED ON SIMV 600/12/100%/5PEEP/IPS5. 
+",,
+8829,21567,10981,0,2564-08-27 06:13:00 EST,2564-08-27 06:47:00 EST,2086,"N",69,"Nursing/Other","NPN/ADMISSION NOTE                         03-7A","
+NPN/ADMISSION NOTE                         03-7A
+  THIS IS A [**Age over 90 276**] YEAR OLD RESIDENT OF [**Location **] N.H. TRANSFERRED FOR SOB, TACHYPNEA, FEVER, HX. OF RIGHT MID LUNG ""NODULE"" WITHOUT ANY WOKUP IN THE PAST. ?ASPIRATION TODAY WITH HR 130'S RR 30, SBP 100. STARTED ON CLINDA/LEVOQUIN. INCREASED RESPIRATORY DISTRESS/INTUBATED AND SBP DROPPED INTO THE 60'S. PT WAS STARTED ON DOPAMINE AND GIVEN 3 LITERS OF IVF PTA. WBC 31.6/BUN/CREAT 44/2.3/ LACTIC ACID 5.5. TRANSFERRED TO MICU FOR FURTHER MANAGEMENT.
+
+PMHX:DEMENTIA
+     GERD
+     CONSTIPATION
+     R MID LUNG NODULE
+     HOH
+ALL:NKDA
+
+  PT ARRIVED TO MICU ALERT/AWAKE/?ORIENTATION/UPPER EXTREMITY TWITCHING NOTED, EYES/EQUAL/ REACTIVE, ATIVAN 2MG IV GIVEN WITH SOME EFFECT. HR 90-110'S, DOPAMINE GTT WEANED TO OFF WITH SBP 90'S. SBP DROPPED INTO THE 70'S AFTER ATIVAN IV GIVEN. NS 500CC BOLUSES GIVEN X2 WITH GOOD EFFECT. DOPAMINE GTT RESTARTED BRIEFLY AND QUICKLY TITRATED OFF. R-RADIAL A LINE PLACED WITH GOOD WAVEFORM. SBP REMAINS >90 WITH MAPS>60. +WEAK PERIPHERAL PULSES, SL. EDEMA NOTED, HCT DROPPED FROM 33 TO 24.1. T&C SENT AND 2 UNITS ORDERED. K+3.6 20MEQ TO BE GIVEN ONCE XRAY CONFIRMS OGT PLACEMENT. MG 1.6-2 GMS IV, IONIZED CA 1.00-2AMPS OF CA GLUCONATE. FOLEY PATENT WITH MINIMAL TO NO URINE. BUN/CREAT 40/1.5 THIS AM-URINE LYTES SENT. AFEB., CLINDA AND LEVO GIVEN IN ED. STOOLS X2-LIQUID GREEN DIARRHEA-STOOL SPEC. SENT AND MUSHROOM CATHETER PLACED PER DR. [**First Name (STitle) **]. 
+ABD/SOFT/NONTENDER, BROWN ASPIRATE NOTED IN BACK OF MOUTH, OGT PLACED WITH +BROWN ASPIRATE-LIWS. +REDDENED AREA TO COCCYX.
+ACCESS:POOR IV ACCESS: 2 PIV'S POSSIBLE CENTRAL LINE PLACEMENT
+STATUS:FULL CODE
+A:HEMODYNAMICALLY STABLE
+P:REPLACE ELECTROLYTES, TRANSFUSE AS NEEDED, IVF'S, IMPROVE UO, IV ANTIBX, DISCUSS WITH FAMILY ABOUT CODE STATUS.
+",,
+8829,21567,10981,0,2564-08-27 16:52:00 EST,2564-08-27 17:18:00 EST,2078,"N",69,"Nursing/Other",,"
+
+NPN 7a-7p
+
+Review of Systems:
+
+Neuro-  Pt. not responsive to voice, withdraws to stimulation and winces appropriately to noxious stimuli.  Pt. found twitching spontaneously with purposeful movements.  No sedation meds given.  Family concerned about pt's unresponsiveness.  
+
+Resp-  Maintained on A/C 500X12, 40% PEEP5.  Last ABG; 204/35/7.40/22/-1 on these settings.  Sat's maintained at 100%.  Sx'd q 4 for scant secretions.  LS- diminished throughout, clear on right base.  
+
+CV-  BP maintained without pressors this shift running from 100-170 Systolic.  IVF running at 100cc/ hr.  HR 90's NSR.  ? abdominal aortic bruit heard upon exam, or large mumur appreciated throughout lung fields.  SKin warm, dry, intact with the exception of one sm. abrasion on upper coccyx near rectal area.  Rectal bag applied for skin protection d/t frequent stools.  + peripheral pulses.  
+
+Heme-  HCT 10 am; 23.5.  Transfusing 1 of 2 units now.  Tolerating transfusion well.  Will recheck post transfusion HCT.  Stool heme negative.  
+
+GI-  Pt. is NPO, Abd soft.  Lactic acid 2.5 10am.  Stooling.  KUB done.
+
+GU-  U/O adequate 50-60cc/ hr.  
+
+ID-  Mildly febrile now 100.2.  Abx. ordered/ given.  
+
+Social- Family in today spoke with Dr. [**First Name (STitle) **] and residents.  Dr. [**Last Name (STitle) 3997**] covering Attending discussed involving ethics committee in case as pt.'s DNR status was reversed last night and pt. was intubated against his living will.
+",,
+8829,21567,10981,,2564-08-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-28**] 6:34 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10883**]
+     Reason: [**Age over 90 **] yo man, intubated for PNA and lung mass, now s/p CVL plac
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with 
+     REASON FOR THIS EXAMINATION:
+      [**Age over 90 **] yo man, intubated for PNA and lung mass, now s/p CVL placement in right IJ.
+      Please assess line placement.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, SINGLE AP FILM.
+     
+     HISTORY:  Pneumonia with intubation and CV line placement.
+     
+     ET tube is 3 cm above carina.  CV line is in distal SVC.  NG tube is in
+     stomach.  No pneumothorax.  No change in appeaerance or extent of large ill-
+     defined opacity in the right mid  and lower zones and at the left lung base.
+     
+
+",,
+8829,21567,10981,0,2564-08-28 05:06:00 EST,2564-08-28 05:17:00 EST,2062,"N",69,"Nursing/Other",,"
+
+PMICU NSG PROGRESS NOTE:
+
+Neuro-no response to commands but does arouse to verbal stimuli and is resistant to care. MAE, attempts to put hands up near ETT.
+
+Resp-500x10 50% 5peep a/c. abg OK, crit off ABG was 10points higher than of CBC tube. sucitoned thick tan secretions and sent of cx and gm stain. diminished breath sounds but course at bases. On antibx for possible pneumonia(post obstructive secondary to lung nodule.)
+
+cardiac-ST and hypertensive when being turned or suctioned. BP Labile. Pt given ativan 1mg x 2 during night with good effect. pt able to rest comfortably and BP down to 120-140sys. and heart rate NSR.
+
+GI-NGT tube gravity. guiac neg. stool sent for c-diff due to hx of c diff.
+
+GU-qs
+access-pt will need further access today. picc placement or another peripheral at the least. R hand IV site is bruised. 
+
+ID-awaiting culture results.  needs another stool for c-diff today.
+
+Plan-work with family regarding pt wishes and comfort. follow cultures and wean to extubate ASAP. follow anemia and stools.  replete CA and follow BUN andCR
+",,
+8829,21567,10981,0,2564-08-28 13:38:00 EST,2564-08-28 13:59:00 EST,2078,"N",69,"Nursing/Other",,"
+
+NPN 7A-3P
+
+REVIEW OF SYSTEMS:
+
+Neuro-  Pt. responding to verbal stimuli.  Does not follow commands.  Able to MAE.  Pupils equal and reactive.  Restarting resperdal tonight.  No sedation meds to be given; planning for extubation.  
+
+Resp-  Pt. conts on A/C 500X10 40%.  Sx'd q 4 for thick tan.  Need sputum sent for cytology.  ? sent last noc.  LS- clear upper lung fields, coarse lowers.  Sat's maintained above 96%.  ETT rotated.  Awaiting sputum gram stain results, planning to try PSV tom'row.  Cont. aggressive pulmonary toilet.  
+
+CV-  HR 90's -110 with frequent PVCs.  K+ 3.3 this am; repleted with 40 mEQ PO this am.  SBP 140-170.  Skin warm,dry slightly impaired; small abrasion above rectal bag on coccyx, open to air.  
+
+Heme- HCT stable, no further transfusions ordered.  
+
+GI-  Heme negative stool.  Rectal bag intact.  Iron restarted.  If afternoon HCT stable, will start TF.  Abd. soft, NT.  OGT hooked up to LIS, draining bilious aspirates in small amounts.  
+
+GU-  U/O adequate.  IVF running at 100cc/hr.
+
+ID-  Afebrile.  Conts on abx.  
+
+Access-  Awaiting central line placement to replace 2 PIV.  A-line positional.  ETT, F/C.  
+
+Social-  awaiting family's arrival to obtain consent for central line 
+",,
+8829,21567,10981,0,2564-08-28 17:40:00 EST,2564-08-28 17:46:00 EST,2108,"N",69,"Nursing/Other","p-micu npn 3p-7p","
+p-micu npn 3p-7p
+please see carevue for objective data. hct stable this pm 32.2. tube feeds on hold until tomorrow am per team. r ij tlc inserted this afternoon w/o complication, awaiting cxr at this point for line confirmation. temp to 100.1 this afternoon. sputum sent for cytology, stool for mult studies. family in this afternoon, seem appropriate and unwilling to continue efforts on life support if pt does not improve. they are willing to give pt a few days to see if he does. pt opening eyes, not following commands, family appears to be encouraged by this. 
+",,
+8829,21567,10981,0,2564-08-29 03:41:00 EST,2564-08-29 03:59:00 EST,2086,"N",69,"Nursing/Other","NPN/MICU                         7P-7A","
+NPN/MICU                         7P-7A
+S:INTUBATED
+O:NEURO:AWAKE/ALERT AT TIMES, WITHDRAWS FROM PAINFUL STIMULI, DOESN'T FOLLOW ANY COMMANDS, INCREASED RESTLESSNESS THROUGHOUT PERIOD OF NIGHT(HALDOL 0.5 MG IV X2 DOSES GIVEN WITH GOOD EFFECT). +TREMORS NOTED TO UPPER EXTREMITIES ?PARKINSON'S DISEASE. BILAT. SOFT WRIST RESTRAINTS MAINTAINED FOR LINE INTEGRITY. PT ATTEMPTED TO PULL AT ETT WHEN LEFT UNRESTRAINED.
+PULM:LS DIMINISHED THROUGHOUT, NO VENT CHANGES MADE, SATS 99-100%, SUCTIONING THICK WHITE SECRETIONS Q2-3HR.
+CV:HR 60-100'S, AN ADDITIONAL LOPRESSOR 12.5 MG PO X1 GIVEN FOR INCREASED HR WITH GOOD EFFECT. LOPRESSOR STANDING ORDER DOSE CHANGED TO 25MG BID. SBP 90-170'S/50-80'S, +UPPER EXTREMITY EDEMA, POOR PERIPHERAL PULSES THROUGHOUT, K+ 6.0 +3 HEMOLYSIS-RESENT 3.1-40MEQ IV GIVEN, MG 1.7-2 GMS IV X1, FREQ. PVC/PAC'S AND VENTRICULAR BIGEMINY NOTED-RESENT MG AND K+. K+3.8-40MEQ IV X1 AND MG 1.9. LACTIC ACID IMPROVED TO 1.1.
+ID:LOW GRADE FEVER TO 100.2/DC'D CLINDA AND STARTED FLAGYL AND CONTINUE ON LEVO QOD.
+GU:FOLEY TO BSD/UO DROPPING TO 20-30CC/HR. NS 250CC BOLUS X3 GIVEN. UO STILL REMAINS AT 20CC/HR AND DR. [**Last Name (STitle) 1223**] AWARE.
+GI:ABD/SOFT/NONTENDER/HYPO BS, RECTAL BAG PATENT/INTACT +BLACK LIQUID STOOL (PT IS ON IRON). ?FALSE GUIAIC (+). TF'S ON HOLD TIL THE AM.
+SKIN:WARM/INTACT, SL. REDDENED BUTTOCK.
+SOCIAL:FAMILY VISITING AND UPDATED ON CONDITION.
+ACCESS:F/C, ETT, R IJ TLC, R RADIAL A-LINE(NO BLOOD RETURN WITH A DAMPENED WAVEFORM). DR. [**Last Name (STitle) 1223**] AWARE.
+A:HEMODYNAMICALLY STABLE
+P:WEAN VENT AND POSSIBLY EXTUBATE. DISCUSSED WITH WIFE ABOUT THE POSSIBILITY TO BE REINTUBATED AND PT IS TO BE MADE A DNI. REPLACE ELECTROLYTES AS NEEDED, ANTIBX, HCT>30, OFFER SUPPORT TO FAMILY.
+",,
+8829,21567,,,2564-08-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-8-30**] 2:58 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10884**]
+     Reason: [**Age over 90 **] yo man intubated with ?aspiration pna, with decreased/[**Last Name (un) **]
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with 
+     REASON FOR THIS EXAMINATION:
+      [**Age over 90 **] yo man intubated with ?aspiration pna, with decreased/bronchial breath
+      sounds at left base and staph growing in sputum. Please assess infiltrates.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, SINGLE FILM.
+     
+     HISTORY:  Possible aspiration pneumonia and intubation with decreased
+     bronchial breath souunds at left base.
+     
+     ET tube is 5 cm above carina.  CV line introduced via right jugular vein is in
+     distal SVC.  NG tube is in stomach.  Heart size is normal.  There is
+     persistent dense consolidation in the right mid-zone and left lower lobe.
+     Cannot rule out associated small pleural effusion.  Skin fold overlies right
+     apical region.  No pneumothorax.
+     
+     IMPRESSION:  Persistent bilateral dense consolidation, with possible
+     associated small pleural effusion.  No pneumothorax.  Maas lesion in right
+     mid-zone cannot be ruled out.
+     
+
+",,
+8829,21567,,,2564-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-9-3**] 8:30 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10885**]
+     Reason: MRSA pneumonia, bilateral infiltrates. ? progression
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with MRSA pneumonia/aspiration pneumonia
+     REASON FOR THIS EXAMINATION:
+      MRSA pneumonia, bilateral infiltrates. ? progression
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Evaluate progression of bilateral infiltrates.
+     
+     Comparison is made to the prior study of [**2564-8-30**].
+     
+     FINDINGS:  An endotracheal tube is found to be in good position.  A
+     nasogastric tube is in good position with the tip within the stomach.  There
+     is a large rounded infiltrate in the right mid- lung which is likely in the
+     superior segment of the right lower lobe. There is also an ill- defined
+     infiltrate in the left lower lobe behind the cardiac silhouette. There is some
+     linear atelectasis in the left lower lobe as well as slight blunting of the
+     left cardiophrenic angle.  There is no significant change since the prior
+     study.
+     
+     IMPRESSION:  No significant progression of bilateral infiltrates noted in the
+     prior study.  Follow up films are recommended. 
+
+",,
+8829,21567,,,2564-09-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-9-4**] 12:30 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10886**]
+     Reason: check for ng placement.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with 
+     REASON FOR THIS EXAMINATION:
+      check for ng placement.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Check for nasogastric tube placement.
+     
+     Comparison is made to the prior study of [**2564-9-3**].
+     
+     FINDINGS:  The nasogastric tube is well placed with the tip within the fundus
+     of the stomach.  There is a central line entering from the right neck and is
+     in good position in the lower portion of the SVC.
+     
+     The large round consolidation in the superior segment of the right lower
+     appears to have enlarged somewhat since the prior study.  This suggests
+     further consolidation and collapse in this segment.  The left lower lobe
+     consolidation and effusion are unchanged.
+     
+     IMPRESSION:  1)  Adequate placement of the nasogastric tube.
+     2)  Increased consolidation and collapse in the superior segment of the right
+     lower lobe.
+     3)  Consolidation and effusion in the left lung is unchanged.
+     
+
+",,
+8829,21567,,,2564-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2564-9-6**] 2:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10887**]
+     Reason: Pt transferred from FICU to the floor with aspiration pneumo
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with hx dementia, aspir pna, GERD
+     REASON FOR THIS EXAMINATION:
+      Pt transferred from FICU to the floor with aspiration pneumonia.  He has spiked
+      temperature while on Abx - vancomycin and flagyl.  Evaluate for worsening of
+      pneumonia. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Aspiration pneumonia. Temperature spike.
+     
+     A central venous catheter and nasogastric tube remain in place. Cardiac and
+     mediastinal contours appear slightly shifted towards the right. There has been
+     worsening opacification in the right lung likely due to a combination of
+     pneumonia, collapse and effusion. Of note, the right main stem bronchus cannot
+     be visualized.
+     
+     In the left lung, there is persistent left effusion and leftward cardiac
+     opacity.
+     
+     IMPRESSION: Worsening opacification in the right hemithorax. Given shift of
+     mediastinum towards this side and lack of visualization of right main stem
+     bronchus, this finding is consistent with acute collapse superimposed upon
+     preexisting pneumonia. The collapse is likely due to mucous plugging. 2.
+     Bilateral pleural effusions.
+
+",,

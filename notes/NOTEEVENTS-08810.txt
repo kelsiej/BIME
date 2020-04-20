@@ -1,0 +1,599 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8810,5646,,,3270-04-13 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3270-4-13**]              Discharge Date:   [**3270-4-22**]
+ 
+Date of Birth:  [**3192-12-2**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 2122**] 
+Chief Complaint:
+dyspnea
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+HPI: 77 y/o male with htn, glucose intolerance, cad (MI [**3247**], 5v 
+cabg [**3262**], mibi in [**3267**] with no perfusion defects and ef 67%), 
+cri who presents with stable doe that is new over the past 6 
+months. Pt states had some doe while walking to get water over 
+night last night and felt uncomfortable being home alone. He 
+also has a cough which began about the same time (neither cough 
+nor dyspnea have been increasing or changing since onset). Cough 
+is occasionally productive of whitish sputum. He states that he 
+has not had any chest pain at rest or with exertion, no 
+orthopnea, no palpitations, no light-headedness, no dizziness, 
+and no feelings of passing out. He also denies fevers or chills. 
+ Denies URI symptoms, denies sick contacts. Found by EMS to be 
+tachypneic in 30's. On arrival to the ED his blood pressure was 
+220/110, decreasing to 140's when I examined him. Of note, in ED 
+had pocket full of condoms, and made sexual advances towards 
+nurses.
+.
+In ED, got neb, rr down into 20's, satting 100%; no jvd, no 
+rales; CXR without obvious infiltrate/chf; ecg with flipped t's 
+v1-v4 (?new), rbbb (old, per dr.[**Doctor Last Name **] note from [**7-5**]); tn 
+.18 (no prior values), ck 99, mb 8. Lactate 3.8.
+
+ 
+Past Medical History:
+PMHx: 
+1. Coronary artery disease s/p CABG x 5 v in [**3262**]. Stressed in 
+[**3267**] with images - negative - see pertinent results
+2. Angina.
+3. Depression.
+4. Schizophrenia.
+5. Erectile dyfunction s/p penile implant
+6. H/o delerium while inpatient
+
+ 
+Social History:
+lives alone, separated and estranged from wife and two 
+daughters, admits to occasional EtOH, + smoking of 1/2 ppd x 10 
+years, quit previously about 45 yrs ago 
+ 
+Family History:
+will not discuss
+ 
+Physical Exam:
+PE: 99.0, 102, 145/68, 17, 99% 2L
+Gen: NAD, mild tachypnea
+HEENT: sclera anicteric, mmm, o/p clear
+CV: rrr, nl S1 and S2, no m/r/g
+Pulm: CTAB, bronchial sounding
+Abd: protruberant, obese, s, nt, nd, nabs
+Extr: no c/c/e, 1+ dp bilaterally
+Neuro: AAOx3, CN II - XII grossly intact
+ 
+Pertinent Results:
+[**3270-4-13**] 06:40PM   CK(CPK)-105
+[**3270-4-13**] 06:40PM   CK-MB-6
+[**3270-4-13**] 03:00PM   CK(CPK)-182*
+[**3270-4-13**] 03:00PM   CK-MB-6 cTropnT-0.11*
+[**3270-4-13**] 02:33PM   %HbA1c-6.7*
+[**3270-4-13**] 09:00AM   GLUCOSE-251* UREA N-41* CREAT-2.2* SODIUM-137 
+POTASSIUM-4.9 CHLORIDE-99 TOTAL CO2-20* ANION GAP-23*
+[**3270-4-13**] 09:00AM   CK(CPK)-99 AMYLASE-60
+[**3270-4-13**] 09:00AM   CALCIUM-9.6 PHOSPHATE-4.8* MAGNESIUM-2.0
+[**3270-4-13**] 09:00AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+[**3270-4-13**] 09:00AM   GLUCOSE-244* LACTATE-3.8* NA+-141 K+-4.6 
+CL--100 TCO2-21
+[**3270-4-13**] 09:00AM   WBC-14.7*# RBC-5.75 HGB-17.3 HCT-50.5 MCV-88 
+MCH-30.1 MCHC-34.2 RDW-13.3
+[**3270-4-13**] 09:00AM   PLT COUNT-246
+[**3270-4-13**] 09:00AM   PT-14.3* PTT-26.1 INR(PT)-1.3
+
+CXR: 
+UPRIGHT AP CHEST: The patient is post-median sternotomy. The 
+heart is 
+probably enlarged. The aorta is tortuous. There is a double 
+contour in the region of the right atrium, which may reflect 
+left atrial enlargement. No definite consolidation is present. 
+No evidence of CHF. No pleural effusion or pneumothorax 
+detected. The osseous structures are unremarkable.  IMPRESSION: 
+No definite consolidation or CHF. 
+LATERAL VIEW OF THE CHEST: The patient is post median 
+sternotomy. There are no definite consolidations seen on the 
+lateral view. No pleural effusions.  When viewed in conjunction 
+with the prior AP radiograph, there is prominence of the right 
+hilum. This may represent early congestion. There is no evidence 
+of overt failure, however. Degenerative changes of the spine are 
+noted. 
+. 
+EKG:  Sinus rhythm, inferior Q waves consistent with prior 
+inferior infarction. Right bundle branch block (old).  T wave 
+inversion V1-4. ? old. 
+. 
+STRESS TEST 2002:
+EKG stress: exercised for 6 minutes of [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1078**] protocol and 
+asked the test be stopped for fatigue. No arm, neck, back or 
+chest discomfort was reported by the patient throughout the 
+study. The ST segments are uninterpretable for ischemia in the 
+setting of the baseline inverted T waves. The rhythm was sinus 
+with several isolated vpbs. Appropriate sytolic BP response to 
+exercise. IMPRESSION: No anginal type symptoms or interpretable 
+EKG changes. Nuclear report sent separately.
+
+MIBI images: Neither resting nor stress images reveal any 
+myocardial wall perfusion abnormalities. Ejection fraction 
+calculated from gated wall motion images obtained after exercise 
+shows a left ventricular ejection fraction of approximately 67%. 
+Regional wall motion appears grossly normal. IMPRESSION: No 
+evidence of myocardial wall perfusion abnormalities at the level 
+of exercise achieved.  
+ 
+Brief Hospital Course:
+1. Dyspnea : Etiology initially unclear, but he reported chronic 
+dyspnea that acutely worsened. He ruled out for MI by enzymes 
+and EKG-- (trop leak but has ARF on CRI; CKs flat). Had a 
+persantine mibi which showed normal EF and perfusion, no 
+symptoms. A chest xray was w/o infiltrate or effusion. Echo was 
+performed which showed EF 70% and essentially normal study w/o 
+wall motion abnormalities or valvular regurgitaton/stenosis. 
+Despite these normal studies, patient continued to have dyspnea 
+at rest, often with resp rates in the 40's, but with normal 
+oxgyen saturations. He was extremely anxious, agitated at times, 
+often not allowing his housestaff examine him and speak with 
+him. He was a very difficult historian. A chest CT was performed 
+to further evaluate the lung parenchyma which showed bilateral 
+peripheral ground glass opacities in the absence of pleural 
+effusions or septal thickening. Given the elevated white blood 
+cell count and clinical picture, a multifocal pneumonia was 
+thought most likely. He was treated with ceftriaxone and 
+azithromycin, but he refused these treatments for approximately 
+24 hours. He was extremely anxious that we were trying to hurt 
+him and that we didn't understand what was wrong with him. He 
+would repeatedly say ""nothing is wrong with me."" After multiple 
+conversations with the Russian interpreter and a psychiatry 
+consultation, patient agreed to receive his antibiotics.  He 
+clinically improved over the first few days, but then acutely 
+decompensated with an episode hypotension and tachypnea 
+overnight. He was transferred to the ICU. Heparin drip was 
+started for fear of MI and/or PE and was aggressively hydrated 
+with good BP response. He ruled out for MI and a V/Q scan was 
+attempted but patient didn't tolerate/complete the study. A CTA 
+was not possible, given his renal insufficiency. Antibtics were 
+contined as well and he was transferred back to the floor after 
+an approximately 48 hour ICU course. 
+
+Upon arrival to the floor, patient continued to have episodes of 
+tachypnea and was placed on a non-rebreather. He had normal 
+oxygen saturations during that time. ABG 7.39/29/223 on NRB. He 
+would not allow his resident physician to examine him, thus an 
+emergent psychiatry consultation was obtained. He continued to 
+refuse to be seen by his resident physician, [**Name10 (NameIs) 5685**] multiple 
+efforts. He believed his resident was the daughter of people who 
+hated him and, in turn, he hated her. It was decided he would be 
+transferred to another medical service. Despite this, the 
+patient had symptomatic relief with some ativan and morphine, 
+breathing slowed, and he appeared improved. It was thought this 
+tachypnea was secondary to a multifocal pneumonia (rather than a 
+PE), as well as severe agitation and hyperventilation. His 
+heparin was stopped at this time and he continued to improve 
+over the next few days until his acute decompensation on the 
+evening of his death.  Autopsy revealed multiple pulmonary 
+emboli.
+.
+4. Elevated blood glucose: Has diagnosis of DM per his PCP, [**Name10 (NameIs) 508**] 
+he is non compliant w/ DM strategies as outpatient per PCP. [**Name10 (NameIs) **] 
+on sliding scale here but refused teaching on DM care.
+.
+5. Hyperlipidemia: Had fasting lipid profile w/ severe 
+dyslipidemia. Started lipitor on [**4-14**].
+.
+6. schizophrenia: documented in OMR. Not on meds. Has paranoid 
+features and is hypersexual, inappapropriate at times. Started 
+seroquel prn qhs. Haldol needed on [**4-13**] for agitation. 
+Psychiatry consultation obtained multiple times as stated above 
+for occasional refusal of care and splitting behaviors. 
+*
+
+ 
+Medications on Admission:
+1. lopressor 50 mg bid
+2. monopril 10 mg daily 
+3. allopurinol 
+4. pepcid
+5. asa
+
+ 
+Discharge Medications:
+Patient passed away
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Schizophenia
+Pulmonary Emboli
+Community Acquired Pneumonia
+ 
+Discharge Condition:
+Pt passed away in hospital
+ 
+                             [**First Name11 (Name Pattern1) 1715**] [**Last Name (NamePattern1) 1716**] MD [**MD Number 1717**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 12258**] MD [**MD Number 12259**] [**3270-7-25**] @ 1553
+Signed electronically by: DR. [**First Name (STitle) 1715**] [**Doctor Last Name **]
+ on: TUE [**3270-7-29**] 5:30 PM
+(End of Report)
+
+
+",,
+8810,5646,,,3270-04-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3270-4-13**] 9:30 AM
+     CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 10745**]
+     Reason: please eval for infiltrate, failure                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with sob, ? of indistinct r heart border                        
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrate, failure                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath and question indistinct right heart border.
+     Apparently, the patient has been short of breath on exertion for approximately
+     6 months.
+     
+     COMPARISON:  Prior AP radiograph approximately 1 hour previously.
+     
+     LATERAL VIEW OF THE CHEST:  The patient is post median sternotomy.  There are
+     no definite consolidations seen on the lateral view.  No pleural effusions.
+     When viewed in conjunction with the prior AP radiograph, there is prominence
+     of the right hilum.  No evidence of overt failure or consolidation, however.
+     Degenerative changes of the spine are noted.
+     
+     IMPRESSION:  No definite consolidation.  Prominence of the right hilum. Please
+     refer to the other chest radiograph report of the same day, in which this
+     finding in addition to widening of the right paratracheal stripe is discussed,
+     and CT was recommended.
+
+",,
+8810,5646,,,3270-04-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3270-4-13**] 8:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10742**]
+     Reason: r/o chf/infiltrate                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      80 year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      r/o chf/infiltrate                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Evaluate for congestive heart failure/infiltrate.
+     
+     COMPARISON:  AP upright chest of [**3263-1-17**].
+     
+     UPRIGHT AP CHEST:  The patient is post-median sternotomy.  The heart is
+     probably enlarged.  The aorta is tortuous. There is relative prominence of the
+     right hilum, though no definite consolidation is present.  There is also
+     widening of the right paratrachial stripe, new since [**3262**] and of unclear
+     etiology. No evidence of CHF. No pleural effusion or pneumothorax detected.
+     The osseous structures are unremarkable.
+     
+     IMPRESSION:  No definite consolidation or CHF. There is prominence of the
+     right paratrachial stripe and right hilum, and CT evaluation of the chest is
+     recommended for further characterization. A lateral radiograph has also been
+     obtained.
+     
+     The revised findings were discussed with Dr. [**Last Name (STitle) 10743**] (pager [**Pager number 10744**]) on the
+     evening of [**3270-4-13**].
+
+",,
+8810,5646,,,3270-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 10746**]
+     Reason: DYSPNEA AND ATYPICAL CHEST PAIN.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Seventy-seven year old male with dyspnea and atypical chest pain. 
+      
+     SUMMARY OF THE PRELIMINARY REPORT FROM THE EXERCISE LAB: 
+     Dipyridamole was infused intravenously for 4 minutes at a dose of 0.142 
+     mg/kg/min. Two minutes after the cessation of infusion, Tc-99m sestamibi was
+     administered IV.  
+      
+     INTERPRETATION: 
+     Image Protocol: Gated SPECT. 
+     Resting perfusion images were obtained with thallium-201. 
+     Tracer was injected 15 minutes prior to obtaining the resting images. 
+     This study was interpreted using the 17-segment myocardial perfusion model. 
+      
+     Left ventricular cavity is normal. 
+     Rest and stress perfusion images reveal uniform tracer uptake throughout the
+     myocardium. 
+      
+     Gated images reveal normal wall motion. 
+     The calculated left ventricular ejection fraction is 76%. 
+      
+     There are no changes as compared to exercise MIBI dated [**3267-10-14**].   
+      
+     IMPRESSION: 1. Normal myocardial perfusion. 2. Normal left ventricular cavity
+     size and function. 
+     /nkg 
+                                                                           
+
+             [**Name6 (MD) 480**] [**Name8 (MD) 481**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 545**] [**Last Name (NamePattern1) 546**], M.D.     Approved: TUE [**3270-4-15**] 4:13 PM
+
+
+             Date Mailed: [**3270-4-16**]                     West [**Medical Record Number 10747**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8810,5646,,,3270-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3270-4-14**] 2:44 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 10748**]
+     Reason: W DYSPNEA ? RT HILAR FULLNESS EVAL FOR INFILTRATES
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with CAD s/p CABG here w/ dyspnea, ?right hilar fullness on 
+      xray and wbc 20, no fevers. Please evaluate for infiltrate
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate, infectious process                                              
+     CONTRAINDICATIONS for IV CONTRAST:
+      cr elevation
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post CABG, CAD or dyspnea.  Right hilar fullness on x-ray and
+     white blood cell count of 20.  No fever.
+     
+     COMPARISON:  Plain radiograph of the chest from [**3270-4-13**].
+     
+     TECHNIQUE: Unenhanced chest CT.
+     
+     CORONAL REFORMATS:  The coronal reformats confirm the findings described
+     below.
+     
+     CT CHEST WITH IV CONTRAST:  There is a bilateral peripheral patchy
+     distribution of  ground glass opacities involving the right lower lobe lingula
+     and right upper lobe.  Some of these opacities are in a dependent location but
+     the majority are nondependent.  There are no dominant nodules or masses.  The
+     central airways are patent.  There is some respiratory motion artifact.  There
+     is no effusion or pneumothorax.  The patient is status post median sternotomy.
+     There is no lymph adenopathy. The hila are unremarkable, with no abnormal
+     findings to correspond to the CXR finding of hilar fullness. There is coronary
+     artery calcification.
+     
+     The imaged portions of the upper abdomen demonstrate somewhat dense-appearing
+     bile perhaps representing sludge.  This also could represent excreted contrast
+     material if the patient has had a contrast-enhanced exam such as a cardiac
+     catheterization recently.  Additionally, the left kidney is atrophic and
+     contains several hypodense lesions or varying size likely representing cysts.
+     The right kidney is of a more normal size and also contains an exophytic
+     simple cyst.  Bones reveal degenerative changes.
+     
+     IMPRESSION: Bilateral peripheral ground glass opacities in the absence of
+     pleural effusions or septal thickening.  Given the elevated white blood cell
+     count, a multifocal pneumonia is thought most likely.  Follow-up imaging after
+     treatment may be useful.
+
+",,
+8810,5646,,,3270-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     LUNG SCAN                                                       Clip # [**Clip Number (Radiology) 10749**]
+     Reason: Dyspnea, evaluate for pulmonary embolus.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Seventy-seven-year old male with new onset of dyspnea, for evaluation
+     for pulmonary embolus.
+     
+     This examination could not be completed due to patient dyspnea.  An attempt was
+     made to perform the ventilation portion of the examination; however, the patient
+     was unable to  cooperate with the ventilation protocol due to dyspnea.  Images
+     were attempted, but no activity was seen in the region of the chest.  The  
+     clinical house staff was consulted and the examination was terminated.
+     
+     IMPRESSION:  Lung scan terminated due to inability of patient to complete
+     ventilation protocol.
+     
+     /nkg
+                                                                           
+
+             [**First Name4 (NamePattern1) 952**] [**Last Name (NamePattern1) **], M.D.
+             [**Last Name (NamePattern5) 65**], M.D.          Approved: FRI [**3270-4-18**] 8:55 AM
+
+
+             Date Mailed: [**3270-4-21**]                     West [**Medical Record Number 10747**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8810,5646,,,3270-04-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3270-4-16**] 1:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10750**]
+     Reason: please evaluate for chf, mediastinal size, and pna          
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      77 year old man with worsening dyspnea and hypotension                          
+     REASON FOR THIS EXAMINATION:
+      please evaluate for chf, mediastinal size, and pna                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Worsening dyspnea and hypotension.
+     
+     COMPARISON:  [**3270-4-13**].
+     
+     AP UPRIGHT PORTABLE CHEST:  The cardiac and mediastinal contours are
+     unchanged.  The lung volumes are low and patchy bilateral lower lung opacities
+     are again noted, not significantly changed.
+     
+     IMPRESSION:  Unchanged appearance of bilateral patchy lung opacities.
+
+",,
+8810,5646,10960,0,3270-04-16 05:56:00 EST,3270-04-16 06:20:00 EST,2747,"N",69,"Nursing/Other","Adm note  0400-0700","
+Adm note  0400-0700
+77 yo Russian speaking ma adm to [**Hospital Ward Name 3**] 7 on [**4-13**] for dyspnea (dyspnea on exertion for past 6 mos).  On CT scan, multifocal PNA.  Pt c hx paranoid schizophrenia with occ agitation in hosp.  Apparently not agreeing to all medical therapies and meds, has refused some doses of antibiotics, had previously refused foley.  Last noc, ~ midnoc, pt noted to be diaphoretic, hypotensive and desated to 88 on ra.  Placed on 100% non-rebreather, abg - 7.35/27/198/16/-8.  Fld boluses of 2L given, stat cxr which did not appear much worse than initial.  Full labs done - troponin .14, (not as significant as pt with acute on chronic renal failure.  lactate 1.8.  BP up to 90s-100s, heparin gtt started at 0230, 4000u bolus, 950units/hr.  ? ACS or PE.  
+
+Review of systems:
+
+Neuro:  A&O x3.  No c/o pain.  Has been cooperative, allowed foley in. Keeps asking to drink liquids but pt NPO.  Understands simple English.  Sleeping well.  
+
+Resp:  LS clear but diminished at LLbase.  On 5Lnc with sats 99-100%.  RR fast in 30s.  Has strong, non-productive cough.  
+
+CV:  NS to ST, 95-104, RBBB.  BP 79/51 - 134/72.  Pt has received 2.5L altogether.  When BP dropped, responded to 200mls fld bolus.  
+
+GI:  +BS, soft, obese.  Had 2 loose stools, OB neg.  NPO
+
+GU:  Foley placed ~0430.  ~200mls out, clear yellow urine.
+
+Social:  MD called pt's daughter.  Pt is divorced.
+
+Plan:  Monitor VS.  Cont heparin gtt.  PTT due at 0830.  Cortisol test when medication arrives.  Pre cortisone level done.  Draw 2nd set of BC when drawing for cortisone.  Explain everything simply to pt. 
+",,
+8810,5646,10960,0,3270-04-16 18:47:00 EST,3270-04-16 19:09:00 EST,5645,"N",69,"Nursing/Other","Shift Summary","
+Shift Summary
+N: Remains intermittently cooperative. Coopertive A&O x3 this AM. Mostly agitated and uncoopertive this afternoon. Medicated with Ativan 2mg x1 and Haldol 2.5mg x1. Rebound agitation post ativan increased, recommend Haldol for agitation. Russian speaking can understand simple English words, expresses needs. Agitation increases with need for BM.  PERRL. Equal bilateral strength strong and occasionally attempts to push at RN during agitated states. 
+
+CV: BP remains WNL, hypotensive x1 post ativan. 100-150/40-70. Peripheral IV sites x2. Difficult access. Pulled IVs out x2 during agitation, hematomas evident and improved with pressure dressing. Heparin drip at 800u/hr with PTT due 1900hr. Remains ST without ectopy HR 100-110.
+
+R: On 4L NC with sats 95-100%. RR 25-35, denies [**Doctor Last Name 2819**], appears SOB. Unable to complete VQ scan to r/o PE due agitation and uncooperation. LS with occasional wit I/E wheeze x1, mostly clear/rhonchi with bilateral bases diminished. 
+
+GI: Stool for Cdiff sent today. Continent x4 today for small amount liquid brown BM, heme negative. NPO, may have sips, notify MD for increased diet. BS + x4, denies c/o abdominal pain. 
+
+GU: UOP labile 20-60cc/hr blood tinge, apparently from pulling at catheter. 1L NS bolus given 1700hr for oliguria. 
+
+Skin: Rectal area reddened from frequent stooling. Scattered hematomas/bruising to bilaterl arms. Skin without break in integrity.
+",,
+8810,5646,10960,0,3270-04-17 04:19:00 EST,3270-04-17 04:36:00 EST,2755,"N",69,"Nursing/Other",,"
+
+
+
+NURSING NOTE 1900HRS- 0400HRS
+
+
+EVENTS....PERSISTANT HACKING COUGH/WHEEZY RECEIVED TREATMENTS WITH EFFECT...RECEI8VED X1 DOSE OF HALDOL FOR AGTATION, X1 BOLUS FLUID FOR LOW U/O
+
+
+
+
+NEURO... AT TIMES DIFFICULT TO ASSESS BEACUSE OF LANGUAGE BARRIER... BUT FOR THE MOST PART CALM/CO-OPERATIVE....DID BECOME INCREASINGLY AGAITATED/FIGITY/RESTLESS AT 0200HRS RECEIVED 2.5MGS HALDOL..MOANING AND GRUNTING AT TIMES ALTHOUGH DENIES ANY PAIN ? CAUSE....PSYCH MEDS RE-INTRODUCED LAST PM...MOVING ALL 4 LIMBS, HELPS WITH TURNS...SETTLED AT PRESENT
+
+
+RESP..RECEIVED PATIENT WHEEZE TREATMENT GIVEN BY RT AND WHEZZE SUBSIDED..PERSISTENT DRY HACKING COUGH RR CONTINUES 25-35 SATS > 95% OXYGEN WEANED TO 2L....PATIENT NOTED TO OVERALL SETTLE OUT WITH COUGH AND AGITATION WHEN NEB TREATMENT APPLIED ....?? IF THIS A NEW ONSET OF ASTHMA...REQUIRED FURTHER TREATMENT @ 0400HRS FOR WHEEZE HUMIDIFIED [**Doctor First Name **] THEN APPLIED TO HELP WITH DRY COUGH....[**Doctor Last Name **] APNEA ALSO NOTED
+
+
+CVS...HYPERTENSIVE WHEN AGITATATED OTHERWISE WNL...HR ,CONTINUES TACHY @ 100-110 BPM..TEAM AWARE... ? CAUSE
+HEPARIN THERAPEUTIC , RUNNING @ 800/HR
+AFEBRILE...AB'S CONTINUE
+B/S AS PER S/S
+
+
+G/I..TAKEN PO MEDS AND FLUIDS..[**Last Name (un) **] SOFT B/S PRESENT
+
+
+GU...AIM > 30... BUT REQUIRED X1 BOLUS 500 AS < 30...TO CONTINUE TO OBSERVE...BLOOD TINGED BRIEFLY THIS AM ...TO OBSERVE
+
+
+
+SKIN..INTACT
+
+
+LINES ...X2 PERIPHERAL, VERY POOR STICK
+
+
+SOCIAL...CO ENQUIRIES
+
+
+
+PLAN...FOLLOW RESP EFFORT ? NEW ASTHMA DEVELOPED...? CALL OUT TO FLOOR
+",,
+8810,5646,10960,0,3270-04-17 05:15:00 EST,3270-04-17 05:18:00 EST,1813,"N",69,"Nursing/Other",,"
+
+resp care
+Pt followed q4 for alb/atr nebs. BS intermittently wheezy with good clearing after the neb. Pt has a persistent dry hacking cough-cool aerosol applied to help with cough but pt did not tolerate. Sats generally >95% on 2l o2. Apnea periods noted when asleep. Will con to follow.
+",,
+8810,5646,,,3270-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3270-4-18**] 1:15 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10751**]
+     Reason: r/o worsening infiltrates, failure                          
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       77 year old man with worsening dyspnea, tachypnea- has multifocal pneumonia, 
+      influenza
+     REASON FOR THIS EXAMINATION:
+      r/o worsening infiltrates, failure                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Chest, single AP film.
+     
+     HISTORY:   Pneumonia with worsening dyspnea and tachypnea.
+     
+     Status post CABG.  There there are low lung volumes.  Allowing for this, there
+     is probable cardiomegaly but no definite CHF.  There is a focal peripheral
+     opacity at the right base, unchanged since the prior study of [**3270-4-16**] and
+     linear atelectasis in the left lower zones.  No definite new lung lesions,
+     pleural effusions, or pneumothorax.  
+     
+     IMPRESSION:
+     
+     No significant change in right basilar opacity.  Significant resolution of the
+     previously noted left lower zone linear atelectases.  No new abnormalities.
+                                                                           
+
+",,
+8810,5646,,,3270-04-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3270-4-21**] 8:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10752**]
+     Reason: evaluate for consolidation / effusion                       
+     Admitting Diagnosis: DYSPNEA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        77 year old man with worsening dyspnea, tachypnea- has multifocal pneumonia,  
+      influenza sudden respiratory distress
+     REASON FOR THIS EXAMINATION:
+      evaluate for consolidation / effusion                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Dyspnea and tachypnea.  Multifocal pneumonia.  Sudden respiratory
+     distress.
+     
+     COMPARISON:  [**3270-4-18**].
+     
+     AP PORTABLE UPRIGHT CHEST:  There is persistent elevation of the left
+     hemidiaphragm, and the patient is post median sternotomy and CABG.  The
+     mediastinal contours are unchanged.  There is persistent opacity at the right
+     lung base laterally, and there is increasing left basilar opacity and opacity
+     in the peripheral left lung.  Small effusions are not excluded.  The
+     vascularity does not appear engorged.
+     
+     IMPRESSION:  Slight worsening of the left lung opacities.  Persistent right
+     basilar opacity. These findings may represent a multifocal pneumonia. Given
+     the peripheral predominance, chronic eosinophilic pneumonia and cryptogenic
+     organizing pneumonia should also be considered.
+
+",,

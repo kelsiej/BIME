@@ -1,0 +1,627 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8373,20583,,,3027-05-02 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3027-5-2**]              Discharge Date:   [**3027-5-7**]
+ 
+Date of Birth:  [**2943-5-13**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending:[**First Name3 (LF) 81**] 
+Chief Complaint:
+dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This is an 83 y/o female with moderate AS, s/p MVR [**39**] years ago, 
+s/p PPM, DM, CHF, p/w dsypnea and increased work of breathing x 
+4-5 days. Per family, the patient has had worsening CHF/volume 
+overload over the last several weeks, requiring supplemental O2 
+at rehab. Over the last few days, she has been noted to be more 
+short of breath and having sats to 60% on RA. Her lasix was 
+increased to 60 mg bid. Beginning today, she was noted to be in 
+hypoxic respiratory distress, 87-91% on 2L/NC. She was increased 
+to 5L, with her sats going up to 97%. She was also noted to be 
+more confused over the last few days and especially today. She 
+was given lasix and 2 mg IV morphine at [**Hospital 67**] Rehab, and sent 
+to [**Hospital1 83**] for further evaluation. En route, she was given 
+additional lasix of 60 mg IV and nitro spray x 2.  
+.  
+In the ED, her VS were Tc 97.2, BP 146/25, HR 70, RR 27, SaO2 
+95%/NRB. Foley was placed in ED. She was given 40 mg IV lasix 
+and 325 mg ASA. She was placed on BiPAP for comfort at 30% FiO2, 
+5 PEEP, 12 PS. Admitted to the MICU for further management.  
+.  
+Per family, besides the dyspnea and SOB, the patient has had no 
+other symptoms, including f/c/s, CP, palpitations, abd pain, 
+n/v/diarrhea. She has had decreased appetite over the last few 
+days in the context of increasing confusion.  
+
+ 
+Past Medical History:
+1. Moderate AS  
+2. s/p MVR  
+3. s/p PPM  
+4. A fib  
+5. DM 2 on insulin  
+6. Hypercholesterolemia  
+7. Gout  
+8. Depression  
+9. ?Pulmonary fibrosis  
+10. CHF/CAD, last EF 55% 4/06  
+
+ 
+Social History:
+Lives at [**Hospital 67**] Rehab. Prior h/o heavy tobacco use. Ambulates at 
+baseline. 
+ 
+Family History:
+Mother with h/o emphysema, CAD 
+ 
+Physical Exam:
+General: Asleep, easily arousable. On BiPAP, NAD
+HEENT: NC/AT, PERRL, EOMI. MMM, OP clear
+Neck: +elevated JVD to earlobe, supple
+Chest: decreased BS at bases with few crackles b/l
+CV: RRR 3/6 HSM, loudest at LUSB
+Abd: soft, NT/ND, NABS
+Ext: 2+ pitting edema b/l, warm with faint DP
+
+ 
+Pertinent Results:
+[**3027-5-2**] 01:30PM   WBC-9.6 RBC-4.02* HGB-11.4* HCT-36.3 MCV-90 
+MCH-28.4 MCHC-31.4 RDW-17.8*
+[**3027-5-2**] 01:30PM   NEUTS-87.0* LYMPHS-6.7* MONOS-5.0 EOS-0.9 
+BASOS-0.4
+[**3027-5-2**] 01:30PM   PLT COUNT-161
+[**3027-5-2**] 01:30PM   PT-23.2* INR(PT)-2.3*
+[**3027-5-2**] 01:30PM   cTropnT-0.08*
+[**3027-5-2**] 01:30PM   CK(CPK)-37
+[**3027-5-2**] 01:30PM   cTropnT-0.08*
+[**3027-5-2**] 01:30PM   CK-MB-NotDone proBNP-5313*
+[**3027-5-2**] 01:30PM   GLUCOSE-173* UREA N-52* CREAT-1.5* SODIUM-145 
+POTASSIUM-4.8 CHLORIDE-100 TOTAL CO2-40* ANION GAP-10
+[**3027-5-2**] 01:45PM   TYPE-ART PO2-249* PCO2-99* PH-7.28* TOTAL 
+CO2-49* BASE XS-15 INTUBATED-NOT INTUBA
+[**3027-5-2**] 06:20PM   TYPE-ART TEMP-37.0 O2-90 O2 FLOW-5 PO2-63* 
+PCO2-81* PH-7.39 TOTAL CO2-51* BASE XS-19 AADO2-513 REQ O2-84 
+INTUBATED-NOT INTUBA COMMENTS-NASAL [**Last Name (un) 631**]
+.
+Echo: The left atrium is mildly dilated. There is mild symmetric 
+left ventricular hypertrophy. The left ventricular cavity size 
+is normal. Overall left ventricular systolic function is normal 
+(LVEF 70%). There is no ventricular septal defect. The right 
+ventricular free wall is hypertrophied. The right ventricular 
+cavity is dilated. Right ventricular systolic function appears 
+depressed. The aortic arch is mildly dilated. There are focal 
+calcifications in the aortic arch. There are three aortic valve 
+leaflets. The aortic valve  leaflets are moderately thickened. 
+There is at least moderate aortic valve  stenosis. A bileaflet 
+mitral valve prosthesis is present. The gradients are higher 
+than expected for this type of prosthesis. The tricuspid valve 
+leaflets are mildly thickened. There is moderate pulmonary 
+artery systolic hypertension. The end-diastolic pulmonic 
+regurgitation velocity is increased  suggesting pulmonary artery 
+diastolic hypertension. There is no pericardial  
+effusion. Compared with the findings of the prior study (images 
+reviewed) of [**3026-3-21**], the pressure gradient across the 
+mitral valve prosthesis is increased.  
+.
+IMPRESSION: AP chest compared to [**5-2**] through 26: Mild 
+pulmonary edema is unchanged. Bilateral pleural effusion small 
+on the right and moderate on the left is stable. Severe 
+cardiomegaly and left lower lobe atelectasis unchanged. No 
+pneumothorax. Transvenous right ventricular pacer lead in 
+standard placement.
+.
+ECG: Ventricular paced rhythm. Compared to the previous tracing 
+of [**3027-5-2**] no significant change. 
+  Intervals Axes 
+Rate PR QRS QT/QTc P QRS T 
+70 0 160 466/486.42 0 -71 112 
+ 
+
+ 
+Brief Hospital Course:
+A/P - 83yo F with valvular disorder, AF, and h/o CAD a/w 
+hypercarbic respiratory failure. 
+.
+# Respiratory failure- She was admitted to the MICU for her 
+repiratory failure which was thought to be secondary to CHF.  Pt 
+was diuresed with iv lasix/acetazolamide and given iv 
+morphine/prn for respiratory distress and BIPAP was tried.  
+However, hypercarbia ([**1-12**] metabolic alkalosis) remained in the 
+90s.  Pt was mentating okay, having conversations with 
+intermittent somnolence despite hypercarbia.  TTE showed 
+preserved EF with moderate AS and moderate MS and mod pulm HTN.  
+Cardiology was consulted and thought MS [**First Name (Titles) **] [**Last Name (Titles) 11605**] to her 
+pulm edema and pulm HTN.  Cardiology recommended d/cing digoxin 
+and starting amiodarone.  Family declined valvuloplasty.  For 
+possible COPD, pt was started on steroids and nebs on [**5-6**].  Pt 
+is currently satting 90s on 1 L NC while sitting in a chair but 
+needs more O2 when supine.  Pt is a mouth breather and 
+occasionally needs a face mask.  Pt will need I/Os monitored to 
+goal even to slightly negative as she was diursed 4.8 L during 
+her MICU stay.  Depending on her I/O, lasix and acetazolamide 
+can be decreased or discontinued.  If she were to decompensate 
+at the rehab, goals of care will need to be readdressed.  
+.
+# h/o CAD - There were new changes on EKG but pt was ruled out 
+with 3 sets of negative cardiac enzymes.  Pt was continued on 
+BB, ASA, and nitrates. 
+.
+# Acid/base status - Respiratory acidosis with metabolic 
+compensation. Appears to be chronic in nature given degree of 
+metabolic compensation with acute component earlier today.  Pt 
+failed BIPAP and pCO2 remained in the 90s but maintaining 
+mentation.   
+.
+# Renal insufficiency - baseline Cr unknown, may have CRI from 
+DM.  Creatinine stayed stable from 1.3-1.5.  Will need to 
+renally dose all medications. 
+.
+# A fib - continued BB.  Per cardiology consult recs, 
+discontinued digoxin and started amiodarone.  Due to elevated 
+INR, coumadin was held.  Pt is also paced.  Pt needs to be on 
+amiodarone 400mg BID x 7 days (loading dose) and then 400mg 
+daily for maintenance. 
+.
+# DM - insulin standing + HISS, FS qid
+.
+# Depression - continuedhome regimen
+.
+# F/E/N - NPO initially while on BIPAP and now low sodium 
+cardiac diet. 
+.
+# PPx - supratherpeutic INR
+.
+# Access - PIV
+.
+# Code - DNR/DNI. No pressors or central line per HCP. If she 
+were to decompensate at the rehab, goals of care will need to be 
+readressed. 
+.
+# Communication - [**First Name5 (NamePattern1) 937**] [**Last Name (NamePattern1) 11606**] (niece) [**Telephone/Fax (1) 11607**], cell 
+[**Telephone/Fax (1) 11608**]
+
+ 
+Medications on Admission:
+Coumadin 2.5 mg/3 mg  
+Insulin - Humulin N 36 U daily/14 U qhs  
+Lasix 40 mg bid  
+Venlafaxine XR 75 mg qd  
+Sorbitol  
+Metoprolol 25 mg bid  
+Imdur 30 mg qd  
+Hydralazine 50 mg bid  
+Digoxin 0.125 qd  
+Oscal 250 mg + D  
+Tylenol prn  
+Morphine sulfate 4 mg q2 hrs prn  
+
+ 
+Discharge Medications:
+1. NPH
+18 units qam and 7 units qhs
+2. Humalog
+Per sliding scale qbreakfast, lunch, and dinner
+3. Venlafaxine 37.5 mg Capsule, Sust. Release 24 hr Sig: One (1) 
+Capsule, Sust. Release 24 hr PO DAILY (Daily).  
+4. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+5. Isosorbide Mononitrate 30 mg Tablet Sustained Release 24 hr 
+Sig: One (1) Tablet Sustained Release 24 hr PO DAILY (Daily).  
+6. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day).  
+7. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1)  
+Inhalation Q6H (every 6 hours).  
+8. Ipratropium Bromide 0.02 % Solution Sig: One (1)  Inhalation 
+Q6H (every 6 hours).  
+9. Albuterol Sulfate 0.083 % (0.83 mg/mL) Solution Sig: One (1)  
+Inhalation Q2H (every 2 hours) as needed.  
+10. Prednisone 20 mg Tablet Sig: Two (2) Tablet PO DAILY (Daily) 
+for 4 days.  
+11. Furosemide 10 mg/mL Solution Sig: Forty (40) mg Injection 
+BID (2 times a day).  
+12. Acetazolamide Sodium 500 mg Recon Soln Sig: Two Hundred 
+Fifty (250) Recon Soln Injection Q12H (every 12 hours).  
+13. Morphine 2 mg/mL Syringe Sig: 1-2 mg Injection Q4H (every 4 
+hours) as needed.  
+14. Amiodarone 200 mg Tablet Sig: Two (2) Tablet PO BID (2 times 
+a day) for 7 days.  
+15. Amiodarone 400 mg Tablet Sig: One (1) Tablet PO once a day: 
+after finishing 400mg BID x 6 days. .  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital6 437**] for the Aged - LTC
+ 
+Discharge Diagnosis:
+Primary diagnoses:
+Diastolic congestive heart failure
+Aortic stenosis
+Mitral stenosis
+Possible chronic obstructive lung disease
+
+Secondary diagnoses:
+Coronary artery disease
+Chronic kidney disease
+Depression
+Diabetes mellitus
+
+ 
+Discharge Condition:
+Stable, satting 98% on 1L via NC, sitting up in a chair 
+
+ 
+Discharge Instructions:
+Please call your doctor at the rehabilitation if [**Doctor First Name **] develop any 
+shortness of breath, chest pain, nausea, vomiting, or any other 
+concerning symptoms. 
+.
+Please take medications as instructed. 
+.
+Keep all your follow-up appointments. 
+ 
+Followup Instructions:
+Provider: [**Name10 (NameIs) 729**] Phone:[**Telephone/Fax (1) 101**] Date/Time:[**3027-5-14**] 
+1:00
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 86**] MD [**MD Number 87**]
+ 
+Completed by: [**Name6 (MD) 7711**] [**Last Name (NamePattern4) 7712**] MD [**MD Number 7713**] [**3027-5-7**] @ 1725
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: [**Doctor First Name 46**] [**3027-5-10**] 11:10 AM
+(End of Report)
+
+
+",,
+8373,20583,,,3027-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3027-5-2**] 1:26 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7222**]
+     Reason: CHF                                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old woman with sob, hypoxia                                             
+     REASON FOR THIS EXAMINATION:
+      CHF                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath.  
+     
+     CHEST, ONE VIEW:  Comparison with report of [**3026-3-10**] (no images on
+     PACS). The cardiac shadow is enlarged with particular left atrial enlargement.
+     Pulmonary hila are enlarged, left greater than right.  Pulmonary interstitial
+     edema is moderate to marked.  Bilateral small pleural effusions and associated
+     atelectasis are present. Midline sternotomy wires, aortic calcifications, and
+     a right pectoral pacemaker feeding a right ventricular lead that follows the
+     expected course. Chain sutures in the right mid lung zone reflect previous
+     partial pulmonary resection.  
+     
+     IMPRESSION:  
+     1.  Moderate-to-marked cardiomegaly and pulmonary edema, not cited in report
+     of [**3026-3-10**].
+     2.  Enlarged hila, left greater than right, likely due to pulmonary arterial
+     hypertension; followup examination with PA and lateral films recommended to
+     confirm.
+     
+
+",,
+8373,20583,10410,0,3027-05-03 03:43:00 EST,3027-05-03 03:56:00 EST,4106,"N",54,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+83 Y/O FEMALE ADMTED FROM [**Hospital **] REHAB, WHERE SHE HAS LIVED FOR THE PAST YEAR, FOR WORSENING SOB, CHF. GIVEN MORPHINE, LASIX AND NITRO IN AMBULANCE. IN EW GIVEN LASIX AND ASA. PLACED ON BIPAP. PT IS A DNR/DNI. ON ARRIVAL PER ABG CO2 99. 
+PMH: COPD, CHF, CAD, GOUT, AFIB, PACEMAKER, MVR [**39**] YEARS AGON, ON COUMADIN, IDDM. PER FAMILY,AT REHAB HAS BEEN EATING DOWN IN DINNING ROOM, WALKING WITH WALKER, INDEPENDENT IN MOST ADL'S. THIS PAST WEEK CONDITION WORSENING, LETHARGIC, LESS TALKATIVE. 
+
+NEURO: PT ALERT, OX1-2. AT BASE LINE AOX2-3 PER FAMILY. PT FOLLWOS COMMANDS. C/O HEADACHE AND GENERAL DISCOMFORT WITH BIPAP THIS AM. MEDICATED WITH PRN MORPHINE. TOLERATED WELL. 
+
+RESP: PT RECEIVED OFF BIPAP 3L NC WITH SATS 92%. WITH IN 30MIN DESATING AS LOW AS 78%. PLACED ON BIPAP, GIVEN 2 SHORT BREAKS FOR BIPAP, THIS AM C/O SOB OFF BIPAP AND DESATING ON 50% FM. THEREFORE MEDICATED WITH MORPHINE AND PLACED BACK ON BIPAP. O2 SATS LOW 90'S ON BIPAP FIO2 40%. UNABLE TO OBTAIN ABG, MULTIPLE ATTEMPTS BY TEAM AND RT. LS FINE CRACKELS AT BASES. 
+
+CV: HR VPACED 70'S. SBP 90-120'S. AFEBRILE. AM LABS PENDING. PT REMAINS ON COUMADIN FOR MV. 
+
+GI/GU: ABD SOFT, +BS, NO BM. PT NPO EXCEPT MEDS. GIVEN SIPS WATER WHEN OFF BIPAP, TOLERATING WELL. ROUTINE LASIX GIVEN AT 2400 AS WELL AS DIAMOX, SMALL DIURESIS NOTED POST DOSE. FOLEY INTACT DRAINING CLEAR YELLOW URINE. UA AND LYTES SENT. 
+
+ACCESS: PT HAS 2 PIV, #20G IN RIGHT ARM AND RIGHT HAND. 
+
+SKIN: INTACT.
+
+DISPO: PT'S NIECE AND SISTER IN DURING EVENING. UPDATED BY NURSING AND DR.[**Last Name (STitle) **]. PLAN IS FOR ECHO TODAY, CONT TO DIURESE, BIPAP FOR SUPPORT. REATTEMPT ABG. PT IS A DNR/DNI. 
+",,
+8373,20583,10410,0,3027-05-03 05:11:00 EST,3027-05-03 05:14:00 EST,3044,"N",54,"Nursing/Other","RESPIRATORY CARE:","
+RESPIRATORY CARE:
+
+Pt admitted from EW for chf/worsening resp status. Pt on non-invasive ventilation in EW, placed on NIV on arrival to ICU. PSV 12/PEEP 5, 30%. Pt remaining on NIV for approx. 2 hour intervals through the night. Oxygenation improved significantly with NIV, pt tolerated moderately well. BS's coarse. See flowsheet for further pt data. Will follow. 
+",,
+8373,20583,10410,0,3027-05-03 15:13:00 EST,3027-05-03 15:16:00 EST,5242,"N",54,"Nursing/Other",,"
+
+Resp Care
+
+Pt recieved on NIV [**11-14**] tol well with VT 200-300cc and MV 4-6L on bipap. BS dim/crackles at the bases and pt cont to tol bipap well t/o day with stable oxygenation. Pt taken off mask ventilation this afternoon at 3pm and placed on 4L NC with acceptable spo2. WIll cont to monitor resp status and assist on bipap as needed. 
+",,
+8373,20583,10410,0,3027-05-03 17:06:00 EST,3027-05-03 17:19:00 EST,3871,"N",54,"Nursing/Other",,"
+
+neuro: alert and oriented x2. follows simple commands. +mae noted.
+cv: monitor shows v-paced rhythm with rare pvc noted. echo done this am at bedside which revealed ^d gradient across mitral valve-> ? valvuloplasty vs valve replacemant vs medical mgmt. cardiology consult in am per dr [**Last Name (STitle) **].
+resp: ls with bibasilar crackles noted. received on bipap this am, able to wean to 4 l np this afternoon and has remained off bipap since 1500. pt with transient episodes of desaturation which spontaneously resolve. 
+gi: abd soft and nontender. +bs noted. no stools this shift. remains npo x meds.
+gu: foley intact and patent draining yellow urine with sedimentation. remains on lasix and diamox.
+skin: c/d/i.
+endo: remains on fingersticks q6hr.
+i-d: afebrile. 
+psy-soc: niece and sister at bedside throughout shift. pt/family updated on status and plan of care. code status remains dnr/dni.
+",,
+8373,20583,10410,0,3027-05-04 03:13:00 EST,3027-05-04 03:15:00 EST,3561,"N",54,"Nursing/Other",,"
+
+Resp Care Note, Pt placed on NIV this eve for increased WOB.Tol well through the night.HR-V-Paced with occ PVC'S.VT 200-300 with occ leak. Wiull cont to monitor resp status.
+",,
+8373,20583,10410,0,3027-05-04 03:30:00 EST,3027-05-04 03:40:00 EST,3516,"N",54,"Nursing/Other","MICU NPN","
+MICU NPN
+O: ROS
+
+neuro: Alert, oriented x2-3, calm and cooperative consistently following commands. Able to assist w/ turning s-s. Denies any pain.
+
+CV: Hr 70's NSR w/ occasional pvc's, rare couplet. When asleep overnoc hr 70 vpaced. Stable BP w/ MAP consistently >55, SBP 120's. Cont on lopressor. 
+
+Resp: SRR 20's and stable 02saat initially 94-99% on 4lnp. Desat to 81% and briefly placed on face mask. Placed on NIV overnoc for resting and [**Last Name (un) **] well. )2sats 92-94% overnoc. LS w/ bibasilar crackles. Denies any resp distress.
+
+Renal: Adequate u/o and diuresing well from 40mg lasix at mn. Body balance negative. Lytes wnl.
+
+GI: Remains npo except meds and is swallowing well. No stool overnoc. +BS, abd soft/distended. 
+
+Heme: Stable. Hct 34.5. Cont on coumadin w/ inr 3.7
+
+ID: Afebrile.  WBC 6.1
+
+Skin: Intact
+
+SH: No family contact overnoc. 
+
+A: Stable cardiac and pulmonary status overnoc.
+
+P: Cont to monitor cardiac status and cont w/ present med regime. Rest overnoc on bipap and remove as tolerated in am. Cont pulm toilet. Recheck abg in am. Cont diuresis as tolerated. Cardiology to see pt today. 
+",,
+8373,20583,10410,0,3027-05-04 15:46:00 EST,3027-05-04 16:28:00 EST,8114,"N",54,"Nursing/Other",,"
+
+MICU-7 Nursing Note 7A-7P:
+
+44 y.o. male admitted [**4-24**] from outside hospital. Presented to outside hospital with complaint of 1 day hx. of SOB, N/V/D, slight abdominal pain, fever, low blood pressure. 
+In [**Hospital1 22**] ED received 5 liters IVF, central line placed, Levophed begun, antibiotics. On [**4-27**] patient was intubated for respiratory failure, ARDS. Diagnosed with Vibrio septisemia from eating raw oysters.
+
+FULL CODE.
+
+PMH: DM, HIV +, Hepatitis B & C, DM, smoker, hepatopulmonary dx, uses home O2.
+
+Access: L radial arterial line, L SC TLC, PIV x3. 
+
+Neuro: Fentanyl 300mcg/hr, Versed 11mg/hr discontinued at 0700 this morning. Sedation has remained off this shift due to unresponsiveness. PERL, 2mm/brisk. No response to painful stimuli. Rarely slight nonpurposeful  movements of toes, fingers noted. Impaired gag/cough. Naloxone 3mg per OGT TID. 
+
+CV: SB/NSR rate 50-70's. No ectopy noted. Vasopressin remains at 2.4 units/hr. Neo drip weaned slightly to 0.5mcg/kg/min. Unable to wean further, maintaining MAP>60. SBP 98-120. Strong palp. pedal pulses. 40 mEq KCL infused, repeat K=2.6. Repleated 60 mEq KCL. 2 G Mag Sulfate given for Mg=1.9. Sodium Phos 30 mmol infused for phos=1.6. 
+
+Resp: Intubated #7.5 ETT taped 25cm at lip.  Vent weaned to PSV 6PS/12peep/.50 ABG  pH=7.52 CO2=43 O2=97 BE=11 HCO3=36. Suctioning ETT for moderate amounts thick tan sputum. L corner of mouth with ulceration ? herpes lesion or breakdown due to ETT. 
+
+GI: OGT with Vivonex tube feeding @ 30cc/hr. Advancing as tolerated to goal rate of 50cc/hr. High residuals; 45-100cc. Abdomen distended, soft to sl firm, hypoactive bowel sounds. Mushroom cath draining liquid green stool, 725cc this shift. 
+
+Endo: Insulin drip per algorithm. Hourly fingersticks. glucose ranging 90's-170's this shift. 
+
+GU: Foley cath draining 15-180cc/hr amber urine with sediment. Lasix drip decreased from 5mg/hr to 2.5mg/hr [**Name8 (MD) 34**] MD due to high bicarb level. Goal diuresis 1 Liter/24hrs. 
+
+ID: Tmax=99. Vancomycin, Doxycycline, Ceftazidime as ordered. WBC=7.
+
+Social: Sister, significant other at bedside for most of shift. Updated and questions answered by RN.  
+
+Plan: Continue to wean pressors, vent as tolerated. Sedation to remain off until patient begins to arouse, monitor for signs of withdrawal. Insulin drip to manage blood glucose. Advance tube feed as tolerated.
+
+",,
+8373,20583,10410,0,3027-05-04 16:15:00 EST,3027-05-04 16:25:00 EST,3871,"N",54,"Nursing/Other",,"
+
+83 yo with metabolic alkalosis and chf.
+
+neuro: lethargic but arousable and follows simple commands. oriented x1-2. +mae noted. cough/gag intact. +perrla noted.
+cv: monitor shows v-paced rhythm with occ pvc's noted. cardiology consulted and plan to medically manage...will start amio tonight. 
+resp: ls with crackles throughout. bipap resumed ~1715 [**1-12**] desat to 80. denies sob or resp distress with desaturation.
+gi: abd soft and nontender. +bs noted. no stools this shift. tol diet. 
+gu: foley intact and patent draining yellow urine with no sedimentation noted. remains on lasix and diamox dose ^d.
+skin: c/d/i.
+endo: remains on fingersticks q6hr with s/s.
+i-d: afebrile. 
+m-s: oob-c x4hr and tol well.
+heme: 1700 lytes sent, pending. inr ^ with plan to hold coumadin this evening. 
+psy-soc: niece and sister at bedside. pt/family updated on status and plan of care. code status dnr/dni.
+",,
+8373,20583,10410,0,3027-05-04 16:29:00 EST,3027-05-04 16:30:00 EST,8114,"N",54,"Nursing/Other",,"
+
+Addendum-please disregard note written by [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]-written on wrong patient.
+",,
+8373,20583,10410,,3027-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3027-5-5**] 3:43 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7223**]
+     Reason: edema, infiltrate                                           
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       83 year old woman with sob, hypoxia                                            
+       
+     REASON FOR THIS EXAMINATION:
+      edema, infiltrate                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Shortness of breath and hypoxia.
+     
+     PORTABLE AP CHEST AT 0412:  Comparison is made to [**3027-5-2**].  Right ventricular
+     pacemaker lead is in unchanged position.  Sternal wires and aortic knob
+     calcifications are unchanged.  There is stable cardiomegaly, particularly the
+     right atrium and main pulmonary artery. Moderate left and small right pleural
+     effusions with associated bilateral lower lobe opacities, likely atelectasis,
+     are unchanged. Unchanged mild pulmonary vascular congestion.
+     
+
+             DR. [**First Name11 (Name Pattern1) 369**] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) 370**]
+",,
+8373,20583,10410,0,3027-05-05 03:14:00 EST,3027-05-05 03:16:00 EST,3561,"N",54,"Nursing/Other",,"
+
+Resp Care Note, Pt placed on and off NIV overnight for desat and increased WOB.HR-V-Paced with occ PVC'S. Will cont to monitor resp status.
+",,
+8373,20583,10410,0,3027-05-05 04:13:00 EST,3027-05-05 04:34:00 EST,3272,"N",54,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: ALERT, AROUSABLE. ORIENTED X2, UNCLEAR OF THE PLACE. FOLLOWS COMMANDS APPROPIATELY. MOVING ALL EXTREMITIES. C/O GENERAL DISCOMFORT AND HEAD PAIN FROM NIMV STRAPS. GIVEN 1MG MORPHINE WITH EFFECT. 
+
+CARDIAC: HR 70-74 VPACED WITH OCCASIONAL ECTOPY. NO SIGNS OF AF. BP 112-135/38-47. TOLERATING LOPRESSOR. PER CARDS RECS, LOPRESSOR WAS INCREASED, DIGOXIN D/C'D AND AMIODORONE PO STARTED. COUMADIN HELD PER TEAM FOR ^INR. NO SIGNS OF BLEEDING. AM CBC AND COAGS PENDING. PPP. 
+
+RESP: RECEIVED ON CPAP 10/+5 30% WITH RR 16-33 AND SATS 80-94%. TV'S IN THE 200'S. REMOVED FROM MASK FOR MEDS, PLACED ON 1.5L N/C AND 30% COOL NEB FACE TENT. LASTED ~45MIN BEFORE INCREASED WOB AND DESATTED TO 80%. REMOVED MASK ONCE AGAIN FOR MEDS, LEFT OFF, LASTED ~2.5HRS BEFORE SHE WOULD DESAT WITH SLOW RECOVERY. PLACED BACK ON NIMV. NO COUGH NOTED. LS CLEAR WITH BIBASILAR CRACKLES. CXR DONE THIS MORNING. 
+
+GI/GU: ABD SOFT AND DISTENDED WITH +BS. NO STOOL. UOP 25-130CC/HR S/P DIURETICS. URINE YELLOW AND CLEAR.
+
+FEN: S/P LASIX AND DIAMOX, -1.1L @MIDNOC AND -3.6L LOS. TRACE PERIPHERAL EDEMA. LYTES PER CAREVUE. FS Q6HRS WITH SS HUMALOG. [**Last Name (un) 5673**] FLUIDS AND MEDS WITH LITTLE DIFFICULTY.
+
+ID: TMAX 96.6 WITH WBC PENDING. NO CURRENT ID ISSUES.
+
+SKIN: W&D. FRAGILE SKIN, SKIN TEAR TO RIGHT FOREARM.
+
+ACCESS: PIV X1.
+
+SOCIAL/DISPO: DNR/DNI. FAMILY CALLED FOR UPDATE. PLAN FOR POSSIBLE PM INTERROGATION BY CARDS IN AM, AND MAY CHANGE RATE TO 60. NOT A  CANDIDATE FOR CARDIAC SURGERY FOR VALVE REPAIR OR VALVULOPLASTY. ENCOURAGE TO EAT IF RESP STAUS ALLOWS. NEED ABG. NEED FOR FAMILY MTG TO DISCUSS GOALS OF CARE. 
+",,
+8373,20583,10410,0,3027-05-05 13:32:00 EST,3027-05-05 13:57:00 EST,4237,"N",54,"Nursing/Other","NPN 07:00","
+NPN 07:00
+* DNR/DNI, no lines, no pressors
+
+Shift Events:
+ Increasingly more alert this am, oob to chair with good results. Currently on NC 2L O2 sat's low 90's (when patient on 4L NC O2 ~99%, very somnolent). MD to draw ABG. Continues to have crackles lower bases, no c/o sob. Respiratory to place patient on Nasal cpap if needs increasing supplemental O2. Remains on Lasix and Diamox with goal (-1L/ 24hr). Fluid balance: Currently -300 (patient stating that she is thirsty) Free H2o primarily given for high Na 147. Cardiology assessed patient, V-paced @ 60bpm (from 70) PVC's occassional, continues on amiodarone and lopressor. GI/Gu: taking minimal po's (h2o, some juice, small bite of bananna, chicken soup), u/o wnl. IV: IV nurse called to look for PIV, placed 22g on R forearm, still has 22g L arm, wnl. Social: Family in to visit, MD [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in to speak with family, family aware of plan of care, and likely outcome. 
+
+",,
+8373,20583,10410,0,3027-05-05 16:40:00 EST,3027-05-05 16:42:00 EST,7440,"N",54,"Nursing/Other",,"
+
+Resp care
+Pt remains off NIV at this time and is on 4L n/c. Will try nasal Bipap @ noc, to see if this will help pt, instead of NIV. Pt up in chair and respiratory status has improved. No other changes noted.
+",,
+8373,20583,10410,0,3027-05-06 03:14:00 EST,3027-05-06 03:17:00 EST,3561,"N",54,"Nursing/Other",,"
+
+Resp Care Note.  Pt has BIPAP on stndby. hasn't needed it on O2 cannula and face tent with Sats in the low 80's to 90%. Will cont to follow.
+",,
+8373,20583,10410,0,3027-05-06 04:18:00 EST,3027-05-06 04:35:00 EST,3272,"N",54,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: AAOX2, CONFUSED ON WHERE SHE IS AND WHY. DENIES PAIN. SLEPT WELL. FOLLOWING COMMANDS AND MOVING ALL EXTREMITIES.
+
+CARDIAC: HR 60 V-PACED WITH OCCASIONAL PVC'S. BP 109-131/33-46. TOLERATING LOPRESSOR, AMIODORONE, AND DIURETICS WITHOUT DROP IN BP. PPP. COUMADIN D/C'D [**1-12**] ^ING INR. AM HCT STABLE AT 35.6, INR 5.4 DOWN FROM 6.4. 
+
+RESP: RECEIVED ON 4L N/C AND 30% FACE TENT. RR 17-24 WITH SATS IN THE MID TO UPPER 90'S. BATHED AND PLACED ON LEFT SIDE PER PT REQUEST BUT SATS DROPPED TO 87%. INCREASED FIO2 TO 50% WITH EFFECT. NO NEED FOR NASAL BIPAP. DENIES SOB. LS CLEAR WITH BIBASILAR CRACKLES, NO WHEEZES, NEBS CHANGED TO PRN. 
+
+GI/GU: ABD SOFT AND DISTENDED WITH +BS. NO STOOL. UOP 15-55CC/HR YELLOW AND CLEAR. 
+
+FEN: S/P LASIX AND DIAMOX, -790CC @MIDNOC AND -4.2L LOS. PERIPHERAL EDEMA PRESENT. LYTES PER CAREVUE. TAKEN IN LITTLE BY MOUTH BUT ABLE TO SWALLOW SAFELY. FS Q6HRS WITH SS HUMALOG AND HUMULIN N BID. 
+
+ID: TMAX 96.9 WITH WBC OF 7. NO CURRENT ID ISSUES. 
+
+SKIN: SKIN TEAR TO RIGHT ARM. 
+
+ACCESS: PIV X2.
+
+SOCIAL/DISPO: DNR/DNI. FAMILY VISITING LAST EVENING. NEED FOR FURTHER DISCUSSION ON END POINT OF TREATMENT. SHOULD BE CALLED OUT TO FLOOR TODAY.
+",,
+8373,20583,10410,0,3027-05-06 14:59:00 EST,3027-05-06 15:04:00 EST,7440,"N",54,"Nursing/Other",,"
+
+Resp Care
+Pt had trial on nasal bipap and tolerated well. ALB/ATR neb given. Pt sats dropped into 80's during Bipap trial, but returned to 90's after a few adjustments with mask and Pt's breathing technique. Pt BIPAP settings: S/T [**9-14**] 5LPM bled in. No other changes noted.
+",,
+8373,20583,10410,0,3027-05-06 17:36:00 EST,3027-05-06 17:53:00 EST,9173,"N",54,"Nursing/Other",,"
+
+Ns. notes:
+
+0700n hrs-1900hrs
+
+A case of MVR,Afib,COPD,CAD,CHF,IDDM,Gout, pacind done 6 yrs ago,admitted with worsened SOB and confusion from [**Hospital 156**] rehab .
+
+Events:Remains stable,more alert and oriented than am,not called today.
+
+Neuro:Alert,orientedx2,able to tell her name ,but failed to tell where she is ,denies pain,comfortable.
+
+Resp:sPO2 93% ACCEPTABLE FOR HER,RR 18-24/min,on NASAL BIPAP for 1 hr,and then back to NC O2 2LIT/MIN AND FACE TENT 35%NOW.BLOOD GAS DONE.
+
+cvs: HR 62-77/min,V paced,afib with occasional PVC'S.TWO PERIPHERAL IV LINES .
+
+GU/GI: ABDOMEN SOFT ,BOWEL SOUNDS PRESENT,NO BOWEL MOVEMENT THIS SHIFT,HAD HER FOOD.ON FOLEYS CATH ,URINE OUT PUT ADEQUATE,RECEIVED IV LASIX 40MG THIS SHIFT.CLEAR YELLOW URINE.
+
+INTEGU;SKIN INTACT,ECHYMOTIC ON PERIPHERAL  IV LINES,BUT LINE PATENT WITH BACK FLOW OF BLOOD.SAT ON CHAIR FOR HOURS IN AM.
+
+SOCIAL;VISITED BY FAMILY AND UPDATED,CO-OPERATIVE AND [**Last Name (un) 106**],DNR/DNI
+
+PLAN:MAY BE  POSSIBLE CALL OUT TOMORROW.CONTINUE WITH TREATMENTS,MAY NEEED BIPAP DURING NIGHT. MAINTAIN O2 TO KEEP SPO2 93%.STARTED ON METHYLPREDNISOLONE.
+
+ 
+",,
+8373,20583,10410,,3027-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3027-5-7**] 7:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7224**]
+     Reason: eval pulm edema                                             
+     Admitting Diagnosis: CONGESTIVE HEART FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        83 year old woman with sob, hypoxia                                           
+         
+     REASON FOR THIS EXAMINATION:
+      eval pulm edema                                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 9:14 A.M., [**5-7**]
+     
+     HISTORY:  Shortness of breath and hypoxia.
+     
+     IMPRESSION:  AP chest compared to [**5-2**] through 26:
+     
+     Mild pulmonary edema is unchanged.  Bilateral pleural effusion small on the
+     right and moderate on the left is stable.  Severe cardiomegaly and left lower
+     lobe atelectasis unchanged.  No pneumothorax.  Transvenous right ventricular
+     pacer lead in standard placement.
+                                                                           
+
+",,
+8373,,10410,0,3027-05-07 04:31:00 EST,3027-05-07 04:33:00 EST,3746,"N",54,"Nursing/Other",,"
+
+Respiratory Care: Pt off cpap all night. Off and on O2 face mask as she had episodes of desaturation. Goal is to keep dat around 90%. BS essentially clear, Rx held.
+",,
+8373,,10410,0,3027-05-07 05:41:00 EST,3027-05-07 05:50:00 EST,3272,"N",54,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: SLEEPY BUT AROUSABLE. AAOX2, UNAWARE OF WHERE SHE IS. DENIES PAIN. FOLLOWS COMMAND AND MAE. 
+
+CARDIAC: HR 60 V-PACED WITH OCCASIONAL ECTOPY. BP 108-129/31-57. TOLERATING LOPRESSOR AND AMIODORONE. PPP. HCT STABLE @34.8, INR STILL ELEVATED @5.4 DESPITE REMAINING OFF COUMADIN. NO SIGNS OF BLEEDING NOTED. 
+
+RESP: RECEIVED ON 2L N/C WITH 35% FACE TENT. ABLE TO WEAN DOWN O2 TO 1L N/C WITH GOAL SATS 90-93%. LATER DESATTING TO LOW OF 77% AND EVENTUALLY PLACED BACK ON FACE TENT @35% AND UP TO 2L N/C. NO APPARENT DISTRESS IN TIMES OF DESATURATION. NO C/O SOB. RR 15-26 AND SATS 77-97%. LS CLEAR WITH BIBASILAR CRACKLES. NO COUGH NOTED. 
+
+GI/GU: ABD SOFT AND DISTENDED WITH +BS. NO STOOL. UOP 13-60CC/HR AMBER AND CLEAR. CREAT 1.3. 
+
+FEN: -4.9L LOS. LYTES PER CAREVUE BUT HEMOLYZED. MODERATE PO INTAKE. FS Q6HRS WITH SS HUMALOG AND BID HUMULIN N.
+
+ID: TMAX 97.O WITH WBC 5.7. NO CURRENT ID ISSUES.
+
+SKIN: HAD INTACT STERISTRIPS TO RIGHT ARM SKIN TEAR.
+
+ACCESS: PIV X2.
+
+SOCIAL/DISPO: DNR/DNI. FAMILY VISITING LAST NIGHT. ?CALL OUT TODAY. 
+",,
+8373,,10410,0,3027-05-07 14:36:00 EST,3027-05-07 14:37:00 EST,3871,"N",54,"Nursing/Other",,"
+
+pt to be d/c'd to [**Hospital **] rehab. neice and sister updated on status and plan of care. report given and ambulance booked. paperwork and dentures sent with pt. 
+",,
+8373,,10410,0,3027-05-07 14:49:00 EST,3027-05-07 14:49:00 EST,3447,"N",54,"Nursing/Other","respiratory care","
+respiratory care
+pt was D/C'ed from bipap.  pt to go to rehab.
+",,

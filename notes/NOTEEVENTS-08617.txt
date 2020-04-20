@@ -1,0 +1,150 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8617,33459,,,3344-12-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3344-12-25**]     Discharge Date:  [**3344-12-28**]
+
+Date of Birth:   [**3281-2-26**]     Sex:  M
+
+Service:  Medicine
+
+CHIEF COMPLAINT:  He was admitted with a chief complaint of
+new orthopnea, increased lower extremity edema, and rapid
+heart rate.  He deceased on [**3344-12-28**].
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname 11982**] is a 63-year-old
+male with an extensive past medical history who presents with
+a 1-week history of orthopnea, increased lower extremity
+edema, and rapid heart rate.
+
+He was in his usual state of health until eight days prior to
+admission when he noticed his prostheses no longer fit.  His
+has bilateral below-knee amputation with leg prostheses.
+Usually they are a little bit loose and he wears a few socks
+to fit them appropriately.  He noted he no longer needed the
+socks, and in fact he could barely squeeze his legs into
+them.  He also noted he could not lay flat.  Also, when he
+took his blood pressure on the blood pressure machine his
+heart rate was greater than 120.  He called his cardiologist,
+Dr. [**Last Name (STitle) 1357**], with these complaints four days prior to
+admission and was told to increase his Lasix dose, which he
+did.  He called Dr.[**Doctor Last Name 10550**] office again one day prior to
+admission and was told to increase it again, which he did,
+still without much benefit.  The lower extremity edema and
+orthopnea remained unchanged, and his heart rate also
+remained unchanged.
+
+On the day of admission he finally could no longer wear his
+prostheses as they no longer fit, and he came to the
+hospital.
+
+PAST MEDICAL HISTORY:
+1.  Type 2 diabetes mellitus diagnosed at age eight.
+2.  Bilateral below-knee amputation in the early 1990s.
+3.  Mild proteinuria.
+4.  Coronary artery disease, status post 6-vessel coronary
+artery bypass graft in [**3332**].
+5.  Hypertension.
+
+MEDICATIONS ON ADMISSION:  Medications on admission included
+Lopressor, Zocor, Univasc, Lasix, aspirin, NPH, and regular
+insulin as his main medications.
+
+HOSPITAL COURSE:   In the Emergency Department the patient
+was found to be in atrial flutter at a rate of 150.  He was
+rate controlled with Lopressor intravenously and then p.o.,
+and his heart rate decreased to 70s to 80s.  His first
+creatine kinase and troponin were negative, and he was
+admitted.
+
+He was placed on telemetry.  Enzymes were cycled.  He had a
+mild positive troponin of 0.9.  He had mild positive creatine
+kinase at 220 with a MB of 11, giving an index of 7.  He
+remained in atrial fibrillation/atrial flutter and on
+telemetry.  Lopressor 100 mg p.o. t.i.d. was used for rate
+control with good, by not excellent, affect as his heart rate
+would creep over 100 in the hour before receiving his next
+dose of Lopressor.  His Lasix was changed from p.o. to
+intravenous and kept at the same level during the first 24
+hours.  He did not really diuresis anything.  His Lasix, at
+that time, was increased and he diuresed slightly a few
+hundred cc negative on hospital day two.  On hospital day
+three his intravenous Lasix was increased even more.
+
+Upon admission, the patient was placed on a heparin drip for
+anticoagulation.  He remained on this throughout his hospital
+course.
+
+On hospital day three, the decision was made to pursue a
+transesophageal echocardiogram with cardioversion as
+restoring normal sinus rhythm to his heart would likely help
+his congestive heart failure.  The patient agreed to this
+procedure.  Also of note on admission, the patient was noted
+to have a right pleural effusion larger than in the past.  In
+the past he has had a right pleural effusion associated with
+congestive heart failure flares.  This was not tapped because
+the etiology of this effusion was congestive heart failure,
+and diuresis was the treatment.
+
+On [**3344-12-28**], the patient went for a transesophageal
+echocardiogram and cardioversion.  The transesophageal
+echocardiogram portion was successful and revealed no clot in
+the left atrium.  However, they did not examine the left
+ventricle or any other [**Doctor Last Name **] of the heart because the
+patient began to not tolerate the procedure.  However, it was
+deemed safe to cardiovert the patient at that time, which was
+done.  The patient tolerated the cardioversion well.  The
+patient began waking up approximately 10 minutes after the
+cardioversion.  When he was waking up from the anesthesia he
+experienced bradycardia.  His heart rate dropped into the
+30s.  He became apneic, and he became pulseless.  At that
+time he was intubated by anesthesia, and the Cardiology team
+began resuscitative efforts including atropine and a pacing
+wire.
+
+Over the course of the next 45 minutes multiple attempts were
+made at resuscitation using pacing wires.  The patient was
+taken to the catheterization laboratory where his cardiac
+vessels were examined under fluoroscopy for acute thrombus.
+The patient underwent multiple shocks for pulseless
+ventricular tachycardia and ventricular fibrillation.  These
+transiently restored normal sinus and restored a pulse.
+However, over the course of the 45 minutes the patient
+continued to become bradycardic and then asystolic.  Pacing
+was done and an intra-aortic balloon pump was put in place
+which transiently restored a pulse.  Eventually, the
+patient's underlying rhythm became ventricular
+tachycardia/ventricular fibrillation, pulseless and it was
+refractory to shocks.
+
+After approximately 10 more minutes of attempts to restore
+normal sinus rhythm without any success and without any
+success at obtaining a pulse, the patient was pronounced dead
+at 2:20 p.m. on [**3344-12-28**].  The attendings were
+notified.  The Cardiology attending was notified.  Dr. [**First Name (STitle) 11983**],
+his [**Last Name (un) **] doctor, was also notified.  The medical examiner
+was notified who declined the case.  The patient's next of
+[**Doctor First Name **] is his brother out in [**State 4011**].  Messages were left for
+the brother with the Cardiology fellow's pager number.  At
+the time of this dictation the family had not called back.
+The family will be notified, and at that point a postmortem
+will be determined.
+
+
+
+
+                          [**Name6 (MD) 7513**] [**Name8 (MD) 7512**], M.D.  [**MD Number 8907**]
+
+Dictated By:[**Last Name (NamePattern1) 6300**]
+
+MEDQUIST36
+
+D:  [**3344-12-28**]  15:46
+T:  [**3345-1-2**]  15:48
+JOB#:  [**Job Number 11984**]
+Signed electronically by: DR. [**First Name (STitle) 7513**] [**Name (STitle) 7512**]
+ on: WED [**3345-1-20**] 12:48 PM
+(End of Report)
+
+
+",,

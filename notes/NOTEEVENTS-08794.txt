@@ -1,0 +1,693 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8794,11922,,,3402-04-23 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3402-4-23**]              Discharge Date:   [**3402-4-28**]
+ 
+Date of Birth:  [**3323-6-24**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamides) / Hydrochlorothiazide
+ 
+Attending:[**Last Name (NamePattern4) 597**] 
+Chief Complaint:
+ tonic-clonic seizure
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+The patient is a 78 year old man with a seizure disorder who 
+presented with generalized clonic-tonic seizure. 
+*
+He underwent colonoscopy yesterday morning, undergoing a prep of 
+2 phosphosoda and 2 dulcolax with plenty of water, bouillon and 
+sprite ingested in between. The colonoscopy went well but he was 
+very tired afterwards and fell asleep early, missing his 7pm 
+dose of keppra. At 8pm, his wife, who was briefly asleep in bed, 
+awoke next to him observing that his head was jerking back and 
+forth and he was making guttural sounds. He had bitten his 
+tongue. She is not certain what the rest of the extremities were 
+doing. The activity lasted about 15 seconds. He was described as 
+being post-ictal and hard to wake up by EMS notes. 
+*
+At [**First Name4 (NamePattern1) 250**] [**Last Name (NamePattern1) **] a CT head was done and was reportedly negative. His 
+sodium was measured at 120. He was given 2mg ativan for unclear 
+reasons but it was noted that he was very combative. He was 
+transferred to [**Hospital1 83**] for further care at his wife's request. 
+While here in the ED he has been very combative and required 1mg 
+ativan x 2 and 2.5mg haldol x 2. 
+*
+Of note, he has had seizure disorder dating back to 21 years 
+prior which presented as a generalized seizure. He apparently 
+had another ""small one"" 6 months later after he was being taken 
+off dilantin and has not had any generalized seizures since. He 
+does however now have brief episodes of staring and 
+unresponsiveness that are thought to be complex partial 
+seizures. An EEG in [**3395**] shows bilateral temporal slowing with 
+some bursts of slowing seen. He had been on dilantin for many 
+years but his gait was thought to be wobbly and he started a 
+transition to keppra with a taper of dilantin, which was 
+discontinued completely on [**3402-3-31**]. Since then he has been doing 
+well, had a physical in April with Dr. [**Last Name (STitle) **] at which it was 
+mentioned""his electrolytes were low"" and HCTZ was cut in half to 
+12.5mg daily. 
+
+ 
+Past Medical History:
+1. epilepsy as above 
+2. hypertension 
+3. hypercholesterolemia 
+4. macular degeneration 
+5. diabetes 
+ 
+Social History:
+lives with wife, says drinks 1 glass wine daily, rarely more. 
+Stopped smoking 45 years ago. 
+ 
+Family History:
+not obtained
+ 
+Physical Exam:
+T 98.0 BP 151/76 HR 92 RR 10 97% NC 
+General appearance: elderly man lying in bed, restrained, eyes 
+closed, sleeping
+HEENT: anincteric, oral mucosa dry, neck supple 
+Heart: regular rate and rhythm without murmurs, rubs or gallops 
+Lungs: clear to auscultation bilaterally. 
+Abdomen: soft, nonternder, nondistended
+Extremities: no clubbing, cyanosis or edema 
+Neuro: sleepy but arousable, disoriented, CN II-XII intact, 
+slightly increased tone on right side, Both arms drop to the bed 
+when raised. Both legs move to noxious stimuli. Reflexes: 1+ 
+patellae, 2+ biceps, brachioradialis. Toes upgoing bilaterally
+ 
+Pertinent Results:
+Admission Labs: 
+--------------
+CBC: WBC-7.4 RBC-3.77* HGB-12.7* HCT-34.5* MCV-92 PLT 291
+*
+DIFF: NEUTS-91.2* LYMPHS-6.5* MONOS-2.1 EOS-0.2 BASOS-013/05 
+01:50AM   PT-*
+*
+COAGS: PTT-35.4* INR(PT)-1.2
+*
+DILANTIN LEVEL: PHENYTOIN-<0.6*
+*
+CHEM: CALCIUM-8.4 PHOSPHATE-2.4* MAGNESIUM-1.6 GLUCOSE-130* UREA 
+N-7 
+CREAT-0.6 SODIUM-120* POTASSIUM-3.7 CHLORIDE-88* TOTAL CO2-26 
+ANION GAP-10
+*
+U/A: BLOOD-LG NITRITE-NEG PROTEIN-TR GLUCOSE-TR KETONE-NEG 
+BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-NEG RBC-[**5-21**]* WBC-0-2 
+BACTERIA-OCC YEAST-NONE EPI-0
+*
+URINE OSM-330
+*
+Cardiac Enzymes: CK-MB-38* MB INDX-2.7 cTropnT-<0.01
+*
+TSH-1.9
+*
+[**Last Name (un) 1737**] Stim: 
+[**3402-4-23**] 06:47PM   CORTISOL-23.6*
+[**3402-4-23**] 07:32PM   CORTISOL-43.0*
+[**3402-4-23**] 08:16PM   CORTISOL-51.1*
+*
+Micro: (no positive cultures to date)
+[**3402-4-23**] BLOOD CULTURE
+AEROBIC BOTTLE-PENDING; ANAEROBIC BOTTLE-PENDING 
+[**3402-4-23**] BLOOD CULTURE
+AEROBIC BOTTLE-PENDING; ANAEROBIC BOTTLE-PENDING 
+[**3402-4-23**] URINE
+URINE CULTURE-FINAL NO GROWTH
+.
+
+Discharge studies:
+
+[**3402-4-27**] 06:00AM BLOOD WBC-5.2 RBC-3.73* Hgb-12.9* Hct-36.6* 
+MCV-98 MCH-34.6* MCHC-35.3* RDW-13.7 Plt Ct-315#
+[**3402-4-23**] 12:10PM BLOOD Neuts-79* Bands-9* Lymphs-7* Monos-4 
+Eos-0 Baso-0 Atyps-1* Metas-0 Myelos-0
+[**3402-4-27**] 06:00AM BLOOD Plt Ct-315#
+[**3402-4-27**] 06:00AM BLOOD Glucose-140* UreaN-18 Creat-0.8 Na-140 
+K-3.8 Cl-102 HCO3-26 AnGap-16
+[**3402-4-23**] 08:50AM BLOOD CK-MB-38* MB Indx-2.7 cTropnT-<0.01
+[**3402-4-26**] 07:10AM BLOOD Calcium-8.9 Phos-3.0 Mg-1.9
+[**3402-4-23**] 08:16PM BLOOD Cortsol-51.1*
+[**3402-4-26**] 10:05AM BLOOD HEPARIN DEPENDENT ANTIBODIES-PND
+
+Radiologic Studies: 
+-------------------
+Head CT- 
+1. No intracranial hemorrhage. 
+2. Evidence of prior infarcts as described above to further 
+evaluate for an acute infarct, MRI is more sensitive.
+3. Diffuse paranasal sinus opacification.
+*
+CXR- Mild congestive heart failure. No focal opacity to suggest 
+consolidation
+
+MRI-MR HEAD W/O CONTRAST  [**3402-4-26**] 5:05 PM
+IMPRESSION: Atrophy and chronic infarcts as described. Sinus 
+disease including the mastoid sinus. No evidence of acute 
+infarct, mass effect, or hemorrhage.
+Negative MRA of the circle of [**Location (un) 345**]. A reading was called on 
+this report to Dr. [**Last Name (STitle) **]. A preliminary report to this effect 
+was provided by Dr. [**Last Name (STitle) 12242**] and [**Doctor Last Name 12243**].
+
+CHEST (LAT DECUB ONLY)  [**3402-4-26**] 10:37 AM
+FINDINGS: On decubitus view, there is no evidence of layering 
+effusion. Cardiac and mediastinal silhouettes remain stable. The 
+retrocardiac opacity probably relates to the known hiatal 
+hernia.
+
+Video Swallow: IMPRESSION: Penetration, but no aspiration with 
+nectar consistency. Aspiration demonstrated with thin liquids 
+with clearance after spontaneous or cued cough. 
+
+EEG:
+IMPRESSION: Abnormal portable EEG due to the focal left anterior 
+
+quadrant delta slowing and due to the generalized slowing and 
+background 
+disorganization. The last two abnormalities signify a widespread 
+
+encephalopathy. Medications, metabolic disturbances, and 
+infection are 
+among the most common causes. The faster activity suggests a 
+medication 
+effect. Focal left anterior quadrant slowing raises concern for 
+a focal 
+subcortical abnormality. Anatomic correlation would be of 
+interest if 
+clinically indicated. There were no epileptiform features. 
+
+ 
+Brief Hospital Course:
+78 year old man with epilepsy with prolonged post-ictal 
+agitation and lethargy. A brief [**Hospital 5796**] hospital course is 
+outlined below. 
+
+1) Seizure: The patient had a witnessed seizure and a history of 
+seizures. This was felt to be most likely precipitated by 
+dehydration from the colonoscopy prep. Normally on Keppra but he 
+may have missed a dose. CT negative for intracranial process and 
+EEG negative on admission for continued seizure. His keppra was 
+continued, and his neurologist was contacted who suggested not 
+restarting dilantin due to profound ataxia he had experienced on 
+dilantin previously. No further seizure activity since 
+admission. 
+
+2) Altered Mental Status: Initially when he was admitted to the 
+ICU he was over-sedated and this was felt secondary to recieving 
+ativan and haldol in the ED. He subsequently cleared from this 
+sedation, but then became agitated the following night, with 
+associated visual hallucinations and attempts to climb out of 
+bed. It was felt that this was possibly related to ETOH 
+withdrawl vs occult infection vs medication related (quinidine). 
+His mental status did not improve following zyprexa or haldol 
+treatment. Therefore he was started emperically on amoxicillin 
+for sinusitis). ETOH history revealed that he only drinks 1 
+glass of wine per day, which would make ETOH withdrawl less 
+likely. His quinidine was held for 24 hours but he was found to 
+have premature atrial contractions and no overt improvement in 
+mental status, so this was restarted. Neurology reexamined the 
+patient and felt that there was still some persistent weakness 
+on his right side, so an MRI was obtained to rule out stroke 
+which showed no acute lesion explaining these findings. Further 
+benzodiazepines were held and his mental status gradually 
+improved through the time of discharge.
+
+3) hyponatremia: His serum Osm low consistent with hypo-osmolar 
+hyponatremia. Likely secondary to volume depletion, since 
+clinical exam suggested hypovolemia. Also, urine Na >20, 
+suggesting renal loss, likely from HCTZ diuresis. He was treated 
+with free water restriction and volume repletion, and the HCTZ 
+was stopped. [**Last Name (un) 1737**] stim responder suggesting against adrenal 
+insufficiency as etiology. Following these interventions his Na 
+returned to above 136. 
+
+4) Left Shift/Bandemia: He initially presented with 9% bands on 
+cbc/diff. Suspected response to recent seizure activity. U/A had 
+RBC and occ bacteria, but negative nitrite. His Urine Cx was 
+negative and CXR was negative for infiltrate. Initially held off 
+on antibiotics since he was afebrile and well-appearing. However 
+he subsequently developed delirium which was felt possibly 
+secondary to an infectious source. Sinus CT was reviewed and 
+showed diffuse paranasal opacifiation, therefore he was started 
+empirically on a course of amoxicilin for sinusitis. 
+
+5) Elevated CK: The patient had a high CK and CK-MB with flat 
+troponin. Suspected secondary to seizure. He had no associated 
+chest pain or EKG changes. He was continued on his medical 
+regimen of zocor, norvasc and the [**Last Name (un) 367**] was restarted at 
+discharge.
+
+6) elevated blood sugar: He was continued on sliding scale 
+insulin.
+ 
+7) Platelets - His paltelets dropped by 50% on [**4-26**] and a 
+heparin dependent antibody test was sent, which was cancelled 
+after his platelet level rebounded. Heparin flushes were 
+stopped, and DVT prophylaxis was changed to argatroban, but it 
+will be safe for him to get heparin again. He should have a CBC 
+in 1 week to ensure that his platelets are stable.
+
+ 
+Medications on Admission:
+1. irbesartan 300mg daily 
+2. hctz 12.5mg daily (reduced in half in 4/05) 
+3. Avapro one daily 
+4. Norvasc one daily 
+5. Zocor 20mg daily 
+6. Quinidine 200mg four times daily 
+7. Vitamin B6 50mg daily 
+8. Vitamin B12 
+9. Folic acid 
+10. Ocuvite 2 tabs twice daily 
+11. Keppra 1g twice daily 
+ 
+Discharge Medications:
+1. Amlodipine Besylate 5 mg Tablet Sig: One (1) Tablet PO BID (2 
+times a day).  
+2. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+3. Pyridoxine HCl 100 mg Tablet Sig: 0.5 Tablet PO DAILY 
+(Daily).  
+4. Cyanocobalamin 100 mcg Tablet Sig: 0.5 Tablet PO DAILY 
+(Daily).  
+5. Folic Acid 1 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+6. Levetiracetam 250 mg Tablet Sig: Four (4) Tablet PO BID (2 
+times a day).  
+7. Amoxicillin 500 mg Capsule Sig: One (1) Capsule PO Q8H (every 
+8 hours) for 7 days: for sinusitis.  
+8. Docusate Sodium 150 mg/15 mL Liquid Sig: One (1) pill PO BID 
+(2 times a day).  
+9. Senna 8.6 mg Tablet Sig: One (1) Tablet PO BID (2 times a 
+day).  
+10. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily) as needed.  
+11. Tylenol 325 mg Tablet Sig: One (1) Tablet PO every 4-6 hours 
+as needed for pain.  
+12. Quinidine Sulfate 200 mg Tablet Sig: One (1) Tablet PO Q6H 
+(every 6 hours).  
+13. Irbesartan 300 mg Tablet Sig: One (1) Tablet PO once a day: 
+hold for SBP < 110.  
+14. Insulin Regular Human 100 unit/mL Solution Sig: as directed 
+per sliding scale units Injection ASDIR (AS DIRECTED).
+Disp:*100 units* Refills:*2*
+15. Heparin Sodium 5,000 unit/0.5 mL Syringe Sig: One (1) 
+injection Injection three times a day.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+seizure with epilepsy
+swallowing difficulty
+premature atrial contractions
+hyponatremia
+diabetes
+thrombocytopenia
+
+ 
+Discharge Condition:
+patient was alert and oriented. He was eating food, and stable 
+for transfer to a rehab facility.
+ 
+Discharge Instructions:
+[**Doctor First Name 10**] are going to a rehab facility.
+
+If [**Doctor First Name **] have recurrent seizures, chest pain, shortness of breath 
+or other concerns, please return to the ED. 
+ 
+Followup Instructions:
+Please follow up at the following appointments:
+Provider: [**First Name11 (Name Pattern1) 2062**] [**Last Name (NamePattern4) 2063**], MD [**MD Number 105**]: LM [**Hospital Ward Name **] BUILDING 
+INTERNAL MEDICINE Phone:[**Telephone/Fax (1) 2453**] Date/Time:[**3402-5-18**] 9:45
+
+Provider: [**First Name11 (Name Pattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 1320**], M.D. [**MD Number 105**]: [**Hospital6 106**] 
+NEUROLOGY Phone:[**Telephone/Fax (1) 8735**] Date/Time:[**3402-5-18**] 11:30
+
+Provider: [**First Name11 (Name Pattern1) 2062**] [**Last Name (NamePattern4) 2063**], MD [**MD Number 105**]: LM [**Hospital Ward Name **] BUILDING 
+INTERNAL MEDICINE Phone:[**Telephone/Fax (1) 2453**] Date/Time:[**3402-9-22**] 9:15
+
+ 
+                             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 364**] [**Name8 (MD) **] MD [**MD Number 361**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 846**] [**Last Name (NamePattern4) 847**] MD [**Last Name (un) 848**] [**3402-4-28**] @ 1241
+Signed electronically by: DR. [**Last Name (STitle) **] [**Last Name (NamePattern4) 364**] [**Doctor Last Name **]
+ on: SUN [**3402-5-9**] 9:14 PM
+(End of Report)
+
+
+",,
+8794,11922,,,3402-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3402-4-23**] 8:42 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10632**]
+     Reason: eval for bleed.                                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man s/p seizure, minimillay responsive                              
+     REASON FOR THIS EXAMINATION:
+      eval for bleed.                                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: SADk FRI [**3402-4-23**] 3:47 PM
+      multiple areas of white matter hypodensity, which appear to be chronic. if
+      concern for acute infarct, mri is more sensitive. paranasal sinus
+      opacification diffusely
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Status post seizure.
+     
+     TECHNIQUE:  Noncontrast head CT.
+     
+     FINDINGS:  There is no intracranial hemorrhage, or shift of normally midline
+     structures.  There is low attenuation throughout the periventricular white
+     matter consistent with chronic microvascular infarction.  There is a large
+     area of low attenuation in the right temporal lobe consistent with a previous
+     infarct.  There is also encephalomalacic change in this region.  There is
+     asymmetry of the occipital horns of the lateral ventricles, with the right
+     being slightly narrower than the left despite this encephalomalacic change.
+     The [**Doctor Last Name 30**]-white matter differentiation otherwise remains intact.  There is no
+     evidence of an acute major vascular territorial infarct.  There is
+     opacification of the ethmoid air cells, both maxillary sinuses, the sphenoid
+     sinus and the left portion of the frontal sinus.  There are no acute
+     fractures.  There also is a small amount of fluid in the right mastoid air
+     cells.
+     
+     IMPRESSION:
+     1.  No intracranial hemorrhage.  
+     2.  Evidence of prior infarcts as described above to further evaluate for an
+     acute infarct, MRI is more sensitive.
+     3.  Diffuse paranasal sinus opacification.
+     
+
+",,
+8794,11922,,,3402-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8794,11922,,,3402-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3402-4-23**] 6:58 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10633**]
+     Reason: r/o pneumonia                                               
+     Admitting Diagnosis: HYPONATREMIA;STATUS POST SEIZURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with bandemia, post seizure                                     
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  78-year-old man with bandemia post seizure.  Please evaluate for
+     pneumonia.
+     
+     Portable AP view of the chest dated [**3402-4-23**], is compared with the PA and
+     lateral chest x-ray of [**3402-3-16**].  The inspiratory effort for this film is
+     poor and therefore there is increased prominence of the interstitial
+     markings. The hilar and cardiac contours are unchanged. No focal infiltrates
+     are seen. A rounded density within the left middle lung zone is likely the
+     patient's hiatal hernia, which is fluid filled. No large pleural effusions are
+     identified. There is no pneumothorax. The surrounding osseous and soft tissue
+     structures are unremarkable.
+     
+     IMPRESSION:  No focal opacity to suggest consolidation, however, a repeat PA
+     and lateral chest x-ray once the patient's condition stabilizes would be
+     helpful for definitive assessment of the lung fields.
+
+",,
+8794,11922,10936,0,3402-04-23 17:23:00 EST,3402-04-23 17:37:00 EST,762,"N",69,"Nursing/Other",,"
+
+This is a 78 yo male with a pmed hx of sz d/o, HTN, elevated chol, NIDDM, macular degeneration, who was admitted to the MICU for MS  changes after a seizure.  Within the past few months his dilantin was changed to kepra due to an unsteady gait and dilantin toxocity.  He had a colonoscopy yesterday, when he got home he was tired and didn't take his kepra; an hour later he had a seizure.  His sodium was 120 in the EW but he is chonically hyponatremic with a sodium in the 120s.  He was transfered to [**Hospital1 22**] per family request.  He was aggitated in the EW and was given ativan and haldol, he was also given a dose of kepra at 3pm.  He was given 6 liters of NS in the EW, he put out 5600cc of urine there.  
+
+Allergies:  sulfa
+
+Systems Review
+
+Neuro:  lethargic with periods of aggitation, trying to get OOB, confused thinking that he needed to get dressed and go home.
+
+CV:  VSS, to cont with his cardiac meds
+
+Resp:  LS clear, 02 drops to the 80s when he appears to have [**Doctor Last Name 5**] apnea otherwise it is in the mid 90s on RA - 02 was added; NC 2L.
+
+GI:  c/o being hungry and thirsty, his mouth is very dry and it appears that he bit his tongue - old blood and a bruise.
+
+GU:  Good u/o, light yellow, to have TSH levels sent, ? w/u for SIADH.
+
+Soc:  His wife was called and up dated.
+",,
+8794,11922,10936,0,3402-04-24 04:28:00 EST,3402-04-24 04:42:00 EST,723,"N",69,"Nursing/Other","npn","
+npn
+family visited pt in evening and pt became agitated. family left shortly after speaking with md. K+ and magnesium repleted see mar. pt unable to take po neurotphos solution, has taken small sips of fluid but pt needs pseech and swallow done ??. pt's tongue is swollen and bruised and making speech garbled and swallowing diffcult.
+
+neuro: pt has become clearer, answers to name, does follow commands but inconsitently. speech garbled and he continues to be confused and needs to reoriented to place and situation when he awakens from small naps. no seizure acitivty noted
+
+pain: pt denies.
+
+cad hr 70 to 80 sr with occass. pvc during evening which stopped after repletion was started. b/p ranging from 110/58 to 135/63. 
+
+resp ls clear rr teens to 20's sats 97% on 2l. no issues.
+
+gi: abd soft bs+ , pt's tongue swollen making it difficult for him to swallow. some sips attempted but pt coughing after. 
+
+gu: urine output 55 to 70cc/hr, eveing K+ 3.3, mag 1.4  see mar for repletions. am labs pending. last na+ 130
+
+endo; 12am 97  no coverge per ssi.
+
+plan: pt needs swallow study or hopefully swelling will go down with time. continue aspiration and seizure precautions. continue to check lytes and replete as needed. pt is full code
+",,
+8794,11922,10936,0,3402-04-24 16:12:00 EST,3402-04-24 16:22:00 EST,762,"N",69,"Nursing/Other",,"
+
+NPN
+
+Neuro:  Pt is oriented to name, [**Hospital **] Hospital, and [**3402-4-11**].  He has had periods of aggitation and confusion, he told me that he did not want to wear thoses clothes while pointing at the curtains, he tried to get OOB and tried to kick  the sitter who was trying to keep him in bed.  This afternoon he has had fewer periods of aggitation, he is not back to his baseline but has been improving.  He was able to eat, he needed reminding not to talk while doing so.  He has been taking his meds mixed in jello.  He has been sleeping on and off for most of the day.
+
+CV:  VSS
+
+Resp:  LS clear, 02 SAT 97% on RA
+
+GI:  Fair appitite, no BM.
+
+GU:  His urine is more concentrated looking than yesterday, u/o ~ 70cc/hr.  He conts on NS at 100c/hr, his Na this morning was 130.
+
+Endo:  BS under good control, he has not required any insulin.
+
+
+",,
+8794,11922,10936,,3402-04-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3402-4-25**] 10:26 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10634**]
+     Reason: Please assess for infiltrate                                
+     Admitting Diagnosis: HYPONATREMIA;STATUS POST SEIZURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       78 year old man with bandemia, post seizure with change in mental status and 
+      low grade temps                                  
+     REASON FOR THIS EXAMINATION:
+      Please assess for infiltrate                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Temperatures.
+     
+     COMPARISON:  [**3402-4-23**].
+     
+     FINDINGS:
+     Smooth bordered retrocardiac density that extends laterally to the chest wall
+     has increased in size since the prior study.  However, looking at more prior
+     studies, I noted a hiatal hernia has been present in this location.  If this
+     were fluid filled, it could easily explain the radiographic appearance.  I
+     cannot exclude the possibility of a loculated pleural effusion.  Consider
+     right side down decubitus view.  The remainder of the lungs is clear and the
+     heart size is within normal limits.  Pulmonary vascular markings are normal.
+     
+     IMPRESSION:
+     Increasing size of smooth-bordered left posterior density which could be a
+     hiatal hernia filled with fluid.  Consider CT or left side down decubitus view
+     for further delineation or left side down decubitus view could be obtained to
+     see this layers out.
+                                                                           
+
+",,
+8794,11922,10936,0,3402-04-25 04:49:00 EST,3402-04-25 05:11:00 EST,723,"N",69,"Nursing/Other","npn","
+npn
+neuro: pt has increasingly confused all night. pt seems to be almost sleeping but talking and interacting with environment. actively hallucinating, talking with people that are not in the room but not able to see staff, at one point pt was talking and conversing with someone but [**Doctor First Name **] could wave your hand in front of his face and he did not react to it. earlier in shift pt able to be reoriented to place and time but became agitated with staff  each time he was asked where he was. haldol 1mg iv given x 2 due to increasing agitation but pharmacy recommended ativan due to pt qtc being .47, zyprexa also given with little effect. sitter at bedside  all night. seizures pads on rails. pupils 2mm to 3mm reactive.
+
+cad 80-90's 1st degree avb with rare pac and pvc's, short [**Last Name (un) 394**] of irregular rhythmn but b/p maintained. b/p range 132/60 to 106/43. pharmnacy called recommending cardiolgy consult to get pt off quinidine sulfate which may be causing the  confusion and maybe responsible for tremors  noted a weeek ago when dilatin was changed over to keppra.
+
+resp ls clear sats 97 to 99% pt placed on 2liters just as a precaution incase confusion was r/t hypoxia and he kept pulling of 02 sat finger probe. pt is definite risk for aspiration. hob elevated with po intake.
+
+gi: bs +, + flatus  but no bm. pt taking pills crushed in jello or custard,, having difficulty with liquids. tongus is less swollen than yesterday. 
+
+gu: uo  wnl pt is 1500cc pos for los. ivf stopped at 4am because with constant moving pt kept setting off pump will restart when pt less agitated. am labs,na 136, K+ 3.6, mag 2.0
+
+id afebrile, consider watching for possible asp pnx.
+
+plan: continue with sitters, seizure and asp precautions, K+ needs to be repleted, cardiololy consult needed and speech and swallow. question wife concerning pt etoh use as possible factor in pt hallucinating and confusion
+
+",,
+8794,11922,,,3402-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3402-4-26**] 10:37 AM
+     CHEST (LAT DECUB ONLY)                                          Clip # [**Clip Number (Radiology) 10635**]
+     Reason: r/o layering effusion                                       
+     Admitting Diagnosis: HYPONATREMIA;STATUS POST SEIZURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with left denisity on prior xr- please eval for layering 
+      effusion
+     REASON FOR THIS EXAMINATION:
+      r/o layering effusion                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left density on prior chest x-ray.  Evaluate for layering
+     effusion.
+     
+     TECHNIQUE:  Single left lateral decubitus view of the chest was obtained,
+     correlated with the examination performed yesterday.
+     
+     FINDINGS:  On decubitus view, there is no evidence of layering effusion. 
+     Cardiac and mediastinal silhouettes remain stable.  The retrocardiac opacity
+     probably relates to the known hiatal hernia.
+                                                                           
+
+",,
+8794,11922,,,3402-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3402-4-26**] 5:05 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 10636**]
+     Reason: please eval for stroke                                      
+     Admitting Diagnosis: HYPONATREMIA;STATUS POST SEIZURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with new right sided weakness and hyper-reflexia                
+     REASON FOR THIS EXAMINATION:
+      please eval for stroke                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  New right-sided weakness and hyperreflexia.
+     
+     MRI OF THE BRAIN.
+     
+     Exam compared to patient's CT scan of [**3402-4-23**].
+     
+     FINDINGS:  There is no mass effect or hemorrhage.  There is no displacement of
+     normally midline structures.  There is no evidence of a focal extra-axial
+     lesion or fluid collection.  Ventricles and sulci are mildly dilated
+     consistent with mild brain atrophy.  There is a remote stroke in the right
+     parietotemporal region.  There are multiple T2 high signal intensity foci in
+     the periventricular white matter and centrum semiovale.  These are nonspecific
+     but consistent with microvascular angiopathy.  Some could reflect remote white
+     matter infarcts.  The paranasal sinuses are diffusely abnormal with increased
+     signal consistent with sinus disease.  There is also increased signal in the
+     right mastoid sinus unchanged from the prior study of 5/13.  There is no
+     evidence of abnormal diffusion to suggest the presence of acute infarction.
+     
+     IMPRESSION:  Atrophy and chronic infarcts as described.  Sinus disease
+     including the mastoid sinus.  No evidence of acute infarct, mass effect, or
+     hemorrhage.
+     
+     MRA OF THE CIRCLE OF [**Location (un) **] AND ITS MAJOR TRIBUTARIES.
+     
+     FINDINGS:  There is no evidence of aneurysm or flow abnormality.
+     
+     IMPRESSION:  Negative MRA of the circle of [**Location (un) 220**].  A reading was called on
+     this report to Dr. [**Last Name (STitle) 10637**].  A preliminary report to this effect was provided by
+     Dr. [**Last Name (STitle) **] and [**Doctor Last Name **].
+
+",,
+8794,11922,,,3402-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3402-4-26**] 5:05 PM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 10636**]
+     Reason: please eval for stroke                                      
+     Admitting Diagnosis: HYPONATREMIA;STATUS POST SEIZURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with new right sided weakness and hyper-reflexia                
+     REASON FOR THIS EXAMINATION:
+      please eval for stroke                                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  New right-sided weakness and hyperreflexia.
+     
+     MRI OF THE BRAIN.
+     
+     Exam compared to patient's CT scan of [**3402-4-23**].
+     
+     FINDINGS:  There is no mass effect or hemorrhage.  There is no displacement of
+     normally midline structures.  There is no evidence of a focal extra-axial
+     lesion or fluid collection.  Ventricles and sulci are mildly dilated
+     consistent with mild brain atrophy.  There is a remote stroke in the right
+     parietotemporal region.  There are multiple T2 high signal intensity foci in
+     the periventricular white matter and centrum semiovale.  These are nonspecific
+     but consistent with microvascular angiopathy.  Some could reflect remote white
+     matter infarcts.  The paranasal sinuses are diffusely abnormal with increased
+     signal consistent with sinus disease.  There is also increased signal in the
+     right mastoid sinus unchanged from the prior study of 5/13.  There is no
+     evidence of abnormal diffusion to suggest the presence of acute infarction.
+     
+     IMPRESSION:  Atrophy and chronic infarcts as described.  Sinus disease
+     including the mastoid sinus.  No evidence of acute infarct, mass effect, or
+     hemorrhage.
+     
+     MRA OF THE CIRCLE OF [**Location (un) **] AND ITS MAJOR TRIBUTARIES.
+     
+     FINDINGS:  There is no evidence of aneurysm or flow abnormality.
+     
+     IMPRESSION:  Negative MRA of the circle of [**Location (un) 220**].  A reading was called on
+     this report to Dr. [**Last Name (STitle) 10637**].  A preliminary report to this effect was provided by
+     Dr. [**Last Name (STitle) **] and [**Doctor Last Name **].
+
+",,
+8794,11922,,,3402-04-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3402-4-27**] 10:07 AM
+     VIDEO OROPHARYNGEAL SWALLOW                                     Clip # [**Clip Number (Radiology) 10638**]
+     Reason: eval for aspiration                                         
+     Admitting Diagnosis: HYPONATREMIA;STATUS POST SEIZURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      78 year old man with inconsistent aspiration                                    
+     REASON FOR THIS EXAMINATION:
+      eval for aspiration                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Aspiration.
+     
+     TECHNIQUE:  The exam was conducted in conjunction with the speech pathologist.
+     Multiple consistencies of barium were administered.
+     
+     ORAL PHASE:  There is normal chewing and bolus formation.  There is mild
+     swallowing delay.  PHARYNGEAL PHASE:  There is decreased hyolaryngeal
+     elevation.  The epiglottis deflects normally.  There is mild residue in the
+     vallecula and piriform sinuses.  Laryngeal penetration is noted with nectar
+     consistency with no aspiration.  There were 2 documented episodes of
+     aspiration with thin consistency, the first elicited a spontaneous cough with
+     subsequent clearance, the second did not elicit a spontaneous cough, but was
+     cleared with cued cough.  ESOPHAGEAL PHASE:  No Zenker's diverticulum or web
+     is seen.  C-SPINE:  There are several anterior osteophytes most pronounced at
+     the C4 and C5 levels.  AP views were not performed.
+     
+     IMPRESSION:  Penetration, but no aspiration with nectar consistency.
+     Aspiration demonstrated with thin liquids with clearance after spontaneous or
+     cued cough.
+
+",,

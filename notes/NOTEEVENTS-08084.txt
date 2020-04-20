@@ -1,0 +1,1453 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8084,17224,,,2977-10-06 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2977-10-6**]       Discharge Date:  [**2977-10-19**]
+
+Date of Birth:   [**2902-3-19**]       Sex:  M
+
+Service:  CCU
+
+ADDENDUM:  The current summary will cover hospital stay from
+[**2977-10-10**] through [**2977-10-19**].
+
+1.  GASTROINTESTINAL BLEED:  The patient developed
+progressive throat and esophageal pain and had an episode of
+hematemesis in which he vomited approximately 500 cc of
+blood.  GI was consulted.  The patient had an EGD which
+showed esophagitis consistent with likely ischemic changes.
+The patient was intubated for the EGD and transferred to the
+ICU for closer monitoring.  He was started on a Pantoprazole
+drip.  Following several days of the drip, he was transferred
+over to p.o. Pantoprazole and his diet was slowly advanced.
+He did not have any further episodes of hematemesis and his
+throat discomfort resolved.
+
+2.  RENAL FAILURE:  The patient was admitted with baseline
+chronic renal insufficiency and symptoms of uremia over the
+previous three months.  During the hospitalization, he had an
+acute bump in his creatinine thought to be ATN from
+catheterization dye load.  Renal consulted and the patient
+was started on dialysis on [**2977-10-14**].  He underwent
+several hemodialysis sessions to remove excess fluid and then
+was started on a regimen of hemodialysis three times each
+week.  The patient tolerated dialysis well.
+
+3.  ACUTE CORONARY SYNDROME:  The patient had a non-ST
+elevation MI on [**2977-10-11**].  Given his acute GI
+bleed, he was not a candidate for anticoagulation and instead
+was managed medically.  He was established on a regimen of
+Carvedilol, Captopril, hydralazine, and Isordil and was also
+started on aspirin.  The plan is to start the patient on
+Plavix when he is further out from his GI bleed.  His cardiac
+medications were titrated up as tolerated throughout his
+hospitalization.
+
+4.  INFECTIOUS DISEASE:  The patient was treated for C.
+difficile colitis with a ten day regimen of Flagyl.  He also
+developed an Enterococcus UTI and was successfully treated
+with Levaquin.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS: The patient was discharged to
+rehabilitation.
+
+DISCHARGE DIAGNOSIS:
+1.  Non-ST elevation myocardial infarction.
+2.  Cardiac catheterization.
+3.  Chronic renal insufficiency with acute renal failure
+requiring hemodialysis.
+4.  Clostridium difficile colitis.
+5.  Urinary tract infection.
+6.  ischemic esophagitis.
+
+DISCHARGE MEDICATIONS:
+1.  Docusate 100 mg b.i.d.
+2.  Fluoxetine 20 mg q.d.
+3.  Hydroxyzine 25 mg b.i.d.
+4.  Simvastatin 20 mg q.d.
+5.  Isosorbide dinitrate 20 mg t.i.d.
+6.  Aspirin 81 mg q.d.
+7.  Viscous lidocaine 2% 20 ml t.i.d. p.r.n.
+8.  Pantoprazole 40 mg p.o. q. 12 hours.
+9.  Calcium acetate 1,334 mg p.o. t.i.d. with meals.
+10. Carvedilol 50 mg p.o. b.i.d.
+11. Sliding scale insulin.
+12. Lisinopril 20 mg p.o. q.d.
+13. Metoclopramide 5 mg IV q. eight hours p.r.n.
+14. Metronidazole 500 mg t.i.d. times one week.
+
+FOLLOW-UP PLANS:  The patient is to follow-up with primary
+care doctor in one week.  Follow-up with GI in two weeks for
+repeat EGD.
+
+
+
+
+                            [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number 1867**]
+
+Dictated By:[**Last Name (NamePattern1) 408**]
+MEDQUIST36
+
+D:  [**2977-10-19**]  01:48
+T:  [**2977-10-19**]  14:20
+JOB#:  [**Job Number 11143**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: MON [**2977-10-20**] 4:18 PM
+(End of Report)
+
+
+",,
+8084,17224,,,2977-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-6**] 6:48 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4684**]
+     Reason: NG tube placement                                           
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man s/p cath, intubated, now with NG tube                          
+                        
+     REASON FOR THIS EXAMINATION:
+      NG tube placement                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  AP portable chest.
+     
+     INDICATION:  75 year old male status post cath, intubated, now with NG tube.
+     Evaluate NG tube placement.
+     
+     Comparison is made to the prior examination of same day at 15:57 hours.
+     
+     FINDINGS:  Patient is status post median sternotomy and CABG.  An ET tube is
+     in stable position.  A newly inserted NG tube is seen coiled within the fundus
+     of the stomach, but the distal end is heading caudad.  Cardiomediastinal
+     borders are unchanged.  There is bibasilar atelectasis as before.  No
+     pneumothorax.  No pleural effusions.
+     
+     IMPRESSION:  NG tube coiled within fundus of the stomach, but with tip heading
+     caudad (exits the field of view).  Stable bibasilar atelectasis.
+
+",,
+8084,17224,,,2977-10-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-6**] 4:05 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4683**]
+     Reason: r/o infiltrate/effusion, eval ett placement                 
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man s/p cath, intubated                                             
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate/effusion, eval ett placement                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:
+     
+     No previous films for comparison.  ET tube is 4 cm above carina.  Status
+     post CABG.  There is cardiomegaly but no definite CHF/pulmonary edema.  There
+     is atelectasis in the right mid zone and left lower zone.  No pneumothorax.
+     
+     IMPRESSION:  Bilateral atelectases.  Cardiomegaly.  No definite CHF.  Status
+     post CABG.
+
+",,
+8084,17224,10061,0,2977-10-06 16:53:00 EST,2977-10-06 17:12:00 EST,40,"N",1,"Nursing/Other","CCU NSG ADMIT NOTE","
+CCU NSG ADMIT NOTE
+Pt arrived to CCU ~ 1330 from cath lab.
+
+cv: hr 45-60 sr no vea, bp 107-170/35-57. A/V sheaths and swan in r groin. Arterial sheath removed at 1500 w/o difficulty. area d/i, no ecchymoses or hematoma. all distal pulses dopplerable. Natrecor infusing at 1 mcg/kg/min, ntg at .37 mcg/kg/min,  and ivf ns at 100cc/hr for 1000cc. ck pnd.
+resp: intubated, vent settings AC 700/16/50% 5 peep, no a line at this time. sats 100%, sx for lg amts thick white secretions from ett, bloody oral secretions, ? tongue biten. lung sounds coarse.
+gi: abd soft distended, no stool + bs. 
+gu: received 80 mg lasix in cath lab-> 1 liter response, additional 40 mg lasix given at 1700. Currently -820. CRI unknown baseline cr. cr today 5.
+id: afebrile, wbc 15.8
+neuro: in cath lab received total 11 mg versed, 425 mcg Fentany. Started on propofol gtt at 20 mcg/kg w/ good effect.
+skin: intact, but lg area on left lower shin area red, inflamed. 3+ pedal edema.
+social: unknown. Son left cell #, but did not visit.
+",,
+8084,17224,10061,,2977-10-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-7**] 9:13 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4685**]
+     Reason: eval for infiltrate/effusion                                
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man s/p cath, intubated.                                            
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate/effusion                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Intubation. 
+     
+     PORTABLE AP CHEST: Comparison is made to previous films from one day earlier.
+     
+     An endotracheal tube remains in place with a relatively proximal position,
+     terminating 7-1/2 cm above the carina.  Nasogastric tube courses below the
+     diaphragm. Cardiac and mediastinal contours are stable. There is vascular
+     engorgement and perihilar haziness present.  Note is also made of minor
+     atelectatic changes in both lower lobes and a small right pleural effusion.
+     
+     IMPRESSION:   Proximal location of endotracheal tube. Findings communicated
+     with clinical service caring for the patient.
+     
+     Mild CHF and small right pleural effusions.
+
+",,
+8084,17224,10061,0,2977-10-07 03:05:00 EST,2977-10-07 03:09:00 EST,638,"N",1,"Nursing/Other",,"
+
+Respiratory Care:
+
+Patient intubated on mechanical support and sedated with propofol.  Current vent settings Vt 700, A/c 14, Fio2 40%, and Peep 5. Metabolic acidosis improving. A/c rate weaned to 14. Fio2 weaned to 40%. Adequate Abg.  Bs clear bilaterally. Sx'd for sm amounts of thick white sputum. RSBI not done this am. No spont effort. Plan: Continue with mechanical support and wean A/c rate as metabolic acidosis improves. 
+",,
+8084,17224,10061,0,2977-10-07 05:00:00 EST,2977-10-07 05:05:00 EST,313,"N",1,"Nursing/Other","ccu nsg progress note.","
+ccu nsg progress note.
+o:neuro=sedated w propofol gtt-30mcg w effect. arouses to stim-does not follow commands.
+  pulm=intubated & vented-present settings 700x14 40% +5 w gd abg/sat. breath sounds=course. sx-thick white/tan sections.
+  cv=hemody stable. nyg gtt dced @ 0500. tolerating all cardiac meds.
+  gi=npo. ogt to sx-bilious w blood-due to sl nasal bleed.
+  renal=excellent uo. >1l neg. natrecor gtt dced.
+  id=afebrile.
+  labs=am sent.
+
+a:excellent diuresis.
+
+p:dc sedation & wean vent w goal extubation. contin present management. support as indicated.
+",,
+8084,17224,10061,0,2977-10-07 13:25:00 EST,2977-10-07 13:37:00 EST,1158,"N",1,"Nursing/Other",,"
+
+D: Please see [**Name6 (MD) 54**] data, MD notes/orders. Neuro: Pt is A&O, able to converse and follow commands appropriately. PERRL, equal strength in all extremities. CV: SR on monitor, SBP 160-125. PA pressures 60's/20's. Pulm: Extubated at 1400, no stridor noted, 02 sats 99%, respitory effort unlabored. GU: UO35-80cc/hr, lasix 20mg IVP x2 per med sheet. Some sediment noted in tubing, pt with hx CRI. GI: Abd obese, bs+, small formed BM this morning. Skin: Intact, pedal pulses + by doppler x4. [**2-17**]+ pedal edema noted. Areas of errythema on front of lower legs circled, and unchanged. Comfort: Pt denies CP/SOB or other distress, voices thinking he ""was not going to make it"" prior to calling EMS and that he hadn't thought he would have time to ""say goodbye"" to family and friends. P: Continue full support, monitor for CP/SOB, EKG changes, or decline in pulmonary status. Note response to lasix, attempt to keep 1L neg/24hr. Provide reassurance, +reinforcement, include pt in plan of care. Follow CPK's/Hct's as ordered, Transfuse as ordered for Hct<28. R: As above, pt. recieved 1U PRBC with hct due at 1600, + aspects of care reviewed/validated. No significant pick up in UO noted. All else as above. 
+",,
+8084,17224,10061,,2977-10-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-8**] 9:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4686**]
+     Reason: eval chf/pleural effusion                                   
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man s/p cath, with class 4 chf                                     
+            
+     REASON FOR THIS EXAMINATION:
+      eval chf/pleural effusion                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post catheterization with CHF.
+     
+     VIEWS:  Supine AP view compared with semi-erect AP view from [**2977-10-7**].
+     
+     FINDINGS:  Again seen are median sternotomy wires and CABG clips.  The cardiac
+     enlargement is stable, and there is persistent slight upper zone
+     redistribution and perihilar haziness, consistent with mild pulmonary edema.
+     There is bibasilar discoid atelectasis, left greater than right.  A small left
+     pleural effusion is present. The right CP angle is excluded from the film.
+     
+     IMPRESSION:
+     
+     1. Bibasilar discoid atelectasis, left greater than right, with small left
+     pleural effusion.
+     
+     2. Unchanged appearance of mild CHF.
+
+",,
+8084,17224,10061,0,2977-10-08 04:13:00 EST,2977-10-08 04:33:00 EST,330,"N",1,"Nursing/Other","CCU NPN 2300-0700","
+CCU NPN 2300-0700
+S/O:  afeb.  HR 60's-70's SR.  BP 115-134/40.  MAP 58-67.  tolerating hydralazine and lopressor po.  u/o 50cc/hr.  neg. 2L LOS.
+PAP 60-70/19-23.  
+LS crackles left base to diminished at bases.  RR up to 30's with exertion.  baseline 20's.  no CP.  
+
+pulses right 1+/1+, left doppler.  feet warm, 3+ edema.
+right groin swan site D/I.  
+
+small soft stool guiac neg.  AM HCT, labs pnd at 0530.  
+
+A: stable night, no CP.  
+P: anticipate d/c right groin sheath today.  monitor HCT, lytes, u/o.  
+",,
+8084,17224,,,2977-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-11**] 6:37 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4687**]
+     Reason: MULTIPLE SUBCLAVIAN STICKS, ? PTX
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        75 year old man s/p cath, with class 4 chf multiple subclavian sticks         
+                                      
+     REASON FOR THIS EXAMINATION:
+      ?PTX                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest of [**2977-10-11**] compared to previous study of three days earlier.
+     
+     CLINICAL INDICATION: Multiple subclavian line attempts.
+     
+     Comparison is made to previous study of three days earlier.
+     
+     An endotracheal tube is present with the tip terminating above the thoracic
+     inlet level. No central venous catheter is identified, and no pneumothorax is
+     evident on this supine study.
+     
+     The heart is enlarged but stable in size. There has been interval development
+     of increased opacity in the left retrocardiac region obscuring the left
+     hemidiaphragm. There is also a small left pleural effusion. The right lung
+     demonstrates minor atelectatic changes at the base but this is otherwise
+     clear.
+     
+     IMPRESSION: 1. Endotracheal tube terminates above the thoracic inlet level.
+     
+     2. No evidence of pneumothorax.
+     
+     3. Increased left retrocardiac opacity likely due to a combination of
+     atelectasis and pleural effusion.
+     
+
+",,
+8084,17224,,,2977-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-11**] 11:36 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4688**]
+     Reason: eval R IJ placement, r/o PTX                                
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         75 year old man s/p R IJ placement.                                          
+     REASON FOR THIS EXAMINATION:
+      eval R IJ placement, r/o PTX                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Line placement
+     
+     CHEST, PORTABLE: A right internal jugular vascular catheter has been placed,
+     terminating within the superior vena cava.  No pneumothorax is evident on this
+     supine study.  There has been slight improved aeration in the left
+     retrocardiac region.  There is otherwise no significant interval change since
+     the previous study of the same date.  Note is again made of endotracheal tube
+     terminating above the thoracic inlet level.
+     
+     IMPRESSION:
+     
+     1) Intravneous catheter is satisfactory position with no pneumothorax.
+     2) Endotracheal tube terminates above the thoracic inlet level.
+
+",,
+8084,17224,10062,0,2977-10-11 04:08:00 EST,2977-10-11 04:19:00 EST,105,"N",1,"Nursing/Other",,"
+
+CCU
+NURSING ADMIT NOTE 
+[**1-21**]
+THIS IS A 75 YR OLD MALE  WHO WAS RE-ADM FROM THE FLR WITH AN ACTIVE UPPER GI BLD..WITH  FAILED NG LAVAGE ..HEMODYN STABLE 
+PMHX 
+CAD
+DIABETES 
+CRI ( 2.3 )
+S/P 3V CABG IN 81'
+S/P 4 V CABG IN 92'
+CLASS 4 CHF 
+PVD
+
+WAS ADM TO OSH WITH CP/SOB ..NEW LBBB ..STARTED ON INTEGRELIN..TX'D TO [**Hospital1 22**]---> BECAME ACUTELY SOB PRIOR TO CATH WAS EMERGENTLY INTUBATED ..CATH SHOWED STUMP OCCL OF THE SVG->OM AND 100% OF THE NATIVE LCX ..FAILED PTCA OF OM1 ..PTCA OF NATIVE LCX 
+
+WAS EXTUBATED ON [**10-7**]..CALLED OUT TO THE FLR ON [**10-8**]..BEGAN COFFEE GRN HEMATEMESIS WHICH TURNED INTO BRB ..4 PT HCT DROP..HEMODYN STABLE ..
+WAS ELECTIVELY INTUBATED PRIOR  TO EGD  WHICH SHOWED ..DISTAL [**1-17**] OF ESOPHAGUS  NECROTIC AND FRIABLE ...
+CENTRAL ACCESS TO BE OBTAINED 
+CV HEMODYN STABLE 
+RESP ON SIMV AND PS OF 5 ..PEEP OF 5 ..TV OF 700..50%..UNABLE TO OBTAIN  RADIAL ALINE 
+GI ON PPI..NGT INSERTION DEFERED ...NO STOOL
+GU COUDE CATHETER INSERTED ..URINE BRN/DK HEMATURIC ..WITHOUT CLOTS ..CREAT 6..
+HEME  HCT 30 ..TYPE AND CROSSED FOR 2 UNITS PRBCS ..COAGS NL 
+COMFORT ON PROPOFOL AT 40 MCGS/KG ...
+3+ EDEMA  TO ARMS/LEGS 
+A HEMODYN STABLE 
+P PLAN ..CL ACCESS...EXTUBATE IN AM ..KEEP NPO ..REPEAT EGD IN AM 
+
+
+",,
+8084,17224,10062,0,2977-10-11 15:52:00 EST,2977-10-11 16:22:00 EST,285,"N",1,"Nursing/Other","CCU NPN 7am - 7pm","
+CCU NPN 7am - 7pm
+S/O:  Pt. intubated and sedated for most of shift.
+CVS:  HR 58 - 65 SB/SR some ectopy noted in the early evening.  Magnesium and potassium are pending.  BP 120 - 160/30 - 40.  lopressor and hydralazine were changed to IV.  They have not been given due to low HR at noon.
+
+Resp.:  Pt. vent changed to CPAP this morning and was weaned down to 5 of PS and 5 of PEEP.  Pt. tolerated this well with o2 sats of 99% .  Will extubate tonight.  Lungs are clear with bibasilar crackles.  RR 16 - 20.  Breathing is not labored.
+
+G.I.: Pt. has not had any signs of UGI bleeding.  HCT is pending.  No stool this shift.  Protonix drip was started at 8mg/hr.
+
+G.U.:  creat. is 6.0.  U/O is 20 - 30 cc/hr.  Urine was initially brown with sludge and has cleared this afternoon and is yellow.
+
+Mental Status:  Pt. was initially on 40 mcg/kg/min of propofol and was well sedated.  It has been weaned to 10 mcg/kg/min in preparation for extubation and the pt. is alert and following commands.
+
+Heme:  Last HCT was 27.3.  Pt. has received 1 UPRBC's and is presently receiving a second.
+
+I.D.:  Pt. has remained afebrile.  Levoflox was started and pt. continues on flagyl for c-diff.  WBC - 15.
+
+access:  triple lumen was placed this morning without difficulty and CXR was checked showing good placement.
+
+A: necrotic esophagus/ bleeding and hemodynamics are stable
+
+P:  monitor for further bleeding and follow HCT, check labs pending, complete second unit of PRC's, extubate this evening, continue protonix drip.  
+",,
+8084,17224,10062,0,2977-10-11 16:31:00 EST,2977-10-11 17:25:00 EST,1312,"N",1,"Nursing/Other",,"
+
+resp care:pt extubated per oreder w/o incident and placed on 4l/nc.sats being maintained at 97-100% with no resp distress noted at this time.will cont to monitor and tx as per order.
+",,
+8084,17224,10062,0,2977-10-11 18:14:00 EST,2977-10-11 18:16:00 EST,285,"N",1,"Nursing/Other","Addendum to NPN","
+Addendum to NPN
+Pt. was extubated without problems and is presently on 4 lnp with an O2sat of 99%.
+
+Given 10 mg of IV hydralazine for BP of 180/44.  Responded well and BP is now 155/40.
+",,
+8084,17224,10062,,2977-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-12**] 1:22 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4689**]
+     Reason: acute chest/back pain                                       
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with CAD/CABG s/p cath, mediatinitis/esophageal ischemia        
+     REASON FOR THIS EXAMINATION:
+      acute chest/back pain                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     CLINICAL INDICATION:  Acute chest and back pain.
+     
+     Comparison is made to previous study of one day earlier.
+     
+     There has been interval extubation.  A right internal jugular vascular
+     catheter remains in satisfactory position.  The heart is enlarged but stable.
+     Slight widening of the mediastinum is also stable.  There is a persistent mild
+     congestive heart failure pattern.  There is improving aeration in the left
+     retrocardiac region.  Minor atelectatic changes are noted at both bases.  A
+     left pleural effusion appears improved.
+     
+     IMPRESSION:
+     1)  Improving left lower lobe atelectasis and apparent resolution of small
+     left pleural effusion.
+     
+     2)  Persistent mild congestive heart failure.
+
+",,
+8084,17224,10062,,2977-10-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-12**] 3:46 PM
+     CT CHEST W/O CONTRAST                                           Clip # [**Clip Number (Radiology) 4690**]
+     Reason: SEVERE EROSIVE ESOPHOGITIS,EVAL FOR MEDIASTINITIS,PERF
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with acute onset of refractory chest/back pain, w/ severe 
+      erosive esophagitis, cad/cabg, cri
+     REASON FOR THIS EXAMINATION:
+      eval for mediastinitis, esophageal perforation, or other acute pathology        
+     CONTRAINDICATIONS for IV CONTRAST:
+      CRI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Severe erosive esophagitis with onset of refractory chest and
+     back pain.
+     
+     TECHNIQUE:  Helically-acquired contiguous axial images were obtained from the
+     thoracic inlet through the lung bases, without intravenous contrast.
+     Intravenous contrast was not administration given the patient's elevated
+     creatinine.
+     
+     CT OF THE CHEST WITHOUT INTRAVENOUS CONTRAST:  The lung windows demonstrate no
+     focal nodules.  This study is limited by patient respiratory motion artifact.
+     There are small bilateral pleural effusions and bibasilar atelectasis.  These
+     soft-tissue windows demonstrate probable thyroid nodule, one of which appears
+     calcified.  The heart is moderately enlarged and the patient is status post
+     CABG.  There is a moderate degree of lymphadenopathy within the prevascular
+     and paratracheal regions.  The largest lymph node measures up to 1.6 cm in
+     short axis.  No free air is noted within the mediastinum.  No fluid
+     collections adjacent to the esophagus.  Limited images through the upper
+     abdomen demonstrate no evidence of free air. Limited images through the upper
+     abdomen are otherwise unremarkable. There is relatively symmetric
+     gynecomastia.
+     
+     The osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1) No evidence of free air within the mediastinum, to suggest perforation.  As
+     the patient could not tolerate oral contrast, fluid leak could not be
+     determined.
+     2) Small bilateral pleural effusions and bibasilar atelectasis.
+     3) Cardiomegaly, status post CABG.
+     4) Probable thyroid nodules, one of which appears calcified.
+     5) Gynecomastia.
+     6) Mediastinal lymphadenopathy, as described above.
+
+",,
+8084,17224,10062,0,2977-10-12 02:29:00 EST,2977-10-12 02:41:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" I'm so uncomfortable, can't I have something to drink? ""
+O:  afeb. 
+HR 60's SR.  no VEA.  BP 137-153/30-50.  hydralazine increased to 30mg IV q6hr, lopressor remains at 5mg q6hr although pt. given additional 5mg dose at 0200 without change in BP.  
+
+pt. denies CP/SOB.  
+LS crackles bases.  O2 weaned to 2lnc.  sats. 96-98%.  RR 17-24.
+
+u/o 30-40cc/hr.  (-) 1.4L LOS.  currently even.  
+
+completed #2UPRBC at 2200.  AM labs sent at 0300.  no stool but passing flatus. protonix gtt at 8mg/hr.  pt. asking for drink and food.  strict NPO maintained.  freq. mouth rinse.
+
+pt. c/o feeling uncomfortable in bed, unable to [**Doctor Last Name 5**], needy, anxious.   Ox2, needing reminders of time d/t intubation period and losing a day.  
+given 1mg ativan at 0300 with good effect.  sleeping but also wakes to voice.
+
+A:  tol. blood products
+    no sign of GIB
+    general discomfort, anxiety rel. with ativan
+P:  AM labs pnd.  follow plan with GI for diet advancement.  increase activity today as tolerated.  
+",,
+8084,17224,10062,0,2977-10-12 18:18:00 EST,2977-10-12 18:47:00 EST,285,"N",1,"Nursing/Other","CCU NPN 7am - 7pm","
+CCU NPN 7am - 7pm
+S:  "" The pain is so horrible. I can't stand it.""
+O:  CVS:  Pt. had an episode of back pain at the level of the scapula, SSCP radiating to the left arm at 12 pm.  HR was 120 ST, BP 180/60's.  Pt. was given a total of 15 mg of lopressor, 30 mg of hydralazine, IV NTG titrated up to 1.67mcgs/kg/min. and 14 mg of Morphine IV.  Fellow called.  No cath at this time.  Pt. taken for CT of esophagus - no dissection noted.  After approx. 2 1/2 hours the episode was completely resolved and the pt. was sleeping comfortably.  NTG remains at 1.67 mcgs/kg/min.  Attempted to give p.o. ASA, but pt. coughed up mucous and blood with sips of water.  G.I. was consulted and felt that the pt. should not receive anything p.o. at this time.  They also decided against PR ASA.  metoprolol IV continues.  The 2 pm dose was held because the pt. receive 15mg IV lopressor with the above episode. Continues on hydralazine 30 mg IV Q6.
+
+Resp.:  RR 18 - 20.  non - labored.  Lungs are clear and diminished at the bases.  O2 sats are 97 - 98%.  O2 was increased to 4lnp.
+
+G.U.:  creat. 6.5.  u/o 20 - 30cc/hr.
+
+G.I.:  Continues on protonix drip at 8mg /hr.
+
+Mental Status:  Pt. A&O x3.  Pt.'s family in to visit tonight.  Verbalizing many issues, such as their inability to take care of their father.  "" He's too sick, We're not used to this.""  Stating that he does not do anything for himself, does not eat, poor hygeine.  The pt. also verbalizes some frustration with his children.  ie.  ""one sleeps all day.  Where else could they live for free.""  Social service consult submitted for mediation and advice for this family.
+
+Heme:  HCT stable at 31.
+
+A:  Chest, back and arm pain today.  Angina vs. esophagoel origin
+
+P:  monitor for further chest pressure, tachycardia or hypertension, social service tomorrow, continue protonix, antbiotics, metoprolol, hydralazine, follow HCT.
+",,
+8084,17224,10062,0,2977-10-13 03:43:00 EST,2977-10-13 04:19:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+"" I feel better with my family around me ""
+O:  pt.'s 2 daughters visiting in eve and lifting pt. spirits.  
+denies further CP/back pain/arm pain when asked.  
+CK following CP episode up to 277/47MB.  troponin up to .91 from .47.  
+
+HR 63-74SR.  no VEA.  BP 93-117/30's.  tng gtt weaned to .37mcq/k/min.  
+hydralazine and lopressor doses held x1 for low SBP but then able to give in AM.  
+hydralazine dose increased to 40mg q6hr.  lopressor remains at 5mg q6hr.  
+
+resp:  LS crackles right base to diminished.  no SOB.  sat 96-98% on 2lnc.  
+
+GU:  foley draining clear to amber urine decreasing 10cc to 5cc/hr.  (-) 100cc at 12am.  (-) 900 LOS and currnently (+) 700 at 0500.  
+Cr up to 6.8 (6.5) in eve.  
+
+GI:  remains NPO with freq. mouth care. pt. c/o thirst.  no stool.  diminished BS.  contin. on protonix IV gtt 8mg/hr.  TPN started at 42cc/hr (quick mix- formal order to start [**10-13**].
+
+lytes:  NA+ up to 151- started on D5W at 100cc/hr.  K+ 4.5, Mg 2.1
+endo:  FS 108 prior to TPN AM pnd
+
+neuro:  pt. anxious after family leaving,  .5 ativan IV x1 with very good effect.  pt. able to [**Doctor Last Name 5**] through night, waking easily by voice.  A/Ox3.  
+skin:  bilat LE edema, erythema areas.  no open areas.  outlined, no extension.  
+lines:  right IJ TLC, site clean.  left PIV, site clean. 
+
+A:  new bump in CK following extended angina episode [**10-12**] eve
+    creatinine on rise with low u/o, electrolye abnorm.  ? dialysis
+    TPN for prolonged NPO status
+P:  titrate TNG for CP.  contin. hydral./lopressr IV.  cycle ck's.  
+maintain NPO.  ? repeat EGD today.  
+no heparin/asa/plavix per GI.  pneumoboots.  
+close monitor FS on TPN.  follow HCT, lytes.  
+social service consult pnd for family issues surrounding home care for pt.     
+",,
+8084,17224,10062,0,2977-10-13 17:12:00 EST,2977-10-13 17:23:00 EST,40,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: ""I feel so much better today""
+O: see carevue for all objective data
+cv: HR 99-105 st this am, pt received total 15mg iv lopressor, at 1100 dropped to 60-65 where it has remained. bp 98-130/50-70. remains on ntg at .93 mcg/kg.ck trending down, 185/39 at 1400.
+resp: sats 96-98% on 2lnp, lungs cta
+gi: taking fluids and able to swallow w/o difficulty or pain. remains on protonix continuous infusion at 8mg/hr. no stool. TPN d/c d/t ^ phos level
+gu: poor u/o, no urine since 1600. + 2200 since mn. Seen by renal team. receiving d5w at 50cc/hr.
+id: afebrile, remains on levoquin and flagyl
+end: bs 147-168, covered per riss.
+skin: intact, erythemous area on shin area l worse than r. seen by HO
+social: son and daughter called for updates, no visitors.
+A: worsening renal failure, improving ability to swallow, hemodynamically stable, no gib.
+
+",,
+8084,17224,10062,,2977-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-14**] 3:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4694**]
+     Reason: new infiltrate                                              
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with CAD/CABG s/p cath, mediatinitis/esophageal ischemia, with 
+      acidosis        
+     REASON FOR THIS EXAMINATION:
+      new infiltrate                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Mediastinitis. Evaluate new infiltrate.
+     
+     The patient is status post median sternotomy and coronary bypass surgery. The
+     heart is enlarged, and there is a congestive heart failure pattern with
+     associated perihilar edema. Additionally there is a small left pleural
+     effusion and left basilar atelectasis.
+     
+     As compared to the recent study, the congestive heart failure and left lower
+     lobe atelectasis have both worsened in the interval.
+     
+     IMPRESSION: Worsening congestive heart failure and left lower lobe
+     atelectasis.
+
+",,
+8084,17224,10062,,2977-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-14**] 3:08 PM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 4693**]
+     Reason: 75 year old man with renal failure, please place right inter
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ********************************* CPT Codes ********************************
+     * 36533 IMPLANT VENOUS ACCESS [**State/Zipcode 510**] UD GUID FOR NEEDLE PLACMENT   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with renal failure, please place right internal jugular 
+      tunneled catheter for dialysis (long-term)
+     REASON FOR THIS EXAMINATION:
+      75 year old man with renal failure, please place right internal jugular 
+      tunneled catheter for dialysis (long-term
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Renal failure requiring dialysis access.
+     
+     PROCEDURE:  Written informed consent was obtained from the patient.  Drs.
+     [**Last Name (STitle) 649**] and [**Name5 (PTitle) 513**] performed the procedure, with Dr. [**Last Name (STitle) 513**],
+     attending physician, [**Name10 (NameIs) 7**] and supervising the entire procedure.
+     
+     The patient presented with an indwelling right internal jugular triple-lumen,
+     and at the request of the ordering team this was left in place.  The left neck
+     was subsequently prepped and draped in the usual sterile fashion.   Ultrasound
+     was used to localize the left internal jugular vein which was patent and
+     compressible. This was accessed with a micro-puncture needle, and a wire was
+     passed into the superior vena cava under fluoroscopic guidance. The micro-
+     puncture catheter was advanced over the wire, and the wire was exchanged for a
+     [**Doctor Last Name **] wire which was advanced into the inferior vena cava. The venous access
+     site was then dilated.
+     
+     Attention was then directed towards creating a tunnel for the dialysis
+     catheter within the left upper chest wall using blunt dissection.  Following
+     this, the 14.5-French 27 cm cuff-to-tip tunneled dialysis catheter was
+     advanced through the tunnel and into the left internal jugular access site.
+     The tip was advanced to the cavo-atrial junction under fluoroscopic guidance.
+     The catheter was sutured in place with 0-silk.  Final chest x-ray did not
+     demonstate pneumothorax.
+     
+     ANESTHESIA:  15 cc of 1% Lidocaine local anesthesia.
+     
+     COMPLICATIONS:  None apparent.
+     
+     IMPRESSION:  Successful placement of a 14.5-French 27 cm cuffed-tip tunneled
+     dialysis catheter through a left IJ approach.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2977-10-14**] 3:08 PM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 4693**]
+     Reason: 75 year old man with renal failure, please place right inter
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8084,17224,10062,,2977-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-14**] 3:08 PM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 4693**]
+     Reason: 75 year old man with renal failure, please place right inter
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ********************************* CPT Codes ********************************
+     * 36533 IMPLANT VENOUS ACCESS [**State/Zipcode 510**] UD GUID FOR NEEDLE PLACMENT   *
+     * C1894 INT.SHTH NOT/GUID,EP,NONLASER                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with renal failure, please place right internal jugular 
+      tunneled catheter for dialysis (long-term)
+     REASON FOR THIS EXAMINATION:
+      75 year old man with renal failure, please place right internal jugular 
+      tunneled catheter for dialysis (long-term
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Renal failure requiring dialysis access.
+     
+     PROCEDURE:  Written informed consent was obtained from the patient.  Drs.
+     [**Last Name (STitle) 649**] and [**Name5 (PTitle) 513**] performed the procedure, with Dr. [**Last Name (STitle) 513**],
+     attending physician, [**Name10 (NameIs) 7**] and supervising the entire procedure.
+     
+     The patient presented with an indwelling right internal jugular triple-lumen,
+     and at the request of the ordering team this was left in place.  The left neck
+     was subsequently prepped and draped in the usual sterile fashion.   Ultrasound
+     was used to localize the left internal jugular vein which was patent and
+     compressible. This was accessed with a micro-puncture needle, and a wire was
+     passed into the superior vena cava under fluoroscopic guidance. The micro-
+     puncture catheter was advanced over the wire, and the wire was exchanged for a
+     [**Doctor Last Name **] wire which was advanced into the inferior vena cava. The venous access
+     site was then dilated.
+     
+     Attention was then directed towards creating a tunnel for the dialysis
+     catheter within the left upper chest wall using blunt dissection.  Following
+     this, the 14.5-French 27 cm cuff-to-tip tunneled dialysis catheter was
+     advanced through the tunnel and into the left internal jugular access site.
+     The tip was advanced to the cavo-atrial junction under fluoroscopic guidance.
+     The catheter was sutured in place with 0-silk.  Final chest x-ray did not
+     demonstate pneumothorax.
+     
+     ANESTHESIA:  15 cc of 1% Lidocaine local anesthesia.
+     
+     COMPLICATIONS:  None apparent.
+     
+     IMPRESSION:  Successful placement of a 14.5-French 27 cm cuffed-tip tunneled
+     dialysis catheter through a left IJ approach.
+     
+     
+                                                                 (Over)
+
+     DATE: [**2977-10-14**] 3:08 PM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 4693**]
+     Reason: 75 year old man with renal failure, please place right inter
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8084,17224,10062,,2977-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-14**] 1:27 PM
+     UNILAT UP EXT VEINS US                                          Clip # [**Clip Number (Radiology) 4692**]
+     Reason: INCREASED SWELLING LEFT ARM PLEASE ASSES FOR DVT
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with cad, s/p mi, acute on chronic RF, DM                       
+     REASON FOR THIS EXAMINATION:
+      rule out dvt - right hand with increased edema, erythema, tender                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: This is a 75-year-old male statust post myocardial infarction with
+     left-hand swelling, examinations requested to evaluate for deep venous
+     thrombosis.
+     
+     FINDNGS: The left jugular vein and subclavian vein are normal in flow. The
+     left axial vein, brachial, basilic and cephalic veins are normal in flow and
+     compressibility.
+     
+     IMPRESSION:
+     1. No evidence of deep venous thrombosis involving the left upper extremity.
+
+",,
+8084,17224,10062,,2977-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-14**] 1:27 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 4691**]
+     Reason: RENAL FAILURE ? OBSTRUCTION
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with CAD s/p MI who now has increasing Creatinine, low urine 
+      output.
+     REASON FOR THIS EXAMINATION:
+      ?obstruction, ?Renal Artery Stenosis                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: This is a 75-year-old male status post myocardial infarction with
+     increasing creatinine and decreasing urine output.
+     
+     Right kidney measures 9.9 cm in length without focal lesion or hydronephrosis.
+     The left kidney measures 10.4 cm in length and is free of focal lesion or
+     hydronephrosis. The cortex of both kidneys is mildly thinned. Extensive soft
+     tissue attenuation made examination of the kidneys difficult and the renal
+     arteries could not be interrogated. The urinary bladder was not distended and
+     poorly visualized.
+     
+     IMPRESSION:
+     1. No evidence of focal mass or hydronephrosis involving either kidney.
+
+",,
+8084,17224,10062,,2977-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-14**] 5:42 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4695**]
+     Reason: check line placement                                        
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with esrd, s/p dialysis line placement                          
+     REASON FOR THIS EXAMINATION:
+      check line placement                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Line placement.
+     
+     Comparison to study of earlier in the same day.
+     
+     FINDINGS: A dual lumen dialysis catheter placed by the left IJ is seen with
+     tip in the upper SVC. Ideally, the tip of the catheter would be within the
+     right atrium. A right sided central venous line is unchanged in position.
+     There is prominence of the pulmonary vasculature and several septal lines are
+     seen peripherally. There is persistent retrocardiac opacification, slightly
+     improved. There are no new focal areas of consolidation and there is no
+     pneumothorax.
+     
+     IMPRESSION: Placement of dual lumen left IJ dialysis catheter without
+     pneumothorax. The tip is at the junction of the brachiocephalic and SVC.
+     Continued CHF.  Continued left lower lobe atelectasis versus consolidation.
+     
+
+",,
+8084,17224,10062,0,2977-10-14 04:40:00 EST,2977-10-14 05:07:00 EST,1123,"N",1,"Nursing/Other","CCU NPN 7P-7A","
+CCU NPN 7P-7A
+Neuro: Alert and oriented x 3, MAE. C/O back pain, repositioned and given back rubs. Refusing pain meds. Given 1mg IV ativan for [**Doctor Last Name 5**] w/ good effect.
+
+CV: Tele SR 60s, no ectopy. IV lopressor d/c, to be changed to carvedilol 3.125mg this morning. Hydralazine changed to 25mg PO Q6hrs. Isordil 20mg tid restarted. BP 93-141/28-45. CVP 12-16. Palp distal pulses, bilateral groin sites stable. K 4.3.
+
+Pulm: LS CTA, sats 97% on 2L NC. Productive cough, bringing up white sputum, occasionally blood tinged. 
+
+GI/GU: +BS, abd soft, obese. Cont to tol liquids, taking tea and water. Beginning to take PO meds. Reports dry heaves earlier during the evening but has not had any further episodes. Protonix gtt @ 8mg/hr. Taking amphogel for elevated phos. Foley patent, draining amber/brown urine. Cont to be oliguric, total u/o for this shift 25cc. Foley flushed w/o difficulty. BUN/Creat 102/7.3. Na down to 137, D5W cont to infuse @ 50cc/hr x 1L.
+
+ID: Afebrile, cont on levo/flagyl. WBC 10.3. C-diff precautions.
+
+Endo: SSRI
+
+A/P: 75y.o. gentlemen s/p MI w/ unsuccessful intervention, hospital course c/b UGIB and necrotic esophagus. Tol POs, ADAT. ?repeat EGD. PT consult, OOB today. Renal u/s today, ?HD.
+",,
+8084,17224,10062,0,2977-10-14 17:40:00 EST,2977-10-14 17:53:00 EST,738,"N",1,"Nursing/Other",,"
+
+CCU NPN: please see flowsheet for objective data
+
+Cardiac: HR 64-70 NSR no VEA. BP 101-150/40-50 now all po meds,diff swallowing due to pain, missed hydralazine at 12
+
+Resp: lung sounds diminished to crackles at bases. good sats on 1-2l NP   ABG 81/39/7.19  on BIPAP briefly for ph then given 2 amps NAHCO3,repeat venous ph pending. does cough up thick tan secretions
+
+ID: afebrile. blood cultures via triple lumen and urine culture sent with met acidosis.levo d/ced and vanco x1 added. remains on flagyl q 12
+
+Neuro: found to be diff to arouse at 11:45,responded to sternal rub only. when awake confused only oriented to person. blood sugar 144 at that time,afebrile. with several sitcks to obtain ABG became more awake. ph at that time 7.19. as above BIPAP briefly,after that and bicarb back to baseline mental status. 
+
+Gu/Renal: uo remains only 3-5cc/hr  repeat BUN/Creat  104/7.8. dialysis cath placed in left IJ and to start dialysis tomorrow
+
+GI: as no port saved for TPN no TPN. very painful swallowing pills. can take clear liqs if tolerates
+
+Endocrine: required no insulin per SSC today
+
+Social: daughter called and updated on cond
+
+A/P: unexplained change in MS now improved
+     renal fx cont to deteriorate,dialysis tomorrow
+     cont with emotional support
+",,
+8084,17224,10062,0,2977-10-15 04:45:00 EST,2977-10-15 04:59:00 EST,1123,"N",1,"Nursing/Other","CCU NPN 7P-7A","
+CCU NPN 7P-7A
+Neuro: Alert and oriented x 3, MAE. Periodically moaning o/n but unable to clearly verbalize what was wrong. Given 0.5mg IV ativan for [**Doctor Last Name 5**] w/ some effect.
+
+CV: Tele SR 60s-70s, no ectopy. BP 117-160/33-42. Received 10mg IV hydralazine x 2 in addition to PO dose. Coreg 3.125mg bid. BP currently 130s-140s. CVP 8-14. Bilateral groin sites C/D/I. K 4.3.
+
+Pulm: LS diminished @ bases, crackles @ R base. Sats 97% on 3L NC. CXR yesterday-LLL atelectasis/consolidation, worsening CHF. Coughing up white/tan thick sputum.
+
+GI: +BS, abd soft, obese. Able to take cl liquids and meds, has some difficulty swallowing large pills. Late o/n c/o throat discomfort, saying, ""I feel like I'm choking."" Denies N/V. No BM.
+
+GU: Foley patent, urine clearing from brown to amber. HUO increasing to 30cc/hr x last 5 hours. To start HD today. Received total of 4amp bicarb o/n for metabolic acidosis.
+
+ID: Afebrile, WBC 12 from 10. Cont on flagyl, vanco level pending. Sputum culture sent, Gram + cocci. Contact precautions for C-diff.
+
+A/P: HD today, EGD Friday? OOB, PT consult. Emotional support for pt and family.
+",,
+8084,17224,10062,0,2977-10-15 13:43:00 EST,2977-10-15 14:16:00 EST,226,"N",1,"Nursing/Other",,"
+
+CCU Nursing Progress Note 7a-3p:
+
+s/p First HD treatment.
+
+S:""It's 1902"" ""I'm at the [**Hospital6 **]"".
+
+Neuro: Pt lethargic opening eyes spontaneously.  Pt alert and oriented to self and place at this time.  Pt following commands, moving all extremities spontaneously on bed and cooperative with nursing care.   
+Denies pain.  Pt would benefit from PT consult.
+
+CV: NSR with LBBB HR 73-82 with rare pvc's. BP 140-157/40-68.  CVP 12 prior to HD now 8.  Pt conts on imdur, hydralazine, ASA, zocor and carvedilol (dose increased to 6.25mg) pt tolerated increase w/o incidence.  Denies CP/arm or back pain.  Dopperable pulses.  Groin sites intact.  Extremities with 2+ edema, elevated intermittently on pillows.  Pt +3L LOS.  45 min into first HD treatment pt had 4min run of ST HR 130's with stable BP of 113/45.  Failed to break with cartoid massage, pt cough/cleared throat and broke to NSR HR 70's.  HCT 30.1. K+4.3.  
+
+PULM: LS diminished throughout.  Pt with weak productive cough raising thick yellow sputum (gram +cocci).  MV sat sent this am 57/48/7.25/22.  Sats 96% on 2L NC.  RR 16-22.  Pt denies SOB.  Pt encouraged to cough and deep breath.  Preform IS with pt Q1hr.  
+
+GI: Pt conts on protonix gtt 8mg/hr per GI.  GI following ? EDG Friday.  Abd softly distended with +BS.  Pt tolerating clear liquid diet, aspiration precuations maintained.  Await team to consult GI regarding advancing diet.  Pt denies difficulty with swallowing or pain, lido ordered if indicated.  No stool this shift.  C-diff precautions maintained.  
+
+GU: s/p First HD removing 1kilo.  Pt scheduled for HD [**10-16**].  Foley cath patent draining amber urine 25cc/hr.  +3L LOS.  BUN 108 Cr 7.8.
+Pt with small about of BRB around meatus.
+
+ID: Afebrile.  WBC 12.1. C-diff [**10-9**]. Last cultures sent [**10-14**].  BC and urine pending.  Flagyl IV day 2.  Started q day dosing of vanco IV [**10-14**].  Vanco level 10.8
+
+ENDO: FS WNL no insulin per ss.
+
+SKIN: L and RLE red and edematous.  Heels red.
+
+LINES: L SC tunneled cath and RIJ TLC.
+
+SOCIAL:  Pt's daughter called and will be in tonight to visit.
+
+DISPO: Full Code.
+
+A: Lethargic and confused.  s/p first HD treatment.  hemodynamically stable on current cardiac regimen.  Remains pain free.  Tolerating clear liquid diet.  
+
+P: Follow mental status.  Follow mv sats.  ?advancing diet.  ?EGD Friday.  HD [**10-16**].  Provide support.  
+",,
+8084,17224,10062,0,2977-10-16 03:43:00 EST,2977-10-16 04:09:00 EST,330,"N",1,"Nursing/Other","CCU NPN 1900-0700","
+CCU NPN 1900-0700
+S: "" I feel like I have 500 pounds on me, its so hard to move ""
+O:  pt. uncomfortable in bed, c/o sore buttocks/tail bone from laying in bed.  assisted to dangling position at side of bed and tol. well for 20-30min.  Side to side in bed with pillows supporting.  
+A/O x2-3.  pt. does not remember dialysis and other events.  acting anxious and asking questions when family visiting.  3 children stayed with pt. til ~ 2300.  pt. noted to be acting more toward baseline, more approp.  less anxious.  watched ball game and then given .5 IV ativan at 0300 with very good effect.  slept.  wakes approp. , Oriented to place/person.
+
+afeb.  vanco d/c'd and changed back to levoflox po.  also contin. on IV flagyl for c.diff.  
+
+CV:  HR 60's SR.  occas. PVC. BP 140's/40.  on hydral 25mg po  6.25 carvedilol and isordil.  BP up to 170/50 in eve and given 20mg IV hydralazine with good effect.  denies CP/SOB
+
+RESP:  RR 20's sats 95-96% on 2lnc.  crackles bases.  
+GU:  foley draining amber- yellow urine with sediment.  u/o 25-50cc/hr.  Cr down to 6.4 post HD.  
+GI:  clear liqs.  pills crushed with jello, denies prob. with swallowing.  occas. cough but does well with liq. cliquids.  cough prod. of clear-yellow sputum.  no blood.  ABD soft, NT.  no stool.  
+? EGD for today.  therefore will keep NPO except meds until final date set.  
+endo:  FS 130's.  no insulin.
+lytes:  K+ 4.0, Na 145.  Mg 1.8-2gms magsulfate. phos 5.6 (7.8) on amphoget.  
+
+lines:  right IJ TLC.  site C/D.  left SC HD catheter.  
+
+skin:  LE edema 1+.  reddened areas improved on bilat. LE.  
+no breakdown on back/coccyx.  
+
+A:  improved MS,  less confusion.  
+    creatinine down post HD, phos down
+    tol. clear liqs.  
+    discomfort from bedrest
+P:  maintain NPO except meds.  crush meds as needed.  monitor BP on current regimen.  dangle today.  PT consult (ordered).  OOB with assist.  bowel regimen.  
+",,
+8084,17224,,,2977-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-17**] 1:43 PM
+     [**Last Name (un) **] DUP EXTEXT BIL (MAP/DVT)                                    Clip # [**Clip Number (Radiology) 4696**]
+     Reason: pt. is in need of permanent dialysis access. Please assess b
+     Admitting Diagnosis: CHEST PAIN\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with renal failure with need for future permanent dialysis 
+      access.
+     REASON FOR THIS EXAMINATION:
+      pt. is in need of permanent dialysis access. Please assess bilat. upper 
+      extrems. for future dialysis access placement. Also assess central veins. Attn. 
+      Dr. [**Last Name (STitle) 6**], [**Doctor Last Name 4697**] protocol.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:    Re-assessment for AV fistual creation.
+     
+     FINDINGS:   Cephalic veins are patent bilaterally. On the right, the cephalic
+     vein is .47 cm at the antecubital fossa and gradually declines to .35 cm at
+     the deltoid region.  Similar values on the left are .28 and .29 cm
+     respectively. The right basilic vein measures .2 cm at the antecubital fossa
+     and increases to .34 cm as it transitions into the axillary vein. The left
+     basilic vein is not visualized.
+     
+     Both the left and right brachial arteries demonstrate a normal triphasic wave
+     form indicating no arterial insufficiencies to either upper extremity.
+     Additionally, both subclavian veins demonstrate normal phasicity, excluding
+     any high grade central stenosis on the left or right.
+     
+     IMPRESSION:
+     
+     1.  Patent bilateral cephalic veins and right basilic vein, dimensions as
+     described.
+     
+     2.  Nonvisualized left basilic vein.
+     
+     3.  Normal upper extremity arterial in flow bilaterally.
+     
+     4.  No indirect evidence to suggest any high grade central venous stenosis.
+
+",,
+8084,17224,,,2977-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-17**] 2:37 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4698**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: h/o prostate ca - reeval                                    
+     Admitting Diagnosis: CHEST PAIN\CATH
+     Field of view: 48 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man with cad s/p stemi, cri on hd, uti w/ h/o prostate cancer      
+       
+     REASON FOR THIS EXAMINATION:
+      h/o prostate ca - reeval                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post MI, chronic renal insufficiency, on hemodialysis. UTI
+     with history of prostate cancer.
+     
+     COMPARISON:  There are no prior studies for comparison.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis following administration of 150 cc of
+     Optiray contrast.  Optiray contrast was used secondary to the patient's
+     cardiac history.
+     
+     CT ABDOMEN WITH IV CONTRAST:  There are small bilateral pleural effusion with
+     adjacent atelectasis.  The liver, gallbladder, spleen, adrenal glands and
+     pancreas are unremarkable.  There are multiple small, low attenuation lesions
+     within the left kidney that are too small to characterize, but likely
+     represent simple cysts.  The kidneys appear somewhat atrophic. There are
+     extensive atherosclerotic vascular calcifications within the abdominal aorta,
+     as well as the right renal artery. There is no significant mesenteric or
+     retroperitoneal adenopathy.  There is no area free air or free fluid.
+     
+     CT PELVIS WITH IV CONTRAST:  There are scattered sigmoid diverticula.  The
+     distal ureters are unremarkable.  There is a Foley catheter within the bladder
+     which contains air.  Air is often seen after recent urinary catheterization.
+     No pelvic or inguinal lymphadenopathy. There is no free fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic bony lesions.
+     
+     IMPRESSION:
+     
+     1.  Bilateral small effusions with adjacent atelectasis.
+     
+     2.  Small, low attenuation lesions within the left kidney that are too small
+     to characterize, but likely represent simple cysts.
+     
+     3.  No radiologic evidence of recurrent prostate cancer.
+     
+                                                                 (Over)
+
+     DATE: [**2977-10-17**] 2:37 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4698**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: h/o prostate ca - reeval                                    
+     Admitting Diagnosis: CHEST PAIN\CATH
+     Field of view: 48 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8084,17224,,,2977-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-10-17**] 2:37 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4698**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: h/o prostate ca - reeval                                    
+     Admitting Diagnosis: CHEST PAIN\CATH
+     Field of view: 48 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man with cad s/p stemi, cri on hd, uti w/ h/o prostate cancer      
+       
+     REASON FOR THIS EXAMINATION:
+      h/o prostate ca - reeval                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post MI, chronic renal insufficiency, on hemodialysis. UTI
+     with history of prostate cancer.
+     
+     COMPARISON:  There are no prior studies for comparison.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases to the pubic symphysis following administration of 150 cc of
+     Optiray contrast.  Optiray contrast was used secondary to the patient's
+     cardiac history.
+     
+     CT ABDOMEN WITH IV CONTRAST:  There are small bilateral pleural effusion with
+     adjacent atelectasis.  The liver, gallbladder, spleen, adrenal glands and
+     pancreas are unremarkable.  There are multiple small, low attenuation lesions
+     within the left kidney that are too small to characterize, but likely
+     represent simple cysts.  The kidneys appear somewhat atrophic. There are
+     extensive atherosclerotic vascular calcifications within the abdominal aorta,
+     as well as the right renal artery. There is no significant mesenteric or
+     retroperitoneal adenopathy.  There is no area free air or free fluid.
+     
+     CT PELVIS WITH IV CONTRAST:  There are scattered sigmoid diverticula.  The
+     distal ureters are unremarkable.  There is a Foley catheter within the bladder
+     which contains air.  Air is often seen after recent urinary catheterization.
+     No pelvic or inguinal lymphadenopathy. There is no free fluid.
+     
+     BONE WINDOWS:  There are no suspicious lytic or sclerotic bony lesions.
+     
+     IMPRESSION:
+     
+     1.  Bilateral small effusions with adjacent atelectasis.
+     
+     2.  Small, low attenuation lesions within the left kidney that are too small
+     to characterize, but likely represent simple cysts.
+     
+     3.  No radiologic evidence of recurrent prostate cancer.
+     
+                                                                 (Over)
+
+     DATE: [**2977-10-17**] 2:37 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 4698**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: h/o prostate ca - reeval                                    
+     Admitting Diagnosis: CHEST PAIN\CATH
+     Field of view: 48 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8084,,,,2977-11-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-11-2**] 6:23 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4699**]
+     Reason: evaluate for CHF                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man with CAD/CABG s/p recent cath now with recurrent CP            
+     REASON FOR THIS EXAMINATION:
+      evaluate for CHF                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest pain.
+     
+     COMPARISON:  [**2977-10-14**].
+     
+     CHEST, AP PORTABLE RADIOGRAPH:  There is stable cardiomegaly in a patient
+     status post CABG.  The dual lumen left internal jugular catheter is again
+     noted with tip in the mid-SVC.  The lungs are clear, with interval resolution
+     of the left lower lobe atelectasis.  The soft tissue and osseous structures
+     are unremarkable.
+     
+     IMPRESSION:  No radiographic evidence of acute cardiopulmonary disease.
+     Stable cardiomegaly.
+     
+
+",,
+8084,,,,2977-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 4700**]
+     Reason: CHEST PAIN.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Seventy-five year old man with a h/o CABG, CAD and chest pain. 
+      
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB: 
+     Dipyridamole was infused intravenously for 4 minutes at a dose of 0.142  
+     mg/kg/min. Two minutes after the cessation of infusion, Tc-99m sestamibi was
+     administered IV. 
+      
+     INTERPRETATION:  
+      
+     Image Protocol: Gated SPECT. 
+      
+     Resting perfusion images were obtained with thallium-201. 
+     Tracer was injected 15 minutes prior to obtaining the resting images. 
+      
+     Stress images show a mildly dilated LV cavity.  There is normal tracer
+     distribution. 
+      
+     Resting perfusion images show mild LV cavity dilatation and normal myocardial
+     tracer uptake. 
+      
+     Ejection fraction calculated from gated wall motion images obtained after
+     Dipyridamole administration is 43%.  Wall motion is normal. 
+      
+     IMPRESSION:  No evidence of fixed or reversible perfusion defects.  Mild left
+     ventricular dilatation and mildly depressed EF at 43%. 
+      
+     /nkg 
+                                                                           
+
+             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4701**], M.D.
+             [**First Name8 (NamePattern2) 748**] [**Last Name (NamePattern1) 749**], M.D.         Approved: [**Doctor First Name 114**] [**2977-11-6**] 11:56 AM
+
+
+             Date Mailed: [**2977-11-7**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8084,,,,2977-11-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2977-11-27**] 10:32 AM
+     BAS/UGI                                                         Clip # [**Clip Number (Radiology) 4702**]
+     Reason: FOLLOW UP FOR ESOPHAGITIS, R/O STRICTURE.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man with 
+     REASON FOR THIS EXAMINATION:
+      FOLLOW UP FOR ESOPHAGITIS, R/O STRICTURE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Follow up of esophagitis, dysphagia, r/o stricture.
+     
+     DOUBLE CONTRAST UGI: There are no prior comparable examinations available for
+     comparison. Barium flows freely through the esophagus. there are interrupted
+     primary peristaltic contractions with tertiary activity. A small hiatal hernia
+     of axial type is present. No free gastroesophageal reflux is detected during
+     the examination. 13 mm barium tablet demonstrates prolonged impaction at the
+     small axial hiatal hernia. The stomach distends and empties normally. The
+     visualized portions of the duodenal bulb, loop, and visualized portions of the
+     proximal small bowel appear normal in caliber and mucosal pattern.
+     
+     IMPRESSION: 1) Small axial hiatal hernia without demonstrated gastroesophageal
+     reflux. 2) Prolonged hold up of 13 mm barium tablet at the proximal portion of
+     the hiatal hernia. 3) Abnormal esophageal motility with tertiary contractions.
+
+",,
+8084,,,,2978-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8084,,,,2978-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2978-6-4**] 7:24 AM
+     AV FITULOGRAM SCH                                               Clip # [**Clip Number (Radiology) 4703**]
+     Reason: Pt. has a R upper arm AVF that is not maturing. Dr. [**First Name (STitle) 10**] 
+      Contrast: OPTIRAY Amt: 100
+     ********************************* CPT Codes ********************************
+     * 36217 3ED ORDER [**Last Name (un) 222**]/BRACHIOCEPHALIC 75710 EXT UNILAT A-GRAM             *
+     * 75790 ART VENEOUS SHUNT              NON-IONIC 100 CC                    *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with ESRD and a non-maturing R upper arm AVF.
+     REASON FOR THIS EXAMINATION:
+      Pt. has a R upper arm AVF that is not maturing. Dr. [**First Name (STitle) 10**] would like a
+      fistulagram to assess the fistula to see if there are any outflow problems
+      amenable to angioplasty and also to see why the fistula is not developing.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 76-year-old male with end-stage renal disease on hemodialysis with
+     a nonmaturing right upper arm arteriovenous fistula and complaints of right
+     hand numbness and tingling.
+     
+     TECHNIQUE: Written informed consent was obtained. The right upper extremity
+     was prepped and draped in the usual sterile fashion. Approximately 3 cc's of
+     1% Lidocaine was used to anesthetize the local field.  Using a Micropuncture
+     needle set, the patient's right upper extremity AV fistula was accessed using
+     a 21 gauge needle. A Micropuncture sheath set was advanced over a a
+     nitinol guidewire. Using the micropuncture sheath catheter, an arteriogram
+     distal to the AV fistula in the right upper extremity was performed both
+     before and after the IV administration of 25 mg of Papaverine. Next, a
+     glidewire was used to access the brachial artery proximal to the AV fistula
+     and advanced into the patient's right subclavian artery. A 4 Fr straight
+     catheter was advanced over the glidewire into the right subclavian artery and
+     an arteriogram of the right upper extremity to a point just distal to the AV
+     fistula within the right arm was also performed. Next, the catheter was
+     slighty withdrawn into the brachial artery and an arteriogram of the distal
+     upper extremity was performed during the manual compression of the AV fistula.
+     The catheter and sheath were then removed and manual pressure was held at the
+     puncture site with good hemostasis.
+     
+     FINDINGS: Arteriogram of the arm distal to the AV fistula anastomosis from the
+     brachial artery to the right hand shows normal arterial vascularity without
+     evidence of stenosis or occlusion to the level of the digital arteries.
+     Arteriogram of the proximal upper extremity demonstrates patency from the
+     level of the AV fistula anastomosis to the superior vena cava without stenosis
+     or obstruction ti flow. However, dynamic images demonstrate increased and
+     rapid flow across the AV fistula, with only minimal flow through the distal
+     brachial artery to the hand. Manual compression of the fistula and subsequent
+     arteriogram of the distal upper extremity showed improvement of flow into the
+     distal brachial artery and hand.
+     
+     MEDICATIONS: 100 cc of IV Optiray 320. Versed, .5 mg. Fentanyl, 25 mcg.
+     
+     COMPLICATIONS: None.
+                                                                 (Over)
+
+     DATE: [**2978-6-4**] 7:24 AM
+     AV FITULOGRAM SCH                                               Clip # [**Clip Number (Radiology) 4703**]
+     Reason: Pt. has a R upper arm AVF that is not maturing. Dr. [**First Name (STitle) 10**] 
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1. Decreased flow through the distal brachial artery to the hand with marked
+     improvement after manual compression of the AV fistula, consistent with a
+     steal phenomenon.
+     2. Normal arterial vascularity of the right upper extremity proximal to the AV
+     fistula. Normal outflow venogram from the AV fistula anastamosis to the SVC.
+     
+     
+
+",,
+8084,,,,2978-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2978-6-4**] 7:24 AM
+     AV FITULOGRAM SCH                                               Clip # [**Clip Number (Radiology) 4703**]
+     Reason: Pt. has a R upper arm AVF that is not maturing. Dr. [**First Name (STitle) 10**] 
+      Contrast: OPTIRAY Amt: 100
+     ********************************* CPT Codes ********************************
+     * 36217 3ED ORDER [**Last Name (un) 222**]/BRACHIOCEPHALIC 75710 EXT UNILAT A-GRAM             *
+     * 75790 ART VENEOUS SHUNT              NON-IONIC 100 CC                    *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with ESRD and a non-maturing R upper arm AVF.
+     REASON FOR THIS EXAMINATION:
+      Pt. has a R upper arm AVF that is not maturing. Dr. [**First Name (STitle) 10**] would like a
+      fistulagram to assess the fistula to see if there are any outflow problems
+      amenable to angioplasty and also to see why the fistula is not developing.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 76-year-old male with end-stage renal disease on hemodialysis with
+     a nonmaturing right upper arm arteriovenous fistula and complaints of right
+     hand numbness and tingling.
+     
+     TECHNIQUE: Written informed consent was obtained. The right upper extremity
+     was prepped and draped in the usual sterile fashion. Approximately 3 cc's of
+     1% Lidocaine was used to anesthetize the local field.  Using a Micropuncture
+     needle set, the patient's right upper extremity AV fistula was accessed using
+     a 21 gauge needle. A Micropuncture sheath set was advanced over a a
+     nitinol guidewire. Using the micropuncture sheath catheter, an arteriogram
+     distal to the AV fistula in the right upper extremity was performed both
+     before and after the IV administration of 25 mg of Papaverine. Next, a
+     glidewire was used to access the brachial artery proximal to the AV fistula
+     and advanced into the patient's right subclavian artery. A 4 Fr straight
+     catheter was advanced over the glidewire into the right subclavian artery and
+     an arteriogram of the right upper extremity to a point just distal to the AV
+     fistula within the right arm was also performed. Next, the catheter was
+     slighty withdrawn into the brachial artery and an arteriogram of the distal
+     upper extremity was performed during the manual compression of the AV fistula.
+     The catheter and sheath were then removed and manual pressure was held at the
+     puncture site with good hemostasis.
+     
+     FINDINGS: Arteriogram of the arm distal to the AV fistula anastomosis from the
+     brachial artery to the right hand shows normal arterial vascularity without
+     evidence of stenosis or occlusion to the level of the digital arteries.
+     Arteriogram of the proximal upper extremity demonstrates patency from the
+     level of the AV fistula anastomosis to the superior vena cava without stenosis
+     or obstruction ti flow. However, dynamic images demonstrate increased and
+     rapid flow across the AV fistula, with only minimal flow through the distal
+     brachial artery to the hand. Manual compression of the fistula and subsequent
+     arteriogram of the distal upper extremity showed improvement of flow into the
+     distal brachial artery and hand.
+     
+     MEDICATIONS: 100 cc of IV Optiray 320. Versed, .5 mg. Fentanyl, 25 mcg.
+     
+     COMPLICATIONS: None.
+                                                                 (Over)
+
+     DATE: [**2978-6-4**] 7:24 AM
+     AV FITULOGRAM SCH                                               Clip # [**Clip Number (Radiology) 4703**]
+     Reason: Pt. has a R upper arm AVF that is not maturing. Dr. [**First Name (STitle) 10**] 
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1. Decreased flow through the distal brachial artery to the hand with marked
+     improvement after manual compression of the AV fistula, consistent with a
+     steal phenomenon.
+     2. Normal arterial vascularity of the right upper extremity proximal to the AV
+     fistula. Normal outflow venogram from the AV fistula anastamosis to the SVC.
+     
+     
+
+",,
+8084,,,,2978-06-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2978-6-4**] 7:24 AM
+     AV FITULOGRAM SCH                                               Clip # [**Clip Number (Radiology) 4703**]
+     Reason: Pt. has a R upper arm AVF that is not maturing. Dr. [**First Name (STitle) 10**] 
+      Contrast: OPTIRAY Amt: 100
+     ********************************* CPT Codes ********************************
+     * 36217 3ED ORDER [**Last Name (un) 222**]/BRACHIOCEPHALIC 75710 EXT UNILAT A-GRAM             *
+     * 75790 ART VENEOUS SHUNT              NON-IONIC 100 CC                    *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with ESRD and a non-maturing R upper arm AVF.
+     REASON FOR THIS EXAMINATION:
+      Pt. has a R upper arm AVF that is not maturing. Dr. [**First Name (STitle) 10**] would like a
+      fistulagram to assess the fistula to see if there are any outflow problems
+      amenable to angioplasty and also to see why the fistula is not developing.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 76-year-old male with end-stage renal disease on hemodialysis with
+     a nonmaturing right upper arm arteriovenous fistula and complaints of right
+     hand numbness and tingling.
+     
+     TECHNIQUE: Written informed consent was obtained. The right upper extremity
+     was prepped and draped in the usual sterile fashion. Approximately 3 cc's of
+     1% Lidocaine was used to anesthetize the local field.  Using a Micropuncture
+     needle set, the patient's right upper extremity AV fistula was accessed using
+     a 21 gauge needle. A Micropuncture sheath set was advanced over a a
+     nitinol guidewire. Using the micropuncture sheath catheter, an arteriogram
+     distal to the AV fistula in the right upper extremity was performed both
+     before and after the IV administration of 25 mg of Papaverine. Next, a
+     glidewire was used to access the brachial artery proximal to the AV fistula
+     and advanced into the patient's right subclavian artery. A 4 Fr straight
+     catheter was advanced over the glidewire into the right subclavian artery and
+     an arteriogram of the right upper extremity to a point just distal to the AV
+     fistula within the right arm was also performed. Next, the catheter was
+     slighty withdrawn into the brachial artery and an arteriogram of the distal
+     upper extremity was performed during the manual compression of the AV fistula.
+     The catheter and sheath were then removed and manual pressure was held at the
+     puncture site with good hemostasis.
+     
+     FINDINGS: Arteriogram of the arm distal to the AV fistula anastomosis from the
+     brachial artery to the right hand shows normal arterial vascularity without
+     evidence of stenosis or occlusion to the level of the digital arteries.
+     Arteriogram of the proximal upper extremity demonstrates patency from the
+     level of the AV fistula anastomosis to the superior vena cava without stenosis
+     or obstruction ti flow. However, dynamic images demonstrate increased and
+     rapid flow across the AV fistula, with only minimal flow through the distal
+     brachial artery to the hand. Manual compression of the fistula and subsequent
+     arteriogram of the distal upper extremity showed improvement of flow into the
+     distal brachial artery and hand.
+     
+     MEDICATIONS: 100 cc of IV Optiray 320. Versed, .5 mg. Fentanyl, 25 mcg.
+     
+     COMPLICATIONS: None.
+                                                                 (Over)
+
+     DATE: [**2978-6-4**] 7:24 AM
+     AV FITULOGRAM SCH                                               Clip # [**Clip Number (Radiology) 4703**]
+     Reason: Pt. has a R upper arm AVF that is not maturing. Dr. [**First Name (STitle) 10**] 
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     IMPRESSION:
+     1. Decreased flow through the distal brachial artery to the hand with marked
+     improvement after manual compression of the AV fistula, consistent with a
+     steal phenomenon.
+     2. Normal arterial vascularity of the right upper extremity proximal to the AV
+     fistula. Normal outflow venogram from the AV fistula anastamosis to the SVC.
+     
+     
+
+",,

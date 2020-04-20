@@ -1,0 +1,2275 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8790,,,,2707-08-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-8-29**] 3:05 PM
+     FOOT AP,LAT & OBL LEFT                                          Clip # [**Clip Number (Radiology) 10600**]
+     Reason: please assess for osteomyelitis                             
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with black toe, extending erythema                              
+     REASON FOR THIS EXAMINATION:
+      please assess for osteomyelitis                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Black toe and extending erythema.  Assess for osteomyelitis.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:   Left foot, 3 views.
+     
+     LEFT FOOT, 3 VIEWS:  There is erosive change within the distal aspect of the
+     first metatarsal and proximal aspect of the first proximal phalanx medially,
+     with overhanging edges and soft tissue swelling.  Additional similar appearing
+     erosions are seen within the distal aspect of the proximal phalanx of the 5th
+     digit.  Prominent vascular calcifications.  There is additional irregularity
+     along the dorsal surface of the navicular bone on the lateral view, and at the
+     proximal margin of the cuboid dorsally.  No subcutaneous gas is identified.
+     
+     IMPRESSION:
+     
+     Osseous destructive changes at the first MTP joint, involving the first
+     metatarsal, first proximal phalanx, and 5th proximal phalanx, as well as
+     several tarsal bones.  The radiologic findings are most consistent with gout.
+
+",,
+8790,,,,2707-08-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-8-29**] 3:04 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 10599**]
+     Reason: preop evaluation                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with black toe, extending erythema                              
+     REASON FOR THIS EXAMINATION:
+      preop evaluation                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Black toe and extending erythema, preoperative evaluation.
+     
+     COMPARISON:  [**2705-7-29**].
+     
+     TECHNIQUE:  PA and lateral views of the chest, and additional AP semi-upright
+     view of chest, are provided.
+     
+     FINDINGS:  A left-sided pacemaker is again seen with single electrode in
+     unchanged position.  The heart size is mildly enlarged, with ectatic and
+     calcified aorta.  A valvular prosthesis is seen overlying the expected region
+     of the aortic valve.  Sternal suture wires and mediastinal clips, unchanged.
+     In comparison to the previous examination, the previously seen congestive
+     heart failure has resolved and the pulmonary vasculature appears unremarkable.
+     No focal pulmonary parenchymal consolidation or pleural effusions are
+     identified.
+      No pneumothorax.  The surrounding osseous structures appear unchanged.
+     
+     IMPRESSION:  No acute cardiopulmonary abnormality.
+     
+     
+
+",,
+8790,,,,2707-08-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-8-30**] 3:03 PM
+     RENAL U.S.                                                      Clip # [**Clip Number (Radiology) 10601**]
+     Reason: Please assess for hyrdonephrosis/obstruction.               
+     Admitting Diagnosis: NECROTIC TOE;PVD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with acidosis, ARF.                                             
+     REASON FOR THIS EXAMINATION:
+      Please assess for hyrdonephrosis/obstruction.                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A [**Age over 90 **]-year-old man with acidosis and acute renal failure, please
+     assess for hydronephrosis or obstruction.
+     
+     COMPARISON:  Renal ultrasound of [**2705-5-31**].
+     
+     FINDINGS:  The right kidney measures 10 cm.  The left kidney measures 9.3 cm.
+     Both kidneys are somewhat atrophic, with thin cortex, and are more echogenic
+     than normal.  These findings are seen in chronic renal disease.  Again seen in
+     the medial aspect of the right kidney is a 3 cm anechoic simple renal cyst.
+     Again seen is an approximately 2.5 cm anechoic, exophytic simple renal cyst in
+     the lateral aspect of the left kidney.  A 3 mm [**Doctor First Name 10602**] is seen in the
+     corticomedullary junction of the mid-sagittal right kidney.  There are no
+     frank kidney stones seen in either kidney.  The bladder is seen collapsed
+     around a Foley catheter.
+     
+     IMPRESSION:
+     1.  Cortical thinning, atrophy, increased echogenicity of both kidneys
+     indicating chronic renal disease.
+     2.  Bilateral simple renal cysts, essentially unchanged from prior
+     examination.
+     3.  A 3 mm [**Doctor First Name 10602**], but no frank stones, seen in the right kidney.
+     4.  There is no evidence of hydronephrosis or obstruction to explain the
+     patient's acute renal failure.
+
+",,
+8790,,,,2707-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-3**] 4:50 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 10603**]
+     Reason: Please do angiogram of left lower extremity in preparation f
+     Admitting Diagnosis: NECROTIC TOE;PVD
+      Contrast: OPTIRAY Amt: 160
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              NON-IONIC 150 CC                    *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with h/o AVR, prostate CA, ARF on CRI, and necrotic toe on 
+      presentation.
+     REASON FOR THIS EXAMINATION:
+      Please do angiogram of left lower extremity in preparation for vascular surgery 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: [**Age over 90 **] y/o male with aortic valve replacement, prostate cancer, acute
+     renal failure and chronic insufficiency with necrotic toe.  Left lower
+     extremity ulcer.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) 1129**] and [**Name5 (PTitle) 6**].  Dr.
+     [**Last Name (STitle) 6**], the attending radiologist was present and supervising.  Signed and
+     informed consent was obtained from the patient.
+     
+     The patient was placed supine on the angiography table. The left groin was
+     prepped and draped in a standard sterile fashion.  The skin and subcutaneous
+     tissue was anesthestized with approximately 5 cc of 1% lidocaine. With the
+     assistance of fluoroscopy and ultrasound, the left common femoral artery was
+     accessed using an 18 gauge micropuncture needle. A .035 [**Location (un) 935**] wire was then
+     advanced through the access needle into the abdominal aorta under direct
+     fluoroscopic guidance. The skin entry site was then incised with 11 blade
+     scalpel. The access needle was exchanged for a 4 French Omniflush catheter
+     which was then advanced over the [**Location (un) 935**] wire into the abdominal aorta. The
+     [**Location (un) 935**] wire was removed. The omniflush catheter was then positioned in the
+     abdominal aorta at the level of the L1 vertebral body.  The catheter was then
+     connected to a power contrast injector and an aortogram was performed.  The
+     Omniflush catheter was then disconnected from the power contrast injector and
+     connected to a pressure monitoring system.  Pressures were then obtained in
+     the abdominal aorta, left common femoral and left superficial femoral artery.
+     The catheter was then again reconnected to the power contrast injector and
+     withdrawn to the level of the L4 vertebral body.  Sequential angiograms were
+     then obtained of the pelvic vessels and a run off of the left lower extremity.
+     The catheter was then removed and hemostasis was achieved after 15 minutes of
+     direct compression.
+     
+     FINDINGS:  There is diffuse, mild disease of the aorta without significant
+     stenosis.  No pressure gradients are identified from the aorta to the left
+     external iliac artery. The common femoral artery is unremarkable. The profunda
+     shows mild disease. The superficial femoral artery shows mild diffuse disease.
+     The popliteal also shows mild, diffuse disease. There is diffuse disease at
+     the trifurcation with occlusion of the posterior tibial proximally. There is a
+     small anterior tibial and a patent peroneal. The peroneal reconstitutes the
+                                                                 (Over)
+
+     DATE: [**2707-9-3**] 4:50 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 10603**]
+     Reason: Please do angiogram of left lower extremity in preparation f
+     Admitting Diagnosis: NECROTIC TOE;PVD
+      Contrast: OPTIRAY Amt: 160
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     posterior tibial which extends into the arch. The small anterior tibial
+     occludes at the ankle.
+     
+     CONTRAST/MEDICATIONS: 50 mcg of Fentanyl for conscious sedation. 5 cc of 1%
+     Lidocaine for local anesthesia.  160 cc of 60% nonionic Optiray contrast for
+     angiography.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:
+     1.  Diffuse, mild disease involving the aorta, common femoral artery,
+     superficial femoral artery and popliteal on the left.
+     2.  Diffuse disease at the trifurcation with occlusion of the posterior tibial
+     proximally.  The posterior tibial is reconstituted distally by the peroneal
+     artery. There is a small anterior tibial which occludes at the level of the
+     ankle.
+
+",,
+8790,,,,2707-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-3**] 4:50 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 10603**]
+     Reason: Please do angiogram of left lower extremity in preparation f
+     Admitting Diagnosis: NECROTIC TOE;PVD
+      Contrast: OPTIRAY Amt: 160
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              NON-IONIC 150 CC                    *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with h/o AVR, prostate CA, ARF on CRI, and necrotic toe on 
+      presentation.
+     REASON FOR THIS EXAMINATION:
+      Please do angiogram of left lower extremity in preparation for vascular surgery 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: [**Age over 90 **] y/o male with aortic valve replacement, prostate cancer, acute
+     renal failure and chronic insufficiency with necrotic toe.  Left lower
+     extremity ulcer.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) 1129**] and [**Name5 (PTitle) 6**].  Dr.
+     [**Last Name (STitle) 6**], the attending radiologist was present and supervising.  Signed and
+     informed consent was obtained from the patient.
+     
+     The patient was placed supine on the angiography table. The left groin was
+     prepped and draped in a standard sterile fashion.  The skin and subcutaneous
+     tissue was anesthestized with approximately 5 cc of 1% lidocaine. With the
+     assistance of fluoroscopy and ultrasound, the left common femoral artery was
+     accessed using an 18 gauge micropuncture needle. A .035 [**Location (un) 935**] wire was then
+     advanced through the access needle into the abdominal aorta under direct
+     fluoroscopic guidance. The skin entry site was then incised with 11 blade
+     scalpel. The access needle was exchanged for a 4 French Omniflush catheter
+     which was then advanced over the [**Location (un) 935**] wire into the abdominal aorta. The
+     [**Location (un) 935**] wire was removed. The omniflush catheter was then positioned in the
+     abdominal aorta at the level of the L1 vertebral body.  The catheter was then
+     connected to a power contrast injector and an aortogram was performed.  The
+     Omniflush catheter was then disconnected from the power contrast injector and
+     connected to a pressure monitoring system.  Pressures were then obtained in
+     the abdominal aorta, left common femoral and left superficial femoral artery.
+     The catheter was then again reconnected to the power contrast injector and
+     withdrawn to the level of the L4 vertebral body.  Sequential angiograms were
+     then obtained of the pelvic vessels and a run off of the left lower extremity.
+     The catheter was then removed and hemostasis was achieved after 15 minutes of
+     direct compression.
+     
+     FINDINGS:  There is diffuse, mild disease of the aorta without significant
+     stenosis.  No pressure gradients are identified from the aorta to the left
+     external iliac artery. The common femoral artery is unremarkable. The profunda
+     shows mild disease. The superficial femoral artery shows mild diffuse disease.
+     The popliteal also shows mild, diffuse disease. There is diffuse disease at
+     the trifurcation with occlusion of the posterior tibial proximally. There is a
+     small anterior tibial and a patent peroneal. The peroneal reconstitutes the
+                                                                 (Over)
+
+     DATE: [**2707-9-3**] 4:50 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 10603**]
+     Reason: Please do angiogram of left lower extremity in preparation f
+     Admitting Diagnosis: NECROTIC TOE;PVD
+      Contrast: OPTIRAY Amt: 160
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     posterior tibial which extends into the arch. The small anterior tibial
+     occludes at the ankle.
+     
+     CONTRAST/MEDICATIONS: 50 mcg of Fentanyl for conscious sedation. 5 cc of 1%
+     Lidocaine for local anesthesia.  160 cc of 60% nonionic Optiray contrast for
+     angiography.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:
+     1.  Diffuse, mild disease involving the aorta, common femoral artery,
+     superficial femoral artery and popliteal on the left.
+     2.  Diffuse disease at the trifurcation with occlusion of the posterior tibial
+     proximally.  The posterior tibial is reconstituted distally by the peroneal
+     artery. There is a small anterior tibial which occludes at the level of the
+     ankle.
+
+",,
+8790,,,,2707-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-3**] 4:50 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 10603**]
+     Reason: Please do angiogram of left lower extremity in preparation f
+     Admitting Diagnosis: NECROTIC TOE;PVD
+      Contrast: OPTIRAY Amt: 160
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              NON-IONIC 150 CC                    *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with h/o AVR, prostate CA, ARF on CRI, and necrotic toe on 
+      presentation.
+     REASON FOR THIS EXAMINATION:
+      Please do angiogram of left lower extremity in preparation for vascular surgery 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: [**Age over 90 **] y/o male with aortic valve replacement, prostate cancer, acute
+     renal failure and chronic insufficiency with necrotic toe.  Left lower
+     extremity ulcer.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) 1129**] and [**Name5 (PTitle) 6**].  Dr.
+     [**Last Name (STitle) 6**], the attending radiologist was present and supervising.  Signed and
+     informed consent was obtained from the patient.
+     
+     The patient was placed supine on the angiography table. The left groin was
+     prepped and draped in a standard sterile fashion.  The skin and subcutaneous
+     tissue was anesthestized with approximately 5 cc of 1% lidocaine. With the
+     assistance of fluoroscopy and ultrasound, the left common femoral artery was
+     accessed using an 18 gauge micropuncture needle. A .035 [**Location (un) 935**] wire was then
+     advanced through the access needle into the abdominal aorta under direct
+     fluoroscopic guidance. The skin entry site was then incised with 11 blade
+     scalpel. The access needle was exchanged for a 4 French Omniflush catheter
+     which was then advanced over the [**Location (un) 935**] wire into the abdominal aorta. The
+     [**Location (un) 935**] wire was removed. The omniflush catheter was then positioned in the
+     abdominal aorta at the level of the L1 vertebral body.  The catheter was then
+     connected to a power contrast injector and an aortogram was performed.  The
+     Omniflush catheter was then disconnected from the power contrast injector and
+     connected to a pressure monitoring system.  Pressures were then obtained in
+     the abdominal aorta, left common femoral and left superficial femoral artery.
+     The catheter was then again reconnected to the power contrast injector and
+     withdrawn to the level of the L4 vertebral body.  Sequential angiograms were
+     then obtained of the pelvic vessels and a run off of the left lower extremity.
+     The catheter was then removed and hemostasis was achieved after 15 minutes of
+     direct compression.
+     
+     FINDINGS:  There is diffuse, mild disease of the aorta without significant
+     stenosis.  No pressure gradients are identified from the aorta to the left
+     external iliac artery. The common femoral artery is unremarkable. The profunda
+     shows mild disease. The superficial femoral artery shows mild diffuse disease.
+     The popliteal also shows mild, diffuse disease. There is diffuse disease at
+     the trifurcation with occlusion of the posterior tibial proximally. There is a
+     small anterior tibial and a patent peroneal. The peroneal reconstitutes the
+                                                                 (Over)
+
+     DATE: [**2707-9-3**] 4:50 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 10603**]
+     Reason: Please do angiogram of left lower extremity in preparation f
+     Admitting Diagnosis: NECROTIC TOE;PVD
+      Contrast: OPTIRAY Amt: 160
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     posterior tibial which extends into the arch. The small anterior tibial
+     occludes at the ankle.
+     
+     CONTRAST/MEDICATIONS: 50 mcg of Fentanyl for conscious sedation. 5 cc of 1%
+     Lidocaine for local anesthesia.  160 cc of 60% nonionic Optiray contrast for
+     angiography.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:
+     1.  Diffuse, mild disease involving the aorta, common femoral artery,
+     superficial femoral artery and popliteal on the left.
+     2.  Diffuse disease at the trifurcation with occlusion of the posterior tibial
+     proximally.  The posterior tibial is reconstituted distally by the peroneal
+     artery. There is a small anterior tibial which occludes at the level of the
+     ankle.
+
+",,
+8790,,,,2707-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-3**] 4:50 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 10603**]
+     Reason: Please do angiogram of left lower extremity in preparation f
+     Admitting Diagnosis: NECROTIC TOE;PVD
+      Contrast: OPTIRAY Amt: 160
+     ********************************* CPT Codes ********************************
+     * 36200 INTRO AORTA FEM/AXIL           75625 ABDOMINAL A-GRAM              *
+     * 75710 EXT UNILAT A-GRAM              NON-IONIC 150 CC                    *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with h/o AVR, prostate CA, ARF on CRI, and necrotic toe on 
+      presentation.
+     REASON FOR THIS EXAMINATION:
+      Please do angiogram of left lower extremity in preparation for vascular surgery 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS: [**Age over 90 **] y/o male with aortic valve replacement, prostate cancer, acute
+     renal failure and chronic insufficiency with necrotic toe.  Left lower
+     extremity ulcer.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**Last Name (STitle) 1129**] and [**Name5 (PTitle) 6**].  Dr.
+     [**Last Name (STitle) 6**], the attending radiologist was present and supervising.  Signed and
+     informed consent was obtained from the patient.
+     
+     The patient was placed supine on the angiography table. The left groin was
+     prepped and draped in a standard sterile fashion.  The skin and subcutaneous
+     tissue was anesthestized with approximately 5 cc of 1% lidocaine. With the
+     assistance of fluoroscopy and ultrasound, the left common femoral artery was
+     accessed using an 18 gauge micropuncture needle. A .035 [**Location (un) 935**] wire was then
+     advanced through the access needle into the abdominal aorta under direct
+     fluoroscopic guidance. The skin entry site was then incised with 11 blade
+     scalpel. The access needle was exchanged for a 4 French Omniflush catheter
+     which was then advanced over the [**Location (un) 935**] wire into the abdominal aorta. The
+     [**Location (un) 935**] wire was removed. The omniflush catheter was then positioned in the
+     abdominal aorta at the level of the L1 vertebral body.  The catheter was then
+     connected to a power contrast injector and an aortogram was performed.  The
+     Omniflush catheter was then disconnected from the power contrast injector and
+     connected to a pressure monitoring system.  Pressures were then obtained in
+     the abdominal aorta, left common femoral and left superficial femoral artery.
+     The catheter was then again reconnected to the power contrast injector and
+     withdrawn to the level of the L4 vertebral body.  Sequential angiograms were
+     then obtained of the pelvic vessels and a run off of the left lower extremity.
+     The catheter was then removed and hemostasis was achieved after 15 minutes of
+     direct compression.
+     
+     FINDINGS:  There is diffuse, mild disease of the aorta without significant
+     stenosis.  No pressure gradients are identified from the aorta to the left
+     external iliac artery. The common femoral artery is unremarkable. The profunda
+     shows mild disease. The superficial femoral artery shows mild diffuse disease.
+     The popliteal also shows mild, diffuse disease. There is diffuse disease at
+     the trifurcation with occlusion of the posterior tibial proximally. There is a
+     small anterior tibial and a patent peroneal. The peroneal reconstitutes the
+                                                                 (Over)
+
+     DATE: [**2707-9-3**] 4:50 PM
+     UNI-LAT FEMORAL                                                 Clip # [**Clip Number (Radiology) 10603**]
+     Reason: Please do angiogram of left lower extremity in preparation f
+     Admitting Diagnosis: NECROTIC TOE;PVD
+      Contrast: OPTIRAY Amt: 160
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     posterior tibial which extends into the arch. The small anterior tibial
+     occludes at the ankle.
+     
+     CONTRAST/MEDICATIONS: 50 mcg of Fentanyl for conscious sedation. 5 cc of 1%
+     Lidocaine for local anesthesia.  160 cc of 60% nonionic Optiray contrast for
+     angiography.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:
+     1.  Diffuse, mild disease involving the aorta, common femoral artery,
+     superficial femoral artery and popliteal on the left.
+     2.  Diffuse disease at the trifurcation with occlusion of the posterior tibial
+     proximally.  The posterior tibial is reconstituted distally by the peroneal
+     artery. There is a small anterior tibial which occludes at the level of the
+     ankle.
+
+",,
+8790,,,,2707-09-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-4**] 3:54 PM
+     VENOUS DUP EXT UNI (MAP/DVT)                                    Clip # [**Clip Number (Radiology) 10604**]
+     Reason: please do vein mapping for probable bypass grafting         
+     Admitting Diagnosis: NECROTIC TOE;PVD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with gnagrene                                                   
+     REASON FOR THIS EXAMINATION:
+      please do vein mapping for probable bypass grafting                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     VENOUS DUPLEX LOWER EXTREMITY:
+     
+     REASON:  Patient in need of bypass, evaluate for conduit.
+     
+     FINDINGS:  Duplex evaluation was performed in the left lower extremity.  The
+     greater saphenous vein is patent with diameters of 0.33, 0.31, 0.28, 0.33,
+     0.34 and 0.43 cm at the ankle, calf, knee, low thigh, high thigh and
+     saphenofemoral junction respectively.
+     
+     IMPRESSION:  Patent left greater saphenous vein with diameters as noted.
+
+",,
+8790,,,,2707-09-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-5**] 8:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10605**]
+     Reason: line placement                                              
+     Admitting Diagnosis: NECROTIC TOE;PVD
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with                                                            
+     REASON FOR THIS EXAMINATION:
+      line placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Line placement.
+     
+     PORTABLE AP CHEST: Comparison is made to [**2707-8-29**]. The Swan-Ganz
+     catheter tip is in the right main pulmonary artery. There is no pneumothorax.
+     There are changes from prior coronary artery bypass. A single chamber
+     pacemaker is seen with a control unit overlying the left anterior chest. There
+     is cardiomegaly and perihilar opacity consistent with CHF. There is a small
+     left pleural effusion. No focal pneumonia is seen.
+     
+     IMPRESSION:
+     1) Right internal jugular Swan-Ganz catheter tip in the right main pulmonary
+     artery. No pneumothorax.
+     2) Worsening congestive heart failure.
+
+",,
+8790,27956,,,2707-09-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2707-9-11**]              Discharge Date:   [**2707-9-28**]
+ 
+Date of Birth:  [**2617-4-15**]             Sex:   M
+ 
+Service: MED
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 415**] 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+1.  transmetatarsal amputation of left foot
+2.  intubation
+3.  arterial line
+4.  successful initiation of hemodialysis
+
+ 
+History of Present Illness:
+HPI: [**Age over 90 **] year old male with dry gangrene of 1st and 2nd left toe, 
+AF,
+HTN, CRI, PVD s/p recent admission for a left popliteal bypass 
+on
+[**2707-9-5**] whose course was complicated by MSSA from toe culture 
+who
+presented to the ED on [**2707-9-11**] with sepsis.  The patient's 
+initial
+hospital visit, on [**9-5**], was complicated by acute renal failure, 
+with
+creatinine to 6.0 following an angiography with a contrast load. 
+ The
+patient was seen by renal who advised hemodialysis, but based on
+family wishes the patient was discharged home.
+
+On [**9-11**], the patient presented to the ED with a two day history 
+of
+SOB, worsening renal failure, and hyperkalemia. Upon exam, he 
+was
+found to be hypothermic to the mid 95's and hypotensive with 
+pressures
+between 80-90/50s.  His lactate level was 5.7.  The MUST 
+protocol was
+initiated and the patient was intubated secondary to concerns 
+that he
+was tiring and sent to the MICU.
+
+ 
+Past Medical History:
+PMH: 
+1. Coronary artery disease.
+2. Aortic valve replacment w/ porcine valve
+3. Chronic renal insufficiency
+4. Anemia
+5. HTN
+6. History of Prostate Cancer
+7. History of pacemaker for tachybrady syndrome
+8. History of porcine aortic valve placement in [**2697**]
+9. History of AF
+
+PSH: Patient is s/p AAA repair, s/p TURP, s/p aortic valve 
+replacement and
+s/p pacemaker placement.
+ 
+Social History:
+SH: Married, lives in assisted living with wife.  [**First Name5 (NamePattern1) **] 
+[**Known patient lastname 12233**]
+([**Telephone/Fax (1) 12234**] is his son and the health care proxy.  Has one 
+other son.
+EtOH and smoking history unknown, but does not currently smoke 
+or drink.
+
+ 
+Family History:
+Unknown
+ 
+Physical Exam:
+T95.2 BP95/50 HR71 RR34 OS92%3L 
+GEN - MOD RESP DISTRESS. ALERT.
+HEENT - MMM.
+RESP - CTAB.
+CV - NO JVD. RRR. NL S1/S2. NO MGR 
+ABD - S/NT/ND. POS BS. 
+EXT - NECROTIC LEFT 1ST-2ND TOES AND COOL, MOTTLED EXTREMITIES.
+NEURO - A&OX3. 
+ 
+Pertinent Results:
+[**2707-9-11**] 07:15PM BLOOD WBC-25.1*# RBC-3.15* Hgb-9.9* Hct-32.1* 
+MCV-102* MCH-31.4 MCHC-30.8* RDW-15.0 Plt Ct-372#
+[**2707-9-11**] 11:11PM BLOOD WBC-19.9* RBC-2.43* Hgb-7.8* Hct-24.1* 
+MCV-99* MCH-32.2* MCHC-32.4 RDW-15.1 Plt Ct-267
+[**2707-9-11**] 07:15PM BLOOD Neuts-93.9* Bands-0 Lymphs-3.6* Monos-2.2 
+Eos-0.2 Baso-0.1
+[**2707-9-12**] 02:50AM BLOOD Neuts-95.7* Bands-0 Lymphs-1.6* 
+Monos-1.7* Eos-0.2 Baso-0.1
+[**2707-9-11**] 07:15PM BLOOD PT-87.5* PTT-56.6* INR(PT)-48.2
+[**2707-9-11**] 07:15PM BLOOD Plt Smr-NORMAL Plt Ct-372#
+[**2707-9-10**] 05:35AM BLOOD Glucose-82 UreaN-93* Creat-6.3* Na-138 
+K-3.9 Cl-98 HCO3-19* AnGap-25*
+[**2707-9-11**] 07:15PM BLOOD Glucose-99 UreaN-109* Creat-7.6*# Na-137 
+K-5.4* Cl-96 HCO3-10* AnGap-36*
+[**2707-9-11**] 07:15PM BLOOD ALT-1 AST-7 AlkPhos-9* Amylase-52
+[**2707-9-11**] 11:11PM BLOOD ALT-3 AST-55* LD(LDH)-294* CK(CPK)-947* 
+AlkPhos-223* Amylase-62 TotBili-1.0
+[**2707-9-10**] 05:35AM BLOOD Calcium-8.6 Phos-7.2* Mg-2.1
+[**2707-9-11**] 07:15PM BLOOD Albumin-2.8* Calcium-9.0 Phos-11.3*# 
+Mg-2.8*
+[**2707-9-12**] 04:50PM BLOOD Cortsol-32.9*
+[**2707-9-11**] 07:15PM BLOOD RedHold-HOLD
+[**2707-9-12**] 01:00AM BLOOD GreenHd-HOLD
+[**2707-9-11**] 08:06PM BLOOD Type-ART pO2-329* pCO2-20* pH-7.26* 
+calHCO3-9* Base XS--15
+[**2707-9-11**] 09:25PM BLOOD Type-ART Rates-/14 PEEP-5 O2-100 pO2-431* 
+pCO2-33* pH-7.15* calHCO3-12* Base XS--16 AADO2-261 REQ O2-50 
+Intubat-INTUBATED Vent-CONTROLLED
+[**2707-9-11**] 07:18PM BLOOD Lactate-5.2* K-5.8*
+[**2707-9-11**] 09:25PM BLOOD Lactate-3.4* Na-132* K-4.4
+[**2707-9-11**] 11:13PM BLOOD Hgb-7.6* calcHCT-23 O2 Sat-70
+[**2707-9-12**] 04:23AM BLOOD O2 Sat-61
+[**2707-9-12**] 08:37AM BLOOD freeCa-0.97*
+ 
+Brief Hospital Course:
+Brief hospital course, by issue:
+
+1.  Sepsis/fungemia
+
+In the MICU, the patient was placed on broad spectrum sepsis 
+coverage
+with ceftriaxone, vancomycin, and flagyl.  He was also started 
+on
+pressors.  Blood cultures subsequently grew out budding yeast 
+that was
+further confirmed to be [**Female First Name (un) **] albicans.  The patient was 
+originally
+placed on ambisone and was subsequently switched to fluconazole. 
+ The
+Flagyl was discontinued secondary to negative anerobic cultures. 
+ The
+patient's toe cultures subsequently grew out resistant proteus 
+and
+MSSA.
+
+The patient was weaned from pressors on [**2707-9-14**] and a left
+transmetatarsal amputation was performed on [**2707-9-16**] to remove 
+the
+gangrenous source of his infection. The patient was extubated on 
+[**9-17**]
+without difficulty.
+
+Of note, the TTE performed on [**9-16**] demonstrated echogenicity on 
+the
+right atrial pacer wire that was consistent with either thrombus 
+or
+vegetation.  ID was consulted, and they felt that the optimal
+treatment is to remove the pacer. However, EP predicts 10 to 15
+percent mortality from such procedure.  The patient is therefore
+instead be committed to medical therapy per ID.
+
+In addition, hemodialysis was initiated on [**9-13**], and a 
+hemodialysis
+catheter was placed on [**2707-9-18**].  The patient was subsequently
+transferred to the floor on an antibiotic regimen of oxacillin,
+ceftriaxone, and fluconazole.  Blood cultures from [**9-13**] were 
+returned as negative, so the patient's ceftriaxone and oxacillin 
+were stopped on [**9-20**].
+
+2.  GI bleed
+On [**9-21**], the patient had multiple episodes of melena and 
+vomiting of bright red blood.  He was found to have a 
+supertherapeutic PTT level (>100) so his heparin was stopped and 
+he was transferred to the MICU to be stabilized.  Following a 
+brief course in the MICU the patient returned to the floor on 
+[**9-23**].
+
+A subsequent upper endoscopy revealed signs of gastritis and 
+duodenal inflammation, but no focal ulcers.  The patient was 
+restarted on coumadin to begin anticoagulation for treatment of 
+AF on [**9-24**].
+
+3.  Infectious disease
+A UCx from [**9-19**] grew [**Last Name (LF) **], [**First Name3 (LF) **] the patient was started on 
+linezolid treatment.  Two subsequent urine cultures had no 
+growth, so linezolid was stopped.  The patient also had signs of 
+erythema and possible infection around the site of his 
+amputation on his foot.  As such, he was started on a 14 day 
+course of Zosyn beginning on [**9-23**].  The patient has negative 
+blood cultures, but the decision has been made to continue him 
+on lifelong fluconazole treatment for candidemia, as his 
+pacemaker with the vegetation on it cannot be removed.  A PICC 
+line was placed on [**2707-9-26**] for long term antibiotic treatment.
+
+Medical issues upon discharge:
+
+#1: ID: The patient was found to have [**Female First Name (un) **] albicans via blood 
+cultures, and has been started on flucanazole.  Based on the 
+negative margins on his amputated foot, his oxacillin and 
+ceftriaxone were discontinued.  He had a subsequent increase in 
+his WBC that was most likely caused by a UTI that was cultured 
+to grow VRE.  He was subsequently treated with linezolid, and a 
+f/u UCx from [**9-23**] was negative for bacterial growth, and the 
+linezolid was d/c on [**9-27**].  The patient was also started on IV 
+Zosyn on 10/15 per vascular's recommendation secondary to 
+infection of his wound site.  He had a PICC line placed on [**9-26**] 
+for IV access, and will be d/c on IV Zosyn and fluconazole.
+
+#2: Renal Faliure:  The patient had a temporary femoral dialysis 
+catheter placed.  Renal followed him throughout his stay and 
+manged his hemodialysis.  A tunnel catheter for dialysis was 
+placed on [**9-23**].  His PhoLo was d/c because the patient could 
+not swallow the pills.  He received HD on the day of discharge 
+and is scheduled for subseqent HD as an outpatient on [**10-1**].
+
+#3: Coagulopathy/anemia:  The patient had several episodes of 
+bleeding that led to multiple transfusions and treatment with 
+EPO along with his dialysis. He is currently on coumadin for 
+anticogulation and will be monitored via INR, with goal of 2-3. 
+
+#4: Mitral regurgitation:  Patient was started on Metoprolol 
+25mg BID and captopril 6.25mg TID to decrease afterload 
+pressures on the heart and reduce regurgitation. 
+
+#5: PVD:  S/p left metatarsal amputation on [**9-16**].  Path results 
+demonstrate complete resection of infected material.  Wound 
+appears slightly infected but improving, will finish 10 day IV 
+Zosyn therapy per vascular rec.
+
+#6: AF: Will continue anticoagulation as described above. 
+
+#7: FEN:  Patient assessed by speech and swallow and determined 
+that he could begin a thin liquid/puree���d solids diet, and we 
+started oral feeds and medicines without incident. 
+
+#8: Mental status:  Throughout the course of his stay on the 
+floor, the patient had notable improvements in his mental 
+status. He has baseline dementia and short term memory loss, but 
+the somulence and disorientation that were first apparent have 
+largely resolved, and the patient is close to baseline according 
+to his son. In the two days prior to discharge, the patient 
+began to exhibit increased agitation and mild delirium that was 
+most likely secondary to sundowning complicated by underlying 
+dementia and infection. 
+
+Problem #9: Visual Changes:  Patient reports seeing bugs 
+crawling on surfaces.  We are not sure if these are actual bugs 
+or secondary to visual pathology. Ophthalmology has been 
+consulted and ruled out fungal uveitis on [**9-16**] visit.  
+Hallucinations did not persist and were not followed further per 
+optho rec.
+
+ 
+Medications on Admission:
+- lasix 40 mg qday
+- atenolol 25 mg qday
+- aspirin 325 mg qday
+- coumadin 5 mg qhs
+- percocet prn
+- oxacillin 2g IV q 6 hrs
+- colace 100 mg bid
+- epogen 4000 SL q Mon/Wed/Fri
+- Tums 500 mg tid
+- MVI
+- sevelamer 1600 tid
+- calcitriol 0.25 mg qday
+- pantoprazole 40 mg qday
+
+ 
+Discharge Medications:
+1. Calcium Acetate 667 mg Capsule Sig: Two (2) Tablet PO TID 
+W/MEALS (3 TIMES A DAY WITH MEALS).  
+2. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  PRN 
+(as needed) as needed for Groin rash.  
+3. Acetaminophen 325 mg Tablet Sig: One (1) Tablet PO Q6H (every 
+6 hours) as needed.  
+4. Olanzapine 2.5 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime) as needed for agitation.  
+5. Captopril 12.5 mg Tablet Sig: 0.5 Tablet PO TID (3 times a 
+day): Hold for systolic blood pressure < 100.  
+6. Lansoprazole 30 mg Capsule, Delayed Release(E.C.) Sig: One 
+(1) Capsule, Delayed Release(E.C.) PO QD (once a day).  
+7. Warfarin Sodium 2.5 mg Tablet Sig: One (1) Tablet PO QD (once 
+a day).  
+8. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO BID 
+(2 times a day): Hold for systolic blood pressure < 110 or heart 
+rate < 60. Tablet(s) 
+9. Fluconazole 200 mg Tablet Sig: One (1) Tablet PO once a day.  
+
+10. Piperacillin-Tazobactam 2-0.25 g Recon Soln Sig: One (1) 
+Recon Soln Intravenous  Q8H (every 8 hours) for 10 days.  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+1.  sepsis
+2.  candidemia
+3.  thrombus versus fungal vegetation on pacer wire
+4.  end stage renal disease
+5.  atrial fibrillation
+6.  peripheral vascular disease
+7.  GI bleed
+8.  dementia
+
+ 
+Discharge Condition:
+Stable
+ 
+Discharge Instructions:
+1.  Please take all of your medications as they are prescribed 
+to [**Doctor First Name **].
+2.  Please keep your follow-up appointments as they are outlined 
+below.  
+3.  If [**Doctor First Name **] have fevers, chills, lightheadedness, low blood 
+pressure, chest pain, difficulty breathing, nasea, vomiting, 
+abdominal pain, or worsening of redness or drainage from your 
+surgical incisions, please call your physician or return to the 
+Emergency Room.
+ 
+Followup Instructions:
+1.  Please follow-up with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **].  Please call to 
+make an appointment upon discharge.  Mr. [**Known patient lastname 12233**] should be 
+seen by Dr. [**Last Name (STitle) **] within the next two weeks.  [**First Name5 (NamePattern1) 10360**] [**Known patient lastname 12233**] 
+(son) is aware to call Dr. [**Last Name (STitle) **] on Monday morning to set up an 
+appointment.
+([**Telephone/Fax (1) 12235**]
+2.  [**Doctor First Name 10**] have an appointment with Dr. [**First Name4 (NamePattern1) 70**] [**Last Name (NamePattern1) 93**] from 
+vascular surgery on Wednesday, [**10-9**] at 1:00 pm.  It is 
+important for [**Doctor First Name **] to have Dr. [**Last Name (STitle) 93**] examine your incisions 
+and your ulcers to make sure there is no infection.
+3.  Your next hemodialysis appointment is on Tuesday, [**2707-10-1**] 
+at 1pm at hemodialysis center in [**University/College **].
+
+ 
+                             [**Name6 (MD) **] [**Last Name (NamePattern4) 425**] MD [**MD Number 426**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1800**] MD [**MD Number 1801**] [**2707-9-28**] @ 1134
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Doctor Last Name **]
+ on: SAT [**2707-10-5**] 2:25 PM
+(End of Report)
+
+
+",,
+8790,27956,,,2707-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-11**] 8:52 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10607**]
+     Reason:   [**Age over 90 **] year old man with                   s/p intubation resp
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man with                   s/p intubation resp distress         
+      s/p L IJ                                 
+     REASON FOR THIS EXAMINATION:
+        [**Age over 90 **] year old man with                   s/p intubation resp distress         
+      s/p L IJ                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **]-year-old with CHF, intubated.  Assess left IJ placement.
+     
+     PORTABLE SUPINE FRONTAL RADIOGRAPH:  Comparison is made to one hour prior.
+     There has been interval placement of a left IJ central venous catheter with
+     its tip terminating in the distal SVC.  No pneumothorax is identified on the
+     supine radiograph.  An NG tube has also been placed whose tip is off the edge
+     of the film, but likely within the distal stomach or proximal duodenum.  CHF
+     is unchanged from one hour prior.
+     
+     IMPRESSION:  Satisfactory position of left IJ central venous catheter.  No
+     pneumothorax.
+
+",,
+8790,27956,,,2707-09-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-11**] 8:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10606**]
+     Reason:  [**Age over 90 **] year old man with                   s/p intubation resp 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with                   s/p intubation resp distress            
+                                   
+     REASON FOR THIS EXAMINATION:
+       [**Age over 90 **] year old man with                   s/p intubation resp distress            
+                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intubated for respiratory distress.  COMPARISON:  [**2707-9-5**].
+     
+     CHEST, SINGLE AP VIEW:  ET tube is approximately 2 cm above the carina.  A
+     left-sided pacemaker device contains a single lead, the tip of which overlays
+     the region of the right ventricle.  Sternal wires and mediastinal clips with
+     aortic valve replacement are present.  The hilar contours remain prominent,
+     but pulmonary vascular congestion has decreased in the interval.  There are no
+     infiltrates.  No pneumothorax.  Probable right small pleural effusion.
+     
+     IMPRESSION:  ET tube 2 cm above the carina.  Improved CHF.
+
+",,
+8790,27956,10930,,2707-09-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-12**] 12:22 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10608**]
+     Reason: R/O INFILTRATE
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Infiltrate rule out.
+     
+     COMPARISON:  [**2707-9-11**].
+     
+     FINDINGS:  A single portable AP view of the chest shows no significant
+     interval change in pulmonary vascular congestion or cardiomegaly. Endotracheal
+     tube, Swan-Ganz catheter and single ventricular lead of permanent pacemaker
+     remain in place.
+     
+     IMPRESSION:  No significant interval change.
+
+",,
+8790,27956,10930,0,2707-09-12 06:30:00 EST,2707-09-12 07:04:00 EST,2762,"N",69,"Nursing/Other","MICU-NPN","
+MICU-NPN
+Pt. transferred from the EW on Sepsis protocol. Transferred from OSH where he was admitted for CP/hyperkalemia and worsening renal failure. Pt's recently s/p Left popliteal bypass graft on [**2707-9-5**]. He is currently living in NH with his wife. 
+NEURO: Pt. sedated on fentanyl and versed. Does grimace with movement/turning. Does not follow commands, localizes pain. Pt. does have baseline dementia. 
+CV: Temp 94.5ax, bear hugger on, temp up to 98.0po. HR 70's V paced with no ectopy noted, SBP 70's-100's. Pt. continues on Levophed, titrated to MAP of 60. SVO2 52-89, Dobutamine started for SVO2 50's, then up into the 80's. Titrate Dobutamine for SVO2 of 70. HCT 22, 2UPRBC's given. Needs post transfusion HCT. INR initially 48 upon admission where he received FFP and VIT K in ER which was also repeated here. INR now 7.0. Lactate 2.0. Pt. is on sepsis protocol and labs drawn as per protocol . 
+RESP: Remains intubated on CMV/650x14/.40/5peep, multiple vent changes made over noc, see carevue for data. LS diminished, suctioned for mod. amt's of thick yellow sputum. Initial PH 7.15, received bicarb bolus and PH into the 7.50's, gtt dc'd.
+GI: Abdomen soft and non-distended, hypo BS, no stool noted. OGT put to LWS and had >1L of bilious fluid out, heme positive and PH [**4-19**]. 
+GU: Minimal UOP, 10cc/hr. Plan is to start CVVHD today. 
+ENDO: FBS into the 200's, insulin gtt started 
+",,
+8790,27956,10930,0,2707-09-12 15:30:00 EST,2707-09-12 15:49:00 EST,2291,"N",69,"Nursing/Other","FOCUS; NURSING PROGRESS NOTE","
+FOCUS; NURSING PROGRESS NOTE
+[**Age over 90 **] YEAR OLD MALE ON SEPSIS PROTOCOL. INTUBATED ON PRESSORS. 
+REVIEW OF SYSTEMS-
+NEURO- HE WAS SEDATED THIS AM ON 20MCGS FENTANYL AND 1.5MG VERSED. ON THIS HE AROUSED TO TACTILE STIMULATION. WITHDREW TO PAINFUL STIMULI. PEARL. MAE. HE DID BECOME AGGITATED THIS AFTERNOON. THROWING COVERS OFF AND ATTEMPTING TO SIT UP. FENTANYL DRIP INCREASED TO 30MCGS/HR AND VERSED TO 2MG/HR. ON THIS DOSE HE CONTINUES TO RESPOND TO TACTILE STIMULATION BUT IS CALM WHILE LYING IN BED. 
+RESP- REMAINS INTUBATED AND VENTED. ON 40% FIO2/ TV 650 RATE OF 14 BREATHING 14 AND 5 PEEP. ON THIS ABG 7.39/29/191/18. HE HAS BEEN SUCTIONED FOR SCANT TO SMALL AMOUNTS OF THICK YELLOW TO WHITE SPUTUM. BS CLEAR DIMINISHED AT THE BASES. 
+CARDIAC- HR HAS BEEN 70 V PACED WITH RARE PVC'S THIS AFTERNOON. K WAS 3.5 AND WAS TREATED WITH 20MEQ KCL WITH RESOLUTION OF PVC. IONIZED CA THIS AM .97 TREATED WITH 2 AMPS CA GLUCONATE. HIS MAP HAS BEEN KEPT AT 60 TITRATING LEVO TO THIS. LEVO HAS RANGED FROM .125MCGS/KG/MIN TO .086 WHICH HE IS PRESENTLY ON. CVP HAS BEEN [**11-26**]. HIS DOBUTAMINE HAS BEEN WEANED TO OFF WITH SVO2 OF 75-83%.
+GI- ABD SOFT WITH HYPOACTIVE BS. OGT TO LCS DRAINING BILIOUS FLUID. PH 4 GASTRO NEG. REMAINS NPO AT PRESENT. 
+GU/RENAL- UO 8-12CC/HR. CREAT DOWN TO 6.5 FROM 6.7 THIS AM. BUN UP TO 100 . RENAL BY AND IS HOLDING OFF ON DIALYSIS FOR TODAY. THEY WILL REASSESS IN AM. 
+ID- WBC 20 THIS AM. STARTED ON OXACILLIN. VANCO DC'D AND CONT ON CEFTRIAXONE AND FLAGYL. MRSA SURVEILLANCE CULT DONE. LEFT TOES CULT. TEMP UP TO 98.4. BAIR HUGGER DC'D. 
+SKIN- RIGHT GREAT TOE AND 2ND AND 3RD NECROTIC IN APPEARANCE. FOUL ODOR FROM TOES. DSD APPLIED. DR [**Last Name (STitle) **] IN AND STATED HE WOULD NEED TMA WHEN MEDICALLY STABLE. HAS INCISION FROM LEFT GROIN TO ANKLE THAT HAS STAPLES INTACT. LOWER ASPECT ECCYMOTIC. UPPER ASPECT WITH SEROUS DRAINAGE SMALL AMOUNT.   HAS PURPLISH AREA 8CM BY 8CM ON RIGHT HEEL. HEEL KEPT OFF BED BY PLACING PILLOW UNDER RIGHT LEG. HAS DUODERM ON COCCYX THAT IS INTACT. HAS SKIN TEAR ON RIGHT MID ARM. 
+ENDO- WAS ON INSULIN DRIP THIS AM UP TO 3U. INSULIN DRIP PRESENTLY OFF. BS 80-90 RANGE AT PRESENT. TO HAVE [**Last Name (un) **] STIM TEST PREFORMED WHEN MED UP ON UNIT. 
+SOCIAL- TWO SONS AND TO VISIT. THEY HAVE BEEN UPDATED BY THIS NURSE AND THE RESIDENT THAT WAS ON LAST NIGHT. THEY STAYED AROUND 1/2 HOUR THIS AM. THEY CALLED LATER IN DAY FOR AN UPDATE.  
+DISPO- REMAINS IN THE MICU A FULL CODE. 
+",,
+8790,27956,10930,0,2707-09-12 16:14:00 EST,2707-09-12 16:16:00 EST,2291,"N",69,"Nursing/Other","FOCUS; ADDENDUM","
+FOCUS; ADDENDUM
+HEME- HCT UP TO 28.1 AFTER 2 U PRBC HE RECEIVED LAST PM. DR [**Last Name (STitle) 6170**] MADE AWARE. INR DOWN TO 4.5. 5MG SC VIATMIN K GIVEN. 
+PROPHYLAXIS- ON PANTOPRAZOLE. VENODYME ORDERED FOR RIGHT LEG. NO MACHINE HAS ARRIVED AS OF YET. 
+",,
+8790,27956,10930,0,2707-09-12 16:20:00 EST,2707-09-12 16:27:00 EST,5241,"N",69,"Nursing/Other",,"
+
+Resp Care
+[**Age over 90 276**] y/o M admitted from ER with Hx of HTN, CHF, s/p fem [**Doctor Last Name **] bypass and was intubated due to increased resp distress. Pt remains on A/C with no changes made t/o shift (please see careview for specifics). BS essentially clear sxing for small to mod amts of thick white secretions. Pt oxygenating well on 40%. Will cont to monitor and assess for readiness to wean.
+",,
+8790,27956,10930,,2707-09-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-13**] 5:21 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10609**]
+     Reason: assess for possible infiltrate, pneumonia, focal process    
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old man s/p intubation for resp distress, with necrotic toes and 
+      possible sepsis.                                 
+     REASON FOR THIS EXAMINATION:
+      assess for possible infiltrate, pneumonia, focal process                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Respiratory distress.  Evaluate for pneumonia.
+     
+     COMPARISON:  [**2707-9-12**]
+     
+     FINDINGS: Single portable AP view of the chest shows mild cardiomegaly with
+     perihilar haziness and peribronchial cuffing, suggesting cardiac failure.
+     There is left lower lobe atelectasis and small left pleural effusion.  Lines
+     and tubes remain in place.
+     
+     IMPRESSION:  Cardiac failure without significant interval change.
+
+",,
+8790,27956,10930,,2707-09-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-13**] 11:33 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10610**]
+     Reason: Right IJ placement                                          
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           [**Age over 90 **] year old man s/p intubation for resp distress, with necrotic toes and 
+      sepsis with new RIJ                                 
+     REASON FOR THIS EXAMINATION:
+      Right IJ placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Right IJ placement.
+     
+     PORTABLE CHEST: Comparison is made to film from earlier the same day. The
+     previously noted ETT, NG tube, cardiac pacer wire and left central venous
+     catheter all remain in satisfactory position. There is a new right IJ central
+     line, which has its tip in the SVC. There is no evidence of pneumothorax on
+     this supine film.
+     
+     CHF persists without significant change. Note, however, that there is some
+     improved aeration in the left base.
+     
+     IMPRESSION: 1) New right IJ catheter tip in SVC; no pneumothorax.
+     2) No change CHF.
+     3) Improved aeration left base.
+
+",,
+8790,27956,10930,0,2707-09-13 03:58:00 EST,2707-09-13 04:29:00 EST,2762,"N",69,"Nursing/Other","MICU-NPN","
+MICU-NPN
+NEURO: Pt. remains sedated on fentanyl and versed gtt's, appears comfortable but easily arousable. Does not follow commands, localizes to pain. PERLA 2mm/brisk.
+CV: Temo 97-97.8po, HR Vpaced @ 70 with occ. PVC's noted. SBP 100-120. Pt. remains on Levophed, pt. is very sensitive to this as he dropped his SBP into the low 80's when gtt was shut off briefly. Pt. received 1UPRBC's for hct 27, post HCT was 30. Goal to keep HCT >30. Will send T&CM with am labs. CVP 10. SVO2 70's-90's, recalibrated, MD's aware of SVO2 in the 90's but are questioning the accuracy.
+RESP: Remains intubated on AC/650x14/.40/5PEEP, no vent changes made over noc. See carevue for ABG's. LS [**Last Name (un) **], diminished @ bases. Suctioned for small amt's of thick, tan secretions. Sat's 95-100%.
+GI:Abdomen soft and non-distended, hypo BS, OGT initially to LWCS drng bilious drng, tube feeds started @ 10cc/hr with minimal residuals noted. No stool over noc.
+GU: UOP 25-70cc/hr. Foley cath intact drng cloudy, yellow urine.
+ENDO: Covered by RISS.
+ID: Continues on ceftriaxone, oxacillian, flagyl. 
+Plan is to reassess this am as to whether CVVHD will be initiated.
+",,
+8790,27956,10930,0,2707-09-13 14:36:00 EST,2707-09-13 14:37:00 EST,1994,"N",69,"Nursing/Other",,"
+
+Resp. care note - Pt. remaines intubated and vented, no vent changes made at this time.
+",,
+8790,27956,10930,0,2707-09-13 15:09:00 EST,2707-09-13 15:26:00 EST,2291,"N",69,"Nursing/Other","FOCUS; NURSING PROGRESS NTOE","
+FOCUS; NURSING PROGRESS NTOE
+REVIEW OF SYSTEMS-
+NEURO- HE WAS SEDATED ON 30MCGS/HR FENATNYL AND 1.5 MG/HR VERSED THIS AM. THIS HAS BEEN WEANED THROUGH THE DAY TO 10MCGS/HR OF FENTANYL AND .5MG/HR OF VERSED. ON THIS HE AROUSES TO STIMULI. PEARL. HE MOVES ALL EXTREMITIES. SAFETY DEVICES ON WRISTS TO PREVENT HIM FROM PULLING AT TUBES OR LINES. 
+RESP- REMAINS INTUBATED ON 40% FIO2/ TV 650/ RATE OF 14 BREATHING 14. 5 PEEP. ON THIS ABG 7.44/27/97/19. PLAN WAS TO WEAN TO CPAP BUTR NOW IS TO HAVE A TEE SO WILL HOLD OFF TILL AFTER TEE DONE. BS CLEAR. SUCTIONED FOR SCANT AMOUNTS THICK TAN SPUTUM. 
+CARDIAC- HR 70'S V PACED WITHOUT ECTOPI. MAP MAINTAINED AT 60 WITH LEVO. ABLE TO WEAN LEVO THIS AM DOWN TO .02MCGS/KG/MIN. WITH HD TODAY HAD TO INCREASE LEVO TO .046MCGS/KG/MIN. HIS IONIZED CA THIS AM WAS 1.01 TREATED WITH 2 AMPS CA GLUCONATE. HIS PEDAL PULSES ARE PALP WITH A DOPPLER. 
+GI- ABD SOFT WITH POS BS. WAS ON PROMOTE FS THAT WAS ADVANCED TO 20CC/HR WITH GOAL RATE OF 30CC/HR. RESIDUALS MODERATE 60-80CC. TF PRESENTLY ON HOLD AND CONTENTS OF ABDOMEN SUCTIONED OUT WITH 60CC SYRINGE IN PREPERATION FOR TEE. NO STOOL TODAY. 
+GU-RENAL- UO 15-50CC/HR. RIGHT FEM DIALYSIS CATHETER PLACED. SITE WITHOUT BLEEDING OR HEMATOMA FORTMATION. RECEIVING HD FOR 2 HOURS TODAY WHICH STARTED AT 1520. NO FLUID IS BEING REMOVED TODAY. HIS NEXT HD WILL BE TOMMORROW. DR [**Last Name (STitle) 6171**] RECEIVED CONSENT FROM PATIENT'S SON FOR DIALYSIS CATHETER. 
+HEME- HCT STABLE AT 30.1 THIS AM. INR 3.6. RECEIVED 2 U FFP PRIOR TO DIALYSIS CATHETER PLACEMENT. ALSO RECEIVED VITAMIN K TODAY. 
+ENDO- BS BEING TREATED WITH SS INSULIN. BS AT NOON 168. STEROIDS DC'D TODAY S/P RESULTS OF [**Last Name (un) **] STIM. TEST. 
+ID- TEMP MAX 97.7 THIS AM. WBC UP TO 26 FROM 20 YESTERDAY. 1 BC FROM [**9-11**] GROWING BUDDING YEAST. TEE TO BE DONE TODAY TO R/O VEGITATION. 2 SETS OF BC INCLUDING FUNGAL CULT SENT TODAY. 
+SOCIAL- 1 SON CALLED TODAY AND WAS UPDATED BY THIS NURSE. [**First Name (Titles) **] [**Last Name (Titles) 5228**] IN TO VISIT AND WAS UPDATED BY THIS NURSE AND DR [**Last Name (STitle) 6171**]. HIS QUESTIONS WER ANSWERED. WIFE CALLED AND WAS UPDATED BY THIS NURSE. SON WISHES THAT HIS MOTHER NOT BE TOLD THAT THE PATIENT IS INTUBATED AS THIS WOULD DISTRESS HER. SHE IS 86 AND SOON TO START HD HERSELF. WIFE WAS TOLD PATIENT WAS SEDATED AND ON MEDICINE TO KEEP HER BP UP. SON WILL BRING HIS MOTHER IN TO VISIT ONCE PATIENT IS EXTUBATED. 
+PLAN- REPEAT HD TREATMENT TOMMORROW. 
+      TEE HOPEFULLY TODAY. 
+      CONT TO WEAN LEVO ONCE OFF HD. 
+      ? CHANGE TO CPAP LATER TODAY.  
+",,
+8790,27956,10930,0,2707-09-13 16:29:00 EST,2707-09-13 16:31:00 EST,2291,"N",69,"Nursing/Other","FOCUS; ADDENDUM","
+FOCUS; ADDENDUM
+GI- TEE UNABLE TO BE DONE TODAY. TO START TF RECOMMENDED BY NUTRITION. FS NEPRO WITH STARTING RATE OF 10ML/HR. INCREASE RATE BY 10ML/HR Q 6 HOURS TO GOAL RATE OF 25ML/HR. ONCE AT GOAL RATE ADD 30GMS PROMOD QD. CHECK RESIDUALS Q 4 HOURS. HOLD > OR = TO 150ML. 
+HEME- PT/PTT TO BE RECHECKED AT 2000 TONIGHT.  
+",,
+8790,27956,10930,,2707-09-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-14**] 3:26 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 10611**]
+     Reason: eval for volvulus, obstruction, ileus.                      
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with sepsis, toe necrosis s/p L [**Hospital Unit Name 609**]-PT, now intubated with NGT 
+      brown/black aspirates and high residuals. 
+     REASON FOR THIS EXAMINATION:
+      eval for volvulus, obstruction, ileus.                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Brown-black residual on NG tube aspirate.
+     
+     PORTABLE CHEST: There are no prior studies for comparison. The tip of the NG
+     tube projects over the right midabdomen medially, and is presumably in the
+     antrum or duodenal bulb. There are very extensive vascular calcifications,
+     particularly in the pelvis. There is a paucity of bowel gas overall, with
+     small amount of air in what is probably large bowel. No dilated large or small
+     bowel loops are identified. Note that the margins of normal structures of the
+     abdomen are not well delineated, of uncertain significance. Free air cannot be
+     excluded on a single supine film.
+     
+     IMPRESSION: Nonspecific nonobstructive bowel gas pattern as described.
+
+",,
+8790,27956,10930,0,2707-09-14 03:33:00 EST,2707-09-14 04:01:00 EST,2815,"N",69,"Nursing/Other","Nursing Process Note: 1900-0700","
+Nursing Process Note: 1900-0700
+Uneventful shift; all lines changed secondary to + bld cx showing budding yeast.  Started Ambisome IV. 
+
+NEURO: Sedated on Versed and Fentanyl gtts. Responsive to tactile stim. Not opening eyes and not following commands. Moving upper extrems slightly; soft, bilat wrist restraints to maintain integrity of lines. Pupils 2mm/bsk. 
+
+RESP: Continues on A/C 650X14/5/40%. Reflective ABG: 7.51/127/97 with Lactate = 2.0. LS cta with minimal sputum with suctioning. Cough intact. 
+
+C/V: Continues on Levo titrating to maintain MAP > 60. ABP very responsive to titration ranging 90s-120s.  Gtt currently at 0.012mcg/kg/min. HR AV paced set at 70, no ectopy. CVPs 5-8. Next HD scheduled for Sat. AM labs pnd.
+
+GI/GU: TF Nepro advanced to 20cc/hr with residuals 70-90. Can add Promode when goal of 25cc reached. Abdomen soft, hypoactive sounds. Med BM reported previous shift but rectal bag inactive as of 0500. 
+Foley patent for variable output ranging 15-100cc/hr.
+
+ID: Started Ambisome IV this shift. Temp low at 95 AX.
+
+ACCESS: Pre [**Last Name (un) 1120**] cath d/c'd and replaced with left quad lumen IJ; bleeding occured at site but has since clotted. Left radial Aline replaced by Right radial Aline. Right HD fem line intact. 
+
+SKIN: Staples at left medial leg intact with mod amt of serosang drainage. Necrotic toes at left foot. Duoderm at coccyx. 
+
+SOCIAL: Son [**Name (NI) **] called for update; given by RN. Son stating he can be reached at the followin number: [**Telephone/Fax (1) 6172**] for any changes.  He especially requests being notified when extubated and when able to recognize family members. 
+
+PLAN: HD Sat
+      Continue to wean Levo as tolerated
+      Monitor temp
+      
+",,
+8790,27956,10930,0,2707-09-14 15:39:00 EST,2707-09-14 15:40:00 EST,1994,"N",69,"Nursing/Other",,"
+
+Resp. care note - Pt. remaines intubated and vented, weaned to PSV, tol ok at this time.
+",,
+8790,27956,10930,0,2707-09-14 15:53:00 EST,2707-09-14 16:32:00 EST,5918,"N",69,"Nursing/Other","NPN 7A-7P","
+NPN 7A-7P
+Significant Events: Transitioned to PSV today, tolerated well. 1kg. fluid removed during HD today, well tolerated. Suspicious (thick/brown) gastric contents from OG tube. ? volvulus vs. impaction.
+
+Neuro: Pt remains sedated on small amounts of Versed and Fentanyl. Responding to tactile stimulation and occasionally voice. Not following commands. Perrl 2mm/bsk. Pt has baseline dementia. 
+
+Resp: Vent changes made today at noonish well tolerated. MMV 650/8-11/5 with PS 12. LS with exp. wheeze in upper lobes, and diminished at bases. Sxned for THICK BROWN secretions Q 4 hrs. PT. with weak cough. Sats 98-100%.
+ 
+CV: Off Levo since 9am. ABP 110-128/40-50. AV paced, no ectopy. CVP 5-8. Pulses by doppler. HD completed at 17:00- 1KG removed. 
+
+GI: Nepro tube feed with high residual even when down to 10cc/hr. ~300cc of thick brown residuals to low sxn. Abd soft and distended, with hypoactive BS. Team made aware of residuals thus TF held, Reglan started, and KUB done results pending. Fecal incontinence bag in place with minimal golden stool/ drainage. Gastroccult negative.
+
+GU/Endo: Foley in place to gravity. minimal u/o throughout day in setting of chronic renal insufficiency. 5-15cc/hr. Repleted K+ of 3.2 with 40meq. FS have not needed coverage thus far.  
+
+Skin: Two left necroctic toes, plan to amputate on Monday. Staples in left medial leg intact with minimal serosanguinous drainage. Douderm intact to coccyx. Small skin tears throughout extremeties.
+
+ID: All lines changed today (overnoc) secondary to fungemia. Ambisone started [**9-13**]. PRE [**Last Name (un) **] CATHETER pulled with minimal bleeding thereafter.  Also, PIV d/c'd as unnecessary.
+
+Access: Left quad IJ WNL. Left Radial A-line WNL.
+
+Plan/Social: Amputation Monday will remain intubated until procedure completed. Cont on PSV overnoc as tolerated. Maintain off Levophed as tol., f/u with bowel/ high residual issues. Spoke with son [**Name (NI) **] twice today (can be reached at ([**Telephone/Fax (1) 6173**]. FULL CODE.
+[**First Name4 (NamePattern1) 3720**] [**Last Name (NamePattern1) **], RN
+",,
+8790,27956,10930,0,2707-09-15 04:08:00 EST,2707-09-15 04:10:00 EST,1942,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Pt remains intubated and vewntilated on mmv/psv overnight. Breath sounds are clear but has required suctioning for moderate amounts of thick tan sputum. RSBI = 45.
+",,
+8790,27956,10930,0,2707-09-15 04:48:00 EST,2707-09-15 05:19:00 EST,2762,"N",69,"Nursing/Other","MICU-NPN","
+MICU-NPN
+NEURO: Pt. arouses to stimulation, moves upper extremities. PERRL 2mm/brisk. Remains sedated on Fentanyl and versed. 
+CV: afebrile, HR 70's, Vpaced,SBP 130-140's Occ PVC's noted. CVP 7-8. Hct 27.5
+RESp: LS coarse. diminished @bases. Pt. initially on CPAP&PS but having periods of apnea. Changed to MMV 600x10/.40/5PEEP. Sat's 100%. Am ABG 7.44/36/200/25  Suctioned for mod amt's of thick, brown secretions. 
+GI: Abdomen soft and distended, hypo BS. TF on hold d/t high residuals and ? of aspiration. OGT to LWIS with brown drng.
+GU: Had HD today, 1L removed. UOP 10-15cc/hr. 
+ID: WBC 18.3, continues on flagyl, ceftriaxone, ambisome, oxacillin. 
+ENDO: RISS, no coverage needed t/onoc.
+SKIN: sutures intact on left leg, serosang drng, OTA.
+ACCESS: all lines have bee changed except dialysis chateter. 
+",,
+8790,27956,10930,0,2707-09-15 14:29:00 EST,2707-09-15 14:30:00 EST,1994,"N",69,"Nursing/Other",,"
+
+Resp. care note - Pt. remaines intubated and vented, no vent changes made at this time.
+",,
+8790,27956,10930,0,2707-09-15 15:50:00 EST,2707-09-15 16:35:00 EST,5918,"N",69,"Nursing/Other","NPN 7A-7P","
+NPN 7A-7P
+Sig event: Sedation increased as self extubation attempted.(not successful)Pt made NPO as prep for toe amputation tomorrow. Since not tolerating TF X2 days TPN initiated. Ambisome dc'd changed to Fluconazole d/t speciation identified.    
+
+Nuero: Pt required increase in sedation to 20mcg/hr of Fentanyl, & 1.0mg/hr of Versed as self extubation attempted.(CV well tolerated)Occasionally requires boluses for increased environment stimuli. Still arouses to tactile stimulation. Moves upper extremities. Perrl 2mm/bsk.
+
+Resp: LS clear in upper and diminished in bases. Sxn Q 4/hr for scant amounts of thick, brown secretions. Vent PS 12, .600/.40/Peep 5. Sats 100%. Last gas (15:00)7.41/37/149/24
+
+CV: HR 70's. Vpaced. SBP 120-130's/45-55. Rare PVC's. CVP 8. pre-op EKG scheduled for tonight. ASA held d/t motility/ stooling issues. HD was planned for tomorrow, however in light of OR probably will be postponed. TEE & Echo also planned for tomorrow. Electrolytes repleted this am.
+
+GI: NPO as to OR tomorrow for amputation. TF dc'd in setting of high residuals. Moderate loose BM overnight, mushroom cath in place. only ~25cc stool out today. OGT to LWIS w/ clear drainage. Continue bowel regimen.
+
+GU/Endo: Foley in place to gravity. u/o10-15cc/hr, yellow w/ sediment. No insulin required today, continue to monitor since TPN started. Lytes WNL except Ca+ of 8.3, not ionized however. 
+
+Skin: Left leg with medial staples intact due to s/p popliteal b/pg. Skin tear on left leg with Aquaphor and Kerlex in place. Small serosanguinous drainage. Douderm to coccyx in tact. Penis with crusty, yellow lesions, cleaned and Nystatin applied...continue to watch.
+
+ID: Afebrile. Remains on Flagyl, Ceftriaxone, Oxacillin, and today Ambisome changed to Fluconazole. 
+
+Plan/Social: Plan is to go to OR tomorrow for amputation, w/ Pre-op Echo,Tee, and HD probably postponed. Spoke with wife today, informed of status and answered questions. 
+[**First Name4 (NamePattern1) 3720**] [**Last Name (NamePattern1) **], RN
+
+",,
+8790,27956,10930,,2707-09-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-16**] 4:27 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10612**]
+     Reason: pre-operative cxr                                           
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man s/p intubation for resp distress, with necrotic toes and  
+      sepsis                         
+     REASON FOR THIS EXAMINATION:
+      pre-operative cxr                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Respiratory failure.  Sepsis and necrotic toes.  Preoperative
+     chest x-ray for toe amputation.
+     
+     COMPARISON;  [**2707-9-13**] at 23:40 hours and at 05:30 hours.
+     
+     SUPINE PORTABLE AP CHEST: The endotracheal tube, right internal jugular line,
+     and nasogastric tube are unchanged in position. The left internal jugular line
+     has been removed. Mild cardiomegaly is noted. Previously noted CHF is probably
+     not significantly changed, allowing for differences in patient
+     positioning. The left lateral costophrenic angle is excluded from examination.
+     There is no pneumothorax.
+     
+     IMPRESSION: Congestive failure, not significantly changed from [**2707-9-13**].
+
+",,
+8790,27956,10930,0,2707-09-16 04:03:00 EST,2707-09-16 04:05:00 EST,1942,"N",69,"Nursing/Other",,"
+
+Respiratory Care
+Pt remains intubated and ventilated on MMV with 12 pressure support 40% +5peep. Minute ventilation 6-8 liters. Breath sounds fairly clear although suctioned for small amounts of thick tan sputum. RSBI = 52.
+",,
+8790,27956,10930,0,2707-09-16 05:40:00 EST,2707-09-16 05:49:00 EST,2762,"N",69,"Nursing/Other","MICU-NPN","
+MICU-NPN
+NEURO: Pt. remains sedated on fentanyl and versed. responds to stimuli, opens eyes and localizes. PERRL 2mm/brisk.
+CV: afebrile, HR 70's Vpaced, occ. PVC's noted. SBP 90's-120's
+RESP: no vent changes made over noc, remains on MMV/600x10/5PEEP, 12PS
+see carevue for ABG's. LS clear, diminished @ bases. Suctioned for small amt of thick tan secretions.
+GI: Abd. soft and non-distended, hypo BS. OGT to LWCS drng bilious/clear drng. NPO for planned surgery this am.
+GU: UOP 5-60cc/hr, ? HD today (last on Saturday)
+ENDO: covered via RISS.
+Surgery is scheduled for 11am with a planned TEE prior to this.
+",,
+8790,27956,10930,0,2707-09-16 16:37:00 EST,2707-09-16 16:39:00 EST,1625,"N",69,"Nursing/Other",,"
+
+resp care
+remains ett/vent support. presently in MMV mode. backup Ve is 6 lpm. pt's spont settings ps 12/5/40%. s/p O.R. now receiving dialysis. sxning sm amts secretions. pt on MMV, occas gets backup assistance. will evaluate for wean when able to lighten sedation. 
+",,
+8790,27956,10930,0,2707-09-16 16:47:00 EST,2707-09-16 17:11:00 EST,2056,"N",69,"Nursing/Other","NPN-MICU","
+NPN-MICU
+Mr.[**Known patient lastname 6174**] has had a busy day and tol it well.
+Resp:pt cont on his MMV mode and has sm amts of secretion. He is intermittently breathing on own. Post-op he was slow to wake but as of 6pm his RR is up to 12 with good TV at this stage. He is post HD and they took 1 L off. ? wean sedatives to extubate later.
+Skin;pt went to OR at 11am, he tol procedure well, good pulses, dsg still intact. He isn't following commands so no mvmt noted.left leg sutes intact sl red, sm amt of drainage.
+CV: his BP has been btw 110-140/50's, he cont in a PMR of 70.TEE done ? sm amt of veg vs thrombus on pacer wire per prelim. Cardiology to eval pacer wire.
+GU: HD done, tol well, 1L taken, line to be d/c'd, new one placed at next HD.
+GI: pt cont on TPN, min ngt aspirates noted, sm amt of stool, hct done to 25 but repeat 27, will cont to follow for now.BS controlled for now.
+Neuro:pt cont on fentanyl and versed, min amts. He has rsp to name but not folowing commands,
+ID:afebrile on IVAB, lactate down
+A/P:Will eval for extubation once off sedatives,asses for comfort, pulm toilet as needed.
+    Cont to check for pulses, note dsg for increased bleeding
+    Await cardiology, ID and opthomology consults.
+    Cont TPN and cover BS, note stool amts
+    Watch for bleeding once HD line is out
+    follow labs and support hct with blood during HD if able.
+
+",,
+8790,27956,10930,0,2707-09-17 05:12:00 EST,2707-09-17 05:15:00 EST,2999,"N",69,"Nursing/Other",,"
+
+Pt continues on PSV/Cpap at 5/5 on 40% O2. Oxygenation and ventilationa re good, RSBI is ~ 25. Plan is to place pt on SBT at 0630 and likely extubate on rounds. Sx is for small amts, although this has been thick tan.
+",,
+8790,27956,10930,0,2707-09-17 05:30:00 EST,2707-09-17 05:47:00 EST,2804,"N",69,"Nursing/Other",,"
+
+NEURO; PT. HAS BEEN SEDATED ON BOTH FENTANYL AND VERSED. BOTH HAVE BEEN MINIMAL DOSES, REFER TO CAREVUE. VERSED HAS BEEN OFF THIS AM IN PREPARATION TO EXTUBATE PT. THIS AM. PT. OPENS EYE TO VOICE BUT DOES NOT FOLLOW COMMANDS AT THIS TIME. PT. IS NOTED TO MAE'S, AND REMAINS AFEBRILE AT THIS TIME. 
+
+CV; PT. REMAINS V PACED 70, WITH RARE PVC NOTED. B/P HAS REMAINED WNL WITH NO NEED FOR INTERVENTION. CVP HAS BEEN [**7-25**]. PULSES ARE DOPPLED WHICH IS UNCHANGED, LOWER EXT. ARE WARM TO TOUCH. AM LABS PENDING.
+
+RESP; PT. IS PRESENTLY ON A SPONTANEOUS BREATHING TRIAL AND IS TOLERATING THIS WELL. AM RSBI IS 25, AND AM ABG RESULTS REPORTED TO TEAM. LUNGS ARE CLEAR UPPER WHILE DIMINISHED FROM MID TO LOWER BASES. PT. SUCTIONED FOR SCANT AMT'S OF THICK TAN. RESP RATE HAS BEEN CONTROLLED.
+
+GU/GI; PT. HAS BEEN NPO WITH OGT VERIFIED PLACEMENT, AND CLAMPED AT THIS TIME. ABD. IS SLIGHTLY DISTENDED BUT BOWEL SOUND ARE AUDIBLE IN ALL QUADRANTS. SMALL AMT'S OF SEMI FORMED STOOL NOTED WHICH IS HEM POSITIVE, TEAM AWARE. FOLEY CATHETER IN PLACE AND DRAINING SMALL AMT'S OF DARK AMBER CONC. URINE. PT. RECEIVED HEMODIALYSIS YESTERDAY AND WILL RECEIVE NEXT TREATMENT ON WED. 
+
+SKIN; PT. HAS DRESSING TO LEFT FOOT WHICH EXHIBITS SMALL AMT. OD DRAINAGE. THIS HAS BEEN TRACED. PLAN TO OBSERVE FOR FURTHER BLEEDING. MULTIPLE AREA TO PERINEUM AREA INCLUDING PENIS, SCOTUM AND COCCYX EXHIBIT MINOR ABRASIONS. THESE ARE TREATED WITH NYSTATIN POWDER PER TEAM. PT. ALSO HAS MULTIPLE SKIN TEARS TO BOTH UPPER EXT'S. TEGEDERM INTACT.
+
+DISPO; PT. IS FOR POSSIBLE EXTUBATION THIS AM. PT. REMAINS A FULL CODE AND HAS TOLERATED HIS WEAN WELL. PT. IS ON CONTACT PRECAUTIONS FOR ANTIBOITIC RESISTANT INFECTION, REFER TO CAREVUE.
+",,
+8790,27956,10930,0,2707-09-17 09:17:00 EST,2707-09-17 09:41:00 EST,2460,"N",69,"Nursing/Other","Skin care note","
+Skin care note
+Patient noted to have multiple areas of skin breakdown. Duoderm removed from coccyx, has 2cm x 2cm area of redness, stage II breakdown healing. Area cleansed w/ NS, dried and new duoderm applied. Scrotum edematous and excoriated, Double Guard skin protectant applied after cleansing. 2in1 antifungal cream applied to anterior perineal folds. 
+Multipodus boot to R foot to protect large blister on heal. Has breakdown on posterior achiles (approx 2.5 cms x 1 cm) and small area (1cm x 1 cm) on medial malleolus. Areas cleansed and duoderm applied. There is a large area of redness on posterior calf, not open but edematous and skin is friable. This area covered w/ dry sterile and  boot reapplied. Will observe closely for further deterioration of the area.
+Staples intact to L leg popliteal bypass site. Dressing to L foot metatarsal amputation intact w/ bloody drainage. Will defer to vascular for L foot dressing recommendations at this time. 
+Tegaderm in place to skin tears on upper extremities.
+Plan: Pt on triple abx therapy for fungemia. Receiving TPN. Will order Kinair III bed for current skin management and high risk for further skin breakdown. 
+Will continue to follow.
+
+",,
+8790,27956,10930,0,2707-09-17 15:53:00 EST,2707-09-17 15:54:00 EST,1625,"N",69,"Nursing/Other",,"
+
+resp care
+pt successfully weaned and extubated to 50% face tent. rr 15-25,nonlabored. congested,fair at best cough. does not follow commands to [**Last Name (LF) **], [**First Name3 (LF) **] need nts. presently not needed. 
+",,
+8790,27956,10930,0,2707-09-17 17:48:00 EST,2707-09-17 18:02:00 EST,5714,"N",69,"Nursing/Other","Nursing progress note 0700-1900 hours:","
+Nursing progress note 0700-1900 hours:
+Neuro: pt6 still somewhat lethargic.  Versed gtt dc'd this and and fentanyl gtt off this afternoon.  Able to nod yes and no and starting to respond to questions with muffled answers at times.  Able to move all ext's.  Right pupil reactive and brisk and left pupil dilated-md aware of left pupil.  Able to follow simple commands but only with a lot of encouragement.
+
+Cardiac: Pt v-paced with some pvc's.  see Carevue for vs-hemodynamically stable.  Pt echo results from [**9-16**] reported to have mild thickening of tricuspid valve with questionable leakage and also with ? vegetation vs clot on pacer wire.  Cardiology to discuss with ID and micu b to decide intervention and whether wire lead might be changed vs needing open procedure.   HCT drift from 27-25.3-thought to be dilutional -small amt ooze via left foot today-seen by vascular- changed by nurse.no further bleeding: foot elevated high on pillows.  Doppler pulses to bil feet.
+
+REsP: Pt was on spot breathing trial this am on vent-abg adequate, rsbi adequate-pt waking up.  Extubated to face tent at approx 12noon-no stidor, bil breath sounds.  no resp distress, sats have been >95%.  Pt needs encouragement for coughing and deep breathing. 
+
+GI/GU:  Pt ordered to have swallow study done at bedside-bedside eval done-thought to be to sleepy still to perform safely-will recheck tomorrow.  Pt without peg/feed tube-dc'd during extubation-po meds held for now.  Hypoactive BS, tympanic.  Rectal cath removed-stool to thck to keep in; small amt thick stool with 1600 turn-hem negative. 
+Cont to get TPN at this time. Pt will have new dialysis cath placed at some point-removed yesterday-
+
+PSYCHOSOCIAL:  Family in to visit-asked multiple questions and updated by md and nurse.  Pt lives with spouse in nursing home.  Family supportive. 
+
+PLAN:  Discussion in regards to mode of treatment for possible vegetation vs clot and ? need for new pacemaker.  Cont current ordered abx per ID -? fungemia, proteus in wound.  COnt TPN to facilitate wound healing, current hemodynamic monitoring and med regimen.  To have repeat swallow to be done tomorrow if appropriate.
+
+Pt is full code.  Aline and tlc in place.  
+
+
+
+",,
+8790,27956,10930,0,2707-09-18 04:38:00 EST,2707-09-18 05:06:00 EST,6183,"N",69,"Nursing/Other","NURSING PROGRESS NOTE: 1900-0700","
+NURSING PROGRESS NOTE: 1900-0700
+Significant Events: none
+
+NEURO: pt lethargic.  Nods yes/no.  Garbled incomprehible language.  +MAE purposefully.  Follows commands.  Right pupil 2 slugglish.  Left pupil 4 nonresponsive. +cough.  Restraints removed, pt's behavorior safe.  Frequent monitoring, no demonstration of pulling at tubes and lines.
+
+CV:  Vpaced 70's.  BP 140's/50's.  Pulses dopplerable.  CVP 8-13.  Cardiology consulted- on echo [**9-16**], possible vegatation vs clot on pacer wire.  Right IJ TLC, All ports flushed and patent. CVP with crisp wavefore.  Right radial [**Doctor Last Name **] with crisp waveform, +diacrotic notch.  [**Doctor Last Name **] and cuff do not correlate.  T&C sent, H/H 26/8.2
+
+RESP: Pt on RA throughout night, sats >95%.  Awaiting am ABG results.  Breath sounds clear, diminished at bases.  Nonproductive strong cough. Encouraging cough, deep breathing exercises.
+
+GI:  Swallow study to be repeated today. PO meds held.  Bowel sounds present.  NO BM this shift.  TPN infusing.
+
+GU:  Foley draining amber cloudy/sediment urine, 10-30cc/hr.  Pt to be dialysed today.  Awaiting HD cath placement.
+
+PSYCHO:  Supportive family.  No calls or visitors this pm.
+
+ID:  WBC decreased to 13.7.  Cont antibx.
+
+ENDOCRINE:  RISS, no coverage needed throughout night
+
+MS: Numerous breakdown, skin tears, and bruising.  Left foot with drsg s/p metatarsal amputation, vascular in this am to do drsg [**Name5 (PTitle) **].  Sm sang drainage.  Sutures on foot, no s/s of infection.  Xeroform intact with DSD.  Left posterior with skin breakdown.  Xeroform intact with DSD.  Coccyx with 2cmX2cm stage II breakdown.  Duoderm intact.  Scrotal edema, excoriated, and slight bleeding.  Protective ointment and DSD applied.  Nystatin powder applied to groin reddened area.  Multi-podus boot intact to right leg with SCD.  Right heel reddened, nonblanching. Right post achilles with 2.5cmX1cm and Medial malleolus 1cmX1cm with duoderm intact.  Redness and stage II breakdown under right calf, DSD intact.  Staples on left leg, OTA and well-approx.  No s/s of infection.  Tegaderm to multiple skin tears on upper extremities.
+
+PRECAUTIONS:  Contact precautions for Proteus in wound and fungemia.
+
+***CODE STATUS:  Full code***
+
+PLAN:  Repeat swallow study today.  Awaiting HD cath for HD today.  F/u with cardio/ID/MICU team about tx of vegetatiob vs clot of pacer wire.  COnt. pulmonary toilet.  Cont. antibx.  Cont TPN.  
+",,
+8790,27956,10930,0,2707-09-18 17:12:00 EST,2707-09-18 17:24:00 EST,5714,"N",69,"Nursing/Other","Nursing progress note 0700-1800hours:","
+Nursing progress note 0700-1800hours:
+Neuro: pt is letharigc.  Utters mostly incomprehensible words, occasionally definitive yes and no's-has improved slightly throughout the day.  Pt has not been give any sedation since [**9-17**] but still to lethargic to pass swallow tes and or attempt PO.  Does not follow commands consistently.  Moves all exts on own and at times fidgety-md's questioned metroclopromide toxicity-dc'd today.  Pearl at 2mm.
+
+CARDIAC: v-paced with no ectopy. HR 70-'s -80's and SBP>110.  Pt reported to have ?vegetation vs clot to pacemaker lead-plan is for ABX treatment-then discussion by cardiology and ID as to whether pt should undergo pacemaker [**Doctor First Name 4**]-risks and benefits with family.  Pulses by doppler.  Ext's cool to touch. Started on heparin gtt, no bolus at 950u/hr-next ptt due at 9pm
+
+RESP-extubated on [**9-17**] -titrated to RA overnight-no resp difficulty.
+Fair cough. Lungs clear. 
+
+GI/GU-Pt not appropriate for swallow test yesterday and today-still to lethargic.  TPN cont as ordered.  Foley in place-15-30cc/hr clear yellow urine.  underwent dialysis today 1.5 l off without event.  ABD soft, slightly distended, Positive BS.  
+
+ID: pt on contact precautions for fungemia, proteus and MSSA in wound.  afebrile.  ID consulted to help make decision about pacemaker.
+
+SKIN: PLacing pt on kinair 3 bed-pt with mulitple skin issues-see carevue -
+
+PSYCHOSOCIAL:  Supportive family-updated on all plans.  
+
+
+PLAN: Report faxed to cc7-to call nurse to make sure all info received and to tx pt to floor. 
+
+  
+",,
+8790,27956,10930,0,2707-09-18 18:57:00 EST,2707-09-18 18:59:00 EST,6183,"N",69,"Nursing/Other","NURSING TRANSFER NOTE","
+NURSING TRANSFER NOTE
+Report given from previous RN to [**Name8 (MD) 6175**] RN.  D/ced [**Doctor Last Name **], pressure held for 10 minutes.  Tranferred pt to CC7.
+",,
+8790,27956,,,2707-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-19**] 1:06 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10613**]
+     Reason: Please eval for NGT position.                               
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man s/p extubation now s/p NG tube placement.                       
+     REASON FOR THIS EXAMINATION:
+      Please eval for NGT position.                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: NG tube placement.
+     
+     COMPARISON: [**2707-9-16**].
+     
+     FINDINGS: Single portable AP view of the chest shows an NG tube in good
+     position within the stomach. Bilateral pleural effusions are again seen. A
+     right sided IJ central venous line is seen. There are changes of AVR. For
+     technical reasons, the lung parenchyma cannot be evaluated on this exam.
+     
+     IMPRESSION: Satisfactory placement of nasogastric tube. Persistent bilateral
+     pleural effusions. The lung parenchyma cannot be assessed on this exam.
+
+",,
+8790,27956,,,2707-09-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-21**] 7:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10614**]
+     Reason: interval change in UGI bleed, coffee grounds                
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man s/p extubation now s/p NG tube placement, now w/ coffee 
+      grounds.                       
+     REASON FOR THIS EXAMINATION:
+      interval change in UGI bleed, coffee grounds                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INFORMATION:  Status-post NG tube placement for GI bleed.
+     
+     PORTABLE CHEST:  A single AP view of the chest was compared to a prior
+     examination dated [**2707-9-19**].
+     
+     The exam is limited due to technique.  The lung apices and left lateral thorax
+     are not included.  The patient is status-post median sterotomy.  A single lead
+     cardiac pacemaker pacer is visualized.  Its tip is difficult to visualize on
+     this examination, but likely overlys the region of the right ventricle.  There
+     is a nasogastric tube with its tip in the stomach.  A right-sided central
+     venous catheter is present with its tip at the junction of the SVC and right
+     atrium. Small bilateral effusions are suspected.  No definite focal
+     consolidations are appreciated on this examination.
+     
+     IMPRESSION
+     
+     1.  Limited examination.
+     2.  The nasogastric tube appears in place.
+     
+     A PA and lateral view of the chest is recommended for further evaluation for
+     pulmonary pathology. 
+
+",,
+8790,27956,10931,0,2707-09-21 03:58:00 EST,2707-09-21 04:39:00 EST,1197,"N",69,"Nursing/Other","MICU NSG ACCEPT NOTE:","
+MICU NSG ACCEPT NOTE:
+Pt. transferred from CC7 and arrived at 305am via ambulance. Pt. is [**Age over 90 **] y/o male with multiple medical problems including: PVD with transmetatarsal amputations on [**2707-9-16**], ESRD with HD M-W-F, AF, Espophagitis, sss with pacemaker placed, HTN, AAA repair. Originally admitted to [**Hospital1 22**] on [**9-5**] with gangrene of 1st and 2nd L toes, septic and put on abx. Vascular rec. amputation of toes. Received fem-[**Doctor Last Name **] bypass graft [**9-5**] and developed worsening renal disease. Pt. discharged to short term rehab. On 29th readmitted with SOB, hyperkalemia and intubated in ER for resp. failure. Admitted to MICU west. HD started. Blood cx grew out yeast and put on fluconazole and ampicillin for UTI. 10/4 L transmetatarsal amputations. TEE- vegatations on one of pacemaker wires. Long term abx vs removal of pacemaker chosen due to 10-15% mortality rate. Out of MICU on 7th. Last pm on flooor (CC7) pt. vomitted coffee ground emesis and had melena x2. Pt. had been on heparin for afib and vascular graft. NGT placed. Hct 25. Heparin d/c'd and GI called. BP stable throughout. Transferred to MICU east for planned EGD in am. Currently:
+NEURO: A&Ox2. Able to state name and that he is in ""the [**Hospital3 781**]"" but not able to state year or month etc. Appears mostly confused and only follows commands intermittently. Pulling at lines- sitter at bedside. Family requests pt. not be restrained. MAE x4 UE>LEs. LEs very painful for pt. with moving. 
+CV: Afeb. HR 90s-120s AF with occ. paced beats. BP stable. Skin cool and dry. Extremities cold to touch. Weak palpable pedal pulses to R foot but unable to palpate on L foot. Receiving one unit of PRBCs for low HCT. To draw full set of labs when blood finishes.
+RESP: On 6L FM with O2 sat difficult to obtain but when able reading 96-98%. LS clear on RUL and RLL and diminished LUL and LLL. No secretions. RR 12-30s. 
+GI/GU: Abd. soft with positive bowel sounds. Large melena stool on arrival. NGT intact and when placed to LWS drained 850cc of coffee ground emesis immediately. No complaints of nausea and no emesis. NPO. Pt. apparently anuric and no u/o noted. Does not have foley.
+SKIN: L foot wrapped in kerlex with vascular [**Doctor First Name 4**]. doing all dsg changes. L leg with healing incision from fem-[**Doctor Last Name **] bypass graft- some blackened areas, no drainage. Scrotum very excoritated with bleeding- triple cream applied. Buttocks excoriated - triple cream applied. Multiple skin tears to UEs with tegaderms covering. R IJ TLC line intact. R femoral hickman cath intact. 
+PLAN: Per renal will need HD today again and plan for tunnel catheter to be placed on Mon. 
+
+",,
+8790,27956,10931,0,2707-09-21 16:14:00 EST,2707-09-21 16:37:00 EST,761,"N",69,"Nursing/Other","Finard 4 ICU nursing progress note:","
+[**Hospital Ward Name **] 4 ICU nursing progress note:
+ GI: NG on LIS..brown liquid with large coffe grd flecks..lavaged with 400cc sterile h20 to almost clear..ng clamped..no further aspirates. No stool. Seen by gi..to follow tomorrow..no EGD today. Is npo
+Pt c/o being thirsty..given small amt of ice chips
+ GU/Renal: Dialyisis done this am..1kg taken off..Line pulled by renal fellow..??to IR on Monday for perma-cath. No urine output.
+ ID: Afebrile..given dose of fluconazole after hemodialyis. WBC elevated this am..
+ Neuro: Very confused..at times belligerent..attempting to pull out ng tube..o2 and ekg leads..Would become very angry with sitter when attempting to stop pt. Required wrist restraints for safety. Explained to family when they came in to vist..Agreed to have his hands restrained. Does not follow commands..not orientated to time and place..refused parts of care..ie mouth cleaning..turning..when staff insistant..complied. Knew who his son was.
+ Skin: Right lower leg still with DSD..slight oozing from upper thigh where staples are..serous. Excoriated coccyx area and scrotal area.
+ Respiratory: O2 sats high 90's..changed to 4l nc..rr 20's..no distress.
+ Social: Son and pt wife in to visit..given update
+
+",,
+8790,27956,10931,0,2707-09-22 04:28:00 EST,2707-09-22 04:38:00 EST,1197,"N",69,"Nursing/Other","MICU NPN:","
+MICU NPN:
+NEURO: Alert and oriented x1-2. Able to state name and that he is in the ""hospital"" but unable to give date or time. Follows commands intermittently. Pulling at NGT when unrestrained so restraints left on for protection of NGT and lines. Sitter also at bedside. Moving UEs >LEs. Pt. states he has pain in L foot with turning/repositioning. 
+CV: Afeb. HR 70s-100s AF with occasional paced beats. BP 90s-110s/30s-40s. Skin warm and dry with dopplerable pedal pulses. Received two units PRBCs overnight with last HCT 28.
+RESP: O2 2L via NC with O2 Sat 97-100%. LS CTA and diminshed at bases. RR 12-20s. Denies SOB. 
+GI/GU: Abd. soft with positive bowel sounds. Small amts of melena overnight with mushroom catheter placed with minimal stool output. NGT intact with total of 100cc coffee ground drainage overnight and clamped most of night. NPO. No urine output.
+SKIN: Staples to L leg intact with moderate amts of serous drainage from upper portion. L foot dsg intact and dry. Duoderm to coccyx intact. Barrier cream applied to various excoritated areas to scrotum and coccyx. 
+",,
+8790,27956,10931,0,2707-09-22 16:06:00 EST,2707-09-22 16:19:00 EST,761,"N",69,"Nursing/Other","Finard 4 ICU nursing progress note:","
+[**Hospital Ward Name **] 4 ICU nursing progress note:
+ GI: Pts ng lavaged this am..return was clear..has old brown stool via rectal tube. Has been NPO..PM HCT is 27.8. Has had no c/o discomfort. Pt pulled NG tube out..not replaced.
+ Cardiac: Remains in af..paced 70's most of day..cardiac meds not restarted at this time. bp 100-140/50-60
+ ID: Afebrile..no change in antibiotics
+ Renal: To get permenent dialysis catheter tomorrow..??to be transfered to the west campus. No urine output.
+ Neuro: Orientated..cooperative this am..by afternoon..became belligerant..demanding to get oob..had pulled ng tube. Needs wrist restraints..unable to reason with pt. ??some degree of paranoia..??use of haldol. Has not had a sitter today.
+ Skin: Vascular surgery took off left foot dsg..is dry..pink..sutures in place..to leave open to air. Higher up on leg has blackened areas and skin tears..covered with xeroform and kerlex (qd)..has serous drainage oozing from stapled sites. 
+ Social: Son [**Name (NI) 4147**] called   No visitors today.
+ Dispo: Pt will be transfered to west campus when bed available.
+ 
+ 
+",,
+8790,27956,,,2707-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-23**] 7:35 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10615**]
+     Reason: Pt needs tunneled catheter for hemodialysis                 
+     Admitting Diagnosis: CODE SEPISI
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 5268**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with candidemia s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 492**] course now w/ acute on chronic RF.     
+     REASON FOR THIS EXAMINATION:
+      Internal jugular tunneled dialysis catheter for hemodialysis                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  This is a [**Age over 90 **] year old man with end-stage renal disease.  Patient was
+     referred for a tunneled dialysis catheter.
+     
+     RADIOLOGISTS:  This procedure was performed by Drs. [**First Name (STitle) 4385**] [**Name (STitle) 42**] and [**First Name4 (NamePattern1) 58**]
+     [**Last Name (NamePattern1) 59**] and supervised by Dr. [**First Name8 (NamePattern2) 1560**] [**Name (STitle) 389**].  Dr. [**Last Name (STitle) 389**], the Attending
+     Radiologist, was present throughout the procedure.
+     
+     CONSENT:  After giving explanations of the benefits and risks of the
+     procedure, informed consent was obtained over the phone from the patient's
+     health proxy, his son [**First Name4 (NamePattern1) 10616**] [**Known patient lastname 10617**].
+     
+     PROCEDURE:  The patient was placed supine on the angiography table.  He
+     presented with a right-sided right IJ central venous line.  His neck and upper
+     chest were prepared in standard sterile fashion.  In order to use the right-
+     sided access for placement of the tunneled dialysis line, we initially went to
+     the left side to place a central venous line to make sure the patient has
+     access for medications.  Ultrasound was used to localize the left internal
+     jugular vein which presented patent and compressible.  Under ultrasonographic
+     guidance, the left internal jugular vein was accessed with a 21-gauge needle.
+     No hard copies of ultrasound images were obtained.  A 0.018 guide wire was
+     advanced through the needle into the superior vena cava under fluoroscopic
+     guidance.  The needle was removed over the wire and replaced by a 4.5-French
+     micropuncture sheath.  The wire was removed and replaced with a 0.035 [**Doctor Last Name **]
+     wire which was directed into the inferior vena cava.  The micropuncture sheath
+     was removed and the tract was dilated with a 6-French dilator.  A 7-French
+     triple-lumen central venous line was advanced over the wire into the superior
+     vena cava.  A final chest x-ray was obtained showing the tip to be located
+     into the right atrium.  The line was flushed and secured to the skin and a
+     dressing was applied.  Then we proceeded to the right side.  Local anesthesia
+     with 10 ml of 1% lidocaine was given to the anterior chest wall and to the
+     right neck at the entry site of the indwelling central venous line.  The
+     tunnel tract was burrowed under the skin with a blunt needle.  A 0.035 [**Doctor Last Name **]
+     wire was advanced through the central venous line into the superior vena cava.
+      The central line was removed over the wire and the tract was dilated with 12-
+     and 14-French dilators.  A 15-French peel-away sheath was inserted into the
+     superior vena cava and the tip of the tunneled line was advanced through the
+     peel-away sheath into the superior vena cava.  A final chest x-ray was
+     obtained and it demonstrated adequate position of the right-sided dialysis
+                                                                 (Over)
+
+     DATE: [**2707-9-23**] 7:35 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10615**]
+     Reason: Pt needs tunneled catheter for hemodialysis                 
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     catheter.  The catheter was flushed and secured to the skin.  A dressing was
+     applied.
+     
+     COMPLICATIONS:  There were no immediate complications.
+     
+     IMPRESSION:  Placement of a left-sided triple-lumen central venous line.
+     Placement of a right-sided tunneled dialysis catheter with tip into the SVC.
+     Both lines are ready for use.
+
+",,
+8790,27956,,,2707-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-23**] 10:45 AM
+     CHEST (SINGLE VIEW); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 10619**]
+     Reason: Please evaluate for infiltrate, effusion, edema             
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with leukocytosis                                              
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infiltrate, effusion, edema                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **] y/o man with leukocytosis, evaluate for infiltrate, effusion
+     or edema.
+     
+     COMPARISON:  [**2707-9-16**] and [**2707-9-21**]
+     
+     FINDINGS: An AP semi-upright chest radiograph demonstrates persistent
+     bilateral pleural effusions, interstitial opacities and cardiomegaly
+     consistent with persistent congestive heart failure.  There is also left
+     retrocardiac opacity and this could represent atelectasis however a developing
+     pneumonia cannot be excluded.  The nasogastric tube has been removed.  The
+     central venous line entering from the left has its tip in the SVC/right atrial
+     junction as does the right dialysis catheter.  The single lead pacer is
+     unchanged.  There are some calcications in the left upper quadrant.  These may
+     be due to a calcified splenic artery vs. pancreatic calcifications.
+     
+     IMPRESSION:
+     
+     1)  Persistent heart failure with effusions and pulmonary edema.
+     2)  Left retrocardiac density; while this may represent atelectasis an
+     underlying pneumonia can't be excluded.
+
+",,
+8790,27956,,,2707-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-23**] 7:35 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10615**]
+     Reason: Pt needs tunneled catheter for hemodialysis                 
+     Admitting Diagnosis: CODE SEPISI
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 5268**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with candidemia s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 492**] course now w/ acute on chronic RF.     
+     REASON FOR THIS EXAMINATION:
+      Internal jugular tunneled dialysis catheter for hemodialysis                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  This is a [**Age over 90 **] year old man with end-stage renal disease.  Patient was
+     referred for a tunneled dialysis catheter.
+     
+     RADIOLOGISTS:  This procedure was performed by Drs. [**First Name (STitle) 4385**] [**Name (STitle) 42**] and [**First Name4 (NamePattern1) 58**]
+     [**Last Name (NamePattern1) 59**] and supervised by Dr. [**First Name8 (NamePattern2) 1560**] [**Name (STitle) 389**].  Dr. [**Last Name (STitle) 389**], the Attending
+     Radiologist, was present throughout the procedure.
+     
+     CONSENT:  After giving explanations of the benefits and risks of the
+     procedure, informed consent was obtained over the phone from the patient's
+     health proxy, his son [**First Name4 (NamePattern1) 10616**] [**Known patient lastname 10617**].
+     
+     PROCEDURE:  The patient was placed supine on the angiography table.  He
+     presented with a right-sided right IJ central venous line.  His neck and upper
+     chest were prepared in standard sterile fashion.  In order to use the right-
+     sided access for placement of the tunneled dialysis line, we initially went to
+     the left side to place a central venous line to make sure the patient has
+     access for medications.  Ultrasound was used to localize the left internal
+     jugular vein which presented patent and compressible.  Under ultrasonographic
+     guidance, the left internal jugular vein was accessed with a 21-gauge needle.
+     No hard copies of ultrasound images were obtained.  A 0.018 guide wire was
+     advanced through the needle into the superior vena cava under fluoroscopic
+     guidance.  The needle was removed over the wire and replaced by a 4.5-French
+     micropuncture sheath.  The wire was removed and replaced with a 0.035 [**Doctor Last Name **]
+     wire which was directed into the inferior vena cava.  The micropuncture sheath
+     was removed and the tract was dilated with a 6-French dilator.  A 7-French
+     triple-lumen central venous line was advanced over the wire into the superior
+     vena cava.  A final chest x-ray was obtained showing the tip to be located
+     into the right atrium.  The line was flushed and secured to the skin and a
+     dressing was applied.  Then we proceeded to the right side.  Local anesthesia
+     with 10 ml of 1% lidocaine was given to the anterior chest wall and to the
+     right neck at the entry site of the indwelling central venous line.  The
+     tunnel tract was burrowed under the skin with a blunt needle.  A 0.035 [**Doctor Last Name **]
+     wire was advanced through the central venous line into the superior vena cava.
+      The central line was removed over the wire and the tract was dilated with 12-
+     and 14-French dilators.  A 15-French peel-away sheath was inserted into the
+     superior vena cava and the tip of the tunneled line was advanced through the
+     peel-away sheath into the superior vena cava.  A final chest x-ray was
+     obtained and it demonstrated adequate position of the right-sided dialysis
+                                                                 (Over)
+
+     DATE: [**2707-9-23**] 7:35 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10615**]
+     Reason: Pt needs tunneled catheter for hemodialysis                 
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     catheter.  The catheter was flushed and secured to the skin.  A dressing was
+     applied.
+     
+     COMPLICATIONS:  There were no immediate complications.
+     
+     IMPRESSION:  Placement of a left-sided triple-lumen central venous line.
+     Placement of a right-sided tunneled dialysis catheter with tip into the SVC.
+     Both lines are ready for use.
+
+",,
+8790,27956,,,2707-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-23**] 7:35 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10615**]
+     Reason: Pt needs tunneled catheter for hemodialysis                 
+     Admitting Diagnosis: CODE SEPISI
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 5268**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with candidemia s/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 492**] course now w/ acute on chronic RF.     
+     REASON FOR THIS EXAMINATION:
+      Internal jugular tunneled dialysis catheter for hemodialysis                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  This is a [**Age over 90 **] year old man with end-stage renal disease.  Patient was
+     referred for a tunneled dialysis catheter.
+     
+     RADIOLOGISTS:  This procedure was performed by Drs. [**First Name (STitle) 4385**] [**Name (STitle) 42**] and [**First Name4 (NamePattern1) 58**]
+     [**Last Name (NamePattern1) 59**] and supervised by Dr. [**First Name8 (NamePattern2) 1560**] [**Name (STitle) 389**].  Dr. [**Last Name (STitle) 389**], the Attending
+     Radiologist, was present throughout the procedure.
+     
+     CONSENT:  After giving explanations of the benefits and risks of the
+     procedure, informed consent was obtained over the phone from the patient's
+     health proxy, his son [**First Name4 (NamePattern1) 10616**] [**Known patient lastname 10617**].
+     
+     PROCEDURE:  The patient was placed supine on the angiography table.  He
+     presented with a right-sided right IJ central venous line.  His neck and upper
+     chest were prepared in standard sterile fashion.  In order to use the right-
+     sided access for placement of the tunneled dialysis line, we initially went to
+     the left side to place a central venous line to make sure the patient has
+     access for medications.  Ultrasound was used to localize the left internal
+     jugular vein which presented patent and compressible.  Under ultrasonographic
+     guidance, the left internal jugular vein was accessed with a 21-gauge needle.
+     No hard copies of ultrasound images were obtained.  A 0.018 guide wire was
+     advanced through the needle into the superior vena cava under fluoroscopic
+     guidance.  The needle was removed over the wire and replaced by a 4.5-French
+     micropuncture sheath.  The wire was removed and replaced with a 0.035 [**Doctor Last Name **]
+     wire which was directed into the inferior vena cava.  The micropuncture sheath
+     was removed and the tract was dilated with a 6-French dilator.  A 7-French
+     triple-lumen central venous line was advanced over the wire into the superior
+     vena cava.  A final chest x-ray was obtained showing the tip to be located
+     into the right atrium.  The line was flushed and secured to the skin and a
+     dressing was applied.  Then we proceeded to the right side.  Local anesthesia
+     with 10 ml of 1% lidocaine was given to the anterior chest wall and to the
+     right neck at the entry site of the indwelling central venous line.  The
+     tunnel tract was burrowed under the skin with a blunt needle.  A 0.035 [**Doctor Last Name **]
+     wire was advanced through the central venous line into the superior vena cava.
+      The central line was removed over the wire and the tract was dilated with 12-
+     and 14-French dilators.  A 15-French peel-away sheath was inserted into the
+     superior vena cava and the tip of the tunneled line was advanced through the
+     peel-away sheath into the superior vena cava.  A final chest x-ray was
+     obtained and it demonstrated adequate position of the right-sided dialysis
+                                                                 (Over)
+
+     DATE: [**2707-9-23**] 7:35 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10615**]
+     Reason: Pt needs tunneled catheter for hemodialysis                 
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     catheter.  The catheter was flushed and secured to the skin.  A dressing was
+     applied.
+     
+     COMPLICATIONS:  There were no immediate complications.
+     
+     IMPRESSION:  Placement of a left-sided triple-lumen central venous line.
+     Placement of a right-sided tunneled dialysis catheter with tip into the SVC.
+     Both lines are ready for use.
+
+",,
+8790,27956,,,2707-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-23**] 10:45 AM
+     CHEST (SINGLE VIEW); -59 DISTINCT PROCEDURAL SERVICE            Clip # [**Clip Number (Radiology) 10619**]
+     Reason: Please evaluate for infiltrate, effusion, edema             
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old man with leukocytosis                                              
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for infiltrate, effusion, edema                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  [**Age over 90 **] y/o man with leukocytosis, evaluate for infiltrate, effusion
+     or edema.
+     
+     COMPARISON:  [**2707-9-16**] and [**2707-9-21**]
+     
+     FINDINGS: An AP semi-upright chest radiograph demonstrates persistent
+     bilateral pleural effusions, interstitial opacities and cardiomegaly
+     consistent with persistent congestive heart failure.  There is also left
+     retrocardiac opacity and this could represent atelectasis however a developing
+     pneumonia cannot be excluded.  The nasogastric tube has been removed.  The
+     central venous line entering from the left has its tip in the SVC/right atrial
+     junction as does the right dialysis catheter.  The single lead pacer is
+     unchanged.  There are some calcications in the left upper quadrant.  These may
+     be due to a calcified splenic artery vs. pancreatic calcifications.
+     
+     IMPRESSION:
+     
+     1)  Persistent heart failure with effusions and pulmonary edema.
+     2)  Left retrocardiac density; while this may represent atelectasis an
+     underlying pneumonia can't be excluded.
+
+",,
+8790,27956,,,2707-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-23**] 10:22 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10618**]
+     Reason: NEEDS CENTRAL VENOUS ACCESS
+     Admitting Diagnosis: CODE SEPISI
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 5268**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1752 CATH,HEM/PERTI DIALYSIS SHORT                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with chronic renal failure, needs iv access and a tunneled
+      dialysis catheter
+     REASON FOR THIS EXAMINATION:
+      Needs dialysis catheter placement and a central venous access
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  This is a [**Age over 90 **] year old man with end-stage renal disease.  Patient was
+     referred for a tunneled dialysis catheter.
+     
+     RADIOLOGISTS:  This procedure was performed by Drs. [**First Name (STitle) 4385**] [**Name (STitle) 42**] and [**First Name4 (NamePattern1) 58**]
+     [**Last Name (NamePattern1) 59**] and supervised by Dr. [**First Name8 (NamePattern2) 1560**] [**Name (STitle) 389**].  Dr. [**Last Name (STitle) 389**], the Attending
+     Radiologist, was present throughout the procedure.
+     
+     CONSENT:  After giving explanations of the benefits and risks of the
+     procedure, informed consent was obtained over the phone from the patient's
+     health proxy, his son [**First Name4 (NamePattern1) 10616**] [**Known patient lastname 10617**].
+     
+     PROCEDURE:  The patient was placed supine on the angiography table.  He
+     presented with a right-sided right IJ central venous line.  His neck and upper
+     chest were prepared in standard sterile fashion.  In order to use the right-
+     sided access for placement of the tunneled dialysis line, we initially went to
+     the left side to place a central venous line to make sure the patient has
+     access for medications.  Ultrasound was used to localize the left internal
+     jugular vein which presented patent and compressible.  Under ultrasonographic
+     guidance, the left internal jugular vein was accessed with a 21-gauge needle.
+     No hard copies of ultrasound images were obtained.  A 0.018 guide wire was
+     advanced through the needle into the superior vena cava under fluoroscopic
+     guidance.  The needle was removed over the wire and replaced by a 4.5-French
+     micropuncture sheath.  The wire was removed and replaced with a 0.035 [**Doctor Last Name **]
+     wire which was directed into the inferior vena cava.  The micropuncture sheath
+     was removed and the tract was dilated with a 6-French dilator.  A 7-French
+     triple-lumen central venous line was advanced over the wire into the superior
+     vena cava.  A final chest x-ray was obtained showing the tip to be located
+     into the right atrium.  The line was flushed and secured to the skin and a
+     dressing was applied.  Then we proceeded to the right side.  Local anesthesia
+     with 10 ml of 1% lidocaine was given to the anterior chest wall and to the
+     right neck at the entry site of the indwelling central venous line.  The
+     tunnel tract was burrowed under the skin with a blunt needle.  A 0.035 [**Doctor Last Name **]
+     wire was advanced through the central venous line into the superior vena cava.
+     The central line was removed over the wire and the tract was dilated with 12-
+     and 14-French dilators.  A 15-French peel-away sheath was inserted into the
+     superior vena cava and the tip of the tunneled line was advanced through the
+     peel-away sheath into the superior vena cava.  A final chest x-ray was
+                                                                 (Over)
+
+     DATE: [**2707-9-23**] 10:22 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10618**]
+     Reason: NEEDS CENTRAL VENOUS ACCESS
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     obtained and it demonstrated adequate position of the right-sided dialysis
+     catheter.  The catheter was flushed and secured to the skin.  A dressing was
+     applied.
+     
+     COMPLICATIONS:  There were no immediate complications.
+     
+     IMPRESSION:  Placement of a left-sided triple-lumen central venous line.
+     Placement of a right-sided tunneled dialysis catheter with tip into the SVC.
+     Both lines are ready for use.
+
+",,
+8790,27956,,,2707-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-23**] 10:22 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10618**]
+     Reason: NEEDS CENTRAL VENOUS ACCESS
+     Admitting Diagnosis: CODE SEPISI
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 5268**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1752 CATH,HEM/PERTI DIALYSIS SHORT                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with chronic renal failure, needs iv access and a tunneled
+      dialysis catheter
+     REASON FOR THIS EXAMINATION:
+      Needs dialysis catheter placement and a central venous access
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  This is a [**Age over 90 **] year old man with end-stage renal disease.  Patient was
+     referred for a tunneled dialysis catheter.
+     
+     RADIOLOGISTS:  This procedure was performed by Drs. [**First Name (STitle) 4385**] [**Name (STitle) 42**] and [**First Name4 (NamePattern1) 58**]
+     [**Last Name (NamePattern1) 59**] and supervised by Dr. [**First Name8 (NamePattern2) 1560**] [**Name (STitle) 389**].  Dr. [**Last Name (STitle) 389**], the Attending
+     Radiologist, was present throughout the procedure.
+     
+     CONSENT:  After giving explanations of the benefits and risks of the
+     procedure, informed consent was obtained over the phone from the patient's
+     health proxy, his son [**First Name4 (NamePattern1) 10616**] [**Known patient lastname 10617**].
+     
+     PROCEDURE:  The patient was placed supine on the angiography table.  He
+     presented with a right-sided right IJ central venous line.  His neck and upper
+     chest were prepared in standard sterile fashion.  In order to use the right-
+     sided access for placement of the tunneled dialysis line, we initially went to
+     the left side to place a central venous line to make sure the patient has
+     access for medications.  Ultrasound was used to localize the left internal
+     jugular vein which presented patent and compressible.  Under ultrasonographic
+     guidance, the left internal jugular vein was accessed with a 21-gauge needle.
+     No hard copies of ultrasound images were obtained.  A 0.018 guide wire was
+     advanced through the needle into the superior vena cava under fluoroscopic
+     guidance.  The needle was removed over the wire and replaced by a 4.5-French
+     micropuncture sheath.  The wire was removed and replaced with a 0.035 [**Doctor Last Name **]
+     wire which was directed into the inferior vena cava.  The micropuncture sheath
+     was removed and the tract was dilated with a 6-French dilator.  A 7-French
+     triple-lumen central venous line was advanced over the wire into the superior
+     vena cava.  A final chest x-ray was obtained showing the tip to be located
+     into the right atrium.  The line was flushed and secured to the skin and a
+     dressing was applied.  Then we proceeded to the right side.  Local anesthesia
+     with 10 ml of 1% lidocaine was given to the anterior chest wall and to the
+     right neck at the entry site of the indwelling central venous line.  The
+     tunnel tract was burrowed under the skin with a blunt needle.  A 0.035 [**Doctor Last Name **]
+     wire was advanced through the central venous line into the superior vena cava.
+     The central line was removed over the wire and the tract was dilated with 12-
+     and 14-French dilators.  A 15-French peel-away sheath was inserted into the
+     superior vena cava and the tip of the tunneled line was advanced through the
+     peel-away sheath into the superior vena cava.  A final chest x-ray was
+                                                                 (Over)
+
+     DATE: [**2707-9-23**] 10:22 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10618**]
+     Reason: NEEDS CENTRAL VENOUS ACCESS
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     obtained and it demonstrated adequate position of the right-sided dialysis
+     catheter.  The catheter was flushed and secured to the skin.  A dressing was
+     applied.
+     
+     COMPLICATIONS:  There were no immediate complications.
+     
+     IMPRESSION:  Placement of a left-sided triple-lumen central venous line.
+     Placement of a right-sided tunneled dialysis catheter with tip into the SVC.
+     Both lines are ready for use.
+
+",,
+8790,27956,,,2707-09-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-23**] 10:22 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10618**]
+     Reason: NEEDS CENTRAL VENOUS ACCESS
+     Admitting Diagnosis: CODE SEPISI
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 5268**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1752 CATH,HEM/PERTI DIALYSIS SHORT                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with chronic renal failure, needs iv access and a tunneled
+      dialysis catheter
+     REASON FOR THIS EXAMINATION:
+      Needs dialysis catheter placement and a central venous access
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  This is a [**Age over 90 **] year old man with end-stage renal disease.  Patient was
+     referred for a tunneled dialysis catheter.
+     
+     RADIOLOGISTS:  This procedure was performed by Drs. [**First Name (STitle) 4385**] [**Name (STitle) 42**] and [**First Name4 (NamePattern1) 58**]
+     [**Last Name (NamePattern1) 59**] and supervised by Dr. [**First Name8 (NamePattern2) 1560**] [**Name (STitle) 389**].  Dr. [**Last Name (STitle) 389**], the Attending
+     Radiologist, was present throughout the procedure.
+     
+     CONSENT:  After giving explanations of the benefits and risks of the
+     procedure, informed consent was obtained over the phone from the patient's
+     health proxy, his son [**First Name4 (NamePattern1) 10616**] [**Known patient lastname 10617**].
+     
+     PROCEDURE:  The patient was placed supine on the angiography table.  He
+     presented with a right-sided right IJ central venous line.  His neck and upper
+     chest were prepared in standard sterile fashion.  In order to use the right-
+     sided access for placement of the tunneled dialysis line, we initially went to
+     the left side to place a central venous line to make sure the patient has
+     access for medications.  Ultrasound was used to localize the left internal
+     jugular vein which presented patent and compressible.  Under ultrasonographic
+     guidance, the left internal jugular vein was accessed with a 21-gauge needle.
+     No hard copies of ultrasound images were obtained.  A 0.018 guide wire was
+     advanced through the needle into the superior vena cava under fluoroscopic
+     guidance.  The needle was removed over the wire and replaced by a 4.5-French
+     micropuncture sheath.  The wire was removed and replaced with a 0.035 [**Doctor Last Name **]
+     wire which was directed into the inferior vena cava.  The micropuncture sheath
+     was removed and the tract was dilated with a 6-French dilator.  A 7-French
+     triple-lumen central venous line was advanced over the wire into the superior
+     vena cava.  A final chest x-ray was obtained showing the tip to be located
+     into the right atrium.  The line was flushed and secured to the skin and a
+     dressing was applied.  Then we proceeded to the right side.  Local anesthesia
+     with 10 ml of 1% lidocaine was given to the anterior chest wall and to the
+     right neck at the entry site of the indwelling central venous line.  The
+     tunnel tract was burrowed under the skin with a blunt needle.  A 0.035 [**Doctor Last Name **]
+     wire was advanced through the central venous line into the superior vena cava.
+     The central line was removed over the wire and the tract was dilated with 12-
+     and 14-French dilators.  A 15-French peel-away sheath was inserted into the
+     superior vena cava and the tip of the tunneled line was advanced through the
+     peel-away sheath into the superior vena cava.  A final chest x-ray was
+                                                                 (Over)
+
+     DATE: [**2707-9-23**] 10:22 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10618**]
+     Reason: NEEDS CENTRAL VENOUS ACCESS
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     obtained and it demonstrated adequate position of the right-sided dialysis
+     catheter.  The catheter was flushed and secured to the skin.  A dressing was
+     applied.
+     
+     COMPLICATIONS:  There were no immediate complications.
+     
+     IMPRESSION:  Placement of a left-sided triple-lumen central venous line.
+     Placement of a right-sided tunneled dialysis catheter with tip into the SVC.
+     Both lines are ready for use.
+
+",,
+8790,27956,,,2707-09-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-26**] 7:43 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10620**]
+     Reason: Please place line.                                          
+     Admitting Diagnosis: CODE SEPISI
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O PORT                  79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with candidemia, upper GI bleed needs access for long-term IV 
+      antibiotics.
+     REASON FOR THIS EXAMINATION:
+      Please place line.                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Candidymia requiring long-term intravenous antibiotics.  Please
+     place PICC line.  Intravenous therapy nursing was unable to advance a PICC
+     line.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**First Name4 (NamePattern1) 58**] [**Last Name (NamePattern1) 59**], and [**Doctor First Name 4385**]
+     [**Doctor Last Name 42**], and Dr. [**First Name8 (NamePattern2) 1560**] [**Name (STitle) 389**],  Dr. [**Last Name (STitle) 389**], the Attending Radiologist, was
+     present and supervising throughout the procedure.  The left upper arm was
+     prepped in a sterile fashion.  Since no suitable superficial veins were
+     visible, ultrasound was used for localization of a suitable vein.  The basilic
+     vein was patent and compressible.  After local anesthesia with 2 mls of 1%
+     Lidocaine, the basilic vein was entered under ultrasonographic guidance with a
+     21-gauge needle.  No hardcopy of ultrasound images was obtained.  A 0.018
+     guidewire was advanced under fluoroscopy into the superior vena cava.  Based
+     on the markers on the guidewire it was determined that a length of 45 cm would
+     be suitable.  The PICC line was trimmed to length and advanced over a 4-French
+     introducer sheath under fluoroscopic guidance into the superior vena cava. The
+     sheath was removed.  The catheter was flushed.  A final chest x-ray was
+     obtained.  The film demonstrates the tip to be in the superior vena cava, just
+     above the atrium.  A statlock was applied and the line was heplocked.  The
+     line is ready for use.
+     
+     IMPRESSION:  Successful placement of a 45 cm total length PICC line with tip
+     in the superior vena cava, ready for use.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2707-9-26**] 7:43 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10620**]
+     Reason: Please place line.                                          
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8790,27956,,,2707-09-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-26**] 7:43 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10620**]
+     Reason: Please place line.                                          
+     Admitting Diagnosis: CODE SEPISI
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O PORT                  79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with candidemia, upper GI bleed needs access for long-term IV 
+      antibiotics.
+     REASON FOR THIS EXAMINATION:
+      Please place line.                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Candidymia requiring long-term intravenous antibiotics.  Please
+     place PICC line.  Intravenous therapy nursing was unable to advance a PICC
+     line.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**First Name4 (NamePattern1) 58**] [**Last Name (NamePattern1) 59**], and [**Doctor First Name 4385**]
+     [**Doctor Last Name 42**], and Dr. [**First Name8 (NamePattern2) 1560**] [**Name (STitle) 389**],  Dr. [**Last Name (STitle) 389**], the Attending Radiologist, was
+     present and supervising throughout the procedure.  The left upper arm was
+     prepped in a sterile fashion.  Since no suitable superficial veins were
+     visible, ultrasound was used for localization of a suitable vein.  The basilic
+     vein was patent and compressible.  After local anesthesia with 2 mls of 1%
+     Lidocaine, the basilic vein was entered under ultrasonographic guidance with a
+     21-gauge needle.  No hardcopy of ultrasound images was obtained.  A 0.018
+     guidewire was advanced under fluoroscopy into the superior vena cava.  Based
+     on the markers on the guidewire it was determined that a length of 45 cm would
+     be suitable.  The PICC line was trimmed to length and advanced over a 4-French
+     introducer sheath under fluoroscopic guidance into the superior vena cava. The
+     sheath was removed.  The catheter was flushed.  A final chest x-ray was
+     obtained.  The film demonstrates the tip to be in the superior vena cava, just
+     above the atrium.  A statlock was applied and the line was heplocked.  The
+     line is ready for use.
+     
+     IMPRESSION:  Successful placement of a 45 cm total length PICC line with tip
+     in the superior vena cava, ready for use.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2707-9-26**] 7:43 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10620**]
+     Reason: Please place line.                                          
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8790,27956,,,2707-09-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-26**] 7:43 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10620**]
+     Reason: Please place line.                                          
+     Admitting Diagnosis: CODE SEPISI
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O PORT                  79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with candidemia, upper GI bleed needs access for long-term IV 
+      antibiotics.
+     REASON FOR THIS EXAMINATION:
+      Please place line.                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Candidymia requiring long-term intravenous antibiotics.  Please
+     place PICC line.  Intravenous therapy nursing was unable to advance a PICC
+     line.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**First Name4 (NamePattern1) 58**] [**Last Name (NamePattern1) 59**], and [**Doctor First Name 4385**]
+     [**Doctor Last Name 42**], and Dr. [**First Name8 (NamePattern2) 1560**] [**Name (STitle) 389**],  Dr. [**Last Name (STitle) 389**], the Attending Radiologist, was
+     present and supervising throughout the procedure.  The left upper arm was
+     prepped in a sterile fashion.  Since no suitable superficial veins were
+     visible, ultrasound was used for localization of a suitable vein.  The basilic
+     vein was patent and compressible.  After local anesthesia with 2 mls of 1%
+     Lidocaine, the basilic vein was entered under ultrasonographic guidance with a
+     21-gauge needle.  No hardcopy of ultrasound images was obtained.  A 0.018
+     guidewire was advanced under fluoroscopy into the superior vena cava.  Based
+     on the markers on the guidewire it was determined that a length of 45 cm would
+     be suitable.  The PICC line was trimmed to length and advanced over a 4-French
+     introducer sheath under fluoroscopic guidance into the superior vena cava. The
+     sheath was removed.  The catheter was flushed.  A final chest x-ray was
+     obtained.  The film demonstrates the tip to be in the superior vena cava, just
+     above the atrium.  A statlock was applied and the line was heplocked.  The
+     line is ready for use.
+     
+     IMPRESSION:  Successful placement of a 45 cm total length PICC line with tip
+     in the superior vena cava, ready for use.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2707-9-26**] 7:43 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10620**]
+     Reason: Please place line.                                          
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8790,27956,,,2707-09-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-9-26**] 7:43 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10620**]
+     Reason: Please place line.                                          
+     Admitting Diagnosis: CODE SEPISI
+     ********************************* CPT Codes ********************************
+     * 36569 PICC W/O PORT                  79 UNRELATED PROCEDURE/SERVICE DURIN*
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1751 CATH [**Last Name (LF) 55**],[**First Name3 (LF) 56**]/CENT/MID(NOT D*
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old man with candidemia, upper GI bleed needs access for long-term IV 
+      antibiotics.
+     REASON FOR THIS EXAMINATION:
+      Please place line.                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Candidymia requiring long-term intravenous antibiotics.  Please
+     place PICC line.  Intravenous therapy nursing was unable to advance a PICC
+     line.
+     
+     PROCEDURE:  The procedure was performed by Drs. [**First Name4 (NamePattern1) 58**] [**Last Name (NamePattern1) 59**], and [**Doctor First Name 4385**]
+     [**Doctor Last Name 42**], and Dr. [**First Name8 (NamePattern2) 1560**] [**Name (STitle) 389**],  Dr. [**Last Name (STitle) 389**], the Attending Radiologist, was
+     present and supervising throughout the procedure.  The left upper arm was
+     prepped in a sterile fashion.  Since no suitable superficial veins were
+     visible, ultrasound was used for localization of a suitable vein.  The basilic
+     vein was patent and compressible.  After local anesthesia with 2 mls of 1%
+     Lidocaine, the basilic vein was entered under ultrasonographic guidance with a
+     21-gauge needle.  No hardcopy of ultrasound images was obtained.  A 0.018
+     guidewire was advanced under fluoroscopy into the superior vena cava.  Based
+     on the markers on the guidewire it was determined that a length of 45 cm would
+     be suitable.  The PICC line was trimmed to length and advanced over a 4-French
+     introducer sheath under fluoroscopic guidance into the superior vena cava. The
+     sheath was removed.  The catheter was flushed.  A final chest x-ray was
+     obtained.  The film demonstrates the tip to be in the superior vena cava, just
+     above the atrium.  A statlock was applied and the line was heplocked.  The
+     line is ready for use.
+     
+     IMPRESSION:  Successful placement of a 45 cm total length PICC line with tip
+     in the superior vena cava, ready for use.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+                                                                 (Over)
+
+     DATE: [**2707-9-26**] 7:43 AM
+     PICC LINE PLACMENT SCH                                          Clip # [**Clip Number (Radiology) 10620**]
+     Reason: Please place line.                                          
+     Admitting Diagnosis: CODE SEPISI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8790,,,,2707-10-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2707-10-4**] 3:25 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10621**]
+     Reason: eval for effusion, infiltrate, CHF                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old man with leukocytosis, sob with R sided effusion and CHF on OSH 
+      CXR                                              
+     REASON FOR THIS EXAMINATION:
+      eval for effusion, infiltrate, CHF                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Leukocytosis, shortness of breath.
+     
+     COMPARISON: [**2707-9-23**]
+     
+     CHEST, PA AND LATERAL: There are moderate pleural effusions bilaterally with
+     reactive atelectasis at the bases.  No focal opacities are identified although
+     consolidation cannot be excluded in the retrocardiac region.  There is mild
+     increased interstitial opacity with upper zone redistribution consistent with
+     mild left ventricular heart failure.  This appears improved when compared to
+     previous study.  The right IJ dialysis catheter is in unchanged position with
+     the tip in the right atrium.  There is a left sided PICC with tip in the
+     superior vena cava.  The single left sided pacer is unchanged in position. The
+     patient is status post median sternotomy and aortic valve replacement. The
+     aorta is unfolded with wall calcifications.
+     
+     IMPRESSION:
+     1.  Moderate bilateral pleural effusions with reactive atelectasis at the lung
+     bases.  An underlying infiltrate cannot be excluded in the retrocardiac
+     region.
+     2.  Mild left ventricular heart failure which is improved when compared to the
+     previous study.
+     
+
+",,

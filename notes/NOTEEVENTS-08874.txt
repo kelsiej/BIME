@@ -1,0 +1,698 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8874,,,,2919-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2919-8-17**] 2:44 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11220**]
+     Reason: Patient with history of heart valve replacement, and intra-t
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old man with cough and hemoptysis.
+     REASON FOR THIS EXAMINATION:
+      Patient with history of heart valve replacement, and intra-thoracic seminoma
+      treated with chemotherapy, HIV-positive. Having cough with some hemoptysis.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with history of heart valve replacement. History of
+     intrathoracic seminoma treated with chemotherapy, HIV+. Presents with cough
+     and hemoptysis. Comparison is made to prior exam of [**2918-7-5**].
+     
+     FINDINGS:  The heart is normal in size. The mediastinal and hilar contours are
+     unremarkable. The pulmonary vascularity is normal. There are no pleural
+     effusions. There is no evidence of pneumothorax. In the left lower lung zone
+     on the anterior view, just above the left costophrenic angle, there is an area
+     of patchy opacity. However, in the lateral view this is not well seen. The
+     soft tissue and osseous structures are unremarkable. The lung fields are
+     otherwise unremarkable.
+     
+     IMPRESSION:
+     1. Small area of patchy opacity over the left costophrenic angle, possibly
+     artifactual in nature.  Suggest short term follow up examination. Clinical
+     correlation is recommended.
+
+",,
+8874,,,,2919-08-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2919-8-29**] 1:43 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 11221**]
+     CT RECONSTRUCTION
+     Reason: please do CTA and high res cuts,  r/o pe; r/o constrictive p
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old man with h/o tobacco use for 30 yrs; hemoptysi; B LE swellin gnad
+      radiation to chest
+     REASON FOR THIS EXAMINATION:
+      please do CTA and high res cuts
+       r/o pe; r/o constrictive pericarditis; r/o mass lesion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST CT:
+     
+     CLINICAL INDICATION:  50 year old man with history of tobacco use, also with
+     HIV, history of metastatic squamous cell carcinoma and now with bilateral
+     lower extremity swelling.  Evaluate for pulmonary embolism.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases through the lung apices following the administration of 100 cc of
+     Optiray contrast IV per the CTA protocol.  In addition, multiplanar
+     reconstructions were performed.
+     
+     COMPARISON:  Comparison is made with the upper most slices of an abdominal CT
+     obtained on [**2919-6-20**].
+     
+     CHEST CT WITH IV CONTRAST:  No filling defects are identified within the
+     pulmonary arteries to suggest the presence of pulmonary embolism.  The patient
+     is s/p mitral valve replacement.  The heart is otherwise normal in appearance
+     with no pericardial effusion.  There are no pleural effusions.  No
+     pathologically enlarged lymph nodes are identified in the mediastinum, hilar
+     or axillary regions, though there are small hilar lymph nodes bilaterally.
+     Lung windows reveal multiple pulmonary nodules, some of which are well
+     circumscribed and others of which are less well defined and demonstrate
+     associated ground-glass opacities.  At least one is cavitary. These nodules
+     are peripherally located, predominantly at the lung bases.  The nodules at the
+     lung bases are new since the patient's prior study of [**2919-6-20**].  There is
+     extensive emphysema of the upper lobes bilaterally.  No focal areas of
+     consolidation are identified. There is no pneumothorax.  There is minor
+     scarring at the right apex.  No destructive bone lesions are identified in
+     this patient s/p median sternotomy.
+     
+     IMPRESSION:
+     1)  No CT evidence of pulmonary embolism.
+     2)  Patchy peripheral and basilar pulmonary nodules, new since the prior CT
+     exam, at least one of which is cavitary.  The differential diagnosis for this
+     appearance is broad and includes BOOP and septic emboli, particularly in a
+     patient with history of HIV. Squamous cell metastases and Kaposi's sarcoma
+     could also have this appearance. In an immunocompromised patient, an
+     inflammatory process such as pneumocystis infection should also be considered.
+     The radiologic differential also includes eosinophilic pneumonia and sarcoid.
+                                                                 (Over)
+
+     DATE: [**2919-8-29**] 1:43 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 11221**]
+     CT RECONSTRUCTION
+     Reason: please do CTA and high res cuts,  r/o pe; r/o constrictive p
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+8874,,,,2919-08-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2919-8-29**] 1:43 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 11221**]
+     CT RECONSTRUCTION
+     Reason: please do CTA and high res cuts,  r/o pe; r/o constrictive p
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old man with h/o tobacco use for 30 yrs; hemoptysi; B LE swellin gnad
+      radiation to chest
+     REASON FOR THIS EXAMINATION:
+      please do CTA and high res cuts
+       r/o pe; r/o constrictive pericarditis; r/o mass lesion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST CT:
+     
+     CLINICAL INDICATION:  50 year old man with history of tobacco use, also with
+     HIV, history of metastatic squamous cell carcinoma and now with bilateral
+     lower extremity swelling.  Evaluate for pulmonary embolism.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases through the lung apices following the administration of 100 cc of
+     Optiray contrast IV per the CTA protocol.  In addition, multiplanar
+     reconstructions were performed.
+     
+     COMPARISON:  Comparison is made with the upper most slices of an abdominal CT
+     obtained on [**2919-6-20**].
+     
+     CHEST CT WITH IV CONTRAST:  No filling defects are identified within the
+     pulmonary arteries to suggest the presence of pulmonary embolism.  The patient
+     is s/p mitral valve replacement.  The heart is otherwise normal in appearance
+     with no pericardial effusion.  There are no pleural effusions.  No
+     pathologically enlarged lymph nodes are identified in the mediastinum, hilar
+     or axillary regions, though there are small hilar lymph nodes bilaterally.
+     Lung windows reveal multiple pulmonary nodules, some of which are well
+     circumscribed and others of which are less well defined and demonstrate
+     associated ground-glass opacities.  At least one is cavitary. These nodules
+     are peripherally located, predominantly at the lung bases.  The nodules at the
+     lung bases are new since the patient's prior study of [**2919-6-20**].  There is
+     extensive emphysema of the upper lobes bilaterally.  No focal areas of
+     consolidation are identified. There is no pneumothorax.  There is minor
+     scarring at the right apex.  No destructive bone lesions are identified in
+     this patient s/p median sternotomy.
+     
+     IMPRESSION:
+     1)  No CT evidence of pulmonary embolism.
+     2)  Patchy peripheral and basilar pulmonary nodules, new since the prior CT
+     exam, at least one of which is cavitary.  The differential diagnosis for this
+     appearance is broad and includes BOOP and septic emboli, particularly in a
+     patient with history of HIV. Squamous cell metastases and Kaposi's sarcoma
+     could also have this appearance. In an immunocompromised patient, an
+     inflammatory process such as pneumocystis infection should also be considered.
+     The radiologic differential also includes eosinophilic pneumonia and sarcoid.
+                                                                 (Over)
+
+     DATE: [**2919-8-29**] 1:43 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 11221**]
+     CT RECONSTRUCTION
+     Reason: please do CTA and high res cuts,  r/o pe; r/o constrictive p
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+8874,,,,2919-08-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2919-8-29**] 1:43 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 11221**]
+     CT RECONSTRUCTION
+     Reason: please do CTA and high res cuts,  r/o pe; r/o constrictive p
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old man with h/o tobacco use for 30 yrs; hemoptysi; B LE swellin gnad
+      radiation to chest
+     REASON FOR THIS EXAMINATION:
+      please do CTA and high res cuts
+       r/o pe; r/o constrictive pericarditis; r/o mass lesion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST CT:
+     
+     CLINICAL INDICATION:  50 year old man with history of tobacco use, also with
+     HIV, history of metastatic squamous cell carcinoma and now with bilateral
+     lower extremity swelling.  Evaluate for pulmonary embolism.
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     lung bases through the lung apices following the administration of 100 cc of
+     Optiray contrast IV per the CTA protocol.  In addition, multiplanar
+     reconstructions were performed.
+     
+     COMPARISON:  Comparison is made with the upper most slices of an abdominal CT
+     obtained on [**2919-6-20**].
+     
+     CHEST CT WITH IV CONTRAST:  No filling defects are identified within the
+     pulmonary arteries to suggest the presence of pulmonary embolism.  The patient
+     is s/p mitral valve replacement.  The heart is otherwise normal in appearance
+     with no pericardial effusion.  There are no pleural effusions.  No
+     pathologically enlarged lymph nodes are identified in the mediastinum, hilar
+     or axillary regions, though there are small hilar lymph nodes bilaterally.
+     Lung windows reveal multiple pulmonary nodules, some of which are well
+     circumscribed and others of which are less well defined and demonstrate
+     associated ground-glass opacities.  At least one is cavitary. These nodules
+     are peripherally located, predominantly at the lung bases.  The nodules at the
+     lung bases are new since the patient's prior study of [**2919-6-20**].  There is
+     extensive emphysema of the upper lobes bilaterally.  No focal areas of
+     consolidation are identified. There is no pneumothorax.  There is minor
+     scarring at the right apex.  No destructive bone lesions are identified in
+     this patient s/p median sternotomy.
+     
+     IMPRESSION:
+     1)  No CT evidence of pulmonary embolism.
+     2)  Patchy peripheral and basilar pulmonary nodules, new since the prior CT
+     exam, at least one of which is cavitary.  The differential diagnosis for this
+     appearance is broad and includes BOOP and septic emboli, particularly in a
+     patient with history of HIV. Squamous cell metastases and Kaposi's sarcoma
+     could also have this appearance. In an immunocompromised patient, an
+     inflammatory process such as pneumocystis infection should also be considered.
+     The radiologic differential also includes eosinophilic pneumonia and sarcoid.
+                                                                 (Over)
+
+     DATE: [**2919-8-29**] 1:43 PM
+     CT CHEST W/CONTRAST; CT 100CC NON IONIC CONTRAST                Clip # [**Clip Number (Radiology) 11221**]
+     CT RECONSTRUCTION
+     Reason: please do CTA and high res cuts,  r/o pe; r/o constrictive p
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+8874,19488,,,2919-08-31 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2919-8-31**]       Discharge Date:  [**2919-9-9**]
+
+Date of Birth:   [**2869-7-9**]       Sex:  M
+
+Service:  ACOVE
+CHIEF COMPLAINT:  This is a 50 year old male who was a direct
+admission for hemoptysis, blood tinged sputum and increasing
+shortness of breath.
+
+PAST MEDICAL HISTORY:
+2.  HIV, last CD4 count [**2919-8-16**], was 151 with a viral load
+    of 423.
+3.  History of anus squamous cell carcinoma, status post
+    chemotherapy and radiation therapy.
+4.  Chronic obstructive pulmonary disease.
+5.  Mitral valve replacement in [**2911**], with a porcine valve.
+    Echocardiogram in 01/02, showed some mitral regurgitation,
+6.  Peripheral neuropathy.
+7.  Mediastinal seminoma in [**2904**], that was treated with
+    radiation and chemotherapy.
+8.  Testicular hypofunction.
+9.  Hypothyroidism.
+10. Depression.
+11. Atrial flutter.
+
+HISTORY OF PRESENT ILLNESS:  The patient had increased
+shortness of breath over more than the week.  He was seen in
+Dr.[**Doctor Last Name 10553**] office on [**2919-8-17**], for hemoptysis that was
+half blood and half sputum.  Initially, the chest x-ray may
+have shown left pneumonia for which he was treated with ten
+days of Levofloxacin 250 mg per day.  The patient says that
+during the course of antibiotics he had decreased hemoptysis.
+CT on [**2919-8-29**], showed no evidence of pulmonary embolus but
+did show increased pulmonary nodules with a ground glass
+appearance.  The patient denied any chest pain but did feel
+that he had increased pulsations in the neck over the last
+few days.
+
+REVIEW OF SYSTEMS:  He has positive constipation since
+radiation therapy for his anal cancer.  He also complains of
+pain in his legs and scrotal area from lymphedema post
+radiation therapy for his cancer that has lasted over the
+last two months.  He has not obtained good pain control.  He
+denies any fever, chills, sweats, diarrhea or dysuria.
+
+MEDICATIONS ON ADMISSION:
+1.  Stavudine 30 mg twice a day.
+2.  Lamivudine 150 mg twice a day.
+3.  Abacavir 300 mg twice a day.
+4.  Advair 250 mcg twice a day.
+5.  Aquaphor/Hydrocortisone 2.5% cream once daily.
+6.  Cyanocobalamin 1000 mcg/ml q.month.
+7.  Dapsone 100 mg once daily.
+8.  Delatestryl 200 mg/ml, administered as 1 cc q2weeks.
+9.  Digoxin 0.125 mg once daily.
+10. Furosemide 40 mg once daily.
+11. Lac-Hydrin 12% skin cream twice a day.,
+12. Levofloxacin 250 mg p.o. once daily.
+13. Ativan 2 mg q.h.s. p.r.n.
+14. Marinol 2.5 mg twice a day.
+15. Mepron 750 mg/5 cc given as 5 cc twice a day.
+16  Mycelex 10 mg four times a day p.r.n. for thrush.
+17. Potassium 40 meq once daily.
+18. Proventil 90 mcg two tablets q4hours p.r.n.
+19. Selenium Sulfide 2.5% once daily times seven days.
+20. Triamcinolone Acetamide once daily.
+21. Ultrase MT 18-59-18-59 one tablet three times a day.
+22. Unithroid 100 mcg once daily.
+23. Wellbutrin SR 100 mg once daily.
+24. Dilaudid 2 mg q4hours p.r.n.
+25. Duragesic 25 mcg per hour q72hours.
+
+ALLERGIES:  The patient had no known drug allergies.
+
+SOCIAL HISTORY:  Alcohol occasionally and now less than one
+pack per day of cigarettes.  He smokes marijuana every day.
+
+FAMILY HISTORY:  Mother died of an inner ear cancer.  Father
+had diabetes mellitus, coronary artery disease and brother
+has alcohol abuse.
+
+PHYSICAL EXAMINATION:   On examination, the patient was
+afebrile at 98.4, blood pressure 106/72, respiratory rate 28,
+pulse 120.  Initially on presentation, he was only saturating
+at 83% in room air.  After giving him three liters nasal
+cannula, he saturated to 92%.  Head, eyes, ears, nose and
+throat examination -  He had moist mucous membranes.  Jugular
+venous pressure to the angle of the jaw.  His skin had woody
+lymphedema, left leg greater than the right with positive
+scrotal edema.  He has no Kaposi lesions.  Respiratory- He
+had good air entry bilaterally but he had bilateral fine
+crackles at the bases and some bronchial breath sounds at the
+right upper lobe.  Cardiovascular examination - harsh III/VI
+systolic ejection murmur at the base and left sternal border.
+The abdomen has positive bowel sounds, nontender,
+nondistended, no organomegaly.  His extremities showed
+nonpitting edema.
+
+LABORATORY DATA:  White blood cell count 8,7, platelet count
+157,000.  Electrolytes were essentially unremarkable.
+Neutrophils 75%.
+
+CT of the chest on [**2919-8-29**], showed multiple pulmonary
+nodules, associated ground glass opacities, new lung nodules
+at the bases compared to [**2919-6-20**], minor scarring at the
+right apex.  No evidence of pulmonary embolus.
+
+HOSPITAL COURSE:  The patient was put on respiratory
+precautions for his increasing shortness of breath with
+hemoptysis.  He was ruled out for tuberculosis and multiple
+induced sputum and bronchoalveolar lavage from his
+bronchoscopy sent for cytology and bacterial and fungal viral
+infection.  Essentially, his bronchoalveolar lavage had
+negative cytology for malignant cells.  His cryptococcal
+antigen was negative.  Three sets of acid fast bacilli and
+cultures were negative.  Coccidiodes was still pending to
+date.  His still antigen is negative.  His sputum culture
+only grew sparse growth of yeast.  Fungal cultures were
+negative.  Legionella was negative.  PCP was tested for and
+was negative.  Nocardia negative.  Urine culture times two
+negative.  Blood cultures and fungal cultures no growth to
+date.
+
+The patient obtained a transthoracic echocardiogram which
+showed an ejection fraction of 50% and akinesis of the apex
+and paradoxical motion of the interventricular septum.  He
+had some right ventricular hypertrophy with mild to moderate
+aortic regurgitation, moderate to severe tricuspid
+regurgitation and at least some mild pulmonary hypertension.
+
+Because all his laboratories were essentially negative for an
+infectious disease workup, the patient was scheduled for a
+VATS procedure and a Transesophageal Echocardiogram while
+under general anesthesia.  The patient went for the VATS
+procedure on [**2919-9-6**], and failed extubation with pCO2 in the
+90s.  The patient was reintubated and transferred from te
+Post Anesthesia Care Unit to the SICU on Neo-Synephrine and
+pressure support of 10/5.  The Neo-Synephrine was
+discontinued after twelve hours and the patient was
+successfully extubated.  His last arterial blood gas on
+[**2919-9-8**], was pH 7.35/57/85.  The patient's VATS had
+demonstrated metastatic squamous cell carcinoma.  The
+Transesophageal Echocardiogram demonstrated an ejection
+fraction of greater than 55%, left atrial dilatation, 2+
+aortic regurgitation, no mitral regurgitation, 2+ tricuspid
+regurgitation and no pericardial effusion, and a prosthetic
+mitral valve.
+
+Dr. [**Last Name (STitle) 586**] spoke with the patient about his diagnosis of
+metastatic squamous cell carcinoma to the lung.  It was
+agreed with the patient that he would be discharged with
+Hospice care and no further intervention was to be pursued.
+
+The patient was discontinued on all his antiretroviral
+treatments and was only continued on pain control management
+anxiety control medications and his antidepressant medication
+as well as supplemental oxygen.
+
+CONDITION ON DISCHARGE:  Fair.
+
+DISCHARGE STATUS:  The patient is DNR/DNI.
+
+MEDICATIONS ON DISCHARGE:
+1.  Fentanyl patch 50 mcg/hour q72hours.
+2.  Marinol 2 to 5 mg p.o. twice a day.
+3.  Ativan 1 to 2 mg p.o. q4-8hours p.r.n.
+4.  Wellbutrin SR 100 mg p.o. once daily.
+5.  Proventil 90 mcg two puffs q4hours p.r.n. for cough.
+6.  Home supplemental oxygen to titrate to comfort.
+7.  Dilaudid 2 to 4 mg p.o. q2-4hours p.r.n.
+8.  Neurontin 300 mg p.o. three times a day.
+
+The patient is to be admitted to Hospice/Palliative Care at
+Beacon Hospice.
+
+DISCHARGE DIAGNOSES:
+1.  Metastatic squamous cell carcinoma to the lung.
+2.  AIDS.
+3.  Hepatitis C.
+4.  Chronic obstructive pulmonary disease.
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 10554**], M.D.  [**MD Number 10986**]
+
+Dictated By:[**Name8 (MD) 8009**]
+MEDQUIST36
+
+D:  [**2919-9-9**]  10:27
+T:  [**2919-9-9**]  13:17
+JOB#:  [**Job Number 12371**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: MON [**2919-9-11**] 6:28 AM
+(End of Report)
+
+
+",,
+8874,19488,,,2919-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2919-8-31**] 5:14 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11222**]
+     Reason: infiltrate vs. pulmonary edema
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old man with cough and hemoptysis and now progressive O2 requirement,
+      signs of CHF on exam. PMH of MVR.
+     REASON FOR THIS EXAMINATION:
+      infiltrate vs. pulmonary edema
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Cough and hemoptysis.
+     
+     PA AND LATERAL CHEST:  Comparison is made to previous films from  [**2919-8-17**].
+     The patient has prior MBR and median sternotomy.
+     
+     Note is made of increased nodular and linear opacities involving the right
+     upper lobe and left lower lobe. In this patient with HIV and history of
+     chemotherapy for seminoma, these findings are worrisome for chronic infection
+     including fungus or microbacterial infection. Further evaluation with CT scan
+     is recommended.  There is slight prominence of the left hilum.  The patchy
+     opacity in the left lower lobe could represent bronchopneumonia.  The heart
+     is normal in size. There is no evidence for CHF. No pneumothorax is
+     identified. 
+     
+     IMPRESSION:  Increased nausea and linear opacities involving the right upper
+     lobe and left lower lobe, please see comment for discussion.
+
+",,
+8874,19488,,,2919-09-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2919-9-3**] 5:44 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11223**]
+     Reason: 50 yo male with h/o AIDS, MVR, and hepatitis C p/w hemoptysi
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old man with cough and hemoptysis and now progressive O2 requirement,
+      signs of CHF on exam. PMH of MVR.
+     REASON FOR THIS EXAMINATION:
+      50 yo male with h/o AIDS, MVR, and hepatitis C p/w hemoptysis and signs of CHF
+      with persistent shortness of breath.  Please compare with CXR from [**2919-8-31**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Cough and hemoptysis. Progressive increased O2 requirement. Shortness
+     of breath.
+     
+     CHEST, 2 VIEWS: Comparison [**2919-8-31**]. The patient is s/p sternotomy and valve
+     replacement. There is no significant change in appearance of the linear and
+     nodular opacities seen throughout the lungs, most marked in the left lower
+     lobe. There is a larger vague nodular density seen in the right mid lung zone,
+     near the minor fissure. There is prominence of the left hilum, unchanged.
+     There is no new focal area of consolidation and there are no pleural
+     effusions.
+     
+     IMPRESSION: No significant change from [**2919-8-31**]. Note that the patient had a CT
+     scan on [**2919-8-29**] which better delineated the pulmonary nodules and adenopathy.
+     This is reported separately.
+
+",,
+8874,19488,,,2919-09-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2919-9-6**] 7:43 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11224**]
+     Reason: Eval Chest tube position                                    
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      50 year old man with s/p L VATSPatient is in west campus PACU                   
+     REASON FOR THIS EXAMINATION:
+      Eval Chest tube position                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  S/P          .
+     
+     PORTABLE CHEST: Comparison is made to previous films from  [**2919-9-3**].
+     
+     Cardiomediastinal silhouette is stable in appearance.  The endotracheal tube
+     is seen in good position.  The patient is s/p median sternotomy and mitral
+     valve replacement.  There is acute development of an alveolar process in the
+     left lung. There is a new left sided pleural effusion. There is no
+     pneumothorax. A left sided chest tube is identified.
+     
+     IMPRESSION:
+     
+     1.  No pneumothorax. New small left sided pleural effusion. Left sided chest
+     tube.
+     2.  Acute development of alveolar process on the left lung which in the postop
+     setting could be related to contusion or aspiration, infection less likely.
+
+",,
+8874,19488,,,2919-09-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2919-9-7**] 9:21 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11225**]
+     Reason: Eval for PTX                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       50 year old man with s/p L VATSPatient is in west campus PACU                  
+       
+     REASON FOR THIS EXAMINATION:
+      Eval for PTX                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     Portable chest of [**2919-9-7**] compared to previous study one day earlier.
+     
+     INDICATION:  Status post VATS procedure.  Evaluate for pneumothorax.
+     
+     A single chest tube remains in place in the left hemithorax.  There is a small
+     loculated pleural fluid collection laterally which is unchanged.  No
+     pneumothorax is evident.
+     
+     An endotracheal tube remains in place, in satisfactory position.  Cardiac and
+     mediastinal contours are stable in the interval.  Multifocal patchy alveolar
+     opacities in the left lung persist, as well as numerous small ill-defined
+     nodules bilaterally.
+     
+     IMPRESSION:  No pneumothorax.
+     
+     Stable loculated small left pleural fluid collection as well as multifocal
+     alveolar opacities in the left lung and bilateral diffuse small nodules.
+
+",,
+8874,19488,11032,0,2919-09-07 17:34:00 EST,2919-09-07 17:59:00 EST,209,"N",69,"Nursing/Other","FIN 4 ICU NURSING ADMISSION NOTE","
+[**Wardname **] 4 ICU NURSING ADMISSION NOTE
+
+   50 YO with HX HIV, AIDS, HEP C s/p VATS with wedge resection [**9-7**] transfered from PACU intubated & on neo.
+  PMH: HIV, AIDS, Hep C, RHD, S/P MVR, S/P squamous cell Ca anus S/P chemo & XRT, peripheral neuropathy, mediastinal seminoma, A-flutter S/P cardioversion, cholecystitis, cholelithisis, hypothyriod, depression.
+  NKDA
+  Pt originally admitted [**8-31**] with dypnsea, SOB & pulmonary nodules.
+  VATS [**9-7**] with wedge resection. L CT placed. Unable to wean from vent last eve. On neo. Transfered to MICU/SICU for further management.
+
+   RESP: Weaned & extubated. On 50% face tent. Sats >92%. Transient drop in sats when pt talking a lot or mask off for short X. NP 4L added. Productive of thick, tan secretions X2. BS coarse.
+L CT put to water seal by surgery this eve. No crepitus or leak. Dsg saturated with sanguinous fld. DSG changed X2. Resident aware.
+
+  COMFORT: C/O back pain & pain around rectum && scrotum. PCA MS04 started. Describes pain as #10 on 1-10 scale initially. Now pain #[**7-3**] although pt is dozing in the chair.
+
+  CV: Neo d/c's. SBP 105-120's. HR 100-117 ST.
+
+  GI: Has not attempted C/L yet. Abd beingn.
+
+  GU: Foley UO 20-40 cc hr. LR at 50 cc's HR.
+
+  NEORO: A&O X3.
+
+  ID: WBC 16, Low grade temp. Completed kefzol.
+
+  SOCIAL: Lives alone. States he has friends that help to take care of him & does not feel he needs additional services at this X. 
+
+",,
+8874,19488,11032,,2919-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2919-9-8**] 11:15 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11228**]
+     Reason: S/P removal of Chest tube                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         50 year old man witw s/p VATSPT in EAST ICU  S/P chest tube removal. eval 
+      for residual PTX.                                 
+     REASON FOR THIS EXAMINATION:
+      S/P removal of Chest tube                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with a history of VATS, status post chest tube removal,
+     evaluate for residual pneumothorax.
+     
+     INTERPRETATION:  Portable AP chest radiograph.  Comparison made to portable AP
+     chest radiograph of the same day 2.5 hours earlier.  The left chest tube has
+     been removed.  However, there is a left apical and lateral pneumothorax which
+     is unchanged.  The heart size is within normal limits.  The prominence of the
+     pulmonary vasculature remains unchanged.  No other significant changes.
+     
+     IMPRESSION:  Persistent left apical and lateral pneumothorax status post chest
+     tube removal.  No change in CHF.
+
+",,
+8874,19488,11032,,2919-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2919-9-8**] 8:45 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11227**]
+     Reason: 50 yo man with hiv and pulmonary nodules s/p vats. r/o ptx, 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       50 year old man with above                 
+     REASON FOR THIS EXAMINATION:
+      50 yo man with hiv and pulmonary nodules s/p vats. r/o ptx, eval lung fields
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION: Post VATS.
+     
+     Comparison is made to study of 2 hours previously.
+     
+     FINDINGS: A small left apical and lateral pneumothorax is unchanged. There is
+     increased prominence of the vasculature and blurring of the right
+     hemidiaphragm.
+     
+     IMPRESSION: 1) Unchanged small left pneumothorax. 2) Interval right effusion
+     and prominent vessels suggests mild volume overload.
+
+",,
+8874,19488,11032,,2919-09-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2919-9-8**] 6:02 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11226**]
+     Reason: Eval for PTX                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        50 year old man witw s/p VATSPT in EAST ICU                                   
+     REASON FOR THIS EXAMINATION:
+      Eval for PTX                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST RADIOGRAPH [**2919-9-8**]:
+     
+     INDICATION:  HIV and pulmonary nodules post VATS.
+     
+     Comparison is made to study of the previous morning.
+     
+     FINDINGS:  The mediastinum, vascular clips and prosthetic mitral valve are
+     unchanged.  A left-sided chest tube is again seen with tip in the left apex. A
+     small left-sided pneumothorax is seen tracking along the superior and lateral
+     aspect of the lung.  Subcutaneous air is seen along the left chest wall. There
+     is ill-defined increased density throughout the left lung which likely relates
+     to atelectasis and inflammation from the recent procedure. There is a decrease
+     in the amount of pleural fluid on the left.
+     
+     IMPRESSION:
+     1)  Small left-sided pneumothorax tracking superiorly and laterally.
+     2)  Stable post-op changes in the left hemithorax.
+
+",,
+8874,19488,11032,0,2919-09-08 04:42:00 EST,2919-09-08 04:53:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Neuro Pt OOB to chair until 930pm.  Pt stood at BS with observation no complaint of pain until this am.  PCA used minimally throughout night.  MSO4 .5 basal.  Pt c/o back dull pain.  
+Card  Pt hemo stable see flow.  na 134 cl 90's LR at 50/hr
+RR Pt face tent d/c'd r/t pt intolerance, on 6lnc attempted wean yet desat to 88%.  DOE Pt with CR b/l.  L CT h2o seal surgeon in to see pt this am.  awaiting cxr.  abg 7.35/57/85/33 on 6lnc. Productive cough thick dark bloody sputum.
+GI Pt CL liq over night did have some crackers.  tol well.  anxious for breakfast to arrive if possible.  [**Last Name **] problem swallowing pills.
+GU Pt UO adequate this am.  Bun 34 creat 1.1
+Social Pt visited via friends in evening.  In good spirits.
+Issues:  ?d/c mivf pt taking po well, cr b/l lungs, removal of ct this am?, advance diet as tol. Also mod amount of serousanguinous drainage around chest tube site.  surgeon aware.  Hct 32.8 yest to 29.8 this am. 
+",,
+8874,19488,11032,0,2919-09-08 10:55:00 EST,2919-09-08 11:11:00 EST,-1,"N",69,"Nursing/Other","MSICU NURSING PROGRESS NOTE.","
+MSICU NURSING PROGRESS NOTE.
+     See Careview for objective data.
+     Alert and oriented, occn drowsy.  Using pca for pain control effectively.  Moving all extrem. weakly.  Up to bedside several times.
+Temperature max.  97.5 oral.
+     Lung sounds are have crackles throughout with occn e wheezes throughout.  RR 12-30, doe.  Chest tube d/c'd this am with post removal cxr complete.  Dsg on lt chest wall d&i.  O2 saturation 89-97% on 6l nc.
+     Sinus rythm to sinus tachycardia, 96-106 with no ectopy noted.  Abp 90's -120's systolic.  A line in lt radial d/c'd this am.  Weak palpable pulses all extrem.
+     Abdomen soft with + bs, .  Tolerated liquid tray ythis am, waiting to obtain dentures which are reportedly on the floor he is being tx to.  No bm this am.  Foley catheter patent and draining clear amber urine in good amts.
+     Significant other into see pt.
+",,

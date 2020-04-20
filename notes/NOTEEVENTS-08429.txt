@@ -1,0 +1,1483 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8429,,,,3483-11-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 7676**]
+     Reason: RENAL CELL CA 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fifty-seven year old man with renal cell cancer, r/o metastases.
+      
+     INTERPRETATION:  Whole body views of the skeleton show several foci of  
+     abnormally increased activity within the right posterior ribs, unchanged since
+     the previous exam and consistent with the patient's surgical history.  Foci of
+     increased activity in the left shoulder is also stable and consistent with
+     degenerative change.  There is no increased activity to suggest metastatic
+     disease.
+      
+     There has been right nephrectomy.  The left kidney and urinary bladder are
+     visualized, the normal route of tracer excretion.
+      
+     IMPRESSION:  No evidence of metastatic disease.  No change from [**3483-7-25**]. /nkg
+                                                                           
+
+             [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 6030**], M.D.
+             [**First Name11 (Name Pattern1) 485**] [**Last Name (NamePattern1) 486**], M.D.        Approved: WED [**3483-11-28**] 2:24 PM
+
+
+             Date Mailed: [**3483-11-29**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8429,,,,3483-12-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3483-12-3**] 12:37 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 7677**]
+     Reason: L PARTIAL NEPHRECTOMY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with METASTATE RENAL CELL
+     REASON FOR THIS EXAMINATION:
+      L PARTIAL NEPHRECTOMY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Left partial nephrectomy.
+     
+     CHEST TWO VIEWS:  Comparison is made to the prior study of [**3483-11-19**].  The
+     heart is normal in size.  The mediastinal and hilar contours are unremarkable.
+      The pulmonary vasculature is normal.  Suture material is seen at the left
+     lung base on prior wedge resection.  There are no lung nodules again seen are
+     two soft tissue calcifications in the anterior chest wall which are stable in
+     appearance.
+     
+     IMPRESSION:  No change in comparison to the prior study.  No evidence for
+     metastatic disease.
+
+",,
+8429,21159,,,3483-12-21 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3483-12-21**]     Discharge Date:  [**3483-12-27**]
+
+Date of Birth:   [**3425-11-16**]     Sex:  M
+
+Service:
+
+HISTORY OF PRESENT ILLNESS:  This is a 58-year-old male with
+metastatic renal cell carcinoma who is four years past right
+radical nephrectomy Stage T3B.  The patient subsequently in
+[**3480-9-4**], had two lesions resected from the left
+posterior lung lobe consistent also with metastatic renal
+cell carcinoma.  He has been followed with serial
+surveillance CT scans.  He had a scan from [**3483-11-19**]
+which showed a lesion in his solitary left kidney
+approximately 2 cm in diameter.  Patient had no hematuria, no
+abdominal pain, no nausea or vomiting, no weight loss, no
+fever or chills.  He had a bone scan done on [**3483-11-28**]
+which showed no metastatic disease and his BUN and creatinine
+at that time were 18 and 1.1.  He presented for evaluation of
+the left renal mass and was scheduled for a left partial
+nephrectomy.
+
+PAST MEDICAL HISTORY:  Hypertension.
+
+PAST SURGICAL HISTORY:  Right nephrectomy with IVC
+thrombectomy in [**3479**], left lung resection in [**3480**].
+
+MEDICATIONS:  Hydrochlorothiazide 25 po q.d., Norvasc 10 mg
+po q.d., Zestril 20 mg po q.d.
+
+SOCIAL HISTORY:  Patient drinks three to four glasses of wine
+per night.
+
+PHYSICAL EXAMINATION:  On initial physical examination, the
+patient is a well-developed, well-appearing male in no
+apparent distress.  His neck was supple, no masses.  His
+chest was clear to auscultation bilaterally.  Cardiovascular:
+Regular rate and rhythm.  His abdomen contained no palpable
+masses.  Liver and spleen were within normal limits.  No
+hernias were found.  He had no palpable lymphadenopathy.  His
+anus and perineum were within normal limits.  His
+genitourinary exam was normal.  His prostate was
+approximately 40 grams.  He was neurologically intact.
+
+LABORATORIES:  White blood cell count was 7.2, hematocrit
+39.6, platelets 242,000.  Urinalysis was negative.  His PT
+was 13, PTT 22.9, INR 1.2.  His sodium was 138, potassium
+4.3, chloride 99, C02 24, BUN 15, creatinine 1.0.  AST and
+ALT were 28 and 27 respectively.  Alkaline phosphatase was
+40.  His total bilirubin .7.  Albumin 4.4.
+
+BRIEF HOSPITAL COURSE:  Mr. [**Known patient lastname 607**] was admitted on [**3483-12-21**].  He underwent a left partial nephrectomy under
+general endotracheal anesthesia.  Intraoperative, he had
+significant blood loss of approximately two liters for which
+he received 1200 cc of crystalloid.  He had a number one JP
+drain and a Foley catheter placed.  There were no
+complications.  He was transported to the Recovery Room
+intubated and in stable condition, however, he was requiring
+pressors to keep his pressure up.  His initial blood gases in
+the Post Anesthesia Care Unit were 7.28, 42, 149, 21 with a
+base excess of 6.  Based on this and his pressor requirement,
+he was kept intubated and transferred to the Intensive Care
+Unit.  Overnight, he was weaned off of his pressor and weaned
+off of the ventilator.  He was extubated on postoperative day
+number one without incident and transferred to the regular
+floor.  Patient had received three units of blood
+intraoperatively and one unit in the Post Anesthesia Care
+Unit.  On postoperative day one, his hematocrit was 27.7,
+however, on postoperative day number three, it progressively
+decreased to 22, 23.5 on repeat.  02 was given, one unit of
+packed red blood cells, hematocrit increased to 24 and was
+25.8 on discharge.  He was kept on Ancef perioperatively. He
+remained afebrile throughout his hospital course.  He was not
+discharged on any antibiotics. His urine output remained good
+throughout his hospital course and his BUN and creatinine
+were 18 and 1.3.  His diet was advanced on postoperative day
+number five, he was ambulating independently and tolerating a
+regular diet and his pain was controlled on oral pain
+medication.  He initially had some high output from his JP
+drain about 600 cc per day.  JP creatinine was checked which
+was 2 and his drain was taken out on postoperative day number
+six.
+
+CONDITION OF DISCHARGE:  Patient is afebrile, hemodynamically
+stable, tolerating a regular diet, ambulating independently,
+tolerating oral pain medication.
+
+DISCHARGE DIAGNOSES:
+1.  Renal cell carcinoma. Clear cells variant.
+2.  Status post left partial nephrectomy, a solitary kidney.
+3.  Hypertension.
+
+DISCHARGE MEDICATIONS:
+1.  Dilaudid 2-4 mg po q. 4 hours prn pain.
+2.  Colace 100 mg po b.i.d.
+3.  Iron sulfate 325 mg po t.i.d.
+
+FOLLOW-UP:  Patient is to follow-up with Dr. [**Last Name (STitle) 1236**].
+
+
+
+
+                          [**Name6 (MD) **] [**Last Name (NamePattern4) 2369**], M.D. [**MD Number 2370**]
+
+Dictated By:[**Last Name (NamePattern1) 6548**]
+
+MEDQUIST36
+
+D:  [**3483-12-31**]  14:09
+T:  [**3483-12-31**]  14:09
+JOB#:  [**Job Number 11687**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: MON [**3484-1-7**] 3:38 PM
+(End of Report)
+
+
+",,
+8429,21159,,,3483-12-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3483-12-21**] 7:22 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7679**]
+     Reason: r/o pulmonary edema/CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man s/p L partial nephrectomy [**3483-12-21**], intubated, acidotic
+     REASON FOR THIS EXAMINATION:
+      r/o pulmonary edema/CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST AP PORTABLE:
+     
+     INDICATION:  Status post partial nephrectomy.  Evaluate for pulmonary edema.
+     
+     FINDINGS:  The tip of the ET tube is 3.9 cm above the carina.  The heart and
+     mediastinal contours are normal.  The lungs are clear.
+
+",,
+8429,21159,,,3483-12-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3483-12-21**] 10:01 AM
+     US INTR-OP 60 MINS                                              Clip # [**Clip Number (Radiology) 7678**]
+     Reason: guidance for partial nephrectomy
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with  
+     REASON FOR THIS EXAMINATION:
+      guidance for partial nephrectomy
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Operating guidance for partial nephrectomy.
+     
+     Limited examination with Dr. [**First Name4 (NamePattern1) 5**] [**Last Name (NamePattern1) 6**], staff Radiologist was present for
+     localization of mass in the left kidney. Ultrasound guidance performed by the
+     Urologist.
+
+",,
+8429,21159,10475,0,3483-12-22 04:05:00 EST,3483-12-22 04:24:00 EST,723,"N",69,"Nursing/Other","rn admission note","
+rn admission note
+[**3483-12-22**] 4am
+pt is a 58 yo male who was admitted from pacu following left partial nephrectomy. during surgery pt exsang. 2000cc blood. pt rec 4 u prbc and fluids 1500cc lr. . pt placed on neo gtt for dec b/p abg = metab acidosis. pt trans to micu for continuation of care.
+
+hs. pt is a 58 yo male who was diagnosed with mets. renal ca 4 years ago at that time pt under went r rad. nephrectomy11/91, then 8.98 2 lesions resected from l posterior lung l9bes. ct scan [**11-19**] showed lesions present in left kidney.  bone scan [**11-28**] no met. dz seen.
+
+neruo: upon arrival pt sedated and not responsive. diprivan gtt weaned thru out shift currently at 15mcg pt has rec'd mult. boluses for comfort reasons while still vented. when awake pt is oriented and follows commnds, attempt to mouth and write words. denies pain. mso4 also given 1mg x2doses for comfort measures.
+
+resp: pt intubated imvx12x40%x700xpeep5 ps 5 suctioned 3 to 4 times for thick tannish secretions. pt periodically alert and coughing against ett sedated as neceessary.
+
+cad hr 60-80 sr no ectopy noted. neo gtt off at 330am. b/p sys >100. b/p fluctuating 90-120's off an on. 
+
+gu: uo>50cc/hr d51/2 ns at 300cc/hr clarified with urology attending.
+jp drain in left neph. drain dec from 70cc to 30cc/hr of serousang. fluid.
+
+gi: pt is npo bs+ rec'd zantac dose. abd soft. 
+
+skin intact dsd with trans drsg [**Name5 (PTitle) 5756**]. drainage covers drsg? small inc from when 1st admitted. 
+
+id t max 101.4 oral md aware. antb given at 8pm next dose due at 4am.
+
+plan: extubation this am ,monitor hct. vs and fluid status, monitor ? DT's which is noted in md note.
+",,
+8429,21159,10475,0,3483-12-22 05:48:00 EST,3483-12-22 05:53:00 EST,529,"N",69,"Nursing/Other",,"
+
+58m admitted to micu/sicu from pacu, sp l partial nephrectomy/placed on 7200 ventilator overnoc only/70-imv.12-40%-5 peep-5 ips+fb/abg=125,33,7.40,-2,99%/vt.520-570 on own, rr.[**1-22**]/plans to extubate in am.
+",,
+8429,21159,10475,0,3483-12-22 14:30:00 EST,3483-12-22 14:46:00 EST,511,"N",69,"Nursing/Other",,"
+
+TRANSFER NOTE:
+SEE PREVIOUS ADMIT NOTE FOR PMH AND REASON FOR ADMIT TO MICU.
+
+RESP: LUNGS RHONCHEROUS THIS AM, BUT AFTER EXTUBATION, BS'S CLEAR. PRESENTLY ON 4L NP WITH EXCELLENT O2 SATS. ABG'S DONE AFTER EXTUBATION. IF O2 SATS >90% CHANGE TO 2L NP. NEEDS ENCOURAGEMENT TO COUGH. SOUNDS PRODUCTIVE. PT. SWALLOWING SECRETIONS. IS ABLE TO TAKE DEEP BREATHS. 
+GI: NPO. PASSING FLATUS. BS'S HYPOACTIVE. 
+RENAL: CREAT 1.4. CONTINUES TO RECEIVE IVF'S AT 100CC/HR. U/O'S ADEQUATE. URINE CLEAR.
+ID: REMAINS FEBRILE. WBC'S WNL. ON ANTIBIOTICS.
+DRSG [**Name5 (PTitle) **] [**Name5 (PTitle) 5757**] [**Name5 (PTitle) **]. JP DRAINING BL-TINGED. DRSG [**Name5 (PTitle) **] X1. 
+ACCESS: RADIAL A-LINE D/C'ED. 2X PERIPH IV'S. 
+SKIN INTEGRITY: PT. QUITE EDEMATOUS. 
+
+CV: PT. HAD A VASO-VAGAL RESPONSE TO THE REMOVAL OF HIS EPIDURAL CATHETER. RESOVLED. IN NSR. SLIGHTLY HYPERTENSIVE. 
+PAIN CONTROL: RECEIVING 1-2MG MS IVP ON REQUEST. PT. NEEDS TO ASK FOR HIS MEDICATIONS MORE FREQUENTLY. 
+NEURO; AWAKE AND ALERT. 
+HCT 27.7 AND PLTS 77. REPEATED AT 14PM. HCT DROP FROM EARLY THIS AM COULD BE DILUTIONAL. 
+ENDOC: MG+ AND CA+ REPLACED THIS AM. 
+SOCIAL: WIFE INTO VISIT. 
+",,
+8429,,,,3484-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-4-14**] 7:04 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7680**]
+     CT PELVIS W/O CONTRAST
+     Reason: history of renal cell cancer with nephrectomy and partial ne
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:
+     
+     Addtional history has now been provided. The patient has had the left lower
+     pole lesion resected in [**3483-12-6**].
+     
+     It is possible that the low attenuation mass seen in the left kidney could
+     represent recurrent tumor versus post-operative changes. If a contrast
+     enhanced CT is not possible to perform due to nephrectomy, an MRI with
+     gadolinium could be used to evaluate for any residual enhancing tumor.
+     
+     
+
+
+     DATE: [**3484-4-14**] 7:04 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7680**]
+     CT PELVIS W/O CONTRAST
+     Reason: history of renal cell cancer with nephrectomy and partial ne
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with history of RCC
+     REASON FOR THIS EXAMINATION:
+      history of renal cell cancer with nephrectomy and partial nephrectomy
+      performed. Please assess disease status and measure any lesions
+      [**Hospital1 **]-dimensionally and include on oncology table.
+      Please perform study WITHOUT use of contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE TORSO, [**3484-4-14**]:
+     
+     INDICATION:  Renal cell cancer.
+     
+     TECHNIQUE:  Helically acquired axial images were obtained from the thoracic
+     inlet through the symphysis pubis without IV contrast.  IV contrast was not
+     given at the request of the ordering clinician.
+     
+     COMPARISON:  [**3483-11-19**].
+     
+     CT OF THE TORSO W/O CONTRAST:  There are a few small mediastinal lymph nodes
+     present, one of which has a fatty hilum in the right paratracheal region.  No
+     pleural or pericardial effusions are seen.  The heart size is normal.
+     
+     There has been interval increase in size of two lung nodules, one in the left
+     upper lobe measures 14 X 19 mm, and the second one at the right lung base
+     measures approximately 4.5 mm.  Both are slightly increased since the previous
+     examination.  No new lung nodules are identified.
+     
+     CT OF THE ABDOMEN W/O CONTRAST:  The unenhanced liver, spleen, adrenal glands,
+     and pancreas are unremarkable.  Numerous clips are seen in the region of the
+     right renal fossa.  Again seen is a relatively low attenuation mass at the mid
+     to lower pole of the left kidney which is also increased in size since the
+     previous examination.  Small periportal lymph nodes are seen, not
+     significantly changed.  There is no ascites.
+     
+     CT OF THE PELVIS W/IV CONTRAST:  The small and large bowel loops are normal
+     without evidence to suggest obstruction.  There is a fat-containing left
+     inguinal hernia.
+     
+     No sclerotic or lytic lesions are seen on bone windows.  Degenerative changes
+     are noted within the right shoulder, likely due to previous trauma especially
+     in light of healed rib fractures on the right.
+     
+     IMPRESSION:  Interval increase in size of the two pulmonary nodules and left
+     renal mass.  See below oncology summary for detailed measurements.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3484-4-14**] 7:04 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7680**]
+     CT PELVIS W/O CONTRAST
+     Reason: history of renal cell cancer with nephrectomy and partial ne
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+8429,,,,3484-04-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-4-14**] 7:04 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7680**]
+     CT PELVIS W/O CONTRAST
+     Reason: history of renal cell cancer with nephrectomy and partial ne
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL ADDENDUM
+     ADDENDUM:
+     
+     Addtional history has now been provided. The patient has had the left lower
+     pole lesion resected in [**3483-12-6**].
+     
+     It is possible that the low attenuation mass seen in the left kidney could
+     represent recurrent tumor versus post-operative changes. If a contrast
+     enhanced CT is not possible to perform due to nephrectomy, an MRI with
+     gadolinium could be used to evaluate for any residual enhancing tumor.
+     
+     
+
+
+     DATE: [**3484-4-14**] 7:04 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7680**]
+     CT PELVIS W/O CONTRAST
+     Reason: history of renal cell cancer with nephrectomy and partial ne
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with history of RCC
+     REASON FOR THIS EXAMINATION:
+      history of renal cell cancer with nephrectomy and partial nephrectomy
+      performed. Please assess disease status and measure any lesions
+      [**Hospital1 **]-dimensionally and include on oncology table.
+      Please perform study WITHOUT use of contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE TORSO, [**3484-4-14**]:
+     
+     INDICATION:  Renal cell cancer.
+     
+     TECHNIQUE:  Helically acquired axial images were obtained from the thoracic
+     inlet through the symphysis pubis without IV contrast.  IV contrast was not
+     given at the request of the ordering clinician.
+     
+     COMPARISON:  [**3483-11-19**].
+     
+     CT OF THE TORSO W/O CONTRAST:  There are a few small mediastinal lymph nodes
+     present, one of which has a fatty hilum in the right paratracheal region.  No
+     pleural or pericardial effusions are seen.  The heart size is normal.
+     
+     There has been interval increase in size of two lung nodules, one in the left
+     upper lobe measures 14 X 19 mm, and the second one at the right lung base
+     measures approximately 4.5 mm.  Both are slightly increased since the previous
+     examination.  No new lung nodules are identified.
+     
+     CT OF THE ABDOMEN W/O CONTRAST:  The unenhanced liver, spleen, adrenal glands,
+     and pancreas are unremarkable.  Numerous clips are seen in the region of the
+     right renal fossa.  Again seen is a relatively low attenuation mass at the mid
+     to lower pole of the left kidney which is also increased in size since the
+     previous examination.  Small periportal lymph nodes are seen, not
+     significantly changed.  There is no ascites.
+     
+     CT OF THE PELVIS W/IV CONTRAST:  The small and large bowel loops are normal
+     without evidence to suggest obstruction.  There is a fat-containing left
+     inguinal hernia.
+     
+     No sclerotic or lytic lesions are seen on bone windows.  Degenerative changes
+     are noted within the right shoulder, likely due to previous trauma especially
+     in light of healed rib fractures on the right.
+     
+     IMPRESSION:  Interval increase in size of the two pulmonary nodules and left
+     renal mass.  See below oncology summary for detailed measurements.
+     
+     
+                                                                 (Over)
+
+     DATE: [**3484-4-14**] 7:04 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7680**]
+     CT PELVIS W/O CONTRAST
+     Reason: history of renal cell cancer with nephrectomy and partial ne
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+
+",,
+8429,,,,3484-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-4-18**] 10:03 AM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 7681**]
+     Reason: PT WITH METASTATIC KIDNEY DISEASE, CHECK LEFT KIDNEY LESION FOR CHANGE POST PARTIAL NEPHRECTOMY
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with metastatic renal cell carcinoma
+     REASON FOR THIS EXAMINATION:
+      assess left kidney lesion ie solid, fluid, r/o new met
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic renal cell carcinoma status post right nephrectomy.
+     Enlarging left renal lesion seen on CT of [**3484-4-14**].
+     
+     TECHNIQUE:  Multiplanar T1 and T2 weighted images of the kidneys was performed
+     including T1 weighted axial in and out of phase, coronal HASTE, dynamic pre
+     and post Gadolinium enhanced axial/coronal VIBE and sagittal fat saturated T1
+     weighted images were performed.  Multiplanar reformatted images were done and
+     analyzed on the workstation.
+     
+     MR ABDOMEN:  The liver, gallbladder, pancreas, spleen, and adrenals are
+     normal. The patient is post right nephrectomy. There are no abnormal soft
+     tissue lesions in the nephrectomy bed.  There is no adenopathy in the
+     visualized abdomen.
+     
+     The lesion in the lower aspect of the left kidney measures 25 x 25 x 31 mm
+     (progressive growth viewing multiple prior X-sectional studies) and has a
+     thick enhancing nodular rim with a necrotic center. There is a second
+     enhancing 12 mm lesion in the medial aspect of the upper pole of the left
+     kidney. Scattered subcentimeter simple renal cysts are also present. There is
+     no hydronephrosis. There is no renal vein invasion.
+     
+     Multiplanar reconstructions were used to evaluate location and dtermine
+     enhancement.
+     
+     IMPRESSION: 1) The enhancing lesion in the lower aspect of the left kidney and
+     the second enhancing lesion in the medial aspect of the upper pole of the left
+     kidney are consistent with renal cell cancer. Metachronous renal cell cancers
+     cannot be distinguished from metastases based on imaging findings alone. There
+     is no disease recurrence in the right nephrectomy bed.
+     
+     
+
+",,
+8429,,,,3484-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-4-18**] 10:03 AM
+     MR ABDOMEN W&W/O CONTRAST; MR RECONSTRUCTION IMAGING            Clip # [**Clip Number (Radiology) 7681**]
+     Reason: PT WITH METASTATIC KIDNEY DISEASE, CHECK LEFT KIDNEY LESION FOR CHANGE POST PARTIAL NEPHRECTOMY
+      Contrast: MAGNEVIST Amt: 20
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with metastatic renal cell carcinoma
+     REASON FOR THIS EXAMINATION:
+      assess left kidney lesion ie solid, fluid, r/o new met
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic renal cell carcinoma status post right nephrectomy.
+     Enlarging left renal lesion seen on CT of [**3484-4-14**].
+     
+     TECHNIQUE:  Multiplanar T1 and T2 weighted images of the kidneys was performed
+     including T1 weighted axial in and out of phase, coronal HASTE, dynamic pre
+     and post Gadolinium enhanced axial/coronal VIBE and sagittal fat saturated T1
+     weighted images were performed.  Multiplanar reformatted images were done and
+     analyzed on the workstation.
+     
+     MR ABDOMEN:  The liver, gallbladder, pancreas, spleen, and adrenals are
+     normal. The patient is post right nephrectomy. There are no abnormal soft
+     tissue lesions in the nephrectomy bed.  There is no adenopathy in the
+     visualized abdomen.
+     
+     The lesion in the lower aspect of the left kidney measures 25 x 25 x 31 mm
+     (progressive growth viewing multiple prior X-sectional studies) and has a
+     thick enhancing nodular rim with a necrotic center. There is a second
+     enhancing 12 mm lesion in the medial aspect of the upper pole of the left
+     kidney. Scattered subcentimeter simple renal cysts are also present. There is
+     no hydronephrosis. There is no renal vein invasion.
+     
+     Multiplanar reconstructions were used to evaluate location and dtermine
+     enhancement.
+     
+     IMPRESSION: 1) The enhancing lesion in the lower aspect of the left kidney and
+     the second enhancing lesion in the medial aspect of the upper pole of the left
+     kidney are consistent with renal cell cancer. Metachronous renal cell cancers
+     cannot be distinguished from metastases based on imaging findings alone. There
+     is no disease recurrence in the right nephrectomy bed.
+     
+     
+
+",,
+8429,,,,3484-04-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-4-30**] 9:03 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7682**]
+     Reason: Patient with renal cell cancer. R/O Brains mets.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with renal cell cancer
+     REASON FOR THIS EXAMINATION:
+      Patient with renal cell cancer. R/O Brains mets.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION:  Renal cell cancer.
+     
+     TECHNIQUE:  Noncontrast head CT.  The patient declined IV contrast
+     administration, stating that multiple renal operations resulted in limited
+     residual renal function.
+     
+     HEAD CT W/O CONTRAST:  There is no intra or extra axial hemorrhage. There is
+     no shift of normally midline structures or mass effect. No areas of edema are
+     seen that might suggest the presence of an underlying mass lesion.  No major
+     vascular territorial infarct is identified.  The visualized soft tissues,
+     paranasal sinuses and osseous structures are unremarkable.
+     
+     IMPRESSION:
+     1. Normal head CT.  No evidence of intracranial metastases on this unenhanced
+     scan.  See above report.
+     
+
+",,
+8429,,,,3484-05-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BONE SCAN                                                       Clip # [**Clip Number (Radiology) 7683**]
+     Reason: EVALUATE FOR BONY METS. 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fifty-eight year old with renal cell cancer.  Review of the medical  
+     records reveal that the patient is s/p right nephrectomy.  A recent MRI
+     examination of the remaining left kidney reveals an abnormally enhancing lesion 
+     in the lower aspect of the left kidney and the medial aspect of the upper poles
+     of the left kidney.
+      
+     INTERPRETATION:  Whole body views of the skeleton show a focus of abnormally
+     increased tracer activity in the lower pole of the left kidney.  No other
+     abnormal foci of tracer activity is identified.
+      
+     The left kidney is enlarged and this may represent hypertrophic changes
+     secondary to the surgical removal of the right kidney.  The urinary bladder is
+     visualized, the normal route of tracer excretion. 
+      
+     Compared with the prior bone scan of [**3483-11-28**], the overall size of the left
+     kidney is not significantly changed but the abnormal focus of uptake in the
+     lower pole is a new finding.
+      
+     Correlating this finding with the results of a recent MRI examination of the
+     abdomen dated [**3484-4-18**], the enhancing lesion in the lower pole of the left kidney
+     on that exam has a non-enhancing T2 bright focus centrally.  This may represent
+     a trapped calyx within this mass which has increased uptake on the bone scan.
+      
+     IMPRESSION:  1) No bone scan evidence of metastatic disease.  2) A new abnormal
+     focus of increased uptake in the lower pole of the left kidney, correlation with
+     the MRI examination reveals a possibility that this represents trapped calyx
+     within the mass of the lower pole of the left kidney. /nkg
+                                                                           
+
+             [**First Name8 (NamePattern2) 5**] [**Last Name (NamePattern1) 6772**], M.D.
+             [**First Name11 (Name Pattern1) 485**] [**Last Name (NamePattern1) 486**], M.D.        Approved: MON [**3484-5-5**] 7:09 PM
+
+
+             Date Mailed: [**3484-5-6**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8429,,,,3484-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-5-3**] 7:02 PM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 7684**]
+     Reason: Patient with Renal cell cancer. R/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2258**] [**Last Name (NamePattern1) 7685**].
+      Contrast: MAGNEVIST Amt: 17CC 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with renal cell cancer
+     REASON FOR THIS EXAMINATION:
+      Patient with Renal cell cancer. R/[**Initials (NamePattern4) **] [**Last Name (NamePattern4) 2258**] [**Last Name (NamePattern1) 7685**].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient with renal cell cancer.  Rule out brain metastasis.
+     
+     TECHNIQUE:  T1 sagittal and axial, and FLAIR, T2 in susceptibility axial
+     images were obtained before gadolinium.  T1 axial and coronal images were
+     obtained following the administration of gadolinium.
+     
+     FINDINGS:  The sulci and fissures are mildly prominent indicating
+     involutional changes.  The ventricles are normal in size.  No evidence of
+     midline shift, mass effect, or hydrocephalus is seen.  There are no focal
+     signal abnormalities identified before gadolinium administration.  Following
+     gadolinium administration, no evidence of abnormal parenchymal, vascular, or
+     meningeal enhancement is identified.  The vascular flow voids are maintained.
+     
+     IMPRESSION:  No significant abnormality is detected on the MRI of the brain
+     with and without gadolinium.  No evidence of metastatic disease.
+
+",,
+8429,,,,3484-05-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-5-25**] 6:00 PM
+     MR HEAD W/ CONTRAST                                             Clip # [**Clip Number (Radiology) 7688**]
+     Reason: please eval for cerebellar met as the CT showed edema
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with renal cell cancer and p/w syncope today
+     REASON FOR THIS EXAMINATION:
+      please eval for cerebellar met as the CT showed edema
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  58 year old man with renal cell cancer, presents with syncope.
+     
+     TECHNIQUE:  MR of the head without and with contrast.
+     
+     COMPARISONS:  Comparison is made with prior CT of the head performed [**3484-5-25**]
+     and MR of the head performed [**3484-5-3**].
+     
+     TECHNIQUE:  Multiplanar T1 and T2W images were obtained through the brain pre
+     and post administration of 10 cc of Gadolinium.
+     
+     FINDINGS:  There are no abnormal intra or extra-axial fluid collections. There
+     is no mass effect or shift of the normally midline structures.
+     
+     Within both cerebellar hemispheres and within the right middle cerebellar
+     peduncle are areas of increased T2 and FLAIR signal intensity, some of which
+     demonstrate mild enhancement.  No mass effect is noted associated with these
+     lesions.
+     
+     Scattered small foci of increased T2 and FLAIR signal are also noted within
+     the periventricular white matter.  Although these foci are nonspecific they
+     may represent foci of chronic microvascular infarctions or mild post
+     inflammatory change.  Normal vascular flow patterns are preserved.
+     
+     The orbits, visualized paranasal sinuses and visualized soft tissues are
+     unremarkable.
+     
+     IMPRESSION:  Abnormal areas of T2 and FLAIR signal within both cerebral
+     hemispheres and within the right middle cerebellar peduncle, some of which
+     demonstrate mild enhancement, likely represent infarcts, however follow up is
+     recommended to exclude malignant process.  No significant mass effect is
+     associated with these lesions.
+     
+     
+
+",,
+8429,,,,3484-05-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-5-25**] 11:08 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7686**]
+     Reason: pt syncopized, unconcious and unresponsive x 2 min, hx or re
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with renal cell ca and syncopial event today
+     REASON FOR THIS EXAMINATION:
+      pt syncopized, unconcious and unresponsive x 2 min, hx or renal cell ca
+     ______________________________________________________________________________
+     WET READ: NTo SUN [**3484-5-25**] 11:54 AM
+      neg, no change`
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Unresponsive episode in patient with history of renal cell
+     carcinoma.
+     
+     TECHNIQUE:  CT imaging of the brain without contrast enhancement.  Comparison
+     is made to multiple prior studies, most recently a contrast-enhanced MR of
+     [**3484-5-3**].
+     
+     FINDINGS:  There are multiple ill-defined regions of hypoattenuation in the
+     cerebellum.  This finding is of uncertain etiology.  No corresponding
+     abnormality is identified on the recent MR.  There is no intracranial
+     hemorrhage.  The ventricles and sulci are normal in size. There is no
+     fracture.
+     
+     IMPRESSION:  Multiple new focal regions of low attenuation in the cerebellum.
+     This may best be evaluated by follow-up MR examination.
+
+",,
+8429,,,,3484-05-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-5-25**] 11:09 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 7687**]
+     Reason: r/o infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with renal ca, please eval for infiltrate
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Renal cancer, evaluate for infiltrates.
+     
+     TECHNIQUE:  Chest PA and lateral.
+     
+     Comparison with prior chest x-ray from [**3483-12-21**].
+     
+     The heart and mediastinum are normal in size.  The aorta is partially
+     calcified.  The pulmonary vessels are unremarkable.  There are no
+     consolidations, pleural effusions or pneumothorax.  There are clips in the
+     right upper quadrant and a suture in the left lung base.  Multiple healed
+     fractures are seen in the right hemithorax.
+     
+     IMPRESSION:  No heart failure or pneumonia.
+
+",,
+8429,,,,3484-05-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-5-26**] 5:26 PM
+     MR-ANGIO NECK WITHOUT CONTRAST; MR-ANGIO HEAD                   Clip # [**Clip Number (Radiology) 7689**]
+     MR HEAD W/O CONTRAST
+     Reason: 58 y/o male with infarcts in cebellum, please evaluate vertb
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with 
+     REASON FOR THIS EXAMINATION:
+      58 y/o male with infarcts in cebellum, please evaluate vertbro-basilar system
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN WITH MRA OF THE NECK AND CIRCLE OF [**Location (un) **].
+     
+     INDICATION:  ?Infarct in the cerebellum and rule out vascular occlusion.
+     
+     Multiplanar T1- and T2-weighted images of the brain were performed. Diffusion-
+     weighted images are obtained.  2D and 3D time-of-flight MRA of the
+     extracranial circulation and 3D time-of-flight MRI of the intracranial
+     circulation were performed.
+     
+     Correlation is made to the prior exam of [**3484-5-25**].
+     
+     Diffusion-weighted images reveal small areas of scattered restricted diffusion
+     within the left inferior cerebellar hemisphere, the right cerebellar
+     hemisphere and the right middle cerebellar peduncle suspicious for small
+     subacute infarcts.  It should be noted that areas of vasogenic edema might
+     present with similar restricted diffusion and should be considered, especially
+     in view of the history of renal cancer.  These areas demonstrate abnormal
+     increased T2 signal intensity, as mentioned and demonstrated previously.
+     
+     Smaller foci of T2 hyperintensity are seen within the periventricular white
+     matter.  There is no midline shift or mass effect.  Ventricular system is
+     symmetrical.
+     
+     MRA of the extracranial circulation reveals no hemodynamically significant
+     stenosis involving either carotid bifurcation.  There is absence of signal
+     related enhancement within the left vertebral artery suggestive of total
+     occlusion at its origin.  The right vertebrobasilar system is patent.
+     
+     MRA of the intracranial circulation reveals focal stenosis involving the
+     origin of the left posterior cerebral artery.  Intracranially, there is severe
+     85-90% stenosis involving the precavernous portion of the left internal
+     carotid artery.  Minor atheromatous changes are seen involving both carotid
+     siphons.  There is mild disease involving the supraclinoid portion of the
+     right internal carotid artery, estimated at around 40-50%.  The middle
+     cerebral artery trifurcations are patent.
+     
+     IMPRESSION:
+     
+     1) Several foci of restricted diffusion within the cerebellar hemispheres
+     highly suspicious for small subacute infarcts, mostly embolic in nature. It
+     should be noted that areas of vasogenic edema related to metastatis could also
+     result in significant restriction of diffusion.This is less likely.
+                                                                 (Over)
+
+     DATE: [**3484-5-26**] 5:26 PM
+     MR-ANGIO NECK WITHOUT CONTRAST; MR-ANGIO HEAD                   Clip # [**Clip Number (Radiology) 7689**]
+     MR HEAD W/O CONTRAST
+     Reason: 58 y/o male with infarcts in cebellum, please evaluate vertb
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     2) 85-90% severe stenosis involving the origin of the left posterior cerebral
+     artery.
+     
+     3) Total occlusion of the left vertebral artery at its origin.
+     
+     4) 85-90% stenosis involving the precavernous portion of the left internal
+     carotid artery.
+     
+     5) 50% stenosis involving the supraclinoid portion of the right internal
+     carotid artery.
+     
+     6) No hemodynamically significant stenosis seen involving the carotid
+     bifurcations in the neck.
+     
+     7) Periventricular chronic ischemic or gliotic changes.  Further clinical
+     correlation and follow-up are recommended.
+
+",,
+8429,,,,3484-05-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-5-26**] 5:26 PM
+     MR-ANGIO NECK WITHOUT CONTRAST; MR-ANGIO HEAD                   Clip # [**Clip Number (Radiology) 7689**]
+     MR HEAD W/O CONTRAST
+     Reason: 58 y/o male with infarcts in cebellum, please evaluate vertb
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with 
+     REASON FOR THIS EXAMINATION:
+      58 y/o male with infarcts in cebellum, please evaluate vertbro-basilar system
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI OF THE BRAIN WITH MRA OF THE NECK AND CIRCLE OF [**Location (un) **].
+     
+     INDICATION:  ?Infarct in the cerebellum and rule out vascular occlusion.
+     
+     Multiplanar T1- and T2-weighted images of the brain were performed. Diffusion-
+     weighted images are obtained.  2D and 3D time-of-flight MRA of the
+     extracranial circulation and 3D time-of-flight MRI of the intracranial
+     circulation were performed.
+     
+     Correlation is made to the prior exam of [**3484-5-25**].
+     
+     Diffusion-weighted images reveal small areas of scattered restricted diffusion
+     within the left inferior cerebellar hemisphere, the right cerebellar
+     hemisphere and the right middle cerebellar peduncle suspicious for small
+     subacute infarcts.  It should be noted that areas of vasogenic edema might
+     present with similar restricted diffusion and should be considered, especially
+     in view of the history of renal cancer.  These areas demonstrate abnormal
+     increased T2 signal intensity, as mentioned and demonstrated previously.
+     
+     Smaller foci of T2 hyperintensity are seen within the periventricular white
+     matter.  There is no midline shift or mass effect.  Ventricular system is
+     symmetrical.
+     
+     MRA of the extracranial circulation reveals no hemodynamically significant
+     stenosis involving either carotid bifurcation.  There is absence of signal
+     related enhancement within the left vertebral artery suggestive of total
+     occlusion at its origin.  The right vertebrobasilar system is patent.
+     
+     MRA of the intracranial circulation reveals focal stenosis involving the
+     origin of the left posterior cerebral artery.  Intracranially, there is severe
+     85-90% stenosis involving the precavernous portion of the left internal
+     carotid artery.  Minor atheromatous changes are seen involving both carotid
+     siphons.  There is mild disease involving the supraclinoid portion of the
+     right internal carotid artery, estimated at around 40-50%.  The middle
+     cerebral artery trifurcations are patent.
+     
+     IMPRESSION:
+     
+     1) Several foci of restricted diffusion within the cerebellar hemispheres
+     highly suspicious for small subacute infarcts, mostly embolic in nature. It
+     should be noted that areas of vasogenic edema related to metastatis could also
+     result in significant restriction of diffusion.This is less likely.
+                                                                 (Over)
+
+     DATE: [**3484-5-26**] 5:26 PM
+     MR-ANGIO NECK WITHOUT CONTRAST; MR-ANGIO HEAD                   Clip # [**Clip Number (Radiology) 7689**]
+     MR HEAD W/O CONTRAST
+     Reason: 58 y/o male with infarcts in cebellum, please evaluate vertb
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     2) 85-90% severe stenosis involving the origin of the left posterior cerebral
+     artery.
+     
+     3) Total occlusion of the left vertebral artery at its origin.
+     
+     4) 85-90% stenosis involving the precavernous portion of the left internal
+     carotid artery.
+     
+     5) 50% stenosis involving the supraclinoid portion of the right internal
+     carotid artery.
+     
+     6) No hemodynamically significant stenosis seen involving the carotid
+     bifurcations in the neck.
+     
+     7) Periventricular chronic ischemic or gliotic changes.  Further clinical
+     correlation and follow-up are recommended.
+
+",,
+8429,,,,3484-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-6-23**] 6:42 AM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 7690**]
+     Reason: HX RENAL CELL TUMOR EVALUATE FOR CEREBELLAR LESIONS NOTED ON [**5-26**]/
+      Contrast: MAGNEVIST Amt: 10CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with metastatic renal cell carcinoma
+     REASON FOR THIS EXAMINATION:
+      re-evaluate cerebellar lesions noted on mri [**5-26**]
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Metastatic renal carcinoma.  Previously identified cerebellar
+     lesions on MR of [**3484-5-25**].  Please reevaluate.
+     
+     Multiplanar T1, T2, FLAIR and susceptability of the brain was performed. In
+     addition to post-contrast imaging.
+     
+     Comparison:  Direct comparison is made to next prior study of [**3484-5-25**].
+     
+     MR HEAD W&W/0 CONTRAST:  Again identified are regions of T2 and FLAIR signal
+     within the bilateral cerebellar hemispheres, as well as in the right middle
+     cerebellar peduncle.  The overall appearance has not changed significantly
+     since the previous exam.  However, only the abnormal region within the right
+     cerebellar hemisphere superiorly currently demonstrates enhancement.  The
+     other lesions no longer demonstrate enhancement on the post-contrast imaging.
+     No mass effect is noted with these lesions.
+     
+     Again seen, are multiple tiny foci of increased T2 and FLAIR signal within the
+     periventricular white matter, likely representing chronic microvascular
+     infarcts.  No large vascular territorial infarcts are seen.  There is no
+     hydrocephalus or shift of the normally midline structures.  No extra-axial
+     fluid collections are seen.  There are normal vascular flow patterns seen.
+     
+     IMPRESSION:  Findings consistent evolving infarcts within the cerebellar
+     hemispheres and right middle cerebellar peduncle.  No evidence of metastatic
+     disease.
+     
+     
+
+",,
+8429,,,,3484-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-6-23**] 7:36 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7691**]
+     CT PELVIS W/O CONTRAST
+     Reason: restaging
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with metastatic renal cell carcinoma
+     REASON FOR THIS EXAMINATION:
+      restaging
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Restaging in patient with metastatic renal cell carcinoma.
+     
+     COMPARISON:  [**3484-4-14**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     thoracic inlet to the pubic symphysis without the administration of
+     intravenous contrast per request of the referring physician.
+     
+     CT CHEST WITHOUT IV CONTRAST:  The heart, pericardium, and great vessels are
+     normal.  There is no change in the appearance of the pretracheal fat-
+     containing lymph node which is not pathologically enlarged by CT criteria.
+     There is no new hilar, mediastinal, or axillary lymphadenopathy.  The
+     pulmonary nodule in the left upper lobe previously measured 14 x 19 mm and now
+     measures 10 x 15 mm.  The small rounded nodule in the right lower lobe
+     previously measured 5 mm and currently measures 6 mm.  No new nodules are
+     identified.  There are no pleural effusions.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST:  The liver, spleen, pancreas, gallbladder,
+     adrenal glands, and visualized loops of small and large bowel are normal.  The
+     patient is status post right nephrectomy and there is no evidence of a mass in
+     the nephrectomy bed.  There is redemonstration of a hypodense mass emanating
+     from the lower pole of the left kidney which previously measured 33 x 34 mm
+     and today measures 30 x 35 mm.  No new renal masses are identified.  A lymph
+     node in the periportal region previously measured 8 x 13 mm and today measures
+     11 x 19 mm.  No new enlarged lymph nodes are seen.  No free fluid and no free
+     air.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  The visualized small and large bowel loops,
+     bladder, seminal vesicles, and prostate are normal.  No lymphadenopathy and no
+     free fluid.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic osseous lesions are
+     identified.
+     
+     IMPRESSION:  No significant change in the left renal mass and metastatic foci
+     in the interval since the prior study.  There are no new lesions.  Variable
+     measurements of metastatic foci, some increased and some decreased in size,
+     may in part be due to varying image planes relative to the prior study.
+     
+                                                                 (Over)
+
+     DATE: [**3484-6-23**] 7:36 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7691**]
+     CT PELVIS W/O CONTRAST
+     Reason: restaging
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8429,,,,3484-06-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-6-23**] 7:36 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7691**]
+     CT PELVIS W/O CONTRAST
+     Reason: restaging
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with metastatic renal cell carcinoma
+     REASON FOR THIS EXAMINATION:
+      restaging
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Restaging in patient with metastatic renal cell carcinoma.
+     
+     COMPARISON:  [**3484-4-14**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images were obtained from the
+     thoracic inlet to the pubic symphysis without the administration of
+     intravenous contrast per request of the referring physician.
+     
+     CT CHEST WITHOUT IV CONTRAST:  The heart, pericardium, and great vessels are
+     normal.  There is no change in the appearance of the pretracheal fat-
+     containing lymph node which is not pathologically enlarged by CT criteria.
+     There is no new hilar, mediastinal, or axillary lymphadenopathy.  The
+     pulmonary nodule in the left upper lobe previously measured 14 x 19 mm and now
+     measures 10 x 15 mm.  The small rounded nodule in the right lower lobe
+     previously measured 5 mm and currently measures 6 mm.  No new nodules are
+     identified.  There are no pleural effusions.
+     
+     CT ABDOMEN WITHOUT IV CONTRAST:  The liver, spleen, pancreas, gallbladder,
+     adrenal glands, and visualized loops of small and large bowel are normal.  The
+     patient is status post right nephrectomy and there is no evidence of a mass in
+     the nephrectomy bed.  There is redemonstration of a hypodense mass emanating
+     from the lower pole of the left kidney which previously measured 33 x 34 mm
+     and today measures 30 x 35 mm.  No new renal masses are identified.  A lymph
+     node in the periportal region previously measured 8 x 13 mm and today measures
+     11 x 19 mm.  No new enlarged lymph nodes are seen.  No free fluid and no free
+     air.
+     
+     CT PELVIS WITHOUT IV CONTRAST:  The visualized small and large bowel loops,
+     bladder, seminal vesicles, and prostate are normal.  No lymphadenopathy and no
+     free fluid.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic osseous lesions are
+     identified.
+     
+     IMPRESSION:  No significant change in the left renal mass and metastatic foci
+     in the interval since the prior study.  There are no new lesions.  Variable
+     measurements of metastatic foci, some increased and some decreased in size,
+     may in part be due to varying image planes relative to the prior study.
+     
+                                                                 (Over)
+
+     DATE: [**3484-6-23**] 7:36 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7691**]
+     CT PELVIS W/O CONTRAST
+     Reason: restaging
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8429,,,,3484-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-8-18**] 7:40 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7693**]
+     CT PELVIS W/O CONTRAST
+     Reason: Follow-up oncology patient. Please compare to prior films an
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with renal cell cancer
+     REASON FOR THIS EXAMINATION:
+      Follow-up oncology patient. Please compare to prior films and measure lesions
+      [**Hospital1 **]-demensionally. Also include in an oncology table. Thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  58 y/o male with history of renal cancer.
+     
+     COMPARISON:  [**3484-6-23**]
+     
+     TECHNIQUE:  Multiple axial images were obtained from the thoracic inlet to the
+     pubic symphysis without IV contrast.
+     
+     CHEST WITHOUT IV CONTRAST:  The heart and paracardium are within normal
+     limits.  The great vessels are intact.  There is no hilar, mediastinal or
+     hilar lymphadenopathy seen.  Anterior mediastinum is clear.  In the left upper
+     lobe there is a pulmonary nodule seen which measures 11 x 17 mm and has not
+     changed significantly in size when compared to the prior study done [**3484-6-23**].
+      Again noted is a right lower lobe 6 mm nodule and is not changed compared to
+     the prior in characteristics or size.  There are no pleural effusions,
+     pneumothoraces or pleural thickening seen.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  The liver, spleen, pancreas,
+     gallbladder, visualized loops of small and large bowel are unremarkable.
+     Multiple surgical clips are seen in the right renal fossa.  This is consistent
+     with the patient's history of a right nephrectomy.  No abnormal masses are
+     seen in this area.  The left and right adrenal glands are present and within
+     normal limits.  In the periportal area the previously seen lymph node again
+     identified but has decreased in size and now measures 6 x 13 mm which is
+     decreased from 14 x 10 mm on the prior study.  The hyperdense mass is seen
+     from the lower portion of the left kidney which previously measured 30 x 30 x
+     35 mm and has not decreased significantly in size and most likely represented
+     post op changes and if indicated can be followed up with ultrasound.  There is
+     no free fluid or new lymphadenopathy seen.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  The visualized small and large bowel
+     loops are normal in course and caliber.  The bladder and prostate are
+     unremarkable.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.  There
+     is an old right rib fracture seen.
+     
+     IMPRESSION:
+     1)  There has been no significant change in the left upper lobe and right
+     lower lobe pulmonary nodules.
+     2)  The periportal lymph node has decreased in size in the left kidney and
+                                                                 (Over)
+
+     DATE: [**3484-8-18**] 7:40 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7693**]
+     CT PELVIS W/O CONTRAST
+     Reason: Follow-up oncology patient. Please compare to prior films an
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lower pole cystic hyperdensity, completely resolved.
+     3)  Old right rib fracture.
+     4)  No new lymphadenopathy or metastatic foci are identified.
+
+",,
+8429,,,,3484-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-8-18**] 6:44 AM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 7692**]
+     Reason: Patient with renal cell cancer. R/O Brain [**Clip Number (Radiology) 7685**].
+      Contrast: MAGNEVIST Amt: 15
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with metastatic renal cell carcinoma
+     REASON FOR THIS EXAMINATION:
+      Patient with renal cell cancer. R/O Brain [**Clip Number (Radiology) 7685**].
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic renal cell carcinoma ?brain [**Clip Number (Radiology) 7685**].
+     
+     Multiplanar T1, T2, gradient echo and FLAIR sequences before and after the
+     administration of Gadolinium.
+     
+     The examination was compared to prior study of [**3484-6-23**].
+     
+     FINDINGS:
+     
+     Again noted is evidence of evolving infarcts involving the right middle
+     cerebellar peduncle and the right hemisphere and vermis and inferior left
+     hemisphere. There has been no change in the appearance of these lesions since
+     the previous examination. No new areas of infarction. There are no definite
+     new areas of brain edema. A few scattered T2 high signal intensity foci
+     especially in the left posterior frontal lobe are noted consistent with
+     microvascular angiopathy. There is no evidence of abnormal contrast
+     enhancement.
+     
+     IMPRESSION: No evidence of metastatic lesions. Stable appearance of multiple
+     infarcts involving the cerebellum as described.
+
+",,
+8429,,,,3484-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-8-18**] 7:40 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7693**]
+     CT PELVIS W/O CONTRAST
+     Reason: Follow-up oncology patient. Please compare to prior films an
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with renal cell cancer
+     REASON FOR THIS EXAMINATION:
+      Follow-up oncology patient. Please compare to prior films and measure lesions
+      [**Hospital1 **]-demensionally. Also include in an oncology table. Thanks
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  58 y/o male with history of renal cancer.
+     
+     COMPARISON:  [**3484-6-23**]
+     
+     TECHNIQUE:  Multiple axial images were obtained from the thoracic inlet to the
+     pubic symphysis without IV contrast.
+     
+     CHEST WITHOUT IV CONTRAST:  The heart and paracardium are within normal
+     limits.  The great vessels are intact.  There is no hilar, mediastinal or
+     hilar lymphadenopathy seen.  Anterior mediastinum is clear.  In the left upper
+     lobe there is a pulmonary nodule seen which measures 11 x 17 mm and has not
+     changed significantly in size when compared to the prior study done [**3484-6-23**].
+      Again noted is a right lower lobe 6 mm nodule and is not changed compared to
+     the prior in characteristics or size.  There are no pleural effusions,
+     pneumothoraces or pleural thickening seen.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  The liver, spleen, pancreas,
+     gallbladder, visualized loops of small and large bowel are unremarkable.
+     Multiple surgical clips are seen in the right renal fossa.  This is consistent
+     with the patient's history of a right nephrectomy.  No abnormal masses are
+     seen in this area.  The left and right adrenal glands are present and within
+     normal limits.  In the periportal area the previously seen lymph node again
+     identified but has decreased in size and now measures 6 x 13 mm which is
+     decreased from 14 x 10 mm on the prior study.  The hyperdense mass is seen
+     from the lower portion of the left kidney which previously measured 30 x 30 x
+     35 mm and has not decreased significantly in size and most likely represented
+     post op changes and if indicated can be followed up with ultrasound.  There is
+     no free fluid or new lymphadenopathy seen.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  The visualized small and large bowel
+     loops are normal in course and caliber.  The bladder and prostate are
+     unremarkable.
+     
+     BONE WINDOWS:  No suspicious lytic or sclerotic lesions are identified.  There
+     is an old right rib fracture seen.
+     
+     IMPRESSION:
+     1)  There has been no significant change in the left upper lobe and right
+     lower lobe pulmonary nodules.
+     2)  The periportal lymph node has decreased in size in the left kidney and
+                                                                 (Over)
+
+     DATE: [**3484-8-18**] 7:40 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7693**]
+     CT PELVIS W/O CONTRAST
+     Reason: Follow-up oncology patient. Please compare to prior films an
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     lower pole cystic hyperdensity, completely resolved.
+     3)  Old right rib fracture.
+     4)  No new lymphadenopathy or metastatic foci are identified.
+
+",,
+8429,,,,3484-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8429,,,,3484-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8429,,,,3484-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-11-17**] 8:27 AM
+     MR HEAD W & W/O CONTRAST                                        Clip # [**Clip Number (Radiology) 7694**]
+     Reason: patient with history of met.rcca s/p stroke. Please assess d
+      Contrast: MAGNEVIST Amt: 10
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with metastatic renal cell carcinoma s/p stroke. Please assess
+      disease status.
+     REASON FOR THIS EXAMINATION:
+      patient with history of met.rcca s/p stroke. Please assess disease status.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     MR OF THE HEAD:
+     
+     INDICATION:  A history of metastatic renal cell cancer with history of stroke.
+     TECHNIQUE:  Multiplanar T1 and T2 imaging was obtained without and then
+     following the administration of Gadolinium.
+     
+     FINDINGS:  Comparison is made to a prior MR of the head from [**3484-8-18**].  The
+     appearance of the brain is unchanged since that time.  There is no mass
+     effect, shift of normally midline structures, or hydrocephalus.  The
+     previously described bilateral cerebellar infarcts are unchanged.  Multiple
+     tiny areas of T2 hyperintensity present bilaterally, again consistent with
+     chronic microvascular infarction.  There are no areas of abnormal enhancement.
+     There is a small region of susceptibility artifact within the body of the
+     corpus callosum on the left side.  This does not show enhancement with
+     Gadolinium, and in retrospect was seen on the prior study.  It appears to be
+     related to an adjacent blood vessel, and MR angiography is recommended to
+     further characterize this finding.
+     
+     The visualized soft tissues are unremarkable.
+     
+     IMPRESSION:  No evidence of metastatic disease.  Small area of abnormal
+     susceptibility within the corpus callosum on the left.  Please see above
+     comments.
+     
+     
+     
+     
+
+",,
+8429,,,,3484-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8429,,,,3484-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-11-17**] 8:37 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7695**]
+     CT PELVIS W/O CONTRAST
+     Reason: patient with history of met rcca. assess disease status. Ple
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with renal cell cancer, assess disease status. Please list all
+      lesions in oncology table
+     REASON FOR THIS EXAMINATION:
+      patient with history of met rcca. assess disease status. Please list all
+      lesion in oncology table
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of metastatic renal cell carcinoma.  Follow-up.
+     
+     TECHNIQUE:  Helically acquired axial images were obtained from the thoracic
+     inlet to the pubic symphysis.  Oral contrast was given to the patient.
+     Intravenous contrast was not used secondary to patient's history of
+     nephrectomy.
+     
+     COMPARISON:  [**3484-8-18**].
+     
+     CHEST WITHOUT INTRAVENOUS CONTRAST:  The heart and pericardium are within
+     normal limits.  The pulmonary vasculature is unremarkable.  There is no
+     evidence of hilar, mediastinal or axillary lymphadenopathy.  Again noted is a
+     dominant pulmonary nodule in the left upper lobe, currently measuring 1.7 x
+     2.1 cm, compared to the prior measurement of 1.1 x 1.7 cm.  The previously
+     noted right lower lobe nodule demonstrates no significant change from the
+     prior exam, and measures 6 mm.  There are no pleural effusions, pneumothoraces
+     or focal consolidation noted.
+     
+     CT ABDOMEN WITHOUT INTRAVENOUS CONTRAST:  The liver, spleen, pancreas,
+     gallbladder, and adrenals are unremarkable.  The visualized small and large
+     bowel loops are within normal limits.  Multiple surgical clips are noted in
+     the right renal fossa, consistent with prior history of right nephrectomy.
+     There is no disease recurrence noted in the right nephrectomy bed.  There has
+     been no significant interval change in the previous noted lymph node in the
+     periorbital area.  There is minimal fat stranding associated with the left
+     kidney.  The left kidney is otherwise unremarkable.  There is no free fluid or
+     free air in the abdomen.  No evidence of retroperitoneal or mesenteric
+     lymphadenopathy.
+     
+     CT PELVIS WITHOUT INTRAVENOUS CONTRAST:   The visualized small and large bowel
+     loops are normal in course and caliber.  The bladder and prostate are
+     unremarkable.
+     
+     Bone windows demonstrate no evidence of suspicious lytic or blastic lesions.
+     Again noted is old right rib fracture.
+     
+     IMPRESSION:
+     
+     There has been interval increase in the size of the left upper lobe nodule. No
+                                                                 (Over)
+
+     DATE: [**3484-11-17**] 8:37 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7695**]
+     CT PELVIS W/O CONTRAST
+     Reason: patient with history of met rcca. assess disease status. Ple
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     significant change in the size of the right lower lobe pulmonary nodule.
+     
+     Stable appearance of the periorbital lymph node.
+     
+     
+
+",,
+8429,,,,3484-11-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-11-17**] 8:37 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7695**]
+     CT PELVIS W/O CONTRAST
+     Reason: patient with history of met rcca. assess disease status. Ple
+     Field of view: 40
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      58 year old man with renal cell cancer, assess disease status. Please list all
+      lesions in oncology table
+     REASON FOR THIS EXAMINATION:
+      patient with history of met rcca. assess disease status. Please list all
+      lesion in oncology table
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of metastatic renal cell carcinoma.  Follow-up.
+     
+     TECHNIQUE:  Helically acquired axial images were obtained from the thoracic
+     inlet to the pubic symphysis.  Oral contrast was given to the patient.
+     Intravenous contrast was not used secondary to patient's history of
+     nephrectomy.
+     
+     COMPARISON:  [**3484-8-18**].
+     
+     CHEST WITHOUT INTRAVENOUS CONTRAST:  The heart and pericardium are within
+     normal limits.  The pulmonary vasculature is unremarkable.  There is no
+     evidence of hilar, mediastinal or axillary lymphadenopathy.  Again noted is a
+     dominant pulmonary nodule in the left upper lobe, currently measuring 1.7 x
+     2.1 cm, compared to the prior measurement of 1.1 x 1.7 cm.  The previously
+     noted right lower lobe nodule demonstrates no significant change from the
+     prior exam, and measures 6 mm.  There are no pleural effusions, pneumothoraces
+     or focal consolidation noted.
+     
+     CT ABDOMEN WITHOUT INTRAVENOUS CONTRAST:  The liver, spleen, pancreas,
+     gallbladder, and adrenals are unremarkable.  The visualized small and large
+     bowel loops are within normal limits.  Multiple surgical clips are noted in
+     the right renal fossa, consistent with prior history of right nephrectomy.
+     There is no disease recurrence noted in the right nephrectomy bed.  There has
+     been no significant interval change in the previous noted lymph node in the
+     periorbital area.  There is minimal fat stranding associated with the left
+     kidney.  The left kidney is otherwise unremarkable.  There is no free fluid or
+     free air in the abdomen.  No evidence of retroperitoneal or mesenteric
+     lymphadenopathy.
+     
+     CT PELVIS WITHOUT INTRAVENOUS CONTRAST:   The visualized small and large bowel
+     loops are normal in course and caliber.  The bladder and prostate are
+     unremarkable.
+     
+     Bone windows demonstrate no evidence of suspicious lytic or blastic lesions.
+     Again noted is old right rib fracture.
+     
+     IMPRESSION:
+     
+     There has been interval increase in the size of the left upper lobe nodule. No
+                                                                 (Over)
+
+     DATE: [**3484-11-17**] 8:37 AM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 7695**]
+     CT PELVIS W/O CONTRAST
+     Reason: patient with history of met rcca. assess disease status. Ple
+     Field of view: 40
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     significant change in the size of the right lower lobe pulmonary nodule.
+     
+     Stable appearance of the periorbital lymph node.
+     
+     
+
+",,

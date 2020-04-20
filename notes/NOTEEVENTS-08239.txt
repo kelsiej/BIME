@@ -1,0 +1,95 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8239,8412,,,3226-02-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3226-2-5**]       Discharge Date:
+
+Date of Birth:                    Sex:  M
+
+Service:  Trauma Surgery.
+
+HISTORY OF PRESENT ILLNESS:  This is a 79-year-old male who
+fell 15 feet off a ladder.  He presented as a trauma alert as
+part of a trauma transfer from an outside facility.  At the
+scene, reportedly, he was unresponsive.  The patient was
+intubated and presented to an outside hospital.  A CT at the
+outside hospital demonstrated a depressed skull fracture and
+a large subdural hematoma.  The patient was transferred to
+[**Hospital1 75**] for definitive
+treatment.  The patient was hemodynamically stable throughout
+transfer.
+
+PAST MEDICAL HISTORY:  The patient's past medical history is
+significant for hypercholesterolemia and prostate cancer.
+
+PAST SURGICAL HISTORY:  The patient has no known past
+surgical history.
+
+MEDICATIONS:  His only medication is Lipitor.
+
+PHYSICAL EXAMINATION:  Upon arrival, the patient was
+hypothermic with a temperature of 96.2, blood pressure
+123/65, heart rate 54.  He was intubated and saturating 100
+percent.  On exam, his left pupil was 4 mm and nonreactive.
+The right pupil was 2 mm and sluggishly reactive.  On exam,
+the patient was intubated, collared.  Chest exam revealed no
+obvious sign of injury, no stepoff, no crepitus.  He had
+equal breath sounds bilaterally.  The trachea was in the
+midline.  Cardiovascularly, his rate and rhythm were regular.
+His abdomen was soft, nontender.  The pelvis was stable.  The
+extremities demonstrated no obvious bony injuries, and he had
+bilaterally palpable pulses in all extremities.  The rectal
+exam demonstrated weak tone.  On log roll, the patient
+demonstrated no stepoffs or hematomas of the back.
+
+LABORATORY DATA:  CT scan from the outside hospital
+demonstrated a large subdural hematoma, frontal contusion,
+and a large occipital skull fracture.
+
+HOSPITAL COURSE:  An urgent neurosurgical consultation was
+obtained at which point the neurosurgeons determined that the
+patient's status was critical, and he should transferred
+immediately to the operating room.  The patient underwent an
+emergent left craniotomy with evacuation of a subdural
+hematoma and release of intracranial pressure.
+Postoperatively, the patient was transferred to the Surgical
+Intensive Care Unit.
+
+Upon transfer, the patient was noted to be completely
+unresponsive with fixed and dilated pupils.  An urgent family
+meeting was undertaken with the neurosurgical team and the
+Surgical Intensive Care Unit team along with the trauma
+surgeons, and the patient was given a ""Do Not Resuscitate""
+order.  Neurologically, at that time, he had fixed and
+dilated pupils and no gag or corneal reflexes.  His apnea
+test was negative for any spontaneous respiratory activity.
+
+A second family meeting was undertaken in the presence of the
+neurosurgical team, the trauma team, and the Surgical
+Intensive Care Unit team, at which time the patient's grim
+diagnosis was discussed, and the mutual decision was made to
+withdraw care.  Care was withdrawn, and the patient expired
+at 01:00 on [**3226-2-16**].
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 201**], M.D.  [**MD Number 202**]
+
+Dictated By:[**Last Name (NamePattern1) 2463**]
+MEDQUIST36
+
+D:  [**3226-3-27**]  16:04
+T:  [**3226-3-27**]  20:15
+JOB#:  [**Job Number 11414**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Doctor Last Name **]
+ on: WED [**3226-4-15**] 2:41 PM
+(End of Report)
+
+
+",,
+8239,,10256,0,3226-02-06 01:31:00 EST,3226-02-06 01:48:00 EST,3438,"N",53,"Nursing/Other","R/SICU NURSING NOTE","
+R/SICU NURSING NOTE
+Pt. is a 79 year old man admitted to CTIC/SICU  from OR.  Pt fell from ladder at his home went to [**Hospital 936**] Hospital hospital and then transferred to [**Hospital1 22**].  Injuries include depressed skull fx, and large brain contusion.  Pt. went to OR with neurosurgery in effort to repair injury and stop intercranial bleed.Pt. without reflexes, pupils fixed and dilated.  Family at bedside and advised by Dr. [**First Name (STitle) 173**] and neuro surgeon that pt. had devestating head injury and would not survive.  Pt. family all gathered and decision was made to cease life support. Pt. extubated and died peacefully at 01:30am.  Dr. [**Last Name (STitle) 1077**] here from trauma and declared pt. and called medical examiner.
+",,

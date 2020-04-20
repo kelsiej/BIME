@@ -1,0 +1,1301 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8128,12234,,,2770-04-15 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2770-4-15**]              Discharge Date:   [**2770-4-29**]
+ 
+Date of Birth:  [**2683-11-15**]             Sex:   M
+ 
+Service: MED
+ 
+Allergies: 
+Aspirin
+ 
+Attending:[**First Name3 (LF) 922**] 
+Chief Complaint:
+syncope and bright red blood per rectum
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+86yo male with gastrointestinal stromal tumor diagnosed in 
+[**2769-11-3**] after he presented with a lower GI bleed and was 
+found to have a 17x17 cm abdominal mass, with a negative EGD and 
+colonoscopy.  He required multiple transfusions at that time, 
+and was started on gleevec, which was subsequently stopped 
+secondary to lower extremity edema and diarrhea.  It was 
+restarted on [**4-3**], with some shrinkage in tumor.  He was then 
+readmitted to [**Hospital1 83**] on [**2770-4-15**] after he presented with  bright 
+red blood per rectum.  He was admitted to the MICU, and 
+transfused as needed.  No further oncologic management was felt 
+necessary, nor possible, and he was subsequently transferred to 
+the regular floor with the goal of comfort and support with 
+blood transfusions until the rest of his family arrived.  
+ 
+Past Medical History:
+GIST-unresectable, manifested with LGIB
+RBBB
+PNA
+CRF
+chronic lower extremity edema
+ 
+Social History:
+Retired Laoatian general with 13 kids.  He denies alcohol or 
+tobacco use.  
+ 
+Family History:
+noncontributory
+ 
+Physical Exam:
+Gen-chronically ill-appearing male, fatigued, nad
+HEENT-op with thrush, mmm, eomi, perrl, no scleral icterus
+Neck-supple, no jvd or [**Doctor First Name **]
+Pulm-cta bilaterally
+CV-regular, no m/r/g
+Abd-distended, hyperactive bowel sounds, large right-sided mass 
+that was nontender
+Ext-2+ edema to knees bilaterally, trace distal pulses
+ 
+Pertinent Results:
+[**2770-4-17**] 05:30PM BLOOD WBC-11.4* RBC-3.50* Hgb-10.6* Hct-29.5* 
+MCV-84 MCH-30.2 MCHC-35.8* RDW-14.7 Plt Ct-180
+[**2770-4-17**] 05:30PM BLOOD Plt Ct-180
+[**2770-4-17**] 02:42AM BLOOD Glucose-86 UreaN-13 Creat-1.0 Na-140 
+K-3.9 Cl-113* HCO3-19* AnGap-12
+[**2770-4-17**] 02:42AM BLOOD Calcium-7.5* Phos-3.2 Mg-1.8
+ 
+Brief Hospital Course:
+Briefly, Mr. [**Known patient lastname 11218**] was transferred to the floor with the 
+goal of comfort and blood transfusions and fluid as needed for 
+support until further family members could arrive.  He received 
+multiple transfusions as he was having [**2-5**] large bloody bowel 
+movements per day.  He required approximately [**1-7**] 
+transfusions/day.  On [**4-23**], a family meeting was held at which 
+time it was decided to withdraw support with the feeling that he 
+would pass away within hours, and with a change in the goals of 
+care to comfort, with no further support with transfusions, etc. 
+ After withdrawing support, he was placed on multiple 
+medications for comfort, and became unresponsive.  He remained 
+alive for days longer than the team  had anticipated.  He 
+continually appeared comfortable, and was intermittently 
+tachypnic, requiring morphine.
+
+The patient passed away on [**4-29**] at 2:30 am.  His family was at 
+his bedside and he appeared comfortable throughout.
+ 
+Medications on Admission:
+tylenol prn
+protonix 40qd
+
+ 
+Discharge Medications:
+none
+
+ 
+Discharge Disposition:
+Home with Service
+ 
+Discharge Diagnosis:
+inoperable gastric stromal cancer
+
+ 
+Discharge Condition:
+n/a
+ 
+Discharge Instructions:
+n/a
+ 
+Followup Instructions:
+n/a
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern1) 923**] MD, [**MD Number 924**]
+ 
+Completed by: [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 11219**] [**2770-4-29**] @ 1319
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 929**] [**Doctor Last Name **]
+ on: [**Doctor First Name 46**] [**2770-5-28**] 8:11 AM
+(End of Report)
+
+
+",,
+8128,12234,,,2770-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-15**] 3:47 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5075**]
+     Reason: eval for pleural effusions, CHF                             
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       86 year old man with GIB [**1-5**] GIST.  bibasilar crackles, now receiving large 
+      volume fluids.
+     REASON FOR THIS EXAMINATION:
+      eval for pleural effusions, CHF                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pleural effusions, CHF, GI bleed, bibasilar crackles.
+     
+     AP chest dated [**2770-4-15**] is compared with the PA and lateral radiographs
+     dated [**2770-2-25**].
+     
+     The heart is enlarged.  The aorta is tortuous.  There is improved aeration of
+     the left lower lobe.  The pulmonary vasculature appears normal.  There are no
+     pleural effusions or pneumothoraces.  The osseous structures are unremarkable.
+     
+     IMPRESSION:  No evidence of acute cardiopulmonary disease.  Improved aeration
+     of the left lower lobe compared with the prior study.
+
+",,
+8128,12234,,,2770-04-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     GI BLEEDING STUDY                                               Clip # [**Clip Number (Radiology) 5074**]
+     Reason: BRBPR.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Bright red blood per rectum. 
+      
+     INTERPRETATION:  Following intravenous injection of autologous red blood cells 
+     labeled with Tc-99m, blood flow and delayed images of the abdomen for 130 
+     minutes were obtained. 
+      
+     Blood flow images show a central area of photopenia with normal perfusion in the
+     periphery of the abdomen (consistent with the known large GI stromal tumor). 
+      
+     Delayed blood pool images show a large central area of photopenia with no
+     abnormal accumulation of radiotracer. 
+      
+     The one hour delayed image again demonstrates the abdominal mass and normal
+     genital activity.  No evidence of active GI bleed noted. 
+      
+     IMPRESSION:  No active GI bleed seen.  The findings were discussed with the IR
+     team. 
+      
+     /nkg 
+                                                                           
+
+             [**Name6 (MD) 2366**] [**Name8 (MD) 2367**], M.D.
+             [**First Name8 (NamePattern2) 748**] [**Last Name (NamePattern1) 749**], M.D.         Approved: [**Doctor First Name 114**] [**2770-4-16**] 1:23 PM
+
+
+             Date Mailed: [**2770-4-17**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8128,12234,10114,0,2770-04-16 03:56:00 EST,2770-04-16 04:26:00 EST,2804,"N",69,"Nursing/Other",,"
+
+NEURO; PT. IS LOATIAN SPEAKING ONLY. DAUGHTER HAS REMAINED AT BEDSIDE AND TRANSLATES FOR PT. PT. IS NOTED TO BE A/A/O X3. DENIES ANY PAIN OR DISCOMFORT DURING THIS SHIFT. PT. HAS REMAINED AFEBRILE WITH TMAX 98.2. PT. MAE'S AND FOLLOWS SIMPLY COMMANDS.
+
+CV; PT. HAS BEEN NSR IN THE 70-80'S WITH RIGHT BBB, AND NO NOTED ECTOPY AT THIS TIME. B/P HAS BEEN STABLE WITH MAP'S >60, REFER TO CAREVUE. PULSES ARE WEAK BUT PALPABLE, WITH LEFT LOWER EXT EDEMATOUS. PT. RECEIVED 2 UNITS OF PRBC'S FOR HCT. 25. AM LABS PENDING. PT. IS PRESENTLY FULL CODE.
+
+RESP; PT. HAS BEEN 100% ON 2L/MIN VIA NASAL CANNULA. LUNGS HAVE REMAINED CLEAR AND RESP RATE CONTROLLED. NONPRODUCTIVE COUGH NOTED.
+
+GU/GI; PT. IS PRESENTLY NPO, B.S. ARE HYPOACTIVE AND PT. HAS HAD 3 EPISODES OF MODERATE SIZED CLOTS PER RECTUM, TEAM IS AWARE. BLOOD, AND BOLUS GIVEN. RED TAG SCAN YESTERDAY IS NEGATIVE. ABD. REMAINS UNCHANGED WHICH IS FIRM AND DISTENDED. FOLEY CATH. IN PLACE DRAINING 60-120CC OF CLEAR YELLOW URINE PER HOUR.
+
+IV; PT. HAS 2 #18'S IN LEFT AC AND LEFT LOWER ARM. THESE REMAIN INTACT AND SECURED, WITH IVF INFUSING AS ORDERED.
+
+SKIN; REMAINS GROSSLY INTACT.
+
+DISPO; PT'S CODE STATUS WILL BE READDRESSED FOLLOWING AM LABS AND WITH FURTHER DISCUSSION WITH PRIMARY ONCOLOGIST. PT. WILL BE SCOPED FIR PERSISTANT BRBPR.
+",,
+8128,12234,10114,0,2770-04-16 17:44:00 EST,2770-04-16 17:55:00 EST,2720,"N",69,"Nursing/Other",,"
+
+MICU Nursing Progress 7a-7p
+ Neuro-
+A&O x3, fatiqued, conversing w/ family, FC, MAE.
+Family meeting involved obtaining his input re: care decisiosns w/ care team and interperter. Family unsure whether pt fully understand implications of DNR status and blood trx given his dx. 
+REsp-
+28-20 w/ 100% sat. One episode of ^rr in setting of rapid amt fluid intake, resolved in 1-2h w/o c/o, relieved w/ O2 and comfort measures.
+CV-
+90-140/40-80, HR 83-128 SR/ST. U/o 20-60/hr. NS @ 100hr.
+GI- 
+NPO, taking sips as wanted, BRBPR x2 today. Transfused w/ 2u PRBC, post Hct to be done 8-9pm. Trace bs, nt, +firm and distended.
+Family meeting-
+All family, PCP adn MICU care team present. FAily and pt informed of pt terminal status. Coverse w/ pt via interperter and ? whether pt understands gravity of illness in setting of culture that never gives up hope. Family , PCP and pt will readdress in am. Pt remains Full code, and blood tx to keep pt hemodynamically stable.
+
+",,
+8128,12234,10114,0,2770-04-17 04:25:00 EST,2770-04-17 04:43:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+THIS IS AN 86 Y/O ASIAN MALE WITH A HX OF AN UNDISECTABLE ABD CA TUMOR THAT PRESENTED TO AN OSH WITH LGIB AND SYNCOPE. PMH INCLUSIVE OF HAVING HAD A GI BLEED LAST [**2766-11-20**] WHEN HE WAS DIAGNOSED WITH LARGE INTRABDOMINAL MASS. REQUIRED A TOTAL OF 23 UNITS OF BLOOD PRODUCTS AT THAT TIME.  UPON ARRIVAL TO [**Hospital1 22**] PT HAD RED TAG SCAN WHICH WAS NEGATIVE.  GI CONSULTED AND FEELS THAT HIS BLEEDING MAY BE LIKELY DUE TO VENOUS PRESSURE CAUSED BY HIS TUMOR GROWTH.  AT THIS TIME ENDOSCOPY WOULD BE FUTILE SINCE PROGNOSIS IS GRIM.  PT HAD ORIGINALLY BEEN A DNR/DNI BUT RESCINDED THE DECISION.  FAMILY MEETING IN ORDER TO DISCUSS TERMINAL STATUS OF PT AND QUESTION OF CODE STATUS/ HOSPICE.  
+
+NEURO:  PT DOES NOT SPEAK ENGLISH.  DAUGHTER HAS STAYED TO ASSIST WITH LANGUAGE BARRIER. AS PER DAUGHTER, PT IS ALERT AND ORIENTED X 3 ALTHOUGH DID HAVE ONE MOMENT OF CONFUSION (QUESTION OF SUNDOWNING-WHEN HE ATTEMPTED TO GET OUT OF BED AND PULLED OUT HIS 2 PIVS)  PT CLEARED WITH REORIENTATION.  ABLE TO FOLLOW COMMANDS, SPEECH CLEAR.  ABLE TO REPOSITION HIMSELF IN BED.  MAE X4 WITHOUT DIFFICULTY.  PERRLA/ 3 BRISK.  AFEBRILE.  NO SEIZURE ACTIVITY NOTED.
+
+RR:  BBS= ESSENTIALLY CLEAR.  BILATERAL CHEST EXPANSION NOTED.  RA.  RR 15-20 WITH NO C/O SOB OR DIFFICULTY BREATHING.  SP02 > OR = TO 95%. 
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  PALPABLE PULSES NOTED TO BILATERAL DORSALIS AND RADIALS.  DENIES ANY CHEST PAIN.  AM CRIT THIS AM IS 27- RECEIVED TOTAL OF 2 U PRBC'S,  SBP > OR = TO 100.  NO HYPER OR HYPOTENSIVE CRISIS NOTED.  HR 80-90, NO SIGNS OF ECTOPY NOTED.  2 PIV'S RESTARTED 18G TO R WRIST AND 18G LFA BOTH ARE SECURE AND PATENT. GOAL IS FOR CRIT TO REMAIN 20-23.  AM MAG OF 1.8 REPLETED WITH 2 GMS.
+
+GI:  ABD IS FIRM AND DISTENDED.  BS X 4 QUADRANTS.  NPO WITH ICE CHIPS- PT TOLERATES WELL.  NO N/V NOTED.  PT HAD 3 LARGE EPISODES OF CLOTS AND SOME FRANK BLOOD.  DR. [**Last Name (STitle) **] AWARE, AT BEDSIDE FOR LARGEST EPISODE.  PT DENIES ANY PAIN. 
+
+GU:  INDWELLING URETHRAL FOLEY CATHETER IS SECURE AND PATENT.  CLEAR, YELLOW URINE NOTED IN ADEQUATE AMOUNTS. 
+
+INTEG:  NO SIGNS OF BREAKDOWN NOTED TO BACK OR BUTTOCKS.  
+
+SOCIAL:  FAMIY IN AND OUT DURING THE SHIFT.  DAUGHTER HAS STAYED WITH HIM THIS EVENING.
+
+PLAN:  FAMILY DISCUSSION TO QUESTION CODE STATUS- CMO/HOSPICE/PALLIATIVE CARE.  NO INVASIVE PROCEDURES- WILL CONTINUE TO TX FOR GOAL CRIT OF 20-23.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]. 
+",,
+8128,12234,10114,0,2770-04-17 15:38:00 EST,2770-04-17 15:49:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICU B Nursing Progress Note (0700-1900)
+
+Very in depth family meeting held today with Dr. [**First Name8 (NamePattern2) 5419**] [**Name (STitle) 2582**] (ethics), PCP, [**Name10 (NameIs) 5420**], nursing and several family members...including 2 daughters. Communication via interpreter and pt. was able to participate in the discussion. Treatment will continue to include transfusion of PRBC's, as long as this is effective and pt. is comfortable and able to enjoy his family. Pt. and family aware that there is nothing further to be done regarding treatment of primary gastric tumor. Please see Dr.[**Last Name (un) 5421**] comprehensive note. DNR/DNI  order not yet written. 
+
+CNS: Per family, pt. is alert, oriented and cooperative. Extremely pleasant, making appropriate requests. Denies any pain at this time. 
+
+GI: AM Hct of 26. Currently receiving second of two units and Hct will be checked when transfusion complete. Pt. has had 2 episodes of large amounts of BRBPR with huge clots. Allowing pt. small amounts of clear liqs at his request.
+
+RESP: Lungs clear and sats of 98% on room air. RR in the mid 20's. 
+
+CVS: Heart rate in the 80's, NSR without VEA. B/P borderline at 86-96/syst. 
+
+F and E: U.O. of approximately 30cc/hr. 
+
+SKIN: Intact.
+
+LINES: 2 peripheral #18's, functioning well. 
+
+
+",,
+8128,12234,10114,1,2770-04-17 20:38:00 EST,2770-04-17 20:54:00 EST,2762,"Y",69,"Nursing/Other",,"
+
+2150
+DNR/DNI order signed by attending Dr. [**Last Name (STitle) **].
+",,
+8128,12234,10114,0,2770-04-17 20:38:00 EST,2770-04-17 20:45:00 EST,2762,"N",69,"Nursing/Other",,"
+
+MICU-NPN 1900-2200
+
+Pt. is A&Ox3 per family, pt. is non-english speaking. Follows commands, denies pain. Afebrile, SBP 100's, HR 80's, no ectopy noted. LS clear, no SOB, Sat's 99-100%. abdomen firm and distended, +bs, tol sips clear liq. No stool as of this note. Hct stable @ 29, next HCT due @ 11pm. Pt. to be transferred to [**Hospital Ward Name 3**] 7, family @ bedside.
+",,
+8128,12234,,,2770-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ********************************* CPT Codes ********************************
+     * 36247 INITAL 3RD ORDER ABD/PEL/LOWER 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with GIST, massive GIB and no further onc mgt.  Not a surgical 
+      candidate, but alert and hemodynamically unstable.
+     REASON FOR THIS EXAMINATION:
+      id vessel for ?embolization for gi bleed                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 86-year-old male with gastrointestinal stromal tumor, with
+     significant GI bleeding.  The patient is not a surgical candidate but is
+     hemodynamically unstable.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 5078**].
+     
+     INTERVENTIONAL RADIOLOGIST:  Dr. [**Last Name (STitle) 513**].  Dr. [**Last Name (STitle) **], radiology
+     resident, assisted in the procedure.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained into the right femoral
+     artery.  A 5-French sheath was then placed, followed by advancement of a C2
+     glide catheter into the superior mesenteric artery.  There is significant
+     shift of the superior mesenteric artery from the large (greater than 15 cm in
+     diameter) GI stromal tumor.  Arteriograms from the proximal superior
+     mesenteric artery demonstrate significant mass effect from the tumor, with
+     large vessels feeding the circumference of the tumor and anastomosing in the
+     region of the ascending colon/hepatic flexure.  Delayed imaging of these
+     vessels demonstrates a tumor blush over the right lateral aspect of the tumor,
+     appearing to co-exist with the hepatic flexure.
+     
+     Selective inferior mesenteric arteriogram was then performed using a 4-French
+     SOS catheter.  This demonstrated no evidence for vascular malformation or
+     extravasation involving the sigmoid colon or rectum.  The descending colon did
+     not adequately opacify with these images.
+     
+     We then decided to performed subselective catheterization of superior
+     mesenteric branch vessels in an attempt to further delineate the
+     neovascularity and possible extravasation.  Third order branch vessels of the
+     SMA both cranial and caudal to the tumor were selected, and supraselective
+     arteriograms were performed from each of these.  This demonstrated a large
+     tumor blush, as well as what appears to be colonic invasion by the tumor.  The
+                                                                 (Over)
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     segment of colon involved appears to extend approximately 10 cm, and therefore
+     in order to treat this segment, both vessels would have to be embolized.  The
+     risk of infarction of bowel was then discussed with the attending physician,
+     [**Name10 (NameIs) **] it was decided to terminate the procedure.
+     
+     IMPRESSION:  Suparselective superior mesenteric arteriogram suggesting that
+     the 15 cm GI stromal tumor has invaded into the right colon for a segment of
+     approximately 10 cm.  Embolization of this segment of bowel would almost
+     certainly lead to infarction, infection and sepsis.  No intervention was
+     therefore performed.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+8128,12234,,,2770-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ********************************* CPT Codes ********************************
+     * 36247 INITAL 3RD ORDER ABD/PEL/LOWER 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with GIST, massive GIB and no further onc mgt.  Not a surgical 
+      candidate, but alert and hemodynamically unstable.
+     REASON FOR THIS EXAMINATION:
+      id vessel for ?embolization for gi bleed                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 86-year-old male with gastrointestinal stromal tumor, with
+     significant GI bleeding.  The patient is not a surgical candidate but is
+     hemodynamically unstable.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 5078**].
+     
+     INTERVENTIONAL RADIOLOGIST:  Dr. [**Last Name (STitle) 513**].  Dr. [**Last Name (STitle) **], radiology
+     resident, assisted in the procedure.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained into the right femoral
+     artery.  A 5-French sheath was then placed, followed by advancement of a C2
+     glide catheter into the superior mesenteric artery.  There is significant
+     shift of the superior mesenteric artery from the large (greater than 15 cm in
+     diameter) GI stromal tumor.  Arteriograms from the proximal superior
+     mesenteric artery demonstrate significant mass effect from the tumor, with
+     large vessels feeding the circumference of the tumor and anastomosing in the
+     region of the ascending colon/hepatic flexure.  Delayed imaging of these
+     vessels demonstrates a tumor blush over the right lateral aspect of the tumor,
+     appearing to co-exist with the hepatic flexure.
+     
+     Selective inferior mesenteric arteriogram was then performed using a 4-French
+     SOS catheter.  This demonstrated no evidence for vascular malformation or
+     extravasation involving the sigmoid colon or rectum.  The descending colon did
+     not adequately opacify with these images.
+     
+     We then decided to performed subselective catheterization of superior
+     mesenteric branch vessels in an attempt to further delineate the
+     neovascularity and possible extravasation.  Third order branch vessels of the
+     SMA both cranial and caudal to the tumor were selected, and supraselective
+     arteriograms were performed from each of these.  This demonstrated a large
+     tumor blush, as well as what appears to be colonic invasion by the tumor.  The
+                                                                 (Over)
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     segment of colon involved appears to extend approximately 10 cm, and therefore
+     in order to treat this segment, both vessels would have to be embolized.  The
+     risk of infarction of bowel was then discussed with the attending physician,
+     [**Name10 (NameIs) **] it was decided to terminate the procedure.
+     
+     IMPRESSION:  Suparselective superior mesenteric arteriogram suggesting that
+     the 15 cm GI stromal tumor has invaded into the right colon for a segment of
+     approximately 10 cm.  Embolization of this segment of bowel would almost
+     certainly lead to infarction, infection and sepsis.  No intervention was
+     therefore performed.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+8128,12234,,,2770-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ********************************* CPT Codes ********************************
+     * 36247 INITAL 3RD ORDER ABD/PEL/LOWER 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with GIST, massive GIB and no further onc mgt.  Not a surgical 
+      candidate, but alert and hemodynamically unstable.
+     REASON FOR THIS EXAMINATION:
+      id vessel for ?embolization for gi bleed                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 86-year-old male with gastrointestinal stromal tumor, with
+     significant GI bleeding.  The patient is not a surgical candidate but is
+     hemodynamically unstable.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 5078**].
+     
+     INTERVENTIONAL RADIOLOGIST:  Dr. [**Last Name (STitle) 513**].  Dr. [**Last Name (STitle) **], radiology
+     resident, assisted in the procedure.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained into the right femoral
+     artery.  A 5-French sheath was then placed, followed by advancement of a C2
+     glide catheter into the superior mesenteric artery.  There is significant
+     shift of the superior mesenteric artery from the large (greater than 15 cm in
+     diameter) GI stromal tumor.  Arteriograms from the proximal superior
+     mesenteric artery demonstrate significant mass effect from the tumor, with
+     large vessels feeding the circumference of the tumor and anastomosing in the
+     region of the ascending colon/hepatic flexure.  Delayed imaging of these
+     vessels demonstrates a tumor blush over the right lateral aspect of the tumor,
+     appearing to co-exist with the hepatic flexure.
+     
+     Selective inferior mesenteric arteriogram was then performed using a 4-French
+     SOS catheter.  This demonstrated no evidence for vascular malformation or
+     extravasation involving the sigmoid colon or rectum.  The descending colon did
+     not adequately opacify with these images.
+     
+     We then decided to performed subselective catheterization of superior
+     mesenteric branch vessels in an attempt to further delineate the
+     neovascularity and possible extravasation.  Third order branch vessels of the
+     SMA both cranial and caudal to the tumor were selected, and supraselective
+     arteriograms were performed from each of these.  This demonstrated a large
+     tumor blush, as well as what appears to be colonic invasion by the tumor.  The
+                                                                 (Over)
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     segment of colon involved appears to extend approximately 10 cm, and therefore
+     in order to treat this segment, both vessels would have to be embolized.  The
+     risk of infarction of bowel was then discussed with the attending physician,
+     [**Name10 (NameIs) **] it was decided to terminate the procedure.
+     
+     IMPRESSION:  Suparselective superior mesenteric arteriogram suggesting that
+     the 15 cm GI stromal tumor has invaded into the right colon for a segment of
+     approximately 10 cm.  Embolization of this segment of bowel would almost
+     certainly lead to infarction, infection and sepsis.  No intervention was
+     therefore performed.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+8128,12234,,,2770-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ********************************* CPT Codes ********************************
+     * 36247 INITAL 3RD ORDER ABD/PEL/LOWER 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with GIST, massive GIB and no further onc mgt.  Not a surgical 
+      candidate, but alert and hemodynamically unstable.
+     REASON FOR THIS EXAMINATION:
+      id vessel for ?embolization for gi bleed                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 86-year-old male with gastrointestinal stromal tumor, with
+     significant GI bleeding.  The patient is not a surgical candidate but is
+     hemodynamically unstable.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 5078**].
+     
+     INTERVENTIONAL RADIOLOGIST:  Dr. [**Last Name (STitle) 513**].  Dr. [**Last Name (STitle) **], radiology
+     resident, assisted in the procedure.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained into the right femoral
+     artery.  A 5-French sheath was then placed, followed by advancement of a C2
+     glide catheter into the superior mesenteric artery.  There is significant
+     shift of the superior mesenteric artery from the large (greater than 15 cm in
+     diameter) GI stromal tumor.  Arteriograms from the proximal superior
+     mesenteric artery demonstrate significant mass effect from the tumor, with
+     large vessels feeding the circumference of the tumor and anastomosing in the
+     region of the ascending colon/hepatic flexure.  Delayed imaging of these
+     vessels demonstrates a tumor blush over the right lateral aspect of the tumor,
+     appearing to co-exist with the hepatic flexure.
+     
+     Selective inferior mesenteric arteriogram was then performed using a 4-French
+     SOS catheter.  This demonstrated no evidence for vascular malformation or
+     extravasation involving the sigmoid colon or rectum.  The descending colon did
+     not adequately opacify with these images.
+     
+     We then decided to performed subselective catheterization of superior
+     mesenteric branch vessels in an attempt to further delineate the
+     neovascularity and possible extravasation.  Third order branch vessels of the
+     SMA both cranial and caudal to the tumor were selected, and supraselective
+     arteriograms were performed from each of these.  This demonstrated a large
+     tumor blush, as well as what appears to be colonic invasion by the tumor.  The
+                                                                 (Over)
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     segment of colon involved appears to extend approximately 10 cm, and therefore
+     in order to treat this segment, both vessels would have to be embolized.  The
+     risk of infarction of bowel was then discussed with the attending physician,
+     [**Name10 (NameIs) **] it was decided to terminate the procedure.
+     
+     IMPRESSION:  Suparselective superior mesenteric arteriogram suggesting that
+     the 15 cm GI stromal tumor has invaded into the right colon for a segment of
+     approximately 10 cm.  Embolization of this segment of bowel would almost
+     certainly lead to infarction, infection and sepsis.  No intervention was
+     therefore performed.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+8128,12234,,,2770-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ********************************* CPT Codes ********************************
+     * 36247 INITAL 3RD ORDER ABD/PEL/LOWER 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with GIST, massive GIB and no further onc mgt.  Not a surgical 
+      candidate, but alert and hemodynamically unstable.
+     REASON FOR THIS EXAMINATION:
+      id vessel for ?embolization for gi bleed                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 86-year-old male with gastrointestinal stromal tumor, with
+     significant GI bleeding.  The patient is not a surgical candidate but is
+     hemodynamically unstable.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 5078**].
+     
+     INTERVENTIONAL RADIOLOGIST:  Dr. [**Last Name (STitle) 513**].  Dr. [**Last Name (STitle) **], radiology
+     resident, assisted in the procedure.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained into the right femoral
+     artery.  A 5-French sheath was then placed, followed by advancement of a C2
+     glide catheter into the superior mesenteric artery.  There is significant
+     shift of the superior mesenteric artery from the large (greater than 15 cm in
+     diameter) GI stromal tumor.  Arteriograms from the proximal superior
+     mesenteric artery demonstrate significant mass effect from the tumor, with
+     large vessels feeding the circumference of the tumor and anastomosing in the
+     region of the ascending colon/hepatic flexure.  Delayed imaging of these
+     vessels demonstrates a tumor blush over the right lateral aspect of the tumor,
+     appearing to co-exist with the hepatic flexure.
+     
+     Selective inferior mesenteric arteriogram was then performed using a 4-French
+     SOS catheter.  This demonstrated no evidence for vascular malformation or
+     extravasation involving the sigmoid colon or rectum.  The descending colon did
+     not adequately opacify with these images.
+     
+     We then decided to performed subselective catheterization of superior
+     mesenteric branch vessels in an attempt to further delineate the
+     neovascularity and possible extravasation.  Third order branch vessels of the
+     SMA both cranial and caudal to the tumor were selected, and supraselective
+     arteriograms were performed from each of these.  This demonstrated a large
+     tumor blush, as well as what appears to be colonic invasion by the tumor.  The
+                                                                 (Over)
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     segment of colon involved appears to extend approximately 10 cm, and therefore
+     in order to treat this segment, both vessels would have to be embolized.  The
+     risk of infarction of bowel was then discussed with the attending physician,
+     [**Name10 (NameIs) **] it was decided to terminate the procedure.
+     
+     IMPRESSION:  Suparselective superior mesenteric arteriogram suggesting that
+     the 15 cm GI stromal tumor has invaded into the right colon for a segment of
+     approximately 10 cm.  Embolization of this segment of bowel would almost
+     certainly lead to infarction, infection and sepsis.  No intervention was
+     therefore performed.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+8128,12234,,,2770-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ********************************* CPT Codes ********************************
+     * 36247 INITAL 3RD ORDER ABD/PEL/LOWER 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with GIST, massive GIB and no further onc mgt.  Not a surgical 
+      candidate, but alert and hemodynamically unstable.
+     REASON FOR THIS EXAMINATION:
+      id vessel for ?embolization for gi bleed                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 86-year-old male with gastrointestinal stromal tumor, with
+     significant GI bleeding.  The patient is not a surgical candidate but is
+     hemodynamically unstable.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 5078**].
+     
+     INTERVENTIONAL RADIOLOGIST:  Dr. [**Last Name (STitle) 513**].  Dr. [**Last Name (STitle) **], radiology
+     resident, assisted in the procedure.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained into the right femoral
+     artery.  A 5-French sheath was then placed, followed by advancement of a C2
+     glide catheter into the superior mesenteric artery.  There is significant
+     shift of the superior mesenteric artery from the large (greater than 15 cm in
+     diameter) GI stromal tumor.  Arteriograms from the proximal superior
+     mesenteric artery demonstrate significant mass effect from the tumor, with
+     large vessels feeding the circumference of the tumor and anastomosing in the
+     region of the ascending colon/hepatic flexure.  Delayed imaging of these
+     vessels demonstrates a tumor blush over the right lateral aspect of the tumor,
+     appearing to co-exist with the hepatic flexure.
+     
+     Selective inferior mesenteric arteriogram was then performed using a 4-French
+     SOS catheter.  This demonstrated no evidence for vascular malformation or
+     extravasation involving the sigmoid colon or rectum.  The descending colon did
+     not adequately opacify with these images.
+     
+     We then decided to performed subselective catheterization of superior
+     mesenteric branch vessels in an attempt to further delineate the
+     neovascularity and possible extravasation.  Third order branch vessels of the
+     SMA both cranial and caudal to the tumor were selected, and supraselective
+     arteriograms were performed from each of these.  This demonstrated a large
+     tumor blush, as well as what appears to be colonic invasion by the tumor.  The
+                                                                 (Over)
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     segment of colon involved appears to extend approximately 10 cm, and therefore
+     in order to treat this segment, both vessels would have to be embolized.  The
+     risk of infarction of bowel was then discussed with the attending physician,
+     [**Name10 (NameIs) **] it was decided to terminate the procedure.
+     
+     IMPRESSION:  Suparselective superior mesenteric arteriogram suggesting that
+     the 15 cm GI stromal tumor has invaded into the right colon for a segment of
+     approximately 10 cm.  Embolization of this segment of bowel would almost
+     certainly lead to infarction, infection and sepsis.  No intervention was
+     therefore performed.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+8128,12234,,,2770-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ********************************* CPT Codes ********************************
+     * 36247 INITAL 3RD ORDER ABD/PEL/LOWER 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with GIST, massive GIB and no further onc mgt.  Not a surgical 
+      candidate, but alert and hemodynamically unstable.
+     REASON FOR THIS EXAMINATION:
+      id vessel for ?embolization for gi bleed                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 86-year-old male with gastrointestinal stromal tumor, with
+     significant GI bleeding.  The patient is not a surgical candidate but is
+     hemodynamically unstable.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 5078**].
+     
+     INTERVENTIONAL RADIOLOGIST:  Dr. [**Last Name (STitle) 513**].  Dr. [**Last Name (STitle) **], radiology
+     resident, assisted in the procedure.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained into the right femoral
+     artery.  A 5-French sheath was then placed, followed by advancement of a C2
+     glide catheter into the superior mesenteric artery.  There is significant
+     shift of the superior mesenteric artery from the large (greater than 15 cm in
+     diameter) GI stromal tumor.  Arteriograms from the proximal superior
+     mesenteric artery demonstrate significant mass effect from the tumor, with
+     large vessels feeding the circumference of the tumor and anastomosing in the
+     region of the ascending colon/hepatic flexure.  Delayed imaging of these
+     vessels demonstrates a tumor blush over the right lateral aspect of the tumor,
+     appearing to co-exist with the hepatic flexure.
+     
+     Selective inferior mesenteric arteriogram was then performed using a 4-French
+     SOS catheter.  This demonstrated no evidence for vascular malformation or
+     extravasation involving the sigmoid colon or rectum.  The descending colon did
+     not adequately opacify with these images.
+     
+     We then decided to performed subselective catheterization of superior
+     mesenteric branch vessels in an attempt to further delineate the
+     neovascularity and possible extravasation.  Third order branch vessels of the
+     SMA both cranial and caudal to the tumor were selected, and supraselective
+     arteriograms were performed from each of these.  This demonstrated a large
+     tumor blush, as well as what appears to be colonic invasion by the tumor.  The
+                                                                 (Over)
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     segment of colon involved appears to extend approximately 10 cm, and therefore
+     in order to treat this segment, both vessels would have to be embolized.  The
+     risk of infarction of bowel was then discussed with the attending physician,
+     [**Name10 (NameIs) **] it was decided to terminate the procedure.
+     
+     IMPRESSION:  Suparselective superior mesenteric arteriogram suggesting that
+     the 15 cm GI stromal tumor has invaded into the right colon for a segment of
+     approximately 10 cm.  Embolization of this segment of bowel would almost
+     certainly lead to infarction, infection and sepsis.  No intervention was
+     therefore performed.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+8128,12234,,,2770-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ********************************* CPT Codes ********************************
+     * 36247 INITAL 3RD ORDER ABD/PEL/LOWER 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with GIST, massive GIB and no further onc mgt.  Not a surgical 
+      candidate, but alert and hemodynamically unstable.
+     REASON FOR THIS EXAMINATION:
+      id vessel for ?embolization for gi bleed                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 86-year-old male with gastrointestinal stromal tumor, with
+     significant GI bleeding.  The patient is not a surgical candidate but is
+     hemodynamically unstable.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 5078**].
+     
+     INTERVENTIONAL RADIOLOGIST:  Dr. [**Last Name (STitle) 513**].  Dr. [**Last Name (STitle) **], radiology
+     resident, assisted in the procedure.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained into the right femoral
+     artery.  A 5-French sheath was then placed, followed by advancement of a C2
+     glide catheter into the superior mesenteric artery.  There is significant
+     shift of the superior mesenteric artery from the large (greater than 15 cm in
+     diameter) GI stromal tumor.  Arteriograms from the proximal superior
+     mesenteric artery demonstrate significant mass effect from the tumor, with
+     large vessels feeding the circumference of the tumor and anastomosing in the
+     region of the ascending colon/hepatic flexure.  Delayed imaging of these
+     vessels demonstrates a tumor blush over the right lateral aspect of the tumor,
+     appearing to co-exist with the hepatic flexure.
+     
+     Selective inferior mesenteric arteriogram was then performed using a 4-French
+     SOS catheter.  This demonstrated no evidence for vascular malformation or
+     extravasation involving the sigmoid colon or rectum.  The descending colon did
+     not adequately opacify with these images.
+     
+     We then decided to performed subselective catheterization of superior
+     mesenteric branch vessels in an attempt to further delineate the
+     neovascularity and possible extravasation.  Third order branch vessels of the
+     SMA both cranial and caudal to the tumor were selected, and supraselective
+     arteriograms were performed from each of these.  This demonstrated a large
+     tumor blush, as well as what appears to be colonic invasion by the tumor.  The
+                                                                 (Over)
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     segment of colon involved appears to extend approximately 10 cm, and therefore
+     in order to treat this segment, both vessels would have to be embolized.  The
+     risk of infarction of bowel was then discussed with the attending physician,
+     [**Name10 (NameIs) **] it was decided to terminate the procedure.
+     
+     IMPRESSION:  Suparselective superior mesenteric arteriogram suggesting that
+     the 15 cm GI stromal tumor has invaded into the right colon for a segment of
+     approximately 10 cm.  Embolization of this segment of bowel would almost
+     certainly lead to infarction, infection and sepsis.  No intervention was
+     therefore performed.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+8128,12234,,,2770-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ********************************* CPT Codes ********************************
+     * 36247 INITAL 3RD ORDER ABD/PEL/LOWER 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with GIST, massive GIB and no further onc mgt.  Not a surgical 
+      candidate, but alert and hemodynamically unstable.
+     REASON FOR THIS EXAMINATION:
+      id vessel for ?embolization for gi bleed                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 86-year-old male with gastrointestinal stromal tumor, with
+     significant GI bleeding.  The patient is not a surgical candidate but is
+     hemodynamically unstable.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 5078**].
+     
+     INTERVENTIONAL RADIOLOGIST:  Dr. [**Last Name (STitle) 513**].  Dr. [**Last Name (STitle) **], radiology
+     resident, assisted in the procedure.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained into the right femoral
+     artery.  A 5-French sheath was then placed, followed by advancement of a C2
+     glide catheter into the superior mesenteric artery.  There is significant
+     shift of the superior mesenteric artery from the large (greater than 15 cm in
+     diameter) GI stromal tumor.  Arteriograms from the proximal superior
+     mesenteric artery demonstrate significant mass effect from the tumor, with
+     large vessels feeding the circumference of the tumor and anastomosing in the
+     region of the ascending colon/hepatic flexure.  Delayed imaging of these
+     vessels demonstrates a tumor blush over the right lateral aspect of the tumor,
+     appearing to co-exist with the hepatic flexure.
+     
+     Selective inferior mesenteric arteriogram was then performed using a 4-French
+     SOS catheter.  This demonstrated no evidence for vascular malformation or
+     extravasation involving the sigmoid colon or rectum.  The descending colon did
+     not adequately opacify with these images.
+     
+     We then decided to performed subselective catheterization of superior
+     mesenteric branch vessels in an attempt to further delineate the
+     neovascularity and possible extravasation.  Third order branch vessels of the
+     SMA both cranial and caudal to the tumor were selected, and supraselective
+     arteriograms were performed from each of these.  This demonstrated a large
+     tumor blush, as well as what appears to be colonic invasion by the tumor.  The
+                                                                 (Over)
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     segment of colon involved appears to extend approximately 10 cm, and therefore
+     in order to treat this segment, both vessels would have to be embolized.  The
+     risk of infarction of bowel was then discussed with the attending physician,
+     [**Name10 (NameIs) **] it was decided to terminate the procedure.
+     
+     IMPRESSION:  Suparselective superior mesenteric arteriogram suggesting that
+     the 15 cm GI stromal tumor has invaded into the right colon for a segment of
+     approximately 10 cm.  Embolization of this segment of bowel would almost
+     certainly lead to infarction, infection and sepsis.  No intervention was
+     therefore performed.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+8128,12234,,,2770-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     GI BLEEDING STUDY                                               Clip # [**Clip Number (Radiology) 5076**]
+     Reason: MASSVE GI BLEEDING, NON-RECTABLE GI STROMAL TUMOR.    I
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Massive GI bleeding, non-resectable GI stromal tumor.  
+      
+     INTERPRETATION:  Following intravenous injection of autologous red blood cells 
+     labeled with Tc-99m, blood flow and dynamic images of the abdomen for 130   
+     minutes were obtained.  Lateral views of the abdomen were also obtained. 
+      
+     Blood flow images again demonstrate a central area of photopenia surrounded by a
+     rim of hyperperfusion, consistent with the patient's known large GI stromal
+     tumor. 
+      
+     Dynamic images over the abdomen demonstrate intense accumulation of radiotracer,
+     which appears to originate in the distal transverse colon with antegrade and
+     retrograde flow seen. 
+      
+     IMPRESSION:  Active GI bleeding, consistent with a source originating in the
+     distal transverse colon.  Results were discussed with the interventional and
+     clinical team immediately following completion of study. 
+     /nkg 
+                                                                           
+                                         Approved: MON [**2770-4-20**] 11:48 AM
+
+
+             Date Mailed: [**2770-4-21**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8128,12234,,,2770-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ********************************* CPT Codes ********************************
+     * 36247 INITAL 3RD ORDER ABD/PEL/LOWER 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with GIST, massive GIB and no further onc mgt.  Not a surgical 
+      candidate, but alert and hemodynamically unstable.
+     REASON FOR THIS EXAMINATION:
+      id vessel for ?embolization for gi bleed                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 86-year-old male with gastrointestinal stromal tumor, with
+     significant GI bleeding.  The patient is not a surgical candidate but is
+     hemodynamically unstable.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 5078**].
+     
+     INTERVENTIONAL RADIOLOGIST:  Dr. [**Last Name (STitle) 513**].  Dr. [**Last Name (STitle) **], radiology
+     resident, assisted in the procedure.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained into the right femoral
+     artery.  A 5-French sheath was then placed, followed by advancement of a C2
+     glide catheter into the superior mesenteric artery.  There is significant
+     shift of the superior mesenteric artery from the large (greater than 15 cm in
+     diameter) GI stromal tumor.  Arteriograms from the proximal superior
+     mesenteric artery demonstrate significant mass effect from the tumor, with
+     large vessels feeding the circumference of the tumor and anastomosing in the
+     region of the ascending colon/hepatic flexure.  Delayed imaging of these
+     vessels demonstrates a tumor blush over the right lateral aspect of the tumor,
+     appearing to co-exist with the hepatic flexure.
+     
+     Selective inferior mesenteric arteriogram was then performed using a 4-French
+     SOS catheter.  This demonstrated no evidence for vascular malformation or
+     extravasation involving the sigmoid colon or rectum.  The descending colon did
+     not adequately opacify with these images.
+     
+     We then decided to performed subselective catheterization of superior
+     mesenteric branch vessels in an attempt to further delineate the
+     neovascularity and possible extravasation.  Third order branch vessels of the
+     SMA both cranial and caudal to the tumor were selected, and supraselective
+     arteriograms were performed from each of these.  This demonstrated a large
+     tumor blush, as well as what appears to be colonic invasion by the tumor.  The
+                                                                 (Over)
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     segment of colon involved appears to extend approximately 10 cm, and therefore
+     in order to treat this segment, both vessels would have to be embolized.  The
+     risk of infarction of bowel was then discussed with the attending physician,
+     [**Name10 (NameIs) **] it was decided to terminate the procedure.
+     
+     IMPRESSION:  Suparselective superior mesenteric arteriogram suggesting that
+     the 15 cm GI stromal tumor has invaded into the right colon for a segment of
+     approximately 10 cm.  Embolization of this segment of bowel would almost
+     certainly lead to infarction, infection and sepsis.  No intervention was
+     therefore performed.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+8128,12234,,,2770-04-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ********************************* CPT Codes ********************************
+     * 36247 INITAL 3RD ORDER ABD/PEL/LOWER 36245 EA 1ST ORDER ABD/PEL/LOWER EXT*
+     * -59 DISTINCT PROCEDURAL SERVICE      36248 ADD'L 2ND/3RD ORDER ABD/PEL/LO*
+     * 75726 VISERAL SEL/SUPERSEL A-GRAM    75726 VISERAL SEL/SUPERSEL A-GRAM   *
+     * -59 DISTINCT PROCEDURAL SERVICE      75774 EA ADD'L VESSEL AFTER BASIC A-*
+     * 75774 EA ADD'L VESSEL AFTER BASIC A- C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with GIST, massive GIB and no further onc mgt.  Not a surgical 
+      candidate, but alert and hemodynamically unstable.
+     REASON FOR THIS EXAMINATION:
+      id vessel for ?embolization for gi bleed                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  An 86-year-old male with gastrointestinal stromal tumor, with
+     significant GI bleeding.  The patient is not a surgical candidate but is
+     hemodynamically unstable.
+     
+     REFERRING PHYSICIAN:  [**Last Name (NamePattern4) **]. [**First Name (STitle) 5078**].
+     
+     INTERVENTIONAL RADIOLOGIST:  Dr. [**Last Name (STitle) 513**].  Dr. [**Last Name (STitle) **], radiology
+     resident, assisted in the procedure.
+     
+     PROCEDURE/TECHNIQUE/FINDINGS:  The procedure was described to the patient and
+     informed consent was obtained.  Access was gained into the right femoral
+     artery.  A 5-French sheath was then placed, followed by advancement of a C2
+     glide catheter into the superior mesenteric artery.  There is significant
+     shift of the superior mesenteric artery from the large (greater than 15 cm in
+     diameter) GI stromal tumor.  Arteriograms from the proximal superior
+     mesenteric artery demonstrate significant mass effect from the tumor, with
+     large vessels feeding the circumference of the tumor and anastomosing in the
+     region of the ascending colon/hepatic flexure.  Delayed imaging of these
+     vessels demonstrates a tumor blush over the right lateral aspect of the tumor,
+     appearing to co-exist with the hepatic flexure.
+     
+     Selective inferior mesenteric arteriogram was then performed using a 4-French
+     SOS catheter.  This demonstrated no evidence for vascular malformation or
+     extravasation involving the sigmoid colon or rectum.  The descending colon did
+     not adequately opacify with these images.
+     
+     We then decided to performed subselective catheterization of superior
+     mesenteric branch vessels in an attempt to further delineate the
+     neovascularity and possible extravasation.  Third order branch vessels of the
+     SMA both cranial and caudal to the tumor were selected, and supraselective
+     arteriograms were performed from each of these.  This demonstrated a large
+     tumor blush, as well as what appears to be colonic invasion by the tumor.  The
+                                                                 (Over)
+
+     DATE: [**2770-4-18**] 4:18 PM
+     MESENTERIC                                                      Clip # [**Clip Number (Radiology) 5077**]
+     Reason: id vessel for ?embolization for gi bleed                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+      Contrast: OPTIRAY Amt: 235
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     segment of colon involved appears to extend approximately 10 cm, and therefore
+     in order to treat this segment, both vessels would have to be embolized.  The
+     risk of infarction of bowel was then discussed with the attending physician,
+     [**Name10 (NameIs) **] it was decided to terminate the procedure.
+     
+     IMPRESSION:  Suparselective superior mesenteric arteriogram suggesting that
+     the 15 cm GI stromal tumor has invaded into the right colon for a segment of
+     approximately 10 cm.  Embolization of this segment of bowel would almost
+     certainly lead to infarction, infection and sepsis.  No intervention was
+     therefore performed.
+     
+     
+     
+     
+     
+     
+     
+     
+     
+
+",,
+8128,12234,,,2770-04-20 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2770-4-20**] 9:44 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 5079**]
+     Reason: ?failure                                                    
+     Admitting Diagnosis: LOWER GASTROINTESTINAL BLEED;TUMOR
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with GI Bleed now with Resp. distress and increaseing O2 
+      requirement
+     REASON FOR THIS EXAMINATION:
+      ?failure                                                                        
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  GI bleed with respiratory distress, increasing O2 requirement. 
+     
+     PORTABLE AP CHEST: Comparison is made to previous films from [**2770-4-15**].
+     
+     The cardiac and mediastinal contours are stable. The aorta is tortuous. There
+     is a focal opacity within the left retrocardiac space obscuring the medial
+     left hemidiaphragm. The remainder of the lungs are clear. The pulmonary
+     vasculature is normal. There are no pleural effusions or pneumothoraces. The
+     osseous structures are unremarkable.
+     
+     IMPRESSION:   Focal left retrocardiac atelectasis. No evidence of CHF.
+
+",,

@@ -1,0 +1,1638 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8206,9793,,,2555-08-14 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2555-8-14**]              Discharge Date:   [**2555-8-21**]
+ 
+Date of Birth:  [**2481-4-14**]             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 3685**] 
+Chief Complaint:
+fall, intraparenchymal hemorrhage
+ 
+Major Surgical or Invasive Procedure:
+Left craniotomy for evacuation of subdural hematoma on the left 
+as well as intraparenchymal hemorrhage.
+
+ 
+History of Present Illness:
+Pt reportedly painting house on ?ladder vs. scaffolding when he 
+fell approximately 5ft.  Unclear whether or not there was a LOC. 
+ Pt taken to [**Hospital6 **] where reportedly GCS 14.  Pt 
+deteriorated in the CT scannner and was intubated.  Pt was then 
+transferred via Medflight to [**Hospital1 83**] for further evaluation. On 
+coumadin for A Fib -- INR was 4.0 at OSH.
+
+ 
+Past Medical History:
+Afib
+MI x2
+HTN
+Hypercholesterolemia
+Hernia repair
+
+ 
+Social History:
+Extremely supportive family.
+ 
+Family History:
+Noncontributory.
+ 
+Physical Exam:
+T:    BP:176/92    HR:74   RR:     O2Sats: 100%
+Gen: elderly appearing male lying on strecher with blood on left
+side of head
+HEENT: Pupils: R pupil 2mm Fixed;  L 3mm irreg Fixed
+Neck: Cervical collar
+Lungs: Clear
+Cardiac:  
+Abd: Soft
+Extrem: Warm and well-perfused
+ 
+Pertinent Results:
+[**2555-8-21**] 03:36AM BLOOD WBC-13.0* RBC-3.06* Hgb-9.7* Hct-28.7* 
+MCV-94 MCH-31.8 MCHC-33.8 RDW-15.9* Plt Ct-194
+[**2555-8-20**] 12:59AM BLOOD WBC-12.0* RBC-3.09* Hgb-9.7* Hct-28.6* 
+MCV-93 MCH-31.5 MCHC-34.1 RDW-15.8* Plt Ct-156
+[**2555-8-19**] 12:52AM BLOOD WBC-12.3* RBC-3.21* Hgb-10.1* Hct-29.9* 
+MCV-93 MCH-31.5 MCHC-33.9 RDW-15.9* Plt Ct-125*
+[**2555-8-18**] 01:42AM BLOOD WBC-11.3* RBC-3.11* Hgb-9.9* Hct-28.3* 
+MCV-91 MCH-31.8 MCHC-34.9 RDW-15.9* Plt Ct-114*
+[**2555-8-17**] 03:57AM BLOOD WBC-12.7* RBC-3.27* Hgb-10.5* Hct-30.0* 
+MCV-92 MCH-32.0 MCHC-34.9 RDW-16.0* Plt Ct-93*
+[**2555-8-21**] 03:36AM BLOOD Plt Ct-194
+[**2555-8-21**] 03:36AM BLOOD PT-11.1 PTT-21.9* INR(PT)-0.9
+[**2555-8-21**] 03:36AM BLOOD Glucose-105 UreaN-25* Creat-0.9 Na-145 
+K-4.3 Cl-109* HCO3-29 AnGap-11
+[**2555-8-20**] 07:30AM BLOOD Na-144
+[**2555-8-20**] 12:59AM BLOOD Glucose-123* UreaN-23* Creat-0.9 Na-142 
+K-3.8 Cl-108 HCO3-28 AnGap-10
+[**2555-8-21**] 03:36AM BLOOD Calcium-8.2* Phos-4.3 Mg-2.4
+[**2555-8-20**] 12:59AM BLOOD Calcium-7.8* Phos-3.7 Mg-2.3
+[**2555-8-19**] 12:52AM BLOOD Calcium-7.9* Phos-3.8 Mg-2.0
+[**2555-8-20**] 07:30AM BLOOD Osmolal-311*
+[**2555-8-20**] 12:59AM BLOOD Osmolal-311*
+[**2555-8-14**] 12:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+[**2555-8-21**] 03:48AM BLOOD Type-ART pO2-129* pCO2-49* pH-7.41 
+calTCO2-32* Base XS-5
+[**2555-8-20**] 01:19AM BLOOD Type-ART pO2-110* pCO2-41 pH-7.45 
+calTCO2-29 Base XS-3
+[**2555-8-16**] 02:15AM BLOOD Lactate-1.6
+[**2555-8-15**] 10:09AM BLOOD Lactate-1.0
+[**2555-8-19**] 04:44PM URINE Blood-SM Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-1 pH-7.0 Leuks-NEG
+[**2555-8-19**] 04:44PM URINE Color-Yellow Appear-Clear Sp [**Last Name (un) 20**]-1.021
+.
+.
+CT HEAD W/O CONTRAST  [**2555-8-14**] 5:56 PM
+
+CT HEAD W/O CONTRAST
+
+Reason: Eval. s/p decompressing craniectomy 
+
+UNDERLYING MEDICAL CONDITION:
+74 year old man s/p craniectomy for SDH 
+REASON FOR THIS EXAMINATION:
+Eval. s/p decompressing craniectomy 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATIONS: 74-year-old man status post craniotomy on the same 
+day for subdural hematoma. Trauma transfer patient.
+
+COMPARISON: Outside head CT dated [**2555-8-14**], 10:24 a.m. 
+on the same day.
+
+TECHNIQUE: Non-contrast head CT.
+
+FINDINGS: The patient is status post left frontooccipital 
+craniotomy with an open bony defect. There is persistent 
+intraparenchymal hemorrhage in the left frontal lobe, along the 
+anterior left cranial fossa floor. A more lateral hemorrhage 
+measures 1.8 cm in diameter. There is mild-to-moderate 
+persistent left falcine herniation as well as effacement of the 
+suprasellar cistern, which is persistent and mass effect on the 
+left cerebellar peduncle. Since the prior study, there is a new 
+hypodense region in most of the left posterior communicating 
+artery territory consistent with a recent infarction. Although 
+there is considerable mass effect on the left lateral ventricle 
+it remains open.
+
+The sphenoid sinus is opacified, and there is mucosal thickening 
+in the ethmoid and left maxillary sinus. This could be seen in 
+intubation. There is fluid in the left mastoid air cells and a 
+nondisplaced transverse mastoid fracture as well. In the skull 
+base, there is a slightly comminuted fracture adjacent to the 
+left hypoglossal canal. There are also numerous minimally 
+displaced fractures through the occiput without significant 
+displacement. Please see the cervical spine CT of the same day 
+also for further discussion.
+
+IMPRESSION:
+
+1. Status post craniotomy with open flap.
+
+2. Intraparenchymal hemorrhage with mass effect in the left 
+frontal lobe.
+
+3. New appearance of left posterior communicating artery 
+infarct.
+
+4. Occipital bone fractures, including fractures of the left 
+hypoglossal canal and in the mastoid bone on the left. Findings 
+were discussed with Dr. [**Last Name (STitle) **] at 9:50 p.m. on the same day.
+
+NOTE ADDED AT ATTENDING REVIEW: A subdural hematoma is also 
+present in the posterior fossa, just posterior to the right 
+cerebellar hemisphere. This measures approximately 1.1cm from 
+the inner table. There is a linear nondisplaced fracture in the 
+occipital bone overlying the hemorrhage. The fourth ventricle 
+remains patent.
+.
+.
+CT CHEST W/O CONTRAST  [**2555-8-14**] 5:01 PM
+
+CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST
+
+Reason: WITHOUT CONTRAST - please eval for intraabdominal 
+injury. Pl
+
+UNDERLYING MEDICAL CONDITION:
+76 year old man s/p fall from height, big SDH s/p decompressive 
+craniectomy 
+REASON FOR THIS EXAMINATION:
+WITHOUT CONTRAST - please eval for intraabdominal injury. Please 
+do recons for T/L/S spine 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATIONS: 76-year-old man status post fall with subdural 
+hematoma status post decompressive craniotomy. Evaluate for 
+intra-abdominal injury.
+
+COMPARISONS: None.
+
+TECHNIQUE: Axial CT images of the chest, abdomen, and pelvis 
+were obtained without intravenous contrast. Intravenous contrast 
+was not administered at the request of the referring physician. 
+[**Name10 (NameIs) 11346**] and coronal reconstructions were also performed.
+
+CT OF THE CHEST WITH IV CONTRAST: There is a Swan-Ganz catheter 
+terminating in the proximal main pulmonary artery. There are 
+coronary artery calcifications. There is a nasogastric tube 
+terminating in the antrum of the stomach. The patient is 
+intubated. Evaluation of the mediastinal structures is limited 
+without intravenous contrast. There is a small right pleural 
+effusion of low density.
+
+There is collapse of the left lower lobe with an abrupt cut-off 
+in the left lower lobe bronchus, suspicious for mucous plugging. 
+Discoid atelectasis present in the right lower lobe. Otherwise, 
+the lungs appear clear.
+
+CT OF THE ABDOMEN WITHOUT IV CONTRAST: Within the limitations of 
+a non- contrast study, the liver, gallbladder, pancreas, spleen, 
+adrenal glands are within normal limits. There is a 4 cm 
+diameter simple cyst in the lower pole of the right kidney. In 
+the right kidney there is a small round exophytic lesion of 
+intermediate density, 11 mm in diameter, which is indeterminate. 
+Splenic artery calcifications are noted. The stomach, small and 
+large bowel are within normal limits. The aorta and the iliac 
+arteries are densely calcified.
+
+CT OF THE PELVIS WITHOUT IV CONTRAST: There is a Foley catheter 
+in the bladder with associated air. The prostate, seminal 
+vesicles, sigmoid and rectum are unremarkable. There is no 
+lymphadenopathy or free fluid.
+
+BONE WINDOWS: There is an avulsion fracture, with slight 
+comminution, along the posterior left iliac [**Doctor First Name 456**]. No other 
+fracture is identified.
+
+IMPRESSION:
+
+1. Collapse of left lower lobe, with abrupt cut-off in the 
+related airway. Appearance is suspicious for atelectasis with 
+mucous plugging.
+
+2. An 11 mm indeterminate lesion in the left kidney. When 
+clinically stable, this lesion could be evaluated further with 
+ultrasound or cross sectional imaging with contrast in order to 
+exclude a small enhancing neoplasm.
+
+3. Fracture of the left ilium with associated hematoma in the 
+overlying subcutaneous tissues.
+
+Findings discussed with Dr. [**Last Name (STitle) **] on the same evening.
+.
+.
+WRIST(3 + VIEWS) LEFT PORT  [**2555-8-14**] 4:36 PM
+
+WRIST(3 + VIEWS) LEFT PORT
+
+Reason: question fracture 
+
+UNDERLYING MEDICAL CONDITION:
+76 year old man s/p fall from 5 foot scaffolding onto cement 
+REASON FOR THIS EXAMINATION:
+question fracture 
+HISTORY: Fall.
+
+Two radiographs of the left wrist are submitted. Diagnostic 
+quality is limited secondary to patient positioning. Overlying 
+tubing further limits evaluation. No fracture is seen. Soft 
+tissues are unremarkable. Joint spaces are maintained.
+.
+.
+CT HEAD W/O CONTRAST  [**2555-8-16**] 10:35 AM
+
+CT HEAD W/O CONTRAST
+
+Reason: F/U SDH S/P EVAC, HX. FALL FROM HEIGHT
+
+UNDERLYING MEDICAL CONDITION:
+74 year old man s/p craniectomy and IPH. 
+REASON FOR THIS EXAMINATION:
+F/U exam 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: Craniectomy. Follow up.
+
+NON-CONTRAST HEAD CT: Comparison with [**2555-8-15**], 6:01 
+a.m. Again seen is left to right midline shift, approximately 4 
+mm, similar in appearance to the previous examination. The 
+amount of intracranial subdural hemorrhage in the region of 
+craniectomy on the left is similar, measuring approximately 11 
+mm. Intraparenchymal hemorrhage in the left frontal lobe and 
+extensive hypodensity in the left occipital lobe is again noted. 
+Also seen is the epidural hematoma in the medial right 
+cerebellar hemisphere. Slightly increased opacification of 
+several ethmoid air cells is again noted. A small amount of 
+fluid in both maxillary sinuses is noted. Again seen are changes 
+of left craniotomy, with air outlining the left temporal tip, 
+smaller than previous. Staples are again seen overlying the 
+cranectomy defect.
+
+IMPRESSION: No significant interval change.
+.
+.
+CT L-SPINE W/O CONTRAST  [**2555-8-16**] 10:35 AM
+
+CT L-SPINE W/O CONTRAST; CT T-SPINE W/O CONTRAST
+
+Reason: FALL FROM HEIGHT, EVALUATE FOR THORACIC, LUMBAR FX
+
+UNDERLYING MEDICAL CONDITION:
+74 year old man with fall from height, subdural, s/p evac 
+REASON FOR THIS EXAMINATION:
+eval Lumbo-sacral spine for fracture 
+CONTRAINDICATIONS for IV CONTRAST: None.
+
+INDICATION: 74-year-old man status post fall and subdural 
+hematoma. Back pain.
+
+TECHNIQUE: Multidetector CT images are obtained through the 
+thoracic and lumbar spine. Coronal and sagittal reformatted 
+images were obtained.
+
+THORACIC SPINE: There is no evidence for fracture or 
+malalignment of the thoracic spine. The vertebral bodies are 
+normal in height. There are mild degenerative changes in the 
+form of osteophytes, most prominently at T8-T9 and T10-T11. 
+Schmorl's nodes are seen at T11 and T12. Posterior rib fractures 
+are seen at T5 and T6 level on the left. Additionally, there are 
+large bilateral pleural effusions with associated subsegmental 
+atelectasis at the bilateral lung bases. The visualized aorta 
+contains atherosclerotic calcifications. Within the visualized 
+abdomen, the right kidney contains a large hypodense rounded 
+focus in the mid pole with a rim of calcification. This was 
+better evaluated on the CT torso of [**2555-8-14**] but probably 
+represents a simple renal cyst.
+
+LUMBAR SPINE: Again, there is no evidence of vertebral body 
+fracture or malalignment. Degenerative changes are seen at 
+L4-L5. Again, within the surrounding soft tissues, 
+calcifications are seen within the aorta. A fracture is 
+identified of the left iliac [**Doctor First Name 456**] with an adjacent posterior 
+hematoma.
+
+IMPRESSION:
+1. No evidence for lumbar spine fracture or malalignment. 
+Degenerative changes as described above.
+2. Fractures through the left pelvis iliac [**Doctor First Name 456**] with an adjacent 
+posterior hematoma.
+3. Large bilateral pleural effusions within the visualized lung 
+fields.
+.
+.
+
+ 
+Brief Hospital Course:
+Head CT on admission shown a large left subdural with 
+intraparenchymal hemorrhage with about 2 cm midline shift and 
+sub pulse in herniation. He was taken emergently to the 
+operating room by the neurosurgery team for a Left craniotomy 
+and evacuation left of subdural hematoma and intraparenchymal 
+hemorrhage.  Post-operatively he was tranfused to maintain his 
+hematocrit above 30 and INR < 1.4. Mannitor and permissive 
+hypercarbia were continued. His neurologic exam was very poor 
+with decerebrate posturing and a GCS of 3T. The severity of his 
+injuries were discussed frankly with his family. His 
+hypertension was controlled with a nipride drip and tube feeds 
+were started via a OG tube. On [**2555-8-16**] the family opted to make 
+Mr. [**Known patient lastname 6127**] [**Last Name (Titles) 11347**] while awaiting out of town family to arrive. 
+Multiple indepth discussions were had between the family and the 
+neurosurgery staff regarding his grave prognosis. In accordance 
+with the patient's and family's wishes, he was extubated and 
+made CMO on [**2555-8-21**]. Passed away on [**2555-8-21**] at 2130.
+ 
+Medications on Admission:
+Coumadin
+Lipitor
+Protonix
+Zetia
+Topral XL
+Nifedipine
+Asa
+ 
+Discharge Medications:
+n/a
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+subdural hemorrhage, interparenchymal hemorrhage
+ 
+Discharge Condition:
+deceased
+ 
+Discharge Instructions:
+.
+ 
+Followup Instructions:
+.
+ 
+                             [**First Name11 (Name Pattern1) 738**] [**Last Name (NamePattern1) 3687**] MD [**MD Number 3688**]
+ 
+Completed by: [**First Name8 (NamePattern2) 755**] [**Name8 (MD) 756**] MD [**MD Number 757**] [**2555-8-21**] @ 2255
+Signed electronically by: DR. [**First Name (STitle) 738**] [**Doctor Last Name **]
+ on: MON [**2555-9-22**] 3:56 PM
+(End of Report)
+
+
+",,
+8206,9793,,,2555-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-14**] 5:56 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5783**]
+     Reason: Eval. s/p decompressing craniectomy                         
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man s/p craniectomy for SDH                                         
+     REASON FOR THIS EXAMINATION:
+      Eval. s/p decompressing craniectomy                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  74-year-old man status post craniotomy on the same day for
+     subdural hematoma.  Trauma transfer patient.
+     
+     COMPARISON:  Outside head CT dated [**2555-8-14**], 10:24 a.m. on the same
+     day.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  The patient is status post left frontooccipital craniotomy with an
+     open bony defect.  There is persistent intraparenchymal hemorrhage in the left
+     frontal lobe, along the anterior left cranial fossa floor.  A more lateral
+     hemorrhage measures 1.8 cm in diameter.  There is mild-to-moderate persistent
+     left falcine herniation as well as effacement of the suprasellar cistern,
+     which is persistent and mass effect on the left cerebellar peduncle.  Since
+     the prior study, there is a new hypodense region in most of the left posterior
+     communicating artery territory consistent with a recent infarction.  Although
+     there is considerable mass effect on the left lateral ventricle it remains
+     open.
+     
+     The sphenoid sinus is opacified, and there is mucosal thickening in the
+     ethmoid and left maxillary sinus.  This could be seen in intubation.  There is
+     fluid in the left mastoid air cells and a nondisplaced transverse mastoid
+     fracture as well.  In the skull base, there is a slightly comminuted fracture
+     adjacent to the left hypoglossal canal.  There are also numerous minimally
+     displaced fractures through the occiput without significant displacement.
+     Please see the cervical spine CT of the same day also for further discussion.
+     
+     IMPRESSION:
+     
+     1.  Status post craniotomy with open flap.
+     
+     2.  Intraparenchymal hemorrhage with mass effect in the left frontal lobe.
+     
+     3.  New appearance of left posterior communicating artery infarct.
+     
+     4.  Occipital bone fractures, including fractures of the left hypoglossal
+     canal and in the mastoid bone on the left.  Findings were discussed with Dr.
+     [**Last Name (STitle) 5782**] at 9:50 p.m. on the same day.
+     
+     NOTE ADDED AT ATTENDING REVIEW:  A subdural hematoma is also present in the
+     posterior fossa, just posterior to the right cerebellar hemisphere.  This
+                                                                 (Over)
+
+     DATE: [**2555-8-14**] 5:56 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5783**]
+     Reason: Eval. s/p decompressing craniectomy                         
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     measures approximately 1.1cm from the inner table.  There is a linear
+     nondisplaced fracture in the occipital bone overlying the hemorrhage. The
+     fourth ventricle remains patent.
+     
+     
+
+",,
+8206,9793,,,2555-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-14**] 5:01 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 5780**]
+     CT PELVIS W/O CONTRAST
+     Reason: WITHOUT CONTRAST - please eval for intraabdominal injury. Pl
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man s/p fall from height, big SDH s/p decompressive craniectomy     
+     REASON FOR THIS EXAMINATION:
+      WITHOUT CONTRAST - please eval for intraabdominal injury. Please do recons for 
+      T/L/S spine
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  76-year-old man status post fall with subdural hematoma status
+     post decompressive craniotomy.  Evaluate for intra-abdominal injury.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Axial CT images of the chest, abdomen, and pelvis were obtained
+     without intravenous contrast.  Intravenous contrast was not administered at
+     the request of the referring physician. [**Name10 (NameIs) 5781**] and coronal reconstructions
+     were also performed.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is a Swan-Ganz catheter terminating
+     in the proximal main pulmonary artery.  There are coronary artery
+     calcifications.  There is a nasogastric tube terminating in the antrum of the
+     stomach.  The patient is intubated.  Evaluation of the mediastinal structures
+     is limited without intravenous contrast.  There is a small right pleural
+     effusion of low density.
+     
+     There is collapse of the left lower lobe with an abrupt cut-off in the left
+     lower lobe bronchus, suspicious for mucous plugging.  Discoid atelectasis
+     present in the right lower lobe.  Otherwise, the lungs appear clear.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  Within the limitations of a non-
+     contrast study, the liver, gallbladder, pancreas, spleen, adrenal glands are
+     within normal limits.  There is a 4 cm diameter simple cyst in the lower pole
+     of the right kidney.  In the right kidney there is a small round exophytic
+     lesion of intermediate density, 11 mm in diameter, which is indeterminate.
+     Splenic artery calcifications are noted.  The stomach, small and large bowel
+     are within normal limits.  The aorta and the iliac arteries are densely
+     calcified.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is a Foley catheter in the
+     bladder with associated air.  The prostate, seminal vesicles, sigmoid and
+     rectum are unremarkable.  There is no lymphadenopathy or free fluid.
+     
+     BONE WINDOWS:  There is an avulsion fracture, with slight comminution, along
+     the posterior left iliac [**Doctor First Name 2055**]. No other fracture is identified.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2555-8-14**] 5:01 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 5780**]
+     CT PELVIS W/O CONTRAST
+     Reason: WITHOUT CONTRAST - please eval for intraabdominal injury. Pl
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Collapse of left lower lobe, with abrupt cut-off in the related airway.
+     Appearance is suspicious for atelectasis with mucous plugging.
+     
+     2.  An 11 mm indeterminate lesion in the left kidney.  When clinically stable,
+     this lesion could be evaluated further with ultrasound or cross sectional
+     imaging with contrast in order to exclude a small enhancing neoplasm.
+     
+     3.  Fracture of the left ilium with associated hematoma in the overlying
+     subcutaneous tissues.
+     
+     Findings discussed with Dr. [**Last Name (STitle) 5782**] on the same evening.
+     
+     
+     
+     
+     
+     
+
+",,
+8206,9793,,,2555-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-14**] 5:01 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 5780**]
+     CT PELVIS W/O CONTRAST
+     Reason: WITHOUT CONTRAST - please eval for intraabdominal injury. Pl
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man s/p fall from height, big SDH s/p decompressive craniectomy     
+     REASON FOR THIS EXAMINATION:
+      WITHOUT CONTRAST - please eval for intraabdominal injury. Please do recons for 
+      T/L/S spine
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  76-year-old man status post fall with subdural hematoma status
+     post decompressive craniotomy.  Evaluate for intra-abdominal injury.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Axial CT images of the chest, abdomen, and pelvis were obtained
+     without intravenous contrast.  Intravenous contrast was not administered at
+     the request of the referring physician. [**Name10 (NameIs) 5781**] and coronal reconstructions
+     were also performed.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is a Swan-Ganz catheter terminating
+     in the proximal main pulmonary artery.  There are coronary artery
+     calcifications.  There is a nasogastric tube terminating in the antrum of the
+     stomach.  The patient is intubated.  Evaluation of the mediastinal structures
+     is limited without intravenous contrast.  There is a small right pleural
+     effusion of low density.
+     
+     There is collapse of the left lower lobe with an abrupt cut-off in the left
+     lower lobe bronchus, suspicious for mucous plugging.  Discoid atelectasis
+     present in the right lower lobe.  Otherwise, the lungs appear clear.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  Within the limitations of a non-
+     contrast study, the liver, gallbladder, pancreas, spleen, adrenal glands are
+     within normal limits.  There is a 4 cm diameter simple cyst in the lower pole
+     of the right kidney.  In the right kidney there is a small round exophytic
+     lesion of intermediate density, 11 mm in diameter, which is indeterminate.
+     Splenic artery calcifications are noted.  The stomach, small and large bowel
+     are within normal limits.  The aorta and the iliac arteries are densely
+     calcified.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is a Foley catheter in the
+     bladder with associated air.  The prostate, seminal vesicles, sigmoid and
+     rectum are unremarkable.  There is no lymphadenopathy or free fluid.
+     
+     BONE WINDOWS:  There is an avulsion fracture, with slight comminution, along
+     the posterior left iliac [**Doctor First Name 2055**]. No other fracture is identified.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2555-8-14**] 5:01 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 5780**]
+     CT PELVIS W/O CONTRAST
+     Reason: WITHOUT CONTRAST - please eval for intraabdominal injury. Pl
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Collapse of left lower lobe, with abrupt cut-off in the related airway.
+     Appearance is suspicious for atelectasis with mucous plugging.
+     
+     2.  An 11 mm indeterminate lesion in the left kidney.  When clinically stable,
+     this lesion could be evaluated further with ultrasound or cross sectional
+     imaging with contrast in order to exclude a small enhancing neoplasm.
+     
+     3.  Fracture of the left ilium with associated hematoma in the overlying
+     subcutaneous tissues.
+     
+     Findings discussed with Dr. [**Last Name (STitle) 5782**] on the same evening.
+     
+     
+     
+     
+     
+     
+
+",,
+8206,9793,,,2555-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-14**] 5:01 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 5780**]
+     CT PELVIS W/O CONTRAST
+     Reason: WITHOUT CONTRAST - please eval for intraabdominal injury. Pl
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man s/p fall from height, big SDH s/p decompressive craniectomy     
+     REASON FOR THIS EXAMINATION:
+      WITHOUT CONTRAST - please eval for intraabdominal injury. Please do recons for 
+      T/L/S spine
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  76-year-old man status post fall with subdural hematoma status
+     post decompressive craniotomy.  Evaluate for intra-abdominal injury.
+     
+     COMPARISONS:  None.
+     
+     TECHNIQUE:  Axial CT images of the chest, abdomen, and pelvis were obtained
+     without intravenous contrast.  Intravenous contrast was not administered at
+     the request of the referring physician. [**Name10 (NameIs) 5781**] and coronal reconstructions
+     were also performed.
+     
+     CT OF THE CHEST WITH IV CONTRAST:  There is a Swan-Ganz catheter terminating
+     in the proximal main pulmonary artery.  There are coronary artery
+     calcifications.  There is a nasogastric tube terminating in the antrum of the
+     stomach.  The patient is intubated.  Evaluation of the mediastinal structures
+     is limited without intravenous contrast.  There is a small right pleural
+     effusion of low density.
+     
+     There is collapse of the left lower lobe with an abrupt cut-off in the left
+     lower lobe bronchus, suspicious for mucous plugging.  Discoid atelectasis
+     present in the right lower lobe.  Otherwise, the lungs appear clear.
+     
+     CT OF THE ABDOMEN WITHOUT IV CONTRAST:  Within the limitations of a non-
+     contrast study, the liver, gallbladder, pancreas, spleen, adrenal glands are
+     within normal limits.  There is a 4 cm diameter simple cyst in the lower pole
+     of the right kidney.  In the right kidney there is a small round exophytic
+     lesion of intermediate density, 11 mm in diameter, which is indeterminate.
+     Splenic artery calcifications are noted.  The stomach, small and large bowel
+     are within normal limits.  The aorta and the iliac arteries are densely
+     calcified.
+     
+     CT OF THE PELVIS WITHOUT IV CONTRAST:  There is a Foley catheter in the
+     bladder with associated air.  The prostate, seminal vesicles, sigmoid and
+     rectum are unremarkable.  There is no lymphadenopathy or free fluid.
+     
+     BONE WINDOWS:  There is an avulsion fracture, with slight comminution, along
+     the posterior left iliac [**Doctor First Name 2055**]. No other fracture is identified.
+     
+     IMPRESSION:
+     
+                                                                 (Over)
+
+     DATE: [**2555-8-14**] 5:01 PM
+     CT CHEST W/O CONTRAST; CT ABDOMEN W/O CONTRAST                  Clip # [**Clip Number (Radiology) 5780**]
+     CT PELVIS W/O CONTRAST
+     Reason: WITHOUT CONTRAST - please eval for intraabdominal injury. Pl
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     1.  Collapse of left lower lobe, with abrupt cut-off in the related airway.
+     Appearance is suspicious for atelectasis with mucous plugging.
+     
+     2.  An 11 mm indeterminate lesion in the left kidney.  When clinically stable,
+     this lesion could be evaluated further with ultrasound or cross sectional
+     imaging with contrast in order to exclude a small enhancing neoplasm.
+     
+     3.  Fracture of the left ilium with associated hematoma in the overlying
+     subcutaneous tissues.
+     
+     Findings discussed with Dr. [**Last Name (STitle) 5782**] on the same evening.
+     
+     
+     
+     
+     
+     
+
+",,
+8206,9793,,,2555-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-14**] 5:01 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 5779**]
+     Reason: WITHOUT CONTRAST - eval for fx/disloc./instability          
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man s/p fall from height, big SDH s/p decompressive craniectomy     
+     REASON FOR THIS EXAMINATION:
+      WITHOUT CONTRAST - eval for fx/disloc./instability                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  74-year-old man status post craniotomy with subdural hematoma
+     status post evacuation.
+     
+     COMPARISONS:  Correlation with head CT of the same day.
+     
+     TECHNIQUE:  Axial non-contrast CT images of the cervical spine were obtained,
+     and sagittal and coronal reconstructions were also performed.
+     
+     FINDINGS:  The presence of multiple minimally displaced fractures involving
+     the occiput is discussed in the accompanying head CT report of the same day.
+     Associated with these fractures is partial subluxation, at the articulations,
+     on the left side, between C1 and the occiput, and C1 and C2.  There is slight
+     leftward lateral displacement of C2 with respect to C1, without evidence of
+     cervical spine fracture.
+     
+     These abnormalities do not seem to affect the thecal sac, although there may
+     be associated ligamentous injury at the skull base which cannot be
+     characterized here.  The overall alignment of the cervical spine is preserved
+     without listhesis.
+     
+     There are multilevel mild degenerative changes.  There is also a prominent
+     osteophyte along the right lateral margin of the C3 and C4 vertebral bodies at
+     the uncovertebral joint.  At this point there is slight mass effect on the
+     left vertebral artery foramen, but this appearance is felt likely due to a
+     degenerative etiology.
+     
+     The soft tissue windows also show an extraaxial hemorrhage in the right
+     posterior cranial fossa immediately above the transverse sinus. It is not
+     readily apparent on the prior outside CT.
+     
+     IMPRESSION:
+     
+     1.  Partial subluxation of the lateral masses of C1 and C2, and of C1 with the
+     occiput, presumably related to adjacent occipital bone injuries, discussed in
+     more detail in report of the head CT of the same day.
+     
+     2.  Cervical spondylosis.
+     
+     3.  Extraaxial hemorrhage in the posterior cranial fossa.  This is adjacent to
+     a prominent fracture line in the occiput.
+     
+                                                                 (Over)
+
+     DATE: [**2555-8-14**] 5:01 PM
+     CT C-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 5779**]
+     Reason: WITHOUT CONTRAST - eval for fx/disloc./instability          
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     NOTE ADDED AT ATTENDING REVIEW:  The right posterior epidural hematoma is
+     again identified.  Please see the head CT report of [**2555-8-15**].
+     
+     One of the nondisplaced occipital fractures extends into the left occipital
+     condyle.
+     
+     The patient is rotated about the atlanto-axial joint.  I have performed
+     oblique coronal reconstructions on the GE Advantage Workstation and have saved
+     selected images as series 103a (atlanto-occipital), 103b/c (atlantoaxial).
+     Based upon the oblique coronal reconstructions, the degree of subluxation
+     about the occipital condyle/C1, and C1/C2 appears exaggerated on the original
+     reconstructions. There is, however, some minimal widening of the medial left
+     atlanto- axial articulation (103b image 4) as well as the left atlanto-
+     occipital joint (103a image 7).  No significant subluxation is identified.
+     
+
+",,
+8206,9793,,,2555-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-14**] 4:36 PM
+     WRIST(3 + VIEWS) LEFT PORT                                      Clip # [**Clip Number (Radiology) 5777**]
+     Reason: question fracture                                           
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man s/p fall from 5 foot scaffolding onto cement                    
+     REASON FOR THIS EXAMINATION:
+      question fracture                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fall.
+     
+     Two radiographs of the left wrist are submitted.  Diagnostic quality is
+     limited secondary to patient positioning.  Overlying tubing further limits
+     evaluation.  No fracture is seen.  Soft tissues are unremarkable.  Joint
+     spaces are maintained.
+                                                                           
+
+",,
+8206,9793,,,2555-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-14**] 12:11 PM
+     TRAUMA #2 (AP CXR & PELVIS PORT)                                Clip # [**Clip Number (Radiology) 5775**]
+     Reason: TRAUMA
+     ______________________________________________________________________________
+     WET READ: [**First Name9 (NamePattern2) 5776**] [**Doctor First Name 114**] [**2555-8-14**] 3:13 PM
+      ET tube terminates in the right mainstem bronchus.  NG tube in stomach.  No
+      fracture.  No PTX.  Left hemithorax excluded from field of view.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Trauma.
+     
+     Portable radiographs of the chest and pelvis are submitted.
+     
+     PORTABLE CHEST:  There is an endotracheal tube present with its tip in the
+     right main stem bronchus.  A nasogastric tube is seen with its tip in the
+     distal stomach.  The left hemithorax is excluded from the imaged field of
+     view.  The right costophrenic angle is sharp.  There may be mild pulmonary
+     edema seen in the right upper lung, but assessment is limited by technique. No
+     fracture seen.  No pneumothorax detected.
+     
+     PELVIS:  Bilateral hip joints are unremarkable.  No fracture.  Pubic symphysis
+     is unremarkable.  Vascular calcifications are noted.
+     
+     The above findings were related to the ED the dashboard at the time of image
+     interpretation on [**2555-8-14**] at 3:15 p.m.
+
+",,
+8206,9793,,,2555-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-14**] 4:40 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5778**]
+     Reason: ET Placement, Eval placement of CVL                         
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with craniectomy for SDH                                        
+     REASON FOR THIS EXAMINATION:
+      ET Placement, Eval placement of CVL                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Status post craniotomy for subdural hemorrhage.  Evaluate
+     ET tube placement.
+     
+     PORTABLE CHEST RADIOGRAPH:  No prior radiograph available for comparison.  The
+     lungs are clear.  The ETT terminates 4.8 cm above the carina.  The heart size
+     is top normal, however, without pulmonary vascular congestion or pleural
+     effusions.  The left subclavian PA catheter terminates in the expected region
+     of the right pulmonary artery.  The mediastinal and hilar contours are normal.
+     Calcification is present within the aortic arch and mitral annulus.  The NG
+     tube terminates below the diaphragm; however, the tip has been excluded.  No
+     pneumothorax is evident.
+     
+     IMPRESSION:  Stable position of support tubes.  No pneumothorax or pneumonia.
+                                                                           
+
+",,
+8206,9793,,,2555-08-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-14**] 4:40 PM
+     CHEST PORT. LINE PLACEMENT; -77 BY DIFFERENT PHYSICIAN          [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 5778**]
+     Reason: ET Placement, Eval placement of CVL                         
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      76 year old man with craniectomy for SDH                                        
+     REASON FOR THIS EXAMINATION:
+      ET Placement, Eval placement of CVL                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Status post craniotomy for subdural hemorrhage.  Evaluate
+     ET tube placement.
+     
+     PORTABLE CHEST RADIOGRAPH:  No prior radiograph available for comparison.  The
+     lungs are clear.  The ETT terminates 4.8 cm above the carina.  The heart size
+     is top normal, however, without pulmonary vascular congestion or pleural
+     effusions.  The left subclavian PA catheter terminates in the expected region
+     of the right pulmonary artery.  The mediastinal and hilar contours are normal.
+     Calcification is present within the aortic arch and mitral annulus.  The NG
+     tube terminates below the diaphragm; however, the tip has been excluded.  No
+     pneumothorax is evident.
+     
+     IMPRESSION:  Stable position of support tubes.  No pneumothorax or pneumonia.
+                                                                           
+
+",,
+8206,9793,10205,0,2555-08-14 18:06:00 EST,2555-08-14 18:07:00 EST,102,"N",74,"Nursing/Other",,"
+
+resp care
+pt received from or. intubated s/p evacuation of sdh. placed on ac mode, adjusted per abgs with goal pco2 35 per neurosurg. transported to ct scan,vent status stable t/out. +bilat coarse bs. sxned for slight bld tinged thick clear sputum. c/w vent support/airway protection.
+",,
+8206,9793,10205,0,2555-08-14 18:37:00 EST,2555-08-14 19:12:00 EST,7632,"N",74,"Nursing/Other","TSICU Nursing Admission Note","
+TSICU Nursing Admission Note
+Admit s/p fall 5 ft while painting.  + 5min LOC, to OSH, while there decompensated, began blinking eyes and seeing spots, per son.  Intubtaed, medflight to [**Hospital1 22**] for further eval.  Arrived in ED and emergently when to OR for L craniotomy, for large SDH.  Stable throughout case in OR.  Arrived in TSICU ~1500 intubated and sedated o on propofol.  Medical hx of a-fib, HTN, high cholesterol.  See FHP for home meds.  CCO PA catheter placed upon arrival.  Then down to CT for head, neck, and torso scans.  
+
+Neuro - remains intubated and sedated on propofol.  Q1H neuro checks. s/p craniotomy.   Does not follow commands, does not open eyes to any stimuli.  No movement of right arm.  Weak withdrawal/posturing of left arm.  Weak withdrawal of bilateral LE's L>R.  Pupils unequal R1mm, L3mm, nonreactive.  Weak cough and gag, absent corneals.  No signs symptoms of pain currently.  
+
+CV - COO swan placed upon admission.  HR 70-110 sinus arrythmia to a-fib.  ABP 110-160 systolic.  Increases with stimulation.  Goal SBP<140.  Unable to wedge swan.  C.O [**5-14**].  Svo2 63-72.  CVP 4-8.  + peripheral pulses.  
+
+resp - Lungs coarse, diminished at bases.  Remains fully vented.  Will occaionally overbreath vent when not sedated.  Suctioned for small amount thick clear with tan flecks secretions.  ABG drawn Co2 52, RR increased as needed.  Pao2 WNL.  Awaiting new blood gas.  Orally suctioned for large amounts blood tinged thick secretions.  Currently on 50% Fio2 with sats remaining 100%.  Pt is smoker per family.
+
+GI - Abdomen soft, nt/nd.  hypoactive bowel sounds throughout.  OGT to suction with scant amounts brown fluid.  Placement checked.  no BM.  Awaiting GI prophalaxis.
+
+GU - Foley draining clear yellow urine in adequate amounts.
+
+Endo - no insulin needed per RISS.
+
+Id - Came in with temp 96.6 rectally.  Placed on bair hugger with + effect.  Currently normothermic and off blanket.  No standing antibiotics ordered.
+
+Skin - Craniotomy incision with DSD in place, small to moderate amount sanguinous drainage.  No other aparent injuries at this time.  
+
+Psych/social - Son and 2 daughters in to visit shortly after arrival.  Son will be spokesperson.  Number placed on board in pt room.  All family members appropriate.  all questions answered by this RN and ICU team MD's.  family to go home this evening.  Will possibly call for update, and have card to this ICU.  Per son there is no healthcare proxy, and pt will be full code at this time.
+
+A - s/p fall, pt on coumadin.  Large L SDH with shift.  OR for craniotomy with bone flap out.  Impaired mental status at this time.
+
+Plan - Continue to monitor per routine.  Goal SBP <140 systolic.  Pt to recieve 2 units FFP, and vitamin K.  Continue to monitor neuro status Q1H.  ? attempt to re-float swan.  repeat ABG...and adjust vent settings as appropriate.  Begin GI prophalaxis.  Continue to update pt and family of current plan of care.
+",,
+8206,9793,10205,,2555-08-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-15**] 5:32 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5784**]
+     Reason: S/P FALL, CRANIECTOMY.
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man s/p fall, s/p decompressive craniectomy.                        
+     REASON FOR THIS EXAMINATION:
+      For 6am please. Eval. for interval change                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Patient status post fall and decompressed craniectomy.  Evaluate
+     for interval change.
+     
+     COMPARISON:  [**2555-8-14**] at 18:27.
+     
+     NON-CONTRAST HEAD CT SCAN:  It is noted that the patient received IV contrast
+     last evening for torso examination.  The patient is status post left frontal
+     decompressed craniectomy.  There is slightly more acute subdural blood on the
+     left in the area of the craniectomy site, now measuring about 1 cm in
+     thickness.  There is also a small amount of hyperdensity seen within the right
+     frontal subdural space, consistent with acute hemorrhage.  There is an similar
+     amount of acute subdural blood along the falx cerebri, and likely a similar
+     amount of acute blood in the subdural space layering along the tentorium.
+     There is a similar degree of left to right shift of normally midline
+     structures, by approximately 6 mm.  Intraparenchymal hemorrhage and
+     surrounding edema within the left frontal lobe is not significantly changed. A
+     left posterior cerebral artery infarct is also not markedly changed from
+     18:27.  There is heterogeneous density of this infarcted tissue, which could
+     reflect enhancement from prior contrast administration or could reflect areas
+     of hemorrhage within this infarcted tissue.  The [**Doctor Last Name 30**]-white matter
+     differentiation seems relatively preserved within the right cerebral
+     hemisphere.  The appearance of the fourth ventricle is unchanged.
+     Opacification of left mastoid air cells and fractures through the occipital
+     bone, including at least two fracture lines extending through the foramen
+     magnum are not significantly changed.  There is partial opacification of the
+     visualized paranasal sinuses, possibly related to intubation and/or injury.
+     
+     IMPRESSION:  No significant change in the degree of intraparenchymal and
+     subdural hemorrhage in the locations described.  No significant change in the
+     leftward subfalcine herniation compared to 18:27 yesterday.  Heterogeneous
+     density within the left posterior cerebral infarct may reflect small areas of
+     hemorrhage or contrast enhancement from contrast administered yesterday.
+     
+     NOTE ADDED AT ATTENDING REVIEW:  The hematoma seen posterior to the right
+     cerebellar hemisphere is better characterized on this examination.  It
+     represents epidural blood as the blood extends from the infratentorial
+     epidural space to the supratentorial epidural space.  This particular
+     hematoma does not layer into the tentorium, confirming its epidural
+     location.  The size of this hematoma is unchanged from the prior examination.
+     As before, a nondisplaced fracture is seen superficial to the hematoma.
+     
+                                                                 (Over)
+
+     DATE: [**2555-8-15**] 5:32 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5784**]
+     Reason: S/P FALL, CRANIECTOMY.
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8206,9793,10205,0,2555-08-15 03:24:00 EST,2555-08-15 04:05:00 EST,8611,"N",74,"Nursing/Other",,"
+
+NPN 7p-7a
+
+Events: Neurological change---> pt able to posture/withdraw RUE with deep nail bed pressure. Nitroprusside initiated at lowest dose to keep systolic BLP < 140mmHg; Slight elevation in temp from 100's to 101's---> managed with cool bath and fan; Vent changes to increased RR and decreased Fi02 to 40%.
+
+Neuro: Sedated with propofol and fentanyl; q 1 hr neuro signs with sedation turned off; no significant changes since last shift; Decerebrate posturing in response to deep nail bed pressure; positive babinski reflex bilaterally; L pupil 3mm NR, R pupil 1mm NR, absent corneal reflexes; impaired but present cough and gag reflexes; Left hemicraniotomy, limit Left side lying when cleared; restraints applied neuro exams; phenytoin q 8.  
+
+CV: Goal A-line BLP <140 systolic; pt remained in 110's to 140's; Nitroprusside initiated to maintain low blood pressure; palp pp's; left ventricular hypertrophy; quiver noted over abdomen in synch with HR---> team aware and ruled out AAA via thoracic films.
+
+Resp: CMV 40/500/18/5 producing blood gas with pH 7.42; weak cough; thin white/straw colored sputum; Clear upper lobes to auscultate but diminished in lower lobes; Occ pressure alarms corrected with suctioning.
+
+GI: Soft flat abdomen; hypoactive BS; no stool; no emesis; OG tube to low cont wall suction; OG flushed times one with med administration: famitodine IV.
+
+GU: Foley with adequate clear yellow urine output.
+
+Musculoskeletal: Log roll; no know cervical, thoracic, lumbar fractures, Left posterior Illiac creast ecchymosis; fractured L illium. 
+
+Integumentary: Operation site; 1st dressing remains for NSURG; reinforced the dressing to absorb. Slow small to moderate serosang drainage from wound.
+
+Endocrine: sliding scale insulin, no insulin given per scale.
+
+Heme: Hct 23.5, Hgb 8.1, plt 124, WBC 8.9, PT 13, PTT 30.1, INR 1.1. Some decreasing values in Hgb and Hct; goal for plt count >100 and INR > 1.3. Mag repleated once.
+
+ID: no antibiotic ordered
+
+Assessment and Plan: Contimue to keep blood pressure below 140 mmHg, watch heme labs and coag to keep plt count above 100 and INR > 1.3; 
+Ween off propofol as tol with mechanical ventilation; continue with frequent neuro checks; repeat CT scan this am; protect left hemisphere due to craniotomy; provide family support and education; cont to assess and treat as ordered.
+",,
+8206,9793,10205,0,2555-08-15 05:50:00 EST,2555-08-15 05:55:00 EST,650,"N",74,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+
+Pt remain orally intubated & sedated on full ventilatory support. We made some changes to normalise ABG. We are sxtn for small amt clear to blood tinged secretions from ETT. Plan: Continue present ICU monitoring. Will follow.
+
+",,
+8206,9793,10205,0,2555-08-15 17:02:00 EST,2555-08-15 17:06:00 EST,547,"N",74,"Nursing/Other",,"
+
+Resp. Care Note
+Pt received intubated and vented on AC settings as charted on resp flowsheet. No vent changes made this shift, ABG WNL. ETT rotated and resecured. BS essent. clear, sxn for small amount clear secretions, mod amount bloody oral secretions. Cont current support. 
+",,
+8206,9793,10205,0,2555-08-15 17:39:00 EST,2555-08-15 17:55:00 EST,7632,"N",74,"Nursing/Other","TSICU Nursing Progress Note","
+TSICU Nursing Progress Note
+Neuro - Off propofol since 0800, off fentanyl since 1200.  Q1H neuro checks.  Responsive to pain only, no eye opening, postures upper extremities.  Lower extremities mostly withdrawal, however 1800 began to internally rotate LE's.  Pupils remain 1mmR and 2mm L.  Left very difficult to accurately assess due to orbit swelling.  Pupils remain non-reactive.  Corneals intact on right, ?left, were present early in shift when less swelling.  Impaired gag, intact cough.  Does not appear to have and signs of pain since being off fentanyl gtt.  Started mannitol Q6H per neurosurg.
+
+CV - HR 70-80's a-fib, with rare-occasional PVC's, will climb to low 100's with stimulation.  ABP 120-150 systolic.  Will climb with stimulation.  Remains on Nipride gtt, titrated as needed to maintain SBP <140.  PA catheter remains in place.  PAP 33-38/15-20, SVo2 76-86, CVP 4-9, C.O 5.4-7.3, C.I 2.7-3.7, SVR 885-1300, EDVI 133-166.  + peripheral pulses, skin warm and dry.  Started on IV metoprolol Q6H.
+
+Resp - Remains on ventilator.  Lungs mostly clear throughout, coarse at times, diminished at the bases.  Suctioned for small amounts clear to white thin secretions.  Becoming slightly thicker through shift.  Vent settings as follows; CMV 18 x 500 x 5 x 40%.  Last gas 7.41, 32, 144, 21, -2.  Goal Co2<35.  Sats remain 100%.
+
+GI - Abdomen soft, nt/nd.  Hypoactive bowel sounds throughout.  NPO except meds.  OGT to suction, with small amount bilious drainage.  no BM.
+
+GU - Foley draining clear yellow urine in adequate amounts ~60cc/hr.
+
+Endo - No insulin needed per RISS.  Insulin gtt order discontinued.
+
+Id - Tmax 37.9 currently 37.6.  Not currently on antibiotics.
+
+Skin - Craniotomy incision covered with primary OR dressing.  Reinforced as needed.  Small to moderate amount s/s drainage.  Neurosurg team aware.  Bruising noted on left flank/hip.  Ortho team by to assess, currently no plan for OR.  Posterior skin WNL.
+
+Psych/social - Spoke with social work today, will remain involved.  Daughter [**Name (NI) 2871**] called twice during the day.  Updated as needed.  Neuro surgeon by for sons phone number, stated he will call with info and update, unsure if this has been done.  No family in to visit today.
+
+A - s/p fall, lg SDH with shift.  s/p craniotomy, impaired mental status.
+
+Plan - Continue to monitor per routine.  Continue Q1H neuro checks.  Maintain SBP<140.  Maintain comfort.  Clear TLS when able.  Monitor SVo2 and PA pressures.  Update pt and family of current plan of care.  Maintain social work contact.  Maintain Co2<35.  Monitor need for antibiotics.  Family meeting when able.
+",,
+8206,9793,10205,,2555-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-16**] 10:35 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5786**]
+     Reason: F/U SDH S/P EVAC, HX. FALL FROM HEIGHT
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man s/p craniectomy and IPH.                                        
+     REASON FOR THIS EXAMINATION:
+      F/U exam                                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Craniectomy.  Follow up.
+     
+     NON-CONTRAST HEAD CT:  Comparison with [**2555-8-15**], 6:01 a.m.  Again
+     seen is left to right midline shift, approximately 4 mm, similar in appearance
+     to the previous examination.  The amount of intracranial subdural hemorrhage
+     in the region of craniectomy on the left is similar, measuring approximately
+     11 mm.  Intraparenchymal hemorrhage in the left frontal lobe and extensive
+     hypodensity in the left occipital lobe is again noted.  Also seen is the
+     epidural hematoma in the medial right cerebellar hemisphere.  Slightly
+     increased opacification of several ethmoid air cells is again noted.  A small
+     amount of fluid in both maxillary sinuses is noted.  Again seen are changes of
+     left craniotomy, with air outlining the left temporal tip, smaller than
+     previous.  Staples are again seen overlying the cranectomy defect.
+     
+     IMPRESSION:  No significant interval change.
+
+",,
+8206,9793,10205,,2555-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-16**] 10:35 AM
+     CT L-SPINE W/O CONTRAST; CT T-SPINE W/O CONTRAST                Clip # [**Clip Number (Radiology) 5785**]
+     Reason: FALL FROM HEIGHT, EVALUATE FOR THORACIC, LUMBAR FX
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with fall from height, subdural, s/p evac                       
+     REASON FOR THIS EXAMINATION:
+      eval Lumbo-sacral spine for fracture                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old man status post fall and subdural hematoma.  Back
+     pain.
+     
+     TECHNIQUE:  Multidetector CT images are obtained through the thoracic and
+     lumbar spine.  Coronal and sagittal reformatted images were obtained.
+     
+     THORACIC SPINE:  There is no evidence for fracture or malalignment of the
+     thoracic spine.  The vertebral bodies are normal in height.  There are mild
+     degenerative changes in the form of osteophytes, most prominently at T8-T9 and
+     T10-T11.  Schmorl's nodes are seen at T11 and T12.  Posterior rib fractures
+     are seen at T5 and T6 level on the left.  Additionally, there are large
+     bilateral pleural effusions with associated subsegmental atelectasis at the
+     bilateral lung bases.  The visualized aorta contains atherosclerotic
+     calcifications.  Within the visualized abdomen, the right kidney contains a
+     large hypodense rounded focus in the mid pole with a rim of calcification.
+     This was better evaluated on the CT torso of [**2555-8-14**] but probably represents a
+     simple renal cyst.
+     
+     LUMBAR SPINE:  Again, there is no evidence of vertebral body fracture or
+     malalignment.  Degenerative changes are seen at L4-L5.  Again, within the
+     surrounding soft tissues, calcifications are seen within the aorta.  A
+     fracture is identified of the left iliac [**Doctor First Name 2055**] with an adjacent posterior
+     hematoma.
+     
+     IMPRESSION:
+     1.  No evidence for lumbar spine fracture or malalignment.  Degenerative
+     changes as described above.
+     2.  Fractures through the left pelvis iliac [**Doctor First Name 2055**] with an adjacent posterior
+     hematoma.
+     3.  Large bilateral pleural effusions within the visualized lung fields.
+
+",,
+8206,9793,10205,,2555-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-16**] 10:35 AM
+     CT L-SPINE W/O CONTRAST; CT T-SPINE W/O CONTRAST                Clip # [**Clip Number (Radiology) 5785**]
+     Reason: FALL FROM HEIGHT, EVALUATE FOR THORACIC, LUMBAR FX
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with fall from height, subdural, s/p evac                       
+     REASON FOR THIS EXAMINATION:
+      eval Lumbo-sacral spine for fracture                                            
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old man status post fall and subdural hematoma.  Back
+     pain.
+     
+     TECHNIQUE:  Multidetector CT images are obtained through the thoracic and
+     lumbar spine.  Coronal and sagittal reformatted images were obtained.
+     
+     THORACIC SPINE:  There is no evidence for fracture or malalignment of the
+     thoracic spine.  The vertebral bodies are normal in height.  There are mild
+     degenerative changes in the form of osteophytes, most prominently at T8-T9 and
+     T10-T11.  Schmorl's nodes are seen at T11 and T12.  Posterior rib fractures
+     are seen at T5 and T6 level on the left.  Additionally, there are large
+     bilateral pleural effusions with associated subsegmental atelectasis at the
+     bilateral lung bases.  The visualized aorta contains atherosclerotic
+     calcifications.  Within the visualized abdomen, the right kidney contains a
+     large hypodense rounded focus in the mid pole with a rim of calcification.
+     This was better evaluated on the CT torso of [**2555-8-14**] but probably represents a
+     simple renal cyst.
+     
+     LUMBAR SPINE:  Again, there is no evidence of vertebral body fracture or
+     malalignment.  Degenerative changes are seen at L4-L5.  Again, within the
+     surrounding soft tissues, calcifications are seen within the aorta.  A
+     fracture is identified of the left iliac [**Doctor First Name 2055**] with an adjacent posterior
+     hematoma.
+     
+     IMPRESSION:
+     1.  No evidence for lumbar spine fracture or malalignment.  Degenerative
+     changes as described above.
+     2.  Fractures through the left pelvis iliac [**Doctor First Name 2055**] with an adjacent posterior
+     hematoma.
+     3.  Large bilateral pleural effusions within the visualized lung fields.
+
+",,
+8206,9793,10205,0,2555-08-16 04:56:00 EST,2555-08-16 05:00:00 EST,8194,"N",74,"Nursing/Other","Resp. Care","
+Resp. Care
+Pt. remains on mech. vent. A/C 500by 18 40% and 5 of peep. ABGs at 0200 7.44/42/149/29/4. No changes made during the shift. Pt. sx for sm amts of yellow with scat rhonchi. RSBI was not completed due to increase in BP going from 130/60 to 160/70.Plan is to wean and monitor .
+",,
+8206,9793,10205,0,2555-08-16 05:25:00 EST,2555-08-16 05:48:00 EST,7754,"N",74,"Nursing/Other","T/SICU Shift Report 1900-0730","
+T/SICU Shift Report 1900-0730
+76 Year Old Male    NKA     FULL CODE      Universal Precautions
+
+Admission [**2555-8-14**] - SDH/intraparenchymal hemorrhage S/P fall
+
+PMH - CAD/MI/Hypertension/Left ventricular hypertrophy
+      ?Carotid surgery
+      Inguinal hernia repair
+      Smoker
+
+OR - [**8-14**] - Left craniectomy with SDH evacuation (bone flap removed)
+
+Shift Events - 2xPRBCs
+
+Review of Systems:
+
+Resp - Fully ventilated on AC 18x500 PEEP 5 FiO2 40%. SpO2 98-100%, RR 18-22bpm, TV 450-550ml. ABG pH 7.44 (aim 7.40), PaCO2 42 (aim 40), PaO2 149, BE 4. Breath sounds clear-coarse in upper lobes, diminished at the bases. 3xdesaturation to 90%, responding to ETT suctioning and 100% fio2 bolus. White/yellow secretions.
+
+CVS - Chronic AF with occasional PVCs. HR 70-100bpm, SBP 115-190 (aim <140), MAP 80-110, CVP 3-9, PAPs WNL, SvO2 74-82% (recalibrated). HCT down to 26.3% (aim>30%, 2units PRBCs given), Hb down to 9.4, WBC upto 13.3, Platelets 104 (aim >100), INR 1.0 (aim <1.5). Peripherally warm/well perfused, palpable pedal pulses, +1 edema to hands, elevated overnight. Nipride infusion increased to 1.25mcg/kg/min
+
+Renal - UO 50-150ml/hr, 1450ml +ve in 24hours. BUN/Creatinine WNL, K 4.1, Mg 2.0, Ionized Ca 1.23 (after repletion), Phos 2.2 (repleted with 15mmol sodium phosphate). Na/osmolality stable, 0600 labs pending. Maintenance fluid 100ml/hr NaCl 0.9%.
+
+Neuro - Patient unresponsive, posturing to noxious stimuli. GCS 5 (e1v1m3), Pupils 1mm/2mm NR (?baseline cataracts), left eye swollen despite ice packs overnight, and therefore difficult to assess corneal reflex, impaired on right. Impaired gag, cough intact. Inward extension/posturing of all four extremites spontaneously and to noxious stimuli. Propofol/fentanyl remained off overnight. Mannitol Q6.
+
+GI - NPO. OGT to LCS with minimal bilious output. Abdomen soft/nontender/+ve bowel sounds, no BM since admission, on bowel regimen. Blood glucose stable with ISS.
+
+Skin - Full bed bath given at begining of shift. C-collar maintained, logroll precautions continue in absence of TLS films. Q2 mouthcare, copious thick/bloodstained secretions on oral suction. Q2 eyecare, lacrilube applied. Multipodis boots applied to BLE.
+
+Access - Aline/PA line patent, dressings intact. 3xPIVs.
+
+Social - Daughter called/updated. Will visit today with brother who is NOK.
+
+PLAN - Maintain PaCO2 40/pH 7.4
+       HCT>30, Fibrinogen>100, Platelets>100, INR <1.5
+       SBP<140
+       Mannitol Q6
+       ?Repeat Head CT (TLS CT scan)
+       ?Start TF
+       Family discussion about plan of care on monday if no change
+",,
+8206,9793,10205,0,2555-08-16 14:44:00 EST,2555-08-16 14:45:00 EST,426,"N",74,"Nursing/Other","respiratory care","
+respiratory care
+pt on the vent tol well.  pt was taken to CT tol well. see respiratory page of carevue for more information.
+",,
+8206,9793,10205,0,2555-08-16 17:45:00 EST,2555-08-16 18:05:00 EST,7632,"N",74,"Nursing/Other","TSICU Nursing Progress Note","
+TSICU Nursing Progress Note
+Neuro - remains intubated, not sedated.  Q1H neuro checks.  s/p L craniotomy.  Does not open eyes, postures all four extremities.  right pupil 1mm, left 2mm, nonreactive.  Impaired gag, intact cough.  No improvement.  Rescanned head, and T&L spines today.  Awaiting reads.  No s/s pain.
+
+CV - HR 60-120 a-fib, rare to occasional PVC's.  ABP 90-200 systolic.  Goal SBP <140.  Currently on nipride gtt, titrated as needed.  Started on PO metoprolol today. also increased IV metoprolol.  Swan remains in place.  Svo2 70-84, PAP 25-45/8-18, unable to wedge, C.O. 5.4-7.2.  + peripheral pulses, skin warm and dry.
+
+Resp - Remains intubated on CMV.  Lungs mostly clear throughout, diminished at bases.  Suctioned for small amounts white thick secretions.  Fio2 at 40% with sats remaining 96-100%.  Overbreaths vent when stimulated.  No vent changes made today.
+
+GI - Abdomen soft, NT/ND.  Tube feeds started this afternoon, promote with fiber goal 80cc/hr currently 10cc/hr.  + bowel sounds, no BM.
+
+GU - Foley draining clear yellow urine in adequate amounts.
+
+Endo - No insulin needed per RISS.
+
+Id - Tmax 100.8, not curently on antibiotics.
+
+Skin - Bruise on left flank, primary OR dressing remains on L side head, small amount s/s drainage.
+
+Psych/social - Son and 2 daughters in today to visit in afternoon.  Awaiting family meeting.  Family quiet, sad, some questions.  Dont really seem to understand fully the extent of pts injuries.
+
+A - s/p fall with lg SDH, s/p crainotomy.
+
+Plan - Continue to monitor per routine.  Continue frequent neuro checks.  Mannitol Q6, monitor BP, maintain SBP <140.  family meeting when able.  Discuss and decide plan of care for pt.  Awaiting final reads on CT T&L spine for clearance of back.  Continue to update pt and family of current plan of care.
+",,
+8206,9793,10205,0,2555-08-17 05:14:00 EST,2555-08-17 05:28:00 EST,819,"N",74,"Nursing/Other",,"
+
+S/P Head Trauma
+
+No eye opening, slight corneals, impaired gag, pupils small and non-reactive. Pt posturing to any stimuli. Dilantin and Mannitol. Primary head dressing intact. Cerival collar on, pt continues to be logrolled.
+
+Pt hyperdynamic with BP 180, HR 120s, CO 8. Breathing at 30 with high tidal volumes. Vent changed to CPAP but cycles continued. Fentanyl added, then Propofol drip. Pt much improved with HR 60s, Nipride weaning off SBP 110, RR 19, CO 5.3. HCT stable. Lytes repleted. Pneumoboots on.
+
+Suctioned for thick, white sputum in moderate amount. Breath sounds clear, sats 100%. 
+
+Urine output adequate.
+
+Tolerating tube feeds with low residual-advanced to 40cc/hr. No stool, abd. soft.
+
+Contusion on left flank oozing sm. amt. sero-sanginous fluid.
+
+Pt's daughter called.
+
+Plan: Pt remains a DNR. Family awaiting Neurosurg to tell them prognosis. Maintain stable hemodynamics and resiratory hygiene, support family.  
+",,
+8206,9793,10205,0,2555-08-17 05:31:00 EST,2555-08-17 05:36:00 EST,650,"N",74,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+
+Pt remain orally intubated & sedated on ventilatory support. We tried briefly spont ventilation, but was stopped due to unstable cardio-resp unstability. We are for small amt of thick white secretions from ETT. Plan: Continue present ICU monitoring & keep confortable. Will follow,
+",,
+8206,9793,10205,0,2555-08-17 14:53:00 EST,2555-08-17 14:56:00 EST,328,"N",74,"Nursing/Other",,"
+
+Resp Care: Pt remains intubated via #8 ETT secured 22cm at lip. BS bilat rhonchi. SX'd for mod amt thick tannish sputum from ETT and copious amt thick yellow from p.o. RN aware. ABG WNL. No vent changes made this shift. PLan: cont vent support. PLease see carevue for further vent inquiries.
+",,
+8206,9793,10205,0,2555-08-17 16:05:00 EST,2555-08-17 16:48:00 EST,1462,"N",74,"Nursing/Other",,"
+
+Events of Day: PA catheter removed, TLC placed with guide wire without incident. Neuro exam remains unchanged. BP and HR remain labile. 
+
+Neuro: Pt unresponsive. Corneal reflexes impaired. L pupil 2mm, sluggish. R pupil 1mm and no reaction. Spontaneous decerebrate posturing, also to tactile stilulation. Dilantin and mannitol doses cont. Light sedation with Propofol. 
+
+Resp: LS clear in bilat UL, dim in bilat LL. No vent changes. Spontaneous cough often. Sx several times, thick clear/white secretions. Occasional asynchronous with vent. More regular breathing with increased sedation.
+
+CV: BP hypertensive with stimulation ranging 120's - 180's. HR ranging 50's- 90's for most of shift, increasing bradycardia this evening, HR 40's-50's, few episodes w/ HR to high 30s d/t occas pauses. bradycardia d/w Dr. [**First Name (STitle) **]. Extremeties warm, LUE>RUE. PPP. 
+
+GI:TF titrating towards goal of 80cc/hr. Currently at 70. Low residuals. BS+x4. no BM this shift. 
+
+GU: Foley draining adequate amts CYU. Minimal response from mannitol. 
+
+Endo: BG's benign. 
+
+ID: Tmax 100. wbc stable this am. 
+
+Skin: Incision to L skull flap with DSD, D+I. Lg abrasion with sm hematoma to L flank. Scant amts sanguinous drainage. old blood to outer left ear, ?scab ruptured, scant red blood. no drainage from inside ear.
+
+Social: Tentative family meeting tomorrow with Neurosurg, prognosis to be given. Children called, spoke to RN. 
+
+A/P: Neuro exam remains poor, most likely poor prognosis. Plan for possible family meeting tomorrow to discuss plan of care. Immediate issues: BP to remain <140, Monitor HR; hold lopressor per HO. 
+",,
+8206,9793,10205,0,2555-08-17 16:50:00 EST,2555-08-17 16:52:00 EST,1462,"N",74,"Nursing/Other","Addendum: Nrsg Note","
+Addendum: Nrsg Note
+Pt remains bradycardic with frequent pauses, HR consistently 40's - 50's. Dr. [**First Name (STitle) **] called family to update. Pt remains DNR. 
+",,
+8206,9793,10205,,2555-08-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2555-8-18**] 12:06 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5787**]
+     Reason: eval for interval change                                    
+     Admitting Diagnosis: FALL
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      74 year old man with ICH s/p fall s/po caniotomy                                
+     REASON FOR THIS EXAMINATION:
+      eval for interval change                                                        
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  74-year-old man status post fall with intracranial hemorrhage,
+     status post craniotomy.
+     
+     COMPARISON:  Non-contrast head CT [**2555-8-16**].
+     
+     FINDINGS:  Status post left frontal craniotomy. There is a large hyperdense
+     focus of acute hemorrhage within the left frontal region which is similar in
+     size and positioning and again contains a rim of hypodensity.  There is a
+     small focus of air seen anteriorly consistent with prior craniotomy.  Just
+     deep to the craniotomy defect is again seen a hyperdense subdural hematoma
+     measuring 12 mm which is similar in size and appearance.  Again seen is 4-mm
+     of left-to-right midline shift.  Also similar in size and appearance is an
+     evolving hypodensity in the left occipital lobe as well as within the medial
+     aspect of the right occipital lobe.  These occipital lobe lesions are most
+     likely secondary to evolving infarction from posterior cerebral artery
+     impingement following the patient's initial injury. There is no evidence of
+     herniation or hydrocephalus.  There is a small focus of subarachnoid
+     hemorrhage in the posterior [**Doctor Last Name 234**] of the right lateral ventricle.  The
+     surrounding osseous and soft tissue structures are stable. Again seen are
+     fractures through the skull base extending through the left mastoid air cells.
+     The visualized paranasal sinuses show opacification of the ethmoid air cells
+     and minimal mucosal thickening of the bilateral maxillary sinuses.  The
+     visualized frontal sinuses are clear.
+     
+     IMPRESSION:
+     1.  No significant interval change in the size and appearance of the left
+     frontal acute intracranial hemorrhage with 4-mm of left-to-right midline shift
+     and 12-mm subdural hemorrhage lying deep to the craniotomy defect.
+     
+     2.  Stable large left and medium right occipital hypodensities which most
+     likely represent evolving infarctions in this region from posterior cerebral
+     artery impingement after the initial acute injury and subsequent herniation.
+
+",,
+8206,9793,10205,0,2555-08-18 04:09:00 EST,2555-08-18 04:13:00 EST,8185,"N",74,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt remains intubated on full vent support with # 8.0 ETT in place. No ventilator changes made this shift. BS coarse/ diminished bilaterally, suctioning for thick clear secretions. ABG shows good oxygenation and ventilation. No morning RSBI completed due to ^BP. See Careview for details and specifics. 
+Plan: Maintain ventilator support.
+",,
+8206,9793,10205,0,2555-08-18 04:57:00 EST,2555-08-18 05:21:00 EST,489,"N",74,"Nursing/Other","t-sicu nsg note:","
+t-sicu nsg note:
+neuro- pt w/ weak cough,gag and corneals, pupils 1-2mm non reactive, decerebrates to nailbed pressure more pronounced on left side, triple flexion of legs. remains on propofol gtt @15mcg/kg/min. and fentanyl @ 12.5mcg/hr. serum osmols 304 mannitol given q6h.
+
+resp- cmv 40% 500x18 5peep, [**3-17**] spont resps, bs cta, occ coarse, clearing w/ sxn. stable abg. spo2 98-100%, thick white secretions in sm-mod amts.
+
+cvs- hr 50's-80's sr no ectopy, tm 99.6po, sbp 120's-180's on and off nipride gtt 0.3-0.6mcg/kg/min. k+ 3.7 repleted w/ 20meq kcl.
+
+gi- promote w/ fiber @goal rate of 80cc/hr via ogt, no residuals, abd soft, bs present, no stool.
+
+gu- foley patent for cyu, in gd amts.
+
+skin- lg contused area over left flank, sm area in center draining a minimal amt of serous fluid, left ota. cranial suture line intact, old bldy drainage in left ear.
+
+endo- bs wnl, no riss required.
+
+social- family in late eve, requesting that there be a meeting w/ nsurg to discuss prognosis.
+
+a: labile bp, no change in nvs.
+
+p: monitor cvs and nvs, maintain normotension w/ nipride, maintain   pulm hygiene, follow labs and replete lytes as ordered, cont mannitol dosing per orders. support family.
+",,
+8206,9793,10205,0,2555-08-18 15:03:00 EST,2555-08-18 15:11:00 EST,7791,"N",74,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Breath sounds bilaterally diminished, suctioned intermittently for small thick white secretions and copious tan oral secretions, patient is somewhat febrile since oral temperature is 100.8,WBC 11.3, hemoglobin only 9.9, sign of anemia, sign of bacterial infection patient stayed into chronic A-Fib, is on Nipride and Propofol, still unresponsive, had head CT at noon, no vent changes nor ABGs done up to this point, families members had a meeting today but will wait at least until tommorrow, to eventually decide to make patient CMO.
+",,
+8206,9793,10205,0,2555-08-18 16:02:00 EST,2555-08-18 16:04:00 EST,7791,"N",74,"Nursing/Other","Respiratory Care","
+Respiratory Care
+At 1630, Dr [**Last Name (STitle) **] vent changes himself, switched patient from Assist-Control to CPAP + PS 5&5 40%, Vt read 428, RR 28 and MV 14.1.
+",,
+8206,9793,10205,0,2555-08-18 16:20:00 EST,2555-08-18 16:42:00 EST,6158,"N",74,"Nursing/Other","TSICU NPN 0700-1900","
+TSICU NPN 0700-1900
+REVEIW OF SYSTEMS:
+
+NEURO: Pt remains unresponsive. Right pupil 1mm, left pupil 2mm, both non-reactive. Decerebrates to nailbed pressure. Triple flexion to bilateral LE. Imparied gag and corneals. Strong cough. Propofol remains on at 15mcg/kg/min due to increased respiratory rate into high 30-40's. Repeat head CT this afternoon. Fentanyl gtt weaned off. [**Location (un) 204**] J collar intact. Logroll precautions maintained. 
+
+RESP: Orally intubated, placed on CPAP+PS 5/5, 40% FIO2. SATS 98-100%. ABG pending at this time. LS clear, diminished at bases. Suctioned for small amts thick yellow secretions. 
+
+CV: Afib ranging 60-110's, rare PVC's noted. Nipride infusing at 0.4-0.6mcg/kg/min to maintain adequate BP control. P-boots intact. SC heparin. Afebrile.  
+
+ENDO: No coverage needed per RISS.
+
+GI: Abd soft, non-distended. Positive BS. TF (Impact with fiber) infusing at 80cc/hr. Residuals minimal. 
+
+GU: Foley draining clear yellow urine. Adequate UO.
+
+SKIN: Contusion to left backside, small area oozing serous fluid, OTA. Crainal sutures intact, OTA. Old bloody drainage to left ear. 
+
+SOCIAL: Family meeting today with Dr. [**Last Name (STitle) **], this RN, and pt's two daughters and son. Neurosurgery discussed poor prognosis to family. Family expressed that pt would not want to live in a nursing home. They are awaiting pt's other son to arrive from [**State **] tomorrow. They will then all make decision about plan of care. 
+
+PLAN: Continue to monitor neuro status, maintain adequate BP control, support family with decision of care. 
+",,
+8206,9793,10205,0,2555-08-19 04:23:00 EST,2555-08-19 04:30:00 EST,650,"N",74,"Nursing/Other","Respiratory Care Note:","
+Respiratory Care Note:
+
+Pt remain orally intubated on minimal spontaneous ventilation. No vent change done. NO RSBI done as PT too [**Name8 (MD) 5507**], RN aware. We are sxtn small to mod amt of thick yel secretions from ETT & some orally. Plan: Continue present ICU monitoring. Will follow.
+",,
+8206,9793,10205,0,2555-08-19 05:20:00 EST,2555-08-19 05:33:00 EST,489,"N",74,"Nursing/Other","t-sicu nsg note:","
+t-sicu nsg note:
+neuro- pt remains unchanged, decerebrate posturing of upper extrems and triple flexion of lower extrems., pupils r<l 1-2mm nonreactive, strong cough, weak gag. mannitol continues w/ excellent diuresis. propofol 15mcg/kg/min.
+
+resp- sxn for thick yellow secretions in mod amts, cpap 5/5 40%, mv~900, vt 310-340, bs clear to coarse and diminished in bases, met alkalosis.
+
+cvs- tm 101po, hr 98-120's afib,rare pvc, lopressor x1 for rate control, nipride 0.5-0.7mcg/kg/min sbp 140's-160's. lytes wnl
+
+gi- tf promote w/ fiber well tolerated @ goal rate of 80, no residuals, no stool nor flatus, +bs, abd soft.
+
+gu- foley patent for gd amt of cyu.
+
+skin- head incision w/ sm amt s/s drainage, ota; l falnk contusion w/ sm abraided area draining serous, ota.
+
+endo- bs remains wnl, no riss required.
+
+social- daughter called and updated.
+
+a: remains unchanged
+
+p: monitor cvs/nvs per routine, follow serum osmols for mannitol dosing. maintain pulmonary hygiene, maintain normotension w/ nipride gtt, support family.
+",,
+8206,9793,10205,0,2555-08-19 16:57:00 EST,2555-08-19 16:58:00 EST,7039,"N",74,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains intubated on PSV, no vent changes. Plan to continue with current care, ? CMO.
+",,
+8206,9793,10205,0,2555-08-19 17:38:00 EST,2555-08-19 17:48:00 EST,6158,"N",74,"Nursing/Other","TSICU NPN 0700-1500","
+TSICU NPN 0700-1500
+REVIEW OF SYSTEMS:
+
+NEURO: Pt lightly sedated on Propofol, increased to 25mcg/kg/min due to gaging on ET tube and increased RR/coughing. Pupils 1-2mm, L>R, non-reactive to light. Decerebrate posturing to BUE, more pronounced on left side. Triple flexion noted to BLE. Strong cough. Impaired gag. Imparied corneals. TLS films cleared per trauma team. [**Location (un) 204**] J collar intact. 
+
+RESP: Orally intubated on [**4-11**], 40% FIO2 with SATS >95%. LS clear, diminished at bases. Moderate amts thick clear oral secretions. Suctioned for thick yellow sputum. 
+
+CV: Afib 60-110's, rare PVC's noted. Nipride gtt infusing to maintain adequate BP control. P-boots intact. SC heparin. 
+
+ENDO: No coverage needed per RISS.
+
+GI: Abd soft, non-distended. TF at goal of 80cc/hr via OGT. Minimal residuals. +BS. 
+
+GU: Foley draining clear yellow urine. Adequate UO.
+
+SKIN: Scalp incision OTA with scant amts old bloody drainage. Left flank with large contusion. Backside intact.
+
+SOCIAL: Daughter called, unclear of when brother will be arriving from [**State **]. States will be today or tommorrow.
+
+PLAN: Continue to montior neuro status, monitor BP, support family with plan of care.
+",,
+8206,9793,10205,0,2555-08-19 22:34:00 EST,2555-08-19 23:09:00 EST,685,"N",74,"Nursing/Other","T/SICU NPN: 1500-2300","
+T/SICU NPN: 1500-2300
+S/O:  System Review:
+
+Neuro:  continues on propofol 25mcg/kg/min  neuro checks q4hrs  propofol held for neuro checks  no eye opening  pupils remain unequal
+left > right  left 3mm with now sluggish reaction  right 2mm with now sluggish reaction  impaired corneal reflex  weak gag  strong cough
+continues to posture with nailbed pressure  UE: extension  
+LE: flexion with toes up  on mannitol 25gm q6hr  last serum osmol 311
+Na 142  on dilantin 100mg q8hrs  no seizure activity  c-collar on 
+
+CVS: HR 80-100's NSR/NST with rare unifocal pvc  SBP 120-140's  
+nipride drip currently at .6mcg/kg/min  skin warm/dry with strong palpable pedal pulses  
+
+Respiratory:  remains intubated and ventilated on PSV  ps=5  peep=5
+RR high 20-30's  tv's 300-400's  lungs coarse to clear with suctioning suctioned for thick yellow secretions in small to moderate amounts q1-3hrs  sao2 > 97%
+
+Renal: foley patent and draining clear yellow urine  u/o 95-205cc/hr
+
+GI:  abdomen soft with +bs  no stool  continues on promote/fiber at 80cc/hr  no residuals  on pepcid  
+
+Endocrine:  FS q6hrs  FS in 120's  no insulin required per sliding scale
+
+Heme:  on heparin sq and pneumoboots for DVT prophylaxsis
+
+ID:  tmax 101.8  tylenol 650mg x 1 and fan on  temperature down to 99.7  pan cultured  on no antibiotics
+
+Skin:  left hip with ecchymosis and small skin abrasion  pink and draining small amount serous fluid  left craniotomy incision-staples intact  wound cleansed with NS to gently remove old bloody drainage
+coccyx with 2 small blisters--one intact and now one open
+
+Psychosocial:  daughter called to inquire if any changes in neuro status  updated on clinical situation and questions answered  
+still awaiting arrival of son from [**Name2 (NI) **]
+
+A:  neurologically unchanged except for now reactive pupils  blood pressure continues to require vasodilators  temperature spike  
+
+P:  continue to monitor serial neuro exams  mannitol and dilantin as ordered  ? starting lopressor(pt on beta-blocker pta) to aid in BP control  await culture results  
+",,
+8206,9793,10205,0,2555-08-20 05:17:00 EST,2555-08-20 05:38:00 EST,549,"N",74,"Nursing/Other","TSICU NPN 11p-7a","
+TSICU NPN 11p-7a
+S/O
+
+Neuro- pt status unchanged, when off propofol no eye opening, right pupil [**1-10**] and constricts slightly to light yet sluggishly, left pupil 3-3.5 and w/ minimal constriction as well.  Pt extends upper extremities to nail bed pressure, LE's flex and medially rotate w/ up going toes.  Pt w/ strong cough yet impaired gag, con't to have periods of tachypnia when light. Osm 311, con't on mannitol 25gms q 6hrs.  No seizure activity noted, con't on dilantin.  Pt on propofol 25mcgs/kg/min and nipride to keep SBP < 150.
+
+CV- pt in afib w/ HR from 70-110, rare PVC, lytes repleted this AM. BP from 110-180/ 70-80, Nipride con't as per flow sheet.  Extremities warm and dry w/ easily palpable pulses in LE's. 
+
+Resp- pt w/ RR 24-32, TV's 400-450. breath sounds clear to coarse bilaterally, pt suctioned frequently for small to moderate amts thick pale yellow secretions.  Pt maintaining O2 sat 98-100%.
+
+GI- pt on TF's of pomote w/ fiber at 80cc's hr, abd soft, nondistended w/ hypoactive bowel sounds, pt passing gas yet no stool tonight.
+
+GU- brisk u/o over night
+
+Endo- no coverage required, BS 128.
+
+ID- t max 100.7, tylenol times one and cultures pnd.
+
+Skin- back side w/ small blister on coccyx, pt turned side to side frequently.
+
+Social- no family contact over night, awaiting son from [**Name2 (NI) **].
+
+A/P con't supportive care, pulmonary toilet, follow cultures.
+",,
+8206,9793,10205,0,2555-08-20 05:24:00 EST,2555-08-20 05:30:00 EST,894,"N",74,"Nursing/Other",,"
+
+RESP CARE: Pt remains intubated/on vent on settings per carevue. No changes in settings this shift. Lungs coarse bilat. Sxd copious amts thick yellow sputum. Resp pattern irregular. RSBI this am on 0 PEEP/5PS was 94.
+",,
+8206,9793,10205,0,2555-08-20 15:31:00 EST,2555-08-20 15:33:00 EST,7039,"N",74,"Nursing/Other","Resp Care","
+Resp Care
+Pt remains intubated on PSV, no vent changes.  Sx for lg amts, plan to continue with current tx until family arrives, ? CMO.
+",,
+8206,9793,10205,0,2555-08-20 16:14:00 EST,2555-08-20 16:50:00 EST,6598,"N",74,"Nursing/Other",,"
+
+Nursing Note [**2555-8-20**] 7a-7p
+
+ROS:
+Neuro-Exam remains unchanged.  Pt. remains unresponsive.  Strong cough, weak gag noted.  Pupils R=2 L=3 L pupil minimally reactive R pupil non-reactive with weak corneals.  Decerebate posturing to pain noted on bilateral upper extremities.  Triple flexion to pain on bilateral lower extremities. Mannitol and Dilantin d/c'd per neurosurg this a.m.  Propofol gtt at 25mcgs/kg.  [**Location (un) 204**] J collar intact.
+
+Resp-Pt. remains oral intubated #8ETT 23LL.  Continues on CPAP+PS 5/5/40%.  Lung sounds coarse at times, copious light yellow sections with deep suctioning.  O2sats 97-100%.
+
+CV-AFib with rare PVC'S rate 70-110's.  SBP 130-150 DBP 60-70.  Nipride gtt at 0.6mcgs/kg/min to keep SBP140's.  Norvasc 5mg po qd started this afternoon to wean Nipride gtt off.  SC heparin and p-boots for DVT prophalaxis.  
+
+Endo-ISS Blood sugars 120-130's requiring no coverage.
+
+GI-Abdomen soft, non-distended, positive flatus.  TF remain at goal 80cc/hr, Promote with fiber via OGT, residuals minimal 20-30cc.  
+
+GU-Indwelling foley catheter, uop clear and yellow 100-200cc/hr.  
+
+Skin-Crani incision with staples, scant amount of bloody drainage noted, OTA.  Hematoma with small open blister noted on left posterior hip with scant serous drainage.  Alleyven dressing applied over blister.  Coccyx slightly reddened.
+
+Social-Spoke to patients daughter via telephone regarding family meeting with Dr. [**Last Name (STitle) **] tomorrow [**8-21**] at 12:00 to discuss ? of CMO status.  Dr. [**Last Name (STitle) **] paged and aware.
+
+Plan-Continue to monitor neuro status.  Wean Nipride gtt as tolerated.  Provide emotional support to family regarding decision of care.  
+",,
+8206,,10205,0,2555-08-21 04:22:00 EST,2555-08-21 04:24:00 EST,1154,"N",74,"Nursing/Other",,"
+
+Resp: Rec'd pt on psv 5/5/40%. Ett 8, taped @ 22 lip. Alarms on and functioning. Ambu/syringe @ hob. BS are coarse bilaterally. Suctioned for moderate amounts of thick yellow secretions. Am ABG 7.41/49/129/32. RSBI=66. Plan: Awaiting arrival of family member to discuss cmo status. 
+",,
+8206,,10205,0,2555-08-21 04:26:00 EST,2555-08-21 04:44:00 EST,549,"N",74,"Nursing/Other","TSICU NPN 11p-7a","
+TSICU NPN 11p-7a
+S/O
+
+Neuro- pt status unchanged, pt con't unresponsive, pupils w/ right pinpoint at 1m, NR, and left at 2mm and diff to appreciate any response. pt still decerebrate w/ ue's to nailbed pressure and triple flex w/ LE's, toes upgoing bilaterally.  Head incision D+I w/ staples, [**Location (un) 204**] J collar remains intact.
+
+CV- pt in afib rate from 80-100, rare VEA noted.  Weaning Nipride gradually from .6mcgs/kg/min to .3mcg/kg/min. thus far, goal SBP < 140-150.  AM labs stable, lytes wnl's, hct unchanged.  Extremities war and dry w/ easily palpable pulses.
+
+Resp- no vent changes over night, con't on [**4-11**] w/ 40% FiO2.  RR 24-30 non labored most of time, occaisional period of tachypnea, TV's 400-440cc's.  Breath sounds clear in upper lobes yet diminished at bases.  Suctioned for thick yellow secretions.
+
+GI- abd soft, hypoactive bowel sounds, TF's con't at 80cc's hr, no BM this shift.
+
+GU- voiding via foley w/o diff.
+
+Endo- no coverage required.
+
+ID- t max 100.3 PO, on no abxs.
+
+Skin- left hip hematoma w/ small open area posteriorly covered w/ alleyvan, head incision intact w/ staples, small blister and reddened coccyx, occiput of head tords the right ear reddened as well w/ small amt breakdown, alleyvan placed there as well.
+
+Social- no family contact over night yet plan for family mtg today, we're to page Dr. [**Last Name (STitle) 5508**] when family arrives today.
+
+A/P con't to waen nipride as tolerated, con't supportive care, support family during family mtg.
+",,
+8206,,10205,0,2555-08-21 17:51:00 EST,2555-08-21 18:03:00 EST,7754,"N",74,"Nursing/Other","T/SICU Shift Report 0700-1930","
+T/SICU Shift Report 0700-1930
+74 Year Old Male    NKA     CMO    Universal Precautions
+
+Admission [**2555-8-14**] - S/P fall
+
+PMH - CAD/2xMI/Left ventricular hypertrophy/Hypertension
+
+Injuries - SDH
+           Intraparenchymal Hemorrhage
+           Left Hip Fracture
+
+Shift Events - Family discussion this afternoon with Dr [**Last Name (STitle) 5509**], family decided to make the patient CMO. Patient extubated at 1400, started on morphine infusion, which was titrated upto 25mg/hr. Nipride infusion discontinued/propofol infusion discontinued, all regular medications discontinued/c-collar discontinued/TF stopped.
+
+Family in to sit with the patient for several hours, however owing to increased levels of distress all family returned home. Patient's daughter assured that the family would be notified when the patient passed and that the patient would not be left alone.
+
+Patient appears to be gasping for breath at times, responding briefly to an increased in morphine, ""death rattle"" continues, with [**Last Name (un) **]-[**Doctor Last Name 273**] respirations, with lengthening patterns of apnea, SpO2 down to 60-75%. Stable blood pressure and HR, with occasional PVCs. Vigorous UO. 
+
+PLAN - Maintain comfort
+",,
+8206,,10205,0,2555-08-21 21:16:00 EST,2555-08-21 21:18:00 EST,7880,"N",74,"Nursing/Other","1900-2200","
+1900-2200
+PT UNRESPONSIVE. CMO. MORPHINE DRIP INFUSING @ 25MGPH.
+DAUGHTER TELEPHONED @ 2100HRS FOR UPDATE ON PTS STATUS. 
+PT EXPIRED @ 2130HRS. TRAUMA RESIDENT NOTIFIED. AWAITING PT TO BE PRONOUNCED.
+",,
+8206,,10205,0,2555-08-21 21:41:00 EST,2555-08-21 21:42:00 EST,7880,"N",74,"Nursing/Other","2240","
+2240
+PT PRONOUNCED BY TRAUMA RESIDNET AND FAMILY INFORMED.
+RIP
+",,

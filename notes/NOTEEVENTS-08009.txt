@@ -1,0 +1,452 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8009,21445,,,2814-10-20 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2814-10-20**]     Discharge Date:  [**2814-11-4**]
+
+Date of Birth:   [**2732-12-26**]     Sex:  F
+
+Service:  Cardiology
+
+ADDENDUM:
+HOSPITAL COURSE:  The patient underwent an electrophysiology
+study and ventricular tachycardia focus ablation on [**2814-10-22**].
+Eight different inducible foci were ablated.  The patient
+tolerated the procedure well.  There were some residual
+ventricular tachycardic foci remaining and the patient was
+placed on Amiodarone 400 mg per day times three months and it
+was planned to have a biventricular automatic implantable
+converter and defibrillator placed on the following Monday.
+The patient remained on the inpatient service with no
+complications from her ablation, no ectopic beats on
+monitoring by telemetry.  On [**2814-10-27**] the patient underwent
+AICD placement.  The procedure was complicated by difficult
+placement of the wires with multiple attempts of placement of
+the leads.  The patient became hypotensive during the
+procedure.  An echocardiogram demonstrated that there was no
+pericardial effusion or tamponade.  The patient was placed on
+Dopamine with good recovery of blood pressure and it was
+presumed that her hypotension was secondary to high dose of
+Fentanyl given during the procedure.  The patient was
+transferred to the Intensive Care Unit on Dopamine drip for
+maintenance of blood pressure.  The patient was found the
+following morning to be in an accelerated idioventricular
+rhythm with AV dissociation and that this was contributing to
+her hypotension with systolic blood pressures only 70-80 on
+13 mcg of Dopamine.  EP service was called and A pace
+terminated the AVR with burst pacing and pressures
+immediately increased to 110-120 systolic.  Dopamine was then
+slowly weaned off over the next several days and the patient
+was transferred out of the Intensive Care Unit on [**2814-10-31**].
+During this time the patient's hematocrit dropped from 30
+down to 25.9.  She was transfused with one unit of blood and
+her hematocrit increased to 31.6.  The patient remained in
+stable condition until the night of [**2814-11-2**] when at 12:30 in
+the morning house staff was called to see Mrs. [**Known patient lastname **] for
+assistance and management of acute respiratory distress.  She
+was found to have heart rates 100 to 110, systolic blood
+pressures 160's, respiratory rate in the 40's, SAO2 85% on
+100% non rebreather with jugular venous pulses increased in
+the neck to 10 cm and crackles and rhonchi throughout with
+retracting and paradoxical breathing.  EKG at that time
+showed AV dissociation, atrial rate of about 80, ventricular
+rate of about 100, wide left bundle branch block type with a
+left axis.  The patient was given Lasix 60 mg, Morphine
+Sulfate 2 mg IV, IV Nitroglycerin drip was started.  She was
+given another 2 mg of Morphine Sulfate and 120 mg of Lasix
+IV.  With this, her SAO2 increased to 95% on 100% non
+rebreather and respiratory rate decreased now to 20 with only
+retracting during breathing and no paradoxical.  The patient
+was transferred to an ICU setting for non invasive
+monitoring.  She was continued with preload reduction with
+Nitrates and Morphine and diuresis.  We discussed the use of
+mechanical ventilation intervention with her and she does not
+want this as previously discussed during this admission with
+Dr. [**Last Name (STitle) 1357**], even if likely temporary under any circumstances.
+Electrophysiology service was called at 2:30 a.m. on [**11-2**]
+and they were able to burst pace her AICD which showed
+immediate response in blood pressure to SVTs of 100 and it
+was decided to continue Amiodarone.  No further Lasix was
+given.  The patient continued to put out good urine.  Later
+the following morning the patient was seen by the EP service
+fellow again.  He attempted to program the ICD to detect 90
+beats per minute, however, the algorithm would not permit
+rate less than 100 beats per minute.  He changed VT detection
+to 100 beats per minute, programmed 19 algorithms followed by
+a 10 joule cardioversion.  He decreased V fib detection from
+320 milliseconds to 340 milliseconds, activated all SVT
+detection algorithms.  PA and lateral chest x-ray was
+performed during the day showing no pneumonia, no effusion
+and some resolution of congestive heart failure.
+Electrolytes were checked and abnormalities were corrected
+and it was planned that if an AIVR, slow V tach returned,
+that Lidocaine would be used intravenously to assess class IB
+anti-arrhythmic efficiency.  This may provide support to
+combine Amiodarone and Mexiletine in future if efficacious.
+Following these adjustments and the biventricular pacer, the
+patient remained stable, continued to diurese well with no
+further episodes of AIVR or VT.  During this time afterload
+reduction was introduced with Captopril 6.25 mg tid.  This
+was changed on [**2814-11-3**] to Zestril 5 mg per day and preload
+reduction was added with Lasix 40 mg per day.  It was felt
+that preload and afterload reduction would help prevent the
+patient from decompensating into congestive heart failure so
+rapidly should the AIVR slow VT return.  It was decided not
+to add any other anti-arrhythmics at this time and the
+ability of the AICD to defibrillate V tach, V fib would not
+be tested during this admission.  The patient continued to do
+well, her respiratory status improved so that she was
+saturating 98% on room air.  She was cleared by physical
+therapy for discharge to home and she will follow-up in two
+weeks with Dr. [**Last Name (STitle) 1357**] of cardiology and with the
+electrophysiology service device clinic.  Appointment times
+remain to be determined.
+
+DISCHARGE MEDICATIONS:  Lasix 40 mg per day, Zestril 5 mg per
+day, Protonix 40 mg per day, Amiodarone 400 mg per day times
+three months and then 200 mg per day, Lipitor 10 mg per day,
+Timoptic 0.5% one drop each eye per day, Colace 100 mg po
+bid, Aspirin 81 mg per day.  It was elected not to start
+anticoagulation or beta blockade at this time and this will
+be followed up on her visit with Dr. [**Last Name (STitle) 1357**] in two weeks.
+
+DISCHARGE STATUS:  DNR, DNI.
+
+DISCHARGE DIAGNOSIS:
+1.  Ventricular arrhythmia.
+
+CONDITION ON DISCHARGE:  Good.
+
+
+
+
+                          [**First Name11 (Name Pattern1) 43**] [**Last Name (NamePattern4) 1358**], M.D.  [**MD Number 1359**]
+
+Dictated By:[**Name8 (MD) 1360**]
+
+MEDQUIST36
+
+D:  [**2814-11-3**]  15:25
+T:  [**2814-11-6**]  11:20
+JOB#:  [**Job Number 11025**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) 43**] [**Last Name (NamePattern1) **]
+ on: MON [**2814-11-10**] 4:20 PM
+(End of Report)
+
+
+",,
+8009,21445,9973,0,2814-10-21 03:34:00 EST,2814-10-21 03:56:00 EST,313,"N",1,"Nursing/Other","CCU NSG ADMIT NOTE.","
+CCU NSG ADMIT NOTE.
+[**10-20**]----81 YO FEMALE TRANSFERED FROM [**Hospital3 **] HOSPITAL FOR FURTHER MEDICAL MANAGEMENT.
+
+PMH:CAD W ANTERIOR/APICAL MI [**10**]' & ASSOCIATED CARDIOMYOPATHY.
+    AF.
+    HYPOTHYROIDISM.
+    LARGE ANEURYSMAL SEGMENT W ASSOCIATED LAMINATED THROMBUS ON CHRONIC ANTICOAGULANTS.
+    ELEVATED CHOLESTEROL.
+
+ALLERGIES:NKDA.
+
+SOCAIL:LIVES IN RETIREMENT COMMUNITY. INDEPENDENT. SUPPORTIVE FAMILY.
+
+HX:[**10-19**] VISITING CAP COD FOR WEDDING OF NEICE. AFTER WEDDING DEVEOLPED LIGHTHEADEDNESS-WO LOC. WO CP, BUT TOOK NTG. EMTS CALLED & PT TRANSPORTED TO CCH. ADMIITED TO TELEMETRY-DEVELOPED WIDE COMPLEX TACHYCARDIA W RBBB PATTERN CONSISTENT W VENTRICULAR TACHYCARDIA- SPONTANEOUSLY CONVERTED, BUT SUBSEQUENTLY STARTED ON IV AMIODARONE (1MG/MIN X6HRS & MAINTAINANCE DOSE OF .5MG/MIN). WO FURTHER WCT. RO MI. [**10-20**] TRANSFERED TO [**Hospital1 22**] FOR EPS & ?AICD PLACEMENT.
+
+O:NEURO=A/A/O. COOPERATIVE. APPROPRIATE. VERY [**Last Name (un) 106**].
+  PULM=BREATH SOUNDS=W CRACKLES @ BASES. O2 2L NC W SATS UPPER 90'S. WO CO SOB/DYSPNEA.
+  CV=HEMODY STABLE. BORDERLINE LOW BP-BASELINE BP 90'S. ACCESS-#20 X2- R LOWER ARM. AMIODARONE GTT DCED.
+  GI=NPO AFTER MN FOR ?POSSIBLE EPS.
+  GU=WO FOLEY.
+  ID=AFEBRILE.
+  LABS=COMPLETE LABS SENT ON ADMISSION.
+  SOCIAL=FAMILY AWARE OF TRANSFER. TALKED W MOM ON PHONE.
+
+A:STABLE @ PRESENT.
+
+P:NPO FOR ?POSSIBLE EPS. IV AMIODARONE CHGED TO PO. ?TRANSFER TO F2/3. SUPPORT AS NEEDED.
+",,
+8009,21445,9973,0,2814-10-21 12:38:00 EST,2814-10-21 12:43:00 EST,351,"N",1,"Nursing/Other",,"
+
+CCU NURSING TRANSFER NOTE 
+
+PLEASE SEE WRITTEN TRANSFER NOTE
+
+PT ADMITTED TO [**Hospital1 22**] FOR EPS AND ?AICD PLACEMENT. PT ALERT, ORIENTE X3, COOPERATIVE. DENIES CP/DIZZINESS. HR 50'S SB, NO VEA NOTED. BP 80-100/40'S. INR ELEVATED. VIT K GIVEN. ? TO HAVE EPS TOMORROW IF INR NORMAL. COUMADIN ON HOLD. LS- BIBASILAR CRACKLES. O2 SATS 98% 2L NC. DENIES SOB AT REST. REPORTS +DOE. FAIR PO INTAKE. VOIDING VIA BEDPAN. 
+
+HEMODYNAMICALLY STABLE OFF IV AMIODARONE, NOW ON PO AMIO. TRANSFER TO [**Hospital Ward Name **] 3. 
+",,
+8009,21445,,,2814-10-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2814-10-27**] 3:12 PM
+     CHEST (SINGLE VIEW) PORT                                        Clip # [**Clip Number (Radiology) 3744**]
+     Reason: 81 yo woman s/p dual chamber ICD via the L subclavian c/b hy
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman s/p dual chamber ICD via the L subclavian c/b hypotension.
+      R/o pneumothorax.
+     REASON FOR THIS EXAMINATION:
+      81 yo woman s/p dual chamber ICD via the L subclavian c/b hypotension.  R/o
+      Pneumothorax.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Status post dual chamber ICD via left subclavian, rule out
+     pneumothorax.
+     
+     There is a dual chamber pacemaker located within the left chest wall and the
+     right atrial and right ventricular leads are well positioned.  There is no
+     evidence of pneumothorax on the left or on the right.  There are no focal
+     pulmonary opacifications and there are no pleural effusions.  There is
+     cardiomegaly with left ventricular predominance.  The pulmonary vasculature is
+     normally distributed.
+     
+     IMPRESSION:
+     1.  No evidence of pneumothorax.
+     2.  Cardiomegaly with no evidence of heart failure.
+     
+
+",,
+8009,21445,9974,,2814-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2814-10-28**] 6:31 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3745**]
+     Reason: s/p pacemaker placement
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with VT s/p mulitiple ablations. ICD placement on [**10-27**]
+      complicated by difficult access and hypotension
+     REASON FOR THIS EXAMINATION:
+      s/p pacemaker placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  ICD placement on [**10-27**].  Hypotension. Status post pacemaker
+     placement.
+     
+     CHEST, SINGLE VIEW:  Comparison study dated [**2814-10-27**].  There is a dual chamber
+     pacemaker whose leads are not changed over the interval.  The aorta is
+     unfolded. The heart remains enlarged. There is interval appearance of linear
+     atelectasis at left lung base.  No areas of consolidation. No heart failure.
+     No osseous abnormalities identified. No pleural effusions.
+     
+     IMPRESSION:  1) Cardiomegaly without heart failure.  2) Interval appearance of
+     linear atelectasis at left lung base.
+
+",,
+8009,21445,9974,0,2814-10-28 05:43:00 EST,2814-10-28 05:50:00 EST,3647,"N",54,"Nursing/Other","FOCUS HEMODYNMICS","
+FOCUS HEMODYNMICS
+DATA: ON IV DOPA AT 12MCG/KG/MIN. BP 70-90'S WITH MEAN >60. HO WANTS MEAN >60. O2 AT 2 LITERS WITH O2SATS 99-100%. HO IN TO SEE PT AND ASKED ABOUT FOLEY CATHETER. FOLEY CATHETER INSERTED AND INSERTED FOR 425CC OF CLEAR URINE. U.O 30-80CC/HR. EMESIS X3 BILIOUS DRAINAGE. L ARM IN SLING AND POSTITIVE LEFT RADIAL PULSE. L SIDED CHEST DSG D AND I. 
+ACTION: ON DOPA AND AT 12MCG. CXR DONE. EKG TO BE DONE THIS AM. CARDIOLOGY AWARE OF BP AND DOPA RATE./
+RESPONSE: MONITOR CLOSELY BP , LABS AND CONDITION.
+",,
+8009,21445,9974,0,2814-10-28 09:14:00 EST,2814-10-28 09:26:00 EST,3556,"N",54,"Nursing/Other",,"
+
+AWAKE ALERT AND ORIENTED X3.SKIN WARM AND DRY,MOVES ALL EXTREMITIES ON COMMAND WITH EQUAL STRENGHT.SPEECH CLEAR, PUPILS PERL.REMAINS AV PACED WITH SOME OWN BEATS,AND RARE PVC.MAGNESIUM RELETED 2 GMS IV GIVEN.LEFT  UPPER CHEST  DSG DRY AND INTACT,ARM REMAINS IN SLING.GOOD LEFT ARM RADIAL PULSE ,FINGERS WARM WITH GOOD SENSATION,FINGERS SLIGHTLY SWOLLEN.BREATH SOUNDS CLEAR WITH GOOD COUGH EFFORT,SP02 98% ON 2L NP.NPO AFTER BREAKFAST,TOLERATED TOAST AND GINGERALE.MEDICATED WITH COMPAZINE FOR VOMITING EARLIER WITH GOOD RESULTS.ABD SOFT,NONTENDER WITH POSITIVE BOWEL SOUNDS PRESENT.FOLEY TO CD DRAINAGE AMBER URINE.BOTH FEET WARM WITH PALPABLE DP AND PT PULSES PRESENT.HAS ECCHYMOTIC AREAS IN BOTH GROINS,NO HEMATOMAS FELT.BP REQUIRES DOPAMINE AT 12MCG/KG/MIN TO KEEP MAP GREATER THAN 60.SEEN AND EVALUATED BY DR [**First Name (STitle) **].PT DENIES ANY PAIN.CONDITION REPORT TO DAUGHTER.
+",,
+8009,21445,9974,0,2814-10-28 10:36:00 EST,2814-10-28 10:39:00 EST,3556,"N",54,"Nursing/Other",,"
+
+LEFT ARM IV APPEARS SLIGHTLY SWOLLEN,DCD AND NEW LEFT PERIPHERAL STARTED.DR [**Last Name (STitle) **] HERE WILL RECHECK FINGER STICK GLUCOSE.DR [**Last Name (STitle) **] CARDIOLOGY HERE DOING INTERROGATION OF AICD.CARDIAC ECHO BEING DONE.100 CC OF NS BOLUS BEING INFUSED.DR [**Last Name (STitle) **] TO PUT IN TRIPLE LINE.
+",,
+8009,21445,9974,0,2814-10-28 11:59:00 EST,2814-10-28 12:03:00 EST,3556,"N",54,"Nursing/Other",,"
+
+pacer and aicd  were  interrogated by dr [**Last Name (STitle) 5289**] and it was noted that pt was in vt. at rate of 107.had another fluid bolus of ns.dopamine has been titrated by the direction of cardiology.labs have been drawn ,and blood cultures were drawn.pt is currently vpaced and a sensing.dr [**Last Name (STitle) **] at bedside.
+",,
+8009,21445,9974,0,2814-10-28 15:55:00 EST,2814-10-28 15:58:00 EST,3556,"N",54,"Nursing/Other",,"
+
+condition report to dr [**First Name (STitle) **]   regarding dopa,not able to wean below 8 mcg/kg/min.does not always appear to be total av pacing  rare own beat but 100% vpacing.appears comfortable.awaiting bed in ccu.
+",,
+8009,21445,9974,,2814-10-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2814-10-29**] 1:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3746**]
+     Reason: PLEASE CONFIRM c-[**Doctor First Name **] E PLACEMENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with VT s/p mulitiple ablations. ICD placement on [**10-27**]
+      complicated by difficult access and hypotension
+     REASON FOR THIS EXAMINATION:
+      PLEASE CONFIRM c-[**Doctor First Name **] E PLACEMENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Check line placement.
+     
+     CHEST, SINGLE VIEW: Direct comparison is made to prior exam dated [**2814-10-28**].
+     There is interval placement of a right IJ line whose tip is in the region of
+     the lower SVC but its exact location is obscured by pacemaker leads. There is
+     no pneumothorax. There is a dual chamber pacemaker without interval change in
+     lead position. There is interval appearance of a left basilar area of discoid
+     atelectasis.
+     
+     IMPRESSION: 1) New right IJ line whose tip is in the region of the lower SVC
+     but is obscured by overlying pacemaker leads. If clinically indicated, a
+     repeat exam could be performed. No pneumothorax.
+     
+     2) Interval appearance of left basilar discoid atelectasis.
+
+",,
+8009,21445,9974,0,2814-10-29 04:56:00 EST,2814-10-29 05:05:00 EST,507,"N",1,"Nursing/Other",,"
+
+CCU Nursing Progress Note 11p-7a
+
+Pt transferred to CCU ~11:30 pm from neuro sicu where she was bordering.
+
+NEURO: Alert and oriented x3. Cooperative.
+
+RESP: LS diminished Left side; otherwise clear. Sats 97% on 2L NC. Denies resp complaints.
+
+CARDIAC: Pt remains on dopamine 6-9mcg titrating to maintain MAP >60.
+Attempted to wean dopamine on arrival, however did not tolerate with dips in BP to low 60's-70's. Presently, BP ~90/50. Aim to wean dopamine by 1mcg as tolerated. ?etiology of persistent hypotension.
+Denies CP, SOB or palps.   CK 138  Troponin 3.0.
+AV pacer firing at rate of 90 all night. No VEA noted.
+
+GI: Taking small sips of water without problems. Abd soft NT. +BS. no stool. HCT 27.6 at 12am (down from 32 yesterday)-> rec'd one unit PRBCs overnight. am HCT pending. No s/s active bleeding.
+
+GU: foley draining clear yellow urine. Pt +188 this am.
+
+ACCESS: Right IJ triple lumen placed; confirmed via CXR. a-line on hold at this time. NBP correlates with auscultated BP.
+
+STATUS: full code.
+",,
+8009,21445,9974,0,2814-10-29 17:17:00 EST,2814-10-29 17:44:00 EST,-1,"N",1,"Nursing/Other","CCU Nursing Progress Note","
+CCU Nursing Progress Note
+Pt admitted s/p anneurysm with associtated laminated thrombus.  Pt has a few episodes of VT, pt had AIED palced on [**10-27**], dsd in place on L shoulder.  Pt dropped pressure placed on dopa and attempting to [**Doctor Last Name **].
+
+Neuro:  Pt A&O to TPP.  Pt able to move all extremeties, Pt oob to chair for first time today.  Tolerated well.  Pt has difficulty moving L arm secondary to pacer placement.
+
+Cardiac:  Pt is in SA rate of 60's, very low voltage p waves.  Pt initially paced, then EP changed to have pts intrensic beat heart, and not notiable changes occured.  Pt has recent hx of VT(slow), monitor closely for rhythm change.  Pts BP is very labile, pt on currently 4.0mcg dopa, titirate BP of mean 60 or sys of 90.  Weaned 3 mcg today.  I have been decreasing dopa by .5 mcg q 1-2 hr as tolerated.  Pts baseling is in 90's, high 80's.  Pt OOB to cardiac chair, tolerated well, no drop in BP in fact increase in BP.  Pts CVP transduced, initially 4, pt given 850cc in boluses today, pts BP will increase, however kidneys working so well, pt will urinate the CVP back down to 4.  The plan is to not give any more boluses, to see how pt tolerates moving and maybe pt will improve with activity.  Complete set of labs sent to trouble shoot BP.
+
+Resp:  Pts BS slightly decreased on L, with inconsistant rales in bases, but for the most part clear.  Pt on and off 2L via NC.  Tolerating well.  O2 sat in high 90's.
+
+GI:  Pt on regular diet tolerating well.  +BS, abd soft NT.
+
+GU:  PT has f/c urinating very well, UA, C&S sent today.  Pt has 20cc/hr NS going.
+
+MISC:  Pt changed to amiodarone 400 bid for 4 days starting today, then return to 400 qd.  Pt has a L IJ TL, with CVP transduced.  Please draw a core stem test by [**10-30**] am, please check orders for further instruction.
+
+Dispo:  Pt has just been changed to -CPR, -intubation, +shock!
+",,
+8009,21445,9974,0,2814-10-30 04:24:00 EST,2814-10-30 04:43:00 EST,411,"N",1,"Nursing/Other",,"
+
+npn 7p-7a: 
+  ccu nsg progress note:
+s: spanish speaking f
+o: neuro--conts w/r sided neglect, r facial droop, gazes to the left, no movement in r arm, no movement in r leg, is able to move toes of r leg, able tomove l arm w/out diff, brings arm over her head, can lift r leg up but not hold it up, perla--2mm bilat, respond sluggishly, speech is garbled, very diff to understand, pt conts oriented to self & place, at times pt yelling out in spanish but are not able to understand her, dtr called and also not able to understand, pt sleeping on/off throughout noc, is  easily arrousable
+
+resp--ls cta in upper lobes, decreased bs in bases, sats dropping to 93-94% when yelling out, when sleeping sats up to 97%, rr 18-20, does not appear sob or distressed
+
+cardiac--hr 60's sr, no ectopy, bp 100-113/50's, tmax 95ax, lopressor being held as well as asa/plavix
+
+renal--last dialysis 3 days ago, ?plan for dialysis today, am labs pnd
+
+gi--abd soft/distended, (+)hypoactive bs, pt on bedpan, (+)brbpr--sm amt noted, team aware, will cont to watch, (+)sm stool, g(+)
+
+heme--given 1 bag plts at 8pm, 10pm inr 1.5, given 4u ffp, repeat inr this am pnd, pt set up for more ffp if needed
+
+social--dtr [**Name (NI) 5290**] called from fla to talk w/pt, she was unable to understand pt, dtr updated by rn & md, informed us that pt's husband had stroke 1 mo ago and is in a nursing home at this time
+
+",,
+8009,21445,9974,0,2814-10-30 05:16:00 EST,2814-10-30 05:17:00 EST,411,"N",1,"Nursing/Other",,"
+
+please disregard above note, written on wrong pt
+",,
+8009,21445,9974,0,2814-10-30 05:18:00 EST,2814-10-30 05:36:00 EST,411,"N",1,"Nursing/Other",,"
+
+npn 7p-7a: 
+  ccu nsg progress note:
+s: ""i'm feeling better""
+o: neuro--a&ox3, mae, skin w&d, no c/o's, appears comfortable
+resp--ls cta in upper lobes, decresased in lower lobes, no c/o sob, no diff breathing, o2 2l on w/sats 99-100%, o2 off while sleeping w/sat down to 90-91%, rr 18's
+cardiac--hr 60-70's sr, no ectopy, conts on dopa at 4mcg, bp 80-112/40's, attempted to wean dopa to 3.5 w/bp dropping to map 51-53--bp 83-85/40's, dopa back to 4.0mcg, then weaned to 3.8mcg w/maps>60, cvp 7-8, afeb, am labs pnd, [**Last Name (un) **] stim test done, levels sent off at 30min/60min post 
+gi--abd soft, non tender to palpation, (+)bs, tol po's w/out diff
+gu--foley draining clear yellow urine, approx 100cc qhr
+a/p: monitor/asses cvs, wean dopa as tols
+     
+",,
+8009,21445,9974,0,2814-10-30 17:30:00 EST,2814-10-30 17:42:00 EST,210,"N",1,"Nursing/Other","NPN CCU","
+NPN CCU
+N-INTACT
+R-RA SATS 98% BREATHING COMFORTABLY
+CV-NSR 60, BP 80-90/40 RANGE BUT MENTATING WELL, SO FAR ADEQUATE UO, ABLE TO WALK OUTSIDE THE ROOM TODAY ALL OFF DOPA, R IJ 3L CVL INTACT
+GI-EATING WELL, PRN BOWEL MEDS GIVEN-NO STOOL
+GU-FOLEY DC'D-DTV, EVEN TBB TODAY 
+AFEBRILE
+NPO P MN  FOR EP LAB
+A/P-MAINTAINING STABLE HEMODYNAMICS THROUGHOUT DAY OFF DOPA, CONTINUE ALL CURRENT SUPPORTS
+",,
+8009,21445,9974,0,2814-10-31 03:49:00 EST,2814-10-31 03:55:00 EST,411,"N",1,"Nursing/Other",,"
+
+NPN 7P-7A:
+ CCU NSG PROGRESS NOTE:
+S:""I'M GOING FOR THAT TEST TOMORROW AFTERNOON""
+O: NEURO--PT PLEASANT/COOPERATIVE, A&OX3, MAE, SKIN W&D, OOB TO CHAIR W/MIN 1 ASSIST, GAIT STEADY, NO C/O PAIN OR DISCOMFORT
+RESP--LS CTA ON R SIDE, DECREASED AT BASES ON L SIDE, NO C/O SOB, RR 18-20 NOT LABORED, SATS ON RA 94-97%
+CARDIAC--HR 60'S SR, NO ECTOPY, BP 89-113/40'S, CONTS OFF DOPAMINE, NO C/O CP, NO DIZZINESS, TO GO TO EP LAB THIS AFTERNOON FOR FURTHER STUDYING
+GI--ABD SOFT, SL DISTNEDED, (+)BS, (+)FLATUS, DID PASS SM FORMED STOOL, TOL PO'S W/OUT DIFF, DRINKING FLUIDS SO SHE CONTS TO VOID, IS NPO AFTER MN
+RENAL--VOIDING ON COMMODE W/OUT DIFF, U/O APPROX 450CC THIS SHIFT, URINE CONCENTRATED
+ACCESS--CONTS W/RTLCL, INTACT, NO PROBLEMS, L LOWER ARM IV INTACT
+SOCIAL--DTR IN VISITING THIS EVE, PT STATES THAT SHE WILL GO AND STAY W/DTR WHEN SHE IS D/C'D FROM HOSP BEFORE RETURING TO HER APT
+",,
+8009,21445,,,2814-11-01 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2814-11-1**] 10:49 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3747**]
+     Reason: eval for infiltrate/CHF
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with VT s/p mulitiple ablations. ICD placement on [**10-27**]
+      complicated by difficult access and hypotension
+       
+      Now with acute hypoxia and increased work of breathing.
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate/CHF
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: V-tach status post multiple ablations ICD placement on [**10-27**]
+     complicated by -------- and hypotension, now with acute hypoxia and increased
+     work of breathing. Question infiltrate CHF.
+     
+     Chest, single AP view.
+     
+     There is patchy alveolar opacity diffusely in both lungs, new compared with
+     three days earlier. There is blunting of the right costophrenic angle. The
+     left costophrenic angle is not included on the film. There is mild to moderate
+     cardiomegaly --  the cardiac borders are obscured by the parenchymal
+     abnormality. A right IJ central line is present --  the tip is obscured, but
+     likely lies over the mid SVC. The left sided dual lead ICD is present, with
+     lead tips over right atrium and right ventricle. The left hemidiaphragm is
+     slightly elevated, similar to [**2814-10-29**].
+     
+     IMPRESSION: Patchy alveolar opacities in both lungs, with blunting of right
+     costophrenic angle. Findings are most suggestive of pulmonary edema, in the
+     appropriate clinical setting, infection or ARDS could also give rise to this
+     appearance.
+
+",,
+8009,21445,,,2814-11-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2814-11-2**] 1:21 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3748**]
+     Reason: pulmonary edema vs. infiltrate
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      81 year old woman with VT s/p mulitiple ablations. ICD placement on [**10-27**]
+      complicated by difficult access and hypotension.  Seen w/ acute hypoxia and
+      increased work of breathing last night, clinically improving this AM.
+     REASON FOR THIS EXAMINATION:
+      pulmonary edema vs. infiltrate
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: ICD placement. Hypoxia last nite.
+     
+     CHEST, SINGLE VIEW:  Comparison study dated [**2814-11-1**]. There is an unfolded
+     aorta. Dual chamber pacemaker without interval change. Right IJ line with its
+     tip in the SVC but is partially obstructed by dual chamber pacer leads. There
+     is no pneumothorax. There is inteval decrease in diffuse linear alveolar
+     opacities. There is a small left pleural effusion.
+     
+     IMPRESSION: Near complete interval resolution of heart failure.
+
+",,

@@ -1,0 +1,2424 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8006,,,,2973-07-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-26**] 5:12 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3715**]
+     Reason: r/o infection                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with CP, diaphoresis, delta ms                               
+                 
+     REASON FOR THIS EXAMINATION:
+      r/o infection                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 65-year-old woman with chest pain, diaphoresis and change in mental
+     status.
+     
+     COMPARISON: [**2972-4-29**].
+     
+     AP UPRIGHT PORTABLE CHEST RADIOGRAPH: The heart size is within normal limits.
+     The aorta is slightly tortuous, unchanged. There are calcifications seen in
+     the aortic arch. There is a left subclavian line whose tip is in the mid SVC.
+     No pneumothorax is seen. Again seen are metallic/mesh wall stents in the
+     region of the right subclavian extending to the right axillary veins.
+     
+     No pneumothorax is seen. The pulmonary vascularity is normal in appearance
+     without redistribution. No pleural effusions or focal consolidation.
+     
+     IMPRESSION: No pneumothorax. No focal consolidations or CHF.
+
+",,
+8006,,,,2973-07-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-26**] 8:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3717**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: abd w/ iv contrast only.  too drowsy to do po contrast.  ple
+     Field of view: 50 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with delta ms, partially reversed w/ narcan, now w/ diarrhea 
+      and lower abdominal pain
+     REASON FOR THIS EXAMINATION:
+      abd w/ iv contrast only.  too drowsy to do po contrast.  please assess for 
+      intraabdominal infxn.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Left lower abdominal pain. Diabetes and end-stage renal disease.
+     
+     TECHNIQUE: Contrast enhanced CT of the abdomen and pelvis without oral prep.
+     
+     CT ABDOMEN WITH IV CONTRAST: There is dependent atelectasis at the lung bases.
+      There is no effusion.  The gallbladder is distended but otherwise normal in
+     appearance. The liver, pancreas, and adrenal glands are unremarkable.  There
+     is differential decreased perfusion to the anterior portion of the spleen.
+     Posterior to this there is a 1.5 cm rounded area of hypodensity which may
+     represent a cyst or hemangioma or lymphangioma.  The kidneys are atrophic
+     bilaterally and each contains a small rounded hypodensity which is too small
+     to accurately characterize.  The aorta is of normal caliber throughout its
+     course.  There is no adenopathy.  The unopacified bowel is within normal
+     limits for technique.  There are no inflammatory changes in the mesentery fat.
+      There is no free fluid or free air.
+     
+     CT PELVIS WITH IV CONTRAST: There is a small focus of stranding in the left
+     lower quadrant subcutaneous fat.  There is no intraabdominal abnormalities.
+     The bones reveal no suspicious findings.
+     
+     IMPRESSION: Differential decreased perfusion in the anterior portion of the
+     spleen.  Rounded hypodense lesion in the spleen as above may represent
+     hemangioma, lymphangioma, or cyst.  No other acute intraabdominal
+     abnormalities.
+
+",,
+8006,,,,2973-07-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-26**] 8:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3717**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: abd w/ iv contrast only.  too drowsy to do po contrast.  ple
+     Field of view: 50 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with delta ms, partially reversed w/ narcan, now w/ diarrhea 
+      and lower abdominal pain
+     REASON FOR THIS EXAMINATION:
+      abd w/ iv contrast only.  too drowsy to do po contrast.  please assess for 
+      intraabdominal infxn.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Left lower abdominal pain. Diabetes and end-stage renal disease.
+     
+     TECHNIQUE: Contrast enhanced CT of the abdomen and pelvis without oral prep.
+     
+     CT ABDOMEN WITH IV CONTRAST: There is dependent atelectasis at the lung bases.
+      There is no effusion.  The gallbladder is distended but otherwise normal in
+     appearance. The liver, pancreas, and adrenal glands are unremarkable.  There
+     is differential decreased perfusion to the anterior portion of the spleen.
+     Posterior to this there is a 1.5 cm rounded area of hypodensity which may
+     represent a cyst or hemangioma or lymphangioma.  The kidneys are atrophic
+     bilaterally and each contains a small rounded hypodensity which is too small
+     to accurately characterize.  The aorta is of normal caliber throughout its
+     course.  There is no adenopathy.  The unopacified bowel is within normal
+     limits for technique.  There are no inflammatory changes in the mesentery fat.
+      There is no free fluid or free air.
+     
+     CT PELVIS WITH IV CONTRAST: There is a small focus of stranding in the left
+     lower quadrant subcutaneous fat.  There is no intraabdominal abnormalities.
+     The bones reveal no suspicious findings.
+     
+     IMPRESSION: Differential decreased perfusion in the anterior portion of the
+     spleen.  Rounded hypodense lesion in the spleen as above may represent
+     hemangioma, lymphangioma, or cyst.  No other acute intraabdominal
+     abnormalities.
+
+",,
+8006,,,,2973-07-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-26**] 8:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3717**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: abd w/ iv contrast only.  too drowsy to do po contrast.  ple
+     Field of view: 50 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with delta ms, partially reversed w/ narcan, now w/ diarrhea 
+      and lower abdominal pain
+     REASON FOR THIS EXAMINATION:
+      abd w/ iv contrast only.  too drowsy to do po contrast.  please assess for 
+      intraabdominal infxn.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Left lower abdominal pain. Diabetes and end-stage renal disease.
+     
+     TECHNIQUE: Contrast enhanced CT of the abdomen and pelvis without oral prep.
+     
+     CT ABDOMEN WITH IV CONTRAST: There is dependent atelectasis at the lung bases.
+      There is no effusion.  The gallbladder is distended but otherwise normal in
+     appearance. The liver, pancreas, and adrenal glands are unremarkable.  There
+     is differential decreased perfusion to the anterior portion of the spleen.
+     Posterior to this there is a 1.5 cm rounded area of hypodensity which may
+     represent a cyst or hemangioma or lymphangioma.  The kidneys are atrophic
+     bilaterally and each contains a small rounded hypodensity which is too small
+     to accurately characterize.  The aorta is of normal caliber throughout its
+     course.  There is no adenopathy.  The unopacified bowel is within normal
+     limits for technique.  There are no inflammatory changes in the mesentery fat.
+      There is no free fluid or free air.
+     
+     CT PELVIS WITH IV CONTRAST: There is a small focus of stranding in the left
+     lower quadrant subcutaneous fat.  There is no intraabdominal abnormalities.
+     The bones reveal no suspicious findings.
+     
+     IMPRESSION: Differential decreased perfusion in the anterior portion of the
+     spleen.  Rounded hypodense lesion in the spleen as above may represent
+     hemangioma, lymphangioma, or cyst.  No other acute intraabdominal
+     abnormalities.
+
+",,
+8006,,,,2973-07-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-26**] 8:10 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3717**]
+     CT 150CC NONIONIC CONTRAST; CT RECONSTRUCTION
+     Reason: abd w/ iv contrast only.  too drowsy to do po contrast.  ple
+     Field of view: 50 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with delta ms, partially reversed w/ narcan, now w/ diarrhea 
+      and lower abdominal pain
+     REASON FOR THIS EXAMINATION:
+      abd w/ iv contrast only.  too drowsy to do po contrast.  please assess for 
+      intraabdominal infxn.
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Left lower abdominal pain. Diabetes and end-stage renal disease.
+     
+     TECHNIQUE: Contrast enhanced CT of the abdomen and pelvis without oral prep.
+     
+     CT ABDOMEN WITH IV CONTRAST: There is dependent atelectasis at the lung bases.
+      There is no effusion.  The gallbladder is distended but otherwise normal in
+     appearance. The liver, pancreas, and adrenal glands are unremarkable.  There
+     is differential decreased perfusion to the anterior portion of the spleen.
+     Posterior to this there is a 1.5 cm rounded area of hypodensity which may
+     represent a cyst or hemangioma or lymphangioma.  The kidneys are atrophic
+     bilaterally and each contains a small rounded hypodensity which is too small
+     to accurately characterize.  The aorta is of normal caliber throughout its
+     course.  There is no adenopathy.  The unopacified bowel is within normal
+     limits for technique.  There are no inflammatory changes in the mesentery fat.
+      There is no free fluid or free air.
+     
+     CT PELVIS WITH IV CONTRAST: There is a small focus of stranding in the left
+     lower quadrant subcutaneous fat.  There is no intraabdominal abnormalities.
+     The bones reveal no suspicious findings.
+     
+     IMPRESSION: Differential decreased perfusion in the anterior portion of the
+     spleen.  Rounded hypodense lesion in the spleen as above may represent
+     hemangioma, lymphangioma, or cyst.  No other acute intraabdominal
+     abnormalities.
+
+",,
+8006,,,,2973-07-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-26**] 8:09 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 3716**]
+     Reason: r/o bleed                                                   
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with delta ms, partially reversed w/ narcan                   
+     REASON FOR THIS EXAMINATION:
+      r/o bleed                                                                       
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JMBu MON [**2973-7-26**] 9:04 PM
+      no bleed
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Change in mental status partially reversed with Narcan.
+     
+     COMPARISON: None.
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  The patient is positioned obliquely in the scanner.  There is a
+     fluid density ovoid small lesion in the right cerebellar hemisphere probably
+     representing prior infarct at that location.  There is prominence of the
+     ventricles, in particular the third ventricle where there is a somewhat
+     rounded configuration in the anterior recesses.  There is periventricular
+     hypodensity in the white matter consistent with chronic microvascular
+     infarction.  There is no major vascular territorial infarct.  There is no
+     parenchymal or extra-axial hemorrhage.  There is no shift of normally midline
+     structures or mass effect.  The [**Doctor Last Name 30**]-white distinction is otherwise preserved
+     and the ventricles, cisterns and sulci are as above.
+     
+     There is increased density throughout the globe on the left with some probable
+     areas of calcification, although the globe itself is normal in size and
+     contour.  There is no lens identified.  This is of uncertain chronicity and
+     significance.  The bones and visualized paranasal sinuses are unremarkable.
+     
+     IMPRESSION:  No intracranial hemorrhage.  Chronic microvascular infarction.
+     Abnormal-appearing left globe may represent chronic changes.
+     
+
+",,
+8006,,,,2973-07-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-27**] 8:57 AM
+     [**Last Name (un) **] DUP EXTEXT BIL (MAP/DVT); ART EXT (REST ONLY)               Clip # [**Clip Number (Radiology) 3718**]
+     Reason: GANGRENE LEFT FOOT, VEIN MAPPING FOR HD CATHETER PLACEMENT
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with ESRD on HD, PVD s/p right AKA, also with dry gangrene.   
+     REASON FOR THIS EXAMINATION:
+      please examine LLE vasculature                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pre-op for AV fistula, also with lower extremity gangrene.
+     
+     FINDINGS:  Doppler evaluation of the upper extremities was performed.  The
+     right subclavian vein could not be identified, however, multiple superficial
+     collaterals were seen, all indicative of subclavian vein occlusion.  The right
+     IJ appears widely patent, as well as the left subclavian vein.  The left
+     internal jugular vein was not assessed due to technical reasons (line in this
+     location).
+     
+     Doppler evaluation shows monophasic waveforms diffusely on the left.  The ABI
+     measurement on the left is non-obtainable due to vessel noncompressibility.
+     Volume recordings demonstrate diffuse amplitude loss and waveform widening on
+     the left with only 3 mm amplitude at the left metatarsal level.
+     
+     IMPRESSION:
+     
+     1) Findings consistent with an occluded right subclavian vein; the right IJ,
+     and left subclavian veins are patent.
+     
+     2) Left-sided aorto-iliac disease.  There is likely significant tibial
+     disease, as well.
+
+",,
+8006,,,,2973-07-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-27**] 8:57 AM
+     [**Last Name (un) **] DUP EXTEXT BIL (MAP/DVT); ART EXT (REST ONLY)               Clip # [**Clip Number (Radiology) 3718**]
+     Reason: GANGRENE LEFT FOOT, VEIN MAPPING FOR HD CATHETER PLACEMENT
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with ESRD on HD, PVD s/p right AKA, also with dry gangrene.   
+     REASON FOR THIS EXAMINATION:
+      please examine LLE vasculature                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Pre-op for AV fistula, also with lower extremity gangrene.
+     
+     FINDINGS:  Doppler evaluation of the upper extremities was performed.  The
+     right subclavian vein could not be identified, however, multiple superficial
+     collaterals were seen, all indicative of subclavian vein occlusion.  The right
+     IJ appears widely patent, as well as the left subclavian vein.  The left
+     internal jugular vein was not assessed due to technical reasons (line in this
+     location).
+     
+     Doppler evaluation shows monophasic waveforms diffusely on the left.  The ABI
+     measurement on the left is non-obtainable due to vessel noncompressibility.
+     Volume recordings demonstrate diffuse amplitude loss and waveform widening on
+     the left with only 3 mm amplitude at the left metatarsal level.
+     
+     IMPRESSION:
+     
+     1) Findings consistent with an occluded right subclavian vein; the right IJ,
+     and left subclavian veins are patent.
+     
+     2) Left-sided aorto-iliac disease.  There is likely significant tibial
+     disease, as well.
+
+",,
+8006,,,,2973-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please 
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do 
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      Dialysis Catheter insertion                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  65 year-old female with end stage renal disease and recent
+     tunnedled catheter removal.  Place temporary left internal jugular vein
+     catheter.
+     
+     RADIOLOGIST:  The procedure was performed by Dr. [**First Name (STitle) 1455**] [**Name (STitle) 843**] and Dr. [**First Name4 (NamePattern1) 5**]
+     [**Last Name (NamePattern1) 6**], with Dr. [**Last Name (STitle) 6**], the attending physician present and supervising.
+     
+     PROCEDURE/TECHNIQUE:  Informed and signed consent was obtained.  The patient
+     was prepped and draped in a standard sterile fashion.  Local anesthesia to the
+     left neck was applied using 1% Lidocaine.  Under ultrasonographic guidance,
+     access to the left internal jugular vein was obtained with a 21 gauge needle.
+     A 0.018 guidewire was advanced into the left internal jugular vein.  A 4.5-
+     French sheath was then advanced over the guidewire into the left internal
+     jugular vein.  A 0.035 angled glidewire could not be advanced easily through
+     the SVC.  A hand injection venogram was then performed which demonstrated
+     tight stenosis at the junction of the left brachiocephalic vein adjacent to
+     the right brachiocephalic vein.  The entry site at the left internal jugular
+     vein was then dilated with two successive dilators.  A 14-French peelaway
+     sheath was then advanced to the left internal jugular vein.  A 1 cm x 2 cm
+     balloon was then advanced over a stiff Amplatz 0.035 guidewire. Balloon
+     angioplasty of this area of stenosis at the left brachiocephalic vein was then
+     performed.  The peel-away sheath was advanced to the area of stenosis.  The 20
+     cm [**Last Name (un) 3722**] hemodialysis catheter was then advanced over the stiff Amplatz wire
+     until the tip reached the mid-right atrium using flouroscopic guidance.  The
+     peelaway sheath was removed. The catheter was flushed and both ports
+     demonstrated good blood flow. A final chest x-ray showed the tip of the
+     catheter within the mid- right atrium. The line was fixed to the skin with a
+     statlock.
+     
+     COMPLICATIONS:  None.
+     
+     ANESTHESIA:  Local anesthesia with 1% Lidocaine.
+                                                                 (Over)
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CONTRAST:  Approximately 10 cc of Conray 60.
+     
+     FINDINGS:  Tight stenosis at the left brachiocephalic vein near the confluence
+     of right and left brachiocephalic veins.
+     
+     IMPRESSION:
+     
+     1)  Tight stenosis at the left brachiocephalic vein near the confluence with
+     the right brachiocephalic vein.  This area was successfully dilated with a 1
+     cm angioplasty balloon.
+     
+     2)  Successful placement of a 20 cm [**Last Name (un) 3722**] hemodialysis catheter in the left
+     neck.  This temporary dialysis catheter is ready for immediate use.
+     
+     
+
+",,
+8006,,,,2973-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please 
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do 
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      Dialysis Catheter insertion                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  65 year-old female with end stage renal disease and recent
+     tunnedled catheter removal.  Place temporary left internal jugular vein
+     catheter.
+     
+     RADIOLOGIST:  The procedure was performed by Dr. [**First Name (STitle) 1455**] [**Name (STitle) 843**] and Dr. [**First Name4 (NamePattern1) 5**]
+     [**Last Name (NamePattern1) 6**], with Dr. [**Last Name (STitle) 6**], the attending physician present and supervising.
+     
+     PROCEDURE/TECHNIQUE:  Informed and signed consent was obtained.  The patient
+     was prepped and draped in a standard sterile fashion.  Local anesthesia to the
+     left neck was applied using 1% Lidocaine.  Under ultrasonographic guidance,
+     access to the left internal jugular vein was obtained with a 21 gauge needle.
+     A 0.018 guidewire was advanced into the left internal jugular vein.  A 4.5-
+     French sheath was then advanced over the guidewire into the left internal
+     jugular vein.  A 0.035 angled glidewire could not be advanced easily through
+     the SVC.  A hand injection venogram was then performed which demonstrated
+     tight stenosis at the junction of the left brachiocephalic vein adjacent to
+     the right brachiocephalic vein.  The entry site at the left internal jugular
+     vein was then dilated with two successive dilators.  A 14-French peelaway
+     sheath was then advanced to the left internal jugular vein.  A 1 cm x 2 cm
+     balloon was then advanced over a stiff Amplatz 0.035 guidewire. Balloon
+     angioplasty of this area of stenosis at the left brachiocephalic vein was then
+     performed.  The peel-away sheath was advanced to the area of stenosis.  The 20
+     cm [**Last Name (un) 3722**] hemodialysis catheter was then advanced over the stiff Amplatz wire
+     until the tip reached the mid-right atrium using flouroscopic guidance.  The
+     peelaway sheath was removed. The catheter was flushed and both ports
+     demonstrated good blood flow. A final chest x-ray showed the tip of the
+     catheter within the mid- right atrium. The line was fixed to the skin with a
+     statlock.
+     
+     COMPLICATIONS:  None.
+     
+     ANESTHESIA:  Local anesthesia with 1% Lidocaine.
+                                                                 (Over)
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CONTRAST:  Approximately 10 cc of Conray 60.
+     
+     FINDINGS:  Tight stenosis at the left brachiocephalic vein near the confluence
+     of right and left brachiocephalic veins.
+     
+     IMPRESSION:
+     
+     1)  Tight stenosis at the left brachiocephalic vein near the confluence with
+     the right brachiocephalic vein.  This area was successfully dilated with a 1
+     cm angioplasty balloon.
+     
+     2)  Successful placement of a 20 cm [**Last Name (un) 3722**] hemodialysis catheter in the left
+     neck.  This temporary dialysis catheter is ready for immediate use.
+     
+     
+
+",,
+8006,,,,2973-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please 
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do 
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      Dialysis Catheter insertion                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  65 year-old female with end stage renal disease and recent
+     tunnedled catheter removal.  Place temporary left internal jugular vein
+     catheter.
+     
+     RADIOLOGIST:  The procedure was performed by Dr. [**First Name (STitle) 1455**] [**Name (STitle) 843**] and Dr. [**First Name4 (NamePattern1) 5**]
+     [**Last Name (NamePattern1) 6**], with Dr. [**Last Name (STitle) 6**], the attending physician present and supervising.
+     
+     PROCEDURE/TECHNIQUE:  Informed and signed consent was obtained.  The patient
+     was prepped and draped in a standard sterile fashion.  Local anesthesia to the
+     left neck was applied using 1% Lidocaine.  Under ultrasonographic guidance,
+     access to the left internal jugular vein was obtained with a 21 gauge needle.
+     A 0.018 guidewire was advanced into the left internal jugular vein.  A 4.5-
+     French sheath was then advanced over the guidewire into the left internal
+     jugular vein.  A 0.035 angled glidewire could not be advanced easily through
+     the SVC.  A hand injection venogram was then performed which demonstrated
+     tight stenosis at the junction of the left brachiocephalic vein adjacent to
+     the right brachiocephalic vein.  The entry site at the left internal jugular
+     vein was then dilated with two successive dilators.  A 14-French peelaway
+     sheath was then advanced to the left internal jugular vein.  A 1 cm x 2 cm
+     balloon was then advanced over a stiff Amplatz 0.035 guidewire. Balloon
+     angioplasty of this area of stenosis at the left brachiocephalic vein was then
+     performed.  The peel-away sheath was advanced to the area of stenosis.  The 20
+     cm [**Last Name (un) 3722**] hemodialysis catheter was then advanced over the stiff Amplatz wire
+     until the tip reached the mid-right atrium using flouroscopic guidance.  The
+     peelaway sheath was removed. The catheter was flushed and both ports
+     demonstrated good blood flow. A final chest x-ray showed the tip of the
+     catheter within the mid- right atrium. The line was fixed to the skin with a
+     statlock.
+     
+     COMPLICATIONS:  None.
+     
+     ANESTHESIA:  Local anesthesia with 1% Lidocaine.
+                                                                 (Over)
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CONTRAST:  Approximately 10 cc of Conray 60.
+     
+     FINDINGS:  Tight stenosis at the left brachiocephalic vein near the confluence
+     of right and left brachiocephalic veins.
+     
+     IMPRESSION:
+     
+     1)  Tight stenosis at the left brachiocephalic vein near the confluence with
+     the right brachiocephalic vein.  This area was successfully dilated with a 1
+     cm angioplasty balloon.
+     
+     2)  Successful placement of a 20 cm [**Last Name (un) 3722**] hemodialysis catheter in the left
+     neck.  This temporary dialysis catheter is ready for immediate use.
+     
+     
+
+",,
+8006,,,,2973-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please 
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do 
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      Dialysis Catheter insertion                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  65 year-old female with end stage renal disease and recent
+     tunnedled catheter removal.  Place temporary left internal jugular vein
+     catheter.
+     
+     RADIOLOGIST:  The procedure was performed by Dr. [**First Name (STitle) 1455**] [**Name (STitle) 843**] and Dr. [**First Name4 (NamePattern1) 5**]
+     [**Last Name (NamePattern1) 6**], with Dr. [**Last Name (STitle) 6**], the attending physician present and supervising.
+     
+     PROCEDURE/TECHNIQUE:  Informed and signed consent was obtained.  The patient
+     was prepped and draped in a standard sterile fashion.  Local anesthesia to the
+     left neck was applied using 1% Lidocaine.  Under ultrasonographic guidance,
+     access to the left internal jugular vein was obtained with a 21 gauge needle.
+     A 0.018 guidewire was advanced into the left internal jugular vein.  A 4.5-
+     French sheath was then advanced over the guidewire into the left internal
+     jugular vein.  A 0.035 angled glidewire could not be advanced easily through
+     the SVC.  A hand injection venogram was then performed which demonstrated
+     tight stenosis at the junction of the left brachiocephalic vein adjacent to
+     the right brachiocephalic vein.  The entry site at the left internal jugular
+     vein was then dilated with two successive dilators.  A 14-French peelaway
+     sheath was then advanced to the left internal jugular vein.  A 1 cm x 2 cm
+     balloon was then advanced over a stiff Amplatz 0.035 guidewire. Balloon
+     angioplasty of this area of stenosis at the left brachiocephalic vein was then
+     performed.  The peel-away sheath was advanced to the area of stenosis.  The 20
+     cm [**Last Name (un) 3722**] hemodialysis catheter was then advanced over the stiff Amplatz wire
+     until the tip reached the mid-right atrium using flouroscopic guidance.  The
+     peelaway sheath was removed. The catheter was flushed and both ports
+     demonstrated good blood flow. A final chest x-ray showed the tip of the
+     catheter within the mid- right atrium. The line was fixed to the skin with a
+     statlock.
+     
+     COMPLICATIONS:  None.
+     
+     ANESTHESIA:  Local anesthesia with 1% Lidocaine.
+                                                                 (Over)
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CONTRAST:  Approximately 10 cc of Conray 60.
+     
+     FINDINGS:  Tight stenosis at the left brachiocephalic vein near the confluence
+     of right and left brachiocephalic veins.
+     
+     IMPRESSION:
+     
+     1)  Tight stenosis at the left brachiocephalic vein near the confluence with
+     the right brachiocephalic vein.  This area was successfully dilated with a 1
+     cm angioplasty balloon.
+     
+     2)  Successful placement of a 20 cm [**Last Name (un) 3722**] hemodialysis catheter in the left
+     neck.  This temporary dialysis catheter is ready for immediate use.
+     
+     
+
+",,
+8006,,,,2973-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please 
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do 
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      Dialysis Catheter insertion                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  65 year-old female with end stage renal disease and recent
+     tunnedled catheter removal.  Place temporary left internal jugular vein
+     catheter.
+     
+     RADIOLOGIST:  The procedure was performed by Dr. [**First Name (STitle) 1455**] [**Name (STitle) 843**] and Dr. [**First Name4 (NamePattern1) 5**]
+     [**Last Name (NamePattern1) 6**], with Dr. [**Last Name (STitle) 6**], the attending physician present and supervising.
+     
+     PROCEDURE/TECHNIQUE:  Informed and signed consent was obtained.  The patient
+     was prepped and draped in a standard sterile fashion.  Local anesthesia to the
+     left neck was applied using 1% Lidocaine.  Under ultrasonographic guidance,
+     access to the left internal jugular vein was obtained with a 21 gauge needle.
+     A 0.018 guidewire was advanced into the left internal jugular vein.  A 4.5-
+     French sheath was then advanced over the guidewire into the left internal
+     jugular vein.  A 0.035 angled glidewire could not be advanced easily through
+     the SVC.  A hand injection venogram was then performed which demonstrated
+     tight stenosis at the junction of the left brachiocephalic vein adjacent to
+     the right brachiocephalic vein.  The entry site at the left internal jugular
+     vein was then dilated with two successive dilators.  A 14-French peelaway
+     sheath was then advanced to the left internal jugular vein.  A 1 cm x 2 cm
+     balloon was then advanced over a stiff Amplatz 0.035 guidewire. Balloon
+     angioplasty of this area of stenosis at the left brachiocephalic vein was then
+     performed.  The peel-away sheath was advanced to the area of stenosis.  The 20
+     cm [**Last Name (un) 3722**] hemodialysis catheter was then advanced over the stiff Amplatz wire
+     until the tip reached the mid-right atrium using flouroscopic guidance.  The
+     peelaway sheath was removed. The catheter was flushed and both ports
+     demonstrated good blood flow. A final chest x-ray showed the tip of the
+     catheter within the mid- right atrium. The line was fixed to the skin with a
+     statlock.
+     
+     COMPLICATIONS:  None.
+     
+     ANESTHESIA:  Local anesthesia with 1% Lidocaine.
+                                                                 (Over)
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CONTRAST:  Approximately 10 cc of Conray 60.
+     
+     FINDINGS:  Tight stenosis at the left brachiocephalic vein near the confluence
+     of right and left brachiocephalic veins.
+     
+     IMPRESSION:
+     
+     1)  Tight stenosis at the left brachiocephalic vein near the confluence with
+     the right brachiocephalic vein.  This area was successfully dilated with a 1
+     cm angioplasty balloon.
+     
+     2)  Successful placement of a 20 cm [**Last Name (un) 3722**] hemodialysis catheter in the left
+     neck.  This temporary dialysis catheter is ready for immediate use.
+     
+     
+
+",,
+8006,,,,2973-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please 
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do 
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      Dialysis Catheter insertion                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  65 year-old female with end stage renal disease and recent
+     tunnedled catheter removal.  Place temporary left internal jugular vein
+     catheter.
+     
+     RADIOLOGIST:  The procedure was performed by Dr. [**First Name (STitle) 1455**] [**Name (STitle) 843**] and Dr. [**First Name4 (NamePattern1) 5**]
+     [**Last Name (NamePattern1) 6**], with Dr. [**Last Name (STitle) 6**], the attending physician present and supervising.
+     
+     PROCEDURE/TECHNIQUE:  Informed and signed consent was obtained.  The patient
+     was prepped and draped in a standard sterile fashion.  Local anesthesia to the
+     left neck was applied using 1% Lidocaine.  Under ultrasonographic guidance,
+     access to the left internal jugular vein was obtained with a 21 gauge needle.
+     A 0.018 guidewire was advanced into the left internal jugular vein.  A 4.5-
+     French sheath was then advanced over the guidewire into the left internal
+     jugular vein.  A 0.035 angled glidewire could not be advanced easily through
+     the SVC.  A hand injection venogram was then performed which demonstrated
+     tight stenosis at the junction of the left brachiocephalic vein adjacent to
+     the right brachiocephalic vein.  The entry site at the left internal jugular
+     vein was then dilated with two successive dilators.  A 14-French peelaway
+     sheath was then advanced to the left internal jugular vein.  A 1 cm x 2 cm
+     balloon was then advanced over a stiff Amplatz 0.035 guidewire. Balloon
+     angioplasty of this area of stenosis at the left brachiocephalic vein was then
+     performed.  The peel-away sheath was advanced to the area of stenosis.  The 20
+     cm [**Last Name (un) 3722**] hemodialysis catheter was then advanced over the stiff Amplatz wire
+     until the tip reached the mid-right atrium using flouroscopic guidance.  The
+     peelaway sheath was removed. The catheter was flushed and both ports
+     demonstrated good blood flow. A final chest x-ray showed the tip of the
+     catheter within the mid- right atrium. The line was fixed to the skin with a
+     statlock.
+     
+     COMPLICATIONS:  None.
+     
+     ANESTHESIA:  Local anesthesia with 1% Lidocaine.
+                                                                 (Over)
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CONTRAST:  Approximately 10 cc of Conray 60.
+     
+     FINDINGS:  Tight stenosis at the left brachiocephalic vein near the confluence
+     of right and left brachiocephalic veins.
+     
+     IMPRESSION:
+     
+     1)  Tight stenosis at the left brachiocephalic vein near the confluence with
+     the right brachiocephalic vein.  This area was successfully dilated with a 1
+     cm angioplasty balloon.
+     
+     2)  Successful placement of a 20 cm [**Last Name (un) 3722**] hemodialysis catheter in the left
+     neck.  This temporary dialysis catheter is ready for immediate use.
+     
+     
+
+",,
+8006,,,,2973-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please 
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do 
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      Dialysis Catheter insertion                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  65 year-old female with end stage renal disease and recent
+     tunnedled catheter removal.  Place temporary left internal jugular vein
+     catheter.
+     
+     RADIOLOGIST:  The procedure was performed by Dr. [**First Name (STitle) 1455**] [**Name (STitle) 843**] and Dr. [**First Name4 (NamePattern1) 5**]
+     [**Last Name (NamePattern1) 6**], with Dr. [**Last Name (STitle) 6**], the attending physician present and supervising.
+     
+     PROCEDURE/TECHNIQUE:  Informed and signed consent was obtained.  The patient
+     was prepped and draped in a standard sterile fashion.  Local anesthesia to the
+     left neck was applied using 1% Lidocaine.  Under ultrasonographic guidance,
+     access to the left internal jugular vein was obtained with a 21 gauge needle.
+     A 0.018 guidewire was advanced into the left internal jugular vein.  A 4.5-
+     French sheath was then advanced over the guidewire into the left internal
+     jugular vein.  A 0.035 angled glidewire could not be advanced easily through
+     the SVC.  A hand injection venogram was then performed which demonstrated
+     tight stenosis at the junction of the left brachiocephalic vein adjacent to
+     the right brachiocephalic vein.  The entry site at the left internal jugular
+     vein was then dilated with two successive dilators.  A 14-French peelaway
+     sheath was then advanced to the left internal jugular vein.  A 1 cm x 2 cm
+     balloon was then advanced over a stiff Amplatz 0.035 guidewire. Balloon
+     angioplasty of this area of stenosis at the left brachiocephalic vein was then
+     performed.  The peel-away sheath was advanced to the area of stenosis.  The 20
+     cm [**Last Name (un) 3722**] hemodialysis catheter was then advanced over the stiff Amplatz wire
+     until the tip reached the mid-right atrium using flouroscopic guidance.  The
+     peelaway sheath was removed. The catheter was flushed and both ports
+     demonstrated good blood flow. A final chest x-ray showed the tip of the
+     catheter within the mid- right atrium. The line was fixed to the skin with a
+     statlock.
+     
+     COMPLICATIONS:  None.
+     
+     ANESTHESIA:  Local anesthesia with 1% Lidocaine.
+                                                                 (Over)
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CONTRAST:  Approximately 10 cc of Conray 60.
+     
+     FINDINGS:  Tight stenosis at the left brachiocephalic vein near the confluence
+     of right and left brachiocephalic veins.
+     
+     IMPRESSION:
+     
+     1)  Tight stenosis at the left brachiocephalic vein near the confluence with
+     the right brachiocephalic vein.  This area was successfully dilated with a 1
+     cm angioplasty balloon.
+     
+     2)  Successful placement of a 20 cm [**Last Name (un) 3722**] hemodialysis catheter in the left
+     neck.  This temporary dialysis catheter is ready for immediate use.
+     
+     
+
+",,
+8006,,,,2973-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please 
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do 
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      Dialysis Catheter insertion                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  65 year-old female with end stage renal disease and recent
+     tunnedled catheter removal.  Place temporary left internal jugular vein
+     catheter.
+     
+     RADIOLOGIST:  The procedure was performed by Dr. [**First Name (STitle) 1455**] [**Name (STitle) 843**] and Dr. [**First Name4 (NamePattern1) 5**]
+     [**Last Name (NamePattern1) 6**], with Dr. [**Last Name (STitle) 6**], the attending physician present and supervising.
+     
+     PROCEDURE/TECHNIQUE:  Informed and signed consent was obtained.  The patient
+     was prepped and draped in a standard sterile fashion.  Local anesthesia to the
+     left neck was applied using 1% Lidocaine.  Under ultrasonographic guidance,
+     access to the left internal jugular vein was obtained with a 21 gauge needle.
+     A 0.018 guidewire was advanced into the left internal jugular vein.  A 4.5-
+     French sheath was then advanced over the guidewire into the left internal
+     jugular vein.  A 0.035 angled glidewire could not be advanced easily through
+     the SVC.  A hand injection venogram was then performed which demonstrated
+     tight stenosis at the junction of the left brachiocephalic vein adjacent to
+     the right brachiocephalic vein.  The entry site at the left internal jugular
+     vein was then dilated with two successive dilators.  A 14-French peelaway
+     sheath was then advanced to the left internal jugular vein.  A 1 cm x 2 cm
+     balloon was then advanced over a stiff Amplatz 0.035 guidewire. Balloon
+     angioplasty of this area of stenosis at the left brachiocephalic vein was then
+     performed.  The peel-away sheath was advanced to the area of stenosis.  The 20
+     cm [**Last Name (un) 3722**] hemodialysis catheter was then advanced over the stiff Amplatz wire
+     until the tip reached the mid-right atrium using flouroscopic guidance.  The
+     peelaway sheath was removed. The catheter was flushed and both ports
+     demonstrated good blood flow. A final chest x-ray showed the tip of the
+     catheter within the mid- right atrium. The line was fixed to the skin with a
+     statlock.
+     
+     COMPLICATIONS:  None.
+     
+     ANESTHESIA:  Local anesthesia with 1% Lidocaine.
+                                                                 (Over)
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CONTRAST:  Approximately 10 cc of Conray 60.
+     
+     FINDINGS:  Tight stenosis at the left brachiocephalic vein near the confluence
+     of right and left brachiocephalic veins.
+     
+     IMPRESSION:
+     
+     1)  Tight stenosis at the left brachiocephalic vein near the confluence with
+     the right brachiocephalic vein.  This area was successfully dilated with a 1
+     cm angioplasty balloon.
+     
+     2)  Successful placement of a 20 cm [**Last Name (un) 3722**] hemodialysis catheter in the left
+     neck.  This temporary dialysis catheter is ready for immediate use.
+     
+     
+
+",,
+8006,,,,2973-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please 
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do 
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      Dialysis Catheter insertion                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  65 year-old female with end stage renal disease and recent
+     tunnedled catheter removal.  Place temporary left internal jugular vein
+     catheter.
+     
+     RADIOLOGIST:  The procedure was performed by Dr. [**First Name (STitle) 1455**] [**Name (STitle) 843**] and Dr. [**First Name4 (NamePattern1) 5**]
+     [**Last Name (NamePattern1) 6**], with Dr. [**Last Name (STitle) 6**], the attending physician present and supervising.
+     
+     PROCEDURE/TECHNIQUE:  Informed and signed consent was obtained.  The patient
+     was prepped and draped in a standard sterile fashion.  Local anesthesia to the
+     left neck was applied using 1% Lidocaine.  Under ultrasonographic guidance,
+     access to the left internal jugular vein was obtained with a 21 gauge needle.
+     A 0.018 guidewire was advanced into the left internal jugular vein.  A 4.5-
+     French sheath was then advanced over the guidewire into the left internal
+     jugular vein.  A 0.035 angled glidewire could not be advanced easily through
+     the SVC.  A hand injection venogram was then performed which demonstrated
+     tight stenosis at the junction of the left brachiocephalic vein adjacent to
+     the right brachiocephalic vein.  The entry site at the left internal jugular
+     vein was then dilated with two successive dilators.  A 14-French peelaway
+     sheath was then advanced to the left internal jugular vein.  A 1 cm x 2 cm
+     balloon was then advanced over a stiff Amplatz 0.035 guidewire. Balloon
+     angioplasty of this area of stenosis at the left brachiocephalic vein was then
+     performed.  The peel-away sheath was advanced to the area of stenosis.  The 20
+     cm [**Last Name (un) 3722**] hemodialysis catheter was then advanced over the stiff Amplatz wire
+     until the tip reached the mid-right atrium using flouroscopic guidance.  The
+     peelaway sheath was removed. The catheter was flushed and both ports
+     demonstrated good blood flow. A final chest x-ray showed the tip of the
+     catheter within the mid- right atrium. The line was fixed to the skin with a
+     statlock.
+     
+     COMPLICATIONS:  None.
+     
+     ANESTHESIA:  Local anesthesia with 1% Lidocaine.
+                                                                 (Over)
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CONTRAST:  Approximately 10 cc of Conray 60.
+     
+     FINDINGS:  Tight stenosis at the left brachiocephalic vein near the confluence
+     of right and left brachiocephalic veins.
+     
+     IMPRESSION:
+     
+     1)  Tight stenosis at the left brachiocephalic vein near the confluence with
+     the right brachiocephalic vein.  This area was successfully dilated with a 1
+     cm angioplasty balloon.
+     
+     2)  Successful placement of a 20 cm [**Last Name (un) 3722**] hemodialysis catheter in the left
+     neck.  This temporary dialysis catheter is ready for immediate use.
+     
+     
+
+",,
+8006,,,,2973-07-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ********************************* CPT Codes ********************************
+     * 35476 PTA VENOUS                     36556 NON-TUNNELED                  *
+     * -51 MULTI-PROCEDURE SAME DAY         75978 PTA VENOUS                    *
+     * 75998 FLUOR GUID PLCT/REPLCT/REMOVE  C1750 CATH,HEMO/PERTI DIALYSIS LONG *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1769 GUID WIRES INCL INF            C1769 GUID WIRES INCL INF           *
+     * C1892 INT/SHTH,EP,FXD CURVE/[**Doctor Last Name 902**] AWY                                     *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please 
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do 
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      Dialysis Catheter insertion                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  65 year-old female with end stage renal disease and recent
+     tunnedled catheter removal.  Place temporary left internal jugular vein
+     catheter.
+     
+     RADIOLOGIST:  The procedure was performed by Dr. [**First Name (STitle) 1455**] [**Name (STitle) 843**] and Dr. [**First Name4 (NamePattern1) 5**]
+     [**Last Name (NamePattern1) 6**], with Dr. [**Last Name (STitle) 6**], the attending physician present and supervising.
+     
+     PROCEDURE/TECHNIQUE:  Informed and signed consent was obtained.  The patient
+     was prepped and draped in a standard sterile fashion.  Local anesthesia to the
+     left neck was applied using 1% Lidocaine.  Under ultrasonographic guidance,
+     access to the left internal jugular vein was obtained with a 21 gauge needle.
+     A 0.018 guidewire was advanced into the left internal jugular vein.  A 4.5-
+     French sheath was then advanced over the guidewire into the left internal
+     jugular vein.  A 0.035 angled glidewire could not be advanced easily through
+     the SVC.  A hand injection venogram was then performed which demonstrated
+     tight stenosis at the junction of the left brachiocephalic vein adjacent to
+     the right brachiocephalic vein.  The entry site at the left internal jugular
+     vein was then dilated with two successive dilators.  A 14-French peelaway
+     sheath was then advanced to the left internal jugular vein.  A 1 cm x 2 cm
+     balloon was then advanced over a stiff Amplatz 0.035 guidewire. Balloon
+     angioplasty of this area of stenosis at the left brachiocephalic vein was then
+     performed.  The peel-away sheath was advanced to the area of stenosis.  The 20
+     cm [**Last Name (un) 3722**] hemodialysis catheter was then advanced over the stiff Amplatz wire
+     until the tip reached the mid-right atrium using flouroscopic guidance.  The
+     peelaway sheath was removed. The catheter was flushed and both ports
+     demonstrated good blood flow. A final chest x-ray showed the tip of the
+     catheter within the mid- right atrium. The line was fixed to the skin with a
+     statlock.
+     
+     COMPLICATIONS:  None.
+     
+     ANESTHESIA:  Local anesthesia with 1% Lidocaine.
+                                                                 (Over)
+
+     DATE: [**2973-7-29**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3719**]
+     Reason: Dialysis Catheter insertion                                 
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     CONTRAST:  Approximately 10 cc of Conray 60.
+     
+     FINDINGS:  Tight stenosis at the left brachiocephalic vein near the confluence
+     of right and left brachiocephalic veins.
+     
+     IMPRESSION:
+     
+     1)  Tight stenosis at the left brachiocephalic vein near the confluence with
+     the right brachiocephalic vein.  This area was successfully dilated with a 1
+     cm angioplasty balloon.
+     
+     2)  Successful placement of a 20 cm [**Last Name (un) 3722**] hemodialysis catheter in the left
+     neck.  This temporary dialysis catheter is ready for immediate use.
+     
+     
+
+",,
+8006,,,,2973-07-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-7-31**] 4:12 PM
+     FOOT AP,LAT & OBL LEFT                                          Clip # [**Clip Number (Radiology) 3723**]
+     Reason: please evaluate for air within foot                         
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with apparant left foot gangrene                              
+     REASON FOR THIS EXAMINATION:
+      please evaluate for air within foot                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Left foot gangrene.  Evaluate for air.
+     
+     Substantial lucency is seen associated with the tissues of the distal phalanx
+     of the first digit.  No definite erosive changes are appreciated.  Vascular
+     calcifications are noted and degenerative changes are seen at the TMT joints
+     diffusely.
+     
+     IMPRESSION:
+     
+     Lucency consistent with air seen associated with soft tissues adjacent to the
+     distal phalanx of the first digit.  No definite features of osteomyelitis.
+
+",,
+8006,,,,2973-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-8-3**] 7:43 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3724**]
+     Reason: pls assess for line placement for HD.                       
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+      Contrast: OPTIRAY Amt: 25
+     ********************************* CPT Codes ********************************
+     * 36581 CENTRAL TUNNELED W/O [**State/Zipcode 3725**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please  
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do  
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      pls assess for line placement for HD.                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 65 year old woman with end stage renal disease and recent tunnel
+     catheter removed on [**7-26**] due to infection. She has a temporary left
+     internal jugular catheter in place. Please tunnel this for more permanent
+     access.
+     
+     PROCEDURE: The procedure was performed by Drs. [**First Name8 (NamePattern2) 3726**] [**Last Name (NamePattern1) 3727**] and [**First Name4 (NamePattern1) 505**] [**Last Name (NamePattern1) 400**]
+     the attending radiologist present and supervising. Informed consent was
+     obtained from the patient. This was done verbally since she is blind and the
+     patient's nurse signed the consent form as the witness.
+     
+     The left upper chest was prepped and draped in standard sterile fashion. A
+     0.35 guidewire was placed through the existing 20 cm temporary dialysis line.
+     Using the wire, a length estimate was obtained and it was deemed that a 27 cm
+     tip to cuff tunneled dialysis line would be appropriate. Then a site on the
+     upper left chest was selected and the tunnel was made using a blunt 21 gauge
+     [**Last Name (un) 514**] needle after administration of 15 cc of 1% lidocaine for local
+     anesthesia. The new dialysis catheter was fed through the tunnel and the
+     existing temporary catheter was exchanged for a 14.5 french peel away sheath
+     using flouroscopic guidance. There was some resistance in placing the sheath
+     within the brachiocephalic vein, and two peel-away sheaths had to be used
+     because of crimping.  A 0.35 glidewire was used to guide the sheath into the
+     IVC. The inner dilator was removed and the dialysis catheter was fed through
+     the 14 french peel away sheath with its tip with the proximal right atrium wit
+     ha glide wire in place. The tunnel site at the chest was secured with a stat
+     lock and a small vicryl suture was placed at the site of the prior temporary
+     dialysis catheter to prevent slipping of the cuff. There was a small amount of
+     oozing from the site after the procedure and a pressure dressing was applied.
+     
+     FINDINGS: A final chest x-ray was obtained which demonstrates the tip of the
+     catheter in the proximal atrium. The line is ready for use.
+     
+     IMPRESSION: Tunneling of the previously existing left internal jugular
+     dialysis catheter. There is stenosis in the distal left brachiocephalic vein
+     which the catheter crosses.
+     
+                                                                 (Over)
+
+     DATE: [**2973-8-3**] 7:43 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3724**]
+     Reason: pls assess for line placement for HD.                       
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+      Contrast: OPTIRAY Amt: 25
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8006,,,,2973-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-8-3**] 10:05 AM
+     CT LOW EXT W/O C RIGHT; CT RECONSTRUCTION                       Clip # [**Clip Number (Radiology) 3728**]
+     Reason: r/o residual graft abcess.                                  
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     Field of view: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with hx severe PVD, ESRD, hx of fascular graft, multiple  
+      AV-graft failure presented with hx of MRSA from the infected graft at right  
+      groing which was removed at outside hospital. Patient still bacteremic and  
+      unsure if there is any more graft in her thigh.                                 
+     REASON FOR THIS EXAMINATION:
+      r/o residual graft abcess.                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Severe PVD, ESRD, with history of infected right graft which was
+     removed at an outside hospital.  The patient is bacteremic, evaluate for a
+     fluid collection in the right thigh.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lower pelvis
+     through the knees without intravenous contrast.  No IV contrast was
+     administered secondary to the patient's elevated creatinine.  Coronal and
+     sagittal reformations were performed.
+     
+     FINDINGS: There are extensive vascular calcifications.  There are no focal
+     fluid collections identified within the right thigh or elsewhere.  There is
+     inflammatory stranding within the anterior subcutaneous tissues of the right
+     thigh, which may relate to recent surgery in this region.  The patient is S/P
+     right below the knee amputation.
+     
+     The left rectus abdominis muscle is diminutive compared with the right.  Oral
+     contrast is identified within the sigmoid colon and rectum. There is
+     thickening of the left lateral wall of the rectum.  In retrospect, this is
+     probably present on the prior CT of the abdomen and pelvis from [**2973-7-26**]
+     but was not as well evaluated without oral contrast in this region.  There is
+     a prominent left femoral lymph node, which measures 15 mm in short axis.
+     
+     There are bilateral knee effusions, slightly larger on the left than the
+     right.  The visualized osseous structures are unremarkable.
+     
+     IMPRESSION:  1)  No evidence for a focal fluid collection within the right
+     thigh, though this evaluation is somewhat limited without intravenous
+     contrast.
+     2)  Thickening of the wall of the rectum on the left.  A neoplastic process
+     cannot be excluded.  Correlation with endoscopy is recommended.
+     3)  Prominent left femoral lymph node.
+     
+                                                                 (Over)
+
+     DATE: [**2973-8-3**] 10:05 AM
+     CT LOW EXT W/O C RIGHT; CT RECONSTRUCTION                       Clip # [**Clip Number (Radiology) 3728**]
+     Reason: r/o residual graft abcess.                                  
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     Field of view: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8006,,,,2973-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-8-3**] 10:05 AM
+     CT LOW EXT W/O C RIGHT; CT RECONSTRUCTION                       Clip # [**Clip Number (Radiology) 3728**]
+     Reason: r/o residual graft abcess.                                  
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     Field of view: 50
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with hx severe PVD, ESRD, hx of fascular graft, multiple  
+      AV-graft failure presented with hx of MRSA from the infected graft at right  
+      groing which was removed at outside hospital. Patient still bacteremic and  
+      unsure if there is any more graft in her thigh.                                 
+     REASON FOR THIS EXAMINATION:
+      r/o residual graft abcess.                                                      
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Severe PVD, ESRD, with history of infected right graft which was
+     removed at an outside hospital.  The patient is bacteremic, evaluate for a
+     fluid collection in the right thigh.
+     
+     TECHNIQUE:  Contiguous axial images were obtained from the lower pelvis
+     through the knees without intravenous contrast.  No IV contrast was
+     administered secondary to the patient's elevated creatinine.  Coronal and
+     sagittal reformations were performed.
+     
+     FINDINGS: There are extensive vascular calcifications.  There are no focal
+     fluid collections identified within the right thigh or elsewhere.  There is
+     inflammatory stranding within the anterior subcutaneous tissues of the right
+     thigh, which may relate to recent surgery in this region.  The patient is S/P
+     right below the knee amputation.
+     
+     The left rectus abdominis muscle is diminutive compared with the right.  Oral
+     contrast is identified within the sigmoid colon and rectum. There is
+     thickening of the left lateral wall of the rectum.  In retrospect, this is
+     probably present on the prior CT of the abdomen and pelvis from [**2973-7-26**]
+     but was not as well evaluated without oral contrast in this region.  There is
+     a prominent left femoral lymph node, which measures 15 mm in short axis.
+     
+     There are bilateral knee effusions, slightly larger on the left than the
+     right.  The visualized osseous structures are unremarkable.
+     
+     IMPRESSION:  1)  No evidence for a focal fluid collection within the right
+     thigh, though this evaluation is somewhat limited without intravenous
+     contrast.
+     2)  Thickening of the wall of the rectum on the left.  A neoplastic process
+     cannot be excluded.  Correlation with endoscopy is recommended.
+     3)  Prominent left femoral lymph node.
+     
+                                                                 (Over)
+
+     DATE: [**2973-8-3**] 10:05 AM
+     CT LOW EXT W/O C RIGHT; CT RECONSTRUCTION                       Clip # [**Clip Number (Radiology) 3728**]
+     Reason: r/o residual graft abcess.                                  
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     Field of view: 50
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8006,,,,2973-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-8-3**] 7:43 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3724**]
+     Reason: pls assess for line placement for HD.                       
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+      Contrast: OPTIRAY Amt: 25
+     ********************************* CPT Codes ********************************
+     * 36581 CENTRAL TUNNELED W/O [**State/Zipcode 3725**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please  
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do  
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      pls assess for line placement for HD.                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 65 year old woman with end stage renal disease and recent tunnel
+     catheter removed on [**7-26**] due to infection. She has a temporary left
+     internal jugular catheter in place. Please tunnel this for more permanent
+     access.
+     
+     PROCEDURE: The procedure was performed by Drs. [**First Name8 (NamePattern2) 3726**] [**Last Name (NamePattern1) 3727**] and [**First Name4 (NamePattern1) 505**] [**Last Name (NamePattern1) 400**]
+     the attending radiologist present and supervising. Informed consent was
+     obtained from the patient. This was done verbally since she is blind and the
+     patient's nurse signed the consent form as the witness.
+     
+     The left upper chest was prepped and draped in standard sterile fashion. A
+     0.35 guidewire was placed through the existing 20 cm temporary dialysis line.
+     Using the wire, a length estimate was obtained and it was deemed that a 27 cm
+     tip to cuff tunneled dialysis line would be appropriate. Then a site on the
+     upper left chest was selected and the tunnel was made using a blunt 21 gauge
+     [**Last Name (un) 514**] needle after administration of 15 cc of 1% lidocaine for local
+     anesthesia. The new dialysis catheter was fed through the tunnel and the
+     existing temporary catheter was exchanged for a 14.5 french peel away sheath
+     using flouroscopic guidance. There was some resistance in placing the sheath
+     within the brachiocephalic vein, and two peel-away sheaths had to be used
+     because of crimping.  A 0.35 glidewire was used to guide the sheath into the
+     IVC. The inner dilator was removed and the dialysis catheter was fed through
+     the 14 french peel away sheath with its tip with the proximal right atrium wit
+     ha glide wire in place. The tunnel site at the chest was secured with a stat
+     lock and a small vicryl suture was placed at the site of the prior temporary
+     dialysis catheter to prevent slipping of the cuff. There was a small amount of
+     oozing from the site after the procedure and a pressure dressing was applied.
+     
+     FINDINGS: A final chest x-ray was obtained which demonstrates the tip of the
+     catheter in the proximal atrium. The line is ready for use.
+     
+     IMPRESSION: Tunneling of the previously existing left internal jugular
+     dialysis catheter. There is stenosis in the distal left brachiocephalic vein
+     which the catheter crosses.
+     
+                                                                 (Over)
+
+     DATE: [**2973-8-3**] 7:43 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3724**]
+     Reason: pls assess for line placement for HD.                       
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+      Contrast: OPTIRAY Amt: 25
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8006,,,,2973-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-8-3**] 7:43 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3724**]
+     Reason: pls assess for line placement for HD.                       
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+      Contrast: OPTIRAY Amt: 25
+     ********************************* CPT Codes ********************************
+     * 36581 CENTRAL TUNNELED W/O [**State/Zipcode 3725**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please  
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do  
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      pls assess for line placement for HD.                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 65 year old woman with end stage renal disease and recent tunnel
+     catheter removed on [**7-26**] due to infection. She has a temporary left
+     internal jugular catheter in place. Please tunnel this for more permanent
+     access.
+     
+     PROCEDURE: The procedure was performed by Drs. [**First Name8 (NamePattern2) 3726**] [**Last Name (NamePattern1) 3727**] and [**First Name4 (NamePattern1) 505**] [**Last Name (NamePattern1) 400**]
+     the attending radiologist present and supervising. Informed consent was
+     obtained from the patient. This was done verbally since she is blind and the
+     patient's nurse signed the consent form as the witness.
+     
+     The left upper chest was prepped and draped in standard sterile fashion. A
+     0.35 guidewire was placed through the existing 20 cm temporary dialysis line.
+     Using the wire, a length estimate was obtained and it was deemed that a 27 cm
+     tip to cuff tunneled dialysis line would be appropriate. Then a site on the
+     upper left chest was selected and the tunnel was made using a blunt 21 gauge
+     [**Last Name (un) 514**] needle after administration of 15 cc of 1% lidocaine for local
+     anesthesia. The new dialysis catheter was fed through the tunnel and the
+     existing temporary catheter was exchanged for a 14.5 french peel away sheath
+     using flouroscopic guidance. There was some resistance in placing the sheath
+     within the brachiocephalic vein, and two peel-away sheaths had to be used
+     because of crimping.  A 0.35 glidewire was used to guide the sheath into the
+     IVC. The inner dilator was removed and the dialysis catheter was fed through
+     the 14 french peel away sheath with its tip with the proximal right atrium wit
+     ha glide wire in place. The tunnel site at the chest was secured with a stat
+     lock and a small vicryl suture was placed at the site of the prior temporary
+     dialysis catheter to prevent slipping of the cuff. There was a small amount of
+     oozing from the site after the procedure and a pressure dressing was applied.
+     
+     FINDINGS: A final chest x-ray was obtained which demonstrates the tip of the
+     catheter in the proximal atrium. The line is ready for use.
+     
+     IMPRESSION: Tunneling of the previously existing left internal jugular
+     dialysis catheter. There is stenosis in the distal left brachiocephalic vein
+     which the catheter crosses.
+     
+                                                                 (Over)
+
+     DATE: [**2973-8-3**] 7:43 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3724**]
+     Reason: pls assess for line placement for HD.                       
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+      Contrast: OPTIRAY Amt: 25
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8006,,,,2973-08-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-8-3**] 7:43 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3724**]
+     Reason: pls assess for line placement for HD.                       
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+      Contrast: OPTIRAY Amt: 25
+     ********************************* CPT Codes ********************************
+     * 36581 CENTRAL TUNNELED W/O [**State/Zipcode 3725**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG  C1894 INT.SHTH NOT/GUID,EP,NONLASER *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with ESRD, recent tunneled catheter removed on [**7-26**]. Please  
+      insert tunneled catheter. INR is 5.1 will correct today - should be able to do  
+      tomorrow.Page Dr [**Last Name (STitle) 3720**] (Renal - [**Pager number 3721**]) if any questions
+     REASON FOR THIS EXAMINATION:
+      pls assess for line placement for HD.                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: 65 year old woman with end stage renal disease and recent tunnel
+     catheter removed on [**7-26**] due to infection. She has a temporary left
+     internal jugular catheter in place. Please tunnel this for more permanent
+     access.
+     
+     PROCEDURE: The procedure was performed by Drs. [**First Name8 (NamePattern2) 3726**] [**Last Name (NamePattern1) 3727**] and [**First Name4 (NamePattern1) 505**] [**Last Name (NamePattern1) 400**]
+     the attending radiologist present and supervising. Informed consent was
+     obtained from the patient. This was done verbally since she is blind and the
+     patient's nurse signed the consent form as the witness.
+     
+     The left upper chest was prepped and draped in standard sterile fashion. A
+     0.35 guidewire was placed through the existing 20 cm temporary dialysis line.
+     Using the wire, a length estimate was obtained and it was deemed that a 27 cm
+     tip to cuff tunneled dialysis line would be appropriate. Then a site on the
+     upper left chest was selected and the tunnel was made using a blunt 21 gauge
+     [**Last Name (un) 514**] needle after administration of 15 cc of 1% lidocaine for local
+     anesthesia. The new dialysis catheter was fed through the tunnel and the
+     existing temporary catheter was exchanged for a 14.5 french peel away sheath
+     using flouroscopic guidance. There was some resistance in placing the sheath
+     within the brachiocephalic vein, and two peel-away sheaths had to be used
+     because of crimping.  A 0.35 glidewire was used to guide the sheath into the
+     IVC. The inner dilator was removed and the dialysis catheter was fed through
+     the 14 french peel away sheath with its tip with the proximal right atrium wit
+     ha glide wire in place. The tunnel site at the chest was secured with a stat
+     lock and a small vicryl suture was placed at the site of the prior temporary
+     dialysis catheter to prevent slipping of the cuff. There was a small amount of
+     oozing from the site after the procedure and a pressure dressing was applied.
+     
+     FINDINGS: A final chest x-ray was obtained which demonstrates the tip of the
+     catheter in the proximal atrium. The line is ready for use.
+     
+     IMPRESSION: Tunneling of the previously existing left internal jugular
+     dialysis catheter. There is stenosis in the distal left brachiocephalic vein
+     which the catheter crosses.
+     
+                                                                 (Over)
+
+     DATE: [**2973-8-3**] 7:43 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 3724**]
+     Reason: pls assess for line placement for HD.                       
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+      Contrast: OPTIRAY Amt: 25
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8006,,,,2973-08-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-8-5**] 3:32 PM
+     LIVER OR GALLBLADDER US (SINGLE ORGAN)                          Clip # [**Clip Number (Radiology) 3729**]
+     Reason: RUQ PAIN
+     Admitting Diagnosis: MENTAL STATUS CHANGES;HYPOTENTION;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with                                                          
+     REASON FOR THIS EXAMINATION:
+      r/o cholecystitis                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Abdominal pain.  Diabetes.
+     
+     RIGHT UPPER QUADRANT ULTRASOUND:  There are several shadowing gallstones in
+     the gallbladder neck.  Patient could not be repositioned to assess for
+     mobility of stones.  The gallbladder is otherwise unremarkable without wall
+     edema or pericholecystic fluid.  No focal liver lesions are identified.  There
+     is no biliary ductal dilatation.  The spleen is suboptimally imaged due to
+     patient positioning.
+     
+     IMPRESSION:  Cholelithiasis without cholecystitis.
+     
+
+",,
+8006,912,,,2973-08-16 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2973-8-16**]              Discharge Date:   [**2973-9-2**]
+ 
+Date of Birth:  [**2908-1-3**]             Sex:   F
+ 
+Service: VSURG
+ 
+Allergies: 
+Penicillins / Cephalosporins / Tape
+ 
+Attending:[**First Name3 (LF) 3432**] 
+Chief Complaint:
+transferred from OSH for sepsis.
+ 
+Major Surgical or Invasive Procedure:
+Left Above Knee Amputation
+
+ 
+Past Medical History:
+DM2 with retinopathy (L eye blindness, R eye cataract)
+S/P left eye victrectomy in [**December 2972**]
+Neuropathy 
+ESRD on HD
+PVD s/p R AKA 2002 
+paroxysmal A flutter on coumadin
+Dry gangrene of L foot
+HTN
+Depression on zoloft
+s/p cholecystectomy
+s/p appendectomy 
+atrial flutter 
+R groin graft infection s/p debridement, MRSA+ 
+ 
+Social History:
+come from nursing home
+ 
+Family History:
+Unknown
+ 
+Brief Hospital Course:
+Pt had paroxysmal episodes of AFib.  Given lopressor, IV 
+amiodarone, cardiology consult obtained.  serial cardiac enzymes 
+obtained, minor troponin leak.  d/c'd amiodarone, recurred AFib 
+and NSVT of 4 beats duration.  cardiology recommendation 
+followed to begin PO amiodarone.  Pt cleared from cardiac 
+standpoint, telemetry d/c'd, and [**Doctor Last Name 1282**] of Hearts monitor 
+obtained.
+ 
+Discharge Medications:
+1. Sertraline HCl 100 mg Tablet Sig: One (1) Tablet PO HS (at 
+bedtime).  
+2. Gabapentin 100 mg Capsule Sig: One (1) Capsule PO HS (at 
+bedtime).  
+3. Pantoprazole Sodium 40 mg Tablet, Delayed Release (E.C.) Sig: 
+One (1) Tablet, Delayed Release (E.C.) PO Q24H (every 24 hours). 
+ 
+4. Bimatoprost 0.03 % Drops Sig: One (1) gtt Ophthalmic  qhs (). 
+ 
+5. Bisacodyl 5 mg Tablet, Delayed Release (E.C.) Sig: Two (2) 
+Tablet, Delayed Release (E.C.) PO QD (once a day) as needed.  
+6. Atropine Sulfate 1 % Drops Sig: One (1) Drop Ophthalmic  BID 
+(2 times a day).  
+7. Prednisolone Acetate 1 % Drops, Suspension Sig: One (1) Drop 
+Ophthalmic  QID (4 times a day).  
+8. Dorzolamide-Timolol 2-0.5 % Drops Sig: One (1) Drop 
+Ophthalmic  BID (2 times a day).  
+9. Erythromycin 5 mg/g Ointment Sig: One (1) application 
+Ophthalmic  QID (4 times a day).  
+10. Acetaminophen 500 mg Tablet Sig: 1-2 Tablets PO Q6H (every 6 
+hours) as needed.  
+11. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO QD (once a day).  
+12. Oxycodone-Acetaminophen 5-325 mg Tablet Sig: 1-2 Tablets PO 
+Q4-6H (every 4 to 6 hours) as needed.  
+13. Metoprolol Tartrate 25 mg Tablet Sig: One (1) Tablet PO TID 
+(3 times a day).  
+14. Atorvastatin Calcium 40 mg Tablet Sig: One (1) Tablet PO QD 
+(once a day).  
+15. Insulin NPH Human Recomb 100 unit/mL Suspension Sig: as 
+directed  Subcutaneous twice a day: Qam dose : NPH 4units
+QHS            dose: NPH 2units.  
+16. Insulin Regular Human 100 unit/mL Solution Sig: as directed  
+Injection four times a day: AC/HS;
+glucoses < 150/ no insulin
+glucoses 151-200/2u
+glucoses 201-250/4u
+glucoses 251-300/6u
+glucoses 301-350/8u
+glucoses 351-400/10u
+glucoses > 400 [**Name8 (MD) **] MD.  
+17. Amiodarone HCl 200 mg Tablet Sig: Two (2) Tablet PO BID (2 
+times a day) for 3 weeks: then 200mg po qd.  
+18. Vancomycin HCl 10 g Recon Soln Sig: One (1) Recon Soln 
+Intravenous  QHD (each hemodialysis) for 1 weeks.  
+19. Miconazole Nitrate 2 % Powder Sig: One (1) Appl Topical  PRN 
+(as needed).  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 584**] & Rehab Center - [**Hospital1 486**]
+ 
+Discharge Diagnosis:
+left foot gangrene
+urosepsis
+a-fibrillation
+ESRD/HD
+diabetes type 2 with triopathy
+MRSA
+depression
+glaucoma
+
+ 
+Discharge Condition:
+stable.
+ 
+Discharge Instructions:
+L aka site - open to air
+PT as tolerated
+Please call back if develop wound erythema, discharge
+ 
+Followup Instructions:
+1 month with Dr. [**Last Name (STitle) **], to remove staples then. call for 
+appointment. [**Telephone/Fax (1) 4880**].
+Cardiology Dr. [**Last Name (STitle) **]. [**Telephone/Fax (1) 2891**]. Dr. [**Last Name (STitle) **] will call 
+pt for appt in 1-2 weeks.
+Hemodialysis.
+PT/INR checks, dose coumadin accordingly for target INR 2.0-3.0.
+
+ 
+                             [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 3434**] MD [**MD Number 3259**]
+ 
+Completed by: [**First Name11 (Name Pattern1) 6331**] [**Last Name (NamePattern4) 6332**] MD [**MD Number 6333**] [**2973-9-2**] @ 1704
+Signed electronically by: DR. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]
+ on: TUE [**2973-9-21**] 4:27 PM
+(End of Report)
+
+
+",,
+8006,912,,,2973-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-8-16**] 11:08 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3730**]
+     Reason: r/o chf/pneumonia                                           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        65 year old woman with increasing lethargy,fever ms                           
+                      
+     REASON FOR THIS EXAMINATION:
+      r/o chf/pneumonia                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICAITON:  Increasing lethargy and fever.
+     
+     COMPARISON:  [**2973-7-26**].
+     
+     CHEST, AP PORTABLE RADIOGRAPH: Allowing for low lung volumes, the cardiac,
+     mediastinal, and hilar contours are unchanged. There is vascular crowding due
+     to low lung volumes but no definite infiltrates or effusions. The vascular
+     stents in the right subclavian region extending to the SVC are again noted.
+     There is left internal jugular ventral venous catheter with tip in the distal
+     SVC. Osseous structures are unremarkable.
+     
+     IMPRESSION: Allowing for low lung volumes, there is no evidence of pneumonia.
+
+",,
+8006,912,,,2973-08-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-8-16**] 4:01 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 3731**]
+     Reason: Evaluate for bleed                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with new mental status changes.                               
+     REASON FOR THIS EXAMINATION:
+      Evaluate for bleed                                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: AEBc MON [**2973-8-16**] 4:36 PM
+      No intracranial hemorrhage, fracture, or evidence of territorial infarct.
+      Chronic changes in left globe are seen.  Note hyperdensity suggesting of
+      retinal detachment with hemorrhage in the right [**Hospital Unit Name 115**], less likely metastasis.
+      Suggest [**Hospital Unit Name 115**] examination.
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  65-year-old woman with metal status changes. Assessment for
+     intracranial hemorrhage requested.
+     
+     COMPARISONS: Non-contrast head CT of [**2973-7-26**].
+     
+     TECHNIQUE:  Non-contrast head CT.
+     
+     FINDINGS:  There is intra or extra-axial hemorrhage.  Other than evidence of
+     age related involutional changes, the ventricles, cisterns and sulci are
+     unremarkable.  There is no evidence of hydrocephalus, mass effect, or shift of
+     the normally mid-line structures.  The density of the brain parenchyma is
+     within normal limits.  There is no evidence of territorial infarction.
+     
+     The left globe is small and irregular in shape.  Again, no lens is identified.
+     This appearance is consistent with past trauma. There is also an area of
+     increased density in the posterolateral right globe consistent with possible
+     retinal detachment and hemorrhage.  Much less likely, this appearance could
+     suggest melanoma in the appropriate clinical setting.
+     
+     The osseous structures, soft tissues, and paranasal sinuses are unremarkable.
+     
+     IMPRESSION:  1)  No evidence of intracranial hemorrhage or territorial
+     infarction.
+     2)  Chronic changes in the left globe which may suggest past trauma.
+     3)  Area of increased density in the right lateral retina which suggests
+     retinal detachment with hemorrhage.  For follow up, an [**Hospital Unit Name 115**] examination is
+     recommended.
+     
+
+",,
+8006,912,9970,0,2973-08-16 18:51:00 EST,2973-08-16 19:05:00 EST,2940,"N",69,"Nursing/Other",,"
+
+Nsg Adm Note
+
+Ms. [**Known patient lastname 5286**] is a 65yo female admitted to MICU-A from the ED with cc: change in mental status.  Please see adm assessment for complete PMH/PSH.  Briefly, she is a diabetic with severe PVD who has had a R AKA, ESRD-->HD, +MRSA, +C-diff, PAF.  She is a nsg home resident.  Over the w/e she developed increasing lethargy.  This AM she was scheduled for dialysis.  She rec'd an enema at the nsg home then was sent to [**Hospital1 22**] for further evual due to lethargy; did not receive dialysis this AM.  In ED pt found with temp 101.4, urine dark brown and sludge like.  Rec'd Flagyl, Vanco and Levoquin in ED.  R fem TLC placed due to poor access.  Cultured, sent to MICU.  
+
+Current status:  
+ Neuro:  Confused to place and time.  R eye blind, L eye with cataract.  Does follow some commands.  Speech clear.  Moans when touched.  Hand grasps strong bil.  
+
+CV:  MP=NSR at this time although hx AFib/flutter.  BP 123/64.  No palpable DP or PT L foot, R AKA (team aware).  
+
+Pulm:  Np at 3l with sats difficult to obtain--when do obtain a sat it is 94%.  Sat alarm off at this time due to inability to obtain continuous sat (severe PVD; attempted ear, forehead, all digits prior to turning alarm off).  BS diminished upper lobes, bibasilar crackles.  No SOB or DOE noted.  
+
+GI/GU:  Abd soft, moans when touched on any part of body.  BS +.  Urine dark, sludge like--urine for C+S sent in ED.  Currently being treated for +C diff so no stood sent.  One lg soft formed BM upon admission.  
+
+ID:  Orders being written.  Temp upon adm 96.9 x2 PO.  
+
+Integ:  L foot from mid foot to toes black with purulent drainage 4th toe--team aware, surgery consulted.  Remainder skin intact.  Foot open to air at this time.  
+
+Psychosocial:  No fam with pt at time.  Re-oriented to place and time but remains confused at this time.  Emotional support given to pt.  
+
+Plan:  Antibiotics, surgical consult.  [**Name6 (MD) **] [**Name8 (MD) **] RN pt is DNR/DNI.
+",,
+8006,912,9970,0,2973-08-16 21:38:00 EST,2973-08-16 21:40:00 EST,2940,"N",69,"Nursing/Other",,"
+
+Nsg addendum
+Spoke with daughter [**Name (NI) 5287**] from [**Doctor First Name 5288**] is health care proxy and is awake of pts current status, plans to fly up to see mother next [**Name2 (NI) **] ([**8-22**]).  Contact numbers in adm data.  Pt intermittently more oriented to place, otherwise assess unchanged.
+",,
+8006,912,9970,,2973-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-8-17**] 6:28 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3732**]
+     Reason: assess for infiltrate                                       
+     Admitting Diagnosis: CHANGE IN MENTAL STATUS;METHICILLIN RESISTANT STAPH AUREUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         65 year old woman with increasing lethargy,fever ms, ? left retrocardiac 
+      infiltrate                                           
+     REASON FOR THIS EXAMINATION:
+      assess for infiltrate                                                           
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Increasing lethargy, fever, mental status change.
+     
+     COMPARISON:  [**2973-8-16**].
+     
+     ERECT AP VIEW OF THE CHEST:  A left subclavian central venous line remains in
+     stable and satifactory position.  There is stable cardiac enlargement.  The
+     mediastinal and hilar contours are unchanged.  There has been interval
+     worsening of the retrocardiac opacity and a small left pleural effusion is
+     present.  The pulmonary vascularity is within normal limits.  Low lung volumes
+     are seen bilaterally.  A right subclavian stent is again noted.  No
+     pneumothorax is present.
+     
+     IMPRESSION:
+     1)  Interval worsening of retrocardiac opacity, consistent with worsening
+     collapse/consolidation of the left base.
+     
+     2)  Small left pleural effusion.
+
+",,
+8006,912,9970,,2973-08-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-8-17**] 2:33 PM
+     US ABD LIMIT, SINGLE ORGAN PORT                                 Clip # [**Clip Number (Radiology) 3733**]
+     Reason: ABDOMINAL PAIN, R/O CHOLECYSTITIS
+     Admitting Diagnosis: CHANGE IN MENTAL STATUS;METHICILLIN RESISTANT STAPH AUREUS;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with altered mental status, fevers.                          
+                              
+     REASON FOR THIS EXAMINATION:
+      R/O cholecystitis                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Altered mental status, fevers.
+     
+     LIMITED RIGHT UPPER QUADRANT ULTRASOUND:  There are multiple, small, calcified
+     stones within the gallbladder.  However, the gallbladder shows no evidence of
+     wall edema or pericholecystic fluid.  The common bile duct is not dilated at 4
+     mm.
+     
+     IMPRESSION:  Cholelithiasis without evidence of acute cholecystitis.
+
+",,
+8006,912,9970,0,2973-08-17 04:48:00 EST,2973-08-17 05:07:00 EST,2246,"N",69,"Nursing/Other","npn","
+npn
+pt is 65yo ESRD ADMITTED FOR CHANGE  IN MENTAL STATUS. 
+NEURO; PT LETHARGIC, AROUSABLE TO VOICE AND SLOW TO ANSWER QUESTIONS BUT ABLE TO STATE WHE WAS A [**Hospital1 **] AND THAT MOTH AND YEAR WERE [**2973-7-22**]. 
+
+PAIN: PT NORMALLY TAKES VICODIN BUT SHE RECEIVED NARCAN IN EW FOR CHANGE IN MENTAL STATUS AND LETHARGY. NO PAIN MED GIVEN . PT C/O PAIN IN LEFT LOWER LEG ( PROB. R/T NEUROPATHY IN FOOT AND LOWER LEG) AND C/O PAIN R/T FOLEY. FOLEY [**Name6 (MD) **] [**Name8 (MD) **] MD ORDER.
+
+CAD HR 60 TO 70 SR NO ECTOPY NOTED B/P RANGE LOW 100 TO 90'S SYTOLIC THEN INCREASETOI 120 TO 130'S FOLLWING FFP TRANSFUSION. MAPS 50 TO 70'S 
+
+RESP: REMAINS ON 3L NC, SATS 987- 100% LS [**Location (un) **]. CLEAR. NO ISSUES. SPUTUM CX SENT ON EVES.
+
+GI BS+. SMALL SMEARY STOOL GOLDEN COLOR WITH AM BATH. PT PREVIOUSLY TX FOR C-DIFF. RECEIVED ENEMA BY NH BEFORE  BEING TAKEN TO [**Hospital1 22**]. 
+
+GU: PT DID NOT RECEIVE DIALYSIS YESTERDAY AS SCHEDULED. PT STATES SHE DOES NOT URINATE. FOLEY DC'D FOR DISCOMFORT REASONS [**First Name8 (NamePattern2) **] [**Name8 (MD) 496**] MD. TOTAL OF 4CC OUT OF BROWN SLUDGE. 
+
+ID AFEBRILE; ON EPISODE OF DIAPHORESIS WITH NO RISE IN TEMP OR  DECREASE IN GLUCOSE. PT RECEIVED. FLAGYL, VANCO, LEVOQUIN IN EW. + MRSA. 
+
+SKIN: PT LEFT FOOT GANGEROUS. BLACKENED FROM MID FOOT TO TOES. DRSG CHANGED BY [**Name5 (PTitle) 1099**] THIS AM.
+
+HEME: PT RECEIVED 2 UNITS OF FFP AND VIT K+ 1MG IV . 
+
+PLAN: PT TO BE DIALYSED, CONT TO MONITOR VS AND LABS. POSSISLE SPEC NEEDED FOR C-DIFF.  
+
+
+
+
+
+
+",,
+8006,912,9970,0,2973-08-17 15:15:00 EST,2973-08-17 15:24:00 EST,2940,"N",69,"Nursing/Other",,"
+
+NPN
+Rec'd back from dialysis and ultrasound at 1540.  See carevue for subjective/objective data; refer to transfer summary and FHA for complete history.
+Neuro:  A+Ox3.  Speech clear.  Hands grasps strong.  L eye blind, R eye cataract.  R AKA, L leg with gangrenous foot (dry).  
+
+CV/Pulm:  VSS.  R TLC dsg D+I.  Remains on np at 3l with sats high 90's.  BS clear with bibasilar crackles.  No SOB noted.  
+
+GI/GU:  Remains NPO.  Voids infrequently-->received HD today.  Abd soft, pt denies tenderness ""unless [**Doctor First Name **] press hard on it"".  Ultrasound of abd done, results pending.  
+
+Integ:  L foot with dry gangrene, no pulses--team aware.  Dsg D+I.  
+
+ID:  Vanco level=32 this AM (team aware).  One time dose IV Vanco ordered for level <15.  
+
+Psychosocial:  Daughter from [**Doctor First Name 487**] called this AM.  Emotional support given to pt and daughter.  
+
+Plan:  To trans to CC7 today.  
+
+",,
+8006,,,,2973-11-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-11-3**] 8:27 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3734**]
+     Reason: ?infiltrate vs. failure                                     
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with SOB                                                      
+     REASON FOR THIS EXAMINATION:
+      ?infiltrate vs. failure                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  65-year-old woman with shortness of breath.  Rule/out infiltrate
+     or CHF.
+     
+     COMPARISON:  Comparison is made to [**2973-8-17**].
+     
+     CHEST, PA & LATERAL VIEWS:  There is again noted a left subclavian central
+     line with the tip in the right atrium.  There is interval clearing of the left
+     lung base.  The lung fields are now grossly clear.  There are no pleural
+     effusions or focal consolidations.  The heart size is increased consistent
+     with cardiomegaly.
+     
+     IMPRESSION:  Cardiomegaly.  No evidence of acute cardiopulmonary abnormality.
+
+",,
+8006,,,,2973-11-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-11-3**] 9:19 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3735**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ?abscess, colitis, source of infection/pain                 
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with hypotension, abdominal pain and guarding on exam. DM on 
+      ESRD.
+     REASON FOR THIS EXAMINATION:
+      ?abscess, colitis, source of infection/pain                                     
+     CONTRAINDICATIONS for IV CONTRAST:
+      ESRD
+     ______________________________________________________________________________
+     WET READ: SMLe WED [**2973-11-3**] 11:19 PM
+      neg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  65 year old woman with hypotension and abdominal pain.  Patient is a
+     diabetic with end stage renal disease.
+     
+     COMPARISON:  [**2973-7-26**].
+     
+     TECHNIQUE:  Multiple axial images of the abdomen and pelvis were obtained
+     following the administartion of non-ionic IV contrast.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The lung bases demonstrate some minimal
+     bilateral atelectasis.  There is a small pericardial effusion.  The liver,
+     gallbladder, pancreas, and adrenal glands are unremarkable.  Both kidneys are
+     atrophic.  There are numerous cysts present in both kidneys, unchanged.  The
+     spleen is unremarkable with the exception of a small 1.5 cm low attenuation
+     lesion.  This could represent a cyst or a hemangioma and is unchanged from the
+     prior study of [**2973-7-26**].  There is no free air or free fluid in the
+     abdomen.  No significant retroperitoneal lymphadenopathy is seen.  The
+     opacified stomach, loops of small and large bowel are unremarkable.
+     Extensive calcification is seen along the length of the SMA, [**Female First Name (un) **], and splenic
+     arteries.
+     CT OF THE PELVIS WITH IV CONTRAST:  The bladder, rectum and sigmoid colon are
+     unremarkable.  There is no free air or free fluid in the pelvis.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     1.  Normal appearance of the appendix.  There is no obstruction.
+     2.  No free air or free fluid in the abdomen and pelvis.
+     3.  Stable appearance of splenic lesion unchanged from [**2973-7-26**].
+     4.  Extensive calcification along the length of the SMA, [**Female First Name (un) **], and splenic
+     arteries with possible compromised flow in the SMA & [**Female First Name (un) **] which could be the
+     cause of the patient's abdominal pain (e.g. intestinal angina). A CTA or MRA
+     could be performed for better evaluation of these vessels.
+                                                                 (Over)
+
+     DATE: [**2973-11-3**] 9:19 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3735**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ?abscess, colitis, source of infection/pain                 
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8006,,,,2973-11-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-11-3**] 9:19 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3735**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ?abscess, colitis, source of infection/pain                 
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with hypotension, abdominal pain and guarding on exam. DM on 
+      ESRD.
+     REASON FOR THIS EXAMINATION:
+      ?abscess, colitis, source of infection/pain                                     
+     CONTRAINDICATIONS for IV CONTRAST:
+      ESRD
+     ______________________________________________________________________________
+     WET READ: SMLe WED [**2973-11-3**] 11:19 PM
+      neg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  65 year old woman with hypotension and abdominal pain.  Patient is a
+     diabetic with end stage renal disease.
+     
+     COMPARISON:  [**2973-7-26**].
+     
+     TECHNIQUE:  Multiple axial images of the abdomen and pelvis were obtained
+     following the administartion of non-ionic IV contrast.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The lung bases demonstrate some minimal
+     bilateral atelectasis.  There is a small pericardial effusion.  The liver,
+     gallbladder, pancreas, and adrenal glands are unremarkable.  Both kidneys are
+     atrophic.  There are numerous cysts present in both kidneys, unchanged.  The
+     spleen is unremarkable with the exception of a small 1.5 cm low attenuation
+     lesion.  This could represent a cyst or a hemangioma and is unchanged from the
+     prior study of [**2973-7-26**].  There is no free air or free fluid in the
+     abdomen.  No significant retroperitoneal lymphadenopathy is seen.  The
+     opacified stomach, loops of small and large bowel are unremarkable.
+     Extensive calcification is seen along the length of the SMA, [**Female First Name (un) **], and splenic
+     arteries.
+     CT OF THE PELVIS WITH IV CONTRAST:  The bladder, rectum and sigmoid colon are
+     unremarkable.  There is no free air or free fluid in the pelvis.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     1.  Normal appearance of the appendix.  There is no obstruction.
+     2.  No free air or free fluid in the abdomen and pelvis.
+     3.  Stable appearance of splenic lesion unchanged from [**2973-7-26**].
+     4.  Extensive calcification along the length of the SMA, [**Female First Name (un) **], and splenic
+     arteries with possible compromised flow in the SMA & [**Female First Name (un) **] which could be the
+     cause of the patient's abdominal pain (e.g. intestinal angina). A CTA or MRA
+     could be performed for better evaluation of these vessels.
+                                                                 (Over)
+
+     DATE: [**2973-11-3**] 9:19 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3735**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ?abscess, colitis, source of infection/pain                 
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8006,,,,2973-11-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-11-3**] 9:19 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3735**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ?abscess, colitis, source of infection/pain                 
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with hypotension, abdominal pain and guarding on exam. DM on 
+      ESRD.
+     REASON FOR THIS EXAMINATION:
+      ?abscess, colitis, source of infection/pain                                     
+     CONTRAINDICATIONS for IV CONTRAST:
+      ESRD
+     ______________________________________________________________________________
+     WET READ: SMLe WED [**2973-11-3**] 11:19 PM
+      neg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  65 year old woman with hypotension and abdominal pain.  Patient is a
+     diabetic with end stage renal disease.
+     
+     COMPARISON:  [**2973-7-26**].
+     
+     TECHNIQUE:  Multiple axial images of the abdomen and pelvis were obtained
+     following the administartion of non-ionic IV contrast.
+     
+     CT OF THE ABDOMEN WITH IV CONTRAST:  The lung bases demonstrate some minimal
+     bilateral atelectasis.  There is a small pericardial effusion.  The liver,
+     gallbladder, pancreas, and adrenal glands are unremarkable.  Both kidneys are
+     atrophic.  There are numerous cysts present in both kidneys, unchanged.  The
+     spleen is unremarkable with the exception of a small 1.5 cm low attenuation
+     lesion.  This could represent a cyst or a hemangioma and is unchanged from the
+     prior study of [**2973-7-26**].  There is no free air or free fluid in the
+     abdomen.  No significant retroperitoneal lymphadenopathy is seen.  The
+     opacified stomach, loops of small and large bowel are unremarkable.
+     Extensive calcification is seen along the length of the SMA, [**Female First Name (un) **], and splenic
+     arteries.
+     CT OF THE PELVIS WITH IV CONTRAST:  The bladder, rectum and sigmoid colon are
+     unremarkable.  There is no free air or free fluid in the pelvis.
+     
+     BONE WINDOWS:  No suspicious lytic or blastic lesions.
+     
+     IMPRESSION:
+     1.  Normal appearance of the appendix.  There is no obstruction.
+     2.  No free air or free fluid in the abdomen and pelvis.
+     3.  Stable appearance of splenic lesion unchanged from [**2973-7-26**].
+     4.  Extensive calcification along the length of the SMA, [**Female First Name (un) **], and splenic
+     arteries with possible compromised flow in the SMA & [**Female First Name (un) **] which could be the
+     cause of the patient's abdominal pain (e.g. intestinal angina). A CTA or MRA
+     could be performed for better evaluation of these vessels.
+                                                                 (Over)
+
+     DATE: [**2973-11-3**] 9:19 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 3735**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: ?abscess, colitis, source of infection/pain                 
+     Field of view: 50 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8006,,,,2973-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-11-4**] 8:21 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 3736**]
+     Reason: Please evaluate for PE.                                     
+     Admitting Diagnosis: END STAGE RENAL DISEASE;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with L pleuritic chest pain and hypotension                   
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for PE.                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 64-year-old with left-sided pleuritic chest pain and
+     hypotension.  Assess for pulmonary embolus.
+     
+     TECHNIQUE:  CT of the chest with and without IV contrast.  100 cc of Optiray
+     were used for this examination due to the need for fast bolus technique.
+     Coronal and sagittal reformatted images were obtained.
+     
+     No prior studies for comparison.
+     
+     FINDINGS:  Soft tissue window images reveal small bilateral pleural effusions.
+     There are several scattered non-pathologically-enlarged mediastinal and
+     prevascular lymph nodes.  There is no significant hilar or axillary lymph
+     adenopathy.  The heart is slightly enlarged.  There is a pericardial effusion
+     which measures about 1.6 cm in greatest dimension.  A left-sided Port-A-Cath
+     is in place with its tip terminating in the right atrium.  Lung window images
+     reveal minor atelectatic changes at both lung bases.  There are no focal
+     consolidations or nodules.  There is no pneumothorax.
+     
+     CT angiogram demonstrates no pulmonary embolus.  The aorta is calcified, but
+     normal in caliber with no evidence of aneurysmal dilation or dissection.
+     
+     Images of the upper abdomen reveal calcifications in the splenic and celiac
+     arteries. The upper abdomen is otherwise unremarkable. The osseous structures
+     demonstrate degenerative changes throughout the thoracic spine.  The soft
+     tissues are normal.
+     
+     Coronal and sagittal reformatted images confirm the above findings.
+     
+     IMPRESSION:
+     No evidence of pulmonary embolus.  Small pericardial effusion.  Small
+     bilateral pleural effusions with associated atelectatic changes.
+
+",,
+8006,,,,2973-11-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-11-4**] 8:21 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 3736**]
+     Reason: Please evaluate for PE.                                     
+     Admitting Diagnosis: END STAGE RENAL DISEASE;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     Field of view: 36 Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with L pleuritic chest pain and hypotension                   
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for PE.                                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  A 64-year-old with left-sided pleuritic chest pain and
+     hypotension.  Assess for pulmonary embolus.
+     
+     TECHNIQUE:  CT of the chest with and without IV contrast.  100 cc of Optiray
+     were used for this examination due to the need for fast bolus technique.
+     Coronal and sagittal reformatted images were obtained.
+     
+     No prior studies for comparison.
+     
+     FINDINGS:  Soft tissue window images reveal small bilateral pleural effusions.
+     There are several scattered non-pathologically-enlarged mediastinal and
+     prevascular lymph nodes.  There is no significant hilar or axillary lymph
+     adenopathy.  The heart is slightly enlarged.  There is a pericardial effusion
+     which measures about 1.6 cm in greatest dimension.  A left-sided Port-A-Cath
+     is in place with its tip terminating in the right atrium.  Lung window images
+     reveal minor atelectatic changes at both lung bases.  There are no focal
+     consolidations or nodules.  There is no pneumothorax.
+     
+     CT angiogram demonstrates no pulmonary embolus.  The aorta is calcified, but
+     normal in caliber with no evidence of aneurysmal dilation or dissection.
+     
+     Images of the upper abdomen reveal calcifications in the splenic and celiac
+     arteries. The upper abdomen is otherwise unremarkable. The osseous structures
+     demonstrate degenerative changes throughout the thoracic spine.  The soft
+     tissues are normal.
+     
+     Coronal and sagittal reformatted images confirm the above findings.
+     
+     IMPRESSION:
+     No evidence of pulmonary embolus.  Small pericardial effusion.  Small
+     bilateral pleural effusions with associated atelectatic changes.
+
+",,
+8006,,,,2973-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-11-7**] 5:50 PM
+     MR THIGH W&W/O CONTRAST LEFT; MR CONTRAST GADOLIN               Clip # [**Clip Number (Radiology) 3737**]
+     Reason: Please evaluate for osteomyelitis.                          
+     Admitting Diagnosis: END STAGE RENAL DISEASE;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+      Contrast: MAGNEVIST Amt: 19CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman s/p L AKA on [**2973-8-23**], now with 4/4 GPC bacteremia and signs 
+      of  infection at wound.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for osteomyelitis.                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Status post left AKA, now with bacteremia, evaluate for
+     osteomyelitis.
+     
+     TECHNIQUE:  Coronal T1, STIR, axial T1, STIR, and post contrast fat saturated
+     T1W imaging was performed.  The most recent prior examination, a CT scan of
+     the lower extremity dated [**2973-8-3**], is retrieved for correlation.
+     
+     Since the prior examination the patient has undergone a left above the knee
+     amputation.  Evaluation of the hips on this examination is limited due to the
+     field of view.  However, there is no evidence of a hip effusion.  Signal
+     arising from within the bone marrow is within normal limits.  There is no
+     evidence of an intraosseous abscess.  There is diffuse edema within the vastus
+     lateralis of the left leg and quadriceps of the right.  No discrete fluid
+     collections are identified.  On post contrast imaging no focal enhancing
+     collections are present either.
+     
+     IMPRESSION:
+     
+     Status post left above the knee amputation.  Diffuse edema is present within
+     the quadriceps muscles on the right and vastus lateralis on the left.  No
+     intraosseous abscess or drainable soft tissue collection is identified.
+
+",,
+8006,,,,2973-11-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-11-7**] 5:50 PM
+     MR THIGH W&W/O CONTRAST LEFT; MR CONTRAST GADOLIN               Clip # [**Clip Number (Radiology) 3737**]
+     Reason: Please evaluate for osteomyelitis.                          
+     Admitting Diagnosis: END STAGE RENAL DISEASE;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+      Contrast: MAGNEVIST Amt: 19CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman s/p L AKA on [**2973-8-23**], now with 4/4 GPC bacteremia and signs 
+      of  infection at wound.
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for osteomyelitis.                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  Status post left AKA, now with bacteremia, evaluate for
+     osteomyelitis.
+     
+     TECHNIQUE:  Coronal T1, STIR, axial T1, STIR, and post contrast fat saturated
+     T1W imaging was performed.  The most recent prior examination, a CT scan of
+     the lower extremity dated [**2973-8-3**], is retrieved for correlation.
+     
+     Since the prior examination the patient has undergone a left above the knee
+     amputation.  Evaluation of the hips on this examination is limited due to the
+     field of view.  However, there is no evidence of a hip effusion.  Signal
+     arising from within the bone marrow is within normal limits.  There is no
+     evidence of an intraosseous abscess.  There is diffuse edema within the vastus
+     lateralis of the left leg and quadriceps of the right.  No discrete fluid
+     collections are identified.  On post contrast imaging no focal enhancing
+     collections are present either.
+     
+     IMPRESSION:
+     
+     Status post left above the knee amputation.  Diffuse edema is present within
+     the quadriceps muscles on the right and vastus lateralis on the left.  No
+     intraosseous abscess or drainable soft tissue collection is identified.
+
+",,
+8006,,,,2973-11-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-11-10**] 11:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 3738**]
+     Reason: Assess for new infiltrates                                  
+     Admitting Diagnosis: END STAGE RENAL DISEASE;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with new productive cough and T spikes                        
+     REASON FOR THIS EXAMINATION:
+      Assess for new infiltrates                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM.
+     
+     History of new productive cough.
+     
+     Right jugular CV lines are in right atrium.  No pneumothorax.  There are low
+     lung volumes.  There is cardiomegaly but no definite CHF.  Endovascular stent
+     in right axillary, subclavian and brachiocephalic vessels.
+     
+     IMPRESSION:  No evidence for pneumonia or other significant change since the
+     prior study of [**2973-11-3**].
+
+",,
+8006,,,,2973-11-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2973-11-11**] 4:37 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 3739**]
+     Reason: Please assess for new infiltrate.                           
+     Admitting Diagnosis: END STAGE RENAL DISEASE;RULE-OUT MYOCARDIAL INFARCTION;TELEMETRY
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 yo F with desaturation in setting of fever                                   
+                         
+     REASON FOR THIS EXAMINATION:
+      Please assess for new infiltrate.                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  65 year old female with desaturation with fever.
+     
+     TECHNIQUE:  PA and lateral chest radiograph.
+     
+     Comparison is made with the previous chest radiographs dated [**11-3**] and
+     20, 2004.
+     
+     FINDINGS:  The study is somewhat limited due to under penetration with
+     overlying soft tissue. The central venous line is unchanged compared to the
+     previous study. Again note is made of mild cardiomegaly. Thoracic aorta is
+     tortuous. Again note is made of stent in the right axillary, subclavian, and
+     brachiocephalic vessels. Opacification of the left lower lobe is noted, most
+     likely related to the posteriorly located density noted on the lateral view,
+     which is increased compared to the prior study. No evidence of CHF is noted.
+     Continued plate-like atelectasis in bilateral lungs.
+     
+     IMPRESSION:  Increase of left lower lobe opacity, which can represent
+     atelectasis of pneumonia, or pleural density. Please correlate clinically.
+
+",,

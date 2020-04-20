@@ -1,0 +1,330 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8221,4299,,,3076-04-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3076-4-5**]       Discharge Date:  [**3076-4-7**]
+
+Date of Birth:   [**3003-2-19**]       Sex:  M
+
+Service:  Neurosurge
+
+CHIEF COMPLAINT:
+1.  Status post fall.
+
+HISTORY OF PRESENT ILLNESS:  Mr. [**Known patient lastname 11379**] is a 73 year-old
+gentleman status post fall three days ago who struck his face
+and nose on a chair rail. The patient was subsequently
+evaluated at the [**Hospital **] [**Hospital6 3390**] Emergency
+Department and was performed a CT scan that revealed a right
+posterior parietal occipital hemorrhage. The patient was
+subsequently transferred to [**Hospital1 47**] for further evaluation as there were no beds at that
+time in the [**Hospital **] Hospital.
+
+PAST MEDICAL HISTORY:
+1.  Hypertension.
+2.  Type II diabetes.
+3.  Cognitive disorder.
+4.  Delusional disorder.
+5.  Question of cardiac arrhythmias.
+6.  Psychiatric history.
+
+ALLERGIES:
+1.  Penicillin.
+
+MEDICATIONS ON ADMISSION:
+1.  Valproic acid.
+2.  Risperdal.
+3.  Aspirin.
+4.  Lipitor.
+5.  Hydrochlorothiazide.
+6.  Metformin.
+7.  Sotalol.
+8.  Trazodone.
+9.  Valsartan.
+10. Venlafaxine.
+
+PHYSICAL EXAMINATION:  The patient was oriented to place and
+time.  He did not know the month but did the know the year.
+Pupils were 2.5 mm right slightly greater than left but
+reactive.  There was a left cataract. The patient was
+following commands and had a small superficial abrasion over
+the bridge of his nose.  His chest was clear.  His heart was
+regular rate and rhythm. His belly was soft.  His extremities
+were moving all four.  His strength is [**6-4**] bilaterally equal.
+Sensory was intact throughout.  There was no clonus and his
+reflexes were 1+ and bilaterally equal with no Babinski.
+
+LABORATORY DATA:  White count 12, hematocrit 39.8, platelet
+count 158,000, sodium 137, potassium 3.4, chloride 98, bicarb
+29, BUN 20, creatinine 1.  Sugar was 143, Valproic acid level
+was 56, magnesium 2, CK 36, calcium 9.4, alkaline phosphatase
+2.8.
+
+He had a CT scan of the head that showed a right parietal
+occipital intra parenchymal with a small extension to the
+posterior [**Doctor Last Name **] of the right lateral ventricle.
+
+HOSPITAL COURSE: He was admitted to the Neuro SICU for
+observation to keep his INR less than 1.3, blood pressure
+less than 140 and for bed rest with a repeat CT scan or MRI
+the following day.  His INR on admission was 1.1.
+
+On hospital day one the patient was doing well, following
+commands and weaned off his Nipride and started on Lopressor
+to bring his blood pressure down.  He was unable to have an
+MRI because of previous hip surgery that had metal so he had
+a CTA that showed no underlying lesion except for most likely
+amyloid angiopathy.  He continued to have about the same
+mental status exam with slight disorientation and
+inattentiveness but will follow commands and is moving all
+fours.
+
+The Surgical service saw the patient and continued to offer
+the same recommendations with blood pressure control and also
+with the recommendation to avoid an anti-platelet [**Doctor Last Name 614**] if
+this is in fact amyloid angiopathy which it does appear to
+be.
+
+He will be discharged today [**3076-4-7**] with a transfer to
+the VA [**Hospital 782**] Hospital for continued care and
+management. He will be discharged in stable condition.
+
+DISCHARGE MEDICATIONS:  He will need to stay on his po
+pressure medicines to keep his pressure in the 140 to 150
+range. These medications are:
+1.  Lopresor 75 milligrams po bid hold for systolic less than
+95 and heart rate less than 60.
+2.  Hydralazine 60 milligrams po q six hours.
+He will remain on all of his other pre-medications which are:
+1.  Valproic 500 milligrams po q HS.
+2.  Risperdal 0.5 milligrams po q day.
+3.  Lipitor 10 milligrams po q day.
+4.  Hydrochlorothiazide 25 milligrams po q day.
+5.  Valsartan 80 milligrams po q day.
+6.  Venlafaxine 75 milligrams po q day.
+
+DISCHARGE STATUS:  He will be discharged to [**Location 782**] VA
+system and should follow up with Dr. [**First Name (STitle) **] in approximately two
+to three weeks if needed.
+
+
+
+
+                            [**First Name11 (Name Pattern1) 470**] [**Last Name (NamePattern4) 471**], M.D.  [**MD Number 472**]
+
+Dictated By:[**Last Name (NamePattern1) 5779**]
+MEDQUIST36
+
+D:  [**3076-4-7**]  08:44
+T:  [**3076-4-7**]  09:05
+JOB#:  [**Job Number 11380**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 470**] [**Last Name (NamePattern1) **]
+ on: TUE [**3076-4-11**] 9:33 AM
+(End of Report)
+
+
+",,
+8221,4299,,,3076-04-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3076-4-5**] 9:41 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 5935**]
+     Reason: ? BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with intraparenchymal bleed
+     REASON FOR THIS EXAMINATION:
+      Please do Noncontrast Head CT after midafternoon on [**3076-4-5**] to r/o increased
+      hemorrhage in this 73 yo [**Male First Name (un) **] with recent Rt. parieto-occipital hemorrhage seen
+      on CT from OSH.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intraparenchymal bleed.
+     
+     Multiple axial images were obtained from the base of the vertex without IV
+     contrast administration.  No prior CT's are available for comparison at this
+     institution.  There is a moderate sized area of subacute hemorrhage involving
+     the right occipital parietal lobe with mild surrounding cytotoxic edema and
+     minimal mass effect on the posterior aspect of the right lateral ventricle.
+     There is a small amount of intraventricular hemorrhage layering within the
+     left occipital [**Doctor Last Name 234**] of the lateral ventricle.  Extensive low attenuation is
+     seen within the periventricular white matter suggestive of chronic
+     microvascular infarct.  No mid-line shift is seen.  There is no impending
+     herniation.  A benign tiny focus of calcification measuring less than 5 mm is
+     seen abutting the peripheral aspect of the right cerebellum without
+     surrounding mass effect.  The calvarium appears to be intact.  The visualized
+     paranasal sinuses are mostly clear.
+     
+     IMPRESSION:  Acute area of intraparenchymal hemorrhage involving the right
+     occipital parietal lobe which is seen probably dissecting into the right
+     lateral ventricle with a small amount of intraventricular hemorrhage.
+     Significant periventricular chronic microvascular disease.  There is no
+     herniation seen.  Close clinical and radiologic follow up might be helpful.
+
+",,
+8221,4299,10221,0,3076-04-05 03:30:00 EST,3076-04-05 04:12:00 EST,342,"N",1,"Nursing/Other","ADMISSION NOTE","
+ADMISSION NOTE
+MR. [**Known patient lastname 5532**] IS A 73 YR. OLD MAN WHO PRESENTS TO [**Hospital1 22**] EW WITH WORSEN-
+ING MENTAL STATUS SINCE FALL ? 2 DAYS PRIOR TO ADMISSION. PRESENTLY
+RESIDING AT [**Location (un) **] VA TRANSITIONAL CARE UNIT(NEURO-PSYCH). WAS FOUND
+BY STAFF URINATING IN A CLOSET, & NOT TO BE AS ORIENTED AS USUAL.
+STATED HE HAD FALLEN & HIT HIS HEAD ABOVE L. EYE. NO LOC, BUT STATES
+HE FELT LIGHTHEADED IMMEDIATELY PRIOR TO FALL. STAFF ALSO REPORTS PT.
+TOOK ANOTHER PT'S MEDS BESIDES TAKING HIS OWN(? TOOK INCREASED DOSE OF
+OWN MEDS). WAS TRANSFERRED TO [**Location (un) **] VNA FOR HEAD CT->RIGHT POSTERIOR
+PARIETAL-OCCIPITAL HEMORRHAGE. TRANSFERRED TO [**Hospital1 22**] FOR FURTHER W/U &
+MANAGEMENT.
+ON ADM. TO EW, SBP180-200'S/90. T 99.2. HR NSR WITH PVC'S. EKG->NO
+CHANGE. LUNGS CLEAR. NEURO: PERL. SLEEPY BUT AROUSABLE. ORIENTED TO PERSON ONLY. NOT HELPFUL
+WITH PMH OR ANSWERING QUESTIONS. REQUIRES FREQUENT REPETITION OF 
+COMMANDS & HAS DIFFICULT TIME FOLLOWING 2 STEP COMMANDS. NORMAL
+STRENGTH IN EXTREMITIES. TREATED WITH HYDRALAZINE 5MG VP & 30MG PO.
+K LOW-> KCL 40MEQ PO X1. SINCE IT IS NOT KNOWN WHAT BASELINE COGNITIVE
+STATUS IS OR BASELINE LEVEL OF ALERTNESS->TO BE MONITORED IN ICU.   
+PLAN IS TO KEEP SBP 140-160. NIPRIDE TO BE USED IF NEEDED.
+
+PMH: HYPERTENSION
+     TYPE II DM
+     DELUSIONAL DISORDER
+     COGNITIVE DISORDER
+
+ALLERGIES: PCN, IV CONTRAST DYE.
+",,
+8221,4299,10221,0,3076-04-05 06:36:00 EST,3076-04-05 07:03:00 EST,342,"N",1,"Nursing/Other",,"
+
+NEURO: SLEEPY BUT EASILY AROUSABLE. MAE WITH GOOD STRENGTH. FOLLOWS
+       SIMPLE COMMANDS. ORIENTED TO PERSON, PLACE, YEAR, & AT TIMES
+       MONTH. PERL.
+RESP: O2->2L NP. RR 15-22. O2 SATS 95-99%. BS CLEAR BUT DIMINISHED
+      AT BASES.
+CARDIAC: HR 72->58 SR WITH FREQUENT PVC'S AT TIMES. BP 151-169/64-99.
+         GIVEN LOPRESSOR 50MG PO & ADDITIONAL HYDRALAZINE 30MG PO.
+         NIPRIDE STARTED AT .5MCG/KG. BP 113-137/49-83. NIPRIDE WEANED
+         OFF-> SBP 140-160'S. NIPRIDE RESTARTED AT .25MCG/KG. TITRATE
+         TO KEEP SBP~140. NS+40KCL/L AT 80CC/HR.
+GI: NPO X MEDS. ABD. SL.DISTENDED. BS+. NO STOOL.
+GU: FOLEY INSERTED ON ADMISSION TO ICU. URINE CLEAR YELLOW->PINK D/T
+    PULLING AN CATHETER.U/O 475->35CC/HR.
+ID: T 99.8->99.5(PO).
+ENDO: BS 189.
+AM LABS PENDING.  
+",,
+8221,4299,10221,0,3076-04-05 19:31:00 EST,3076-04-05 19:51:00 EST,285,"N",1,"Nursing/Other","CCU NPN 7 am - 7pm","
+CCU NPN 7 am - 7pm
+S:  ""I need to get up.""
+O:  Neuro:  Pt. is alert and oriented x1 - 2.  Pupils equal and reactive most of the day.  right pupil was not reactive at one point during the day. Neuro team is aware.  Pt. is moving all extremities.  Strength is equal bilaterally and normal.  Pt. confused.  Pt. went for head CT at 4 pm and MRI was deferred secondary to wire in femur.
+
+CVS:  Nipride wean attempted, but pt.'s BP climbed to above 170 each time and it was necessary to turn the nipride on again.  Presently it is at .15 mcgs/kg/min.  Pt. was given an additional dose of IV lopressor 5mg and the po. lopressor was increased to 75 mg bid.  Pt. tolerating hydralazine.  BP 120 - 170/40 - 50.  HR 50 - 60's.  SR upto 6 beat run of VT noted.
+
+F/E:  Pt. on D5 1/2 NS with 40 meq of KCL for 1 litre and is presently on D5 1/2 NS.  SMA -10 was drawn.
+
+Resp:  O 2 sat is 95 - 97 % on 2lnp.  lungs are clear.
+
+G.U.:  Pt. is voiding via foley catheter.  Urine has been blood tinged due to pt. pulling at catheter.
+
+G.I.:  LBM today.  OB neg.  Pt. ate very little for dinner tonight.
+
+DM.:  Pt. has not required any ss insulin today.
+
+Social: Pt.'s sons were in today.  They live in [**State 976**] and [**State 761**].  Tonight they are staying with their mother.  Pt. is presently going through a divorce and his wife has a restraining order out against him.  SS and case management are involved.
+
+A: occipital bleed.
+
+P:  reorient pt. prn, check head CT results, support family and pt. 
+",,
+8221,4299,10221,,3076-04-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3076-4-6**] 8:58 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 5936**]
+     Reason: 73 yr old male s/p right occipital intraparechymal bleed ple
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      73 year old man with 
+     REASON FOR THIS EXAMINATION:
+      73 yr old male s/p right occipital intraparechymal bleed please do scan with
+      and without contrast to r/o underlying lesion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intracranial hemorrhage.  ? of underlying lesion.
+     
+     COMPARISON:  [**3076-4-5**].
+     
+     TECHNIQUE:  Pre and post contrast head CT.
+     
+     FINDINGS:  There is no pathological intracranial enhancement detected.  There
+     is a large parieto-occipital acute hematoma with surrounding edema and mild
+     mass effect on the atrium of the right lateral ventricle.  There is hemorrhage
+     layering in the posterior [**Doctor Last Name 234**] of the left lateral ventricle. There is
+     extensive white matter hypodensity in a periventricular distribution
+     compatible with a chronic microvascular infarction.  The ventricles are
+     slightly prominent as are the sulci, but unchanged in size.  There is no shift
+     of normally midline structures.  The sulci adjacent to the hemorrhage are
+     effaced.
+     
+     The osseous structures and visualized paranasal sinuses are unremarkable.
+     
+     IMPRESSION:
+     
+     1.  Unchanged appearance of right parieto-occipital hemorrhage with a small
+     amount of intraventricular extension.
+     
+     2.  No pathological intracranial enhancement to suggest the presence of an
+     underlying mass or vascular malformation though such a lesion may be missed in
+     this setting.  Given the evidence for chronic microvascular disease and the
+     location of the hemorrhage and amyloid angiopathy should be considered in the
+     differential diagnosis for the etiology of this hemorrhage.
+
+",,
+8221,4299,10221,0,3076-04-06 04:25:00 EST,3076-04-06 04:35:00 EST,103,"N",1,"Nursing/Other","CCU NSG PROGRESS NOTE 7P-7A/ S/P CVA","
+CCU NSG PROGRESS NOTE 7P-7A/ S/P CVA
+
+S- "" I NEED TO GET TO THE COURTHOUSE""
+
+O- SEE FLOWSHEET FOR THE OBJECTIVE DATA.
+
+CV- HR= 60-80 SR, TRIGEMINY, PVC'S. NO RUNS.
+K- 3.9- 20 KCL IN IVF; MG- 1.8- RECEIVED 2 AMPS MGSO4.
+BP- 140-150/
+NIPRIDE AT 0.2 MCG/KG/MIN.
+REMAINS ON LOPRESSOR BID/HYDRALAZINE.
+BP REMAIN AT GOAL 150'S/.
+
+RESP- LUNGS CLEAR, GOOD O2 SATS, NO ISSUES.
+
+MS/NEURO- PT REMAINS AGITATED, REQUIRING 1:1 SITTER/RN.
+PULLING AT CLOTHES, FOLEY CATH, IV'S LINES, 
+NEAR IMPOSSIBLE TO INSURE SAFETY OF LINES WITHOUT 1:1.
+SITTER CURRENTLY IN ROOM WITH PT.
+PT ORIENTED X 1. NOT AWARE OF PERSON/REASON FOR BEING IN HOSPITAL OR AT TIMES WHERE HE IS.
+COOPERATING WITH TAKING LIX/PILLS.
+REQUIRING POSEY/WRIST RESTRAINTS.
+NO CHANGE IN NEURO VS- SEE FLOWSHEET.
+
+GI- TAKING MEDS/LIX.
+ONE LARGE G (-) STOOL.
+
+GU- GOO DUO- 80-120/HOUR VIA FOLEY CATH. 
+SOME HEMATURIA FROM CONSTANT MOVEMENT, PULLING.
+
+A/P- PT WITH RT POSTERIOR PARIETAL/OCCIPITAL BLEED.
+CONTINUE TO REQUIRE NIPRIDE/PO MEDS TO KEEP BP WITHIN GOAL RANGE.
+CONTINUES TO BE INTERMITTENTLY AGITATED, REQUIRING 1;1 CARE.
+
+CONTINUE TO INCREASE PO MEDS IN HOPES OF WEANING OFF IV NIPRIDE.
+CONTINUE FREQ NEURO CHECKS.
+CONTINUE 1:1 SUPERVISION FOR SAFETY.
+C/O TO FLOOR ONCE MEDICALLY APPROPRIATE/OFF IV NIPRIDE WITH STABLE NEURO/CV STATUS.
+
+",,
+8221,4299,10221,0,3076-04-06 17:22:00 EST,3076-04-06 17:27:00 EST,620,"N",1,"Nursing/Other","CCU NPN","
+CCU NPN
+S: i have to go to the bathroom
+o: pls see d/c summary
+neuro: confused. periods of restlessness and wandering oob. req waist restraint and sitter. underwent another ct this am.
+of note pt DID RECEIVE IV CONTRAST THIS AM WITH T> in 2 places in chart pt is documented as having a contrast dye allergy however not in the admit orders. pt has not had any reaction thus far to the contrast he rec'd. team aware.
+occ c/o r flank plain, rel'd w/ position change.
+off nipride. bp 145-170/80-90. 
+gi: poor intake, no n/v.
+a/p: transfer to f5.
+",,

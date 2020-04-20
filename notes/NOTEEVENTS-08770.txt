@@ -1,0 +1,1025 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8770,,,,3495-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3495-10-3**] 3:53 PM
+     CHEST (PA & LAT); HEB REB PRO FEE ONLY                          Clip # [**Clip Number (Radiology) 10445**]
+     Reason: URI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, TWO VIEWS
+     
+     HRC # H30643.  Room 536 West.
+     
+     INDICATION:  URI.  Evaluate for pneumonia.
+     
+     FINDINGS:  Compared with [**3495-7-5**], there is new bibasilar linear atelectasis.
+     There is also chronic anterior eventration of the right hemidiaphragm, which
+     also contributes to the increased markings at the right base.
+     
+     Allowing for these findings, no obvious consolidating/confluent pulmonary
+     infiltrates are identified.  No overt CHF.
+     
+     IMPRESSION:  Bibasilar linear atelectasis.  No definite pneumonia.
+
+",,
+8770,,,,3495-10-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3495-10-3**] 3:53 PM
+     CHEST (PA & LAT); HEB REB PRO FEE ONLY                          Clip # [**Clip Number (Radiology) 10445**]
+     Reason: URI
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST, TWO VIEWS
+     
+     HRC # H30643.  Room 536 West.
+     
+     INDICATION:  URI.  Evaluate for pneumonia.
+     
+     FINDINGS:  Compared with [**3495-7-5**], there is new bibasilar linear atelectasis.
+     There is also chronic anterior eventration of the right hemidiaphragm, which
+     also contributes to the increased markings at the right base.
+     
+     Allowing for these findings, no obvious consolidating/confluent pulmonary
+     infiltrates are identified.  No overt CHF.
+     
+     IMPRESSION:  Bibasilar linear atelectasis.  No definite pneumonia.
+
+",,
+8770,20030,,,3495-10-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**3495-10-11**]              Discharge Date:   [**3495-10-21**]
+ 
+Date of Birth:  [**3396-6-4**]             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Nsaids / Ace Inhibitors
+ 
+Attending:[**First Name3 (LF) 6705**] 
+Chief Complaint:
+shortness of breath and hemoptysis
+ 
+Major Surgical or Invasive Procedure:
+-
+ 
+History of Present Illness:
+This a [**Age over 90 **]y/o female with a history of COPD, hypertension, 
+gastroespohageal reflux who presented with shortness of breath 
+and dyspnea on exertion X 3 days.
+Per nursing home records, the patient was reported to have had 
+10cc of hemoptysis. O2 sat was 92%. Patient reports substernal 
+chest pain radiating to the back, lasting seconds.  By history 
+the pain is pleuritic, because coughing makes it worse.
+.  
+On presentation peak flow was 140; improved to 240 after 1st neb 
+in the ED. Chest X-ray  showed multilobular consolidation. CT-A 
+showed no PE or obstructive bronchial lesion, but central 
+bilateral consolidation secondary to pneumonia and CHF was 
+noted. An EKG showed TWI in I and avL, and in V4-V6, unchanged 
+from previous.  Trop was 0.10 in the setting of renal 
+insufficiency.  
+
+ 
+Past Medical History:
+COPD  
+Rash back of neck  
+GERD  
+HTN  
+
+ 
+Social History:
+Lives in [**Hospital 67**] Rehab  
+Denies alcohol and ciggarette smokine 
+
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+VS t98.8, hr82, bp, r26, 99%on2lNC  
+Gen elderly petite Caucasian female sitting upright in 
+stretcher, in mod distress, using accessory muscles to breath  
+HEENT MMM, OP, -JVD, bruits  
+Heart nl rate, S1S2, unable to assess due to breathing  
+Lungs coarse, rhonchorous breath sounds  
+Abdomen round, soft, nt, nd, +bs  
+Extremities [**11-18**]+pitting edema, posterior aspect of legs 
+bilaterally  
+Neuro: A&O X3, II-XII grossly intact  
+
+ 
+Pertinent Results:
+Labs on Admission
+[**3495-10-11**] 11:30AM BLOOD WBC-17.1*# RBC-3.86* Hgb-11.2* Hct-34.6* 
+MCV-90 MCH-29.0 MCHC-32.4 RDW-14.0 Plt Ct-290
+[**3495-10-11**] 11:30AM BLOOD Plt Ct-290
+[**3495-10-11**] 11:30AM BLOOD Glucose-119* UreaN-47* Creat-1.9* Na-142 
+K-4.4 Cl-101 HCO3-31 AnGap-14
+[**3495-10-11**] 11:30AM BLOOD CK(CPK)-48
+[**3495-10-11**] 11:30AM BLOOD CK-MB-3 cTropnT-0.10*
+.
+Chest X-ray [**3495-10-11**]
+1. Multilobar consolidation, which could reflect asymmetrical 
+edema and/or multilobar pneumonia. A postobstructive process in 
+the right middle lobe cannot be excluded. By report, the patient 
+is scheduled to undergo CTA, which will be helpful for more 
+complete characterization of these findings.
+2. Bilateral pleural effusions, right greater than left.
+.
+CT-A [**3495-10-11**]
+1. No parenchymal mass lesion or mediastinal lymphadenopathy. No 
+acute pulmonary embolus.
+
+2. Central bilateral consolidation mainly along the inferior 
+hilar regions with patchy areas of consolidation in the upper 
+and lower lobes. Enlargement of the central arterial pulmonary 
+vasculature and mild cardiac enlargement suggestive of 
+background pulmonary hypertension. Small bibasilar pleural 
+effusions. These findings may all be due to cardiac failure with 
+pulmonary hypertension. Infective consolidation should be also 
+considered depending on the current clinical correlation. 
+Interval followup post-treatment initially with chest x-ray is 
+advised.
+
+ 
+Brief Hospital Course:
+1. Pneumonia
+The patient was initially maintained on ceftriaxone and 
+azithromycin for community acquired pneumonia.  Because the 
+patient came from rehabilitation, the decision was made to 
+change the antibiotic coverage to Levaquin. Her treatment also 
+consisted of Q2 nebulizer treatments, oxygen and her home dose 
+of prednisone.  On the morning of HD #2, the patient's course 
+was complicated by transient desaturation to 88% on 6L NC and a 
+shovel mask.  On exam the patient had rhonchorous breath sounds, 
+difficulty mobilizing her secretions. O2 sats improved with 
+coughing to 91%.  Despite improvement in her O2 sats, the 
+patient continued to have labored breathing.  She received 10 of 
+IV lasix and nebulizer treatments.  O2sats improved to 95-99%  
+on the same amount of O2.  Respiratory therapy recommmended 
+humidified air to help loosen the secretions.   Patient course 
+deteriorated on the morning of HD #3.  02sats were initially 
+stable in the 90s. The patient became tachypneic breathing at an 
+average rate of 30. Antibiotic coverage was changed to 
+Ceftazadine because prelim sputum cultures grew gram negative 
+rods. Despite lasix, morphine and frequent nebulizer treatments, 
+patient's O2sats decreased to 86% on 6LNC and 100%NRB. The 
+decision was made to transfer her to the FICU for further 
+management.
+.
+In the FICU, the pt continued to desaturate to the 80s on NC and 
+FM. She had one episode of desaturation to the 80s which did not 
+resolve after one minute. CXR showed mucus plugging of the 
+entire left lung. Pt was placed on her right side and had 
+rigorous chest PT, and saturations improved to low 90s. Family 
+was called in. After several days of pt's respiratory status not 
+improving, pt's status was discussed with family, who decided to 
+make her CMO. Pt was placed on morphine gtt and died on [**3495-10-21**] 
+am surrounded by her family.
+.  
+2. Leukocytosis:
+Pt's leukocytosis was likely [**12-19**] to pneumonia and UTI. Pt was 
+afebrile throughout admission. Pt was placed on levaquin, and 
+blood cultures were negative.
+.  
+3. Hemoptysis:
+Pt had episodes of hemoptysis on the floor, but not in the FICU. 
+This was likely [**12-19**] pneumonia. Pt's Hct stayed stable, and stool 
+was guaiac negative.
+.  
+4. Chest pain:
+Pt had episodes of fleeting, pleuritic chest pain on the floor, 
+with Trop 0.10, which was likely due to renal insufficiency. The 
+family and patient agreed not to have any intervention for any 
+possible cardiac issues.
+.  
+5. Acute renal failure:
+Pt's acute renal failure was likely due to a dye load with the 
+CT. Cr improved with fluids.
+.  
+6. HTN: 
+Pt was continued on Isordil and norvasc.
+.  
+7. CHF:
+Pt had evidence of CHF on CXR, with trace edema on the posterior 
+aspect of her legs.  She was continued on daily lasix prn.
+ 
+Medications on Admission:
+Acetaminophen  
+Aluminum Hydroxide Suspension  
+Albuterol 0.083% Neb Soln  
+Amlodipine  
+Bicitra  
+Calcium Carbonate  
+Cyanocobalamin  
+Fexofenadine  
+Fluticasone-Salmeterol (250/50)  
+Furosemide  
+Hydrocortisone Cream 1%  
+Hyoscyamine  
+Ipratropium Bromide Neb  
+Isosorbide Dinitrate  
+Pantoprazole  
+Prednisone  
+Simethicone  
+Sorbitol  
+
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+pneumonia
+non ST elevation myocardial infarction
+congestive heart failure, EF 15-20%
+COPD
+
+Secondary Diagnoses:
+Hypertension
+GERD
+
+ 
+Discharge Condition:
+expired
+
+ 
+Discharge Instructions:
+None.
+ 
+Followup Instructions:
+None
+
+ 
+                             [**Name6 (MD) 2621**] [**Last Name (NamePattern4) 2622**] MD [**MD Number 2623**]
+ 
+Completed by: [**First Name8 (NamePattern2) 942**] [**Last Name (NamePattern1) **] MD [**MD Number 943**] [**3496-2-9**] @ 1742
+Signed electronically by: DR. [**First Name (STitle) 2621**] [**Name (STitle) **]
+ on: SAT [**3496-11-28**] 8:23 PM
+(End of Report)
+
+
+",,
+8770,20030,,,3495-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3495-10-11**] 11:38 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10446**]
+     Reason: r/o pneumonia                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      [**Age over 90 **] year old woman with worsening sob x 2 days.  now with hypoxia and hemoptysis 
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     This is a portable upright chest dated [**3495-10-11**], with clinical
+     indication of worsening shortness of breath for 2 days.  Hemoptysis and
+     hypoxia.
+     
+     The cardiac silhouette is enlarged but is difficult to fully assess due to
+     obscuration of the right heart border.  Pulmonary vascularity is slightly
+     engorged and there is perihilar haziness. There are multifocal areas of
+     consolidation present in the lower lobes, right greater than left, and there
+     is a more confluent opacity in the right perihilar region.
+     Collapse/consolidation of right middle lobe is also noted. There are bilateral
+     pleural effusions, moderate on the right and small on the left.
+     
+     IMPRESSION:
+     
+     1.  Multilobar consolidation, which could reflect asymmetrical edema and/or
+     multilobar pneumonia. A postobstructive process in the right middle lobe
+     cannot be excluded. By report, the patient is scheduled to undergo CTA, which
+     will be helpful for more complete characterization of these findings.
+     2. Bilateral pleural effusions, right greater than left.
+     
+
+",,
+8770,20030,,,3495-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3495-10-11**] 3:39 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 10447**]
+     Reason: SOB
+     Admitting Diagnosis: CHEST PAIN
+      Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with CP rad to back, incr SOB, hemoptysis, question of mass 
+      on Xray                    
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrate,mass                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ANGIOGRAM OF THORAX.
+     
+     CLINICAL DETAILS:  Chest pain radiating to back, progressive dyspnea, and
+     hemoptysis.
+     
+     Comparison is made to previous chest radiograph.
+     
+     CT THORACIC ANGIOGRAM:
+     
+     No acute pulmonary embolus.  Central arterial pulmonary vasculature is
+     slightly dilated with the main pulmonary artery measuring up to 3.3 cm
+     transverse and the right main pulmonary artery measuring up to 2.9 cm
+     transverse in its mid portion.  These findings are suggestive of background
+     pulmonary hypertension, the heart size is mildly enlarged.  Three-vessel
+     coronary artery calcification noted on the un-enhanced CT.
+     
+     Small bibasilar pleural effusions.  Central airspace consolidation mainly in
+     the inferior right and left hilar regions.  Minor patchy areas of
+     consolidation in the right upper and left upper lobes and partial atelectasis
+     of the left lower lobe.  These appearances may be all or in part due to
+     congestive cardiac failure with associated consolidation in the setting of
+     cardiac failure. Concurrent element of infective consolidation should be
+     considered clinically.
+     
+     The trachea and main central airways are patent, no evidence of central
+      endobronchial or mass lesion on the current CT or mediastinal
+     lymphadenopathy.
+     Incidental note is made of a 1.2-cm ovoid hypodensity in the inferior portion
+     of the right thyroid lobe that may represent a colloid cyst or hypoattenuating
+     nodule.  This is unlikely to be clinically significant
+     
+     In the included portion of the upper abdomen, part of a fluid- attenuating
+     cyst towards the posterior superior left upper pole measuring at least 3 cm in
+     size with some thin marginal calcification along its posterior aspect.  This
+     is not fully included on preceding CT and could be correlated at some point
+     with ultrasound.  The adrenal glands appear normal.
+     
+     No bone lesions demonstrated.
+     
+                                                                 (Over)
+
+     DATE: [**3495-10-11**] 3:39 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 10447**]
+     Reason: SOB
+     Admitting Diagnosis: CHEST PAIN
+      Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CONCLUSION:
+     
+     1.  No parenchymal mass lesion or mediastinal lymphadenopathy.  No acute
+     pulmonary embolus.
+     
+     2.  Central bilateral consolidation mainly along the inferior hilar regions
+     with patchy areas of consolidation in the upper and lower lobes. Enlargement
+     of the central arterial pulmonary vasculature and mild cardiac enlargement
+     suggestive of background pulmonary hypertension.  Small bibasilar pleural
+     effusions.  These findings may all be due to cardiac failure with pulmonary
+     hypertension.  Infective consolidation should be also considered depending on
+     the current clinical correlation. Interval followup post-treatment initially
+     with chest x-ray is advised.
+     
+     
+
+",,
+8770,20030,,,3495-10-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3495-10-11**] 3:39 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 10447**]
+     Reason: SOB
+     Admitting Diagnosis: CHEST PAIN
+      Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with CP rad to back, incr SOB, hemoptysis, question of mass 
+      on Xray                    
+     REASON FOR THIS EXAMINATION:
+      please eval for infiltrate,mass                                                 
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT ANGIOGRAM OF THORAX.
+     
+     CLINICAL DETAILS:  Chest pain radiating to back, progressive dyspnea, and
+     hemoptysis.
+     
+     Comparison is made to previous chest radiograph.
+     
+     CT THORACIC ANGIOGRAM:
+     
+     No acute pulmonary embolus.  Central arterial pulmonary vasculature is
+     slightly dilated with the main pulmonary artery measuring up to 3.3 cm
+     transverse and the right main pulmonary artery measuring up to 2.9 cm
+     transverse in its mid portion.  These findings are suggestive of background
+     pulmonary hypertension, the heart size is mildly enlarged.  Three-vessel
+     coronary artery calcification noted on the un-enhanced CT.
+     
+     Small bibasilar pleural effusions.  Central airspace consolidation mainly in
+     the inferior right and left hilar regions.  Minor patchy areas of
+     consolidation in the right upper and left upper lobes and partial atelectasis
+     of the left lower lobe.  These appearances may be all or in part due to
+     congestive cardiac failure with associated consolidation in the setting of
+     cardiac failure. Concurrent element of infective consolidation should be
+     considered clinically.
+     
+     The trachea and main central airways are patent, no evidence of central
+      endobronchial or mass lesion on the current CT or mediastinal
+     lymphadenopathy.
+     Incidental note is made of a 1.2-cm ovoid hypodensity in the inferior portion
+     of the right thyroid lobe that may represent a colloid cyst or hypoattenuating
+     nodule.  This is unlikely to be clinically significant
+     
+     In the included portion of the upper abdomen, part of a fluid- attenuating
+     cyst towards the posterior superior left upper pole measuring at least 3 cm in
+     size with some thin marginal calcification along its posterior aspect.  This
+     is not fully included on preceding CT and could be correlated at some point
+     with ultrasound.  The adrenal glands appear normal.
+     
+     No bone lesions demonstrated.
+     
+                                                                 (Over)
+
+     DATE: [**3495-10-11**] 3:39 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 10447**]
+     Reason: SOB
+     Admitting Diagnosis: CHEST PAIN
+      Contrast: VISAPAQUE Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     CONCLUSION:
+     
+     1.  No parenchymal mass lesion or mediastinal lymphadenopathy.  No acute
+     pulmonary embolus.
+     
+     2.  Central bilateral consolidation mainly along the inferior hilar regions
+     with patchy areas of consolidation in the upper and lower lobes. Enlargement
+     of the central arterial pulmonary vasculature and mild cardiac enlargement
+     suggestive of background pulmonary hypertension.  Small bibasilar pleural
+     effusions.  These findings may all be due to cardiac failure with pulmonary
+     hypertension.  Infective consolidation should be also considered depending on
+     the current clinical correlation. Interval followup post-treatment initially
+     with chest x-ray is advised.
+     
+     
+
+",,
+8770,20030,,,3495-10-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3495-10-13**] 2:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10448**]
+     Reason: eval for increased tachypnea                                
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with pulm htn, presumed copd, chf admitted for pna now w/ 
+      increased tachypnea and oxygen requirements
+     REASON FOR THIS EXAMINATION:
+      eval for increased tachypnea                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL HISTORY:  Increasing tachypnea and oxygen requirement.
+     
+     CHEST:  Comparison is made with the prior chest x-ray of [**10-11**]. 
+     Multifocal areas of consolidation are present in both right and left lower
+     lobes.  The degree of infiltrate has increased in the right lobe with
+     involvement of the apical segment of the right lower lobe.  Bilateral pleural
+     effusions are present, which could indicate a degree of failure in addition to
+     the pneumonic consolidation.
+     
+     IMPRESSION:  Worsening pneumonia.
+                                                                           
+
+",,
+8770,20030,10907,0,3495-10-13 17:51:00 EST,3495-10-13 18:29:00 EST,228,"N",69,"Nursing/Other","Pmicu nursing and progress note","
+Pmicu nursing and progress note
+[**Age over 90 **] year old delightful, intact woman admitted to the micu from 11r after pt had developed resp distress throughout the night.  while on the floor, pt was receiving frequent albuterol, total of 30mg of lasix, some cpt--coughing up a small amt of ""brownish"" sputum.  pt also complained of some abdominal and back pain for which pt rec'd a small amt of morphine.  several attempts were made at placing a foley catheter, they all failed----pt unable to lay flat and eventually placement became to painful for pt.  a rectal bag was placed for incontinence of stool.  pt rec'd a dose of ceftaz and stool was sent for c-diff.  vital signs on the floor were bp 150/86, pulse 100 and resp rate 32-40.
+
+all:  nsaids and ace inhibitors
+
+pmh:  chronic diarrhea, post gastric bypass 35 years ago, b12 deficiency, lt kidney mass, cri, diverticulitis, s/p appendectomy, abdominal hyst, gout, and rheumatoid arthritis.
+
+systems review:
+
+resp:  presently on 100% nrb, which pt has been on most of the day, with o2 sats of  87-97%---difficult to obtain sats from fingers as they are cyanotic.  cxr shows central bil. consolidation  and bibasilar pleural effusions.  pt has a strong, usually non-productive cough, although once pt did cough up 2 small bropwnish/red plugs.  resp rate of 15-28.  at 6:30p pt changed to high flow neb.
+
+cardiac:  adm bp 96/41, pulse of 96 sr resp rate of 20 and temp of 95 po.  otherwise, bp during the day has been 103-130/44-66 with a pulse of 83-96 sr, with some pacs.  k+ this am was 5.0, mag 2, calcium 9.7.  at approx 10a pt complained of some abdominal pain for which she rec'd 1mg of morphine, then at 12:50p pt stood up from the chair and went to the commode, but developed chest pain---ekg taken and pt rec'd another 1mg of morphine with relief of chest pain.  some ekg changes----enzymes were sent:  cpk 181 mb 21% and troponin level .18.  
+Will start pt on low dose lopressor to try and get heart rate below 100.
+
+Id:  temps of 95 po, 95.5 po, 96.7 po.  sputum 2+ GNR 1+ gpc in pairs,
+urine growing proteus mirabilis, and blood cultures pending.  stool neg for c-diff.   
+
+gi:  abdomin soft, hypoactive bowel sounds.  rectal bag in place, barely has passed any stool.  passed large amounts of liquidy stool on the floor.  kept npo, except for a few ice chips
+
+GU:  no foley.  pt voiding--up to commode earlier in the day but developed chest pain.  now simply placing an open diaper under pt as she sits in the chair, where she has been most of the day. bun 55, creat 2.0.  
+
+ms:  alert and oriented.  very intact.  slightly hard of hearing.  
+
+access:  #22g on lower right forearm
+",,
+8770,20030,10907,0,3495-10-13 18:29:00 EST,3495-10-13 18:37:00 EST,102,"N",69,"Nursing/Other",,"
+
+resp care
+pt arrived from floor in acute resp distress, adm with multilobar pneumonia. increasing fio2 requirements on floor, ?mucous plugging. bs rhonchi/crackles t/out,bronchial at bases. occas expir wheezing heard with prolonged expir phase. received albuterol/atrovent nebs fairly frequently, albut changed to prn d/t elevated HR> but can give if wheezing. cough is of good strength,congested,expect x1 brownish/old bloody secretions. will follow. wob has slightly improved but lungs c/w diffuse crackles/rhonchi/wheezing.
+",,
+8770,20030,10907,,3495-10-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3495-10-14**] 5:55 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10449**]
+     Reason: evaluate for infiltrate                                     
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old woman with pulm htn, presumed copd, chf admitted for pna now w/  
+       increased tachypnea and oxygen requirements
+     REASON FOR THIS EXAMINATION:
+      evaluate for infiltrate                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  [**Age over 90 **]-year-old woman with COPD and pulmonary hypertension.  Pneumonia.
+     
+     IMPRESSION:  AP chest compared to [**10-11**] and 27.
+     
+     Borderline pulmonary edema has shifted in distribution but not in severity. 
+     Large region of consolidation in the right perihilar and lower lung is
+     unchanged and there is more consolidation at the left lung base consistent
+     with pneumonia and possibly superimposed atelectasis, respectively.  Moderate
+     to severe cardiomegaly is unchanged.  Thoracic aorta is calcified and tortuous
+     but not clearly aneurysmal.  Small bilateral pleural effusions are little
+     changed.  No pneumothorax.
+                                                                           
+
+",,
+8770,20030,10907,0,3495-10-14 01:10:00 EST,3495-10-14 02:12:00 EST,6328,"N",69,"Nursing/Other","Nursing Assessment Note 1900-0700","
+Nursing Assessment Note 1900-0700
+NEURO:  Pt is pleasant [**Age over 90 **] year old woman who also happens to be slightly hard of hearing, Pt moves all extremities well without deficit and can transfer to chair and commode with 1 assist and can ambulate with 2 assist, Pt is A&Ox2, knows who she is and the date, but as night went on she kept forgetting that she was in the hospital and asking me to take her out of the basement and to her room, as she is afraid of mice and rats, I explained that this was her room for the night and she was easily redirected and was ok with staying overnight
+
+CV:  Pt's vss, afebrile, pt c/o some slight chest pain which was associated with anxiety & activity and pt could changed intensity of pain with deep breathing, once pt was calm and breathing slow she denied pain, enzymes done at 2100 were flat and less than previous levels, pt has #22 in right lower arm, which is patent and intact, Skin is pale, warm, and dry, pp + & =, with +1 - +2 pitting edema, Pt in nsr without ectopy, 
+
+RESP:  Pt's lung sounds revealed coarse sounds in upper lobes and diminished in bases bilat, Pt has high-flow O2 @ 95% Fio2, with sats 93-98%, I have difficulty picking up sat as pt has slightly cyanotic fingers and has been tough to obtain consistant accurate sats, despite trying several different sat probes on different areas, Pt has congested rarely productive cough, but has coughed up 1 small thick brownish/greenish mucous plug, Pt needs to be watched as she does not like the mask at times and will pull it off her face for comfort, but pt reminded that she needs it for easier breathing, when pt anxious she can not lie flat and c/o sob, but if pt calm then she can [**Doctor Last Name 5**] alomst flat in bed without resp distress
+
+GI:  Pt tol po intake well without N/V, bowel sounds are positive, but hypoactive with soft flat abd, Pt had some loose stool earlier in the night, but has had none since
+
+GU:  Pt voids small amounts clear yellow urine & is olgiuric and has chronic renal failure
+",,
+8770,20030,10907,0,3495-10-14 16:21:00 EST,3495-10-14 16:30:00 EST,977,"N",69,"Nursing/Other","MICU NPN","
+MICU NPN
+NEURO: PT. VERY CONFUSED TODAY, UNABLE TO REORIENT.  TRIED TO CLIMB OOB NUMEROUS TIMES, WAS OOB TO CHAIR AND THEN TRIED TO GET OUT OF THAT TOO.  MED WITH ZYPREXA WITH POOR EFFECT, BELT POSEY ON AND BOTH WRISTS RESTRAINED, BUT PT. IS ABLE TO GET RESTRAINTS OFF.  REQUESTED A SITTER AT BEDSIDE FOR PT. SAFETY.  
+
+RESP: DESATS VERY [**Last Name (un) 1568**] IF MASK IS OFF FOR ANY PERIOD OF TIME, VERY SOB AT REST, PT IS A DNR/DNI. IN O2 VIA FACE TENT C/O THAT MASK WAS UN CONFORTABLE.
+
+CV: ENZYMES CAME BACK PT. RULED IN + FOR AN MI, CARDIAC ECHO WAS DONE TODAY AND CARDIOLOGY CONSULT, PT. IS NOT A CANDIDATE FOR CARDIAC CATH DUE TO PT'S AGE WILL PROBRABLY TREAT WITH MEDS.
+
+GI/GU: FOLEY INSERTED TODAY FOR MORE ACCURATE I/O'S.  TAKING IN HEART HEALTHY DIET.
+
+SOCIAL: FAMILY IN VISITING.
+
+PLAN: KEEP PT. SAFE, RESP. TX. AS NEEDED.
+
+
+",,
+8770,20030,10907,0,3495-10-14 18:32:00 EST,3495-10-14 18:34:00 EST,977,"N",69,"Nursing/Other","addendum","
+addendum
+PT. BECAME EXTREMELY COMBATIVE AROUND 1745, GOT OOB DISPITE SITTER AT BEDSIDE AND BEING RESTRAINED, RECEIVED AN ORDER FOR 1MG OF ATIVAN FROM INTERN, PT RECEIVED .5MG IV WITH VERY GOOD EFFECT, HAS BEEN SLEEPING EVERSINCE WITH SATS IN THE HIGH 90'S.
+",,
+8770,20030,10907,0,3495-10-14 20:09:00 EST,3495-10-14 20:14:00 EST,712,"N",69,"Nursing/Other",,"
+
+RESPIRATORY CARE: PT WEARING 5 LPM NASAL O2 AND 
+A 95 % HIGH FLOW AEROSOL. SPO2 94-96 % EXCEPT
+DURING PERIODS WHEN PT REMOVES HER O2 MASK.
+GIVEN ALBUTEROL AND ATROVENT SVN TX WITH SOME 
+SUB/OBJ RX TO TX. WILL FOLLOW.
+",,
+8770,20030,10907,,3495-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3495-10-15**] 5:55 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 10451**]
+     Reason: Eval for flash pulm edema                                   
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old woman with pulm htn, presumed copd, chf admitted for pna, COPD 
+      exacerbation, acutely desaturating to 70%
+     REASON FOR THIS EXAMINATION:
+      Eval for flash pulm edema                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute hypoxia.  History of pulmonary hypertension, presumed COPD,
+     and congestive heart failure.  Admitted for pneumonia.
+     
+     COMPARISON:  [**3495-10-15**] at 6:28 a.m.
+     
+     FINDINGS:  AP upright portable view of the chest.  There is interval
+     enlargement of the left pleural effusion.  Pulmonary edema appears unchanged.
+     The remainder of the study is likewise unchanged.
+     
+     IMPRESSION:
+     1.  Interval enlargement of left pleural effusion.
+     2.  Unchanged appearance of pulmonary edema.
+                                                                           DFDkq
+
+",,
+8770,20030,10907,,3495-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3495-10-15**] 5:55 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 10451**]
+     Reason: Eval for flash pulm edema                                   
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        [**Age over 90 **] year old woman with pulm htn, presumed copd, chf admitted for pna, COPD 
+      exacerbation, acutely desaturating to 70%
+     REASON FOR THIS EXAMINATION:
+      Eval for flash pulm edema                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Acute hypoxia.  History of pulmonary hypertension, presumed COPD,
+     and congestive heart failure.  Admitted for pneumonia.
+     
+     COMPARISON:  [**3495-10-15**] at 6:28 a.m.
+     
+     FINDINGS:  AP upright portable view of the chest.  There is interval
+     enlargement of the left pleural effusion.  Pulmonary edema appears unchanged.
+     The remainder of the study is likewise unchanged.
+     
+     IMPRESSION:
+     1.  Interval enlargement of left pleural effusion.
+     2.  Unchanged appearance of pulmonary edema.
+                                                                           DFDkq
+
+",,
+8770,20030,10907,,3495-10-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3495-10-15**] 5:46 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10450**]
+     Reason: Please evaluate PNA                                         
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       [**Age over 90 **] year old woman with pulm htn, presumed copd, chf admitted for pna           
+     REASON FOR THIS EXAMINATION:
+      Please evaluate PNA                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST, 6:28 A.M., [**10-15**]
+     
+     HISTORY:  Pulmonary hypertension, COPD and possible pneumonia.
+     
+     IMPRESSION:  AP chest compared to [**5-13**] and 28:
+     
+     Mild pulmonary edema has improved, while small bilateral pleural effusions
+     have increased, partially obscuring the severely enlarged heart. 
+     Opacification in the left lower lobe could be atelectasis or pneumonia.  There
+     is no pneumothorax.
+                                                                           
+
+",,
+8770,20030,10907,0,3495-10-15 02:11:00 EST,3495-10-15 02:24:00 EST,7212,"N",69,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+Neuro: Pt. recieved 0.5 mg of Ativan and remains sleeping at this time. Pt. arouses to stimuli but unable to determine orientation. Pt. able to move all extremeties.  Pt. remains on a [**11-17**] observation due to her mental status but cooperative. 
+
+Resp: LS clear and dim at bil bases. Pt. on 95% face neb with O2 sat 95-100%. Pt. did not have cough this shift. Pt. being treated for pneumonia with Fortaz, flagyl and Vanco per level.
+
+CV: VSS. HR 53-56 SB with no ectopy noted. BP 112-140/51-65. Positive for MI this admission by enzymes. Cardiology have seen Pt. on [**10-14**]. Pt. started on b-blocker and lipitor. B-blocker held at midninght per parameters. PP wea but palpable with no edema noted. K 4.9 down from 5.2 in AM on [**10-14**].
+
+GU/GI: Abd. soft non tender, BS+, no BM this shift. No PO intake this shift. Foley cath in place and draining at minimum 30 cc/hr. BUN 80 creat 2.4 last evening up from AM labs. Will be redrawn this AM. Pt. started on maintnance fluid D5 1/2NS @75 cc/hr. 
+
+Skin: Skin intact with 1 PIV WNL. 
+
+Social: Pt.' s HCP in to visit last evening and updated on Pt.'s condition. Pt. is a DNR/DNI. Cont. to support Pt. and family.
+
+
+",,
+8770,20030,10907,0,3495-10-15 05:27:00 EST,3495-10-15 05:28:00 EST,7212,"N",69,"Nursing/Other","addendum","
+addendum
+Neuro: Pt. more awake at 0300 wanting to go to bathroom. Pt. disoriented but pleasant and [**Last Name (un) **] reoriented and cooperative. 
+",,
+8770,20030,10907,0,3495-10-15 18:11:00 EST,3495-10-15 18:42:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 7:00-19:00","
+micu/sicu nsg note: 7:00-19:00
+this is a [**Age over 90 **] y.o. woman adm [**10-11**] from [**Hospital **] rehab initially with copd flare, pna, uti then developed resp distress transferred to micu on [**10-13**] on high flow o2. pt became very agitated and found to have +mi via cks and elevated troponin. troponin rising but cks trending down and pt with cri (baseline 1.8-2.0 with am cr 2.4). pt was given zyprexa last eve for agitation without effect and given ativan with good effect but made pt very sleepy. pt had an acute episode of sob with desat to 70s requiring inc. 02 and neb. ekg without changes. 
+
+neuro: sleepy this am and very pleasant, cooperative but only oriented to person. thought she was in the nsg home and wanted to get back to bed. pt was in bed while asking to get back to bed and frequently reoriented. continues on 1:1 sitters. pt asking when family to visit and when family called to say they would be in around 1:45pm pt becoming increasingly agitated asking for family. by 3pm pt very paranoid when attempted to give zyprexa stating she didn't trust the medicine was safe. niece arrived and was able to convince pt the medicine was safe and pt took dose and was calm until around 5:30pm. pt found taking 02 off with sat down to 70s. placed on 100% nrb and 6lnc and md notified. sats up to high 80s and then low 90s after a few minutes. pt stated having chest pain when asked. 12 lead ekg done with no acute changes [**Name8 (MD) 34**] md. pt given albuterol and atrovent neb and sats improved to the low 90s with 02 weaned to 2lnc on 100% nrb. cxr done and awaiting results. 
+
+cv: hr ranging 60s-70s sr with no ectopy note. sbp ranging 100s-140s/40s-60s. +pp, +csm, 1+ pedal edema. on [**Last Name (LF) **], [**First Name3 (LF) **], lipitor for ruling in for mi [**10-13**]. no heparin as pt had been having + hemoptysis. pt enc. to cough and deep breathe and able to cough up small amt brown colored sputum this eve.
+
+gi/gu: abd soft, nt, +bs, no bm, poor po intake, enc. po intake but pt mainly only taking good po intake with pills which she swallows fine. boost ordered but pt refusing. foley draining very poor amts out as low as 6cc/hr. 250cc ns bolus was given without change in u.o. one time small amt ? urine noted on sheet but foley baloon checked and added 5cc ns for total of 10cc ns in balloon with no further leaking with a little improved u.o. 
+
+skin: coccyx sl red with aloe vesta cream applied. mult bruised areas on ext from blood draws and ivs. 
+
+comfort: denies pain except when had chest pain with sob episode which resolved after sob resolved. 
+
+lines: rla piv was leaking and d'cd. new piv placed in rlp #20g and patent. ivf at kvo. 
+
+social: nephew and wife and pt's sister (her only living sibling) visited this pm and are up to date on plan of care and were visiting pt when pt had the pm sob incident. niece [**Doctor First Name **] also called for update.
+
+plan: monitor resp status closely with nebs prn. wean 02 as tolerated, f/u with cxr results, monitor u.o. and enc. po intake. cardiac meds as ordered. enc. to cough and deep breathe. continue 1:1 sitter, zyprexa for agitation pr
+",,
+8770,20030,10907,0,3495-10-15 18:12:00 EST,3495-10-15 18:42:00 EST,5192,"N",69,"Nursing/Other","micu/sicu nsg note: 7:00-19:00","
+micu/sicu nsg note: 7:00-19:00
+(Continued)
+n, avoid ativan if possible.
+",,
+8770,20030,10907,,3495-10-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3495-10-16**] 12:19 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10452**]
+     Reason: Eval for flash pulm edema                                   
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         [**Age over 90 **] year old woman with pulm htn, presumed copd, chf admitted for pna, COPD  
+      exacerbation, acutely desaturating to 85% on 100% facemask
+     REASON FOR THIS EXAMINATION:
+      Eval for flash pulm edema                                                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Pulmonary hypertension with presumed COPD, with CHF.  Now with
+     acute desaturation, evaluate for flash pulmonary edema.
+     
+     COMPARISON:  [**3495-10-15**].
+     
+     PORTABLE ERECT AP CHEST RADIOGRAPH:  There has been interval complete
+     opacification of the left hemithorax.  There is slight shift of the
+     mediastinum to the left, which may be positional.  This appearance is
+     concerning for interval mucous plugging of the bronchus, and/or collapse of
+     the left lung.  Additionally, there is a left pleural effusion on the prior
+     exam, and this may represent interval increase in the pleural effusion.
+     Additionally, within the right lung, there is increased interstitial markings
+     suggesting mild pulmonary edema, which is more prominent in comparison to the
+     prior study.  The remainder of the study is unchanged.
+     
+     IMPRESSION:
+     Interval complete opacification of the left hemithorax, which may reflect a
+     combination of left lung collapse with a left pleural effusion.  Additionally,
+     there is increased interstitial markings within the right lung, concerning for
+     worsening pulmonary edema.  Results were discussed with the covering team at
+     approximately 1:50 p.m. on [**3495-10-16**].
+     
+
+",,
+8770,20030,10907,0,3495-10-16 02:59:00 EST,3495-10-16 03:21:00 EST,7212,"N",69,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+Neuro: Pt. alert and disoriented at times. Thought she was in Filenes shoping for a skirt. Untrusting towards staff and refusing her meds. Pt. [**Last Name (un) **] redirected. 
+
+Resp: Pt. on 100% NRB and 2L NC at the begining of shift with O2 sat in low to mid 90's. At midnight Pt.'s O2 sat droped to low 80's with no acute distress. Pt. resting in bed not aggitated. NC increased to 6L but O2 sat only up to 86-87%. LS coarse and dim. CXR done and Pt. recieved 20 mg of IV Lasix. ABG pH 7.39 PaCo2 52 PaO2 58. Pt. became aggitated with staff in Pt.'s room and attemted to take O2 mask off. Resp. therapist attemted to start Pt. on BiPAP but she refused and was becoming more aggitated. NRB mask close to face with O2 sat 88-89% until family in. Pt. agreed to put NRB mask on per family request and O2 sat up to 96%. CXR showed worstening ? a mucous plug cause L lung field [**Last Name (un) 3186**] out per Xray. Chest Pt. done and O2 sat >90%. Productive cough tonight.
+
+CV: During O2 desaturation EKG was obtained with no acute changes. Pt. started on IV Heparin for MI on admission to Hospital. Pt. also started on Isordil last evening for worstening CHF. Pt. denies CP. K level 6.5 at midnight labs but hemolized sample and will be redrawn in AM. HR 69-74 NSR with no ectopy noted. BP 110-133/44-63.
+
+GU/GI: Foley cath draining fair amount of urine as little as 30cc/hr. BUN 71 creat 2.0 and improving. IVF at KVO. Abd. soft non tender, BS+. Small amount of stool this shift on pad. 
+
+ID. Pt. afebrale. WBC 9.8. Pt. cont. on IV abx. and IV steroids as well as resp. treatments. 
+
+Social: Pt.'s HCP nephew [**Name (NI) **] and Pt.'s sister called in during Pt.'s episode of desat. Family able to calm Pt. and cooperate with treatment. Pt. is a DNR/DNI.
+",,
+8770,20030,10907,0,3495-10-16 04:56:00 EST,3495-10-16 05:01:00 EST,1504,"N",69,"Nursing/Other",,"
+
+Resp Care note.
+
+This [**Age over 90 **] YO woman who reportedly is sometimes confused, had a difficult night , experiancing tachypnea and severe hypoxemia. She was ordered for NIV but became rather verbally combative in resisting this as well as oxygen @ times. SHe seemed lucid and appropriate when she stated she knew refusal might mean she would not continue to live. Howver, when family arrived she was much calmer and accepted intervention. Currently pt is on NRM, NIV standby
+",,
+8770,20030,10907,0,3495-10-16 18:45:00 EST,3495-10-16 19:00:00 EST,228,"N",69,"Nursing/Other","Pmicu nursing progress note","
+Pmicu nursing progress note
+cardiac: pt is a dnr/dni. bp 98-133/45-65 with a pulse of 52-64 sb/sr, with some pacs. K+ this am was 4.5.  held the evening dose of lopressor as the heart rate was only 58.  heparin drip is infusing at 400u/hr---ptt releated at 1p and was 59--no change in the infusion rate of the heparin.  no complaint of chest pain today. cardiac echo on [**10-14**].  
+
+resp:  presently on 100% cool neb, and tolerating the cn, with resp rate of 11-28, and o2 sats of 91-93%.  pt had been on nrb--very drying.   pt has had cpt a couple of times today--interm a productive cough of thick reddish/brown sputum, but no large plugs.  lung sounds deminished, clear in the rul.  
+
+id:  afebrile.  vanco trough level of 14.9.  pt receiving vanco one dose.  wbc was 9.8.  pt has a proteus uti and a pneumonia.  
+
+gi:  abdomin soft, passing soft brown stool when pt coughs.  pt has a poor liquid/solid intact, even with much encouragement.  
+
+gu:  foley in place.  urine output is approx 15-40cc/hr.  bun 78 creat 2.
+
+neuro:  pt was alert and oriented all day---no episodes of confusion.  
+",,
+8770,20030,10907,,3495-10-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3495-10-17**] 6:03 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10453**]
+     Reason: evaluate for interval change                                
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          [**Age over 90 **] year old woman with pulm htn, presumed copd, chf admitted for pna, COPD  
+       exacerbation.  Had acutely decompensated overnight [**10-16**], with whiteout of L 
+      hemithorax on CXR, now more stable.
+     REASON FOR THIS EXAMINATION:
+      evaluate for interval change                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     AP CHEST 6:04 A.M. [**10-17**].
+     
+     HISTORY:  Pulmonary hypertension, CHF and COPD.
+     
+     COMPARISON:  AP chest compared to [**10-15**] and 30.
+     
+     Left upper lobe has reexpanded.  There is still atelectasis in the base of the
+     left lower lobe, but superior segment has reexpanded.  Small bilateral pleural
+     effusion has improved compared to [**10-15**].  Moderate cardiomegaly
+     unchanged.
+                                                                           
+
+",,
+8770,20030,10907,0,3495-10-17 04:17:00 EST,3495-10-17 04:32:00 EST,1073,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700
+
+NEURO: AXOX3, 1:1 SITTER @ BEDSIDE .NO ""SUNDOWNING"" NOTED.
+
+RESP:LUNGS VERY DIM, CLEAR ON R APEX.NON PRODUCTIVE COUGH. STARTED TO DESAT  DOWN INTO 80'S ON NON REBREATHER, ADDED 3L NC.WAS ABLE TO MAINTAIN SAT OF 90-92% FOR A WHILE. ORAL MUCOUSA WAS VERY DRY, SWITCHED TO 100% HI FLOW NEB W/ 3L NC. BEGAN TO DESAT AFTER A FEW HOURS AND PUT BACK ON NRB. PT RECIEVED NEB TX, AND CHEST  PT TO MOBILIZE SECRETIONS.
+
+C/V: PT W/ EF OF 20% ,SB W/ APC'S. BP 100'S -120'S.ON HEPRIN @ 400 UNITS/HR. AM PTT PENDING.
+
+F/E/N:NEG FLUID STATUS,  POOR PO INTAKE, AM LABS PENDING.
+
+PLAN: CONT TO MONIOTR RESP STATUS, AB TX, CONT HEPRIN AS PER PTT.RE EVAL NEED OFR 1:1.
+
+
+",,
+8770,20030,10907,0,3495-10-17 05:53:00 EST,3495-10-17 05:58:00 EST,1504,"N",69,"Nursing/Other",,"
+
+resp care note
+
+Oxygenation continues to be problem for this [**Age over 90 **] YO woman who has been on NRM and NC all night. Pt also got one ALB/ATV RX by neb in attempt to improve SpO2. However, pt had no significant wheezing during ahift, BS are very diminished.
+",,
+8770,20030,10907,0,3495-10-17 17:32:00 EST,3495-10-17 17:42:00 EST,977,"N",69,"Nursing/Other","MICU NPN","
+MICU NPN
+NEURO: MUCH MORE ALERT TODAY, NO SITTER OR RESTRAINTS NEEDED.
+
+RESP: CONTINUES TO NEED BOTH NON-REBREATHER MASK AND NASAL CANNULA CONSTANTLY, UNABLE TO COME OUT OF MASK FOR ANY PERIOD OF TIME SATS DROP IMMED. TO LOW 80'S.  CHEST PT DONE.
+
+CV: HR AND BP STABLE SEE CAREVUE FOR DETAILS.
+
+GI: UNBALE TO EAT ANYTHING DUE TO MASK HAS TO BE OFF AND SATS DROP TO LOW 80'S AND PT. BECOMES TACHYPNEIC.
+
+GU: FOLEY IN PLACE DRAINING CLEAR YELLOW URINE.
+
+SOCIAL: TEAM MET WITH PT'S SISTER TODAY TO TALK ABOUT ? POST PYLORIC TUBE DUE TO PT'S INABILITY TO EAT, INSTEAD FAMILY WANTS TO SEE HOW PT'S CONDITION IS IN THE NEXT COUPLE OF DAYS, IV FLUIDS ARE RUNNING AT 75CC/HR.
+",,
+8770,20030,10907,,3495-10-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3495-10-18**] 5:18 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10454**]
+     Reason: Eval for L lung mucus plugging, had whiteout of L lung due t
+     Admitting Diagnosis: CHEST PAIN
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+           [**Age over 90 **] year old woman with pulm htn, presumed copd, chf admitted for pna, COPD 
+         exacerbation.  Had acutely decompensated overnight [**10-16**], with whiteout of L 
+       hemithorax on CXR, now more stable.
+     REASON FOR THIS EXAMINATION:
+      Eval for L lung mucus plugging, had whiteout of L lung due to collapse          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History pulmonary hypertension, COPD, congestive heart failure,
+     with pneumonia and COPD exacerbation.
+     
+     CHEST X-RAY, PORTABLE AP:  Patient is slightly rotated limiting evaluation.
+     Layering pleural effusions are present.  Allowing for differences in
+     positioning, the right effusion is likely unchanged, but the left effusion
+     appears increased.  There is stable moderate cardiomegaly.  The pulmonary
+     vasculature is normal.  Bilateral lower lobe atelectasis is present.
+     
+     IMPRESSION:
+     
+     Increased size of left pleural effusion.
+
+",,
+8770,20030,10907,0,3495-10-18 04:31:00 EST,3495-10-18 04:44:00 EST,1073,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700
+
+NEURO:AXOX3, PERIODS OF ANXIETY""I DON'T WANT TO BE LEFT ALONE""
+ZYPREXA X1 W/ GOOD EFFECT.
+
+RESP: CONT TO BE ON 100% HI FLOW NEB, W/ 3 L NC. TOL CHEST PT TO MOBILIZE SECRETIONS. EXPECTORATED THICK DARK TAN SECRETIONS.DESATS VERY QUICKLY W/O MASK.
+
+C/V: SB-SR NO ECTOPY. BP STABLE. 
+
+F/E/N:CONT ON MAINT FLUIDS,UO 50-100CC/HR NO STOOL OVERNOC. POOR PO INTAKE.FAMILY SPOKE W/ HO THIS EVE RE NGT. NEPHEW SAID HE HAS TO DISCUSS IT W/ HIS MOTHER (WHO IS HCP).
+
+PLAN; CONT PULM TOILETING, AB TX, ZYPREXA FOR ANXIETY, SUPPORT OFR FAMILY.
+",,
+8770,20030,10907,0,3495-10-18 18:21:00 EST,3495-10-18 18:28:00 EST,977,"N",69,"Nursing/Other","MICU NPN","
+MICU NPN
+NEURO: ALERT AND ORIENTATED X2-3, EASILY REORIENTATED. MUCH MORE COOPERATIVE.
+
+CV: HR/BP STABLE SEE CAREVUE FOR NUMBERS.
+
+RESP: CONTINUES TO NEED HIGH O2 REQUIREMENTS, TRIED SHOVEL MASK PT. TOLERATED THIS FOR APPROX. 3HRS THEN DESATED TO LOW 80'S. BACK NOW IN NON-REBREATHER MASK AND NASAL CANNULA.  CXR LOOKS BETTER TODAY, EXPECTORATED HUGE MUCOUS PLUG THIS AM, WAS SENT TO LAB.
+
+GI: CONTINUES TO HAVE DIFF. EATING DUE TO BECOMING SOB.  STARTED PPN THIS EVENING ALTHOUGH PT. ONLY HAS ONE PIV FOR NOW SO TEAM IS AWARE AND IS OK IF PPN IS INTERUPPYED FOR IV ABX. TO BE GIVEN.
+
+GU: FOLEY IN PLACE DRAINING CLEAR YELLOW URINE. 
+
+ACCESS: BOTH IV'S IN RIGHT ARM INFILTRATED AND CAUSED SWELLING OF THAT ARM, RIGHT ARM IS NOW WEEPING AND SOFTSORB WAS APPLIED.  ? PICC LINE EVALUATION SO PT. CAN CONTINUE TO RECEIVE IV ABX. AND BE ABLE TO HAVE LABS DRAWN.
+
+PLAN: CONTIUE PRESENT PLAN OF CARE. PT IS A DNR/DNI.
+",,
+8770,20030,10907,0,3495-10-18 23:55:00 EST,3495-10-18 23:59:00 EST,6182,"N",69,"Nursing/Other","nursing progress notes","
+nursing progress notes
+pt's daughter from [**Country **] arrived. [**Doctor First Name 6154**] HCP stated she was ready to make pt cmo and to ""pull the tube""  Ms gtt ordered and started w/ bolus of 5mg iv before removing the ett. levophed and vasopressin shut off. ett removed. [**Doctor First Name 6154**] sat w/ pt until pt expired. ms [**First Name (Titles) **] [**Last Name (Titles) 4725**] for comfort. pt expired at 2155. emotional support given to [**Doctor First Name 6154**] micu team and this rn spoke w/ pt's daughter before during and after expiration of pt. [**Doctor First Name 6154**] wishes to have an autopsy. micu team to look further into that and will call [**Doctor First Name **] if it can be done. 
+",,
+8770,20030,10907,0,3495-10-19 04:56:00 EST,3495-10-19 05:54:00 EST,6182,"N",69,"Nursing/Other","Nursing progress note 1900-0700","
+Nursing progress note 1900-0700
+Neuro: pt alert and oriented x [**12-20**] easily reoriented. pt very hoh. hears better in right ear than left. afebrile. mae follows commands. has strong cough. Zyprexa 5mg sl given for request to [**Doctor Last Name 5**]. pt was alot calmer after zyprexa and slept off and on throughout night comfortablely.
+
+Resp: pt on 5l nc and 100% nrb. rr 28-44 sats 98% begin. of shift w/ resp distress where pt had to sit up and lean forward to the right to feel comfortable. After Zyprex given pt was less sob looked comfortable rr30 sat 84-88% when sleeping. pt coughing up drk brown thick secretions. chest pt done x2 so far this shift. Pcxr [**10-18**]: no change in right effusion and increased left side effusion bilat  atlectasis. 
+
+CV: pt hrt rate 55-80s sb-sr w/ occasional pvc and pacs. bp 99-150s/60s Echo [**10-14**]: ef 15-20% left ventric. hypokinesis.+1 mr and mod. AS. labs ordered for the am not drawn d/t no access and pt now cmo. pt has 1 #22 piv from [**10-18**] iv team. 
+
+GI: pt is npo and will aspirate her meds even if they are crused. She is not to take thin or thick liquids d/t aspiration. micu resident aware. pt on PPN via piv. PPN can be put on hold per team to give antibx. abd soft. bs+ pt has rectal bag that has produced very minimal brown liquid stool. 
+
+gu: foley cath draining 15-50cc/hr
+
+skin: pt has edematous arms. Left arm has 2 small skin tears and a old iv site that are weeping serous fluid. Soft sorb applied. 
+
+id: pt on vanco qd dosed. vanco level [**10-18**] 17.7,she is also on  Ceftazadime. urine c/s [**10-11**] Proteus Mirabilis. bc  neg [**10-11**]. Cdiff neg [**10-13**]. Sputum c/s [**10-18**] pending. 
+
+social: Pt hcp is her sister [**Name (NI) **] and nephew [**Name (NI) **]. [**Name2 (NI) **] has talked w/ this rn and micu intern in depth about what the pt wants and what he wants. he would like to make pt comfortable, the pt agreed. [**Doctor Last Name 360**] called the rest of his family to give update and ?CMo. Everyone agrees. pt to be CMO, still awaiting micu team to write order. If pt was to become sob and in resp distress ms boluses and gtt to be used to keep her comfortable and nephew [**Name (NI) **] to be called to be at pt's side. 
+
+Plan:
+pt cmo please start ms bolus and ms gtt if she becomes sob and in resp distress
+
+? picc line to give iv antibx in nursing home and to start tpn. 
+
+keep pt comfortable 
+
+change po meds to iv d/t pt aspirates. 
+",,
+8770,20030,10907,0,3495-10-19 18:29:00 EST,3495-10-19 18:48:00 EST,228,"N",69,"Nursing/Other","Pmicu nursing progress note","
+Pmicu nursing progress note
+resp:  pt is a dni/dnr.  presently pt is receiving 7L nasal prongs and 100% via face tent.  pt removed the nrb and refused to have it placed back on.  on this o2 pt's o2 sats are 83-97%.  room air sats are 50%.  resp rates of 12-28.  lung sounds of rhonchi/coarse in the upper lobes and deminished in the lower lobes.  cpt a couple of times today---pt coughed up a couple of bloody plugs of sputum.  good strong cough, very rarely productive.  at approx 1P pt began to have labored breathing, elevated resp rate, became very ""[**Last Name (un) **]"" in bed and anxious, slightly confused---given .5mg of morphine and 60 mg of lasix iv.  pt appeared uncomfortable until approx 4p, when the breathing became less labored and less confused-- pt able to converse and partipicate in conversation. ? whether these episodes may be pulmonary edema. intermittently pt will take off mask and will need to be reminded to put the mask back on.  
+
+cardiac:  bp 119-152/46-68 with a pulse of 56 sb-74 sr, no ectopy noted.  labs not drawn this am. at 11a, pt rec'd 20mg of lasix iv, with little response and at 1:45p pt rec'd another 60mg of lasix with fair response--total for the 12hrs was approx 700cc.  pt also had a nitro patch placed--.3mg/hr. pt is more noticeably hard of hearing today. weak pedal pulses
+
+id:  temp of 96 ax, 95 ax and 95.8 ax.  pneumonia and proteus uti---being treated with flagyl and ceftaz.  stool was neg for c-diff on [**10-13**] and blood cultures dated [**10-11**] had no growth.
+
+gi:  abdomin soft, hypoactive bowel sounds.  ppn was infusing at 42cc/hr--none ordered for today.  rectal bag in place and pt passing small amts of liquidy brown stool.  most of the po meds were dc'd.  given infrequent ice chips.
+
+gu:  foley cath in place.  urine output prior to the lasix was approx 15-20cc/hr.  better response initially after the 60mg of lasix, but now again 15-30cc/hr.  on [**10-18**] bun was 67 and creat 2.0.
+
+access:  new #22g iv placed by iv in right lower forearm.  
+
+neuro/ms:  slightly more confused today, especially with labored breathing and hypoxia.  
+
+skin:  ""friable"" skin----aquaphor placed over a skin tear noted on right upper forearm and covered with abd dsg.  on left arm areas of arm are very ecchymotic and slightly swollen.  
+
+",,
+8770,20030,10907,0,3495-10-20 03:27:00 EST,3495-10-20 03:41:00 EST,1238,"N",69,"Nursing/Other","NUrsing Note","
+NUrsing Note
+Overall uneventful noc. Given several doses of IV morphine for restlessness. Nephew and many other family members in to visit to ""start saying goodbye"". This RN discussed goals of care many times w/ MICU team regarding goals and plan of care. 
+
+ROS/PE: 
+
+CV: NSR, HR 50-70's, occasional PAC. Normotensive. 
+
+RESP: LS coarse, crackles in bases. weak nonproductive cough. remains on 7L NC and 100% open face tent, frequently pulls off face tent. Noted to transiently desaturate into the 60-70% at couple of time. 
+
+NEURO: fluctuating levels of orientation. slept intermittently. restless in the bed a times. fair response to IVP morphine, notable breathing easier and resting more confortably.
+
+GI/GU: taking sips/ chips, toerhwise NPO. foley w/ 15-40cc/hr out. no furtehr diuresis. mucous membranes dry. 
+
+SKIN: skin tear to R arm covered w/ DSD. perineum erythemic, cleaned & cream applied. 
+
+SOCIAL: family wanting pts to be kept comfortable. also wanting to return back to NH. 
+
+PLAN: need to again clarify goals of care in this [**Age over 90 **] y/o woman, who appears end of life and clearly states that she does not want aggressive care, just wants to be comfortable and go back to her nursing home. MICU team discussing PICC placement and continued IV abx/ peripheral nutrition. ordered for morning labs. This RN discussed conflict of interest w/ MICU intern, pt understandably not wanting to be stuck for blood. likely c/o to floor today vs return to NH. DNR/DNI. 
+",,
+8770,20030,10907,0,3495-10-20 17:33:00 EST,3495-10-20 17:44:00 EST,228,"N",69,"Nursing/Other","Pmicu nursing progress note","
+Pmicu nursing progress note
+cardiac:  bp 96-128/42-68 with a pulse of 54-82 sb/sr, no ectopy noted.  Held the 8a dose of lopressor as hesart rate was only 58, but given at 6p as heart rate was 74 sr and bp was 111/46.  iv of d5 1/2 ns with 20 meq of kcl infusing at 75cc/hr.  no labs drawn today.
+
+resp:  presently on 100% face tent and 7L nasal prongs with resp rate of 5-23 .  sats have varied because there are times when pt removes either the nasal prongs or the face tent.  sats 73% to 96%.  room air sats are 50%. intermittent strong cough---a couple of times pt has coughed up large blood tinged plugs. hydrocortisone changed to solumedrol.  pneumonia and pleural effusions. pt has had some episodes of sob and will sit bolt upright in bed gasping for air.
+
+id:  temps of 95.6 ax, 95 ax, and 95.6 ax.  on flagyl and ceftaz.  vanco was dc'd.  proteus uti and pneumonia
+
+gi:  abdomin soft, + bowel sounds, rectal bag removed---no stool passed today.  no ppn, but maintenance fluid.
+
+gu:  foley in place.  urine output approx 10-15cc/hr.  
+
+access:  #22g in lower right arm
+
+neuro:  being made comfortable with morphine prn.  pt has been slightly confused throughout the day, although not combative.  
+",,
+8770,,10907,0,3495-10-21 04:49:00 EST,3495-10-21 05:18:00 EST,760,"N",69,"Nursing/Other","Micu nsg progress note","
+Micu nsg progress note
+Pt initially alert and orientedx1 c/o being uncomfortable and anxious moving continuously about in bed sitting bolt upright. On mso4 at 1mg increased to 2mg without much effect. Given several boluses and gtt increased to 4mg/hr. Pt eventually falling asleep. Thoughout night becoming less responsive with decreasing bp/hr. Sats high 80's on 100% face tent and 7lnc. By am pt essentually unresponsive with bp 55s. Pt's nephew [**Name (NI) 360**] notified of pt's deteriorating condition. Will be in at some time this am.
+Plan- Cont with comfort care. Emotional support of family.
+",,
+8770,,10907,0,3495-10-21 09:37:00 EST,3495-10-21 09:39:00 EST,228,"N",69,"Nursing/Other","Pmicu nursing progress note","
+Pmicu nursing progress note
+pt passed away, at 8:50a, with nephew, [**Doctor Last Name **], and pt's sister, [**Doctor First Name **] at the bedside.  no autopsy to be done.  
+",,

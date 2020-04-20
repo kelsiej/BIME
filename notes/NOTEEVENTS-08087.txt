@@ -1,0 +1,232 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8087,1517,,,3484-08-29 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3484-8-29**]     Discharge Date:  [**3484-9-1**]
+
+Date of Birth:   [**3409-1-11**]     Sex:  M
+
+Service:  CCU/MEDICINE
+
+HISTORY OF PRESENT ILLNESS:  This is a 75 year-old male with
+a history of diabetes, coronary artery disease.  He is status
+post a silent myocardial infarction and also has a history of
+chronic obstructive pulmonary disease (he has 100 pack year
+of smoking tobacco and is still smoking).  He also has a
+history of hypercholesterolemia, hypertension.  He also has a
+history of lower gastrointestinal bleed and anemia.  The
+patient presented to the [**Hospital 1922**] Hospital on [**3484-8-29**]
+with shortness of breath and diaphoresis.  He was found to
+have an ST segment elevation myocardial infarction and
+congestive heart failure at the [**Hospital1 1922**] and was transferred
+to the [**Hospital1 75**] for cardiac
+catheterization.  In the catheterization laboratory revealed
+three vessel disease, 100% left anterior descending coronary
+artery and right coronary artery, short left main carotid
+artery without any lesions, and an 80% left circumflex artery
+and an 80% OMI.  There were no interventions done during the
+catheterization.  Many collaterals were noted at the time.
+CT Surgery was consulted in the catheterization laboratory
+during the procedure for a potential coronary artery bypass
+graft.  The patient's catheterization was uncomplicated and
+he was scheduled to undergo coronary artery bypass graft on
+Monday [**3484-9-1**].
+
+In preparation preoperatively he had an echocardiogram, which
+showed an ejection fraction of 15 to 20% and apical inferior
+and basal akinesis.  This was in contrast to his
+transthoracic echocardiogram study in [**3483-4-27**] that
+showed an ejection fraction of 50%, mild hypokinesis of the
+inferobasal wall.  The patient was also noted post
+catheterization to have a mild groin hematoma.  Further
+preoperative evaluation included diuresis with Lasix as well
+as carotid doppler ultrasound studies, which demonstrated 60%
+occlusion in the left carotid artery and essentially clean
+right carotid artery.  The patient was stable throughout his
+course of his hospitalization until the morning of [**3484-9-1**] when the house staff was called for an expanding
+hematoma of the right groin.  Initially his vital signs were
+stable.  Repeat hematocrit showed that this was stable since
+the prior study four hours earlier.
+
+Over the next couple of minutes the patient's blood pressure
+was noticed to drop from the systolic high 110s to 80/40.
+The patient was given wide open fluids and a code was called
+and eventually Dopamine was started.  The patient's blood
+pressure responded to this intervention.  During the code a
+unit of packed red blood cells was ordered and begun to
+transfuse.  Shortly after this time the patient was noted to
+seize briefly and then go into ventricular fibrillation
+rhythm.  The patient was shocked repeatedly for ventricular
+fibrillation.  He subsequently went in and out of asystole
+alternating with ventricular fibrillation.  The patient had
+over the course of the one hour code received multiple
+shocks, calcium carbonate, bicarbonate, magnesium, amiodarone
+as well as atropine.  None of these measures were sufficient
+to sustain life and the patient expired at approximately 1:05
+p.m. on [**3484-9-1**].  The family, which included his two
+sisters [**Name (NI) **] and [**First Name8 (NamePattern2) 6786**] [**Known patient lastname 11147**] were notified in a timely
+fashion and they refused the postmortem examination.
+
+
+
+
+
+
+                          [**Name6 (MD) **] [**Name8 (MD) **], MD  [**MD Number 4733**]
+
+Dictated By:[**Doctor Last Name 11148**]
+
+MEDQUIST36
+
+D:  [**3484-9-1**]  15:28
+T:  [**3484-9-4**]  13:33
+JOB#:  [**Job Number 11149**]
+Signed electronically by: DR. [**First Name (STitle) **] DOW
+ on: TUE [**3484-9-30**] 8:49 AM
+(End of Report)
+
+
+",,
+8087,1517,,,3484-08-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-8-29**] 3:24 PM
+     CAROTID SERIES COMPLETE                                         Clip # [**Clip Number (Radiology) 4772**]
+     Reason: S/P LEFT CEA, PREOP CABG
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man s/p MI, awaiting CABG. this is a pre-ep carotid study.          
+     REASON FOR THIS EXAMINATION:
+      eval for stenosis                                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Patient s/p left carotid endarterectomy with known stenosis.
+     Perform follow up evaluation patient is preop for heart surgery.
+     
+     FINDINGS: Duplex evaluation was performed of both carotid arteries. ___ plaque
+     was identified on the right.
+     
+     On the right, peak systolic velocities are 174, 68, 100 in the ICA, CCA, ECA
+     respectively. ICA to CCA ratio is 2.6. This is consistent with a 60-69%
+     stenosis.
+     
+     On the left, peak systolic velocities are 65, 56, 113 in the ICA, CCA, ECA
+     respectively. ICA to CCA ratio is 1.16. This is consistent with no stenosis.
+     
+     There is antegrade flow in both vertebral arteries.
+     
+     IMPRESSION: Significant right sided plaque with a 60-69% carotid stenosis. On
+     the left, there is no evidence of stenosis s/p endarterectomy.
+
+",,
+8087,1517,,,3484-08-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-8-29**] 3:00 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4771**]
+     Reason: eval for CHF                                                
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      75 year old man s/p STEMI/acute chf awaiting CABG                               
+     REASON FOR THIS EXAMINATION:
+      eval for CHF                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     INDICATION: Myocardial infarction. Evaluate for congestive heart failure.
+     
+     The examination is limited due to exclusion of a portion of the right lung
+     base laterally from the study.
+     
+     The heart is upper limits of normal in size for technique. The aorta is
+     tortuous the pulmonary vascularity appears engorged and indistinct. There is
+     bilateral perihilar haziness. Note is made of bilateral calcified pleural
+     plaques along the diaphragmatic surfaces. A few additional plaques are seen in
+     the left upper and mid hemithorax as well. No pleural effusion is evident but
+     the right costophrenic angle has been excluded and cannot be assessed.
+     
+     IMPRESSION: 1) Congestive heart failure pattern with vascular engorgement and
+     perihilar haziness.
+     
+     2) Calcified pleural plaques bilaterally, in keeping with prior asbestos
+     exposure.
+     
+     3) Incomplete imaging of the chest with exclusion of the lateral portion of
+     part of the right lung. Repeat radiograph to include this region is suggested.
+
+",,
+8087,1517,10067,0,3484-08-29 16:42:00 EST,3484-08-29 17:11:00 EST,-1,"N",1,"Nursing/Other",,"
+
+CCU Progress Note:
+
+O- see flowsheet for all objective data.
+
+cv- Tele: SR no ectopy- HR 75-83 B/P 103/62- 118/60-  R groin  hematoma marked- feet = cool to touch- (-) DP pulse on R (+) PT-
+Pulses (+) by doppler L- HCT 39.1 K 4.4 Mg 2 PT 14.4 PTT 27.2
+Cardiac cath today revealed 3 V disease- CT consulted ? CABG this admission.
+
+resp- In O2 3l via NC- lung sounds with I&E wheezes bilaterally- SaO2 94-97%- no resp distress- comfortable lying flat- started on inhalors & neb Rx.
+
+gi- abd soft non-tender (+) bowel sounds- liver enzymes elevated- ? ETOH use- Ativan ordered PRN if Pt becomes irritable & tachycardic.
+
+gu- foley draining clear yellow colored urine qs- BUN 26 CREA 1.7
+hydrating IV D5.45S @ 80cc/hr X 800cc infusing via R peripheral IV (antecub).
+
+id- WBC 15.6 afebrile.
+
+IV access- 2 peripheral saline locks on L- 1 peripheral IV R antecub with hydrating IV infusing.
+
+neuro- A&O x3- moving all extremities- PERL- follows command- very talkative.
+
+A- AMI S/P cardiac cath with severe 3 vessel disease.
+
+P- monitor vs, lung sounds, I&O, and labs- check R groin hematoma & report any changes-observe for S/S of withdrawal (Pt smokes 2 pkg/day X 50 yrs & ? ETOH use)- Ativan PRN- offer emotional support to Pt & family. 
+",,
+8087,1517,10067,0,3484-08-30 04:43:00 EST,3484-08-30 05:06:00 EST,284,"N",1,"Nursing/Other","s/p mi  S/P CARDIAC CATH 3VD","
+s/p mi  S/P CARDIAC CATH 3VD
+S:  "" WILL THEY TAKE A VEIN FROM MY LEG FOR THE SURGERY?""
+
+O:  NEURO:  PT. AWAKE AND ALERT, TALKATIVE AND PLEASANT.  IN GOOD SPIRITS.  CONCERNED ABOUT SISTER.  ( HE IS PRIMARY CAREGIVER).  MOVING ALL EXTREMITIES.  
+
+CV:  HR 68-74 SR.  SHORT RUN OF A FLUTTER, REGULAR. HO NOTIFIED.  TOL. LOPRESSOR WELL.  CAPTOPRIL HELD SBP < 100.  DENIES CP WHEN ASKED.  RIGHT GROIN CLEAN AND DRY,  SMALL HEMATOMA NOTED.  AREA OUTLINED, NO EXTENSION.  DOPPLERABLE PULSES DP/PT BILATERALLY.  LOWER EXTREMITIES WARM.  HEPARIN RESTARTED AT 900 U/HR AT 0200.  NO BOLUS.  WILL CHECK PTT AT 0800.
+
+RESP:  O2 2L VIA NC.  O2 SAT 96%.  I/E WHEEZES NOTED THROUGHOUT LUNG FIELDS.  FLOVENT MDI GIVEN.  ATROVENT NEBS BY RESP. THERAPY.  DENIES SOB.  
+
+GI:  REMAINS NPO ALTHOUGH GIVEN SMALL SIPS OF WATER.  ACTIVE BOWEL SOUNDS, PASSING GAS.  ABD SOFT, DISTENDED.  
+
+GU:  URINE OUTPUT 30-40 CC/HR.  CR 1.7-1.9.  HO AWARE.  
+
+SKIN:  EXCORIATED LEFT GROIN.  REDENED AND OPEN.  MICONAZOLE POWDER APPLIED.  
+
+STABLE NOC.  CONT. TO AWAIT CABG.    
+",,
+8087,1517,,,3484-08-31 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3484-8-31**] 9:46 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 4773**]
+     Reason: please evaluate for effusion/PTX/pulm edema                 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       75 year old man s/p STEMI/acute chf awaiting CABG                              
+       
+     REASON FOR THIS EXAMINATION:
+      please evaluate for effusion/PTX/pulm edema                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, SINGLE AP FILM.
+     
+     HISTORY: Coronary artery disease.  Preop CABG.
+     
+     Allowing for low lung volumes, heart size is borderline.  No definite chf.
+     There are pleural plaques and calcifications indicative of prior asbestos
+     exposure.  No definite pulmonary consolidation or pleural effusions in this
+     single view.
+     
+     IMPRESSION: No evidence for chf or pneumonia.  Pleural plaques and
+     calcifications indicative of prior asbestos exposure.
+     
+     
+
+",,

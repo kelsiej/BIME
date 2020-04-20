@@ -1,0 +1,200 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8454,1763,,,3437-01-28 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3437-1-28**]     Discharge Date:  [**3437-1-30**]
+
+Date of Birth:   [**3384-3-3**]     Sex:  F
+
+Service:  NEUROSURGERY
+
+HISTORY OF THE PRESENT ILLNESS:  The patient is a 53-year-old
+woman who was well until she suddenly developed an abrupt
+onset of headache and fell to the ground.  She was taken to
+[**Hospital 51**] Hospital Emergency Room where a CT scan showed a 5
+cm left deep basal ganglionic hypertensive hemorrhage.
+
+The patient was transferred to the [**Hospital6 2460**] for further evaluation.
+
+LABORATORY/RADIOLOGIC DATA: On laboratory examination, she
+had no evidence of coagulopathy.
+
+Her CT scan showed the huge hypertensive basal ganglionic
+hemorrhage.
+
+HOSPITAL COURSE:  The patient was admitted on [**3437-1-28**].  Due to the massive size of her hypertensive basal
+ganglionic hemorrhage, her prognosis was felt to be very
+poor.  Her coagulations were followed and euvolemia was
+maintained.  Her blood pressure was controlled on Nipride.
+After discussing her extremely poor prognosis with the
+family, they understood and the patient was given comfort
+measures.
+
+She then progressed to brain death over the next two days and
+was declared brain dead after an apnea test on [**3437-1-30**].
+
+CONDITION ON DISCHARGE:  Death.
+
+DISCHARGE STATUS:  Death.
+
+DISCHARGE DIAGNOSIS:  Hypertensive basal ganglionic
+hemorrhage.
+
+DISCHARGE MEDICATIONS:   None.
+
+FOLLOW-UP:  None.
+
+
+
+
+                             [**First Name11 (Name Pattern1) 738**] [**Last Name (NamePattern4) 11733**], M.D.  [**MD Number 740**]
+
+Dictated By:[**Last Name (NamePattern1) 11734**]
+
+MEDQUIST36
+
+D:  [**3438-2-21**]  09:36
+T:  [**3438-2-22**]  15:59
+JOB#:  [**Job Number 11735**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 738**] [**Last Name (NamePattern1) 739**]
+ on: WED [**3438-8-22**] 12:24 PM
+(End of Report)
+
+
+",,
+8454,1763,,,3437-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3437-1-28**] 7:37 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 7938**]
+     Reason: reevaluation of basal gangial bleed
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with 
+     REASON FOR THIS EXAMINATION:
+      reevaluation of basal gangial bleed
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: EEZ SAT [**3437-1-28**] 9:11 PM
+      large intraparenchymal hemorrhage with subfalcine herniation (midline shift),
+      small subarachnoid blood.
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     INDICATION: Re-evaluation of basal ganglial bleed. Patient has films from
+     outside hospital which are not immediately available for comparison.
+     
+     COMPARISON: No prior head CT from this institution are available for
+     comparison.
+     
+     TECHNIQUE: Axial images of the head were acquired with IV contrast.
+     
+     NONCONTRAST HEAD CT: There is a large area of intraparenchymal hemorrhage
+     originating near the left basal ganglia.  The blood extends into the
+     ventricular system. There is greater than 1 cm of subfalcine herniation. There
+     is dilation of the lateral ventricles, indicating hydrocephalus.  Blood is
+     also present in the 3rd ventricle. There is a small punctate area of increased
+     attenuation in the left parietal region, which may indicate small amount of
+     subarachnoid blood. There is no evidence for transtentorial herniation.
+     
+     No fractures are seen.  The soft tissues are unremarkable.  Minimal mucosal
+     thickening is present in the ethmoid air cells and left sphenoid sinus.
+     
+     IMPRESSION: Large intraparenchymal hemorrhage with intraventricular extension,
+     and subfalcine herniation.  Possible subarachnoid bleed.
+     If the patient has history of hypertension, this may be secondary to
+     hypertensive bleed. IF the patient has no history of hypertension, ruptured
+     left middle cerebral artery aneurysm, sometimes may have this kind of
+     presentation.
+
+",,
+8454,1763,10504,0,3437-01-29 04:44:00 EST,3437-01-29 05:13:00 EST,-1,"N",54,"Nursing/Other",,"
+
+
+[**Known patient firstname 5793**] [**Last Name (NamePattern1) **], 52 yrs old, transfer from ER to SICU (CC683). Pt transfer from [**Hospital **] Hospital. CT head - Left basal ganglia hemorrhage and intubated. Pt had worse headache before admission, fell and was bought to the hospital. Unknown allergies. PMH: CVA, HTN, smoker. Per family - pt had been noncompliace with HTN medication. At [**Hospital1 22**] CT head shown worsen condition - L. basal ganglia bleed to bilateral ventricles and 4 th ventricle with brainstem dysfunction.
+Pt made DNR by daughter and sister. 
+
+neuro: Nonresponsive to all stimuli. Pronate to nonresponse in Extremeties. Pupil [**3-16**] nonreactive. No corneal reflex. weak gag. no cough reflex. no doll eyes. Propofol drip for sedation
+
+cv; NSR/ST without ectopy. Nipride drip titrate  SBP <140.  Warm, dry, no edema. Insulin drip titrate 80-120.
+
+resp: Clear lung sound bilaterally. CMV - rate 20 , FiO2- 40%. Not breathing over the vent.
+
+gu/gi; soft abd, +BSX4. foley patent - yellow/clear 5-20 cc/hr.
+Skin intact.
+
+Explain and answers all family question. Assist with call to Red cross and Marine to return Daughter ([**Name (NI) **]) home. Pt will be made CMO tomorrow once family are all here.
+
+Plan; Continue to monitor.   
+",,
+8454,1763,10504,0,3437-01-29 19:34:00 EST,3437-01-29 19:46:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Neuro: Pupils 4mm non reactive, posturing bilat UE, abnormal reflex bilat LE. Corneal reflex initially impaired, presently none noted. - gag, poor cough.
+CV: continue on nipride to keep SBP <150. at 1700 SBP increased to 200 pt recieved 10mg labetalol with good effect. Tmax 98.4. HR 70-80 NSR with no ectopy. 
+RESP: o2 sats 100%. continues on CMV not overbreathing vent. thick yellow sputum.
+Endocrine: insulin gtt titrated  to keep SBP <120
+PLAN: organ bank to assess pt for appropriatness of  donation     
+",,
+8454,1763,10504,,3437-01-30 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3437-1-30**] 4:24 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 7939**]
+     Reason: Swan Position, lung fields for possible transplant donation 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      52 year old woman with brain death secondary to large basal ganglia bleed, for 
+      organ harvesting. PA catheter placed.
+     REASON FOR THIS EXAMINATION:
+      Swan Position, lung fields for possible transplant donation                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION:  SG catheter placement.
+     
+     A SG catheter terminates in the left pulmonary artery.  An ET tube is in
+     satisfactory position.
+     
+     The heart is upper limits of normal in size for technique. The aorta is
+     tortuous.  There is a moderate-sized right pleural effusion, which appears
+     partially loculated within fissures.  There is also volume loss in the right
+     hemithorax with shift of the mediastinum towards the right and inferior
+     displacement of the minor fissure.
+     
+     The right hemidiaphragm is also slightly elevated.
+     
+     IMPRESSION:
+     
+     1. SG catheter in satisfactory position with no pneumothorax.
+     
+     2. Moderate-sized right pleural effusion.
+     
+     3. Increased opacity in right mid and lower lung zones with associated volume
+     loss, suggestive of atelectasis. The chronicity of this process is uncertain.
+     
+
+",,
+8454,1763,10504,0,3437-01-30 05:09:00 EST,3437-01-30 05:33:00 EST,-1,"N",54,"Nursing/Other",,"
+
+7p-7a; Full assessment in flow sheet.
+
+Dr. [**First Name4 (NamePattern1) 5794**] [**Last Name (NamePattern1) **], respiratory therapy, and nurse present for Apnea test - done per brain dead protocol, pt fail test except PCO2 >60. Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] assess the rest of brain dead protocol with nurse in assistant, pt fail all tests. Dr. [**Last Name (STitle) **] complete brain dead protocol  at 2240. Family notify before tests and the result of the brain dead protocol. No questions per family. Organ Donation present and notify of status - cannot proceed and decision not made because family members waiting for Mrs.[**Doctor Last Name 5795**] daughter ([**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **]). 
+
+neuro: Nonresponsive. Pupil 4 - non reactive. no cornea reflex. No respond to cold water in both ears. No gag and cough reflex. Upper extremties - pronate. Lower extremeties - slight flexion of toes. 
+
+cv: NSR without ectopy. Nipride drip titrate for SBP <140. Neo drip titrate SBP >110. Hypothermic. Warm, dry, slight general edema.
+
+resp: Coarse lung sound. Suction for thick/tan secretion. 
+
+gu/gi; Soft abd. +BSX4. foley patent - yellow/clear urine 5-40 cc/hr.
+Skin intact.AM lab done and lab done for baseline for possible organ transplant. Insulin drip titrate for BS 80-120.
+
+Plan: Continue to monitor. Organ donation?
+
+",,
+8454,1763,10504,0,3437-01-30 19:22:00 EST,3437-01-30 19:27:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Neuro: Pt nonresponsive. Pt  determined brain dead per protocol per [**Location (un) 935**] organ bank. Family consented to organ donation.
+Plan PT to OR for organ harvesting at 2100
+",,
+8454,1763,10504,0,3437-01-30 21:18:00 EST,3437-01-30 21:19:00 EST,-1,"N",54,"Nursing/Other",,"
+
+Nursing note: Pt. brain dead , under care of NEOB. To OR at 2120.
+",,

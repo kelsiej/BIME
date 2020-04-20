@@ -1,0 +1,332 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8338,904,,,2590-04-07 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**2590-4-7**]       Discharge Date:  [**2590-4-12**]
+
+Date of Birth:   [**2506-8-15**]       Sex:  F
+
+Service:  C-MED
+
+CHIEF COMPLAINT:  Positive stress test.  Transfer for cardiac
+catheterization.
+
+HISTORY OF PRESENT ILLNESS:  This is an 83-year-old female
+admitted [**Hospital3 **] on [**4-1**] with weakness and
+fatigue after two days of diarrhea and decreased oral intake.
+
+
+The patient has a baseline chronic renal insufficiency and
+had a mildly elevated troponin at 0.16.  She underwent a
+stress test at the outside hospital which showed a large area
+of anterior reversible ischemia as well as a fixed inferior
+defect.
+
+The patient reported that what initially brought into the
+hospital was two days of diarrhea, nausea, and vomiting.  She
+had seven to eight episodes of diarrhea.  No bloody stools.
+She denies having any chest pain, shortness of breath, jaw
+pain, or neck pain.  No diaphoresis.  No fevers, chills,
+orthopnea, paroxysmal nocturnal dyspnea, lower extremity
+edema, cough, dysuria, or hematuria.  She states that she has
+no trouble going up and down stairs.  She is not short of
+breath while walking around the house.  She has a daughter
+who lives next door and is able to help her out as needed.
+
+PAST MEDICAL HISTORY:
+1.  Diabetes mellitus (not on insulin).
+2.  Hypertension.
+3.  Hyperlipidemia.
+4.  A questionable history of transient ischemic attacks.
+5.  Chronic renal insufficiency.
+6.  Peripheral vascular disease with left leg claudication.
+7.  Gastroesophageal reflux disease.
+8.  Anemia secondary to chronic renal insufficiency and iron
+deficiency.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS ON TRANSFER:
+ 1.  Trental 400 mg by mouth three times per day.
+ 2.  Plavix 75 mg by mouth once per day.
+ 3.  Aspirin 325 mg by mouth once per day.
+ 4.  Norvasc 10 mg by mouth once per day.
+ 5.  Remeron 15 mg by mouth at hour of [**Doctor Last Name 314**].
+ 6.  Lipitor 10 mg by mouth once per day.
+ 7.  Nexium 40 mg by mouth once per day.
+ 8.  Fosamax 70 mg by mouth every week.
+ 9.  Epogen 7000 units subcutaneously ever week.
+10.  Iron sulfate 325 mg by mouth once per day.
+11.  Glyburide 5 mg by mouth twice per day.
+12.  Caltrate-D 600 mg by mouth once per day.
+13.  Imdur 60 mg by mouth once per day.
+14.  Labetalol 200 mg by mouth twice per day.
+
+SOCIAL HISTORY:  The patient has never smoked.  She does not
+drink alcohol.  She lives alone.  She has a daughter who
+lives next door.  Her daughter's name is [**First Name8 (NamePattern2) 389**] [**Last Name (NamePattern1) 11555**]
+(telephone number [**Telephone/Fax (1) 11556**]).
+
+CODE STATUS:  The patient is a full code.
+
+FAMILY HISTORY:  No family history of early coronary artery
+disease.  Her brother had a myocardial infarction in his 80s.
+
+PHYSICAL EXAMINATION ON PRESENTATION:  Temperature was 99.3
+degrees Fahrenheit, her heart rate was 80, her blood pressure
+was 170/70, her respiratory rate was 20, and her oxygen
+saturation was 94% on room air.  In general, alert, oriented,
+and pleasant.  In no acute distress.  Comfortable in bed.
+Her weight was 70.7 kilograms.  Head, eyes, ears, nose, and
+throat examination the neck was supple.  The mucous membranes
+were moist.  The extraocular muscles were intact.
+Cardiovascular examination revealed a regular rate and
+rhythm.  A 3/6 systolic ejection murmur at the base.  There
+was no jugular venous distention.  There was a faint
+holosystolic murmur at the apex.  The lungs were clear to
+auscultation bilaterally.  The abdomen was soft, nontender,
+and nondistended.  There were positive bowel sounds.
+Extremities revealed no lower extremity edema.  Faint
+posterior tibialis pulses.  No dorsalis pedis pulses
+appreciated.  Left second toe with an area of erythema and
+tenderness consistent with cellulitis.  Neurologic
+examination revealed alert and oriented.  Cranial nerves II
+through XII were intact bilaterally.
+
+PERTINENT LABORATORY VALUES ON PRESENTATION:  White blood
+cell count was 3.7, her hematocrit was 29.6, and her
+platelets were 200.  Sodium was 138, potassium was 2.7, blood
+urea nitrogen was 53, and her creatinine was 2.0.
+Alanine-aminotransferase was 31.  Her aspartate
+aminotransferase was 20.
+
+PERTINENT RADIOLOGY/IMAGING:  An electrocardiogram showed a
+normal sinus rhythm with first-degree AV block, right
+bundle-branch block, left axis.  There were T wave inversions
+in lead aVL and V1 to V3.  LVH.
+
+An echocardiogram showed an ejection fraction of 60% to 65%.
+Moderately dilated left atrium and mildly dilated right
+atrium.  Normal left ventricular wall thickness and cavity
+size.  Normal right ventricular size and free wall motion.
+
+SUMMARY OF HOSPITAL COURSE BY ISSUE/SYSTEM:
+
+1.  POSITIVE STRESS TEST ISSUES:  The patient was transferred
+from [**Hospital3 **] for a positive stress test concerning
+for a left anterior descending artery lesion.
+
+The patient underwent a cardiac catheterization which
+revealed a right-dominant system, with an angiographically
+normal left main coronary artery.  The left anterior
+descending artery had a proximal 40% stenosis followed by a
+70% stenosis after S1.  A very distal limb was occluded at
+the apex.  The left circumflex was a large vessel with
+significant tortuosity and distal complex 90% stenosis at
+second obtuse marginal.  The first obtuse marginal was small
+and had a 90% origin lesion.
+
+A left ventriculography revealed an estimated ejection
+fraction of 45% with trace mitral regurgitation.
+
+The left anterior descending artery was stented with a drug
+eluding stent, and the left circumflex was stented with a
+drug eluding stent.
+
+The patient had normal left-sided filling pressures.  During
+the catheterization, the patient developed bradycardia with a
+heart rate in the 20s with 2:1 atrioventricular block and
+required a temporary pacer wire to be placed in the right
+ventricle.
+
+The patient was transferred to the Cardiac Intensive Care
+Unit for monitoring until a pacemaker was placed.  The
+patient was continued on aspirin and was placed on Plavix.
+She will need at least ninth months of Plavix.  The patient's
+Lipitor was increased to 80 mg once per day, and she was
+continued on labetalol.  Her ACE inhibitor was continued at
+30 mg once per day as her creatinine had been stable at this
+dose.
+
+2.  BRADYCARDIA ISSUES:  The patient developed bradycardia
+during cardiac catheterization requiring a temporary pacer
+wire to be placed.  The patient was then seen by
+Electrophysiology and had a pacemaker placed several hours
+after cardiac catheterization.  The pacemaker was functioning
+appropriately, and the leads were in the correct location
+based on a chest x-ray.  There was no evidence of
+pneumothorax on her chest x-ray.
+
+3.  CHRONIC RENAL INSUFFICIENCY ISSUES:  The patient with a
+baseline creatinine in the 1.5 to 1.7 range.  The etiology of
+her chronic renal insufficiency is unknown; as to whether it
+is vascular or due to hypertensive or diabetic nephropathy.
+The patient was to follow up with her primary care physician
+for blood pressure and blood sugar checks to insure that her
+hypertension and her diabetes are well controlled.
+
+4.  ANEMIA ISSUES:  The patient has a baseline anemia that is
+reported to be due to anemia of chronic renal disease and
+iron deficiency anemia; however, it was unclear as to whether
+or not the patient has ever had a workup for her iron
+deficiency anemia.  An appropriate workup for this should
+include a colonoscopy.  This was communicated to the patient,
+and she should discuss this with her primary care physician,
+[**Name10 (NameIs) **] she should have a colonoscopy within one to two months of
+discharge if she has not had one recently.  The patient was
+continued on her Epogen and iron replacement.
+
+The patient also required a transfusion of 2 units of packed
+red blood cells for a hematocrit of 25 after her cardiac
+catheterization and pacemaker placement.  On the day after
+her transfusion, her hematocrit was found to be 33.  The
+patient should have her hematocrit checked within one week of
+discharge.
+
+5.  LEFT SECOND TOE CELLULITIS ISSUES:  The patient had an
+area of erythema, warmth, and tenderness over the dorsal
+surface of her left second toe; consistent with cellulitis
+and a diabetic foot.  The patient was treated with renally
+dosed Augmentin 500 mg once per day and was to complete a
+10-day course of antibiotics with an additional 7 days after
+discharge.  The patient should follow up with her primary
+care physician within one week of discharge to recheck this
+toe to make sure that it is healing appropriately.
+
+6.  AORTIC STENOSIS ISSUES:  The patient had an
+echocardiogram at the outside hospital which reported a valve
+area of 0.9 cm2.  The patient was asymptomatic from this
+aortic stenosis, and should be managed medically at this
+point.  The patient should follow up with her cardiologist
+within three to four weeks as her aortic stenosis may become
+an issue for her in the future.
+
+7.  DIABETES MELLITUS ISSUES:  The patient was admitted on
+glyburide 5 mg by mouth twice per day.  During this
+admission, her glyburide was held.  The patient was placed on
+a regular insulin sliding-scale.  On discharge, she was
+restarted on her glyburide.  The patient should follow up
+with her primary care physician as she may benefit from
+long-acting insulin therapy.
+
+CONDITION AT DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  To rehabilitation.
+
+DISCHARGE INSTRUCTIONS/FOLLOWUP:
+1.  Please follow up with your primary care doctor in one
+week.
+2.  Please follow up with your cardiologist in three to four
+weeks.
+3.  Please follow up at the Device Clinic for your pacemaker
+in one week.
+4.  Please have your primary care doctor work up your iron
+deficiency anemia.  [**Doctor First Name 10**] should have a colonoscopy soon after
+discharge as part of this evaluation if [**Doctor First Name **] have not already
+had one recently.
+
+DISCHARGE DIAGNOSES:
+ 1.  Acute-on-chronic renal failure.
+ 2.  Cellulitis of the left second toe.
+ 3.  Coronary artery disease.
+ 4.  Status post cardiac catheterization with stenting.
+ 5.  Type 2 diabetes mellitus.
+ 6.  Hypertension.
+ 7.  Hypercholesterolemia.
+ 8.  Peripheral vascular disease.
+ 9.  Aortic stenosis.
+10.  Gastroesophageal reflux disease.
+11.  Anemia of renal disease.
+12.  Iron deficiency anemia.
+13.  Mild dementia.
+14.  Bradycardia with 2:1 atrioventricular block requiring a
+pacemaker.
+
+MEDICATIONS ON DISCHARGE:
+ 1.  Aspirin 325 mg by mouth once per day.
+ 2.  Remeron 15 mg by mouth at hour of [**Doctor Last Name 314**].
+ 3.  Nexium 50 mg by mouth once per day.
+ 4.  Plavix 75 mg by mouth once per day (for at least ninth
+months).
+ 5.  Vitamin D 400 units by mouth every day.
+ 6.  Calcium carbonate 500 mg by mouth twice per day (with
+meals).
+ 7.  Iron sulfate 325 mg by mouth once per day.
+ 8.  Fosamax 70 mg by mouth every Sunday.
+ 9.  Epogen 7000 units subcutaneously every Sunday.
+10.  Colace 100 mg by mouth twice per day.
+11.  Amlodipine 10 mg by mouth once per day.
+12.  Hydrochlorothiazide 25 mg by mouth once per day.
+13.  Imdur 60 mg by mouth once per day.
+14.  Lipitor 80 mg by mouth once per day.
+15.  Pentoxifylline 400 mg by mouth three times per day.
+16.  Senna two tablets by mouth at hour of [**Doctor Last Name 314**].
+17.  Augmentin 500/125 by mouth q.24h. (times seven days).
+18.  Lisinopril 30 mg by mouth once per day.
+19.  Labetalol 300 mg by mouth twice per day.
+20.  Glyburide 5 mg by mouth twice per day.
+
+
+
+
+
+
+                            [**First Name11 (Name Pattern1) 11557**] [**Last Name (NamePattern4) 11558**], M.D.
+
+Dictated By:[**Last Name (NamePattern1) 4071**]
+MEDQUIST36
+
+D:  [**2590-4-11**]  11:10
+T:  [**2590-4-11**]  11:17
+JOB#:  [**Job Number 11559**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: WED [**2590-7-14**] 1:45 PM
+(End of Report)
+
+
+",,
+8338,904,,,2590-04-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2590-4-10**] 1:59 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 6946**]
+     Reason: lead placement, r/o PTX                                     
+     Admitting Diagnosis: NON Q-WAVE MI\CATH
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      83 year old woman with newly paced PPM                                          
+     REASON FOR THIS EXAMINATION:
+      lead placement, r/o PTX                                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: 83 y/o woman with newly new pacemaker, please check lead placement or
+     r/o pneumothorax.
+     
+     PA & LATERAL CHEST: No old films are available for comparison. There is a left
+     thoracic wall pacemaker in place with lead tips in the atrium and ventricle.
+     There is no evidence for pneumothorax. Heart is large. There is mild vascular
+     redistribution to the apices. Small left pleural effusion is present.
+     
+     IMPRESSION: New pacer leads are in appropriate position. Mild vascular
+     redistribution to the apices with cardiomegaly suggest early failure. Small
+     left pleural effusion.
+
+",,
+8338,,,,2591-03-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8338,,10369,0,2591-03-08 18:43:00 EST,2591-03-08 19:03:00 EST,2143,"N",1,"Nursing/Other","ccu nursing note","
+ccu nursing note
+s/o: pt arrived from holding area after catheterization with no intervention. 84yr old female w extensive cardiac and peripheral vascular medical disorders. dm, chf.
+presented to [**Last Name (NamePattern4) **] office [**3-7**] w c/o not feeling well for past few hours. sat was 75-85% on ra. denied cp. admitted to [**Hospital1 5634**] r/i for mi and this am was transfered to [**Hospital1 **] for cath. cath revealed no change from previous disease and patent stents to lcx and lad. filling pressures were high and pt rec'd lasix w some response. iv ntg for bp. transfered to ccu around 3:45pm.
+pt was alert, cooperative. denied complaints. sats low 90s on 100% nrb and rr at rest mid 20s. bs dim part at r base w diffuse crackles.
+hr 70s vpaced. bp 130-140/60-70. iv ntg at .5mcg/kg. 
+labs sent off cvp line and hct came back 7, however this was confirmed as diluted when repeat hct came back at 27.
+
+r fem art sheath was dc'd in holding area. r f venous sheath w pa cath in place when pt arrived. tracing was dampened for pa. upon evaluating appeared to be in ra. ccu team notified and decision was made to dc the fem venous line as her ci was good in the lab and it appeared she would only need lasix to manage her chf. shortly after 5pm dr [**Last Name (STitle) 2167**](ccu resident) pulled pa line and venous sheath and manual pressure was held. pt soon began to c/o not feeling well. hr and bp dropped. ivf was hung and open, atropine .5mg was given x2. no response. pt denied pain but appeared in distress, ^rr, restless. dopa added. pt cont to deteriorate and became unresponsive. code called. cpr initiated, intubated. epi, atropine, bicarb, ivf.(see code sheet). pea arrest. bedisde echo r/o tamponade. no evidence of fem bleed.
+
+pt's grd dtr [**Name (NI) **] was present w pt until just a few minutes prior to full arrest when she was brought to waiting area. she was informed of her grdmother's passing and declined autopsy. 
+all belongings were sent home w grd dtr including dentures.
+a/p: cardiac arrest s/p mi. support to family.
+",,

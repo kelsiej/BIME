@@ -1,0 +1,1464 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8927,5321,,,3138-02-10 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3138-2-10**]     Discharge Date:  [**3138-3-9**]
+
+Date of Birth:   [**3072-5-2**]     Sex:  F
+
+Service:  .
+
+ADDENDUM TO DISCHARGE SUMMARY:
+
+The patient was discharged in stable condition to an extended
+care facility.  Discharge instructions as noted in Page one.
+
+DISCHARGE DIAGNOSES:
+1.  Metastatic rectal carcinoma.
+
+FOLLOW-UP INSTRUCTIONS:
+1.  Recommended follow-up with primary care physician
+[**Name Initial (PRE) 12460**].
+2.  To follow-up with oncologist regularly.
+
+There were no major surgical invasive procedures.
+
+CONDITION AT DISCHARGE:   Good.
+
+DISCHARGE MEDICATIONS:
+1.  Pantoprazole.
+2.  Docusate 100 twice a day.
+3.  Ferrous sulfate 325 q. day.
+4.  Calcium carbonate 500 q. day.
+5.  Cholecalciferol 400 units q. day.
+6.  Lorazepam 0.5 mg p.o. q. four to six hours p.r.n.
+7.  Tylenol p.r.n.
+8.  Senna p.r.n.
+9.  Ascorbic acid one tablet p.o. twice a day.
+10. Camphor menthol lotion four times a day p.r.n.
+11. Clotrimazole 10 mg four times a day.
+12. Ibuprofen p.r.n.
+13. Oxycodone 5 mg, two to three tablets p.o. q. four hours.
+14. Benadryl p.r.n.
+15. Miconazole twice a day powder.
+16. Chlorpromazine 10 mg p.o. q. six hours as needed.
+17. Heparin subcutaneously 5000 units twice a day.
+18. Oxycodone 60 mg tablets sustained release twice a day.
+19. Multivitamin q. day.
+20. Zinc sulfate.
+21. Morphine 2 mg intravenously q. four to six p.r.n.
+
+Follow-up and the rest of the discharge as indicated above.
+See also main Discharge Summary as previously indicated by
+Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **].
+
+
+
+                          [**First Name11 (Name Pattern1) 1983**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **], M.D.  [**MD Number 6764**]
+
+Dictated By:[**Name8 (MD) 10085**]
+
+MEDQUIST36
+
+D:  [**3138-3-9**]  13:06
+T:  [**3138-3-9**]  13:45
+JOB#:  [**Job Number 12461**]
+Signed electronically by: DR. [**First Name11 (Name Pattern1) 1983**] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]
+ on: TUE [**3138-3-15**] 10:15 AM
+(End of Report)
+
+
+",,
+8927,5321,,,3138-02-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-10**] 2:09 AM
+     MR CERVICAL SPINE; MR THORACIC SPINE                            Clip # [**Clip Number (Radiology) 11843**]
+     MR L SPINE SCAN
+     Reason: r/o worsening mets, spinal cord compression, epidural absces
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal ca, known spinal mets, now with 
+      worsening lower extremity weakness, low back pain, and fevers.
+     REASON FOR THIS EXAMINATION:
+      r/o worsening mets, spinal cord compression, epidural abscess                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     
+     TECHNIQUE:   Sagittal and axial T1 and T2 weighted images of the cervical,
+     thoracic and lumbar spine, without contrast.
+     
+     COMPARISON: [**3137-10-11**]
+     
+     FINDINGS: In the cervical spine, abnormally increased signal is seen on STIR
+     images within the C2 vertebral body, finding unchanged from the prior study.
+     Note is again made of a high signal region in the medulla, at the level of the
+     obex.  The region of increased signal at the C3 level is not clearly
+     demonstrated on the current study.
+     
+     Unchanged mild cervical spondylosis is greatest at the C3-4, C5-6 and C6-7
+     levels.
+     
+     At the T1 level, there is diffusely an abnormally increased signal within the
+     vertebral body on STIR images.  Heterogeneously increased signal is seen
+     within the T3 body.
+     
+     At the T8 level, there is mildly increased signal.
+     
+     A focal rounded area of increased signal is again seen within the center of
+     the T9 vertebral body, likely a hemangioma.
+     
+     The T11 and T12 vertebral bodies demonstrate patchy increased signal, and the
+     osseous structures are deformed by partial compression.  No area of
+     retropulsion into the spinal canal is seen.
+     
+     Within the lumbar spine, there is diffuse abnormal T2 signal within the
+     majority of the vertebral bodies, particularly the L2 body.  Previously
+     described retroperitoneal adenopathy is not well demonstrated due to the
+     obscuring saturation pulse anterior to the spine.  An unchanged pathologic
+     compression fracture of the L5 vertebral body is present, with some mild
+     retropulsion of the posterior cortex.
+     
+     The L1-2 level demonstrates no significant spinal stenosis.  Mild disc
+     desiccation is present, without loss of intervertebral disc height.  No neural
+     foraminal narrowing is identified.  At the L2-3 level, there is moderate loss
+     of intervertebral disc height, with an irregular disc protrusion having
+     lateral components extending into the  neural foramina.  The pedicles are
+                                                                 (Over)
+
+     DATE: [**3138-2-10**] 2:09 AM
+     MR CERVICAL SPINE; MR THORACIC SPINE                            Clip # [**Clip Number (Radiology) 11843**]
+     MR L SPINE SCAN
+     Reason: r/o worsening mets, spinal cord compression, epidural absces
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     congenitally short, and there is moderate degenerative proliferation of the
+     facet joints.  These features cause moderate spinal stenosis and crowding of
+     the nerve roots.  At the L3-4 level, there is moderate loss of intervertebral
+     disc height and a left disc protrusion extending into the neural foramen.
+     Congenitally short pedicles, moderate degenerative proliferation of the facet
+     joints and moderate thickening of the ligamentum flavum cause moderate spinal
+     stenosis at this level and near complete obliteration of the CSF space.  All
+     nerve roots are crowded centrally.
+     
+     At the L4-5 level, there is marked loss of intervertebral disc height and a
+     large disc protrusion.  Marked proliferation degeneration of the facet joints
+     is present, as well as moderate thickening of the ligamentum flavum and
+     congenitally short pedicles.  These features, as well as the retropulsion of
+     the posterior L5 cortex, cause severe spinal stenosis at this level, with an
+     AP diameter of 4 mm.  No CSF space is present.  There is severe neural
+     foraminal narrowing bilaterally.
+     
+     At the L5-S1 level, moderate degenerative proliferation of the facet joints is
+     present, with moderate right neural foraminal narrowing.
+     
+     A high signal lesion is seen within the posterior right ischium.
+     
+     IMPRESSION:
+     Diffuse metastatic disease of the entire spine, unchanged in distribution from
+     the prior study.  Slight increase in the extent of the preexisting metastases
+     may have occurred.  Significant severe spinal stenosis is grossly unchanged
+     from the prior study and is due in most part to long standing chronic
+     conditions; congenitally short pedicles, multiple disc protrusions, and
+     degenerative facet joint disease.
+     
+     In summary, given the lack of progression of the multiple compression
+     fractures and the stable retropulsed L5 vertebral compression, the patient's
+     current neurological symptoms are likely to relate to underlying mechanical
+     factors of spinal stenosis, with superimposed, but relatively stable
+     metastatic osseous neoplastic disease.
+     
+
+",,
+8927,5321,,,3138-02-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-10**] 2:09 AM
+     MR CERVICAL SPINE; MR THORACIC SPINE                            Clip # [**Clip Number (Radiology) 11843**]
+     MR L SPINE SCAN
+     Reason: r/o worsening mets, spinal cord compression, epidural absces
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal ca, known spinal mets, now with 
+      worsening lower extremity weakness, low back pain, and fevers.
+     REASON FOR THIS EXAMINATION:
+      r/o worsening mets, spinal cord compression, epidural abscess                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     
+     TECHNIQUE:   Sagittal and axial T1 and T2 weighted images of the cervical,
+     thoracic and lumbar spine, without contrast.
+     
+     COMPARISON: [**3137-10-11**]
+     
+     FINDINGS: In the cervical spine, abnormally increased signal is seen on STIR
+     images within the C2 vertebral body, finding unchanged from the prior study.
+     Note is again made of a high signal region in the medulla, at the level of the
+     obex.  The region of increased signal at the C3 level is not clearly
+     demonstrated on the current study.
+     
+     Unchanged mild cervical spondylosis is greatest at the C3-4, C5-6 and C6-7
+     levels.
+     
+     At the T1 level, there is diffusely an abnormally increased signal within the
+     vertebral body on STIR images.  Heterogeneously increased signal is seen
+     within the T3 body.
+     
+     At the T8 level, there is mildly increased signal.
+     
+     A focal rounded area of increased signal is again seen within the center of
+     the T9 vertebral body, likely a hemangioma.
+     
+     The T11 and T12 vertebral bodies demonstrate patchy increased signal, and the
+     osseous structures are deformed by partial compression.  No area of
+     retropulsion into the spinal canal is seen.
+     
+     Within the lumbar spine, there is diffuse abnormal T2 signal within the
+     majority of the vertebral bodies, particularly the L2 body.  Previously
+     described retroperitoneal adenopathy is not well demonstrated due to the
+     obscuring saturation pulse anterior to the spine.  An unchanged pathologic
+     compression fracture of the L5 vertebral body is present, with some mild
+     retropulsion of the posterior cortex.
+     
+     The L1-2 level demonstrates no significant spinal stenosis.  Mild disc
+     desiccation is present, without loss of intervertebral disc height.  No neural
+     foraminal narrowing is identified.  At the L2-3 level, there is moderate loss
+     of intervertebral disc height, with an irregular disc protrusion having
+     lateral components extending into the  neural foramina.  The pedicles are
+                                                                 (Over)
+
+     DATE: [**3138-2-10**] 2:09 AM
+     MR CERVICAL SPINE; MR THORACIC SPINE                            Clip # [**Clip Number (Radiology) 11843**]
+     MR L SPINE SCAN
+     Reason: r/o worsening mets, spinal cord compression, epidural absces
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     congenitally short, and there is moderate degenerative proliferation of the
+     facet joints.  These features cause moderate spinal stenosis and crowding of
+     the nerve roots.  At the L3-4 level, there is moderate loss of intervertebral
+     disc height and a left disc protrusion extending into the neural foramen.
+     Congenitally short pedicles, moderate degenerative proliferation of the facet
+     joints and moderate thickening of the ligamentum flavum cause moderate spinal
+     stenosis at this level and near complete obliteration of the CSF space.  All
+     nerve roots are crowded centrally.
+     
+     At the L4-5 level, there is marked loss of intervertebral disc height and a
+     large disc protrusion.  Marked proliferation degeneration of the facet joints
+     is present, as well as moderate thickening of the ligamentum flavum and
+     congenitally short pedicles.  These features, as well as the retropulsion of
+     the posterior L5 cortex, cause severe spinal stenosis at this level, with an
+     AP diameter of 4 mm.  No CSF space is present.  There is severe neural
+     foraminal narrowing bilaterally.
+     
+     At the L5-S1 level, moderate degenerative proliferation of the facet joints is
+     present, with moderate right neural foraminal narrowing.
+     
+     A high signal lesion is seen within the posterior right ischium.
+     
+     IMPRESSION:
+     Diffuse metastatic disease of the entire spine, unchanged in distribution from
+     the prior study.  Slight increase in the extent of the preexisting metastases
+     may have occurred.  Significant severe spinal stenosis is grossly unchanged
+     from the prior study and is due in most part to long standing chronic
+     conditions; congenitally short pedicles, multiple disc protrusions, and
+     degenerative facet joint disease.
+     
+     In summary, given the lack of progression of the multiple compression
+     fractures and the stable retropulsed L5 vertebral compression, the patient's
+     current neurological symptoms are likely to relate to underlying mechanical
+     factors of spinal stenosis, with superimposed, but relatively stable
+     metastatic osseous neoplastic disease.
+     
+
+",,
+8927,5321,,,3138-02-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-10**] 2:09 AM
+     MR CERVICAL SPINE; MR THORACIC SPINE                            Clip # [**Clip Number (Radiology) 11843**]
+     MR L SPINE SCAN
+     Reason: r/o worsening mets, spinal cord compression, epidural absces
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal ca, known spinal mets, now with 
+      worsening lower extremity weakness, low back pain, and fevers.
+     REASON FOR THIS EXAMINATION:
+      r/o worsening mets, spinal cord compression, epidural abscess                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:
+     
+     TECHNIQUE:   Sagittal and axial T1 and T2 weighted images of the cervical,
+     thoracic and lumbar spine, without contrast.
+     
+     COMPARISON: [**3137-10-11**]
+     
+     FINDINGS: In the cervical spine, abnormally increased signal is seen on STIR
+     images within the C2 vertebral body, finding unchanged from the prior study.
+     Note is again made of a high signal region in the medulla, at the level of the
+     obex.  The region of increased signal at the C3 level is not clearly
+     demonstrated on the current study.
+     
+     Unchanged mild cervical spondylosis is greatest at the C3-4, C5-6 and C6-7
+     levels.
+     
+     At the T1 level, there is diffusely an abnormally increased signal within the
+     vertebral body on STIR images.  Heterogeneously increased signal is seen
+     within the T3 body.
+     
+     At the T8 level, there is mildly increased signal.
+     
+     A focal rounded area of increased signal is again seen within the center of
+     the T9 vertebral body, likely a hemangioma.
+     
+     The T11 and T12 vertebral bodies demonstrate patchy increased signal, and the
+     osseous structures are deformed by partial compression.  No area of
+     retropulsion into the spinal canal is seen.
+     
+     Within the lumbar spine, there is diffuse abnormal T2 signal within the
+     majority of the vertebral bodies, particularly the L2 body.  Previously
+     described retroperitoneal adenopathy is not well demonstrated due to the
+     obscuring saturation pulse anterior to the spine.  An unchanged pathologic
+     compression fracture of the L5 vertebral body is present, with some mild
+     retropulsion of the posterior cortex.
+     
+     The L1-2 level demonstrates no significant spinal stenosis.  Mild disc
+     desiccation is present, without loss of intervertebral disc height.  No neural
+     foraminal narrowing is identified.  At the L2-3 level, there is moderate loss
+     of intervertebral disc height, with an irregular disc protrusion having
+     lateral components extending into the  neural foramina.  The pedicles are
+                                                                 (Over)
+
+     DATE: [**3138-2-10**] 2:09 AM
+     MR CERVICAL SPINE; MR THORACIC SPINE                            Clip # [**Clip Number (Radiology) 11843**]
+     MR L SPINE SCAN
+     Reason: r/o worsening mets, spinal cord compression, epidural absces
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     congenitally short, and there is moderate degenerative proliferation of the
+     facet joints.  These features cause moderate spinal stenosis and crowding of
+     the nerve roots.  At the L3-4 level, there is moderate loss of intervertebral
+     disc height and a left disc protrusion extending into the neural foramen.
+     Congenitally short pedicles, moderate degenerative proliferation of the facet
+     joints and moderate thickening of the ligamentum flavum cause moderate spinal
+     stenosis at this level and near complete obliteration of the CSF space.  All
+     nerve roots are crowded centrally.
+     
+     At the L4-5 level, there is marked loss of intervertebral disc height and a
+     large disc protrusion.  Marked proliferation degeneration of the facet joints
+     is present, as well as moderate thickening of the ligamentum flavum and
+     congenitally short pedicles.  These features, as well as the retropulsion of
+     the posterior L5 cortex, cause severe spinal stenosis at this level, with an
+     AP diameter of 4 mm.  No CSF space is present.  There is severe neural
+     foraminal narrowing bilaterally.
+     
+     At the L5-S1 level, moderate degenerative proliferation of the facet joints is
+     present, with moderate right neural foraminal narrowing.
+     
+     A high signal lesion is seen within the posterior right ischium.
+     
+     IMPRESSION:
+     Diffuse metastatic disease of the entire spine, unchanged in distribution from
+     the prior study.  Slight increase in the extent of the preexisting metastases
+     may have occurred.  Significant severe spinal stenosis is grossly unchanged
+     from the prior study and is due in most part to long standing chronic
+     conditions; congenitally short pedicles, multiple disc protrusions, and
+     degenerative facet joint disease.
+     
+     In summary, given the lack of progression of the multiple compression
+     fractures and the stable retropulsed L5 vertebral compression, the patient's
+     current neurological symptoms are likely to relate to underlying mechanical
+     factors of spinal stenosis, with superimposed, but relatively stable
+     metastatic osseous neoplastic disease.
+     
+
+",,
+8927,5321,,,3138-02-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-10**] 1:49 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11842**]
+     Reason: FEVER, RECTAL CA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with rectal ca admitted with fevers.                          
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fevers.
+     
+     COMPARISON: [**3137-8-29**].
+     
+     STANDARD PA & LATERAL CHEST RADIOGRAPH:
+     
+     There is a right subclavian central line with tip in the low SVC.  The heart
+     has decreased in size.  Lung fields are clear. There are no pleural effusions
+     or pneumothorax.
+     
+     IMPRESSION:  No evidence of pneumonia.
+     
+
+",,
+8927,5321,,,3138-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-11**] 3:41 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 11844**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: comment on worsening metastatic disease                     
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal carcinoma to bone/liver/LAD presenting 
+      with gait disturbance concerning for paraneoplastic syndrome and rising CEA
+     REASON FOR THIS EXAMINATION:
+      comment on worsening metastatic disease                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic rectal carcinoma to bone and liver presenting with gait
+     disturbance concern for paraneoplastic syndrome.
+     
+     COMPARISON: [**3138-1-13**].
+     
+     TECHNIQUE: Helically acquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis in precontrast, post  contrast and
+     delayed phases.
+     
+     CONTRAST: Oral and 150 cc of IV Optiray was administered.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST: No pleural effusions, nodules
+     or consolidations are seen at the lung bases. Small amount of pericardial
+     effusion is again noted. Again seen are multiple low attenuation lesions
+     within the left lobe of the liver as well as the inferior aspect of the right
+     lobe of the liver. These are unchanged. No new hepatic lesions are identified.
+     The gallbladder, pancreas, adrenal glands, kidneys and spleen are
+     unremarkable. Bulky retroperitoneal lymphadenopathy is again noted and is
+     unchanged there is no evidence of free air or free fluid present.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: A rectal stent is visualized. Extensive
+     circumferential wall thickening is noted. There is no obstruction noted at the
+     colostomy site. The urinary bladder, uterus and adnexae are unremarkable.
+     
+     There is unchanged appearance of lytic lesions within the left and right iliac
+     bones but no evidence of any new suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION: Stable examination compared to [**3138-1-13**]. Multiple sub cm
+     low attenuation liver lesions and retroperitoneal lymphadenopathy is
+     unchanged.
+     
+     
+
+",,
+8927,5321,,,3138-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-11**] 3:41 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 11844**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: comment on worsening metastatic disease                     
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal carcinoma to bone/liver/LAD presenting 
+      with gait disturbance concerning for paraneoplastic syndrome and rising CEA
+     REASON FOR THIS EXAMINATION:
+      comment on worsening metastatic disease                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic rectal carcinoma to bone and liver presenting with gait
+     disturbance concern for paraneoplastic syndrome.
+     
+     COMPARISON: [**3138-1-13**].
+     
+     TECHNIQUE: Helically acquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis in precontrast, post  contrast and
+     delayed phases.
+     
+     CONTRAST: Oral and 150 cc of IV Optiray was administered.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST: No pleural effusions, nodules
+     or consolidations are seen at the lung bases. Small amount of pericardial
+     effusion is again noted. Again seen are multiple low attenuation lesions
+     within the left lobe of the liver as well as the inferior aspect of the right
+     lobe of the liver. These are unchanged. No new hepatic lesions are identified.
+     The gallbladder, pancreas, adrenal glands, kidneys and spleen are
+     unremarkable. Bulky retroperitoneal lymphadenopathy is again noted and is
+     unchanged there is no evidence of free air or free fluid present.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: A rectal stent is visualized. Extensive
+     circumferential wall thickening is noted. There is no obstruction noted at the
+     colostomy site. The urinary bladder, uterus and adnexae are unremarkable.
+     
+     There is unchanged appearance of lytic lesions within the left and right iliac
+     bones but no evidence of any new suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION: Stable examination compared to [**3138-1-13**]. Multiple sub cm
+     low attenuation liver lesions and retroperitoneal lymphadenopathy is
+     unchanged.
+     
+     
+
+",,
+8927,5321,,,3138-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-11**] 3:41 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 11844**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: comment on worsening metastatic disease                     
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal carcinoma to bone/liver/LAD presenting 
+      with gait disturbance concerning for paraneoplastic syndrome and rising CEA
+     REASON FOR THIS EXAMINATION:
+      comment on worsening metastatic disease                                         
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Metastatic rectal carcinoma to bone and liver presenting with gait
+     disturbance concern for paraneoplastic syndrome.
+     
+     COMPARISON: [**3138-1-13**].
+     
+     TECHNIQUE: Helically acquired contiguous axial images were obtained from the
+     lung bases through the pubic symphysis in precontrast, post  contrast and
+     delayed phases.
+     
+     CONTRAST: Oral and 150 cc of IV Optiray was administered.
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST: No pleural effusions, nodules
+     or consolidations are seen at the lung bases. Small amount of pericardial
+     effusion is again noted. Again seen are multiple low attenuation lesions
+     within the left lobe of the liver as well as the inferior aspect of the right
+     lobe of the liver. These are unchanged. No new hepatic lesions are identified.
+     The gallbladder, pancreas, adrenal glands, kidneys and spleen are
+     unremarkable. Bulky retroperitoneal lymphadenopathy is again noted and is
+     unchanged there is no evidence of free air or free fluid present.
+     
+     CT OF THE PELVIS WITH IV CONTRAST: A rectal stent is visualized. Extensive
+     circumferential wall thickening is noted. There is no obstruction noted at the
+     colostomy site. The urinary bladder, uterus and adnexae are unremarkable.
+     
+     There is unchanged appearance of lytic lesions within the left and right iliac
+     bones but no evidence of any new suspicious lytic or sclerotic lesions.
+     
+     IMPRESSION: Stable examination compared to [**3138-1-13**]. Multiple sub cm
+     low attenuation liver lesions and retroperitoneal lymphadenopathy is
+     unchanged.
+     
+     
+
+",,
+8927,5321,,,3138-02-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-13**] 12:41 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11845**]
+     Reason: assess for infiltrate.  New fever and hypoxia               
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal cancer                                 
+     REASON FOR THIS EXAMINATION:
+      assess for infiltrate.  New fever and hypoxia                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PORTABLE CHEST:
+     
+     Compared to [**2-10**].
+     
+     INDICATION: Fever and hypoxia. Rectal cancer.
+     
+     A right subclavian vascular catheter remains in satisfactory position. The
+     heart is upper limits of normal in size and stable. The lungs demonstrate no
+     focal areas of consolidation and there is no evidence of pleural effusion or
+     pneumothorax.
+     
+     IMPRESSION: No evidence of pneumonia.
+
+",,
+8927,5321,,,3138-02-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-14**] 2:54 PM
+     62270 LUMBAR SPINAL PUNCTURE; 76005 FLUOR GUID FOR SPINE INJ    Clip # [**Clip Number (Radiology) 11846**]
+     Reason: Please perform large volume LP (>10cc) for cytology to rule 
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal carcinoma to spine and LNs and new 
+      onset weakness. Query metastatic disease. 
+     REASON FOR THIS EXAMINATION:
+      Please perform large volume LP (>10cc) for cytology to rule out metastatic 
+      disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Multiple attempts for lumbar puncture on the floor by the referring
+     clinician were unsuccessful. Patient is referred for fluoro-guided lumbar
+     puncture.
+     
+     Informed consent was obtained after explaining the risks, indications, and
+     alternative management.
+     
+     The patient was brought to the fluoroscopic suite and placed on the
+     fluoroscopic table in prone position. Access to the lumbar subarachnoid space
+     was obtained with a 22 gauge spinal needle under local anesthesia using 1%
+     lidocaine and with aseptic precautions. Approximately 10 cc of CSF was
+     collected. The patient tolerated the procedure well without any complications.
+     Patient was sent to the floor with postprocedure orders.
+     
+     Access was obtained at the level of L2-3.
+     
+     IMPRESSION: Successful fluoro-guided lumbar puncture. The samples were sent
+     for routine laboratory analysis as requested by the referring physician.
+
+",,
+8927,5321,,,3138-02-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-14**] 2:54 PM
+     62270 LUMBAR SPINAL PUNCTURE; 76005 FLUOR GUID FOR SPINE INJ    Clip # [**Clip Number (Radiology) 11846**]
+     Reason: Please perform large volume LP (>10cc) for cytology to rule 
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal carcinoma to spine and LNs and new 
+      onset weakness. Query metastatic disease. 
+     REASON FOR THIS EXAMINATION:
+      Please perform large volume LP (>10cc) for cytology to rule out metastatic 
+      disease.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Multiple attempts for lumbar puncture on the floor by the referring
+     clinician were unsuccessful. Patient is referred for fluoro-guided lumbar
+     puncture.
+     
+     Informed consent was obtained after explaining the risks, indications, and
+     alternative management.
+     
+     The patient was brought to the fluoroscopic suite and placed on the
+     fluoroscopic table in prone position. Access to the lumbar subarachnoid space
+     was obtained with a 22 gauge spinal needle under local anesthesia using 1%
+     lidocaine and with aseptic precautions. Approximately 10 cc of CSF was
+     collected. The patient tolerated the procedure well without any complications.
+     Patient was sent to the floor with postprocedure orders.
+     
+     Access was obtained at the level of L2-3.
+     
+     IMPRESSION: Successful fluoro-guided lumbar puncture. The samples were sent
+     for routine laboratory analysis as requested by the referring physician.
+
+",,
+8927,5321,,,3138-02-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-15**] 11:34 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11847**]
+     Reason: Please eval for infiltrates, effusions                      
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with rectal ca admitted with fevers; fever continues, now 
+      with GNR in blood.                          
+     REASON FOR THIS EXAMINATION:
+      Please eval for infiltrates, effusions                                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST:  Compared to previous study of [**2-13**].
+     
+     CLINICAL INDICATION:  Fever.
+     
+     A right subclavian vascular catheter is in satisfactory position.  The heart
+     is upper limits of normal in size.  The lungs appear clear, and no pleural
+     effusions are identified.  The skeletal structures reveal degenerative changes
+     within the spine.
+     
+     IMPRESSION:  No radiographic evidence of pneumonia.
+
+",,
+8927,5321,,,3138-02-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-17**] 12:58 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11848**]
+     Reason: eval for evidence of infiltrate                             
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with metastatic rectal cancer, fever, altered ms             
+                        
+     REASON FOR THIS EXAMINATION:
+      eval for evidence of infiltrate                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     HISTORY:  Fever and metastatic renal carcinoma.
+     
+     PORTABLE AP UPRIGHT CHEST: Compared with [**3138-2-15**], there is no significant
+     change.  The right central venous catheter is in good position.  There is no
+     change in the cardiac and mediastinal silhouettes.  The left CP angle is not
+     imaged.  There are no infiltrates or vascular congestion.
+     
+     IMPRESSION:  No significant change or new evidence of pneumonia.
+     
+     
+
+",,
+8927,5321,11101,0,3138-02-17 17:45:00 EST,3138-02-17 17:58:00 EST,667,"N",69,"Nursing/Other","MICU NSG ADMISSION/PROGRESS NOTE: 1800","
+MICU NSG ADMISSION/PROGRESS NOTE: 1800
+65 Y.O. woman w/ metastatic rectal CA (liver, spine) admitted to hospital [**2-10**] w/ lower leg weakness. Hemeonc floor. Today rigors, fever to 104, (+ ecoli blood cultures), mental status changes, hypotension, tackycardia to 140's, BRB and maroon stool via colostomy and rectum. To MICU 1030 for sepsis/ gi bleed management.
+
+ALLERGY: PCN
+
+ROS:
+
+GI: Arrived w/ about 20cc maroon stool in colostomy bag. That hasn't changed, same in bag since admission. She passed about 20cc maroon stool via rectum since here. Soft abd. NPO through day, now advanced to clear liquids. The team will evaluate her in am and might go for abd CT tomorrow. Seen today by ostomy nurse who will see her again tomorrow. (there has been issues w/ bleeding around stoma sight over past few weeks and the bleeding may be related to that...they are evaluating)
+
+CARDIAC: stable since here. HR 70-80 nsr no vea. B/P initially 80's but resolved w/ volume. (2U prbc, about 1 L ns). ECHO done.
+
+RESP: RA w/ sats 97%. No distress.
+
+HEME: hct 23.8-> 2 U prbc -> 30. Coumadin on hold, on pneumoboots.
+
+NEURO: intact and converses appropriately. She is reported to have intermittent issues w/ sundown-like behavior on the floor. MAE, weak legs.
+
+SKIN: edema lower extremeties. duoderm on superficial skin abrasion on coccyx. 
+
+LINES: functional single lumen portacath, functional #19 peripheral iv
+
+RENAL; good u.o. > 50cc/hr, foley placed this am on floor.
+
+PAIN: x6 mo on home oxycontin. Resumed today w/ prn doses oxycodone and mso4. C/O moderated discomfort w/ repositioning (back and abd).
+
+SOCIAL: supportive hsb. Her daughter is [**First Name8 (NamePattern2) 1154**] [**Known patient lastname 6341**] M.D. who did her residency program at [**Hospital1 **]. 
+
+ENDO: sliding scale qid FS.
+
+ID: abx coverage, hypothermia (96). 
+
+ASSESS: stable post transfusions and volume, no evidence of active bleeding, VSS. 
+
+PLAn: cont to monitor. Pain control. Discuss abd ct in am. For 2000 labs
+
+
+
+
+",,
+8927,5321,11101,,3138-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-18**] 5:03 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11849**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for source of bacterimia,                          
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal carcinoma to bone/liver/LAD presenting 
+      w/le weakenss, history of ecoli bactermia.
+     REASON FOR THIS EXAMINATION:
+      evaluate for source of bacterimia,                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Metastatic rectal carcinoma, bacteremic.
+     
+     COMPARISON: [**3138-2-11**].
+     
+     TECHNIQUE: Helically aquires axial images were obtained from the lung bases to
+     the pubic symphysis following the administration of oral and IV contrast.
+     
+     CONTRAST: 150 cc of Optiray were administered IV due to patient debility.
+     
+     CT ABDOMEN WITH IV CONTRAST:  There are new bilateral pleural effusions, right
+     greater than left, with associated basilar atelectasis.  There is a stable
+     pericardial effusion.  No identified pulmonary nodules.  Again seen are
+     multiple low attenuation lesions within the left and right lobes of the liver,
+     unchanged and too small to characterize. No biliary ductal dilatation.  The
+     gallbladder, pancreas, adrenal glands, kidneys, and spleen are within normal
+     limits.  There is no change in the retroperitoneal lymphadenopathy.  There is
+     no free air or free fluid within the abdomen. There are no drainable fluid
+     collections or abscesses.  There is no dilatation or wall thickening within
+     the large or small bowel.  The left paraaortic lymph node measures
+     approximately 1.6 x 1.5 cm.  The retroaortic lymph node measures approximately
+     1.4 x 2.2 cm.  No pathologically enlarged mesenteric lymph nodes.  The
+     colostomy is identified within the left lower quadrant.
+     
+     CT PELVIS WITH IV CONTRAST: The rectal stent is unchanged.  Wall thickening
+     within the rectum is also unchanged.  No evidence of obstruction.  The urinary
+     bladder, uterus, and adnexa are within normal limits.  The ureters are normal.
+     No free fluid within the pelvis.
+     
+     BONE WINDOWS: No significant change in the lytic lesions within the left and
+     right iliac bones.
+     
+     IMPRESSION:
+     1) No abscess or fluid collection seen within the abdomen or pelvis.
+     
+     2) New bilateral pleural effusions.
+     
+     3) No significant change in the retroperitoneal lymphadenopathy or tiny
+     hypodensities within the liver, or the lytic lesions within the pelvis.
+                                                                 (Over)
+
+     DATE: [**3138-2-18**] 5:03 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11849**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for source of bacterimia,                          
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8927,5321,11101,,3138-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-18**] 5:03 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11849**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for source of bacterimia,                          
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal carcinoma to bone/liver/LAD presenting 
+      w/le weakenss, history of ecoli bactermia.
+     REASON FOR THIS EXAMINATION:
+      evaluate for source of bacterimia,                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Metastatic rectal carcinoma, bacteremic.
+     
+     COMPARISON: [**3138-2-11**].
+     
+     TECHNIQUE: Helically aquires axial images were obtained from the lung bases to
+     the pubic symphysis following the administration of oral and IV contrast.
+     
+     CONTRAST: 150 cc of Optiray were administered IV due to patient debility.
+     
+     CT ABDOMEN WITH IV CONTRAST:  There are new bilateral pleural effusions, right
+     greater than left, with associated basilar atelectasis.  There is a stable
+     pericardial effusion.  No identified pulmonary nodules.  Again seen are
+     multiple low attenuation lesions within the left and right lobes of the liver,
+     unchanged and too small to characterize. No biliary ductal dilatation.  The
+     gallbladder, pancreas, adrenal glands, kidneys, and spleen are within normal
+     limits.  There is no change in the retroperitoneal lymphadenopathy.  There is
+     no free air or free fluid within the abdomen. There are no drainable fluid
+     collections or abscesses.  There is no dilatation or wall thickening within
+     the large or small bowel.  The left paraaortic lymph node measures
+     approximately 1.6 x 1.5 cm.  The retroaortic lymph node measures approximately
+     1.4 x 2.2 cm.  No pathologically enlarged mesenteric lymph nodes.  The
+     colostomy is identified within the left lower quadrant.
+     
+     CT PELVIS WITH IV CONTRAST: The rectal stent is unchanged.  Wall thickening
+     within the rectum is also unchanged.  No evidence of obstruction.  The urinary
+     bladder, uterus, and adnexa are within normal limits.  The ureters are normal.
+     No free fluid within the pelvis.
+     
+     BONE WINDOWS: No significant change in the lytic lesions within the left and
+     right iliac bones.
+     
+     IMPRESSION:
+     1) No abscess or fluid collection seen within the abdomen or pelvis.
+     
+     2) New bilateral pleural effusions.
+     
+     3) No significant change in the retroperitoneal lymphadenopathy or tiny
+     hypodensities within the liver, or the lytic lesions within the pelvis.
+                                                                 (Over)
+
+     DATE: [**3138-2-18**] 5:03 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11849**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for source of bacterimia,                          
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8927,5321,11101,,3138-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-18**] 5:03 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11849**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for source of bacterimia,                          
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal carcinoma to bone/liver/LAD presenting 
+      w/le weakenss, history of ecoli bactermia.
+     REASON FOR THIS EXAMINATION:
+      evaluate for source of bacterimia,                                              
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY: Metastatic rectal carcinoma, bacteremic.
+     
+     COMPARISON: [**3138-2-11**].
+     
+     TECHNIQUE: Helically aquires axial images were obtained from the lung bases to
+     the pubic symphysis following the administration of oral and IV contrast.
+     
+     CONTRAST: 150 cc of Optiray were administered IV due to patient debility.
+     
+     CT ABDOMEN WITH IV CONTRAST:  There are new bilateral pleural effusions, right
+     greater than left, with associated basilar atelectasis.  There is a stable
+     pericardial effusion.  No identified pulmonary nodules.  Again seen are
+     multiple low attenuation lesions within the left and right lobes of the liver,
+     unchanged and too small to characterize. No biliary ductal dilatation.  The
+     gallbladder, pancreas, adrenal glands, kidneys, and spleen are within normal
+     limits.  There is no change in the retroperitoneal lymphadenopathy.  There is
+     no free air or free fluid within the abdomen. There are no drainable fluid
+     collections or abscesses.  There is no dilatation or wall thickening within
+     the large or small bowel.  The left paraaortic lymph node measures
+     approximately 1.6 x 1.5 cm.  The retroaortic lymph node measures approximately
+     1.4 x 2.2 cm.  No pathologically enlarged mesenteric lymph nodes.  The
+     colostomy is identified within the left lower quadrant.
+     
+     CT PELVIS WITH IV CONTRAST: The rectal stent is unchanged.  Wall thickening
+     within the rectum is also unchanged.  No evidence of obstruction.  The urinary
+     bladder, uterus, and adnexa are within normal limits.  The ureters are normal.
+     No free fluid within the pelvis.
+     
+     BONE WINDOWS: No significant change in the lytic lesions within the left and
+     right iliac bones.
+     
+     IMPRESSION:
+     1) No abscess or fluid collection seen within the abdomen or pelvis.
+     
+     2) New bilateral pleural effusions.
+     
+     3) No significant change in the retroperitoneal lymphadenopathy or tiny
+     hypodensities within the liver, or the lytic lesions within the pelvis.
+                                                                 (Over)
+
+     DATE: [**3138-2-18**] 5:03 PM
+     CT ABDOMEN W/CONTRAST; CT PELVIS W/CONTRAST                     Clip # [**Clip Number (Radiology) 11849**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: evaluate for source of bacterimia,                          
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+      Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8927,5321,11101,0,3138-02-18 05:09:00 EST,3138-02-18 05:25:00 EST,1479,"N",69,"Nursing/Other",,"
+
+2000: Pt is a 65 yo female admitted from a Hem/Onc floor w/ hypotension, change in MS, febrile, rigors due to sepsis, and GI bleed. Pt w/ PMHX rectal CA w/ mets. 2U PRBC's given during day. Post HCT 30.2. ID consulted; ordered triple ABX therapy, started this PM. Colostomy emptied of a large amt of formed, brown stool, and old, dark blood present from transfer. VSS. Good urine output. HCT, lytes sent. 
+
+2300: 2030 K+=3.3. MD aware. Pt ordered for and repleted w/ KCL 40meq IV. 2030 HCT stable at 30.1. No evidence of bleeding from colostomy nor rectum. VSS. Good urine output. Pt w/ low grade temp at 99.9, face flushed. Ibeuprofen 600mg given. Will monitor. 
+
+0500: 0400 HCT stable at 30.3. K+=4.5 MG+=2.1. No repletion needed. Pt status quo throughout the night. VSS. Afebrile. No c/o rigors. Good urine output. Pt anxious about ICU stay, reassurance, comfort measures given w/ good effect. Lower back and rectal pain relieved w/ standing oxycontin, PRN oxycodone. T/P, pillow wedges used. May transfer back to Hem/Onc floor today. Will monitor. 
+",,
+8927,5321,11101,0,3138-02-18 18:25:00 EST,3138-02-18 18:26:00 EST,761,"N",69,"Nursing/Other","Fin 4 ICU nursing progress note:","
+[**Wardname **] 4 ICU nursing progress note:
+ See transfer note for update.
+",,
+8927,5321,,,3138-02-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-21**] 9:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11850**]
+     Reason: PNA?                                                        
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal cancer, fever, altered ms              
+                        
+     REASON FOR THIS EXAMINATION:
+      PNA?                                                                            
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic renal carcinoma.  Fever.  Altered mental status.  Rule
+     out pneumonia.
+     
+     FINDINGS:  A single AP upright image.  Comparison study dated [**3138-2-17**].
+     There is again evidence of moderate cardiac enlargement, mainly left
+     ventricular.  Slight upper zone redistribution may be present.  This could be
+     partly postural if the patient is semiupright, but minimal LV failure cannot
+     be excluded.  No pulmonary infiltrates or pleural effusions are demonstrated.
+     Some minor atelectasis is noted in the basal segments of the left lower lobe
+     behind the heart.  A right subclavian port-a-cath is present with its tip well
+     positioned in the SVC.
+     
+     IMPRESSION:  LV enlargement and possible minimal upper zone redistribution.
+     Very slight LV failure cannot be excluded but the findings may be postural.
+     No evidence of metastases can be identified.
+
+",,
+8927,5321,,,3138-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-25**] 12:24 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11851**]
+     Reason: PNA                                                         
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       65 year old woman with metastatic rectal cancer, fever, altered ms             
+                          
+     REASON FOR THIS EXAMINATION:
+      PNA                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic rectal cancer with fever and altered mental status.
+     
+     VIEWS:  Upright AP view is compared with direct AP view from [**3138-2-21**].
+     
+     FINDINGS:  The right subclavian central venous line remains in stable and
+     satisfactory position.  No pneumothorax is present.  There is stable
+     cardiomegaly.  The pulmonary vascularity is within normal limits.  The lungs
+     are clear.  No pleural effusions are identified however the left costophrenic
+     angle is excluded.  No  focal consolidations are present.  Soft tissues and
+     osseous structures are unchanged.
+     
+     IMPRESSION:   Cardiomegaly without evidence of congestive heart failure.
+
+",,
+8927,5321,,,3138-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-25**] 10:57 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11852**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Please eval for infiltrates, consolidation, loculated effusi
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     Field of view: 44.7 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal cancer, now with LE weakness, 
+      persistent fevers
+     REASON FOR THIS EXAMINATION:
+      Please eval for infiltrates, consolidation, loculated effusion, abscess, 
+      inflammation
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Metastatic rectal cancer, on chemotherapy.  Persistent fevers. Known
+     pleural effusions.  Assess for empyema or abdominal abscess.
+     
+     COMPARISON:  Abdomen/pelvis CT of [**3138-2-18**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the chest, abdomen
+     and pelvis were obtained with oral contrast and 150 cc of intravenous Optiray.
+     
+     CHEST CT WITH INTRAVENOUS CONTRAST:  The right lobe of the thyroid gland is
+     enlarged, heterogenous and nodular.  There is no mediastinal, hilar or
+     axillary lymphadenopathy. There is a small area of ill- defined ground- glass
+     opacity in the lingula, which is consistent with an infectious/inflammatory
+     process. Clinical correlation is suggested. There is a 4-mm faint nodular
+     opacity at the right apex, and a 4-mm faint nodular opacity at the left apex,
+     which are nonspecific.  There is a 2- mm nodule in the right middle lobe.
+     
+     Bilateral pleural effusions remain present, unchanged since the prior study.
+     They do not enhance.  Associated bibasilar atelectasis is present.  There is
+     also a prominent pericardial effusion, which does not enhance.  The airways
+     appear patent to the level of the segmental bronchi.
+     
+     ABDOMEN CT WITH INTRAVENOUS CONTRAST:  There is no free air or free fluid.
+     Previously described subcentimeter low-attenuation liver lesions are again
+     seen. The gallbladder, spleen, pancreas, adrenal glands, and kidneys are
+     unremarkable. Bulky retroperitoneal lymphadenopathy is again noted, unchanged
+     since the prior study.  A colostomy is again noted in the left lower quadrant.
+     Loops of bowel are again seen in a parastomal hernia, without evidence of
+     obstruction.
+     
+     PELVIS CT WITH INTRAVENOUS CONTRAST:  The rectum appears unchanged, with a
+     stent again noted.  There is a Foley catheter within the bladder.  The
+     ureters, uterus and adnexa are unremarkable.  There is no free fluid.
+     
+     Previously-described lytic lesions are again noted within the pelvic bones
+     bilaterally.  There is increased diffuse anasarca.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**3138-2-25**] 10:57 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11852**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Please eval for infiltrates, consolidation, loculated effusi
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     Field of view: 44.7 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     
+     1) Stable appearance of bilateral pleural effusions, without CT evidence of
+     empyema.  Prominent pericardial effusion.
+     2) Lingular infectious/inflammatory process.
+     3) Increased anasarca.
+     4) No abscess within the abdomen or pelvis.
+     5) Stable appearance of bulky retroperitoneal lymphadenopathy and osseous
+     metastases. Stable appearance of small low-attenuation liver lesions.
+     6) Right-sided thyroid nodules.
+
+",,
+8927,5321,,,3138-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-25**] 10:57 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11852**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Please eval for infiltrates, consolidation, loculated effusi
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     Field of view: 44.7 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal cancer, now with LE weakness, 
+      persistent fevers
+     REASON FOR THIS EXAMINATION:
+      Please eval for infiltrates, consolidation, loculated effusion, abscess, 
+      inflammation
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Metastatic rectal cancer, on chemotherapy.  Persistent fevers. Known
+     pleural effusions.  Assess for empyema or abdominal abscess.
+     
+     COMPARISON:  Abdomen/pelvis CT of [**3138-2-18**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the chest, abdomen
+     and pelvis were obtained with oral contrast and 150 cc of intravenous Optiray.
+     
+     CHEST CT WITH INTRAVENOUS CONTRAST:  The right lobe of the thyroid gland is
+     enlarged, heterogenous and nodular.  There is no mediastinal, hilar or
+     axillary lymphadenopathy. There is a small area of ill- defined ground- glass
+     opacity in the lingula, which is consistent with an infectious/inflammatory
+     process. Clinical correlation is suggested. There is a 4-mm faint nodular
+     opacity at the right apex, and a 4-mm faint nodular opacity at the left apex,
+     which are nonspecific.  There is a 2- mm nodule in the right middle lobe.
+     
+     Bilateral pleural effusions remain present, unchanged since the prior study.
+     They do not enhance.  Associated bibasilar atelectasis is present.  There is
+     also a prominent pericardial effusion, which does not enhance.  The airways
+     appear patent to the level of the segmental bronchi.
+     
+     ABDOMEN CT WITH INTRAVENOUS CONTRAST:  There is no free air or free fluid.
+     Previously described subcentimeter low-attenuation liver lesions are again
+     seen. The gallbladder, spleen, pancreas, adrenal glands, and kidneys are
+     unremarkable. Bulky retroperitoneal lymphadenopathy is again noted, unchanged
+     since the prior study.  A colostomy is again noted in the left lower quadrant.
+     Loops of bowel are again seen in a parastomal hernia, without evidence of
+     obstruction.
+     
+     PELVIS CT WITH INTRAVENOUS CONTRAST:  The rectum appears unchanged, with a
+     stent again noted.  There is a Foley catheter within the bladder.  The
+     ureters, uterus and adnexa are unremarkable.  There is no free fluid.
+     
+     Previously-described lytic lesions are again noted within the pelvic bones
+     bilaterally.  There is increased diffuse anasarca.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**3138-2-25**] 10:57 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11852**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Please eval for infiltrates, consolidation, loculated effusi
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     Field of view: 44.7 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     
+     1) Stable appearance of bilateral pleural effusions, without CT evidence of
+     empyema.  Prominent pericardial effusion.
+     2) Lingular infectious/inflammatory process.
+     3) Increased anasarca.
+     4) No abscess within the abdomen or pelvis.
+     5) Stable appearance of bulky retroperitoneal lymphadenopathy and osseous
+     metastases. Stable appearance of small low-attenuation liver lesions.
+     6) Right-sided thyroid nodules.
+
+",,
+8927,5321,,,3138-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-25**] 10:57 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11852**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Please eval for infiltrates, consolidation, loculated effusi
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     Field of view: 44.7 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal cancer, now with LE weakness, 
+      persistent fevers
+     REASON FOR THIS EXAMINATION:
+      Please eval for infiltrates, consolidation, loculated effusion, abscess, 
+      inflammation
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Metastatic rectal cancer, on chemotherapy.  Persistent fevers. Known
+     pleural effusions.  Assess for empyema or abdominal abscess.
+     
+     COMPARISON:  Abdomen/pelvis CT of [**3138-2-18**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the chest, abdomen
+     and pelvis were obtained with oral contrast and 150 cc of intravenous Optiray.
+     
+     CHEST CT WITH INTRAVENOUS CONTRAST:  The right lobe of the thyroid gland is
+     enlarged, heterogenous and nodular.  There is no mediastinal, hilar or
+     axillary lymphadenopathy. There is a small area of ill- defined ground- glass
+     opacity in the lingula, which is consistent with an infectious/inflammatory
+     process. Clinical correlation is suggested. There is a 4-mm faint nodular
+     opacity at the right apex, and a 4-mm faint nodular opacity at the left apex,
+     which are nonspecific.  There is a 2- mm nodule in the right middle lobe.
+     
+     Bilateral pleural effusions remain present, unchanged since the prior study.
+     They do not enhance.  Associated bibasilar atelectasis is present.  There is
+     also a prominent pericardial effusion, which does not enhance.  The airways
+     appear patent to the level of the segmental bronchi.
+     
+     ABDOMEN CT WITH INTRAVENOUS CONTRAST:  There is no free air or free fluid.
+     Previously described subcentimeter low-attenuation liver lesions are again
+     seen. The gallbladder, spleen, pancreas, adrenal glands, and kidneys are
+     unremarkable. Bulky retroperitoneal lymphadenopathy is again noted, unchanged
+     since the prior study.  A colostomy is again noted in the left lower quadrant.
+     Loops of bowel are again seen in a parastomal hernia, without evidence of
+     obstruction.
+     
+     PELVIS CT WITH INTRAVENOUS CONTRAST:  The rectum appears unchanged, with a
+     stent again noted.  There is a Foley catheter within the bladder.  The
+     ureters, uterus and adnexa are unremarkable.  There is no free fluid.
+     
+     Previously-described lytic lesions are again noted within the pelvic bones
+     bilaterally.  There is increased diffuse anasarca.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**3138-2-25**] 10:57 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11852**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Please eval for infiltrates, consolidation, loculated effusi
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     Field of view: 44.7 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     
+     1) Stable appearance of bilateral pleural effusions, without CT evidence of
+     empyema.  Prominent pericardial effusion.
+     2) Lingular infectious/inflammatory process.
+     3) Increased anasarca.
+     4) No abscess within the abdomen or pelvis.
+     5) Stable appearance of bulky retroperitoneal lymphadenopathy and osseous
+     metastases. Stable appearance of small low-attenuation liver lesions.
+     6) Right-sided thyroid nodules.
+
+",,
+8927,5321,,,3138-02-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-2-25**] 10:57 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11852**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Please eval for infiltrates, consolidation, loculated effusi
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     Field of view: 44.7 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old woman with metastatic rectal cancer, now with LE weakness, 
+      persistent fevers
+     REASON FOR THIS EXAMINATION:
+      Please eval for infiltrates, consolidation, loculated effusion, abscess, 
+      inflammation
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     HISTORY:  Metastatic rectal cancer, on chemotherapy.  Persistent fevers. Known
+     pleural effusions.  Assess for empyema or abdominal abscess.
+     
+     COMPARISON:  Abdomen/pelvis CT of [**3138-2-18**].
+     
+     TECHNIQUE:  Helically acquired contiguous axial images of the chest, abdomen
+     and pelvis were obtained with oral contrast and 150 cc of intravenous Optiray.
+     
+     CHEST CT WITH INTRAVENOUS CONTRAST:  The right lobe of the thyroid gland is
+     enlarged, heterogenous and nodular.  There is no mediastinal, hilar or
+     axillary lymphadenopathy. There is a small area of ill- defined ground- glass
+     opacity in the lingula, which is consistent with an infectious/inflammatory
+     process. Clinical correlation is suggested. There is a 4-mm faint nodular
+     opacity at the right apex, and a 4-mm faint nodular opacity at the left apex,
+     which are nonspecific.  There is a 2- mm nodule in the right middle lobe.
+     
+     Bilateral pleural effusions remain present, unchanged since the prior study.
+     They do not enhance.  Associated bibasilar atelectasis is present.  There is
+     also a prominent pericardial effusion, which does not enhance.  The airways
+     appear patent to the level of the segmental bronchi.
+     
+     ABDOMEN CT WITH INTRAVENOUS CONTRAST:  There is no free air or free fluid.
+     Previously described subcentimeter low-attenuation liver lesions are again
+     seen. The gallbladder, spleen, pancreas, adrenal glands, and kidneys are
+     unremarkable. Bulky retroperitoneal lymphadenopathy is again noted, unchanged
+     since the prior study.  A colostomy is again noted in the left lower quadrant.
+     Loops of bowel are again seen in a parastomal hernia, without evidence of
+     obstruction.
+     
+     PELVIS CT WITH INTRAVENOUS CONTRAST:  The rectum appears unchanged, with a
+     stent again noted.  There is a Foley catheter within the bladder.  The
+     ureters, uterus and adnexa are unremarkable.  There is no free fluid.
+     
+     Previously-described lytic lesions are again noted within the pelvic bones
+     bilaterally.  There is increased diffuse anasarca.
+     
+     IMPRESSION:
+                                                                 (Over)
+
+     DATE: [**3138-2-25**] 10:57 PM
+     CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 11852**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: Please eval for infiltrates, consolidation, loculated effusi
+     Admitting Diagnosis: METASTATIC RECTAL CA,R/O SPINAL CORD COMPRESSION
+     Field of view: 44.7 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT  (REVISED)
+     (Cont)
+     
+     1) Stable appearance of bilateral pleural effusions, without CT evidence of
+     empyema.  Prominent pericardial effusion.
+     2) Lingular infectious/inflammatory process.
+     3) Increased anasarca.
+     4) No abscess within the abdomen or pelvis.
+     5) Stable appearance of bulky retroperitoneal lymphadenopathy and osseous
+     metastases. Stable appearance of small low-attenuation liver lesions.
+     6) Right-sided thyroid nodules.
+
+",,
+8927,,,,3138-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-3-25**] 1:35 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 11853**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: PATIENT WITH METASTAIC RECTAL CANCER. METS TO LIVER, R/O INCREASED METS TO LIVER.
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS WITHIOUT IV CONTRAST:
+     
+     TECHNIQUE:  Helical scanning is performed from the diaphragm through the
+     symphysis, prior to and during dynamic injection of 150 cc of Optiray.
+     Comparison is made to a prior study of [**3138-2-25**].
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  The lung bases are clear.
+     There is a moderate pericardial effusion which is stable in comparison to the
+     prior study.  Again noted is a subcentimeter hypodense lesions within segment
+     2 of the liver.  This is stable in appearance and too small to characterize.
+     No additional or new lesions are seen.  The spleen, pancreas, both adrenal
+     glands, gallbladder, and both kidneys are unremarkable.  Again noted is
+     extensive retroperitoneal lymphadenopathy which is stable in appearance.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a colostomy in left lower
+     quadrant with a parastomal hernia.  There is no evidence of obstruction.  A
+     Foley catheter is identified within the bladder.  Again noted are multiple
+     sclerotic lesions throughout the depicted osseous structures.
+     
+     IMPRESSION:  No change in comparison to [**3138-2-25**].
+     
+     1)  Retroperitoneal lymphadenopathy stable in appearance.
+     
+     2)  Low-attenuation liver lesion is stable.
+     
+     3)  Moderate pericardial effusion stable.
+
+",,
+8927,,,,3138-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-3-25**] 1:35 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 11853**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: PATIENT WITH METASTAIC RECTAL CANCER. METS TO LIVER, R/O INCREASED METS TO LIVER.
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS WITHIOUT IV CONTRAST:
+     
+     TECHNIQUE:  Helical scanning is performed from the diaphragm through the
+     symphysis, prior to and during dynamic injection of 150 cc of Optiray.
+     Comparison is made to a prior study of [**3138-2-25**].
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  The lung bases are clear.
+     There is a moderate pericardial effusion which is stable in comparison to the
+     prior study.  Again noted is a subcentimeter hypodense lesions within segment
+     2 of the liver.  This is stable in appearance and too small to characterize.
+     No additional or new lesions are seen.  The spleen, pancreas, both adrenal
+     glands, gallbladder, and both kidneys are unremarkable.  Again noted is
+     extensive retroperitoneal lymphadenopathy which is stable in appearance.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a colostomy in left lower
+     quadrant with a parastomal hernia.  There is no evidence of obstruction.  A
+     Foley catheter is identified within the bladder.  Again noted are multiple
+     sclerotic lesions throughout the depicted osseous structures.
+     
+     IMPRESSION:  No change in comparison to [**3138-2-25**].
+     
+     1)  Retroperitoneal lymphadenopathy stable in appearance.
+     
+     2)  Low-attenuation liver lesion is stable.
+     
+     3)  Moderate pericardial effusion stable.
+
+",,
+8927,,,,3138-03-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3138-3-25**] 1:35 PM
+     CT ABD W&W/O C; CT PELVIS W/CONTRAST                            Clip # [**Clip Number (Radiology) 11853**]
+     CT 150CC NONIONIC CONTRAST
+     Reason: PATIENT WITH METASTAIC RECTAL CANCER. METS TO LIVER, R/O INCREASED METS TO LIVER.
+     Field of view: 40 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CT OF THE ABDOMEN AND PELVIS WITHIOUT IV CONTRAST:
+     
+     TECHNIQUE:  Helical scanning is performed from the diaphragm through the
+     symphysis, prior to and during dynamic injection of 150 cc of Optiray.
+     Comparison is made to a prior study of [**3138-2-25**].
+     
+     CT OF THE ABDOMEN WITH AND WITHOUT IV CONTRAST:  The lung bases are clear.
+     There is a moderate pericardial effusion which is stable in comparison to the
+     prior study.  Again noted is a subcentimeter hypodense lesions within segment
+     2 of the liver.  This is stable in appearance and too small to characterize.
+     No additional or new lesions are seen.  The spleen, pancreas, both adrenal
+     glands, gallbladder, and both kidneys are unremarkable.  Again noted is
+     extensive retroperitoneal lymphadenopathy which is stable in appearance.
+     
+     CT OF THE PELVIS WITH IV CONTRAST:  There is a colostomy in left lower
+     quadrant with a parastomal hernia.  There is no evidence of obstruction.  A
+     Foley catheter is identified within the bladder.  Again noted are multiple
+     sclerotic lesions throughout the depicted osseous structures.
+     
+     IMPRESSION:  No change in comparison to [**3138-2-25**].
+     
+     1)  Retroperitoneal lymphadenopathy stable in appearance.
+     
+     2)  Low-attenuation liver lesion is stable.
+     
+     3)  Moderate pericardial effusion stable.
+
+",,

@@ -1,0 +1,392 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8859,,,,3335-10-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-10-28**] 1:31 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 11063**]
+     Reason: cad, cabg
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old man with 
+     REASON FOR THIS EXAMINATION:
+      cad
+      cabg
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  CORONARY ARTERY DISEASE FOR PREOPERATIVE  EVALUATION BEFORE CABG.
+     
+     Two views of the chest are compared to a prior study dated [**3335-8-19**].
+     
+     The cardiomediastinal contours are normal.  There is no pleural effusion or
+     pneumothorax.  The lungs are clear.  The osseous structures are intact.
+     
+     IMPRESSION:  Normal chest radiograph with no evidence of congestive heart
+     failure.
+
+",,
+8859,20309,,,3335-10-31 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**3335-10-31**]       Discharge Date:  [**3335-11-7**]
+
+Date of Birth:   [**3270-6-12**]       Sex:  M
+
+Service:  CA/TH [**Doctor First Name **]
+
+HISTORY OF PRESENT ILLNESS:  This is a 65 -year-old gentleman
+with a progressive dyspnea on exertion and paroxysmal
+nocturnal dyspnea over the past two months.  He had a
+positive exercise tolerance test with some atrial and
+ventricular arrhythmias noted and underwent cardiac
+catheterization in [**3335-9-12**] which revealed a left
+ventricular ejection fraction of 18%, three vessel coronary
+artery disease, and severe global hypokinesis and he was
+referred to Cardiothoracic Surgery Service for coronary
+artery bypass grafting.
+
+PAST MEDICAL HISTORY:
+1.  Non-insulin-dependent diabetes mellitus.
+2.  Hyperlipidemia.
+3.  Recent congestive heart failure.
+4.  Status post bilateral cataract extraction.
+5.  Status post hand surgery many years ago.
+6.  Status post ankle injury.
+7.  Transient vertigo attributed to an inner ear infection
+many years ago.
+
+PREOPERATIVE MEDICATIONS:  Univasc 15 mg po q day, Lasix 20
+mg po q day, aspirin 325 mg po q day, Glyburide 10 mg po bid,
+Glucophage 1,000 mg po bid, Lipitor 10 mg po q day, and
+Viagra 100 mg prn.
+
+ALLERGIES:  No known drug allergies.
+
+PHYSICAL EXAMINATION:  Physical examination on admission to
+the hospital was unremarkable.
+
+HOSPITAL COURSE:  The patient was taken to the Operating Room
+on [**3335-10-31**], with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **], where he
+underwent coronary artery bypass graft times four with a left
+internal mammary artery to the left anterior descending,
+saphenous vein graft to the obtuse marginal artery, saphenous
+vein graft to the posterior descending artery, and saphenous
+vein graft to the diagonal.  Postoperatively the patient was
+transported from the Operating Room to the Cardiac Surgery
+Recovery Unit on IV drips of propofol, milrinone, and
+lidocaine.  He was in normal sinus rhythm at that time.
+
+The patient was placed on lidocaine for frequent ventricular
+arrhythmias.  The milrinone was weaned off by the following
+morning and late in the day on postoperative day one the
+lidocaine was discontinued, as was the IV Neo-Synephrine
+which had been started for some transient postoperative
+hypotension.  The patient was transferred to the Telemetry
+Floor on postoperative day one.
+
+An Electrophysiology consultation was obtained due to
+frequent ventricular arrhythmias in the light of a low
+ejection fraction.  It was their recommendation to begin a
+beta blocker when the patient was hemodynamically stable and
+to study him.  Over the next few days on the Telemetry Floor,
+the patient remained hemodynamically stable, continued to
+have frequent premature ventricular contractions, was
+progressing with cardiac rehabilitation, had been started on
+low dose beta blocker and begun on diuretics.  His chest
+tubes had been discontinued.
+
+The patient was taken to the Electrophysiology Lab on
+[**11-4**], where he underwent placement of a dual chamber
+implantable cardioverter defibrillator.  The patient
+tolerated the procedure well and has remained on the
+Cardiothoracic / Telemetry Floor since the placement of the
+device.  He has remained hemodynamically stable and he is
+ready to be discharged home today, on [**3335-11-7**],
+postoperative day seven.
+
+DISCHARGE CONDITION:  Stable.
+
+DISCHARGE PHYSICAL EXAMINATION:  Temperature 98.6 F, pulse 75
+and normal sinus rhythm, blood pressure 110/80.  His weight
+today is 106.2 kg, 1.0 kg above his preoperative weight of
+107.2 kg.  His room air oxygen saturation is 98%.
+Neurologically the patient is intact.  Pulmonary examination
+is unremarkable.  His lungs are clear to auscultation
+bilaterally.  His coronary examination is regular rate and
+rhythm.  His sternum is stable.  His incision is clean, dry,
+and intact and his right leg incision is also clean, dry, and
+intact with no erythema or drainage.
+
+LABORATORY DATA:  His most recent chest x-ray is from
+[**3335-11-5**], which revealed small bilateral pleural
+effusions and left lower lobe atelectasis.  Most recent
+laboratory values are from [**3335-11-7**], which revealed
+a white blood cell count of 10,100, hematocrit of 24.8, a
+platelet count of 379,000.  Urinalysis on [**11-6**]
+revealed 0 to 2 white blood cells, and few bacteria.  Other
+laboratory values from [**3335-11-6**], are a sodium of
+138, potassium 4.9, chloride 105, CO2 27, BUN 24, creatinine
+1.2, glucose 110.
+
+DISCHARGE MEDICATIONS:  Lasix 20 mg po bid times one week,
+potassium chloride 20 mEq po bid times one week, Colace 100
+mg po bid, enteric coated aspirin 325 mg po q day, Glucophage
+1,000 mg po bid, Glyburide 10 mg po bid, Captopril 12.5 mg po
+q eight hours, Lipitor 10 mg po q HS, Lopressor 12.5 mg po
+bid, amiodarone 200 mg po tid times one week, then amiodarone
+400 mg po q day times one month, then amiodarone 200 mg po q
+day, ibuprofen 400 mg po q six hours prn, Percocet 5/325 one
+tablet po q four hours prn pain, and ciprofloxacin 500 mg one
+tablet po bid times five days for the urinary tract
+infection.
+
+FOLLOW UP:  The patient is to follow up in the Device Clinic
+here at [**Hospital3 **] - [**Hospital 5**] [**First Name (Titles) 6**] [**Last Name (Titles) 7**] on the East
+Campus, seventh floor, Cardiology Department, on [**3335-11-11**], at 11 o'clock in the morning.  The telephone number
+there is [**Telephone/Fax (1) 6112**].  He is to follow up with Dr. [**First Name4 (NamePattern1) 1078**]
+[**Last Name (NamePattern1) 12348**] next week.  His office has been contacted.  And he is to
+follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] in one month for
+postoperative wound check.
+
+DISCHARGE STATUS:  Stable.
+
+DISCHARGE DIAGNOSES:
+1.  Coronary artery disease, status post coronary artery
+bypass graft.
+2.  Severe left ventricular dysfunction.
+3.  Frequent ventricular arrhythmias, status post automatic
+implantable cardioverter - defibrillator placement.
+
+
+
+                            [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 1106**], M.D.  [**MD Number 1107**]
+
+Dictated By:[**Name8 (MD) 948**]
+MEDQUIST36
+
+D:  [**3335-11-7**]  09:53
+T:  [**3335-11-7**]  09:49
+JOB#:  [**Job Number 12349**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **]
+ on: MON [**3335-11-7**] 1:01 PM
+(End of Report)
+
+
+",,
+8859,20309,11014,0,3335-10-31 18:09:00 EST,3335-10-31 18:33:00 EST,-1,"N",54,"Nursing/Other","CRSU ADM/ UPDATE","
+CRSU ADM/ UPDATE
+NEURO: ADM SEDATED. ANESTHESIA REVERSED -> PT. AWOKE,FOLLOWS COMMANDS. MAEW IN BED. UPON EXTUBATION PT. AAOX3, ASKING APPROP QUESTIONS.
+
+CV: VITALS PER FLOWSHEET. RECEIVED 1000CC LR. NEO TITRATED. MILRANONE TO .25 MCG/KG/MIN. INITIALLY A-PACED NOW IN NSR W/ 1ST DEGREE BLOCK. FREQ PVC AT TIMES-> ON LIDO AND K+ REPLACED, NOW PVC LESS FREQ.
+
+RESP: PT W/ #7 ETT ON ARRIVAL & FULLY VENTED. WEANED TO EXTUBATION BY 1600. TOL WELL. NOW 40% OFM. FAIR COUGH. POST EXTUBATION ABG. AS NOTED. LUNGS CLEAR BIL. MEDIASTINALS/ PLEURAL TUBE TO PLEUREVAC. 20CM SX. SANG DNG NOTED & POS AIR LEAK.
+
+GI/GU: FOLEY PATENT. ABD SOFT HYPO BS
+
+SOCIAL: WIFE IN ROOM FREQUENTLY, AWARE OF PROGRESS.
+
+SKIN: COCCYX PINK/ INTACT
+
+ENDO: GLUCOSES 164 & TREATED PER PROTOCOL ^ 174. DRIP BEGAN.
+
+PAIN: C/O LT. PLEURAL TUBE & BACK PAIN. MSO4 4MG X2. RESTING AT PRESENT
+
+ASSESS: STABLE POST-OP
+
+PLAN: TITRATE NEO. MILRANONE/ LIDO TO OFF BY AM. PULM HYGIENE. TREAT LABS. CONT ANALGESIA. 
+ 
+ASSESS: STABLE POST-OP
+",,
+8859,20309,11014,0,3335-11-01 04:30:00 EST,3335-11-01 04:45:00 EST,3169,"N",54,"Nursing/Other",,"
+
+[**10-31**] 7P-7A SHIFT SUMMARY;
+
+NEURO; ALERT, ORIENTED, FOLLOWS COMMANDS AND MOVES ALL EXTREMITIES WELL.  
+
+RESP;  INITALLY ON OPEN SHOVAL MASK AT 0.40% WITH RR AND 02 SAT'S WNL. LUNGS CLEAR, DIM IN THE BASES. 02 CHANGED TO 4L N/C WITH ABG THIS AM WNL. INSTRUCTED AND ENCOURAGED IN USE OF I.S. PT IS COUGHING AND DEEP BREATHING WITH ENCOURAGEMENT. CHEST TUBE DRAINING THIN SANQ. DRAINAGE.
+
+CARDIOVAS; ON MILRINONE DRIP AT 0.25 MCG/KG/MIN. WITH CI>2.00 AND DRIP DC'D AT O200 PER DR [**Last Name (STitle) 3065**]. NEO DRIP TITRATED TO MAINTAIN MAP>60 AND <90. LIDO DRIP INFUSING AT 1MG/MIN WITH NO NOTED PVC'S ALL SHIFT.
+
+GI; TAKING AND TOLERATING SIPS OF H20 WITH NO C/O NAUSEA.
+
+GU; HOURLY URINE OP WNL AND >30CC HR.
+
+ENDO; PT ON INSULIN DRIP AT 5U/HR WITH NO CHANGE IN RATE PER SLIDING SCALE POLICY AT THIS TIME .
+
+COMFORT; PT ON TORADAL 15MG IVP X4 AND DID C/O SM AMT DISCOMFORT AND MED WITH MS04 4MG SQ WITH GOOD EFFECT.
+   
+",,
+8859,20309,11014,0,3335-11-01 15:20:00 EST,3335-11-01 15:32:00 EST,-1,"N",54,"Nursing/Other","CRSU UPDATE","
+CRSU UPDATE
+NEURO: AAOX3 MAEW. NO ISSUES
+
+CV: NSR W/ 1ST DEGREE HB. OCCAS. PVC. TRACE GENERALIZED EDEMA. NEO. SLOW WEAN TO OFF AT PRESENT. SWAN D/C  W/OUT DIFF. LT. FEM A-LINE D/C->PRESSURE HELD. NO OOZE OR HEMATOMA. DP BY [**Last Name (un) **] BILAT.
+
+RESP: O2 2L N/C  LUNGS CLEAR BILAT. I.S. 1250CC. 
+
+GI: TOL BREAKFAST. NAUSEA W/ SM AMT EMESIS W/ OOB. REGLAN 10MG GIVEN W/ EFFECT. APP. POOR AT LUNCH. GLUCOSES AS NOTED. GLYBURIDE BEGAN INSULIN DRIP TO OFF.
+
+GU: UOP 25-45CC/HR.
+
+ASSESS: STABLE DAY 
+
+PLAN: CONT DE-LINE. ? TRANSFER [**Hospital Ward Name **] 6.
+",,
+8859,20309,11014,0,3335-11-01 23:03:00 EST,3335-11-01 23:10:00 EST,3202,"N",54,"Nursing/Other","UPDATE","
+UPDATE
+PERIODS OF TRIGEMINY AND QUADGEMINY. MAGNESIUM BOLUS GIVEN WITHOUT EFFECT. AMNIODARONE BOLUS GIVEN AND GTT STARTED. UNIFOCAL PVC'S SEEM LESS. TRANSFER OUT OF CSRU DELAYED TO MONITOR ECTOPY.
+
+BREATHSOUNDS CLEAR. SP02 GOOD ON NC.
+
+URINE OUTPUT ADEQUATE. LASIX NOT STARTED TODAY.
+
+SKIN INTACT. STERNAL, MEDIASTINAL AND LEG (ACE) DSGS D&I.
+
+TOLERATED SOLID FOOD WITHOUT DIFFICULY. GLUCOSE REMAINS ELEVATED. SS INSULIN GIVEN. ORAL HYPOGLYCEMIC STARTED EARLIER.
+
+OOB TO CHAIR WITH MINIMAL ASSIST. NO C/O NAUSEA OR FAINTNESS WITH MOVING. PT DENIES HAVING PAIN. PERCOCET, 1 TAB GIVEN X 2.
+
+WIFE [**Name (NI) **] IN TO VISIT. PLAN TO MONITOR ECTOPY OVERNIGHT. POSSIBLE TRANSFER TO [**Hospital Ward Name **] 6 TOMORROW. WILL NEED AMNIODARONE DECREASED @ 0145. WILL NEED CONTINUED GLUCOSE MONITORING OVERNIGT. 
+",,
+8859,20309,11014,,3335-11-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-11-2**] 5:19 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 11064**]
+     Reason: s/p chest tube D/C; is there a PTX?
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old man with s/p CABG x 4 POD 2.
+     REASON FOR THIS EXAMINATION:
+      s/p chest tube D/C; is there a PTX?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Status post CABG x4, post op day 2. Status post chest tube d/c.
+     Rule out pneumothorax.
+     
+     Single frontal view of the chest was compared to [**3335-10-28**]. The patient is
+     status post mediansternotomy. The heart is slightly enlarged. The mediastinal
+     silhouette is within normal limits. Consolidation is noted in the left lung
+     base medially, which may represent atelectasis or pneumonia. There is a small
+     amount of left pleural effusion. No pneumothorax is seen. The visualized bony
+     and soft tissue structures are unremarkable.
+     
+     IMPRESSION: Interval mediansternotomy. Consolidation in the left base, which
+     may represent atelectasis versus pneumonia. Left pleural effusion.
+
+",,
+8859,20309,11014,0,3335-11-02 04:36:00 EST,3335-11-02 04:39:00 EST,-1,"N",54,"Nursing/Other","Shift Note","
+Shift Note
+Pt is neurologically intact, MAE to command. Hemodynamics are stable. Amiodarone infusing as ordered. Pt with frequent to occassional ventricular ectopy. Lungs are bilaterally CTA. u/o qs, tolerating po fluids. Pt oob to commode without any problems. MSO4 and percocet for pain with effect. See flowsheet for details.
+",,
+8859,20309,11014,0,3335-11-02 11:07:00 EST,3335-11-02 11:15:00 EST,-1,"N",54,"Nursing/Other","CRSU UPDATE/ TRANSFER","
+CRSU UPDATE/ TRANSFER
+NEURO: INTACT
+
+CV: VSS. NSR W/ 1ST DEGREE HB. RARE PVC NOTED. AMIODARONE IV->PO TODAY. EP CONSULT DONE. A-LINE D/C  PRESSURE HELD. NO OOZE OR HEMATOMA NOTED. CORDIS D/C W/OUT DIFF.
+
+RESP: LUNGS CLEAR BILAT. CT W/ MIN SEROSANG DNG. NO LEAK. O2 SAT 94% ON ROOMAIR. RESPS REG, NON-LABORED. I.S. 1000-1250CC
+
+GU: FOLEY QS UOP 40-50CC/HR. 
+
+GI: APP GD. ABD SOFT. NO BM YET. HYPO BS.
+
+ENDO: GLUCOSES 170-190 RANGE, ON GLYBURIDE & SS COVERAGE
+
+PAIN: MSO4 4MG SC X 1
+
+ASSESS: STABLE AM 
+
+PLAN: D/C CHEST TUBES, TRANSFER [**Hospital Ward Name **] 6.
+",,
+8859,20309,,,3335-11-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-11-3**] 6:31 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11065**]
+     Reason: POD # 3 s/p CAB x 4, now with inc wbc, possible AICD tomorro
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old man with s/p CABG x 4 POD 2.
+     REASON FOR THIS EXAMINATION:
+      POD # 3 s/p CAB x 4, now with inc wbc, possible AICD tomorrow.  Is there an
+      infiltrate, PTX, effusion?
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Post CABG. Leukocytosis.
+     
+     COMPARISON:  [**3335-11-2**].
+     
+     CHEST, PA AND LATERAL:  There is mild cardiomegaly which is stable.  The
+     patient is post CABG.  There is a tiny left pleural effusion.  There is
+     increased retrocardiac density which could represent left lower lobe
+     atelectasis or pneumonia.  In addition, there is linear atelectasis at the
+     lingula.  The right lung is clear.  No pneumothorax.
+     
+     IMPRESSION:  Left lower lobe atelectasis versus pneumonia.  Tiny left
+     effusion.
+
+",,
+8859,20309,,,3335-11-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-11-5**] 11:26 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11066**]
+     Reason: s/p ICD on [**11-4**], confirm lead position.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old man with s/p CABG x 4, ICD on [**11-4**].
+     REASON FOR THIS EXAMINATION:
+      s/p ICD on [**11-4**], confirm lead position.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Pacer placement
+     CHEST, TWO VIEWS: Comparison is made with film from 2 days earlier. The
+     lateral view is limited as the patient is unable to raise his arms.  Changes
+     of prior median sternotomy/CABG are noted.  A new dual chamber transvenous
+     cardiac pacer is in place with intact leads whose tips project over the right
+     atrium and right ventricle respectively.  There is no evidence of
+     pneumothorax. Cardiac and mediastinal contours are unchanged. There is no
+     evidence of overt CHF.  There is minimal blunting of both lateral costophrenic
+     angles, and some nonspecific increased density at the left base posteriorly on
+     the lateral view. This last finding may reflect left pleural effusion with
+     associated parenchymal abnormality, including atelectasis or even pneumonia in
+     the appropriate clinical setting.  The lungs do appear otherwise clear.
+     
+     IMPRESSION: 1. Dual chamber transvenous cardiac pacer leads as described; no
+     evidence of pneumothorax.
+     2. Findings suggesting of small bilateral pleural effusions, left greater than
+     right.
+     3. There is still some parenchymal abnormality at the left base as well, not
+     significantly changed, which again may reflect atelectasis or pneumonia.
+     
+
+",,
+8859,,,,3335-12-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3335-12-7**] 10:10 AM
+     TOE(S), 2+ VIEW LEFT                                            Clip # [**Clip Number (Radiology) 11067**]
+     Reason: R/O FOREIGN OBJECT LEFT BIG TOE.
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      65 year old man with 
+     REASON FOR THIS EXAMINATION:
+      R/O FOREIGN OBJECT LEFT BIG TOE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  R/O foreign object in left big toe.
+     
+     GREAT TOE, TWO VIEWS:  No radiopaque foreign body is identified.  There is
+     bone formation about the medial aspect of the 1st MTP joint, felt to represent
+     calcification of ligaments support of this joint, likely related to old
+     trauma.  No fracture is seen.  There is an old well healed fracture of the 5th
+     metatarsal.  Additionally, this could be related to prior osteotomy.
+     
+     IMPRESSION:
+     1)  No acute fracture.
+     
+     2)  No radiopaque foreign body.  Old fracture or possibly old osteotomy of the
+     5th metatarsal.
+     
+
+",,

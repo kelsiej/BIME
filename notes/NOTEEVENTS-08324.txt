@@ -1,0 +1,344 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8324,10702,,,2933-07-05 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2933-7-5**]              Discharge Date:   [**2933-7-24**]
+ 
+Date of Birth:  [**2853-1-25**]             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**Last Name (NamePattern1) 6697**] 
+Chief Complaint:
+unresponsiveness
+ 
+Major Surgical or Invasive Procedure:
+Left thoracentesis
+ 
+History of Present Illness:
+80 y.o. male with hx CAD, s/p CABG, ischemic CM EF 20%, ICD & 
+pacemaker discharged 1 month ago after undergoing VT ablation.  
+.  
+His wife states she looked at him tonight while he was sleeping 
+and noted he had a gasping, labored breathing. She tried to wake 
+him up but he was unresponsive. There were no signs of t-c 
+seizures or fecal incontinece. She called EMS who arrived 20 
+minutes later.  Patient was alert but somnolent and diaphoretic 
+at that time. Patient is unsure whether pacemaker went off.  
+.
+Found to be hypokalemic and started repletion in ED.  ICD fired 
+once night of admission and once later that morning (in ED) for 
+VTach -> NSR.  
+ 
+Past Medical History:
+1. CAD status post CABG and IMI. Catheterization in '[**20**] with
+3 VD, 2+ MR, moderate systolic and diastolic dysfunction.
+PTCA of SVG to PDA, MIBI in '[**23**], severe fixed defect infero,
+post, and apical. Partial reversible inferolateral defects.
+2. Esophageal stricture x2.
+3. Increased cholesterol.
+4. Colonic polyps.
+5. Abdominal aortic aneurysm s/p repair at [**Hospital1 84**] in [**2931**].
+6. Hypertension.
+7. Pacemaker placed prior to AAA repair - being checked monthly 
+by Dr.[**Doctor Last Name 11540**] office.
+8. Status post bilateral cataract surgery.
+9. Ischemic CMY (echo 2003 EF 20% 1-2+ MR)
+10. Gout
+11. Chronic renal insufficiency (recent baseline unknown - no 
+labs since [**2930**])
+
+ 
+Social History:
+Retired shipyard inspector. He quit smoking over 50 years ago. 
+Denies alcohol or drugs. Lives with his wife and son.
+
+ 
+Family History:
+Non-Contributory
+ 
+Physical Exam:
+T 96.7  BP 104/64  HR 70  RR 18  Sat 97% on 2L
+Gen: comfortable, elderly cachectic man in NAD
+Neck: JVP at clavicles while sitting at 30 degrees
+CV: reg rate, II/VI systolic murmur at apex
+Chest: faint crackles at both lung bases; clear in middle and at 
+apices
+Abd: soft, ntnd, no organomegaly
+Extr: cool, no edema, 2+ DP and PT pulses
+ 
+Pertinent Results:
+[**2933-7-5**] 12:45AM BLOOD WBC-13.3* RBC-3.17* Hgb-9.9* Hct-29.0* 
+MCV-91 MCH-31.1 MCHC-34.1 RDW-14.4 Plt Ct-321#
+[**2933-7-23**] 06:35AM BLOOD WBC-20.2* RBC-3.99* Hgb-11.6* Hct-37.0* 
+MCV-93 MCH-29.0 MCHC-31.2 RDW-16.0* Plt Ct-240
+[**2933-7-5**] 12:45AM BLOOD Neuts-75.8* Lymphs-18.7 Monos-3.4 Eos-1.9 
+Baso-0.2
+[**2933-7-16**] 06:25AM BLOOD Neuts-89.7* Lymphs-6.1* Monos-3.5 Eos-0.5 
+Baso-0.2
+[**2933-7-5**] 12:45AM BLOOD PT-26.8* PTT-31.9 INR(PT)-2.7*
+[**2933-7-8**] 04:58PM BLOOD PT-38.4* PTT-50.9* INR(PT)-6.0*
+[**2933-7-23**] 06:35AM BLOOD PT-21.4* PTT-35.7* INR(PT)-2.1*
+[**2933-7-5**] 12:45AM BLOOD Glucose-186* UreaN-35* Creat-2.5* Na-139 
+K-2.7* Cl-100 HCO3-23 AnGap-19
+[**2933-7-23**] 12:35PM BLOOD Glucose-119* UreaN-97* Creat-3.6* Na-145 
+K-4.4 Cl-109* HCO3-21* AnGap-19
+[**2933-7-5**] 12:45AM BLOOD ALT-37 AST-63* CK(CPK)-26* AlkPhos-288* 
+Amylase-50 TotBili-1.0
+[**2933-7-23**] 06:35AM BLOOD ALT-30 AST-55* AlkPhos-273* TotBili-4.7*
+[**2933-7-5**] 12:45AM BLOOD CK-MB-NotDone cTropnT-0.05*
+[**2933-7-5**] 07:40AM BLOOD CK-MB-2 cTropnT-.11*
+[**2933-7-5**] 03:24PM BLOOD CK-MB-NotDone cTropnT-0.08*
+[**2933-7-22**] 05:25AM BLOOD proBNP-31381*
+.
+Radiology
+CT Abdomen:
+FINDINGS:  The evaluation of the great vessels and mediastinum 
+is somewhat 
+limited due to lack of intravenous contrast [**Doctor Last Name 614**].  No 
+significant mediastinal lymphadenopathy is noted.  Coronary 
+arteries are calcified.  The heart is enlarged in size.  The 
+patient is status post CABG with median sternotomy. Note is made 
+of bilateral pleural effusion, somewhat larger on the left, 
+partially loculated.  There is interlobar effusion on the left 
+as well.  In the lung window, note is made of diffuse 
+ground-glass opacity with interlobular septal thickening 
+predominantly in central distribution involving upper lobes, as 
+well as lower lobes and middle lobes.  There is somewhat focal 
+patchy opacity in right middle lobe and lower lobes.  Mucous 
+secretion in the trachea is seen, however, no central 
+obstructing lesion is noted.  NG tube is noted, with the tip 
+terminating in the stomach.  There is no suspicious lytic or 
+blastic lesion.  Small bone islands are seen in lower thoracic 
+vertebra. 
+IMPRESSION: 
+1.  Moderate amount of pleural effusion, larger on the left and 
+somewhat 
+loculated on the left, associated with basilar atelectasis.  
+Interlobar 
+effusion on the left. 
+2.  Diffuse ground-glass opacity predominantly in central 
+distribution, 
+associated with smooth interlobular septal thickening 
+bilaterally involving upper and lower lobes.  The finding may 
+represent pulmonary edema as mentioned in the report of prior 
+chest radiograph, however, in the appropriate clinical setting, 
+superimposed infection cannot be excluded.  Other possibility 
+includes alveolar hemorrhage if the patient has hemoptysis.  
+Please correlate clinically. 
+3.  Patchy opacities in the right middle and lower lobes, which 
+may be part of diffuse process mentioned in #2, however, please 
+perform followup study after effusion and ground-glass opacities 
+have resolved. 
+4.  Cardiomegaly, status post CABG and coronary artery 
+calcification. 
+.
+Echocardiogram:
+Conclusions:  
+The left atrium is moderately dilated. The right atrium is 
+moderately dilated.  Left ventricular wall thicknesses are 
+normal. The left ventricular cavity is moderately dilated. There 
+is severe global left ventricular hypokinesis (ejection fraction 
+20-30 percent). No masses or thrombi are seen in the left 
+ventricle. There is no ventricular septal defect. Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. No aortic regurgitation is seen.  
+The mitral valve leaflets are mildly thickened. There is no 
+mitral valve  
+prolapse. Moderate to severe (3+) mitral regurgitation is seen. 
+There is no pericardial effusion.  
+Compared with the findings of the prior study (images reviewed) 
+of [**2933-2-4**], no major change is evident.  
+
+ 
+Brief Hospital Course:
+The patient expired on [**2933-7-24**] after a prolonged 
+hospitalization.  I will briefly outline his medical problems 
+leading up to his death.
+.  
+# Syncope: Patient came in to the hospital secondary to being 
+found unresponsive by his wife.  A head CT on admission ruled 
+out an intracranial bleed and his potassium was closely 
+monitored.  In the emergency department they noted 15-20 beats 
+of VTach and also a potassium of 2.7.  It was thought that his 
+VTach was the cause of his syncopal episode and his hypokalemia 
+was the cause of his VTach.  His potassium was repleted and he 
+no longer experienced problems with pacing.  
+.
+# CHF: EF 20% -  patient came in appearing euvolemic or even 
+slightly dry.  He was kept off his spironolactone, his lasix was 
+initially held and his [**Last Name (un) 367**] and BB were continued.  His fluid 
+status was monitored daily with serial exams and he had multiple 
+chest xrays to monitor for fluid overload.  He subsequently 
+became fluid overload which prompted a visit to the medical ICU. 
+ While in the ICU, they tapped a pleural effusion on his left 
+side which yielded 1.5L of transudative fluid.  They also gave 
+him gentle diuresis with lasix 10 mg IV.  The patient 
+subsequently became euvolemic and was transferred back to the 
+floor.  A day later, he became hypovolemic with a free water 
+deficit of 3L.  We replaced his fluid deficit appropriately but 
+struggled with deteriorating respiratory status.  
+.
+# CRI: patient has had a baseline creatinine of 2.0 and had been 
+increasing over the last month.  His creatinine on admission was 
+2.5 and it climbed to 3.5 by the end of his stay.  We initially 
+held his [**Last Name (un) 367**] and ACE inhibitor and involved renal in his care.  
+It was thought that his renal impairment was secondary to both 
+ATN from ischemic injury during his VTach but also from prerenal 
+azotemia.  We balanced his fluid status with his CHF and 
+attempted unsuccessfully to preserve his renal function.
+.
+# Nutrition: Patient had poor PO intake during the admission so 
+an NGT was placed for tube feeds.  He tolerated the procedure 
+well and was given low volume tube feeds with minimal flushing.  
+Once his sodium began to rise, we increased the flushing volumes 
+in an attempt to correct his volume status.  
+.
+# Odynophagia: The etiology behind this wasn't clear.  The 
+patient developed throat pain in the middle of his admission.  
+We sent multiple cultures and even had a biopsy performed of his 
+posterior oropharynx.  The cultures only yielded MSSA and GNR 
+which we treated with antibiotics.  We had suspected HSV, 
+[**Female First Name (un) **], viral, bacterial and involved ID, GI, and ENT.  The 
+pain was resolving when patient expired.
+.
+# Leukocytosis: present at admission without any fever or 
+identifying source.  Initially thought to be secondary to 
+inflammatory state.  However, the differential showed 88% PMNs.  
+We began antibiotic treatment for coverage of the MSSA and GNR 
+described above yet his leukocytosis persisted.  On the day of 
+death, the patient had an even higher WBC.
+.
+# Coagulopathy: patient had been taking coumadin at home and his 
+INR rose during the beginning of his admission.  Initially it 
+was 2.7 but gradually it rose to 6.4.  We continued to hold his 
+coumadin and encouraged patient to eat leafy vegetables.  We 
+believe that the significant rise of his INR was secondary to 
+the increasing dosages of amiodarone the patient had received.  
+It had returned to below 1.5 prior to thoracentesis but again 
+climbed prior to his death.
+.
+# Cardiovascular- Coronaries: We continued the patient on BB, 
+statin, aspirin and monitored for any signs or sx of chest pain. 
+ The patient had a workup for ACS upon arrival which was 
+negative.
+. 
+###  Events leading up to death: Patient returned from the 
+medical ICU and was doing well on 60% O2.  This was weaned over 
+the next day and a half and the patient was oriented to person, 
+place, situation, time.  However, the patient gradually became 
+more disoriented and his mental status was waxing and waining.  
+We had considered infectious, medications, hypoxia, renal 
+failure, hypercarbia, and hypernatremia in our differential.  
+The patient was weaned from O2 so we thought hypoxia unlikely.  
+Additionally, we obtained a VBG which suggested he was not 
+hypercarbic.  We broadened his abx coverage for anaerobes with 
+flagyl as he had developed abdominal pain the day prior to 
+death.  As he was clearly deteriorating, we had a family meeting 
+the day prior to his death to discuss code status.  At that time 
+the family decided to change his code to DNR/DNI with thoughts 
+of CMO if he worsened.  That night, he became hypotensive to the 
+60s systolic.  Aggressive fluid boluses were delivered (4 
+liters) without much improvement.  The family was called and 
+were present as the patient was undergoing fluid resuscitation.  
+After attempts were seemingly unsuccessful, they decided to stop 
+providing fluid and the patient expired shortly thereafter.  No 
+autopsy was requested.
+ 
+Medications on Admission:
+simvastatin 20mg daily
+allopurinol 100mg QOD
+digoxin 0.125mg QOD
+valsartan 40mg daily
+metoprolol 50mg bid
+warfarin 2.5mg daily
+niacin 500mg bid
+lasix 10mg QOD
+amiodarone 200mg daily
+kayexelate bid
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+CHF
+Respiratory failure
+acute renal failure
+delirium
+hypotension
+ 
+Discharge Condition:
+expired
+ 
+Discharge Instructions:
+none
+ 
+Followup Instructions:
+none
+ 
+                             [**First Name8 (NamePattern2) **] [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] MD [**MD Number 1202**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 6000**] MD [**MD Number 6001**] [**2933-7-25**] @ 1650
+Signed electronically by: DR. [**First Name11 (Name Pattern1) **] [**Initial (NamePattern1) **] [**Last Name (NamePattern4) **]
+ on: TUE [**2933-8-4**] 11:44 AM
+(End of Report)
+
+
+",,
+8324,10702,10353,0,2933-07-20 15:54:00 EST,2933-07-20 15:58:00 EST,6646,"N",54,"Nursing/Other","Respiratory Care","
+Respiratory Care
+
+  Pt received from floors on 100% aerosol in mild respiratory distress. NIMV initiated at 5/8 Pt tolerated for 45 minutes. Procedure was then done and 1500cc of fluid was removed. Pt's resp status improved and NIMV is S/B. Will continue to follow closely.
+",,
+8324,10702,10353,0,2933-07-20 18:13:00 EST,2933-07-20 18:53:00 EST,3646,"N",54,"Nursing/Other","Micu Nursing Progress","
+Micu Nursing Progress
+80 year old male admitted to MICU from [**Hospital Ward Name 3**] 3 with resp distress.
+
+Allergies: NKDA
+
+Past medical Hx:  CAD S/P CAGB and IMI, cath in '[**20**] with 3VD, 2+ MR, mod systolic and diastolic dysfunction; esopheageal stricture x2,; increased cholesterol; colonic polyps; AAA S/P repair at [**Hospital1 275**] '[**31**]; HTN; Pacer and ICD placement; ischemic CMY ('[**33**] EF 20%); gout; chronic renal insufficiency.
+
+Review of systems-  Resp:  Received on 100% face mask.  Changed to 100% cool face tent.  O2 sats difficulty to obtain due to his tremors of the fingers, have readings of 96-97% initially but have decreased to 92%.  He was tapped for 1.5cc straw colored fluid from the left side.  He has a very junky cough but it is non productive.  CXR suggests that volume overload is the primary problem.  He was placed on BiPAP for 1hour following arrival to the MICU, he showed some improvement but he could not tolerate the mask.  Pt will be intubated by his wishes if the need comes up.
+
+Cardiac:  B/P's 120's/60-70, HR 70 Vpaced.
+
+GI:  Pt has a dubhoff tube in place.  He had been getting tube feedings on the floor but he is NPO due to the possibility of intubation.  His abd is soft and non tender, hypoactive bowel sounds.
+
+GU:  Foley draining yellow urine.
+
+Neuro:  Pt is awake and alert.  He has a very dry mouth so it is difficulty to understand but he is oriented.  However when left alone he does pick at the bedding.  He is getting very restless.  
+
+Social:  Pt is married, [**State **] [**Known patient lastname 5629**] with a grown son.  Both very involved with the patients care.  Pt is a full code by his own choice.  
+
+Plan:  Monitor resp status overnight for possible intubation,  keep pt safe during the night, he may need restraints to keep the O2 mask in place when the sun goes down.
+",,
+8324,10702,10353,0,2933-07-21 04:52:00 EST,2933-07-21 05:08:00 EST,6826,"N",54,"Nursing/Other","MICU Nursing Note 1900-0700","
+MICU Nursing Note 1900-0700
+Events:  Respiratory distress during evening---diuresed with 10 mg. Lasix with good effect, Mild confusion---? of sundowning
+
+Neuro:  Initially A+OX3 with progressive restlessness and mild confusion...pt reorients easily but picking at lines and tubes and occasional attempts to get OOB, requiring freq. reminders not to take off 02 and Sat probe, PEARL, moving all extremities and follows all commands, no [**Doctor Last Name 5**] during night, received 2 mg. MSO4 X1 during respiratory distress episode with good effect on anxiety, bed alarm on and requiring freq. safety checks.
+
+Cardiac:  HR= 70 v-paced with no ectopy noted, BP= 110-140/50-60's.  (2) PIV's both patent.
+
+Resp:  Pt on 100% open face mask with Sats 90-100% with progressive tachypnea and labored breathing during evening hours. RR= 24-36  Diffuse coarse rhonchi throughout/ nonproductive junky sounding cough noted/C/O SOB.  Treated with 10 mg. IV Lasix with good effect with improved Sats and RR down to 24-28.  Sats 92-100% and o2 weaned to 60 % open face mask.  Sats difficult to obtain at times due to pt with hand tremors.  Negative 1 liter since 10pm.
+
+GI:  Dobhoff pedi-feeding tube placement checked by auscultation and clamped for night---NPO for potential intubation.  Abd soft with + bowel sounds and + flatus but no BM.
+
+GU:  Foley to CD draining clear yellow urine 50-150ml/hr.  Creatinine up to 2.7 this am.
+
+Skin:  grossly intact.  Reddened area over coccyx---cream applied.
+
+ID:  Afebrile.  WBC= 18 this am, Continues on IV Nafcillin 
+
+Social:  Pt's wife called this am and was updated on pt's condition
+
+Plan:  Gentle diuresis, Freq. safety checks---sundowns, Aggressive pulmonary toiletting, Wean 02 as tolerated, High potential for intubation, Start TF when improved resp. status, Support pt and family
+",,

@@ -1,0 +1,437 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8648,,,,3312-01-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3312-1-27**] 4:39 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9499**]
+     Reason: evaluate for PTX                                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with s/p mediastinoscopy                                        
+     REASON FOR THIS EXAMINATION:
+      evaluate for PTX                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CLINICAL INDICATION: Status post mediastinoscopy. Evaluate for pneumothorax.
+     
+     No prior chest radiographs are available for comparison.
+     
+     There is a small left apical pneumothorax present. A large cavitary mass is
+     present in the left upper lobe, measuring approximately 8.7 x 8.6 cm in
+     diameter. There is associated fullness of the left hilum and aorticopulmonary
+     window region. The heart is mildly enlarged. The lungs demonstrate patchy
+     opacification at the left lung base. No pleural effusions are evident but the
+     right costophrenic sulcus has been excluded from the study.
+     
+     IMPRESSION:
+     1. Small left apical pneumothorax.
+     2. Large cavitary left apical lung mass with adjacent areas of lymphadenopathy
+     in the left hilum and possibly the AP window. These findings are concerning
+     for cavitary lung cancer.
+
+",,
+8648,,,,3312-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3312-1-28**] 8:36 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 9500**]
+     Reason: eval for metastatic disease.  pls send for CXR after CT [**Last Name (un) 9501**]
+     Admitting Diagnosis: LUNG CANCER;L PNEUMOTHORAX
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86M with lung ca, s/p thoracoscopy                                              
+     REASON FOR THIS EXAMINATION:
+      eval for metastatic disease.  pls send for CXR after CT finished.  call 90221 
+      with issues
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Lung cancer- status post thoracoscopy please evaluate for
+     metastatic disease.
+     
+     TECHNIQUE: Axial images of the head were obtained without contrast and
+     following the administration of 100 cc of Optiray intravenously.
+     
+     FINDINGS: No prior comparable examinations are available. There is bilateral
+     prominence of the lateral ventricles and sulci consistent with brain atrophy.
+     There are small focal areas of hypodensity within the periventricular white
+     matter bilaterally. There is no shift of normally midline structures. There
+     are no areas of abnormal mass effect and no areas of loss of [**Doctor Last Name 30**] white
+     differentiation to suggest acute infarct. Following the administration of
+     contrast, no areas of abnormal enhancement are detected. The mastoid air cells
+     and paranasal sinuses are normally pneumatized. Several small rounded soft
+     tissue density lesions are present within the left frontal and right ethmoid
+     sinuses consistent in appearance with mucosal retention cyst versus polyps.
+     
+     IMPRESSION: 1. No evidence of enhancing lesions within the brain to suggest
+     metastatic disease. 2. Bilateral periventricular white matter hypodensities
+     consistent with small prior infarcts. 3. Mucous retention cyst versus polyps
+     within the left frontal and right ethmoid sinuses.
+     
+
+",,
+8648,,,,3312-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3312-1-28**] 9:02 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9502**]
+     Reason: evaluate L PTX.  Please schedule before/after pt's CT head t
+     Admitting Diagnosis: LUNG CANCER;L PNEUMOTHORAX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86 year old man with s/p mediastinoscopy                                        
+     REASON FOR THIS EXAMINATION:
+      evaluate L PTX.  Please schedule before/after pt's CT head this AM.  page [**Pager number 9503**] 
+      with questions
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  86 y/o man status post mediastenoscopy, evaluate left pneumothorax.
+     
+     CHEST 2 VIEWS:  Comparison is made to a prior study from [**3312-1-27**].  The heart
+     is normal in size.  Again noted is a large cavitary mass in the left upper
+     lobe with again noted is a minimal left apical pneumothorax which is not
+     significantly changed from the prior study.
+     
+     IMPRESSION:
+     
+     1)  Minimal left apical pneumothorax unchanged from the prior study.
+     2)  Large cavitary mass in the left upper lobe with mediastinal and hilar
+     lymphadenopathy.
+
+",,
+8648,,,,3312-01-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3312-1-28**] 8:36 AM
+     CT HEAD W/ & W/O CONTRAST; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 9500**]
+     Reason: eval for metastatic disease.  pls send for CXR after CT [**Last Name (un) 9501**]
+     Admitting Diagnosis: LUNG CANCER;L PNEUMOTHORAX
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      86M with lung ca, s/p thoracoscopy                                              
+     REASON FOR THIS EXAMINATION:
+      eval for metastatic disease.  pls send for CXR after CT finished.  call 90221 
+      with issues
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Lung cancer- status post thoracoscopy please evaluate for
+     metastatic disease.
+     
+     TECHNIQUE: Axial images of the head were obtained without contrast and
+     following the administration of 100 cc of Optiray intravenously.
+     
+     FINDINGS: No prior comparable examinations are available. There is bilateral
+     prominence of the lateral ventricles and sulci consistent with brain atrophy.
+     There are small focal areas of hypodensity within the periventricular white
+     matter bilaterally. There is no shift of normally midline structures. There
+     are no areas of abnormal mass effect and no areas of loss of [**Doctor Last Name 30**] white
+     differentiation to suggest acute infarct. Following the administration of
+     contrast, no areas of abnormal enhancement are detected. The mastoid air cells
+     and paranasal sinuses are normally pneumatized. Several small rounded soft
+     tissue density lesions are present within the left frontal and right ethmoid
+     sinuses consistent in appearance with mucosal retention cyst versus polyps.
+     
+     IMPRESSION: 1. No evidence of enhancing lesions within the brain to suggest
+     metastatic disease. 2. Bilateral periventricular white matter hypodensities
+     consistent with small prior infarcts. 3. Mucous retention cyst versus polyps
+     within the left frontal and right ethmoid sinuses.
+     
+
+",,
+8648,16543,,,3312-02-17 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+
+Admission Date:  [**3312-2-17**]       Discharge Date:  [**3312-2-23**]
+
+Date of Birth:   [**3225-8-23**]       Sex:  M
+
+Service:  Thoracic Surgery
+
+HISTORY OF PRESENT ILLNESS:  This is an 86 year old male who
+presented with persistent cough and right shoulder pain and
+was found to have a left upper lobe on chest x-ray.  A
+computerized tomography scan on [**3311-12-15**], confirmed
+the presence of a 6 cm cavitary left upper lobe mass and
+there was also question of a right hilar lymph node.  On
+[**3312-1-27**], he underwent a mediastinoscopy after which
+he was found to have a resectable left lung tumor.  At this
+time he was admitted for resection of the left upper lobe
+mass.
+
+PAST MEDICAL HISTORY:  Status post radiation therapy eight
+years ago for prostate cancer, mild hypertension, 2.4 cm
+abdominal aortic aneurysm.
+
+PAST SURGICAL HISTORY:  None.
+
+ALLERGIES:  No known drug allergies.
+
+MEDICATIONS:  Aspirin 81 mg twice weekly.
+
+SOCIAL HISTORY:  Married, retired with 30 year history of
+smoking two packs per day, quit 30 years ago.
+
+PHYSICAL EXAMINATION:  On admission, well-appearing in no
+apparent distress.  Chest clear to auscultation bilaterally.
+Heart, regular rate and rhythm.  Abdomen, soft, nontender,
+nondistended.  Extremities, no cyanosis, clubbing or edema.
+Neurologically intact.
+
+HOSPITAL COURSE:  On the day of this admission, he underwent
+a left upper lobectomy and resection of the chest wall
+overlying the tumor which included segments of ribs 2, 3 and
+4.  He tolerated the procedure well, but secondary to a very
+difficult intubation he was kept intubated over night
+immediately postoperatively and was therefore in the
+Intensive Care Unit for 24 hours.  The next morning he
+extubated with no difficulty and after that his course is
+summarized as follows.
+
+1.  Neurological - His pain was initially controlled with an
+epidural and then was well controlled on p.o. pain
+medication.  He did present with slight confusion early
+postoperatively but was back to his baseline mental status
+with no neurological deficits thereafter and this was
+attributed to postoperative delirium and narcotics.
+
+2.  Cardiovascular - He remained stable postoperatively and
+required no additional medications.  Due to slight
+bradycardia early postoperatively, he was not started on any
+beta blockade perioperatively.
+
+3.  Respiratory - He remained stable with good saturations
+initially with some oxygen later on room air.  Chest tubes
+were removed on postoperative day #5.  Chest x-ray
+demonstrated good inflation of the remaining segment of the
+left lung with a small residual space.  Prior to discharge he
+is comfortable and his saturations were 97% on room air.
+
+4.  Gastrointestinal - His diet was advanced as tolerated and
+he tolerated that with no difficulty.
+
+5.  Genitourinary - His urine output was good at all times
+and renal function was maintained.  He had no difficulty
+voiding after the Foley catheter was removed.
+
+6.  Heme - He remained stable and required no blood products
+during the hospitalization.  His hematocrit on [**3312-2-19**], postoperatively was 32.9.
+
+7.  Infectious disease - There were no active issues.  He was
+covered with Cefazolin perioperatively which was continued
+for a few days after surgery and he will stop with discharge.
+He remained afebrile with a normal white count and his wound
+was healing well.
+
+8.  Musculoskeletal - Activity was gradually advanced with
+the assistance of physical therapy.  It was felt that he will
+benefit from a short stay in a rehabilitation facility to
+assist him to get back to baseline activities.
+
+He is discharged in stable condition to a rehabilitation
+facility with the following recommendations:
+
+1.  Follow up with Dr. [**Last Name (STitle) 682**] as scheduled, see discharge
+sheet.
+2.  Continue current medications, again as summarized in the
+discharge sheet and including Percocet prn for pain, Colace
+100 mg p.o. b.i.d. as long as taking pain medications,
+Albuterol inhaler 2 puffs every 6 hours prn.
+
+DISCHARGE DIAGNOSIS:  Left lung tumor, status post left upper
+lobectomy with chest wall resection.
+
+
+
+                            [**First Name11 (Name Pattern1) 835**] [**Last Name (NamePattern4) **], M.D.  [**MD Number 1598**]
+
+Dictated By:[**Dictator Info **]
+MEDQUIST36
+
+D:  [**3312-2-22**]  08:04
+T:  [**3312-2-23**]  08:34
+JOB#:  [**Job Number 12011**]
+Signed electronically by: DR. [**First Name4 (NamePattern1) 835**] [**Last Name (NamePattern1) **]
+ on: MON [**3312-3-28**] 4:04 PM
+(End of Report)
+
+
+",,
+8648,16543,,,3312-02-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3312-2-17**] 9:20 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9504**]
+     Reason: s/p [**Doctor Last Name **] lobectomy with chest wall resection.Check position of
+     Admitting Diagnosis: LEFT LUNG CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       86 year old man with s/p mediastinoscopy                                       
+       
+     REASON FOR THIS EXAMINATION:
+      s/p [**Doctor Last Name **] lobectomy with chest wall resection.Check position of tubes, r/o PTX.    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status-post left upper lobectomy with chest wall resection.
+     
+     Comparison is made to the prior chest x-ray on [**3312-1-27**].
+     
+     SUPINE AP OF THE CHEST:  The patient is status-post left upper lobectomy with
+     removal of the previously seen large left upper lobe mass.  There are post-
+     surgical changes including subcutaneous emphysema and left superior rib
+     defects.  There is a dual lumen endotracheal tube present with its tip seen in
+     the left main bronchus.  There are also two left-sided chest tubes with their
+     tips present in the apex of the left lung.  There is a small localized left
+     apical pneumothorax.  The heart and mediastinal contours are unchanged.  The
+     pulmonary vascularity is stable.  The remainder of the lungs are otherwise
+     unchanged.  There is incidental note of several metallic densities overlying
+     the right base, which may reflect prior surgery.
+     
+     IMPRESSION:  1) Satisfactory positioning of lines and tubes.  2) Status-post
+     left upper lobectomy with post-surgical changes.  3) Small left apical
+     pneumothorax.
+
+",,
+8648,16543,10760,,3312-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3312-2-18**] 7:16 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9506**]
+     Reason: assess pneumo                                               
+     Admitting Diagnosis: LEFT LUNG CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         86 year old man s/p LUL and chest wall resection with chest tubes x2         
+                                       
+     REASON FOR THIS EXAMINATION:
+      assess pneumo                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess pneumothorax, status post left upper lobectomy.
+     
+     Comparison is made with the prior chest x-ray of three hours prior.
+     
+     SUPINE AP CHEST:  There is a dual-lumen endotracheal tube in stable position
+     with its tip in the left main bronchus.  There are two left-sided chest tubes
+     in stable position.  There is a left apical pneumothorax which is unchanged in
+     size.  There is subcutaneous emphysema related to the patient's recent left
+     upper lobectomy.  The remainder of the heart, mediastinum, pulmonary
+     vascularity and lungs are unchanged in appearance.
+     
+     IMPRESSION:  Stable positioning of tube.  Stable left apical pneumothorax.
+
+",,
+8648,16543,10760,,3312-02-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3312-2-18**] 5:22 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9505**]
+     Reason: r/o pneumo                                                  
+     Admitting Diagnosis: LEFT LUNG CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        86 year old man s/p LUL and chest wall resection with chest tubes x2          
+                                     
+     REASON FOR THIS EXAMINATION:
+      r/o pneumo                                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: S/P left upper lobe resection, follow up pneumothorax.
+     
+     Comparison is made to the prior chest x ray on [**3312-2-17**].
+     
+     AP CHEST: There are again demonstrated a dual lumen ETT in stable position.
+     There is again demonstrated a right apical pneumothorax which is not
+     significantly changed in size. There are post surgical changes of the
+     patient's recent left upper lobectomy which are unchanged.
+     
+     IMPRESSION: Stable appearance of left apical pneumothorax.
+
+",,
+8648,16543,10760,0,3312-02-18 04:22:00 EST,3312-02-18 04:27:00 EST,3561,"N",54,"Nursing/Other",,"
+
+Resp Care Note, Pt remains on current vent settings. See vent flow sheet for details. Remains with double lumen ETT. Good ABG'S. Sedated with propofol no spont respirations.Temp 99.5 on neo. Will cont to monitor resp status for further weaning.
+",,
+8648,16543,10760,0,3312-02-18 06:06:00 EST,3312-02-18 06:19:00 EST,4010,"N",54,"Nursing/Other",,"
+
+Pt arrived from OR at approx 2030,
+S/P L upper lobe lobectomy, 3 rib resection.
+Pt arrived intubated on AC, sedated on propofol and on neo to keep SBP 90-100. 
+Neuro: sedated. pupils 3mm brisk. Not responding to painful stimuli. Dr. [**Last Name (STitle) 3166**] agreed to keep pt sedated for airway protection.
+CV: afebrile, Hr 49-60's sinus brady to NSR, with no ectopy, Cont on neo SBP 90-100. extremities cool with dopplerable pulses. lytes  relaced. 
+RESP; lungs clear to coarse at bases, L chest tube to water seal with minimal effect on 
+Gu: foley draining adequate amounts of clear yellow
+Gi abd soft with + bs, no stool today.
+Endocrine: blood suars slightly high covered with RISS  
+",,
+8648,16543,,,3312-02-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3312-2-19**] 10:58 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9507**]
+     Reason: s/p LUL resection for tumor. follow PTX and drain position. 
+     Admitting Diagnosis: LEFT LUNG CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       86 year old man with s/p mediastinoscopy                                       
+       
+     REASON FOR THIS EXAMINATION:
+      s/p LUL resection for tumor. follow PTX and drain position.                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post mediastenoscopy, left upper lobe resection, follow-up
+     pneumothorax and drain position.
+     
+     Comparison is made to prior chest x-ray on [**3312-2-18**].
+     
+     PA AND LATERAL CHEST:  The patient is status post extubation.  There are again
+     present two left sided chest tubes in stable position at the left lung apex.
+     There is again present a small left apical pneumothorax which appears slightly
+     improved.  There is also noted of a small left basilar pneumothorax.  There is
+     again seen extensive left chest wall subcutaneous emphysema secondary to
+     recent surgery.  There are also small metallic densities at the right lung
+     base which could represent old barium.  The remainder of the heart,
+     mediastinum, pulmonary vascularity and lungs are unchanged in appearance.
+     
+     IMPRESSION:
+     
+     1)  Status post extubation.
+     2)  Stable position of chest tubes.
+     3)  Slightly improved left apical pneumothorax and left basilar pneumothorax.
+
+",,
+8648,16543,,,3312-02-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3312-2-21**] 11:16 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 9508**]
+     Reason: check for pleural effusion (high chest tube output)         
+     Admitting Diagnosis: LEFT LUNG CA/SDA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        86 year old man with s/p mediastinoscopy                                      
+         
+     REASON FOR THIS EXAMINATION:
+      check for pleural effusion (high chest tube output)                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  86 y/o man status post median stenoscopy.  Check for pleural
+     effusion because of the high chest tube output.
+     
+     PA AND LATERAL CHEST:  Comparison is made to prior study dated [**3312-2-19**].  As
+     before, there is marked subcutaneous emphysema in the soft tissues of the left
+     chest.  In fact, they appear to be increased from prior study.  The left
+     basilar pneumothorax is still present and unchanged.  Because of the overlying
+     soft tissue emphysema, I cannot assess whether there is an apical
+     pneumothorax.  The rest of the lung fields and chest tube position appear
+     unchanged.
+     
+     IMPRESSION:
+     
+     Increase in subcutaneous emphysema.  Residual left basilar pneumothorax.
+     Right lung is clear.
+     
+
+",,

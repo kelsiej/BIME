@@ -1,0 +1,164 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8697,15298,,,3405-07-11 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+8697,15298,,,3405-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8697,15298,,,3405-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     BRAIN SCAN                                                      Clip # [**Clip Number (Radiology) 9962**]
+     Reason: SELF-INFLICTED GUNSHOT WOUND TO HEAD, EVAL FOR BRAIN DEATH.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Twenty-six year old man s/p self-inflicted gunshot wound to the head. 
+     Evaluate for brain death prior to organ donation.
+     
+     INTERPRETATION:  Anterior and posterior images of the brain and blood flow were
+     obtained and show no evidence of intracranial blood flow.
+     
+     Delayed images also show no tracer activity within the brain.
+     
+     The above findings are consistent with no intracranial blood flow.
+     
+     IMPRESSION:  Study is consistent with brain death.
+     /nkg
+                                                                           
+
+             [**First Name8 (NamePattern2) 3370**] [**Last Name (NamePattern1) 3371**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 545**] [**Last Name (NamePattern1) 546**], M.D.     Approved: FRI [**3405-7-12**] 11:21 AM
+
+
+             Date Mailed: [**3405-7-15**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8697,15298,,,3405-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3405-7-11**] 9:52 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9965**]
+     Reason: lung status                                                 
+     Admitting Diagnosis: S/P GUN SHOT WOUND
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        26 year old man with brain death s/p PA cath placement pending organ harvest  
+         
+     REASON FOR THIS EXAMINATION:
+      lung status                                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Brain death and PA catheter placement.
+     
+     FINDINGS: Comparison is made to a prior study from the same day. There is an
+     ETT in satisfactory position with its distal tip approximately 6 cm above the
+     carina. There is an NG tube in position with its distal tip within the
+     proximal stomach. The proximal side opening of this NG tube located in the
+     lower esophagus. There is a Swan-Ganz catheter in position with its distal tip
+     in the mid right pulmonary artery. The heart size and mediastinal contours are
+     normal. There is no pneumothorax or pleural effusion. The pulmonary
+     vascularity is normal with no evidence of failure. The lungs are clear with no
+     parenchymal consolidation or pulmonary nodules. The soft tissues and osseous
+     structures are unremarkable.
+     
+     IMPRESSION: 1) Swan-Ganz catheter in position with its distal tip in the
+     region of the right mid pulmonary artery. NG tube in position with its distal
+     tip in the proximal stomach and its proximal side opening in the region of the
+     lower esophagus. The NG tube should be advanced. ETT in satisfactory position.
+
+",,
+8697,15298,,,3405-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3405-7-11**] 3:38 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9964**]
+     Reason: ASSESS POSITION OF PA CATHETER                              
+     Admitting Diagnosis: S/P GUN SHOT WOUND
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      26 year old man with brain death s/p PA cath placement pending organ harvest    
+     REASON FOR THIS EXAMINATION:
+      ASSESS POSITION OF PA CATHETER                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     PROCEDURE:  AP portable chest.
+     
+     INDICATION:  26 year old male status post brain death awaiting organ harvest.
+     Status post PA cath placement.  Check position of catheter.
+     
+     Comparison is made to the prior examination of the same day at 4:58 hours.
+     
+     FINDINGS:  An ET tube is seen in stable position.  A Swan-Ganz catheter of a
+     left subclavian approach is seen with its tip in the proximal portion of the
+     right main pulmonary artery.  The heart is normal in size.  The pulmonary
+     vasculature is normal.  The mediastinal and hilar contours are unremarkable.
+     There is no pneumothorax.  The lungs are clear and there are no effusions.
+     
+     IMPRESSION:  Swan-Ganz catheter with tip in the proximal portion of the right
+     main pulmonary artery.  No pneumothorax.
+
+",,
+8697,15298,,,3405-07-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**3405-7-11**] 4:57 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 9963**]
+     Reason: S/P TRAUMA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST X-RAY, PORTABLE AP: Endotracheal tube is seen with tip at the thoracic
+     inlet.  The cardiomediastinal contour is within normal limits.  No
+     consolidations.  No pleural effusions or pneumothorax.  The osseous structures
+     are unremarkable.
+     
+     IMPRESSION: Endotracheal tube in satisfactory position.  No acute infiltrates.
+     
+
+",,
+8697,15298,10818,0,3405-07-11 14:42:00 EST,3405-07-11 14:56:00 EST,4022,"N",53,"Nursing/Other","tsicu progress/admit note","
+tsicu progress/admit note
+26 y.o transfer from osh. sustained self inflicted gsw to the head.
+CT: indicated severe head bleed inconsistent with life.
+NEOB notified.
+
+Neurologically: patient is unresponsive. pupils fixed and dilated. unresponsive to painful stimuli. absent cough/gag. failed apea test. failed cochlear/ocular exam. flow by scan indicates no gross cirulation. patient pronounced brain dead at 1415.
+
+CV: HR 120 sinus tach. BP goal from NEOB systolic greater than 100. Titrated on and off Dopamine. pulses palpable throughout. PA catheter placed. pap 40/20 cvp 9.  
+
+Resp: lung sounds CTA remains on vent support.
+
+GI: abd soft nondistended non tender
+
+GU: urine 500cc /hr remains on empircal vasopressin for DI.
+
+SKIN: entrance wound on right temporal site with minimal puncture site minimal draining.
+
+SOCIAL: Family with mulitple sources of support.  [**Last Name (un) **], Social Work, NEOB, TSICU Attending, TSICU Nursing Staff. Dr. [**Last Name (STitle) **] in strong communication with family.  Very clear on patient's outcomes and the options available through NEOB.  Family sat in a group in the waiting area and openly discussed with wishes that the patient would have desired.  All family members agreed that donation was something the patient would wanted therefore NEOB in conjunction with all supporting staff members helped inform and console patient's grieving family.
+
+A:Offically brain dead with wishes of organ donation.
+P:Work in conjunction with the NEOB for harvesting of organs.  Support family.
+
+
+",,
+8697,15298,10818,0,3405-07-11 22:09:00 EST,3405-07-11 22:27:00 EST,3706,"N",53,"Nursing/Other","T/SICU NPN: 1500-2300","
+T/SICU NPN: 1500-2300
+PT DECLARED BRAIN DEAD AT 1415  TREATMENT PROVIDED BY NEOB--NEOB PROTOCOL  PLEASE SEE CAREVUE FOR SERIAL ASSESSMENTS  MANY FAMILY
+AND FRIENDS IN/OUT TO SAY GOODBYES UNTIL 2100  SCHEDULED TO GO TO OR
+AT MN
+",,
+8697,15298,10818,0,3405-07-11 23:08:00 EST,3405-07-11 23:08:00 EST,-1,"N",53,"Nursing/Other","T/SICU RN Progress Note","
+T/SICU RN Progress Note
+To OR with anesthesia and NEOB at 1205
+",,
+8697,15298,,,3405-07-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,

@@ -1,0 +1,2834 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8734,,,,2878-07-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-7-17**] 7:46 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10218**]
+     Reason: pt with hypothermia                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old man with hypothermia                                                
+     REASON FOR THIS EXAMINATION:
+      pt with hypothermia                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Hypothermia.
+     
+     COMPARISON: None.
+     
+     CHEST, PA AND LATERAL: There is a patchy opacity within the retrocardiac left
+     lower lobe.  The lungs are otherwise clear.  The pulmonary vasculature is
+     within normal limits.
+     
+     IMPRESSION: Patchy opacity within the retrocardiac left lower lobe consistent
+     with pneumonia.
+
+",,
+8734,2356,,,2878-07-18 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+",,
+8734,2356,10863,0,2878-07-18 17:21:00 EST,2878-07-18 17:28:00 EST,1711,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1745-1900","
+NURSING PROGRESS NOTE 1745-1900
+PLS REFER TO NURSING ADMISSION NOTE FOR FHPA. PT IS A 46 YO MALE TX FROM [**Hospital 443**] HOSP AFTER BEING FOUND UNCONSCIOUS AT HOME BY NEPHEW. PT IS IDDM AND BS FOUND TO BE 30. PT WAS ALSO HYPOTHERMIC. ARRIVED TO EW LAST EVENING AND ARRIVED TO MICU AT 1745. BS 156. HTN 199/101. TO START LABETOLOL WHEN IT ARRIVES FROM PHARM.
+
+NEURO--AXO X3. INDEPENDANT WITH TX TO BED.
+
+CARDIAC--HR 70'S SR WITHOUT VEA OBSERVED. ON HEPARIN GTT. 1400U HR NEED TO CHECK PTT AT 2000. PT TEAM, PT HAS R/I FOR MI AND MAY GO TO CATH LAB TOMORROW.
+
+RESP-RA SAO2 99%. LUNGS CLEAR.
+
+GI--C/O HUNGER. DIABETIC TRAY ORDERED FOR PT. PER PT, HE HAS HAD ~1WK OF DIARRHEA. NONE SINCE ADMISSION. +BS.
+
+GU--VOIDING ON OWN. NEED SPECIMEN WITH NEXT VOID.
+
+ENDO--BS ON ADMISSION TO MICU 156. STARTED ON 2U HR OF REG INSULIN GTT.
+
+SKIN--INTACT. WITHOUT BREAKDOWN.
+
+ID--AFEBRILE 97.8. ON LEVO DUE AT 2400.
+
+PAIN--DENIES PAIN. SLIGHT HEADACHE AS PT HAS NOT EATEN SINCE BREAKFAST.
+
+COPING--SISTER-IN -LAW IS SPOKESPERSON. NO FAMILY OR FRIENDS HAVE VISITED AS OF THIS TIME.
+
+A--STABLE. ON INSULIN GTT AND LABETALOL GTT.
+
+P--CON'T Q1 HR BS CHECKS. CON'T TO MONITOR. ? NPO AFTER MN FOR CATH TOMORROW.
+",,
+8734,2356,10863,0,2878-07-19 04:38:00 EST,2878-07-19 05:16:00 EST,1771,"N",69,"Nursing/Other","pmicu npn 7p-7a","
+pmicu npn 7p-7a
+
+
+   received pt last evening with sbp's 190-200's while the pt c/o a
+severe ha. he was given tylenol with little effect and started on a labetalol qtt. despite receiving multiple boluses of labetalol and an increase in the qtt rate, his blood pressure failed to respond. he then received iv hydralazine w/excellent effect. 
+
+review of systems
+
+respiratory-> lung exam cta. he is maintaining sats >96% on room air. he denies c/o sob.
+
+cardiac-> r/i for an mi but unable to go to the cath lab d/t his arf.
+he denies cp and the iv ntg has been d/c'd. he remains on a heparin qtt and was supertherapeutic this morning; the qtt rate was reduced and he will require a repeat ptt at 11:30am. as noted above, his blood pressure has responded nicely to the iv hydralazine and he is now off of the iv labatelol. he is no longer c/o a ha now that the bp is under better control.
+
+neuro-> a&o x3, very pleasant and cooperative w/care. he is getting oob w/assistence to void. mae; independent at baseline.
+
+gi-> abd is soft, nontender w/+bs. he is tolerating [**First Name8 (NamePattern2) **] [**Doctor First Name **] diet and has had no c/o n/v/d.
+
+gu-> voiding via a urinal w/o incident. he is receiving maintainence fluids and is currently ~800cc tfb positive.
+
+endo-> pt has been on and off an insulin qtt tonoc for fs's ranging 70-240. currently the qtt rate has been increased to 4u/hr.
+
+access-> arterial line placed w/o incident last evening. he also has 3 peripheral angiocaths in place.
+
+social-> pt's sister-in-law, [**Doctor First Name **], is his hcp. she called last evening and was updated on his condition.
+",,
+8734,2356,10863,0,2878-07-19 15:08:00 EST,2878-07-19 15:19:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICUA Nursing Progress Note (0700-1900)
+
+Please see carevue for all objective data. 
+
+CNS: Pt. alert, oriented and cooperative, fatigued. Very pleasant. No deficits noted.
+
+CVS: Denies any chest pain or shortness of breath. Heart rate 60's to 80's. B/P has improved on oral regime of lopressor 25mg bid, nifedipine CR 90mg, hydralazine 20mg q6hr. Currently, SBP in the 130's/. Heparin gtt also dc'ed per cardiology. No plan for cath at this time. ?stress test. 
+
+RESP: Lungs clear with diminished breath sounds at the bases. No cough. Sats of 98% on room air. 
+
+GI: Taking po's very well. Denies any nausea or vomiting. No stool today. 
+
+F and E: Voiding without difficulty. Currently 1Liter positive. 
+
+SKIN: Intact. 
+
+ID: Afebrile, antibiotic has been dc'ed. 
+
+ENDO: Usual regime of NPH 20U in AM/18U in PM restarted along with humalog sliding scale coverage qid. Insulin gtt dc'ed at 1130 after reinstitution of NPH. Covered with 8U humalog at 1630 for blood glucose of 176. 
+
+SOCIAL: Several family members have called and pt. is now able to update them on his condition himself. 
+
+
+",,
+8734,2356,10863,0,2878-07-19 18:02:00 EST,2878-07-19 18:04:00 EST,2202,"N",69,"Nursing/Other",,"
+
+Addendum: Pt. complaining of a left sided toothache (rear, upper and lower). Tylenol given x 3 with transient relief. Housestaff made aware this AM, ? as potential source of infection. Also, vendoyne sleeves have been ordered for patient. 
+",,
+8734,2356,10863,0,2878-07-20 04:14:00 EST,2878-07-20 04:30:00 EST,2421,"N",69,"Nursing/Other",,"
+
+npn 7p-7a  (see also careview for objective data)
+
+dx: pna; elevated BS's; hypertension;
+
+neuro:
+a/o x3
+
+c-v:
+hypertension remained a problem; noted in pt's hx is pt was reportedly on nifedipine CR bid at home; pt restarted on same QD here at [**Hospital1 22**], received 11:00 yesterday; by approx midnight was significantly hypertensive, especially compared to approx 19:00; MD notified, meds and vs reviewed; nifedipine CR changed to BID:
+
+resp:
+O2 sat 98-99% on RA; no s/s extra resp effort;
+
+g-i/endo:
+took diet g-ale and saltines freely last eve;
+at approx 04:00, had emesis of approx 300 cc's return; glucose at thtat time 192;
+   remains hyperglycemic; is on steroid taper; MD notifed, FS's changed to q4 hrs for overnight;
+
+a.m. labs:
+notable is creatinine up to 4.2; Na and K down, K+ will needs supplementation; anticipate fluid restriction d/t pt is dialysis pt;
+
+social:
+sister called last eve;
+
+PLAN:
+1) start nifedipine CR BID;
+2) follow vs/exam
+3) FS's q 4 hrs until more stable
+4) free water restriction d/t hypernatremia
+5) guarded activity d/t recent cardiac insult from illness
+
+further plan per HO
+
+",,
+8734,2356,10863,0,2878-07-20 15:04:00 EST,2878-07-20 15:09:00 EST,1741,"N",69,"Nursing/Other","MICU A NSG 7A-7P","
+MICU A NSG 7A-7P
+RESP--PT REMAINS ON RA WITH BRONCHIAL BS IN LEFT LOWER LOBE NOTED.  DENIES SOB.
+CV--BP STABLE THROUGHOUT SHIFT, 10AM LOPRESSOR AND 12PM HYDRALIZINE DOSES HELD DUE TO EXTRA NIFEDIPINE DOSE THIS AM.  HO [**Doctor Last Name **] AWARE.  CONTS WITH (+)1 PEDAL EDEMA. 
+GI--[**First Name9 (NamePattern2) **] [**Doctor First Name 83**] DIET WELL, NO EPISODES N/V THIS SHIFT. CONTS ON Q4 AND AC HUMALOG WITH FS 98-211.
+GU--VOIDS IN URINAL WITH DIFF, SPEC SENT FOR U/A OSM CREAT.  
+NEURO--ALERT AND ORIENTED X3, SITTING AT EDGE OF BED INDEPENDANTLY.
+SOCIAL--SW CONSULTED TO FOLLOW PT IN HOUSE.  PT CALLED OUT TO FLOOR, AWAITING BED.  
+",,
+8734,2356,10863,0,2878-07-21 04:31:00 EST,2878-07-21 04:45:00 EST,5259,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700
+PT ADMITTED FOR ?ADDISONS CRISIS,BG <40,HYPOTHERMIA AND STEMI,PNU ON CXR. PT WITH EXTENSIVE HX AND MULTIPLE MED PROBLEMS.
+ 
+NEURO: PT A&OX3 NO DEFICITS
+
+RESP: PT ON R/A O2 SATS >96%.CHEST CLEAR SL DIMISHED OT BASES .
+
+CV: PT HAS HAD POORLY CONTROLLED HTN AND MULTIPLE MEDS AND DOSES GIVEN. PT GENERALLY WITH B/P<160 THOUGHOUT SHIFT. NSR RATE CONTROLLED.
+PT AFEBRILE. PT MI TX WITH HEPARIN GTT UNABLE TO HAVE CATH D/T CRI.
+
+GI/GU:PT TOLERATING DIET FLDS PREVIOUSLY RESTRICTED D/T NA+,PT WITH MINIMAL FLD INTAKE THIS SHIFT. VOIDING SPONT,NEEDS 24 HOUR URINE TO START THIS AM.
+
+SKIN: NO S/S BREAKDOWN PT INDEPENDENT CARE.
+
+ENDO: PT COMPLIANT BUT BRITTLE IDDM.TAKING NPH PER HIS USUAL DOSING AND REQUIRED COVERAGE X1 FOR Q4 S/S BG.
+
+SOCIAL: NO CONTACT WITH PT FAMILY THIS SHIFT.
+
+PLAN: PT AWAITING D/C TO FLR.
+       FOLLOW BG
+       POSSIBLE STRESS TEST THIS WEEK.
+
+",,
+8734,2356,10863,0,2878-07-21 16:00:00 EST,2878-07-21 16:06:00 EST,1741,"N",69,"Nursing/Other","MICU A NSG 7A-7PM","
+MICU A NSG 7A-7PM
+RESP--REMAINS ON RA WITH LUNGS CTA BILAT.
+CV--REMAINS HEMODYNAMICALLY STABLE.  K REPLETED WITH 40MEQ KCL PO.  CONTS WITH LOWER EXTREMITY EDEMA.
+GI--[**First Name9 (NamePattern2) **] [**Doctor First Name 83**] DIET WELL.  CONTS ON SS REG AS NEEDED QID.
+GU--24 HOUR URINE STARTED AT 9AM FOR CREAT, WILL RUN THROUGH 9AM [**7-22**].
+NEURO--AMB IN ROOM WITHOUT DIFF.
+DISPO--REMAINS STABLE AND CALLED OUT TO FLOOR.
+",,
+8734,,10863,0,2878-07-22 04:07:00 EST,2878-07-22 04:21:00 EST,5259,"N",69,"Nursing/Other",,"
+
+NPN 1900-0700
+
+PT IS 46YR OLD [**Male First Name (un) **] WITH SIGNIFICANT MEDICAL HX FOR IDDM,HTN,ADDISON'S DX,NEUROPATHY. FOUND DOWN AT HOME AFTER TAKING 4 UNISOM WITH BG 30 LOW B/P,HYPOTHERMIA,PNA ON CXR. PT RULED IN STEMI AND ?ADDISON'S CRISIS.
+
+NEURO: PLEASANT, NEURO INTACT.
+
+RESP: CTA, NONPRODUCTIVE COUGH O2 SAT >96%.
+
+CV: PT HAS HAD POORLY CONTROLLED HTN THIS ADMISSION DESPITE ALTERING MEDS. PT TX X1 WITH PRN HYDRALAZINE AT 0200 FOR B/P>165,WITH GOOD RESULTS. PT AFEBRILE. DENIES CP.NSR NO ECTOPY. PT UNABLE TO HAVE CATH D/T CRI SO NEDS OUTPT STRESS TEST .
+
+ENDO: POOORLY CONTROLLED BG DURING ADMISSION PT ON QID BG WITH NPH.S/S HUMALOG PROTOCOL. BG WITHIN PARAMETERS LAST 24HOURS. ON STERIODS TX.
+
+GI/GU:PT TOLERATING [**Doctor First Name 83**] DIET. FINISHING UP 24 HOUR URINE AT 0900 THIS AM. VOIDING CLEAR YELLOW URINE.
+
+SKIN: INTACT.
+
+COMFORT: PT C/O INSOMNIA LAST NIGHT ATIVAN GIVEN. ALSO PT HAS TOOTH ACHE GIVEN TYLENOL,ADVISED NO DENTAL SERVICE AVAIL HERE AS INPT.
+
+SOCIAL: SOME FAMILY ALOT OF FRIENDS GOOD SUPPORT SYSTEM.
+
+PLAN: POSSIBLE D/C TO HOME NOW .HAS BEEN CALLED OUT HERE>24HOURS.
+
+
+
+
+",,
+8734,,10863,0,2878-07-22 13:41:00 EST,2878-07-22 13:45:00 EST,2720,"N",69,"Nursing/Other",,"
+
+MICU NURSING DISCHARGE NOTE 0700-1430
+
+Pt stable/afebrile; BS in fair control w/ new Insulin dose schedule. Pt ready for discharge.
+Discharge instructions, health care approintments and medication presriptions given and reviewed in detail w/ pt. Pt states understanding of all. Advised to return/call PCP for specific stated instructions.
+Pt ambulated w/o assistance to elevators, accompanied by friend who will give pt ride home.
+
+",,
+8734,,,,2878-08-02 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     EXERCISE MIBI                                                   Clip # [**Clip Number (Radiology) 10219**]
+     Reason: CAD EVALUATION IN DIABETIC MALE.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Forty-six year old male diabetic patient for coronary artery disease 
+     evaluation.
+     
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB:
+     
+     Exercise protocol:  Modified [**Doctor First Name 424**].
+     Exercise duration:  8 minutes.   
+     Percent maximum predicted heart rate obtained:  59%.
+     Symptoms during exercise:  none.
+     Reason exercise terminated:  fatigue.
+     ECG findings:  none.
+     
+     INTERPRETATION: 
+     
+     Imaging Protocol: gated SPECT.
+     
+     Resting perfusion images were obtained with Tl-201.
+     Tracer was injected 15 minutes prior to obtaining the resting images.
+     Exercise images were obtained with Tc-99m sestamibi.
+     
+     Stress and resting perfusion images demonstrate normal left ventricular cavity 
+     size and tracer distribution.
+     
+     Ejection fraction calculated from gated wall motion images obtained after
+     exercise is 58%, with normal wall motion.
+     
+     IMPRESSION:  No evidence of fixed or reversible wall perfusion defects, at the
+     level of exercise achieved.  Normal wall motion with EF of 58%.
+     
+     /nkg
+                                                                           
+
+             [**First Name4 (NamePattern1) 2619**] [**Last Name (NamePattern1) 752**], M.D.
+             [**First Name11 (Name Pattern1) 485**] [**Last Name (NamePattern1) 486**], M.D.        Approved: [**Doctor First Name 114**] [**2878-8-4**] 8:21 AM
+
+
+             Date Mailed: [**2878-8-5**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8734,,,,2878-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-8-10**] 10:48 AM
+     FOOT (AP & LAT) STANDING BILAT; ANKLE (AP, LAT & OBLIQUE) BILAT Clip # [**Clip Number (Radiology) 10220**]
+     Reason: Please add NWB oblique,  , +DM, recent h/o swelling b/l,  , 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old man with swelling, r/o charcot
+     REASON FOR THIS EXAMINATION:
+      Please add NWB oblique
+       
+      +DM, recent h/o swelling b/l
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Swelling, diabetes, bilateral swelling.  Evaluate for neuropathic
+     changes.
+     
+     FIVE VIEWS RIGHT FOOT AND ANKLE:  There is deformity of the right tibial
+     plafond, which may relate to a remote fracture.  The distal fibula also has an
+     irregular appearance, likely relating to prior fracture.  There is a pes
+     planus deformity.  There is diffuse osteopenia.  No significant destructive
+     changes are noted in the mid foot.
+     
+     FIVE VIEWS LEFT FOOT AND ANKLE:  There is a pes planus deformity.  There are
+     destructive and proliferative changes within the mid foot, with increased
+     density and disorganization in this region.  The ankle mortise is relatively
+     well preserved.  Vascular calcifications are present.
+     
+     IMPRESSION:
+     
+     1) Neuropathic changes of the left mid foot.
+     
+     2) Probable remote fractures of the distal tibia and fibula on the right.
+
+",,
+8734,,,,2878-08-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-8-10**] 10:48 AM
+     FOOT (AP & LAT) STANDING BILAT; ANKLE (AP, LAT & OBLIQUE) BILAT Clip # [**Clip Number (Radiology) 10220**]
+     Reason: Please add NWB oblique,  , +DM, recent h/o swelling b/l,  , 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old man with swelling, r/o charcot
+     REASON FOR THIS EXAMINATION:
+      Please add NWB oblique
+       
+      +DM, recent h/o swelling b/l
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Swelling, diabetes, bilateral swelling.  Evaluate for neuropathic
+     changes.
+     
+     FIVE VIEWS RIGHT FOOT AND ANKLE:  There is deformity of the right tibial
+     plafond, which may relate to a remote fracture.  The distal fibula also has an
+     irregular appearance, likely relating to prior fracture.  There is a pes
+     planus deformity.  There is diffuse osteopenia.  No significant destructive
+     changes are noted in the mid foot.
+     
+     FIVE VIEWS LEFT FOOT AND ANKLE:  There is a pes planus deformity.  There are
+     destructive and proliferative changes within the mid foot, with increased
+     density and disorganization in this region.  The ankle mortise is relatively
+     well preserved.  Vascular calcifications are present.
+     
+     IMPRESSION:
+     
+     1) Neuropathic changes of the left mid foot.
+     
+     2) Probable remote fractures of the distal tibia and fibula on the right.
+
+",,
+8734,,,,2878-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-8-11**] 12:55 PM
+     CT LOW EXT W/O C LEFT; CT LOW EXT W/O C RIGHT                   Clip # [**Clip Number (Radiology) 10221**]
+     CT RECONSTRUCTION
+     Reason: Edema b/l LE's, +DM, with charcot changes b/l onj plain x-ra
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old man with 
+       
+      swelling b/l.
+     REASON FOR THIS EXAMINATION:
+      Edema b/l LE's, +DM, with charcot changes b/l onj plain x-ray, s/p r ankle
+      fracture.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bilateral swelling and edema.  Charcot changes on radiographs,
+     history of right ankle fracture.
+     
+     TECHNIQUE:  Contiguous axial images were obtained through both ankles and feet
+     without intravenous contrast.  Sagittal and coronal reformations were
+     performed.
+     
+     COMPARISON:  Radiographs of both ankles and feet from [**2878-8-10**].
+     
+     FINDINGS:  There is evidence for a prior fracture of the distal fibula.  There
+     is also a deformity of the distal tibia, likely secondary to a fracture of the
+     medial malleolus, which extends posteriorly along the tibial plafond. There is
+     slight varus angulation at the right ankle mortise.  The talar dome is smooth,
+     without evidence for collapse.  No acute fractures are identified on the
+     right.  There is no evidence for acute fracture, dislocation, or bony
+     proliferative or destructive changes.
+     
+     On the left, there is moderate anterior tilt of the talus.  There are
+     neuropathic changes within the left midfoot, with fragmentation, destruction,
+     and disorganization of the midfoot.
+     
+     There is diffuse osteopenia bilaterally.  Also noted is diffuse edema within
+     the soft tissues bilaterally, consistent with anasarca.  There is a ghost
+     track within the right calcaneus, likely from prior external fixation device.
+     There are diffuse vascular calcifications.
+     
+     IMPRESSION:
+     
+     1. Neuropathic changes within the left midfoot.  Infection is not excluded.
+     2. Remote fractures of the medial and lateral malleolus on the right.
+     3. Osteopenia.
+     4. Diffuse lower extremity edema, consistent with anasarca.
+     
+
+",,
+8734,,,,2878-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-8-11**] 12:55 PM
+     CT LOW EXT W/O C LEFT; CT LOW EXT W/O C RIGHT                   Clip # [**Clip Number (Radiology) 10221**]
+     CT RECONSTRUCTION
+     Reason: Edema b/l LE's, +DM, with charcot changes b/l onj plain x-ra
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old man with 
+       
+      swelling b/l.
+     REASON FOR THIS EXAMINATION:
+      Edema b/l LE's, +DM, with charcot changes b/l onj plain x-ray, s/p r ankle
+      fracture.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bilateral swelling and edema.  Charcot changes on radiographs,
+     history of right ankle fracture.
+     
+     TECHNIQUE:  Contiguous axial images were obtained through both ankles and feet
+     without intravenous contrast.  Sagittal and coronal reformations were
+     performed.
+     
+     COMPARISON:  Radiographs of both ankles and feet from [**2878-8-10**].
+     
+     FINDINGS:  There is evidence for a prior fracture of the distal fibula.  There
+     is also a deformity of the distal tibia, likely secondary to a fracture of the
+     medial malleolus, which extends posteriorly along the tibial plafond. There is
+     slight varus angulation at the right ankle mortise.  The talar dome is smooth,
+     without evidence for collapse.  No acute fractures are identified on the
+     right.  There is no evidence for acute fracture, dislocation, or bony
+     proliferative or destructive changes.
+     
+     On the left, there is moderate anterior tilt of the talus.  There are
+     neuropathic changes within the left midfoot, with fragmentation, destruction,
+     and disorganization of the midfoot.
+     
+     There is diffuse osteopenia bilaterally.  Also noted is diffuse edema within
+     the soft tissues bilaterally, consistent with anasarca.  There is a ghost
+     track within the right calcaneus, likely from prior external fixation device.
+     There are diffuse vascular calcifications.
+     
+     IMPRESSION:
+     
+     1. Neuropathic changes within the left midfoot.  Infection is not excluded.
+     2. Remote fractures of the medial and lateral malleolus on the right.
+     3. Osteopenia.
+     4. Diffuse lower extremity edema, consistent with anasarca.
+     
+
+",,
+8734,,,,2878-08-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-8-11**] 12:55 PM
+     CT LOW EXT W/O C LEFT; CT LOW EXT W/O C RIGHT                   Clip # [**Clip Number (Radiology) 10221**]
+     CT RECONSTRUCTION
+     Reason: Edema b/l LE's, +DM, with charcot changes b/l onj plain x-ra
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old man with 
+       
+      swelling b/l.
+     REASON FOR THIS EXAMINATION:
+      Edema b/l LE's, +DM, with charcot changes b/l onj plain x-ray, s/p r ankle
+      fracture.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Bilateral swelling and edema.  Charcot changes on radiographs,
+     history of right ankle fracture.
+     
+     TECHNIQUE:  Contiguous axial images were obtained through both ankles and feet
+     without intravenous contrast.  Sagittal and coronal reformations were
+     performed.
+     
+     COMPARISON:  Radiographs of both ankles and feet from [**2878-8-10**].
+     
+     FINDINGS:  There is evidence for a prior fracture of the distal fibula.  There
+     is also a deformity of the distal tibia, likely secondary to a fracture of the
+     medial malleolus, which extends posteriorly along the tibial plafond. There is
+     slight varus angulation at the right ankle mortise.  The talar dome is smooth,
+     without evidence for collapse.  No acute fractures are identified on the
+     right.  There is no evidence for acute fracture, dislocation, or bony
+     proliferative or destructive changes.
+     
+     On the left, there is moderate anterior tilt of the talus.  There are
+     neuropathic changes within the left midfoot, with fragmentation, destruction,
+     and disorganization of the midfoot.
+     
+     There is diffuse osteopenia bilaterally.  Also noted is diffuse edema within
+     the soft tissues bilaterally, consistent with anasarca.  There is a ghost
+     track within the right calcaneus, likely from prior external fixation device.
+     There are diffuse vascular calcifications.
+     
+     IMPRESSION:
+     
+     1. Neuropathic changes within the left midfoot.  Infection is not excluded.
+     2. Remote fractures of the medial and lateral malleolus on the right.
+     3. Osteopenia.
+     4. Diffuse lower extremity edema, consistent with anasarca.
+     
+
+",,
+8734,,,,2878-09-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-9-12**] 3:05 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10222**]
+     Reason: r/o pneumonia                                               
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       46 year old man with chest discomfort                                          
+           
+     REASON FOR THIS EXAMINATION:
+      r/o pneumonia                                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Chest discomfort.
+     
+     COMPARISON:  Report from [**2878-7-17**].  Images are not available on PACS for
+     immediate review.
+     
+     PA AND LATERAL VIEWS OF THE CHEST:  The heart is normal in size.  The
+     mediastinal and hilar contours are normal.  The lungs are clear.  The
+     pulmonary vascularity is normal.  No effusions or pneumothorax is present.
+     The soft tissues and osseous structures are unremarkable.
+     
+     IMPRESSION:  No acute cardiopulmonary process.
+
+",,
+8734,11536,10864,0,2878-09-13 18:24:00 EST,2878-09-13 18:42:00 EST,2783,"N",69,"Nursing/Other","Nursing Admit/Progress Note 1800-1900","
+Nursing Admit/Progress Note 1800-1900
+This 46yo man with hx uncontrolled HTN, CHF, CRI, Addison's, IDDM/DKA, Troponin leaks. He presented to EW [**9-12**] @ 1100 with C/O malaise with N/V X 2 days. Glucose 422 and pt started on Insulin qtts. When gap decreased, attempted to control glucose with sliding scale without success. Gap widened (FS 496 after lunch [**9-13**]) and insulin qtts restarted. Pt also noted to have EKG changes on admit in ant/lat leads, with Troponin .69, MB/CK 93. Pt given Integrelin and started on Heparin qtts.  Following PTT > 150 and Heparin stopped, with repeat PTT pending. 
+
+Review of Systems:
+Neuro: AAO X 3, MAEE, transferring stretcher-> bed without assist. Pt denies pain.
+Resp: Sating 100% on 2l NC, RR 21 and regular. Lungs clear.
+CV: HR 65-75SR without ectopy. BP 120-140/70's. Rec'ing NS @ 125ml/hr.
+GI: Bowel snds present, abd soft. Pt states appetite is good.
+Endo: Insulin qtts initially @ 4u/hr, increased to 8u/hr with FSG 469.
+GU: Pt has not voided since admit to unit.
+Social: Pt lives alone and gives sister-in-law as closest relative. Valuables locked in unit safe and pt given receipt.
+Plan: Cont to closely monitor glucose levels, titrating insulin approp. ? restart Heparin qtts.
+",,
+8734,11536,10864,0,2878-09-14 03:50:00 EST,2878-09-14 04:08:00 EST,5238,"N",69,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+Assumed care of pt at 1915, pt sitting on edge of bed voices no c/o's. Pt is A/Ox3, please refer to carevue flowsheet for complete and ongoing assessment. Exam as follows:
+
+NERUO:  Pt is A/Ox3, moves all extremities. Pt able to assist himself from the bed to the chair.  Pupils are equal and reactive and strength is equal to all 4 extremities.  Pt able to voice his needs.
+
+RESP:  Lungs are clear bilat.  Pt requesting O2 to be removed during the night.  Pts sats greater than 97% after removal.  Bilat chest expansion noted.  Pt with occasional cough, non-productive.
+
+CV:  Monitor reveals NSR-[**Last Name (un) 948**] w/o ectopy.  Pt slight hypertensivex2 BP cycles but normalizes once pt is relaxed in the bed.  Pt on po HTN meds.  PIVx3 are patent.  Pt has 2+ pedal edema, states his last dose of lasix was on Sunday.  Pt started on a Heparin drip at 0300.  Will monitor PTT closely. Pt afebrile during the night. 
+
+GI:  Abd is soft and nondistended.  Pt taking po well. Ate 80% of dinner and drinking diet gingerale w/o problem.  Pt is NPO this am for possible procedure.  No BM during the night.  + bowel sounds heard to all 4  quads.  Pt remains on an insulin drip.  During the night, FSBS in the 60's and drip was turned off for one hour but restarted and infusing at rate according to carevue.
+
+GU:  Pt able to stand at edge of bed and voids in the urinal w/o difficulty.  Pt voiding in good amts.
+
+SKIN: grossly intact, pt with edema to legs
+
+
+Plan:  Cont to monitor FSBS  every hour and adjust insulin drip as needed.  Cont to monitor PTT every 6 hours and adjust heparin as per protocol. cont to follow electrolytes.  Pt may go for a cardiac cath once blood sugars are better controlled.
+
+SOCIAL:  No calls or contact with family or friends during the night.
+",,
+8734,11536,10864,0,2878-09-14 16:46:00 EST,2878-09-14 17:44:00 EST,2783,"N",69,"Nursing/Other","Nursing Progress note 0700-1900","
+Nursing Progress note 0700-1900
+Review of Systems:
+
+Neuro: AAO X 3, moving independently btwn bed and chair without difficulty. No C/O pain, dizziness or weakness. Pt appropriate and pleasant.
+
+Resp: Sating 99% on RA with RR 13-25 and regular. Lungs clear.
+
+CV: HR 59-72SR with rare PVC's. SBP in AM > 200. Nifedipine started @ 0800 and Hydralazine increased from 50->75mg Q6hrs with BP trending down to BP 118/71 @ 1700. Ptt from 0600 31.3, so Heparin increased to 1200u/hr after bolus of 1100u per protocol. Repeat PTT @ 1400 150, so Heparin stopped X 1hr and then restarted @ 800u/hr per protocol. Next PTT to be drawn @ 2300 tonight. 
+
+GI: Pt with good appetite. Bowel snds present, no BM since admit. Pt to be NPO after MN for ? cardiac cath in AM.
+
+Endo: Insulin qtts to be titrated to off, while insulin sliding scale started @ noon. Pt rec'd 2u Humalog @ 1200. FSG @ 1600 68 and Insulin qtts stopped and pt given OJ. At 1500 FSG 121. At 1800 FSG 201(after just eating dinner) and pt given Humalog 4u. 
+
+GU: Pt voiding yellow/clear urine without difficulty. However, fluid balance MN->1700 +2.3liters, and LOS balance 3480ml. Pt with 2+ edema bilat in lower extremeties. Pt rec'ing D5 .45NS @ 125ml/hr cont IV.
+
+Social: Pt speaking with several friends by phone, no visitors. Pt voicing anxiety re ? cardiac cath and possible dialyzing.
+
+Plan: Repeat PTT @ 2300. Cont freq finger stick glucose levels. Attempt to maintain glucose levels within target range via sliding scale. NPO after MN for ? cardiac cath in AM.
+",,
+8734,11536,10864,0,2878-09-15 05:16:00 EST,2878-09-15 05:32:00 EST,5238,"N",69,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+Assumed care of pt at 1900.  Pt sitting up in a chair and has finished eating his dinner.  Pt voices no c/o's.  Please refer to carevue flowsheet for complete and ongoing assessment.  Exam as follows:
+
+Neuro: Pt A/Ox3, very pleasant and cooperative with cares. Pt independently moving from bed to chair and back to bed. Pt able to control his IV's and monitor cables with transfer. Pt denies pain or dizziness. Pupils are equal and reactive.
+
+Resp:  Lungs are clear thru-out with bilat equal breath sounds. Pt remains on room air with good O2 sats.
+
+CV:  Monitor reveals NSR-Sbrady most of the night w/o ectopy. SBP better controlled during this shift.  Pts SBP was in the 90's for a couple of hours.  Pts HTN meds were increased plus he received his nifedipine starting on [**9-15**] which he normally takes. With the 0400 and 2200 dose of Hydralazine, nurse opted to give 50mg vs 75mg like he was on previous shift vs. holding the whole dose. Pts BP has remained stable and within limits.  Pt conts on Heparin drip.  Drip was increase to 1100units/hr and PTT was sent at 0600 today.  Will adjust accordingly.  Feet remain with edema. Pt afebrile during the night.
+
+GI: Abd is soft round and nontender. +Bs heard to all 4 quads. Pt NPO this am for possible procedure. NO BM since admission, but pt does not feel the need to go. Pt had to be restarted on his insulin drip.  Pts blood sugars are very labile. Earlier in the shift they were in the 400's and following protocol drip was titrated, but this am blood sugar was 64 but pt denies any symptoms. Insulin drip was turned off.
+
+GU: Pt voids easily in the urinal w/o difficulty.  Pt drinking po well. Pt is positive on the fluid side, team aware. He usually takes lasix but has not received any during admission.
+
+Social; Pt talks to many friends on the phone.  Pt is very anxious about having cardiac cath done.  At current, pt wishes to get his blood sugars under better control and have the cath done after [**Last Name (un) 1120**]. Pt is afraid of the outcome regarding his kidneys.
+
+Plan:  cont with finger sticks, Monitor PTT and adjust heparin drip accordingly. Allow pt to vent his concerns.
+",,
+8734,11536,10864,0,2878-09-15 05:52:00 EST,2878-09-15 05:53:00 EST,5238,"N",69,"Nursing/Other","Blood sugar","
+Blood sugar
+Blood sugar at 0700 is 59, pt is not sweating and only c/o's of feeling weak.  Pt given po fluids with good results.
+",,
+8734,11536,10864,0,2878-09-15 16:35:00 EST,2878-09-15 16:40:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICU A Nursing Progress Note
+
+Please see carevue and nursing transfer note for all objective data and review of systems. Essentially, insulin gtt restarted briefly this AM and then dc'ed at 1100. IVF dc'ed and pt. is taking a renal/[**Doctor First Name 83**] diet without difficulty. Initially covered with 4u regular insulin at 1330 for blood glucose of 240, 4u regular and 8u NPH given at 1700 with blood glucose of 220. Remains in MICU at this time to follow fingersticks q2hr. Plan is to transfer to the floor later this evening.
+",,
+8734,11536,10864,0,2878-09-15 20:57:00 EST,2878-09-15 20:59:00 EST,5238,"N",69,"Nursing/Other","Transfer","
+Transfer
+No change in assessment.  Pt has been taking a nap since this nurse arrived.  Currently sitting on edge of bed and talking on the phone. Pt denies any pain. Blood sugars have been better controlled today since off insulin drip.  Pt just received 10units of Regular Insulin for blood sugar of 263.  Pt transfered to floor via wheelchair on a monitor.
+",,
+8734,11536,10864,0,2878-09-15 21:00:00 EST,2878-09-16 05:23:00 EST,5238,"N",69,"Nursing/Other","Correction","
+Correction
+Pt was given 10 units of Humalog not Regular insulin.
+",,
+8734,11536,10864,0,2878-09-15 21:09:00 EST,2878-09-15 21:10:00 EST,5238,"N",69,"Nursing/Other","Valuables","
+Valuables
+Pts Valuable slip from Micu-A safe removed and taken with pt to the next floor for there safe.
+",,
+8734,11536,10864,0,2878-09-15 21:17:00 EST,2878-09-15 21:40:00 EST,5238,"N",69,"Nursing/Other","Transfer on hold","
+Transfer on hold
+Pt ready for transfer but bed management called and requested pt stay in the unit because they need floor beds more than unit beds. Pt connected back to monitor and exam is unchanged.  Pt eating a bedtime snack.  voices no c/os'
+
+",,
+8734,11536,10864,0,2878-09-16 05:10:00 EST,2878-09-16 05:21:00 EST,5238,"N",69,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+Assumed care of pt at 1900.  Pt lying supine in the bed taking a nap. When awake later, pt denied any pain.  Please refer to carevue flowsheet for complete and ongoing assessment. Exam as follows:
+
+Neuro: completely intact. Pt able to move from bed to chair and back independently.  Denies any pain.
+
+Resp:  Lungs are clear thru-out and remains on RA
+
+CV:  Monitor reveals NSR-sbrady during this shift.  SBP is controlled nicely with all of his antihypertensive meds.  Abefrile during the night. Bilat pitting edema to both legs.  Pt has been off his lasix since Sunday.  Pt off heparin drip and started on SC heparin
+
+GI:  Abd is soft round and nontender. +BS heard to all quads and pt eating all of his meals. Pt had a BM yesterday in the am.  Pt had to be restarted on his insulin drip again this am.  Pt is not getting enough NPH coverage during the night.  Pts insulin drip was stopped during the evening and he was given 10units of NPH at 1700.  Pt was given 10units of Humalog at 2330 for his blood sugar of 268.  At 0200 blood sugar was 218(just checking to make sure it was not getting higher).  Blood sugar at 0530 registered ""critical High"" on the machine and labs sent down.  Insulin drip restarted at 8units/hr and will titrate accordingly and pt will go back on Q1 hour fingersticks. [**Last Name (un) 30**] is following pt, they need to re-evualate his schedule.
+
+GU: Pt voiding in the urinal w/o difficulty. Specimen sent to the lab this am.
+
+Social:  Pt makes many calls on the phone to family and friends.
+
+Plan:  Pt needs to be better controlled with his blood sugars.  Cont to monitor blood sugars every 1 hour.
+
+
+",,
+8734,11536,10864,0,2878-09-16 15:54:00 EST,2878-09-16 16:08:00 EST,2755,"N",69,"Nursing/Other",,"
+
+
+
+
+NURSING NOTE 0700HRS - 1700HRS
+
+EVENTS - ONGOING UNSTABLE DIABLETES, INCESEASED INSULIN/OBSERVE BLOODS SUGARS
+
+
+
+NEURO - A/O X3 - MINIMAL ASSISTANCE -   OOB TO CHAIR - DENIES ANY PAIN
+
+
+RESP - LUNGS CLEAR, SATS >98% RR SATISFACTORY NO COMPLAITS OF SOB
+
+
+ENDO - RECEIVED ON INSULIN DRIP THIS AM @ 16CC/HR AS LEVEL >400 IV FLUIDS @ 100CC/HR AND NPO -  GRADUALLY REDUCED AND INSULIN DRIP TITRATED AS [**First Name8 (NamePattern2) **] [**Last Name (un) **] PROTOCOL - REVIWED BY [**Last Name (un) **] TEAM DRIP STOPPED, INCREASED DOSE OF NPH GIVEN  AND ALLOWED TO TAKE DIET, TO RECEIVE HUMALOG [AS PER S/S] PRE MEAL TIMES - RELATIVELY STABLE THIS PM - SEE CAREVIEW FOR DATA - REGIME REVIWED X2 TODAY
+
+
+CVS - INCREASED DOSE OF HYDRALAZINE FOR SYSTOLIC >170 THIS AM - BY 1300HRS FEELING SLIGHTLY LIGHTHEADED B/P LOW AT 90 SYSTOLIC PATIENT - BOLUS 250CCN/S GIVEN WITH SOME EFFECT REPEATED X1 THIS PM - SYSTOLIC PRESENTLY 90-100 HYARALAZINE NOT GIVEN AT 1600HRS - TO CONTINUE TO REVIEW - FOR REDUCED DOSE IN THE FUTURE
+H/R 60-70 BPM NO ECTOPICS
+AFEBRILE
+CHEM 7 REPEATED EVERY 4HRS WHILST BLOOD SUGARS UBSTABLE [ NEXT DUE @ 200HRS]
+
+
+GI -  
+ X1 BOWEL MOTION - EATING WELL
+
+
+GU - PASSING GOOD AMOUNTS OF URINE THIS AM - NOT PASSED URINE THIS PM DESPITE BOLUSES AND FLUID ENCOURAGEMENT - TO CONTINUE TO OBSERVE
+
+SKIN - INTACT
+
+LINES -  X2 PERIPHERALS PATENT
+
+SOACIAL - MANY FRIENDS PHONING
+
+
+PLAN - ?? CALL OUT TO FLOOR/ TRANSFER LETTER DONE
+",,
+8734,11536,10864,0,2878-09-16 16:16:00 EST,2878-09-16 16:20:00 EST,2755,"N",69,"Nursing/Other",,"
+
+
+
+ADDENDUM - SODIUM LEVEL IMPROVED OVER THE COURSE OF THE DAY - REGULAR DOSE OF LASIX/METOLOAZONE ON CONTINUE HOLD AT PRESENT  DESPITE INCREASED LOWER LEG OEDEMA - CONTINUES TO REFUSE CARDIAC CATH [DESPITE RULING IN FOR M.I ON THIS ADMISSION] RENAL FUNCTION STABLE
+",,
+8734,11536,10864,0,2878-09-17 03:56:00 EST,2878-09-17 04:15:00 EST,2421,"N",69,"Nursing/Other",,"
+
+npn 7p-7a (see also careview flownotes for objective data:
+
+dx: DKA; CRI; htn
+
+neuro:
+a/o x3; moves all extremities independently, equally; PERLA;
+
+c-v:
+hrt NSR via cardiac monitor; remains on hep SQ tid to prevent DVT's;
+    continues to have uncontrolled hypertension; recieved anti-hypertensives as ordered, yet sbp up to 199 at approx 03:00; MD notified, stated to give a.m. dose hydralazine at 03:00 instead of waiting until time of 05:00; 
+   continues to have significant bilateral lower extremity edema;
+
+resp:
+lungs clear bilat; Room air;
+
+g-i:
+FSBS elevated after evening snack of 8 saltines; received hs NPH and SS as ordered; new sliding scale ordered later after 23:00; will clarify in a.m. d/t FSBS down to 85 at 04:20; 
+
+g-u:  voiding quantity sufficient per bedside urinal; 
+
+skin:
+intact; 
+
+LABS:
+12 a labs showed very slight rise in creatinine; also mild elevation in serum K+; because of receiving insulin at 22:00, expect K+ to decrease abit; 
+
+PLAN:
+1)  check a.m. labs 
+2)  possible c/o if labs stable
+3)  continue to follow FS's closely until controlled
+
+
+",,
+8734,11536,,,2878-09-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     PERSANTINE MIBI                                                 Clip # [**Clip Number (Radiology) 10223**]
+     Reason: 46 Y/O MAN WITH DIABETES, CHRONIC RENAL INSUFFICIENCY AND NSTEMI ONE WEEK AGO.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Forty-six year old man with diabetes, chronic renal insufficiency and
+     NSTEMI one week ago. 
+      
+     SUMMARY OF EXERCISE DATA FROM THE REPORT OF THE EXERCISE LAB: 
+     Dipyridamole was infused intravenously for 4 minutes at a dose of 0.142  
+     mg/kg/min. Two minutes after the cessation of infusion, Tc-99m sestamibi was
+     administered IV. 
+      
+     INTERPRETATION:  
+     Image Protocol: Gated SPECT. 
+     Resting perfusion images were obtained with thallium-201. 
+     Tracer was injected 15 minutes prior to obtaining the resting images. 
+      
+     Stress images show enlargement of the LV cavity.  At stress, there are no
+     myocardial perfusion defects identified.  Resting perfusion images show slight
+     enlargement of LV cavity, but less prominent than at stress.  At rest, there are
+     no myocardial perfusion defects identified. 
+      
+     Ejection fraction calculated from gated wall motion images obtained after
+     Dipyridamole administration is 55%.  Wall motion is normal. 
+      
+     As compared to prior exercise MIBI dated [**2878-8-2**], the enlargement of the LV
+     cavity is slightly more prominent today. 
+      
+     IMPRESSION:  1) No myocardial perfusion defects.  EF of 55%.  2) Enlargement of
+     the LV cavity is worse at stress than at rest and may represent balanced three
+     vessel ischemia or other type of cardiomyopathy.  Enlargement of the LV cavity
+     during stress is slightly more pronounced than on the prior study. 
+     /nkg 
+                                                                           
+
+             [**Name6 (MD) 480**] [**Name8 (MD) 481**], M.D.
+             [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 545**] [**Last Name (NamePattern1) 546**], M.D.     Approved: [**Doctor First Name 114**] [**2878-9-22**] 9:57 AM
+
+
+             Date Mailed: [**2878-9-23**]
+
+
+
+               RADLINE [**Telephone/Fax (1) 67**]; A radiology consult service.
+            To hear preliminary results, prior to transcription, call the
+                           Radiology Listen Line [**Telephone/Fax (1) 68**].
+
+",,
+8734,,,,2878-12-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-12-16**] 4:52 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10224**]
+     Reason: eval for pulm edema                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old man with DM2, HTN, severe pedal edema after stopping lasix.         
+     REASON FOR THIS EXAMINATION:
+      eval for pulm edema                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  46-year-old man with diabetes, hypotension, and pedal edema.
+     Evaluate for pulmonary edema.
+     
+     COMPARISON:  [**2878-9-12**].
+     
+     CHEST, 2 VIEWS:
+     
+     FINDINGS:  The heart size is within normal limits.  The mediastinal and hilar
+     contours are normal, there is no significant change from the prior study of
+     [**2878-9-12**].  The pulmonary vascularity is normal without redistribution.
+     There is no focal consolidation, pneumothorax, or pleural effusion seen.
+     The stomach appears distended with air and particulate material (food). If
+     the patient has not had a recent meal, this finding is suggestive of diabetic
+     gastropathy, and clinical correlation is recommended.
+     IMPRESSION:  No CHF or pneumonia.
+
+",,
+8734,,,,2878-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-12-19**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10225**]
+     Reason: Please place tunelled dialysis cathter, thank [**Doctor First Name 57**].          
+     Admitting Diagnosis: RENAL FAILURE
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 5268**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old man with ESRD, needs dialysis                                       
+     REASON FOR THIS EXAMINATION:
+      Please place tunelled dialysis cathter, thank [**Doctor First Name 57**].                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  46 year old male with end stage renal disease requiring catheter
+     for hemodialysis.
+     
+     PROCEDURE:  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiographic room and placed in supine position.
+     
+     The procedure was performed by Dr. [**Last Name (STitle) 7261**] and Dr. [**Last Name (STitle) 6**].  Dr. [**Last Name (STitle) 6**], the
+     attending radiologist, was present during the entire procedure.
+     
+     The neck was prepped and draped in the standard sterile fashion.  At this
+     point a time out was performed and proper identification of the patient and
+     the procedure was performed.  Ultrasound was used to localize the right
+     internal jugular vein.  This vein was found to be patent and compressible.
+     Under ultrasound guidance, local anesthesia was achieved with approximately 4
+     cc of 1% lidocaine.  The right internal jugular vein was entered under
+     ultrasonographic guidance with a micropuncture needle.  A 0.018 guidewire was
+     then advanced into the IVC using flouroscopic guidance.  A skin incision was
+     made and a 4 French micropuncture catheter sheath was advanced.  At this
+     point, the anterior chest wall was anesthetized with 1% lidocaine and a tunnel
+     was created.  A 19 cm dialysis catheter was then introduced through the
+     tunnel. At this point the 0.018 guidewire was exchanged for a 0.035 guidewire
+     and the tract and the vein were dilated successfully up to 14.5 French.  The
+     dialysis catheter sheath was introduced under the guidance of the wire.  The
+     14.5 French dialysis catheter was then introduced through this sheath which
+     was peeled away.  The position of the dialysis catheter was confirmed to be in
+     the right atrium.  A final chest radiograph was obtained, demonstrating the
+     tip of the catheter in the right atrium.  The incision in the right neck was
+     closed with Dermabond and the catheter was secured to the skin using 0 silk
+     sutures. A sterile dressing was then placed over the catheter exit site and
+     the neck incision.  The catheter was flushed with heparin.  The patient
+     tolerated the procedure well and there were no complications.
+     
+     IMPRESSION:  Successful placement of an 18 cm tip-to-cuff right IJ
+     hemodialysis catheter.  The tip of the dialysis catheter is located in the
+     right atrium.  The catheter is ready for use.
+     
+                                                                 (Over)
+
+     DATE: [**2878-12-19**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10225**]
+     Reason: Please place tunelled dialysis cathter, thank [**Doctor First Name 57**].          
+     Admitting Diagnosis: RENAL FAILURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8734,,,,2878-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-12-19**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10225**]
+     Reason: Please place tunelled dialysis cathter, thank [**Doctor First Name 57**].          
+     Admitting Diagnosis: RENAL FAILURE
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 5268**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old man with ESRD, needs dialysis                                       
+     REASON FOR THIS EXAMINATION:
+      Please place tunelled dialysis cathter, thank [**Doctor First Name 57**].                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  46 year old male with end stage renal disease requiring catheter
+     for hemodialysis.
+     
+     PROCEDURE:  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiographic room and placed in supine position.
+     
+     The procedure was performed by Dr. [**Last Name (STitle) 7261**] and Dr. [**Last Name (STitle) 6**].  Dr. [**Last Name (STitle) 6**], the
+     attending radiologist, was present during the entire procedure.
+     
+     The neck was prepped and draped in the standard sterile fashion.  At this
+     point a time out was performed and proper identification of the patient and
+     the procedure was performed.  Ultrasound was used to localize the right
+     internal jugular vein.  This vein was found to be patent and compressible.
+     Under ultrasound guidance, local anesthesia was achieved with approximately 4
+     cc of 1% lidocaine.  The right internal jugular vein was entered under
+     ultrasonographic guidance with a micropuncture needle.  A 0.018 guidewire was
+     then advanced into the IVC using flouroscopic guidance.  A skin incision was
+     made and a 4 French micropuncture catheter sheath was advanced.  At this
+     point, the anterior chest wall was anesthetized with 1% lidocaine and a tunnel
+     was created.  A 19 cm dialysis catheter was then introduced through the
+     tunnel. At this point the 0.018 guidewire was exchanged for a 0.035 guidewire
+     and the tract and the vein were dilated successfully up to 14.5 French.  The
+     dialysis catheter sheath was introduced under the guidance of the wire.  The
+     14.5 French dialysis catheter was then introduced through this sheath which
+     was peeled away.  The position of the dialysis catheter was confirmed to be in
+     the right atrium.  A final chest radiograph was obtained, demonstrating the
+     tip of the catheter in the right atrium.  The incision in the right neck was
+     closed with Dermabond and the catheter was secured to the skin using 0 silk
+     sutures. A sterile dressing was then placed over the catheter exit site and
+     the neck incision.  The catheter was flushed with heparin.  The patient
+     tolerated the procedure well and there were no complications.
+     
+     IMPRESSION:  Successful placement of an 18 cm tip-to-cuff right IJ
+     hemodialysis catheter.  The tip of the dialysis catheter is located in the
+     right atrium.  The catheter is ready for use.
+     
+                                                                 (Over)
+
+     DATE: [**2878-12-19**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10225**]
+     Reason: Please place tunelled dialysis cathter, thank [**Doctor First Name 57**].          
+     Admitting Diagnosis: RENAL FAILURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8734,,,,2878-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-12-19**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10225**]
+     Reason: Please place tunelled dialysis cathter, thank [**Doctor First Name 57**].          
+     Admitting Diagnosis: RENAL FAILURE
+     ********************************* CPT Codes ********************************
+     * 36558 TUNNELED W/O [**State/Zipcode 5268**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG                                      *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old man with ESRD, needs dialysis                                       
+     REASON FOR THIS EXAMINATION:
+      Please place tunelled dialysis cathter, thank [**Doctor First Name 57**].                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  46 year old male with end stage renal disease requiring catheter
+     for hemodialysis.
+     
+     PROCEDURE:  The risks and benefits of the procedure were discussed with the
+     patient and informed consent was obtained.  The patient was brought to the
+     angiographic room and placed in supine position.
+     
+     The procedure was performed by Dr. [**Last Name (STitle) 7261**] and Dr. [**Last Name (STitle) 6**].  Dr. [**Last Name (STitle) 6**], the
+     attending radiologist, was present during the entire procedure.
+     
+     The neck was prepped and draped in the standard sterile fashion.  At this
+     point a time out was performed and proper identification of the patient and
+     the procedure was performed.  Ultrasound was used to localize the right
+     internal jugular vein.  This vein was found to be patent and compressible.
+     Under ultrasound guidance, local anesthesia was achieved with approximately 4
+     cc of 1% lidocaine.  The right internal jugular vein was entered under
+     ultrasonographic guidance with a micropuncture needle.  A 0.018 guidewire was
+     then advanced into the IVC using flouroscopic guidance.  A skin incision was
+     made and a 4 French micropuncture catheter sheath was advanced.  At this
+     point, the anterior chest wall was anesthetized with 1% lidocaine and a tunnel
+     was created.  A 19 cm dialysis catheter was then introduced through the
+     tunnel. At this point the 0.018 guidewire was exchanged for a 0.035 guidewire
+     and the tract and the vein were dilated successfully up to 14.5 French.  The
+     dialysis catheter sheath was introduced under the guidance of the wire.  The
+     14.5 French dialysis catheter was then introduced through this sheath which
+     was peeled away.  The position of the dialysis catheter was confirmed to be in
+     the right atrium.  A final chest radiograph was obtained, demonstrating the
+     tip of the catheter in the right atrium.  The incision in the right neck was
+     closed with Dermabond and the catheter was secured to the skin using 0 silk
+     sutures. A sterile dressing was then placed over the catheter exit site and
+     the neck incision.  The catheter was flushed with heparin.  The patient
+     tolerated the procedure well and there were no complications.
+     
+     IMPRESSION:  Successful placement of an 18 cm tip-to-cuff right IJ
+     hemodialysis catheter.  The tip of the dialysis catheter is located in the
+     right atrium.  The catheter is ready for use.
+     
+                                                                 (Over)
+
+     DATE: [**2878-12-19**] 7:39 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10225**]
+     Reason: Please place tunelled dialysis cathter, thank [**Doctor First Name 57**].          
+     Admitting Diagnosis: RENAL FAILURE
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8734,,,,2878-12-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-12-21**] 1:09 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10226**]
+     Reason: Please eval for acute cardiopulmonary process               
+     Admitting Diagnosis: RENAL FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old man with ESRD, SOB post HD                                          
+     REASON FOR THIS EXAMINATION:
+      Please eval for acute cardiopulmonary process                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of end-stage renal disease with dyspnea.
+     
+     COMPARISON:  Radiograph dated [**2878-12-16**].
+     
+     AP PORTABLE SEMIUPRIGHT VIEW OF THE CHEST: There has been interval placement
+     of a dual-lumen right IJ catheter with its distal tip in the distal SVC.  The
+     heart size is at the upper limits of normal.  There are diffuse bilateral
+     interstitial and early alveolar infiltrates.  There is a more confluent area
+     of opacity in the retrocardiac region.  There are probable bilateral small
+     pleural effusions.  There is no pneumothorax.  The osseous structures are
+     unremarkable.
+     
+     IMPRESSION:  Pulmonary edema consistent with fluid overload and/or CHF with a
+     more confluent left retrocardiac opacity.
+     
+
+",,
+8734,,,,2878-12-21 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-12-21**] 1:09 PM
+     ABDOMEN (SUPINE ONLY) PORT                                      Clip # [**Clip Number (Radiology) 10227**]
+     Reason: Please eval for obstruction                                 
+     Admitting Diagnosis: RENAL FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      46 year old man with  abdominal pain and fever                                  
+     REASON FOR THIS EXAMINATION:
+      Please eval for obstruction                                                     
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  46-year-old with abdominal pain and fever.
+     
+     PORTABLE SUPINE RADIOGRAPH OF THE ABDOMEN.
+     
+     FINDINGS:
+     
+     A small amount of air is seen within non-dilated loops of large bowel down to
+     the rectum.  No air is seen within small bowel.  There is no evidence of
+     obstruction.  There is a paucity of bowel gas in the upper abdomen.  The
+     osseous structures demonstrate a mild scoliosis of the lower lumbar spine,
+     convex to the left.  Opacification is seen at the left lung base, likely
+     atelectasis.
+     
+     IMPRESSION:
+     
+     No evidence of obstruction.
+
+",,
+8734,,,,2878-12-22 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2878-12-22**] 5:54 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10228**]
+     Reason: Please eval for an infiltrate                               
+     Admitting Diagnosis: RENAL FAILURE
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       46 year old man with DM2, HTN, dyspnea and fever                               
+     REASON FOR THIS EXAMINATION:
+      Please eval for an infiltrate                                                   
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Dyspnea and fever.
+     
+     COMPARISON: Radiograph dated [**2878-12-21**].
+     
+     PA & LATERAL VIEWS CHEST: Again noted is double lumen central venous catheter
+     on the right that terminates in the distal SVC/proximal RA. There is interval
+     improvement in the previously demonstrated bilateral diffuse interstitial and
+     alveolar infiltrates. There is a left pleural effusion. No pneumothorax.
+     Cardiac and mediastinal contours are stable.
+     
+     IMPRESSION: Interval improvement in interstitial and alveolar infiltrates
+     consistent with pulmonary edema. No definite focal consolidation is
+     identified.
+
+",,
+8734,,,,2879-02-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-2-11**] 1:21 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10229**]
+     Reason: eval for infiltrate                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        46 year old man with DM2, HTN, fever during dialysis                          
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Hypertension, diabetes, fever; evaluate for infiltrate.
+     
+     COMPARISON:  [**2878-12-22**].
+     
+     TECHNIQUE:  PA and lateral chest.
+     
+     FINDINGS:
+     
+     The heart size, mediastinal contours, and pulmonary vasculature appear within
+     normal limits.  A right internal jugular hemodialysis catheter is again seen
+     with tip terminating in the distal SVC.  No pleural effusion and no
+     pneumothorax.  No focal pulmonary or parenchymal consolidation is identified.
+     The surrounding osseous structures appear unremarkable.
+     
+     IMPRESSION:
+     
+     No acute cardiopulmonary abnormality.
+
+",,
+8734,,,,2879-02-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-2-12**] 2:22 PM
+     ABDOMEN U.S. (COMPLETE STUDY)                                   Clip # [**Clip Number (Radiology) 10230**]
+     Reason: evaluate for biliary pathology, abd process                 
+     Admitting Diagnosis: FEVER;? INFLUENZA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with ESRD on HD, IDDM, fever, N/V and elev ggt                  
+     REASON FOR THIS EXAMINATION:
+      evaluate for biliary pathology, abd process                                     
+     ______________________________________________________________________________
+     WET READ: AZm [**First Name8 (NamePattern2) 884**] [**2879-2-12**] 2:45 PM
+      Cholelithiasis w/out cholecystitis
+     ______________________________________________________________________________
+                                     FINAL REPORT *ABNORMAL!
+     INDICATION:  Fever, nausea, vomiting, and elevated GGT.
+     
+     ABDOMINAL ULTRASOUND:  The liver is of normal echotexture without evidence of
+     focal lesions.  A small amount of sludge, and gallstones are present without
+     evidence of gallbladder distension, wall edema, or pericholecystic fluid.  The
+     common duct is not dilated.  The right and left kidneys measure 13 and 13.5 cm
+     respectively.  There are no stones, masses, nor hydronephrosis.  The spleen
+     and the visualized pancreas are unremarkable.  A tiny amount of free fluid is
+     present.
+     
+     IMPRESSION:  Cholelithiasis without cholecystitis.
+
+",,
+8734,,,,2879-02-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-2-13**] 10:14 AM
+     FOOT AP,LAT & OBL LEFT                                          Clip # [**Clip Number (Radiology) 10231**]
+     Reason: evidence of osteomylitis??                                  
+     Admitting Diagnosis: FEVER;? INFLUENZA
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with DM, ESRD on HD, with fevers and ulcer on left foot 
+      calcaneus
+     REASON FOR THIS EXAMINATION:
+      evidence of osteomylitis??                                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Diabetes and fevers with ulcer on left foot near the calcaneus.
+     Evaluate for osteomyelitis.
+     
+     COMPARISON:  Left foot radiographs of [**2878-8-10**].
+     
+     LEFT FOOT, THREE VIEWS: There is diffuse osteopenia, limiting evaluation for
+     acute fracture.  No definite fracture is identified.  There are destructive
+     and proliferative changes within the midfoot, with increased density and
+     disorganization in this region.  These findings are consistent with
+     neuropathic arthropathy, though infection can have a similar appearance and
+     cannot be excluded.  The appearance of the midfoot is relatively unchanged
+     from [**2878-8-10**].  No soft tissue loss is appreciated.  The metatarsophalangeal and
+     interphalangeal joints are maintained.  Vascular calcifications are present.
+     
+     IMPRESSION:  Neuropathic changes of the left midfoot, though infection can
+     have a similar appearance and cannot be excluded.  No significant change from
+     [**2878-8-4**].
+
+",,
+8734,,,,2879-04-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-4-17**] 3:42 PM
+     WRIST(3 + VIEWS) LEFT                                           Clip # [**Clip Number (Radiology) 10232**]
+     Reason: FELL LAST NIGHT ON THE ICE, DECREASED ROM, PAIN R/O FX
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with L wrist and hand swelling after falling on ice yesterday. 
+      Decreased ROM and pain with flexion of wrist.
+     REASON FOR THIS EXAMINATION:
+      ?Fx                                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Injury.
+     
+     There is extensive vascular calcification in the forearm, wrist and hand.
+     
+     There is a nondisplaced fracture involving the distal radius proximal to the
+     articular surface of the radius. There is no angulation.
+     
+     There are no other abnormalities.
+     
+     IMPRESSION:
+     1. Nondisplaced fracture of the distal radius.
+     2. Vasculopathy.
+
+",,
+8734,,,,2879-04-23 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-4-23**] 11:44 AM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 10233**]
+     Reason: PLEASE INCLUDE EXPIRATORY VIEW to r/o PTX.s/p fall one week 
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with ESRD, DM                                                   
+     REASON FOR THIS EXAMINATION:
+      PLEASE INCLUDE EXPIRATORY VIEW to r/o PTX.s/p fall one week ago, persistant 
+      L-sided chest pain, pleuritic.
+     ______________________________________________________________________________
+     WET READ: MMBn SUN [**2879-4-23**] 12:18 PM
+      No pneumothorax.  No acute cardiopulmonary process.  R portacath in mid/distal
+      SVC.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  47-year-old man, with persistent left-sided, chest pain status
+     post fall.  Evaluate.
+     
+     COMPARISON:  No images are available for comparison.  Comparison is made from
+     a prior PA and lateral chest x-ray, dated [**2879-2-11**].
+     
+     TECHNIQUE:  PA and lateral chest x-ray:
+     
+     FINDINGS: A right-sided double lumen intravenous central catheter is seen
+     entering the right subclaavian vein, and terminating in the mid/distal
+     superior vena cava. There is no pneumothorax. The cardiac, mediastinal, and
+     hilar contours are normal. Bilateral lungs are clear, without evidence of
+     infiltrates, effusions, or consolidations. Pulmonary vasculature is normal.
+     
+     IMPRESSION: No pneumothorax.  No acute cardiopulmonary process.  Right-sided
+     double lumen venous catheter terminating in mid/distal superior vena cava.
+
+",,
+8734,12948,10865,0,2879-04-29 17:21:00 EST,2879-04-29 17:34:00 EST,2940,"N",69,"Nursing/Other",,"
+
+Nsg Admission Note
+
+Mr. [**Known patient lastname 2373**] is a 47yo male admitted to MICU-A from dialysis following an episode of hypoglycemia and seizure activity.  PMH significant for ESRD-->on HD x4mos, awaiting transplant from sister ?[**2879-5-30**], IDDM, HTN, NSTEMI, hyperkalemia (adm [**Date range (1) 6133**] for hyperkalemia in addition to this adm), periph neuropathy, hyperlipidemia, Addisons Disease, hypothroids, old ankle fx 2001, current L wrist fx ([**4-/2879**]--cast in place), hx retinal hemmorhage.  Non-smoker, neg for ETOH.  Lives alone, on medical disability.  Sister-in-law [**Name (NI) 2252**] is HCP; [**Doctor First Name 2252**] is a school nurse.  
+
+This admission pt adm for hyperkalemia (7.9, treated with insulin, D50 and kayexelate).  Pt was receiving HD, sent to dialysis this AM.  During dialysis became hypoglycemic, treated with D50.  While waiting for transport to return to floor pt developed seizure activity, ?2-3 min seizure.  Fingerstick done-->17.  Treated with D50, sent to MICU for further management.  On arrival pts fingerstick 76, D5W infusing via periph IV.  Second IV started, IV changed to D5NS at 150ml/hr.  Pt hypertensive to 210-110; treated with Lopressor 5mg IV x2 with current BP 180/91.  Team evual pt at this time.  Please refer to carevue/nsg note for current status.
+",,
+8734,12948,10865,0,2879-04-29 18:23:00 EST,2879-04-29 18:35:00 EST,2940,"N",69,"Nursing/Other",,"
+
+1600-1900 NPN
+CURRENT STATUS
+Please refer to above admission note for pt history.  
+See carevue for subjective/objective data.
+Neuro:  Lethargic but easily arousable.  Initially confused to place and time however at present appropiate, A+Ox3 when awake.  MAE ad lib. Speech remains slightly slurred at this time.  R pupil does not react as briskly as L upon arrival--when asked if that was pts baseline pt stated ""yes"".  Sleeping unless awakened. 
+
+CV/Pulm:  MP=NSR 60's, no ectopy noted.  BP elevated to 210/110; treated with Lopressor total 10mg IV upon arrival, currently received orders for Lopressor 15mg IV q4h for hypertension.  PO meds held at this time due to lethargy (MD aware).  NP at 4l with sats high 90's to 100%.  No SOB or DOE noted.  BS clear, diminished bil.  
+
+GI/GU:  NPO at this time until more alert.  Abd soft, non-tender, bowel sounds present.  No flatus, no BM thus far this shift.  Pt voids infrequently-->received HD 3x/wk; rec'd HD this AM as noted above. 
+
+ID/Endo/Integ:  Afebrile.  Pt on insulin and D5W gtts with q1/2 fingersticks.  Currently D5W at 300ml/hr and insulin at 0.5units/hr.  Heel ulcer noted, pt receives wet-dry dsgs BID--currently wrapped with DSD.  No other open areas noted.  Skin dry with scattered ecchymotic areas noted.  
+
+Psychosocial/Plan:  Spoke with family via phone.  Plan is cont'd D5W and insulin gtts, q1/2hr fingersticks, treat hypertension, administer PO meds when pt no longer lethargic.  Rpt labs.  Cont to monitor MP, I+O, resp status, cont with current nursing/medical regime.  Pt is full code.
+",,
+8734,12948,10865,0,2879-04-30 04:53:00 EST,2879-04-30 05:10:00 EST,2696,"N",69,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+
+Neuro - Pt alert and oriented x 3. Speech intact. MAE. Standing at bedside to void. c/o leg cramps, rx wtih neurontin  with only sl relief. Given 650 mg tylenol po for rib pain, which pt states he has had since his fall. Medicated with 5 mg ambien po for insomnia with no effect - pt had slept during the evening but was awake most of the night. No sz activity noted.
+
+C-V - HR 60-70 NSR. NBP 160-198/84-107. Initially rx with 15 mg lopressor iv  for elevated BP. Labetalol added to antihypertensive regime with good results - BP 150-160/80's. Exts with 1+ pitting edema. + palp peripheral pulses.
+
+Resp - LS clear, diminished at bases. 02 sat 97-100% RA. RR 15-21.
+
+GI - Abd soft. Tolerating [**Doctor First Name 83**] diet well. Passed mod amt loose guiac neg stool x 1. 
+
+F/E - HD yest. Voids with urinal in sm amts. D5W infusing at 300ccs/hr. Eve labs - K 4.5 Bun 30 Cr 3.1 Mg 1.6. Phos 7.2. Am labs pend.
+
+Endo - BS labile 117-400. See careview. Please note BS elevated to 400 when pt accidentally disonnected self from insulin infusion. 
+
+Skin - Dime-sized ulcer noted on L heel. Wet to dry dssg applied. 
+
+Social - Pt spoke with family members on telephone. 
+
+A+P - Continue to monitor BS closely - titrate insulin drip for BS 100-150. ? need to increase neurontin or add other med to control leg cramps. BP better controlled with labetalol, pt can receive lopressor iv for SBP < 170. 
+
+
+
+
+
+",,
+8734,12948,10865,0,2879-04-30 06:27:00 EST,2879-04-30 06:28:00 EST,2696,"N",69,"Nursing/Other",,"
+
+addendum - Mg 1.4 - pt being repleted with 2 gms mags04 iv. IV D%W 300ccs/hr dcd as pt's BS elevated to 400. 
+",,
+8734,12948,10865,0,2879-04-30 17:32:00 EST,2879-04-30 17:52:00 EST,2719,"N",69,"Nursing/Other",,"
+
+Review of systems:
+
+Neuro: Pt alert and oriented x 3, at times when sleeping pt in sligtly confused but easily reoriented. Pt follows simple commands and makes purposeful movements.  Pt MAE, PERRLA
+
+REsp: Pt sao2 > 95% on RA, pt has + BBS clear throughtout. 
+
+CV: pt BP remains WNL on with oral hypertensive meds. pt remains in NSR, HCT stable
+
+GI/GU: pt with freq loose/liq brown stool, with small UO mixed with sttol in comode. Pt with good diet.
+
+Endo: Pt BS remain high, insulin gtt turned off and now attempting to control sugar with ss.
+
+Other: pt on free water restriction due to low Na, Na improving throughout day, continuing to monitor Labs
+",,
+8734,12948,10865,0,2879-05-01 04:23:00 EST,2879-05-01 04:33:00 EST,2696,"N",69,"Nursing/Other",,"
+
+7p to 7a Micu Progress Note
+
+Neuro - Pt remains alert and oriented x 3. MAE. Slept most of the night.
+
+Resp - LS clear. 02 sat > 97 RA. RR 10-20.
+
+C-V - HR 60-70 NSR. BP 134-160/80's. HTN controlled with labetalol and amlodipine. Hct 45.
+
+Endo - BS elevated to 393 at MN, MD notified. RISS dose adjusted. FS checked q 4hrs, see careview. Pt also receiving fixed dose bid. Addisons dz treated with hydrocortisone and fludrocortisone.
+
+F/E - Pt remains hyponatremic, Na 124. Placed on 1500cc fluid restriction. K 5.1 Bun 41 Cr 4.4. Pt s/p HD on [**4-29**], dialyzed 3 x/wk - ? HD today. 
+
+GI- Abd soft. Tolerating [**Doctor First Name 83**] diet well, pt requesting freq feedings. Passed mod amt loose brown ob neg stool on commode. 
+
+A+P - Continue to monitor BS and electrolytes closely. ? call-out to floor. Nsg transfer note initiated. 
+
+
+",,
+8734,12948,10865,0,2879-05-01 15:37:00 EST,2879-05-01 15:58:00 EST,2783,"N",69,"Nursing/Other","Nursing Progress/Transfer Note 0700-1700","
+Nursing Progress/Transfer Note 0700-1700
+This 47yo man with PMH ESRD, Addison's disease, DM, HTN, anemia, MI. He was admitted with hyperkalemia->tx'd with insulin and kayexolate, then sent to HD where he had a seizure R/T hypoglycemia. Pt transferred to MICU-A for observation, and has had no evidence of seizure activity since. Blood sugars cont to be difficult to control with SSI. Pt presently receiving a 4hr session HD. Pt plans on having kidney transplant from sister [**5-30**].
+
+Review of Systems: 
+
+Neuro: Pt remains AAO X 3, turning self STS in bed and OOB to commode without assist. Pt receives Neurontin for leg tremors TiD. Pt denies any other discomfort/pain.
+
+Resp: Sating 97-100% on RA with RR 10-21 and regular. Lungs clear throughout. 
+
+CV: Afebrile. HR 65-77SR without ectopy. BP 126/51-162/83. Labs pre-dialysis today included K+ 5.5, Ca 9.8, Mg 2.3, Phos 10.5. Epogen not given during dialysis today as Hct adequate.
+
+GI: Pt with very good appetite, requesting 2nd lunch. Pt freq has loose stool/diarrhea after eating, trace heme +. Pt is fluid restricted to 1500ml/day for hyponatremia.
+
+GU: Pt with intermit small amts urine by void. Usually gets HD Tues/Th/Sat, however receiving HD X 4hrs today (started @ 1300). Goal today is to take off 5liters, which is standard for pt.
+
+Skin: Dime-sized L heal ulcer, ~1cm deep, pink without drainage. Wet-to-dry dsg changed @ 1500.
+
+Social: Soc sxs to see pt to discuss finances for meds.
+
+Plan: Transfer to floor. Cont freq glucose levels and cover [**Last Name (un) **] SSI. Cardiac cath tommorrow as part of pre kidney transplant checklist, so NPO after MN. Pt scheduled podiatrist and optomitrist apts as outpt (Weds and Fri, repsectively), which will need to be cancelled if pt can not keep them.
+",,
+8734,,,,2879-05-08 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-5-8**] 4:11 PM
+     WRIST(3 + VIEWS) RIGHT                                          Clip # [**Clip Number (Radiology) 10234**]
+     Reason: ap/lat/oblique of right wrist
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with L wrist and hand swelling after falling on ice yesterday. 
+      Decreased ROM and pain with flexion of wrist.
+     REASON FOR THIS EXAMINATION:
+      ap/lat/oblique of right wrist
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Fell on ice yesterday, now with left wrist and hand swelling.
+     
+     wrist, 3 vws
+     
+     There is a transverse fracture of the distal radial metaphysis.  Overall
+     alignment remains anatomic without significant impaction.  No ulnar variance
+     is identified.  No intraarticular component is detected.  Dense vascular
+     calcification is present.  Probable diffuse osteopenia.
+     
+     IMPRESSION:  Transverse fracture distal right radius.
+
+",,
+8734,,,,2879-05-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-5-13**] 7:06 PM
+     FOOT AP,LAT & OBL LEFT                                          Clip # [**Clip Number (Radiology) 10235**]
+     Reason: r/out foreign body                                          
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with cellulitis of left foot after laceration                   
+     REASON FOR THIS EXAMINATION:
+      r/out foreign body                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  47-year-old man with cellulitis of the left foot after
+     laceration.  Rule out foreign body.  Rule out osteomyelitis.
+     
+     THREE VIEWS, LEFT FOOT:  When compared with prior study dated [**2879-2-13**],
+     there has been no significant interval change.  Diffuse osteopenia, limiting
+     evaluation for an acute fracture.  No acute fracture is identified.  There are
+     destructive and proliferative changes within the mid foot, with increased
+     density and disorganization in this region.  These findings are consistent
+     with neuropathic osteoarthropathy.  Within the plantar surface of the heel,
+     there is a soft tissue irregularity consistent with an ulcer.  The overlying
+     bone is free of sinus tracts, or osteopenia.  These vascular calcifications
+     are seen throughout the foot, consistent with diabetes.
+     
+     IMPRESSION:  Neuropathic changes of the left mid foot.  No evidence of acute
+     fracture.  Vascular calcifications.
+     
+     These findings were discussed with the referring physician at the time of
+     observation.
+                                                                           
+
+",,
+8734,,,,2879-05-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-5-14**] 2:25 PM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 10236**]
+     Reason: CELLULITIS
+     Admitting Diagnosis: CELLULITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with diabetes and L foot infxn/ulcers                           
+     REASON FOR THIS EXAMINATION:
+      r/o cardiopulmonary abnormalities                                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  47 year old with diabetes and left foot ulcers, preop for
+     surgery.
+     
+     PA and lateral radiograph.
+     
+     COMPARISON:  [**2879-4-23**].
+     
+     FINDINGS:
+     
+     Cardiac and mediastinal contours are normal.  The lungs are clear.  No nodules
+     are seen.  Pulmonary vasculature is normal.  A double lumen central venous
+     catheter in the right subclavian vein is unchanged.  Osseous structures are
+     unremarkable.
+     
+     IMPRESSION:
+     
+     No radiographic evidence of acute cardiopulmonary process.
+                                                                           
+
+",,
+8734,,,,2879-05-15 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-5-15**] 9:40 AM
+     ART EXT (REST ONLY)                                             Clip # [**Clip Number (Radiology) 10237**]
+     Reason: assess PVRs, ABIs, and segmental pressures                  
+     Admitting Diagnosis: CELLULITIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with diabetes and L foot infxn/ulcers                           
+     REASON FOR THIS EXAMINATION:
+      assess PVRs, ABIs, and segmental pressures                                      
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Diabetes and known left foot ulcer.
+     
+     FINDINGS:  Doppler evaluation shows triphasic wave forms at the femoral and
+     popliteal levels bilaterally.  All other wave forms  are monophasic and that
+     at the left PT level was not interpreted due to overlying dressing.  ABI
+     measurements are inconclusive due to vessel non-compressibility.  Volume
+     recordings demonstrate significant wave form widening at the ankle and
+     metatarsal levels bilaterally.
+     
+     IMPRESSION:  Findings as stated above which indicate significant bilateral
+     tibial disease.
+                                                                           
+
+",,
+8734,,,,2879-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-5-18**] 8:49 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10238**]
+     Reason: Pt. has a R tunneled catheter, ? in subclavian per last repo
+     ICD9 code from order: 585
+     ********************************* CPT Codes ********************************
+     * 36581 CENTRAL TUNNELED W/O [**State/Zipcode 3725**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG  C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with ESRD and a non functioning dialysis catheter.
+     REASON FOR THIS EXAMINATION:
+      Pt. has a R tunneled catheter, ? in subclavian per last report in the [**Hospital1 117**]
+      system. The hemodialysis nurses cannot dialyse this patient because the
+      arterial port of the catheter is sucking air into the dialysis system. HD unit
+      will not use this catheter until it is repaired secondary risk of air embolus.
+      Please change cath over a wire.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Non-functioning right tunneled hemodialysis catheter.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 9302**] [**Name (STitle) 9303**] with Dr. [**First Name4 (NamePattern1) **]
+     [**Last Name (NamePattern1) 6**] being present and supervising.
+     
+     CONSENT:  Risks and benefits of the procedure were explained to the patient
+     and written consent was obtained.
+     
+     PROCEDURE:  10 mL of 1% lidocaine was injected in the area around the right IJ
+     tunneled catheter.  A 0.035 Amplatz wire was advanced through the existing
+     hemodialysis catheter into the inferior vena cava under fluoroscopic guidance.
+     With help of blunt dissection, the existing hemodialysis catheter was removed
+     over the Amplatz wire.  A new 14 French 24-cm dialysis catheter was advanced
+     over the guide wire through the right IJ into the proximal right atrium using
+     fluoroscopic guidance. A final chest x-ray demonstrated the tip of the
+     hemodialysis catheter to be in the proximal right atrium.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful exchange of a hemodialysis catheter with a 14 French
+     24-cm cuff-to-tip length through the right IJ with tip in the proximal right
+     atrium.  The line is ready for use.
+
+",,
+8734,,,,2879-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-5-18**] 8:49 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10238**]
+     Reason: Pt. has a R tunneled catheter, ? in subclavian per last repo
+     ICD9 code from order: 585
+     ********************************* CPT Codes ********************************
+     * 36581 CENTRAL TUNNELED W/O [**State/Zipcode 3725**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG  C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with ESRD and a non functioning dialysis catheter.
+     REASON FOR THIS EXAMINATION:
+      Pt. has a R tunneled catheter, ? in subclavian per last report in the [**Hospital1 117**]
+      system. The hemodialysis nurses cannot dialyse this patient because the
+      arterial port of the catheter is sucking air into the dialysis system. HD unit
+      will not use this catheter until it is repaired secondary risk of air embolus.
+      Please change cath over a wire.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Non-functioning right tunneled hemodialysis catheter.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 9302**] [**Name (STitle) 9303**] with Dr. [**First Name4 (NamePattern1) **]
+     [**Last Name (NamePattern1) 6**] being present and supervising.
+     
+     CONSENT:  Risks and benefits of the procedure were explained to the patient
+     and written consent was obtained.
+     
+     PROCEDURE:  10 mL of 1% lidocaine was injected in the area around the right IJ
+     tunneled catheter.  A 0.035 Amplatz wire was advanced through the existing
+     hemodialysis catheter into the inferior vena cava under fluoroscopic guidance.
+     With help of blunt dissection, the existing hemodialysis catheter was removed
+     over the Amplatz wire.  A new 14 French 24-cm dialysis catheter was advanced
+     over the guide wire through the right IJ into the proximal right atrium using
+     fluoroscopic guidance. A final chest x-ray demonstrated the tip of the
+     hemodialysis catheter to be in the proximal right atrium.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful exchange of a hemodialysis catheter with a 14 French
+     24-cm cuff-to-tip length through the right IJ with tip in the proximal right
+     atrium.  The line is ready for use.
+
+",,
+8734,,,,2879-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-5-18**] 8:49 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10238**]
+     Reason: Pt. has a R tunneled catheter, ? in subclavian per last repo
+     ICD9 code from order: 585
+     ********************************* CPT Codes ********************************
+     * 36581 CENTRAL TUNNELED W/O [**State/Zipcode 3725**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG  C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with ESRD and a non functioning dialysis catheter.
+     REASON FOR THIS EXAMINATION:
+      Pt. has a R tunneled catheter, ? in subclavian per last report in the [**Hospital1 117**]
+      system. The hemodialysis nurses cannot dialyse this patient because the
+      arterial port of the catheter is sucking air into the dialysis system. HD unit
+      will not use this catheter until it is repaired secondary risk of air embolus.
+      Please change cath over a wire.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Non-functioning right tunneled hemodialysis catheter.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 9302**] [**Name (STitle) 9303**] with Dr. [**First Name4 (NamePattern1) **]
+     [**Last Name (NamePattern1) 6**] being present and supervising.
+     
+     CONSENT:  Risks and benefits of the procedure were explained to the patient
+     and written consent was obtained.
+     
+     PROCEDURE:  10 mL of 1% lidocaine was injected in the area around the right IJ
+     tunneled catheter.  A 0.035 Amplatz wire was advanced through the existing
+     hemodialysis catheter into the inferior vena cava under fluoroscopic guidance.
+     With help of blunt dissection, the existing hemodialysis catheter was removed
+     over the Amplatz wire.  A new 14 French 24-cm dialysis catheter was advanced
+     over the guide wire through the right IJ into the proximal right atrium using
+     fluoroscopic guidance. A final chest x-ray demonstrated the tip of the
+     hemodialysis catheter to be in the proximal right atrium.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful exchange of a hemodialysis catheter with a 14 French
+     24-cm cuff-to-tip length through the right IJ with tip in the proximal right
+     atrium.  The line is ready for use.
+
+",,
+8734,,,,2879-05-18 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-5-18**] 8:49 AM
+     TUNNEDLED DIALYSIS CATH PLACE                                   Clip # [**Clip Number (Radiology) 10238**]
+     Reason: Pt. has a R tunneled catheter, ? in subclavian per last repo
+     ICD9 code from order: 585
+     ********************************* CPT Codes ********************************
+     * 36581 CENTRAL TUNNELED W/O [**State/Zipcode 3725**] FLUOR GUID PLCT/REPLCT/REMOVE *
+     * C1750 CATH,HEMO/PERTI DIALYSIS LONG  C1769 GUID WIRES INCL INF           *
+     ****************************************************************************
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with ESRD and a non functioning dialysis catheter.
+     REASON FOR THIS EXAMINATION:
+      Pt. has a R tunneled catheter, ? in subclavian per last report in the [**Hospital1 117**]
+      system. The hemodialysis nurses cannot dialyse this patient because the
+      arterial port of the catheter is sucking air into the dialysis system. HD unit
+      will not use this catheter until it is repaired secondary risk of air embolus.
+      Please change cath over a wire.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Non-functioning right tunneled hemodialysis catheter.
+     
+     RADIOLOGISTS:  The procedure was performed by Dr. [**First Name (STitle) 9302**] [**Name (STitle) 9303**] with Dr. [**First Name4 (NamePattern1) **]
+     [**Last Name (NamePattern1) 6**] being present and supervising.
+     
+     CONSENT:  Risks and benefits of the procedure were explained to the patient
+     and written consent was obtained.
+     
+     PROCEDURE:  10 mL of 1% lidocaine was injected in the area around the right IJ
+     tunneled catheter.  A 0.035 Amplatz wire was advanced through the existing
+     hemodialysis catheter into the inferior vena cava under fluoroscopic guidance.
+     With help of blunt dissection, the existing hemodialysis catheter was removed
+     over the Amplatz wire.  A new 14 French 24-cm dialysis catheter was advanced
+     over the guide wire through the right IJ into the proximal right atrium using
+     fluoroscopic guidance. A final chest x-ray demonstrated the tip of the
+     hemodialysis catheter to be in the proximal right atrium.
+     
+     COMPLICATIONS:  None.
+     
+     IMPRESSION:  Successful exchange of a hemodialysis catheter with a 14 French
+     24-cm cuff-to-tip length through the right IJ with tip in the proximal right
+     atrium.  The line is ready for use.
+
+",,
+8734,,,,2879-05-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-5-25**] 9:53 AM
+     CHEST (PRE-OP PA & LAT)                                         Clip # [**Clip Number (Radiology) 10239**]
+     Reason: DX:CHRONIC RENAL FAILURE, PROC:TRANSPLANT KIDNEY RECIPIENT
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with diabetes and L foot infxn/ulcers                          
+     REASON FOR THIS EXAMINATION:
+      DX:CHRONIC RENAL FAILURE
+      PROC:TRANSPLANT KIDNEY RECIPIENT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  47-year-old man with diabetes, to receive kidney transplant.
+     
+     COMPARISON:  [**2879-5-14**].
+     
+     PA AND LATERAL VIEWS OF THE CHEST:  There is mild cardiomegaly, with diffusely
+     increased pulmonary vascular markings.  No pleural effusions are seen.  The
+     right-sided central venous line is seen terminating in the right atrium. 
+     Surrounding osseous and soft tissue structures are unchanged.
+     
+     IMPRESSION:  Mild fluid overload.
+                                                                           
+
+",,
+8734,8478,,,2879-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-6-10**] 2:30 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 10242**]
+     Reason: [**Last Name (un) 10243**] placement...s/p intubation                         
+     Admitting Diagnosis: HYPERKALEMIA;DIABETIC KETOACIDOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       47 year old man with fever                                                     
+       
+     REASON FOR THIS EXAMINATION:
+      [**Last Name (un) 10243**] placement...s/p intubation                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever, status post endotracheal tube placement.
+     
+     COMPARISON:  Portable chest exam at 12:57.
+     
+     SEMIUPRIGHT AP CHEST:  The endotracheal tube tip is located at the thoracic
+     inlet, 8 cm from the carina.  There is an NG tube within the esophagus
+     terminating beneath the left hemidiaphragm, beyond the radiograph.  The right
+     central venous catheter is unchanged in position.  There is no pneumothorax. 
+     There is interval worsening of congestive failure.  Possible infiltrate
+     developing in the left base.
+     
+     IMPRESSION:  Tubes and lines positioned as described.  Congestive failure with
+     possible infiltrate developing at the left base.
+                                                                           
+
+",,
+8734,8478,,,2879-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-6-10**] 2:30 PM
+     CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 10242**]
+     Reason: [**Last Name (un) 10243**] placement...s/p intubation                         
+     Admitting Diagnosis: HYPERKALEMIA;DIABETIC KETOACIDOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       47 year old man with fever                                                     
+       
+     REASON FOR THIS EXAMINATION:
+      [**Last Name (un) 10243**] placement...s/p intubation                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever, status post endotracheal tube placement.
+     
+     COMPARISON:  Portable chest exam at 12:57.
+     
+     SEMIUPRIGHT AP CHEST:  The endotracheal tube tip is located at the thoracic
+     inlet, 8 cm from the carina.  There is an NG tube within the esophagus
+     terminating beneath the left hemidiaphragm, beyond the radiograph.  The right
+     central venous catheter is unchanged in position.  There is no pneumothorax. 
+     There is interval worsening of congestive failure.  Possible infiltrate
+     developing in the left base.
+     
+     IMPRESSION:  Tubes and lines positioned as described.  Congestive failure with
+     possible infiltrate developing at the left base.
+                                                                           
+
+",,
+8734,8478,,,2879-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-6-10**] 12:52 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10241**]
+     Reason: assess for infiltrate                                       
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with fever                                                      
+     REASON FOR THIS EXAMINATION:
+      assess for infiltrate                                                           
+     ______________________________________________________________________________
+     WET READ: KKXa SAT [**2879-6-10**] 2:20 PM
+      Evidence of fluid overload.
+      Left basilar consolidation.
+     WET READ AUDIT #1 KKXa SAT [**2879-6-10**] 1:37 PM
+      Evidence of fluid overload.
+      Possible consolidation at the left base, but the opacity may be due to
+      technique or overlying soft tissue and PA and lateral will be helpful once pt
+      condition permits.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Fever, evaluate for infiltrate.
+     
+     COMPARISON:  [**2879-5-25**].
+     
+     UPRIGHT AP CHEST:  This exam was performed at the bedside.  There is a right-
+     sided central venous catheter seen terminating in the right atrium. There is
+     mild cardiomegaly, unchanged.  The pulmonary vascular markings are again
+     prominent, consistent with fluid overload.  There is increased opacity within
+     the left lower lung. It is not clear if this is related to technique,
+     overlying soft tissue, or an underlying infiltrate. There is no definite
+     pleural effusion.  There is no pneumothorax. The osseous structures are
+     unchanged.
+     
+     IMPRESSION:
+     1)  Fluid overload vs. congestive failure.
+     2)  Possible developing left infiltrate.
+
+",,
+8734,8478,,,2879-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-6-10**] 12:47 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 10240**]
+     Reason: CONFUSION, ? BLEED, MASS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with confusion                                                  
+     REASON FOR THIS EXAMINATION:
+      assess for bleed, mass                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MJGe SAT [**2879-6-10**] 5:49 PM
+      no acute intracranial pathology including mass, hemmorhage, or infarction.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  47-year-old man with change in mental status.
+     
+     COMPARISON:  None.
+     
+     TECHNIQUE:  Routine noncontrast head CT.
+     
+     FINDINGS:  There is no intracranial mass lesions, hydrocephalus, shift of
+     normally midline structures or acute minor or major vascular territorial
+     infarction seen.  There are no intra-axial or extra-axial fluid collections,
+     including hemorrhage.  The density values of the brain parenchyma are within
+     normal limits and [**Doctor Last Name 30**]-white matter differentiation is preserved throughout. 
+     The surrounding osseous and soft tissue structures are unremarkable.  The
+     visualized paranasal sinuses are clear.
+     
+     IMPRESSION:  No acute intracranial pathology, including hemorrhage, mass or
+     infarction.
+                                                                           
+
+",,
+8734,8478,,,2879-06-10 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-6-10**] 11:48 PM
+     UNILAT LOWER EXT VEINS LEFT PORT                                Clip # [**Clip Number (Radiology) 10244**]
+     Reason: LLE CELLULITIS
+     Admitting Diagnosis: HYPERKALEMIA;DIABETIC KETOACIDOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with ESRD, DM, DKA, LLE cellulitis and LLE > RLE in diameter.   
+     REASON FOR THIS EXAMINATION:
+      eval for DVT                                                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  History of end-stage renal disease and diabetes with left lower
+     extremity cellulitis.  Evaluate for DVT.
+     
+     COMPARISON:  None.
+     
+     UNILATERAL LOWER EXTREMITY ULTRASOUND:  [**Doctor Last Name **] scale and color Doppler
+     sonography was performed of the left common femoral, superficial femoral, and
+     popliteal veins.  Normal waveforms, flow, compressibility, and augmentation
+     are demonstrated.  No intraluminal thrombus is identified.
+     
+     IMPRESSION:  No DVT identified.
+                                                                           
+
+",,
+8734,8478,10866,0,2879-06-10 16:49:00 EST,2879-06-10 16:56:00 EST,5250,"N",69,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt admitted from ER where he was intubated for airway protection.  PMH includes IDDM, renal insufficiency.  Presented to ER w/ dangerously high blood sugars, and one pupil appearing larger than the other w/ pt becoming increasingly agitated.  Pt intubated w/ #7.5ETT secured 21@lip w/out incident.  Placement confirmed by CXR.  Traveled to and from CT for scan of head w/out incident.  BLBS essentially clear. No secretions.  PIP/Pplat = 20/15.  See resp flowsheet for specific vent settings/data.
+
+Plan: maintain support
+",,
+8734,8478,10866,0,2879-06-10 17:39:00 EST,2879-06-10 18:09:00 EST,6578,"N",69,"Nursing/Other",,"
+
+1530-1900 NPN:
+
+ADMIT FROM ER AT 1530 W/ DX OF HYPERGLYCEMIA AND DKA. GLUCOSE TRENDING DOWN 1072/832/542- INSULIN GTT INFUSING @ 8U/HR. PMH= IDDM, CRF, HD 3X/WEEK, ANEMIA, HTN, CHF, PERIPHERAL NEUROPATHY, MI, HYPERKALEMIA, GERD, HYPERLIPIDEMIA. INTUBATED IN ER, RECEIVED PT ON AC VENT SETTINGS 600/16/100%/PEEP=5. PA02=330, WEANED FIO2 TO 50%. RECENT ABG= 7.37/39/131. LACTATE TRENDING UP 1.8 TO 2.1. NA LEVEL IMPROVING 111 TO 123. BLD CX DONE AND TX W/ VANCO, CEFTRIAXONE, NA BICARB IN ER. HEAD CT DONE PRIOR TO ADMIT TO MICU. ALINE PLACED IN MICU. MEDS GIVEN VIA OGT. VERSED AND FENTANYL STARTED FOR SEDATION. BILAT WRIST RESTRAINTS ON FOR SAFETY. AWAIT CENTRAL ACCESS PLACEMENT BY TEAM.
+
+NEURO- RECEIVED PT VERY AGITATED FROM ER/HEAD CT. MULTIPLE BOLUSES GIVEN. PT CALM AT THIS TIME, VERSED AT 4MG/HR AND FENTANYL AT 75MCG/HR. MAE. UNABLE TO ASSESS MENTAL STATUS.
+
+RESP- CURRENT VENT SETTINGS AC 600/16/50%/5. O2 SAT= 98-99%. LS= CRACKLES AT BASES. MINIMAL SECRETIONS. NEED SPUTUM CX. PER TEAM CXR FROM ER SHOWED INFILTRATE.
+
+CV- NSR AT 60-70'S, W/ NO ECTOPY NOTED. PMH OF HTN, ER REPORTED NBP ELEVATED TO 230/110. GOOD EFFECTS NOTED FROM SEDATION ON B/P, ALSO NORVASC GIVEN AS ORDERED. PER TEAM LABETALOL DOSE HELD. SEE MAR.
+TEMP MAX= 100.8 RECTALLY. TREATED W/ TYLENOL PR IN ER. BILAT PEDAL EDEMA NOTED, WEAK PEDAL PULSES. ABP=128-156/70-80.
+
+GI/GU- ABD SOFT, PRESENT BS. NO BM. OGT INTACT AND CLAMPED, CONFIRMED PLACEMENT BY AUSCULTATION. HEMODIALYSIS PT TUES/THURS/SAT. PT VOIDS APPROX QOD PER ER REPORT. NEED URINE CX. PT IS DUE FOR DIALYSIS TODAY, MISSED TREATMENT THIS AM. 
+
+SKIN- IMPAIRED. LEFT WRIST IN CAST R/T HX OF FRACTURE IN 03/05. POSSIBLE CELLULITS OF LOWER EXT. TEAM TO FOLLOW UP.
+
+SOCIAL- FULL CODE. NO FAMILY/FRIENDS WITH PT ON ADMISSION TO MICU. SEE ADMIT DOCUMENTATION FOR CONTACT PERSON INFO.
+
+PLAN- CENTRAL LINE PLACEMENT BY TEAM. FS Q 1HR OR GLUCOSE LEVEL R/T CRITICAL HIGH, CONTINUE INSULIN GTT AND TITRATE FOR FS 90-120. MAINTAIN COMFORT W/ VERSED AND FENTANYL. REPEAT ABG PER TEAM AS NEEDED. FOLLOW UP HEAD CT SCAN RESULTS. 
+
+ 
+",,
+8734,8478,10866,,2879-06-11 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-6-11**] 4:32 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10245**]
+     Reason: assess ETT position                                         
+     Admitting Diagnosis: HYPERKALEMIA;DIABETIC KETOACIDOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        47m intubated, assess ETT position                                            
+           
+     REASON FOR THIS EXAMINATION:
+      assess ETT position                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Intubation.
+     
+     The ETT terminates 6 cm above the carina.  The failure pattern persists but is
+     somewhat improved since the last chest x-ray of [**2879-6-10**].  The right IJ catheter
+     terminates in the right atrium.  There are no focal infiltrates.  An NGT below
+     the lower edge of the image show well below the GE junction.  There is no
+     pneumothorax.
+     
+     IMPRESSION:  The ETT is more optimally positioned currently than on [**2879-6-10**],
+     and there has been some improvement in the failure/fluid overload.
+                                                                           
+
+",,
+8734,8478,10866,0,2879-06-11 01:38:00 EST,2879-06-11 01:41:00 EST,5268,"N",69,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains orally intubated on full ventilatory support. Vesicular BS, no ett secretions with SX. Plan: wean as tolerated
+",,
+8734,8478,10866,0,2879-06-11 05:28:00 EST,2879-06-11 05:47:00 EST,2804,"N",69,"Nursing/Other",,"
+
+PT. IS PRESENTLY SEDATED ON BOTH FENTANYL AND VERSEED. THESE ARE PRESENTLY BEING WEANED FOR PLANNED EXTUBATION. REFER TO CAREVUE FOR PRESENT RATES. PT. EXHIBITED A LOW GRADE TEMP WITH T MAX 99.1.  PT. HAS REMAINED IN A NSR 60-70'S WITH NO NOTED ECTOPY. B/P HAS BEEN STABLE WITH MAP'S >60. LABETOLOL DOSES FROM 0000 AND 0600 HELD DUE TO SBP <100. PEDAL PULSES ARE WEAK BUT PALPABLE AND TRACE EDEMA NOTED. PT'S LEFT HEEL HAS 3CMX3CM AREA ON OUTER ASPECT OF FOOT, WHILE 1/4CM DIAMETER ROUND HOLE NOTED TO HEEL REGION. HEEL SITE WAS CULTURED TO SPECIMEN SENT. BOTH AREAS EXHIBITED PURULENT DRAINAGE, AND WERE CLEANSED WITH N/S AND STERILE DRESSING APPLIED. PT. HAD POTASSIUM 20MEQ REPLETED LAST HS DUE TO DROPPING LEVELS FROM INSULIN GTT. AM LABS PENDING. RESP. PT. REMAINS CLEAR THROUGHOUT, WITH SPUTUM CULTURE UNOBTAINABLE. RESP RATE HAS REMAINED CONTROLLED AND REGULAR, WHILE ON VENTILATOR. AM ABG PENDING, O2 SATS >98% PT. REMAINS NPO WITH PLANS TO EXTUBATE. ABD. IS BENIGN WITH BOWEL SOUNDS EASILY AUDIBLE AND PT. HAVING TWO LARGE SEMI FORMED STOOLS, GUAICED NEGATIVE. PT'S BLOOD SUGARS HAVE BEEN MUCH MORE CONTROLLED WITH INSULIN GTT OFF FOR SEVERAL HOURS AND THAN AGAIN RESTARTED FOR SPIKE UPWARDS FROM 93-290. REFER TO CAREVUE FOR PRESENT RATE. PT. HAS REMAINED ANURIC, PT. REMAINS ON HEMODIALYSIS. PT'S LINES REMAIN SECURED AND FUNCTIONING WELL. CENTRAL LINE NOT ATTEMPTED AFTER REASSESSMENT. PT. REMAINS A FULL CODE AT THIS TIME. SPOKE WITH SISTER [**Name (NI) 6134**] LAST EVENING. FAMILY WAS UNAWARE THAT PT. HAD BEEN INTUBATED BUT UNDERSTANDS HIS PRESENT CONDITION WELL. 
+",,
+8734,8478,10866,0,2879-06-11 16:35:00 EST,2879-06-11 16:37:00 EST,5250,"N",69,"Nursing/Other",,"
+
+Respiratory Therapy
+Pt remains orally intubated on full mechanical support.  PSV attempted this shift, but pt becomes extremely agitated.  ETT advanced 3cm per CXR, now 24cm @ lip, ETT remains secure/patent & in good position.  BLBS essentially clear, no secretions being suctioned.  SpO2 remained 90s.  PIP/Pplat = 21/18.  See resp flowsheet for specific vent settings/data/changes.  
+
+Plan: maintain support; continue to assess readiness to wean
+",,
+8734,8478,10866,0,2879-06-11 18:18:00 EST,2879-06-11 18:40:00 EST,6578,"N",69,"Nursing/Other",,"
+
+0700-1900 NPN:
+
+EVENTS- WEANED DOWN SEDATION, VERSED @ 0.5MG/HR AND FENTANYL @ 12.5MCG/HR FOR MOST OF SHIFT W/ GOOD EFFECTS. SMALL BOLUSES GIVEN FOR INTERMITTENT EPISODES OF AGITAION. PT HAS EPISODES OF BOLTING UP IN BED, THRASHING HEAD AND HANDS W/ EYES WIDE OPEN AND JERKING MOVEMENTS NOTED. PT SETTLES DOWN AFTER APPROX 2-3 MINS, DOES NOT FOLLOW COMMANDS OR APPEAR ORIENTED DURING THESE EPISODES. ATTEMPTED PSV THIS AM, PT DID NOT TOLERATE. FIO2 WEANED FROM 50% TO 40%. ABGS= 7.37/39/117. PT RECEIVED HEMODIALYSIS TODAY W/O COMPLICATION, APPROX 2 LITERS REMOVED.
+CONTINUES TO BE ?PSEUDOHYPONATREMIC, NA LEVEL=120-123 THIS AM. 
+
+NEURO- AS STATED ABOVE, SEE CAREVUE FLOWHSEET FOR FURTHER INFORMATION AND OBJECTIVE DATA. BILAT WRIST RESTRAINTS ON FOR SAFETY.
+
+RESP/CV- CONTINUES ON AC 600/16/40%/PEEP=5. REPEAT ABG W/ AM LABS PER TEAM. LS= CLEAR/DIM. NO ET/ORAL SECRETIONS, UNABLE TO COLLECT SPUTUM SPEC. NSR AT 60-80'S, W/ NO ECTOPY NOTED. REPLETED W/ MAG SULFATE AND CA GLUC THIS SHIFT. RIGHT RADIAL ALINE INTACT. RIGHT ANTECUB PIV X2 #18G INTACT. LABETALOL GIVEN AS ORDERED THIS SHIFT FOR HTN, SEE MAR.
+
+GI/GU- ABD SOFT. PRESENT BS, NO BM. COLACE GIVEN VIA OGT AS ORDERED BID. NPO STATUS MAINTAINED. OGT CLAMPED FOR MEDS. PT ANURIC, HEMODIALYSIS DONE TODAY. STILL NEED URINE CX IF VOIDS.
+
+ENDO- CURRENT INSULIN GTT AT 2U/HR. FS=50-211 THIS SHIFT. TREATED W/ 1 AMP D50 X 1 FOR FS=50. CONTINUOUS IVF W/ DEXTROSE CONTRAINDICATED R/T CRF, LIMIT FLUID INTAKE PER TEAM. SEE CAREVUE FLOWSHEET FOR DATA.
+
+SOCIAL- FULL CODE. FAMILY CALLED X2 THIS SHIFT FOR UPDATE, NO VISITORS. PT MAY NEED SOCIAL SERVICES CONSULT FOR HOME VNA R/T DRSG CHANGES AND [**Name5 (PTitle) 335**] [**Name5 (PTitle) **]/ MEDICATIONS.
+
+PLAN- RECHECK LYTES 2 HRS AFTER DIALYSIS PER TEAM- DUE AT 2100. MAINTAIN COMFORT LEVEL W/ VERSED AND FENTANYL, WEAN AS TOLERATED. CONTINUE TO ASSESS FOR POSSIBLE EXTUBATION. MONITOR FS Q 1HR, ADJUST INSULIN GTT [**First Name8 (NamePattern2) **] [**Last Name (un) **] PROTOCOL, AND ADMIN IV DEXTROSE 50% PER TEAM FOR HYPOGLYCEMIA. 
+
+ 
+",,
+8734,8478,10866,,2879-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-6-12**] 8:10 AM
+     FOOT (AP & LAT) SOFT TISSUE LEFT                                Clip # [**Clip Number (Radiology) 10246**]
+     Reason: r/o periosteal reaction (osteomyelitis)                     
+     Admitting Diagnosis: HYPERKALEMIA;DIABETIC KETOACIDOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       47 year old man with LLE heel ulcer                                            
+     REASON FOR THIS EXAMINATION:
+      r/o periosteal reaction (osteomyelitis)                                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  Left heel ulcer.  Assess for osteomyelitis.
+     
+     AP & LATERAL RADIOGRAPHS THE LEFT FOOT:  Comparison is made to [**2879-5-13**].
+     Study is limited due to patient positioning ability.  No true lateral
+     radiograph was able to be obtained.  A focal lucency is seen within the region
+     of the calcaneal fat pad, which likely represents the patient's known ulcer.
+     The ulcer tract does not appear to extend to bone radiographically.  No
+     definite periosteal reaction is seen within the bone.  There is no osseous
+     destruction.  Appearance of the neuropathic fragmentation and sclerosis in the
+     mid foot is unchanged.  Again seen is diffuse vascular calcification.
+     
+     IMPRESSION:  Ulcer seen along the plantar fat pad.  No definite evidence of
+     osteomyelitis.
+
+",,
+8734,8478,10866,,2879-06-12 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-6-12**] 10:46 AM
+     WRIST(3 + VIEWS) LEFT PORT                                      Clip # [**Clip Number (Radiology) 10247**]
+     Reason: please remove splint prior to films. [**Hospital1 3058**] vs. nonunion     
+     Admitting Diagnosis: HYPERKALEMIA;DIABETIC KETOACIDOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       47 year old man with L wrist and hand swelling after falling on ice yesterday. 
+       Decreased ROM and pain with flexion of wrist.
+     REASON FOR THIS EXAMINATION:
+      please remove splint prior to films. [**Hospital1 3058**] vs. nonunion                         
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:   Decreased range of motion and pain with flexion of wrist.
+     History of prior fracture of the radius.
+     
+     AP, LATERAL AND OBLIQUE VIEWS OF THE LEFT WRIST: Images from the [**2879-4-17**], study are not available.  Reference is made to the report.
+     
+     No definite fracture plane is visualized through the distal radius.  There is
+     cortical irregularity over the distal surface of the dorsal radius, which
+     could represent a small fracture.  Carpal alignment is within normal limits.
+     There is diffuse demineralization, and extensive vascular calcification.
+     
+     IMPRESSION:
+     1.  Questionable cortical irregularity along the dorsal surface of distal left
+     radius.  No acute fracture plane visible.  Recommend correlation with physical
+     exam findings of pain localized over the dorsum of the distal radius.
+     
+     2.  Extensive vascular calcifications.
+     
+
+",,
+8734,8478,10866,0,2879-06-12 03:27:00 EST,2879-06-12 04:25:00 EST,2804,"N",69,"Nursing/Other",,"
+
+PT. IS PRESENTLY A/A/O AND DENIES ANY PAIN OF DISCOMFORT AT THIS TIME. PT. HAS BEEN SUCCESSFULLY EXTUBATED AS OF 0230. HE DID EXHIBIT A SLIGHT TEMP WITH TMAX 101.2, BUT NOW IS AFEBRILE AT 98.8 ORALLY. PT. RECEIVED TYLENOL X'S 1, LAST GIVEN LAST EVENING. NO NEURO DEFICITS NOTED AT THIS TIME, PUPILS ARE EQUALLY REACTIVE. PT. HAS REMAINED NSR IN THE 60-70'S WITH NO ECTOPY, B/P HAS BEEN STABLE WITH MAP'S >60. LABETOLOL HELD LAST EVENING DUE TO SBP <100. PEDAL PULSES ARE WEAK DIFFICULT TO PALPATE BUT NOTED BILAT. NO REPLETION REQUIRED DURING THIS SHIFT. PT. HAS BEEN EXTUBATED AND HAS BEEN CLEAR IN ALL LOBES PRIOR AND POST EXTUBATION. ABG'S DRAWN PRE AND POST WITH CO2 SLIGHTLY ELEVATED WITH TEAM IS AWARE. O2 SATS REMAIN >97% RESP RATE CONTROLLED. PT. REMAINS NPO WITH BOWEL SOUNDS EASILY AUDIBLE AND FREQUENT LIQUID STOOLS NOTED WITH MUSHROOM CATHETER APPLIED AND FUNCTIONING WELL. STOOL IS GUAIC NEG. BLOOD SUGARS HAVE BEEN AS LOW AS 45 AND HIGH AS 129. INSULIN GTT IS PRESENTLY OFF, WITH NEW SLIDING SCALE AND DAILY INSULIN ORDERED. PT. RECEIVED HEMODIALYSIS YESTERDAY AND REMOVED 2LITERS. PT. REMAINS ANURIC, THROUGHOUT THIS SHIFT. THERE IS STILL A NEED FOR A URINE CULTURE. ALL PT'S LINES REMAIN SECURELY IN PLACE AND FUNCTIONING WELL. PT. HAS DRESSING TO LEFT HEEL WHICH REMAINS D&I AT THIS TIME. PT. REMAINS A FULL CODE, WITH PLANS TO RE EVALUATE NEED FOR H.D. TODAY. AWAITING VARIOUS CULTURES TO RESULT. CONTINUE MONITORING OF BLOOD SUGARS.
+",,
+8734,8478,10866,0,2879-06-12 17:34:00 EST,2879-06-12 17:58:00 EST,6578,"N",69,"Nursing/Other",,"
+
+0700-1900 NPN:
+
+NEURO- RECEIVED PT LETHARGIC, NO MORE AWAKE AND ALERT. BECOMING MORE RESTLESS THIS PM. ASSISTED OOB TO CHAIR. PMH OF RESTLESS LEG SYNDROME. PT HAS FREQ MYOCLONIC UPPER BODY JERKING/TWITCHING. TEAM FULLY AWARE. NOTED THIS FINDING IN ER PREVIOUS TO HEAD CT SCAN ON [**6-10**]. PT'S FAMILY REPORTS OCCAS LOWER AND UPPER BODY JERKING. LYTES WNL THIS AM, 1700 LABS PENDING. ALERT/ORIENTED, ABLE TO ANSWER QUESTIONS APPROPRIATELY. FOLLOWING COMMANDS AT TIMES, SLOW TO COMPREHEND. 
+
+RESP- EXTUBATED [**6-12**] AM ON NIGHT SHIFT APPROX MN. CXR SHOWING LLL PNA. IV CEFTAZ/IV VANCO/PO AZITHROMYCIN GIVEN AS ORDERED. ORIGINALLY PT INTUBATED IN ER FOR AIRWAY PROTECTION, PRESENTED W/ GLUCOSE ABOVE 1000. RECEIVED PT ON 3L N/C, AM ABG= 7.35/35/113. CURRENTLY PT ON RA, PM ABG= 7.33/33/100. O2 SAT 95-96%. LS= CLEAR/DIM. PT DENIES SOB.
+
+CV- NSR AT 70-80'S, NO ECTOPY NOTED. SEE CAREVUE FLOWSHEET FOR VITAL SIGNS AND OBJECTIVE DATA. MAP ABOVE 65 AND BELOW 95. PMH OF HTN, LABETALOL ORDERED QID. TEMP MAX=103.1 RECTALLY. BLD CX DRAWN X2, URINE CX SENT, UNABLE TO OBTAIN SPUTUM CX R/T NO SECRETIONS. PT PRESENTED TO ER W/ TEMP 100.8, BLD CX LAST DRAWN [**6-10**] ON ADMISSION. 
+
+GI/GU- ABD SOFT. PRESENT BS, RECEIVED PT W/ MUSHROOM CATH. LIQUID DIARRHEA OVER NIGHT, COLACE HELD THIS AM. BM X 1 TODAY, SMALL LOOSE BROWN STOOL AROUND MUSHROOM CATH. PT VOIDS QOD PER FAMILY, PT VOIDED APPROX 360CC THIS SHIFT, FIRST TIME SINCE ADMIT. HEMODIALYSIS PT- ROUTINE SCHED TUES/THURS/SAT. PT MISSED HD ON SAT PRIOR TO ADMIT, DIALYSIS PERFORMED SUNDAY [**6-11**]- REMOVED APPROX 2 LITERS. 
+
+ENDO- INSULIN GTT STOPPED ON NIGHT SHIFT AND TEAM SWITCHED TO S/S COVERAGE W/ FS Q 1HR AND GLAGARINE AT HS (NOT GIVEN LAST HS). FS=65-409 THIS SHIFT. MEDICATED W/ 1 AMP D50 AT 1400 FOR FS=65, PT REBOUNDED TO 383 AT 1700 AND REQUIRED 8 UNITS REGULAR INSULIN PER S/S. TEAM CALLED R/T FS=409 AT 1800, PLAN TO RESUME INSULIN GTT AFTER PM ROUNDS R/T CONTINUED FLUCTUATING FS.
+
+ACCESS- RIGHT ANTECUB #18G PIV X 2, RIGHT RADIAL ALINE INTACT, AND DIALYSIS TUNNELED CATH TO RIGHT CHEST.
+
+SKIN- LEFT WRIST FRACTURE IN 03/05, OLD BRACE/CAST ON W/ ACE WRAP. LEFT WRIST XRAY DONE TODAY TO EVAL NEED FOR ANOTHER BRACE/CAST. ORTHO TEAM ON CASE. LEFT FOOT ULCER NON-HEALING X 1YEAR, POSITIVE MRSA. CONTACT PRECAUTIONS MAINTAINED. PT HAD VNA SERVICE AT HOME 1X/WEEK TO ASSESS. LEFT FOOT W/ TELFA AND DSD INTACT AT THIS TIME. 
+
+SOCIAL- REMIANS FULL CODE. NO VISITORS TODAY. PT'S SISTER IN LAW [**Female First Name (un) 6134**] IS CONTACT PERSON AND CALLS EVERY SHIFT FOR UPDATE.
+
+PLAN- REPLETE 1700 LYTES AS NEEDED PER TEAM. HEMODIALYSIS SCHEDULED FOR TOMORROW. ASSESS NEURO STATUS FOR CHANGES AND REPORT TO TEAM. MONITOR FS Q 1HR AND FOLLOW S/S COVERGE VS RESUMING INSULIN GTT. 
+",,
+8734,8478,10866,,2879-06-13 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-6-13**] 6:07 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10248**]
+     Reason: check NGT placement                                         
+     Admitting Diagnosis: HYPERKALEMIA;DIABETIC KETOACIDOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         47m s/p NGT placement                                                        
+     REASON FOR THIS EXAMINATION:
+      check NGT placement                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Check NG tube placement.
+     
+     COMPARISON:  [**2879-6-11**].
+     
+     TECHNIQUE:  Single AP portable upright chest.
+     
+     FINDINGS:  The tip of the endotracheal tube is poorly visualized.  A
+     nasogastric tube is in place with tip terminating in the gastric fundus. Right
+     internal jugular venous access catheter with tip in the deep right atrium.
+     Stable cardiomegaly.  Stable congestive heart failure in comparison with the
+     previous examination.  No pneumothorax.  The osseous structures appear
+     unchanged.
+     
+     IMPRESSION:
+     1)  Nasogastric tube with tip terminating in the gastric fundus.
+     2)  Endotracheal tube tip is not visualized.  Recommend repeat portable chest
+     x-ray to evaluate endotracheal tube tip position if clinically indicated.
+     3)  Cardiomegaly and stable congestive heart failure.
+     
+
+",,
+8734,8478,10866,0,2879-06-13 04:01:00 EST,2879-06-13 04:16:00 EST,1986,"N",69,"Nursing/Other",,"
+
+pmicu nursing progress 7p-7a
+review of systems
+CV-vs have been stable.receiving antihypertensives as ordered.a-line is becoming positional.
+
+RESP-on room air sats were dipping to 88%, so was placed on 2L nasal cannula.lungs sound clear, coarse at bases.
+
+ID-afebrile.wbc pnd.L heel + for MRSA
+
+F/E-voided small amt yellow urine.no ivf infusing.no peripheral edema noted, pt c/o mild thirst.am labs pnd. usually dialysed on tuesdays
+
+GI-abd is soft with positive bowel sounds. has been incontinent of small amts soft brown stool.taking only small sips ginger ale.
+
+NEURO-has been a+ o x [**3-9**], alert and cooperative.has been involuntarily thrashing arms and legs around, apologizing for this behavior.no sleeping meds given.resting in naps.
+
+ENDO-was restarted on insulin drip at 2u/hr and fingerstick sugars have been 120-100 for several hours.
+
+SKIN-L heel with dry dressing intact  +MRSA
+
+IV ACCESS-has an a-line R wrist, peripheral heplock
+
+Social-sister in law phoned for an update
+
+a-stable,uneventful night
+
+P-will follow fingersticks closely on insulin drip.reorient freq, provide safe environment.
+",,
+8734,8478,10866,0,2879-06-13 05:48:00 EST,2879-06-13 05:50:00 EST,1986,"N",69,"Nursing/Other",,"
+
+pmicu nursing progress addendum
+pt incontinent again of stool.seems unaware.also, fingerstick at 6:45 was 146 and so was replaced on insulin drip at 2 u/hr.
+",,
+8734,8478,10866,1,2879-06-13 15:23:00 EST,2879-06-13 17:09:00 EST,2378,"Y",69,"Nursing/Other",,"
+
+dr [**Last Name (STitle) **] placed ngt at bedside...need cxr confirmation and plan to start nepro tf's this evening. held 1800 po meds [**3-8**] impaired mental status and difficulty wtih swallowing po meds...will need to be given once confirmation obtained. bs's on the rise and insulin gtt resumed...plan to start on fixed and s/s this evening once bs's better controlled. brother called x1 this afternoon and updated on status and plan of care. 
+",,
+8734,8478,10866,0,2879-06-13 15:23:00 EST,2879-06-13 15:41:00 EST,2378,"N",69,"Nursing/Other",,"
+
+neuro: pt oriented to place and year, but otherwise extremely disoriented. pt restless throughout shift with severe agitation in afternoon. bilat soft hand restraints applied [**3-8**] self removal of 02, iv's and attempting to get oob. pt reoriented with poor effect. dr [**Last Name (STitle) **] aware and up to eval. pt cont with myoclonic movements of extremites. eeg done at bedside this afternoon with results pending. neuro consult in place, however does not feel this to be seizure activity. 
+cv: monitor shows nsr with no ectopy noted. r radial aline with good waveform analysis, +csm noted and correlates with nibp. 
+resp: ls with coarse bs's bibasilar. desats into high 80's with o2 removal. 
+gi: abd soft and nontender. +bs noted. inc loose brown stool x2 heme-. pt with difficulty taking po meds and swallowing liquids. awaiting ngt placement by dr [**Last Name (STitle) **]. nutrition recommendations in chart and to start on tf's once placement obtained with + cxr confirmation. 
+gu: hnv this shift. pt had hd at bedside this am with 3.5 kg removed.
+skin: podiatry service did w-d dsg at bedside this am...this rn did not visualize dsg change. ortho up to d/c cast on L arm. +csm noted. 
+i-d: temp max 102 po. bld cx sent from dialysis line. tylenol given. pt had +MRSA in l foot wound and LLL pna by cxr. remains on ceftriaxome and azithromycin.
+endo: pt is brittle diabetic. bs's labile this shift. insulin gtt off in afternoon for bs of 66. repeat check 44...dr [**Last Name (STitle) **] notified and and [**2-5**] amp dextrose given as ordered. cont with freq glucose checks. [**Last Name (un) **] consult in place. 
+access: piv's x2 found out in bed this am...resited with #18 G l ac and #22 r hand. r radial aline. 
+psy-soc: sister in law [**Female First Name (un) **] called x1 and updated on status and plan of care. remains full code on micu service. 
+
+",,
+8734,8478,10866,,2879-06-14 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-6-14**] 7:17 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10249**]
+     Reason: eval NGT placement                                          
+     Admitting Diagnosis: HYPERKALEMIA;DIABETIC KETOACIDOSIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          47m s/p NGT placement                                                       
+       
+     REASON FOR THIS EXAMINATION:
+      eval NGT placement                                                              
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Assess NG tube position.
+     
+     Portable semi-upright frontal radiograph.  COMPARISON:  [**2879-6-13**]. The NG tube
+     is clearly seen below the diaphragm with its tip in the stomach. There has
+     been a slight increase in aeration at the left lung base.  There is stable
+     cardiomegaly.  No definite CHF is seen on this study.  An area of increased
+     opacification is seen at the left lung apex which extends outside of the lung
+     margin, and is likely artifactual in nature.
+     
+     IMPRESSION:  Slight improvement in aeration at the left lung base.  No
+     definite CHF.  NG tube within the stomach.
+
+",,
+8734,8478,10866,0,2879-06-14 04:14:00 EST,2879-06-14 04:42:00 EST,2804,"N",69,"Nursing/Other",,"
+
+PT. REMAINS AWAKE ALERT AND DISORIENTED X1. PT. HAS BECOME MORE SHARP AS THIS SHIFT HAS GONE ON. PT. HAS REMAINED TO EXHIBIT JERKING MOVEMENT IN BOTH UPPER AND LOWER EXT'S/ NEURO IN TO ASSESS PT. YESTERDAY WITH EVALUATION NEG FOR ANY NEURO DEFICITS. THEY FEEL JERKING MOVEMENT IS SECONDARY TO SEPSIS PROCESS. PT. HAS REMAINED AFEBRILE DURING SHIFT. PT. HAS BEEN NSR 60'S WITH NO NOTED ECTOPY. PT'S B/P HAS ALSO BEEN STABLE WITH MAP'S >60 ALINE IN RIGHT RADIAL IS VERY POSITIONAL. NO REPLETION REQUIRED DURING THIS SHIFT. PT'S LUNGS REMAIN CLEAR AND O2 SATS >95% PT. IS NPO AT THIS TIME. WITH BOWEL SOUNDS EASILY AUDIBLE AND, BLOOD SUGARS MORE STABLE. PT. REMAINS ON INSULIN GTT AT PRESENT WITH GTT RANGIN BETWEEN 2-2.5 UNITS/HR. PRESENTLY B.S. IS 89, WITH AM LABS PENDING. PT. HAS HAD MULTIPLE EPISODES OF LOOSE STOOLS. MUSHROOM CATHETER PLACED WITH DESIRED EFFECTS REACHED. NGT IS IN PLACE WITH PT. ACCIDENTALLY PULLING IT OUT. THIS TUBE REPLACED BY NURSE, WITH XRAY PENDING. PT. IS TYPICALLY ANURIC, WITH HIM VOIDING ONLY ONCE A WEEK. PT. DID VOID 110CC OF CLEAR AMBER URINE. PT. RECEIVES HEMODIALYSIS THREE TIMES A WEEK. PT'S LINES ALL REMAIN INTACT AND SECURED. ALINE IS POSITIONAL AT THIS TIME. PT. HAS A DRY STERILE DRESSING TO LEFT FOOT. THIS IS COVERING A 1/4CM ROUND OPEN AREA, AND A 2X3CM SQUARE AREA ON THE OUTER ASPECT OF HIS LEFT FOOT. THIS DRESSING REMAINS D&I AT THIS TIME. PT. REMAINS A FULL CODE AND WILL BE CLOSELY MONITORED FOR POSSIBLE WORSENING SEPSIS. 
+",,
+8734,8478,10866,0,2879-06-14 12:47:00 EST,2879-06-14 13:11:00 EST,2996,"N",69,"Nursing/Other",,"
+
+Neuro:Pt. appeares more awake, A&Ox3. Cooperative, following commands. +MAE, occasional extremities jerking noted, on Neuronting at home due to extremities twiching, dose is greater than ordered here, will notify team. Denies pain or discomfort. PERRLA,intact cough/gag. Neurology evaluated this AM.
+Resp: On RA Sats 95-100%. LS clear. Denies SOB. No cough noted. 
+CV: HR 60s-70s, NSR, no ectopy. BP 110s-150s/60s-80s. Remains on Labetalol, Norvasc PO. Palpable pedal pulses. Trace pedal edema noted.
+GI/GU: Pt. started on clears, advanced to diabetic diet. NGT d/c'ed. Abd. soft, nondistended, nontender, +BS, passed small loose brown stools x2. Tolerating meds PO. Remains anuric, last void yesterday.
+Hepato/renal: On HD three times/week, last HD yesterday.
+Cr 4.6 this AM, K 4.0, Alk Phos 248.
+Endo: Insulin gtt off since 0500. Pt. received AM fixed dose of NPH 8 U, BS checked QID, covered [**First Name8 (NamePattern2) 34**] [**Last Name (un) 30**] scale.
+ID: Afebrile. Remains on Ceftaz IV.
+Skin: Lt. foot old debridement site with sm. yellow drng, and sm  round open area washed with NS, dsd c/d/i.
+SOcial: Sister in law called, updated on status and plan of care, provided with social worker contact information to discuss discharge planning.
+Pt. is s/p DKA, sepsis due to lt. foot MRSA infection. Extubated on Sunday. Plan: continue monitor neuro status, blood sugars, possibly call out to floor if stable.
+",,
+8734,8478,10866,1,2879-06-14 16:44:00 EST,2879-06-14 17:01:00 EST,2423,"Y",69,"Nursing/Other",,"
+
+LISW SPOKE WITH PT AT LENGTH THIS AFTERNOON PLEASE SEE NOTE IN CHART.
+",,
+8734,8478,10866,0,2879-06-14 16:44:00 EST,2879-06-14 17:00:00 EST,2423,"N",69,"Nursing/Other",,"
+
+NPN 1500-1900;
+
+NEURO; AOOX3 MAE TO COMMAND OOB TO CHAIR SLIGHTLY UNSTEADY ON FEET. STILL SLIGHLY CONFUSED AND SAYS  BIZAARE THINGS AT TIMES.BUT IS EASILY ORIENTATED. 
+
+RESP; LUNGS COARSE POS UNPRODUCTIVE COUGH SATS 98-99 ON RA.RR30
+
+CVS; TMAX 98 PO NSR 58-60.LABETOLOL HELD AS HR UNDER 60.BP 120/70 SEE CAREVUE FOR DETAILS.
+
+GU; VOIDING SMALL AMOUNTS [**First Name8 (NamePattern2) **] [**Last Name (un) **] WITH STOOL
+
+GI; BELLY SOFT POS BS EATING  MOD AMOUNT OF DIET. FREQUENT LIQUID STOOL CDIFF SENT PT SAYS THAT [**Female First Name (un) 6135**] BRAND  ""CAUSES HIM TO GO.""
+
+ENDO; BS 495 AT 1700 GIVEN GLARGINE 20 UNITS AND HUMALOG 10 UNITS S/C
+
+SKIN PICKING AT SORES, OPENING SMALL SORE ON ULNAR SIDE ON PALM  ANTIBIOTIC CREAM APPLIED COVERED WITH DSD PR INSTUCTED NOT TO PICK AT SKIN AS HE COULD CAUSE INFECTION AND REMINDED THAT DIABETICS IN GENERAL ARE SLOW TO HEAL.
+
+SOC; NO FAMILY CONTACT  SO FAR.
+
+A/ PLAN ATTEMPTING TO TRANSITION TO S/C INSULIN COVER MONITORING SUGARS FREQUENTLY.
+REORIENTATE PT AND ENCOURAGE AMBULATION AS TOLERATED.
+
+
+
+
+
+",,
+8734,8478,10866,0,2879-06-15 06:05:00 EST,2879-06-15 06:14:00 EST,6156,"N",69,"Nursing/Other","NPN 1900-0700","
+NPN 1900-0700
+Pt A&Ox 3, forgetful, uses call-bell frequently, no c/o pain, able to use BSC with assist as his gait is unsteady, continues with jerking mvmts. of lower extremities. Lungs CTA, O2 sats 99% on RA, no c/o SOB. HR 60-61 SR, SBP 150's, did not recive x 2 doses labetolol d/t HR 60. FBS 64-300's, continue to titrate insulin gtt, needs lantus order for today. X2 liquid bm's. Tolerating solid diabetic diet. Voids without difficulty in adequate amts. Drsg [**Name5 (PTitle) 478**] to [**Name5 (PTitle) **] foot. Dc'd aline.
+",,
+8734,8478,10866,0,2879-06-15 19:26:00 EST,2879-06-15 19:31:00 EST,1640,"N",69,"Nursing/Other","MICU NPN 11AM-9PM:","
+MICU NPN 11AM-9PM:
+Pt stable and called out to the floor after being off insulin drip since [**85**]:30AM. Tolerated dialysis today which took off 2.8 liters. Sat in chair most of the evening. Labs are stable and pt no longer has anion gap so pt has been called out to the floor and is awaiting bed assignment.
+
+Neuro: Pt awake and alert, oriented times three. MAE. Supervised transfer to chair. gait steady but pt says he needs cane so PT consult put in for tomorrow as pt may go home.
+
+CV: Vital signs are stable.
+
+Resp: Pt is on RA with good sat. Lungs are clear.
+
+GI: Tolerating renal/diabetic diet well. Stools are still loose so colace held.
+
+GU/Renal: Dialysis tolerated well.
+
+ID: Afebrile given vanco with dialysis and continues to get ceftriaxone.
+
+IV Access: Two peripheral IV's in place working well.
+
+Plan: Transfer to the floor when bed becomes available.
+",,
+8734,,,,2879-06-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2879-6-28**] 2:30 PM
+     FINGER(S),2+VIEWS LEFT                                          Clip # [**Clip Number (Radiology) 10250**]
+     Reason: LT 3RD FINGER PAIN,SWELLING & DEFORMITY MIDDLE PHALANX S/P FALL 1 WEEK AGO R/O FX,DISLOCATION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      47 year old man with L wrist and hand swelling after falling on ice yesterday. 
+      Decreased ROM and pain with flexion of wrist.
+     REASON FOR THIS EXAMINATION:
+      3rd finger deformity middle phalanx after fall 1 week ago                       
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Injury.
+     
+     There is extensive vascular calcification.
+     
+     The distal phalanx is dislocated dorsally.  No apparent fractures noted.
+     
+     There is considerable swelling of the soft tissues of the finger at the level
+     of the PIP joint where there is joint space narrowing and some deformity at
+     the base of the middle phalanx, which may be due to an old fracture.  There
+     are no other significant findings.
+     
+     IMPRESSION:
+     1.  Dorsal dislocation of the distal phalanx.
+     2.  Post-traumatic deformity at the base of the middle phalanx, probably old,
+     although followup views of the finger may be helpful in confirming this.
+     3.  Extensive vasculopathy.
+                                                                           
+
+",,
+8734,28191,10867,0,2879-09-16 17:54:00 EST,2879-09-16 18:04:00 EST,5918,"N",69,"Nursing/Other","NPN 7A-7P","
+NPN 7A-7P
+Neuro: AOx2-3, Pt very lethargic, inconsistently following commands. Arouses to loud name calling. 
+Resp: sats >96% on RA. CXR in ED (-). LS cta. no cough or sob noted.
+CV: EKG in ED wnl. NSR 70's. sbp here 140's. no ectopy. Had dialysis today s/p dialysis MS change, FS 19 see FHP. Currently  receiving 10 Meq of K+. 
+GI: NPO [**3-8**] MS. abd soft, nontender, +BS. 
+GU: ESRD foley in place. Not making any urine, however ED did get some for urine cx. Pt c/o foley discomfort upon admit, relieved w/ repositioning. 
+ENDO: BS 19 on admit. Received now total of 8 amps of D5W, in ED on D5w gtt, now on D10gtt at 150cc/hr. 
+Skin: Ulcer on left heel, Cleansed w/ NS, wet to dry applied. 
+ID: tmax 101.8 rectally. LP, urine cx, bld cx done in ED. received 2grams Ceftriaxone,and one gram of Vanco in ED. 
+A/P cont to frequently monitor FS, and asess neuro status. f/u on bld cx, urine cs, and LP. 
+",,
+8734,28191,10867,0,2879-09-17 03:55:00 EST,2879-09-17 04:17:00 EST,6439,"N",69,"Nursing/Other",,"
+
+1900-0700 rn notes micu
+
+neuro: pt received lethargic, unable to answer questions, unable to take meds PO, overnight became more awake, alert and orientedx3, follows commands consistently.asking for bed pan for BM, able to drink water/ginger ale w/o difficulty.
+
+resp: RA sat 97-99%, LS clear, no c/o SOB.
+
+cv: HR 60's, NSR, no ectopy. start Labetolol Iv 10mg q6hr for SBP 170-180, received Hydralasin 10mgx1 for SBP 189/97 with good response. MAG 1.3, repleted, morning labs pending.
+
+gi/gu: foley, drainges small amount urine, pt HD x3 /week, in the morning pt accedently pulled foley- urine pink. pt's able to drink ginger ale, take Po meds.ABD soft/bs hypoactive.
+
+endo: overnight RSBS 189, changed to D5% 75cc/hr, in the morning stooped D5% d/t FS 267, start Insulin IV.goal BS 90-130
+
+skin: redness in bottom d/t loose stool, skin cream protector applied.dressing on foot intact.
+
+access: PICC-line redness, but good blood return.
+
+plan: cont monitoring BS q1hr, neuro /cardio status.
+      pt ask s to meet with social worker about new place after discharg home.
+
+
+
+",,
+8734,28191,10867,0,2879-09-17 04:26:00 EST,2879-09-17 04:30:00 EST,6439,"N",69,"Nursing/Other",,"
+
+ADDENDUN TO NOTES ABOVE
+PLEASE GIVE HYDROCORTISONE 100MGX1 IN THE MORNING, PT RECEIVED ONE DOSE IN THE EVENING. RESTART LABETOLOL 600MG PO.
+",,
+8734,28191,10867,0,2879-09-17 15:09:00 EST,2879-09-17 15:22:00 EST,5918,"N",69,"Nursing/Other",,"
+
+Neuro: AOx3. follow commands. MAE. OOB to chair today, cooperative w/ care. 
+Resp: RA, sats 97-100%. LS CTA. no cough, or sob. 
+CV: Hr 60-70's. NSR. no ectopy noted. Sbp 130-160. +pp. On PO antihypertensives. HD 3X/week, had yest.
+GI:[**Doctor First Name 83**]/Renal diet, well tolerated. abd soft, non-tender. +bs. med. loose stool x2, guiac (-). 
+GU: foley dc'd. anuric at baseline.
+Endo: Lantus SD given at 13:00, will shut off insulin gtt at 17:00 as per Dr. [**Last Name (STitle) 673**] and check sugar at 18:00. after that will cover FS w/ RISS. 
+SKin: LLE w/ 3/2.5cm pressure ulcer, pink wound bed, sm. yellow eschar surrounding perimeter. NS wet to dry. 
+ID: afebrile. LP benign. Cx pnding. On Ceftriax and Vanco. IV eval PICC line today, sm. amount of redness at site but no evidence of phlebitis. redness at site is common. 
+Social: Pt requested a social work consult tomorrow when SW is here.
+A/P: Cont to monitor BS. Will probably be c/o tomorrow
+",,
+8734,28191,10867,0,2879-09-18 03:16:00 EST,2879-09-18 03:23:00 EST,6439,"N",69,"Nursing/Other",,"
+
+1900-0700 rn notes micu
+
+neuro: A/Ox3, MAE, folows commands.back to the bed with minimal help.
+
+resp: RA. sat 99-100%, no c/o SOB, LS clear.
+
+cv: HR 70's, NSR, no ectopy. SBP 140-160. afebrile. cont ABX
+
+endo: @ 2000 FSBS 280, received Humolog by slidng scale. at midnight FSBS 415, start Insulin IV, checked BS Q1hr, please see carevue.
+
+gi/gu: pt HD, anuric. ABD soft, BS +, loose stoolx1. tolerates well [**Doctor First Name 83**] diet.
+
+plan: cont monitoring BS/neuro status, lytes, repleted as needed
+",,
+8734,28191,10867,0,2879-09-18 05:10:00 EST,2879-09-18 05:12:00 EST,6439,"N",69,"Nursing/Other",,"
+
+@ 0600 BSFS 138, CONT INSULIN IV 1U/HR UNTILL 0800 FOR GLARGINE MORNING DOSE, AFTER GIVEN GLARGINE STOP INSULIN IV.K+3.3, MD NOTIFIED
+",,
+8734,28191,10867,0,2879-09-18 16:09:00 EST,2879-09-18 16:29:00 EST,5918,"N",69,"Nursing/Other",,"
+
+Neuro: AOx3. MAE. oob to chair w/ supervision. follows commands. Seemingly uncooperative w/ diet, diabetic diet consult initiated and implemented. 
+Resp: LSCTA. RA sats =98-100%. RR 12-18. no cough, no co sob. 
+CV: sbp 170-130's. Ordered for PO Labetolol(600mg) QID, but on med book only timed QD... thus BP in better control now. NSR 60-70's. no ectopy noted. Repleted 30mEq of K+ for K+ of 3.3. HD tomorrow. Trace lower extrem. edema. Orthostatic bp performed results in carevue and on wipe board in room. 
+GI/GU: abd soft, +BS, 3 liquid stools today. Pt reportedly has liquid stool at baseline. [**Doctor First Name 83**]/Renal diet, fluid restriction 1500cc. Had nutrition consult today, able to choose total of 4grams of carbs from Renal menu per meal. Anuric at baseline, order written for urine cx today, no urine yet. 
+ENDO: SD AM Glargine increased to 14units. Insulin gtt off at 11:00 this am. 15:00 FS 313, covered w/ SS Humalog. Humalog scale tightened. Pt needs to be off insulin gtt for 12 w/ sugars in good control before being transferred to floor.
+Skin: LLE ulcer 3/2cm pink wound bed w/ some eschar surrounding perimeter. Cleansed w/ NS and wet to dry applied. 
+ID: Afebrile. wbc 20.0 prob increasing [**3-8**] steroids however bld cx sent from [**Last Name (LF) 2725**], [**First Name3 (LF) **] send from picc as well, awaiting urine for urine cx. Bld cx from ED pnding. On Oxacillin and Vanco, dosed by level. 
+A/P: Hyperglycemia, tightening Humalog sliding scale, and SD Glargine increased. Cont to monitor BSS follow strict diet regimen ie.. [**Doctor First Name 83**]/Renal 4gram carb per meal. Can be called out to floor at midnight if sugars in better control.
+",,
+8734,28191,10867,0,2879-09-19 04:25:00 EST,2879-09-19 04:40:00 EST,2108,"N",69,"Nursing/Other","micu npn 1900-0700","
+micu npn 1900-0700
+please see carevue flowsheet for all objective data
+
+mr [**Known patient lastname **] last evening was placed back on his insulin gtt as he was failing his 3rd attempt off of his insulin gtt. last eve his fingersticks continued to climb to 433 despite his compliance w/diet and mult sq injections over the afternoon and eve of humulog 3-10 units. (please see mar for details). we also checked a chem 7 at this point and he was clearly back in DKA w/ a gap of 21. this am it is 19, although probably not truly closed. plan to continue insulin gtt, sugars in better control (114 at 0500) will start d5ns w/40kcl @250cc/hr to keep his bs from bottoming out. 
+
+?as to why he keeps failing trials off the gtt.. more than likely contributing factors include steroid regimine and possible other source of infection other than wound. wbc was 20 yesterday. awaiting am labs presently.. continues to have diarreah x3 overnight.. sent off for culture by this RN as it appears to be c-diff stool. pt also voided x once overnight, this was sent for culture as well. remains afebrile, on oxacillin q6. 
+
+pt angry last eve, threatning to leave ama if he was not able to go to the floor where he is ""known"" and he also very much wants to speak w/the case manager down there about ""some very important personal issues"". verbalizing much anger and disapointment that people have lied to him throughout the day about him going to the floor by this eve, and now he is not being allowed to go. mult explinations given re this by this rn, finally pt relenting, allowing us to put him back on the insulin gtt, which he refused at first. pt actually getting several hours of [**Doctor Last Name 5**] overnight between blood draws which he has not gotten over last few nights in the icu.
+
+cont to check chem7's q3 hrs until gap has closed.. increase dextrose prn and maintain insulin gtt on for now. cont to provide support, reassurance and explanation whenever able.
+",,
+8734,28191,10867,0,2879-09-19 16:21:00 EST,2879-09-19 16:54:00 EST,5918,"N",69,"Nursing/Other",,"
+
+***Sig Events****
+Pt had HD today, prior to VS stable sbp 130's, hr 70-80's see carevue for details. 15 minutes into dialysis Pt asked dialysis nurse to check his sugar b/c it felt low. Pt became unresposive, and hypotensive, noted to have cold, sweat, at this time BS 152. Upon arousal sbp 55-60's/?20's, confused,combative,thrashing, restless trying to get out of bed, not allowing us to perform EKG.c/o shortness of breath. 2mg of iv Haldol given. Sbp remained low 80-100's 500cc/NS bolus given w/ good effect. rectal temp 98.8. Post event Pt remains very lethargic in deep [**Doctor Last Name 5**], awaking to loud voice to shaking, startled and sitting up quickly. Risk for fall as awakes confused, bed alarm on called for sitter. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] consulted and said [**3-8**] sitter shortage and Pt's improving MS, bed alarm should be fine for now. 
+Neuro: As above, currently very lethargic, in deep [**Doctor Last Name 5**], awakes w/ loud voice or shaking. awakes w/ start, confused, but reorients to place quickly. MAE. open awakening as above sits up quickly and tried to get out of bed. bed alarm on. following commands at this [**Doctor First Name **]. l
+Resp: w/ above mentioned event unable to obtain sat at times, initially sats 80's, 4L NC applied, sats currently 98-100%. No complaints of sob since episode resolved. CXR done after the aforementioned event no change noted, benign. LS remain CTA. 
+CV: As above episode of hypotension during event resolved w/ 500cc/NS bolus. HR 50-60's, no ectopy noted. EKG during event, benign, no changes. Elevated troponin [**3-8**] renal failure. see carevue for current labs. sbp currenlty 100-130's. Labetolol dose decreased today to 400mg PO QID. trace lower extrem edema remains. 
+GI/GU: abd soft, +BS. well tolerated 4 gram/ meal [**First Name9 (NamePattern2) **] [**Doctor First Name **] renal diet brkfast and lunch today. 2 liquid golden brown stool sent for ova/parasite cx. Voiding sm. amounts of urine, clear yellow. HD may attempt again tomorrow, however, if thought is that cath is infected may not will address tomorrow again tomorrow. 
+ENDO: Endocrine back to eval again today. insulin gtt off at noon, humalog ss coverage. FS to be done Q4/hrs next one at 8pm. 
+Skin: Rt foot ulcer w/ pink wound bed, yellowish perimeter, NS wet to dry applied. 
+ID: Bld cx from picc, piv, and dia sent. ova/parasite cx from stool, an c-diff cx sent today. Urine cx pndng. known MRSA in foot. oxacillin dc'd today, got Vanco yest. will readdress abx tomorrow on rounds. wbc cont to increase 23.4. temp 98.8 rectal, ?? steroid effect on masking temp. 
+A/P cont to monitor cv status and bolus vs. Levo prn. cont to assess neuro status and lethargy, reorient as needed. cx sent, monitor temps, f/u on cx's. Cont to monitor Q 4/hrs FS. cont supportive care
+",,
+8734,28191,10867,0,2879-09-20 05:17:00 EST,2879-09-20 05:33:00 EST,1774,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: AAOX3. NO EPISODES OF MS CHANGES. SLEPT WELL BETWEEN FS/BLOOD DRAWS. ABLE TO MOVE INDEPENDANTLY BETWEEN BED/CHAIR/COMMODE WITHOUT DIFFICULTY. DENIES PAIN. 
+
+CARDIAC: HR 60-68 SR WITH NO ECTOPY. BP 125-166/60-95. TOLERATED CARDIAC MEDS. HCT STABLE @37. 
+
+RESP: ON RA WITH RR 9-18 AND SATS 98-100%. LS CLEAR. NO COMPLAINTS OF SOB.
+
+GI/GU: ABD SOFT WITH +BS. LOOSE LIQUID BROWN STOOL X2. VOIDED THIS MORNING WITH STOOL. CREAT 6.1.
+
+FEN: LYTES PER CARE. ANION GAP 19->23. OFF INSULIN GTT WITH FS Q4HRS. FS 199/226/263 AND COVERED WITH SS HUMALOG.  RENAL DIET. ABLE TO EAT SUPPER, TOOK HS SNACK. 
+
+ID: TMAX 97.1. CURRENTLY NOT ON ABX. ?DOSING VANCO TO LEVELS. ONE WAS NOT ORDERED FOR THIS AM. WBC 19 DOWN FROM 23. ON CONTACT PRECAUTIONS FOR MRSA IN WOUND. SEVERAL CX'S PENDING. CDIFF WAS NEGATIVE.
+
+SKIN: WET TO DRY DSG TO LEFT HEEL.
+
+ACCESS: RAC PIV, LEFT PICC, RSC DIALYSIS.
+
+SOCILA/DISPO: FULL CODE. NO CONTACT FROM FAMILY BUT PATIENT ON THE PHONE MOST OF THE EVENING. CONTINUE TO MONITOR Q4HR FS, BID CHEMISTRIES. ?RESTART INSULIN GTT. ?HD TODAY.
+",,
+8734,28191,10867,0,2879-09-20 16:41:00 EST,2879-09-20 17:33:00 EST,5714,"N",69,"Nursing/Other","Nursing progress note 0700-1900 hours:","
+Nursing progress note 0700-1900 hours:
+** full code
+
+** ALLERGY: LISINOPRIL-CAUSES ANGIOEDEMA.
+
+** MRSA: WOUND
+
+** LEFT PICC, RIGHT SC DIALYSIS LINE
+
+** PT IS A 47 YO MALE, ADMIT ON [**9-16**] AFTER UNDERGOING USUAL DIALYSIS TREATMENT AND NOTED TO HAVE MS CHANGES WITH UNRESPONSIVENESS, FS BS OF 19-TRANSFERRED TO BIMDC.  IN ED FOUND TO HAVE RECTAL TEMP OF 101.8, HTN TO 180/100-TREATED WITH 2 AMPS D50 AND STARTED ON D5 GTT-STARTED ON INSULIN GTT -NORMALIZED AND SUBSEQUENTLY DC'D. 
+
+PMH: TYPE I DM, ESRD ON HEMODIALYSIS, ADDISONS DISEASE, CHRONIC LLE ULCER, ANEMIA (CHRONIC ON PROCRIT), CAD, S/P NSTEMI, CHF EF >60%, HTN, PVD, S/P RIGHT RETINAL HEMORRHAGE REPAIR, HYPOTHYROIDISM, HYPERCHOL, GERD, RESTLESS LEG SYNDROME, MSSA OSTEOMYLITIS.  
+
+** NOTE THAT PT HAD RECENT ADMIT HERE AT BIMDC ([**2879-8-25**]) FOR W/U OF [**Location (un) **] ULCER-DC'D TO [**Hospital3 811**] AND THEN HOME ON IV OXACILLIN FOR MSSA OSTEOMYLITIS AND HAS ALSO BEEN ON VANCO PER LEVELS. 
+
+NEURO/EVENT: PT A & O X3.  NO NEURO DEFICITS-ABLE TO FOLLOW ALL COMMANDS-INDEPENDENT FROM CHAIR TO COMMODE TO BED.  PT HAD ANOTHER EPISODE OF ACUTE UNRESPONSIVENESS TODAY 22 MINUTES INTO HD TREATMENT (SAME OR SIMILAR EVENT REPORTEDLY OCCURED YESTERDAY 15 MINUTES INTO HD-THOUGH WAS APPARENTLY WORSE YESTERDAY).  PT IS WITH ADEQUATE SBP 140-150 AND TALKING-FEELING NORMAL AND ALL OF A SUDDEN PT ACUTELY SLUMPS OVER-DROPS SBP INTO 60'S AND DOES NOT RESPOND TO ANY STIMULI.  ALSO LOSES HIS SATS; UNABLE TO OBTAIN AT THAT TIME.  UNRESPONSIVENESS LASTLY APPROX 1-2 MINUTES THEN CAME TO-WITH SLURRED SPEECH AND GROGGY INITIALLY AND THEN RECOVERS WITHIN MINUTES TO NORMAL WITH NO RECOLLECTION OF THE EVENT.  GIVEN 250CC NS BOLUS-SBP UP TO 90'S WITHIN 10 MINUTES. SEE RENAL FOR FURTHER DETAILS. FS WAS 251 DURING THIS EVENT. 
+
+CARDIAC: NSR WITH HR 50'S-60'S.  SBP 55-150'S/13-67. DENIES ANY CP OR RELATED SYMPTOMS.  C/O SMALL AMT DIZZINESS AFTER EVENT WHICH RESOLVED. 
+
+RESP: ON RA _DID PLACE ON NC 4L THROUGHOUT EVENT AND THEN TITRATED BACK OFF. SATS >96%.  LUNGS CLEAR. 
+
+GI/GU: PT IS HD PT-ESSENTIALLY ANURIC; PT SAYS HE DOES URINATE EVERY DAY A VERY LITTLE AMOUNT. TODAYS EVENT NOTED UNDER NEURO-AFTER EVENT-RENAL CAME UP TO EVALUATE PT-DC'D HD TREATMENT.  PLAN IS TO HOLD OFF UNTIL TOMORROW-LOOK AT LABS AND DECIDE WHETHER OR NOT TO TRY HD AGAIN (THIS IS THIRD TIME THAT PT HAS HAD THIS RESPONSE ON HD) OR MAY ATTEMPT CVVHD FOR 24-48 HOURS UNTIL STABLE AND THEN TRANSITION BACK TO HD. ** UNCLEAR AT THIS POINT AS TO REASON FOR EVENT: SEPTIC SEEDING OF DIALYSIS CATH VS SEPSIS VS HYPOTENSION. IF ? OF INFECTED CATH-DO ENDOTOXINS GET INJECTED ONCE TREATMENT IS STARTED? ALSO SOME QUESTION OF WHETHER DRY WEIGHT IS MISCALCULATED? CONT TO BE IMMEDIATE CONCERN.  RENAL DIET WITH FLUID RESTRICTION-PT REQUESTS ALL DIETARY NEEDS WITH SPECIFICS AS TO MENU.  
+
+ID: MRSA OF WOUND. CONT ON VANCO PER DOSING WITH TODAYS LEVEL 19.5 WBC 19.0.   
+
+SKIN: WOUND TO LEFT FOOT-WET TO DRY-SEEN BY PODIATRY TODAY-WITH CONT OF WET TO DRY AT THIS TIME.  LAST CHANGED THIS AM.  
+
+PSYCHOSOCIAL: LIVES AT HOME IN [**Location (un) **] ALONE-SELF ADL'S
+",,
+8734,28191,10867,0,2879-09-20 16:42:00 EST,2879-09-20 17:33:00 EST,5714,"N",69,"Nursing/Other","Nursing progress note 0700-1900 hours:","
+Nursing progress note 0700-1900 hours:
+(Continued)
+ WITH RECENT REHAB AT [**Hospital3 811**] AND THEN DC'D BACK TO HOME. 
+
+DISPO: FULL CODE.  RE-EVALUATE LABS TOMORROW-RENAL INPUT AS TO NEXT STEP WITH TREATMENT PLAN.  MED MANAGEMENT AND ICU SUPPORTIVE CARE. 
+
+
+
+
+",,
+8734,28191,10867,0,2879-09-21 03:34:00 EST,2879-09-21 03:45:00 EST,2353,"N",69,"Nursing/Other","NURSING PROGRESS NOTE:","
+NURSING PROGRESS NOTE:
+NEURO: PT ALERT/ORIENTED/COOPERATIVE. PT ABLE TO GET OOB ON OWN TO USE COMMODE. 
+
+RESP: NO ISSUES, NO O2, O2 SAT'S 100%. 
+
+CV: PT HEMODYNAMICALLY STABLE ALL WITHIN NORMAL LIMITS. AFEBRILE. PT ON LABETOLOL TOLERATING WELL.
+
+GI: PT UP TO COMMODE SEVERAL TIMES DURING THE NIGHT AND HAD SEVERAL LOOSE BROWN STOOLS. UNABLE TO TELL IF PT URINATED AT ALL. 
+
+GU: ANURIC. 
+
+SKIN: PT WITH WET TO DRY DRSG ON [**Name5 (PTitle) **] [**Name5 (PTitle) **].
+
+ENDO: PT ON SS INSULIN. FINGERSTICKS CHECKED Q 6/HR. REQUIRING HUMOLOG X 1. 
+
+IV ACCESS: PT IS WITH L PICC AND ONE PIV AND RSUBCLAVIEN DIALYSIS CATHETER. 
+
+SOCIAL: PT ON PHONE WITH FRIENDS. PT IS FULL CODE. PT MAY POSSIBLY GO ON CVAHD TODAY FOR 24/HR UNTIL HE CAN FIND OUT WHY HE'S HAVING EPISODES DURING HD.
+
+
+",,
+8734,28191,10867,0,2879-09-21 17:36:00 EST,2879-09-21 18:02:00 EST,5714,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 0700-1900 HOURS:","
+NURSING PROGRESS NOTE 0700-1900 HOURS:
+** FULL CODE
+
+** LISINOPRIL: ANGIOEDEMA
+
+** RIGHT SC DIALYSIS, LEFT ARM PICC
+
+NEURO: A & O O3-NO DEFICITS. INDEPENDENT FROM BED TO CHAIR TO COMMODE-ABLE TO VERBALIE NEEDS. NO NEURO OR MS CHANGE EVENTS SINCE YESTERDAY [**2879-9-20**]
+
+CARDIAC: NSR HR 60'S, SBP 120-140'S.  NO ECTOPY. NO COMPLAINTS -DENIES ANY CARDIAC SYMPTOMS. BP MEDS DC'D TODAY DUE TO PENDING DIAYLSIS TREATMENT FOR TOMORROW-WANT TO RULE OUT ALL POSSIBLE ISSUES OF 'EVENT' DURING TREATMENT INVOLVING HYPOTENSION AND UNRESPONSIVENESS. 
+
+RESP: RA-LUNGS CLEAR-NO ISSUE. 
+
+GI/GU: PT ON ORDERED DIET-VERY SPECIFIC ABOUT DIETARY REQUESTS-MENU IS FILLED OUT FOR TOMORROW AND FAXED TO KITCHEN. 1500CC FLUID RESTRICTION. ABD SOFT, NON-DISTENDED. FREQ DIARRHEA -WHICH PT CLAIMS IS ALWAYS THE NORMAL FOR HIM, HOWEVER, DID SEND REPEAT C-DIFF-PENDING. POS ABD SOUNDS. ESSENTIALLY ANURIC-PT VERBALIZES SMALL AMT URINE ON OCCASION. PLAN IS FOR RENAL ATTENDING TO BE AT BEDSIDE TOMORROW FOR THEM TO YET AGAIN ATTEMPT HD.  HAD U/S OF LIVER AND GB TODAY-LOOKING FOR ANY OBSTRUCTION, CYST,OR STRUCTURAL ABNORMALITY-NOTHING FOUND. 
+
+ID: AFEBRILE.  WBC CONT TO GO DOWN. VANCO PER LEVELS-HAS NOT REQUIRED AS NO DIALYSIS.  
+
+ENDO: GLUCOSES HAVE BEEN ELVATED-WITH ENDOCRINE UP TO EVALUATE-SCALE AND GLARGINE READJUSTED; WANTED FS Q 1 HOUR UNTIL FS <150 -GOAL ACHIEVED-LAST TWO SUGARS BELOW 150. 
+
+PSYCHOSOCIAL: SOME SUPPORT SYSTEM-FAMILY CALLS AND FRIENDS.  SOCIAL WORK HELPING PT TO GET HOUSING IF POSSIBLE.  
+
+DISP: DIALYSIS TOMORROW.  ICU MED REGIMEN AND SUPPORTIVE CARE. 
+
+  
+",,
+8734,28191,10867,1,2879-09-22 05:38:00 EST,2879-09-22 05:50:00 EST,1774,"Y",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+ADDENDUM: HAS RSC DIALYSIS CATH AND WET TO DRY DSG ON LEFT FOOT.
+",,
+8734,28191,10867,0,2879-09-22 05:38:00 EST,2879-09-22 05:48:00 EST,1774,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: PLEASANT AND COOPERATIVE. AAOX3. PATIENT UNHAPPY WITH PAWLTRY SELECTION OF SNACKS FOR DIABETICS IN UNIT KITCHEN AT NIGHT. WANTED SOMEONE TO GO TO [**8-14**] STORE FOR SNACKS. WHEN TOLD THAT COULD NOT BE DONE HE THREATENED TO SIGN OUT AMA, ""GIVE ME THE PAPERS TO SIGNS"". MD MADE AWARE BUT PATIENT SETTLED DOWN SHORTLY THEREAFTER AND SLEPT WELL. DENIES PAIN. INDEPENDANTLY MOVING FROM BED TO CHAIR. 
+
+CARDIAC: HR 60-67 SR WITH NO ECTOPY. BP 130-180/64-107, OFF ALL CARDIAC MEDS. HCT STABLE @34.
+
+RESP: RA WITH RR 8-18 AND SATS 97-100%. LS CLEAR.
+
+GI/GU: ABD SOFT WITH +BS. LOOSE BROWN STOOL. NO UOP. CREAT UP TO 7.4. 
+
+FEN: LYTES PER CAREVUE. FS TRENDING UP TO 273 AND COVERED WITH SS HUMALOG. TOLERATING PO DIET AND COMPLIANT WITH 1.5L FR. 
+
+ID: TMAX 95.6 WITH SLIGHT BUMP IN WBC TO 15. ON CONTACT PRECAUTIONS. CX'S PENDING.
+
+SKIN: W/D/I.
+
+ACCESS: LEFT BRACHIAL PICC.
+
+SOCIAL/DISPO: FULL CODE. PLAN TO ATTEMPT HD TODAY WITH BACK UP PLAN FOR CVVHD IF UNSUCCESSFUL. 
+",,
+8734,28191,10867,0,2879-09-22 16:08:00 EST,2879-09-22 16:32:00 EST,5714,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 0700-1900 HOURS:","
+NURSING PROGRESS NOTE 0700-1900 HOURS:
+** FULL CODE
+
+** ALLERGY: LISINOPRIL
+
+** ACCESS: LEFT ARM PICC, RIGHT SC QUINTON
+
+NEURO: A & O X3; NO DEFICITS.  ABLE TO VERBALIZE NEEDS BUT NOTED THAT PT NOT ALWAYS WITH ACCURATE ACCOUNT OF EVENTS OVER PAST FEW DAYS. COOPERATIVE AND PLEASANT MIXED WITH PERIODS OF FRUSTRATION OVER CURRENT HOSPITILIZATION, DIETARY RESTRICTIONS; ENCOURAGED TO VOICE CONCERNS AND SUPPORT GIVEN. 
+
+CARDIAC: NSR, NO ECTOPY.  HR 60'S-70'S. SBP >130'S EXCEPT FOR PERIOD DURING WHICH HD WAS INITIATED AND SBP DROPPRED TO 90'S-THEN 80'S THEN 70'S AND HD DC'D (SEE GI/GU SECTION).  SBP NOW ELEVATED >170-MD AWARE-DISCUSSION AS TO WHETHER OR NOT LABETALOL TO BE RESTARTED.
+
+RESP: RA, NO ISSUE. LUNGS CLEAR. 
+
+GI/GU: ANURIC. ABD SOFT, NON-DISTENDED. CONT WITH ACTIVE APPETITE.  STOOLED X 4 TODAY. (C-DIFF PENDING FROM YESTERDAY) IF STOOLS AGAIN-WANT O & P SENT.  FLUID RESTRICTION OF 1500ML/DAY.  HD TRIAL THIS AM WITH RENAL ATTENDING AT BEDSIDE TO INSTRUCT DIAYLSIS NURSE AS TO ADJUSTMENTS TO BE MADE-ATTEMPTED SLOW RATE OF REMOVEAL BUT PT STILL DID NOT TOLERATE-WAS SYMPTOMATIC WITH C/O PRESSURE IN THE BACK OF HIS HEAD AND 'JUST NOT FEELING WELL'-GIVEN SOLUCORTEF IN ATTEMPT TO HELP SYMPTOMS BUT IN ADDITION-PT BECAME HYPOTENSIVE AND SOMEWHAT ASHEN IN APPEARANCE-MORE GRADUAL DECLINE OF BP FROM 188 (STARTING BP) DOWN TO LOW OF 70'S-AT WHICH POINT PT REMOVED FROM DIALYSIS AND ENDED UP BEING 400CC POSITIVE AS FLUID HAD TO BE GIVEN BACK.  CVVHD INITIATED AT 1P AS ORDERED-SO FAR, TOLERATING WELL.  DO NOT NEED TO ACCOUNT FOR PO INTAKE PER RENAL ATTENDING UNDER DIALYSIS REMOVAL.  PLAN IS TO CONT X 24 HOURS WITH REATTEMPT AT HD TOMORROW MORNING AS TOLERATED WITH DIFFERENT 'MEMBRANE' DIALYSIS CATH -WANT TO R/O ALLERGY TO THIS MEMBRANE. 
+
+ID: CONT ON VANCO PER DOSING-WBC ESSENTIALLYUNCHANGED FROM YESTERDAY AT 15.0 AND AFEBRILE. 
+
+ENDO: FS TO BE DONE BEFORE MEALS AND AT BEDTIME WITH GLARGINE FIXED DOSE AT BREAKFAST AND DINNER AND SEPERATE S.S. FOR OVERNIGHT. 
+
+PSYCHOSOCIAL: FAMILY SEEMS TO BE WELL SUPPORTED BY FAMILY AND FRIENDS-DOES LIVE ALONE IN APT IN [**Location (un) **] BUT HAS BEEN LIVING AT [**Hospital3 811**] (REHAB) SINCE LAST ADMIT IN THE INTERIM.  PT VERBALIZED THAT HE IS TO LOSE THAT BED ON [**9-26**]-UNCLEAR AS TO ESTIMATED D/C DATE FROM BIMDC AT THIS POINT-S.W. INVOLVED IN ATTEMPT TO GET HIM HOUSING. 
+
+PLAN: CONT CVVHD OVERNIGHT WITH GOALS AS ORDERED AS TOLERATED. CURRENT MED REGIMEN AND ICU SUPPORTIVE CARE. 
+",,
+8734,28191,10867,0,2879-09-23 05:12:00 EST,2879-09-23 05:49:00 EST,1774,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+**PATIENT IS A 47Y/O GENTLEMAN WITH PMH OF CAD, DM, ADDISONS, CHF, HTN, PVD, AND RF WHO WAS ADMITTED FROM HD AFTER HAVING AN UNRESPONSIVE EPISODE ASSOCIATED WITH FSBS OF 19. ARRIVED IN ED WITH TEMP 101.8 AND SBP >220. RECEIVED IV ANTIHYPERTENSIVES, ABX AND D5W/D10. PATIENT WAS TRANSFERRED TO MICU. 
+
+**PATIENT WITH RECENT ADMISSION FOR MSSA OSTEOMYELITIS OF LEFT FOOT ULCER. HE WAS D/C'D TO [**Hospital3 811**] AND THEN WAS SUPPOSED TO GO HOME ON ABX BUT REMAINED AT [**Location (un) **]. 
+
+**HOSPITAL COURSE C/B DKA AND OFF/ON INSULIN GTT FOR HIGH SUGARS IN SETTING OF PATIENT'S NONCOMPLIANT DIET. HTN COVERED WITH IV THEN PO ANTIHTN MEDS. ELEVATED WBC WITH HIGH EOSONIPHIL COUNTS. PATIENT HAS HAD 3 EPISODES OF DECLINING MS [**First Name (Titles) **] [**Last Name (Titles) 6136**] WITH DROP IN SBP TO THE 50'S-70'S WITH INITIATION OF HD. ONCE TREATMENT STOPPED PATIENT RECOVERED TO BASELINE IN A MATTER OF MINUTES. CRRT STARTED AS UNABLE TO TOLERATE HD. 
+
+NEURO: PATIENT AAOX3. NEEDY AND MAKING MANY REQUEST FOR SNACKS/FLUIDS. DID NOT [**Doctor Last Name **] WELL. RESTLESS AND MOVING ABOUT. WILL SIT ON SIDE OF BED FREQUENTLY. DENIES PAIN. 
+
+CARDIAC: HR 83-92 SR WITH RARE PVC'S. BP 158-205/67-104. ALL ANTIHTN MEDS D/C'D TWO DAYS AGO AS THE TEAM WAS ALLOWING BP TO DRIFT UPWARDS TO SEE IF THIS WOULD HELP WITH THE ATTEMPTS AT HD. SBP APPROACHING 190'S PATIENT GIVEN 20MG HYDRALAZINE IV ~Q4HRS WITH SBP DROPPING TO 150-160 WHICH THE TEAM WILL ACCEPT. HCT 32.5 WAS 34.3 YESTERDAY. NO SIGNS OF BLEEDING. 
+
+RESP: ON RA WITH RR 10-25 AND SATS 96-100%. LS CLEAR WITH OCCASIONAL DRY NONPRODUCTIVE COUGH. 
+
+GI/GU: ABD SOFT WITH +BS. FREQUENT LOOSE BROWN STOOL. PATIENT IS PRACTICALLY ANURIC, MAY VOID SMALL AMOUNTS WITH STOOL. CREAT DROPPING FROM 7.2->6.4->5.7->5.2 WITH CRRT.
+
+FEN: CRRT CONTINUES WITH NO CHANGE IN SOLUTIONS. TOLERATING GOAL FLUID REMOVAL OF 50CC/HR. NO ANTICOAGULANT IN SYSTEM. RECEIVED ON CA GTT @25CC/HR. ICA WAS 1.40 AT MIDNOC AND GTT SHUT OFF. ICA 1.26 THIS MORNING AND GTT RETURNED TO 25CC/HR. PATIENT WITH EXCELLENT APPETITE. ALSO FOUND TO HAVE SNACKS IN HIS BAG AT BEDSIDE WHICH HE WAS EATING. FS WAS 428 @2200, MD AWARE AND PATIENT GIVEN 8UNITS HUMALOG. SERUM BS AT 12AM WAS 336. 6AM BS WAS 393, MD AWARE AND PATIENT COVERED WITH HS DOSE OF HUMALOG, 7UNITS AS HE WOULD NOT BE EATING BREAKFAST FOR A COUPLE OF HOURS. WILL NEED A FS @BKFAST. PATIENT ON 1500CC FLUID RESTRICTION.
+
+ID: TMAX 97.0, WAS ON BAIRHUGGER BRIEFLY. WBC 9 DOWN FROM 15. ON CONTACT PRECAUTIONS. CUURENTLY NOT ON ABX, LAST DOSE VANCO [**9-18**]. CDIFF SPECS HAVE BEEN NEG. BLOOD CX'S FROM [**2790-9-18**] ARE PENDING. STOOL O&P, CDIFF AND EOSONOPHIL SMEAR SENT THIS AM.  
+
+SKIN: WET TO DRY DSG TO LEFT FOOT. 
+
+ACCESS: LEFT BRACHIAL PICC, RSC DIALYSIS LINE.
+
+SOCIAL/DISPO: FULL CODE. THIS NURSE DID NOT SPEAK TO ANY FAMILY BUT PATIENT ON HE PHONE MOST OF THE EVENING. PLAN IS TO CONTINUE CRRT TODAY AND THEN TRY HS WITH A DIFFERENT DIALYSIS MEMBRANE TO SEE IF IT A POSSIBLE ALLERGIC REACTION CAUSING THE ABOVE MENTIONED EPISODES. NEXT SET OF LYTES DUE AT 1130. 
+",,
+8734,28191,10867,0,2879-09-23 16:42:00 EST,2879-09-23 17:06:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICU B Nursing Progress Note (0700-1900)
+
+CNS: Pt. is alert, oriented and cooperative. He is somewhat frustrated at having to remain on CVVHD. Also frustrated re: increased fluid restriction and difficulty with receiving the correct food trays.
+
+CVS: Continues to be hypertensive today with  SBP 180-200/80-100. HO aware and labetolol restarted at 400mg qid. Heart rate in the 70's, NSR without VEA.
+
+RESP: Sats of 100% on room air. Lungs clear, no cough.
+
+ENDO: Fixed dose of pm glargine increased from 10U to 12U. Sliding scale coverage given per protocol q6hr. 1730 fingerstick was 133 and pt did receive pm glargine...?if this was still to be held for fingerstick <150...HO aware. Order to be clarified and fingersick to be rechecked at 2200. 
+
+GI: Passing moderate amounts of loose, golden stool. Abdomen is soft and distended with active bowel sounds throughout.Pt. has an excellent appetite and becomes quite anxious when meals are late or choices are incorrect.
+
+ID: Normothermic, has not required bair hugger today.
+
+F and E: Latest plan is for pt. to receive CVVHD through the weekend (in order to remove additional fluid), re-attempt HD on Monday. Pt. has tolerated CVVHD today and is currently even. Due to verbal plan to increase PFR per renal,PFR has remained at 80cc/hr despite the fact that he has been off the Ca gtt most of the day. Renal fellow, Dr. [**Last Name (STitle) 6137**], notified and has now increased PFR to 100cc/hr. (Not taking into account po fluids...fluid restriction has been increased to 1000cc/day). Calcium gtt to be restarted due to ionized calcium of 1.29 at 1700. Next blood draw due at 2300. No change in dialysate or replacement fluid this shift. No anticoagulation, as ordered. Filter clotted at 1330 and was not changed and restarted until 1500 due to equipment problem. 
+
+SKIN: Please see carevue for description of skin breakdown. NS wet to dry dressing done to left ankle at 0800...due again at 2000. Aloe vestra cream applied to perirectal area due to rash/irritation.
+",,
+8734,28191,10867,0,2879-09-24 05:30:00 EST,2879-09-24 05:50:00 EST,1774,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: ALERT AND ORIENTED. DOZING INTERMITTENTLY. DENIES PAIN. MOVING INDEPENDANTLY IN BED. 
+
+CARDIAC: HR 72-87 SR WITH NO ECTOPY. BP 143-201/59-107. TOLERATING LABETOLOL AND STARTED ON HYDRALAZINE 20MG IV Q6HRS. HCT STABLE @33. 
+
+RESP: ON RA WITH RR 12-25 AND SATS 97-100%. LS CLEAR WITH OCCASIONAL DRY COUGH.
+
+GI/GU: ABD SOFT WITH +BS. BROWN, LOOSE STOOL X3. NO UOP NOTED THIS SHIFT. CREAT 3.8->3.6 ON CRRT.
+
+FEN: NO CHANGES IN CRRT SOLUTION. TOLERATING 100CC HOURLY FLUID REMOVAL. ICA 1.26/1.25. LYTES PER CAREVUE. FIRST SET OF AM LABS CLOTTED SO THEY WERE RESENT. [**Doctor First Name **] WILL SEE 2 SETS OF CHEMISTRIES. FS 145 @2200. THIS MORNING @0500 PATIENT STATED THAT HE FELT HIS SUGAR WAS EITHER TOO HIGH OR TOO LOW. FS 48. GIVEN 4OZ ORANGE JUICE, 0515 FS 44 AND GIVEN [**2-5**] AMP D50. PATIENT C/O BENG COLD AND SHAKING. 0530 FS 89 AND @0600 IT WAS 96. TOLERATING DIET. 1L FLUID RESTRICTION. 
+
+ID: TMAX 98.5 WITH WBC 13.6 UP FROM 9. ON CONTACT PRECAUTIONS. VANCO LEVEL 10.9 SO WAS DOSED WITH 1GRAM VANCO. BLOOD CX'S PENDING. CDIFF NEGATIVE.
+
+SKIN: BOTTOM OF LEFT WITH WITH STG 2 DECUB. WET TO DRY DSG CHANGED. PERIRECATL AREA RED AND BARRIER CREAM APPLIED.
+
+ACCESS: LEFT BRACHIAL PICC. RSC DIALYSIS LINE.
+
+SOCIAL/DISPO: FULL CODE. NO CONTACT FROM FAMILY. PLAN REMAIN ON CVVHD UNTIL TOMORROW WHEN HD WILL BE ATTEMPTED AGAIN. NEXT BLOOD DRAW @1100.
+",,
+8734,28191,10867,0,2879-09-24 15:08:00 EST,2879-09-24 15:36:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICU B Nursing Progress Note (0700-1900)
+
+Please see carevue for all objective data. Pt. had a very difficulty day with symptomatic hypoglycemia, fevers, rigors...?new RLL pneumonia vs. atelectasis. 
+
+CNS: Pt's mental status has deteriorated throughout the day as fevers and episodes of hypoglycemia persist. Now sleeping most of the afternoon as opposed to getting in and out of bed and requesting food and drink. Pt. responds to verbal stimuli, but he is confused as to his location, knows the date and is able to follow commands. MAE's. PEARL.
+
+ENDO: Please see carevue for q 30-60 minute fingersticks.  [**Doctor First Name 1546**] has been hypoglycemic most of the shift and has been as low as 44 He has required a total of 4amps D50 since 0730. CVVHD dc'ed at 1200 due to the possibility that treatment is contributing to hypoglycemia.  He is currently receiving D10 at 100cc/hr for 500cc. Most recent fingerstick is 95...will continue to monitor closely. Of note, pt. did receive 12U glargine this AM per team.
+
+ID: Pt. rigoring, intermittently complaining of being hot, then of being chilled. Initially, this was thought to be associated with hypoglycemia. Despite this,  BC x 2 drawn and temp. subsequently spiked to 100.8 rectally. Cathed for urine spec and CXR done...showing ?RLL pneumonia vs. atelectasis. Tylenol 650mg given and levaquin/gentamycin started. Steroids increased to hydrocortisone 100mg q8hr. PICC line dc'ed and tip sent for culture. Dialysis catheter in place, along with 2 peripheral #20 IV's.
+
+RENAL: As mentioned, CVVHD dc'ed at 1200. Plan is for HD in MICU tomorrow. As of 1700, pt is 240cc+. He is over his liter fluid restriction by 350cc. 
+
+RESP: Lungs with decreased breath sounds at the right base. No cough or sputum. Sats are in the low 90's today. Pt. placed on 2lnc with improvement to >96%. ?pneumonia as infectious source. 
+
+GI: Pt. denies any abdominal pain. Active bowel sounds throughout. Pt has been incontinent of small amounts of golden, loose stool several times...guiac negative. 
+
+SKIN: Please note description on flowsheet. Perirectal area improving with double guard cream. NS wet to dry dressing done to left heel.
+
+CVS: Briefly hypotensive to 180's/, but B/P generally 140-150's/ on labetolol and hydralazine. (goal 120-150) 
+",,
+8734,28191,10867,0,2879-09-25 05:22:00 EST,2879-09-25 05:49:00 EST,1774,"N",69,"Nursing/Other","MICU NPN 7P-7A","
+MICU NPN 7P-7A
+NEURO: ALERT AND ORIENTED X3, SITTING UP IN THE CHAIR AT START OF SHIFT. ON PHONE ALL EVENING. C/O HA AND GIVEN 650MG TYLENOL PO WITH STATED RELIEF. MOVING INDEPENDANTLY FROM CHAIR TO BED TO COMMODE. NO DIFFICULTY. SLEPT WELL AND THIS MORNING DIFFICULT TO AROUSE AND INITIALLY DISORIENTED BUT RETURNED TO BASELINE QUICKLY. 
+
+CARDIAC: HR 71-81 SR WITH NO ECTOPY. BP STILL REMAINS AN ISSUE. BP 166-199/73-96. AT START OF SHIFT SBP 199, MD AWARE AND PATIENT GIVEN 25MG PO HYDRALAZINE WITH SBP DOWN TO 170'S BUT TRENDING BACK UP. RECEIVED STANDING HYDRALAZINE AT 2200 AND LABETOLOL @MIDNOC. SBP BACK TO THE 190'S @0130, MD AWARE AND PATIENT GIVEN 20MG HYDRALAZINE IV WITH DROP IN SBP TO 160'S BUT ONLY LASTED AN HOUR BEFORE IT WAS TRENDING BACK UP. ?ADDING ANOTHER MEDICATION DEPENDING ON HOW HD TRIAL GOES TODAY. ALSO NOTED THAT PATIENT HAS A MUCH BETTER RESPONSE TO CARDIAC MEDS ON DAYS THAN ON NIGHTS. HCT STABLE @32. 
+
+RESP: ON RA MOST OF SHIFT WITH SATS 94-98%. THIS MORNING SOUNDLY SLEEPING WITH SATS DROPPING TO 91-92%. PLACED ON 2L N/C WITH SATS UP TO 97%. PATIENT EEMOVED IT THIS A MORNING WHEN HE AWOKE. RR 10-22. LS CLEAR WITH SLIGHTLY DIMINISHED LEFT BASE. NOTED FEW SCATTERED BIBASILAR CRACKLES. NO SOB.
+
+GI/GU: ABD SOFT AND SLIGHTLY DISTENDED WITH +BS. GOLDEN LOOSE STOOL X3. VOIDING SMALL AMOUNT WITH STOOL, CREAT 4.
+
+FEN: FINISHED D10 LAST EVENING. FS 114-198, NO COVERAGE GIVEN. PATIENT COMPLIANT WITH DIET AND FLUID RESTRICTION. LYTES PER CAREVUE. 
+
+ID: TMAX 98.2 WITH WBC 9.4 DOWN FROM 13.6. ON LEVOFLOXACIN AND RECEIVED GENT YESTERDAY. PAN CXED YESTERDAY, RESULTS PENDING. ON CONTACT PRECAUTIONS.
+
+SKIN: PERIRECTAL AREA RED WITH BARRIER CREAM APPLIED. WET TO DRY DSG CHANGED LAST EVENING.
+
+ACCESS: PIV X2. RSC DIALYSIS LINE.
+
+SOCIAL/DISPO: FULL CODE. PLAN FOR HD TRIAL TODAY. 
+",,
+8734,28191,10867,0,2879-09-25 14:14:00 EST,2879-09-25 14:31:00 EST,2202,"N",69,"Nursing/Other",,"
+
+MICU B Nursing Progress Note (0700-1900)
+
+Please see nursing transfer note regarding PMH and recent events. Review of systems as follows.
+
+CNS: Pt. alert, oriented and cooperative. Able to move all extremities. Ambulating in room. Feels he is at baseline.
+
+RENAL: Pt. tolerated 2hr HD treatment this AM without incident. 2.5L removed and pt will progress to 3hr treatment [**9-26**]. Dialysis catheter insertion site clean and dry...dressing changed by HD RN.
+
+ID: Afebrile. Surveillance blood culture sent from dialysis catheter. Remains on levaquin.
+
+ENDO: Evening glargine has been dc'ed. Pt. received 12U glargine at 1030 (initially held,wanted to assess for tolerance of HD first). Covered with 11u humulog at 1200 for fingerstick of 298. Tolerating po's without any problem.
+
+RESP: Lungs clear...no cough or sputum. Sats of 98% on room air. Chest PA and lateral done to assess for question of RLL infiltrate...?aspiration.
+
+GI: One episode of loose, golden stool. Abdomen soft and non tender. Active bowel sounds throughout. 
+
+SKIN: Rash over perirectal area is clearing. NS wet to dry dressing to left heel ulcer, healing well...minimal serous drainage. 
+
+LINES: One peripheral #20, functioning well.
+
+DISPO: OOB to chair, ambulating in the room. ?call out to general medical floor.
+",,
+8734,28191,10867,0,2879-09-25 16:30:00 EST,2879-09-25 16:33:00 EST,2202,"N",69,"Nursing/Other",,"
+
+Addendum: Pt. is awaiting bed on general medical unit. Chest PA and lateral read as no evidence of pneumonia, per HO. 1700 fingerstick of 389. Pt. covered with 15U humulog per sliding scale. 4U NPH also ordered as fixed evening dose.
+",,
+8734,28191,10867,0,2879-09-26 04:24:00 EST,2879-09-26 04:34:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+THIS IS A 47 Y/O M INITIALLY ADMITTED TO THE [**Hospital1 22**] ON [**2879-9-16**].  PT HAD JUST BEEN DISCHARGED FROM THE [**Hospital1 22**] ON [**2879-8-25**] AFTER ADMISSION FOR A WORKUP OF HIS LLE ULCER.  HE WAS THEN DISCHARGED TO [**Hospital3 811**] AND THEN TO HOME.  PT WAS A TDIALYSIS WHEN HE WAS NOTED TO BE LETHARGIC AND FOUND TO BE HYPOGLYCEMIC WITH A FS OF 19.  PT ADMITTED TO MICU FOR MANAGEMENT.  [**Hospital **] HOSPITAL COURSE COMPLICATED BY BOUTS OF HYPERGLYCEMIA REQUIRING INITIATION OF INSULIN GTT AND THEN HYPOGLYCEMIA REQUIRING INITIATION OF DEXTROSE GTT.  PT WAS BRIEFLY ON CVVHD.  HD TRIAL ON [**9-25**] TOLERATED- ABLE TO REMOVE 2.5 LITERS.
+
+NEURO:  ALERT AND ORIENTED X 3.  SPEECH CLEAR.  PT IS ABLE TO AMUBLATE TO COMMODE AND STAND AS HE DESIRES WITHOUT DIFFICULTY.  ABLE TO PERFORM HIS OWN PM CARE (SHAVE, CLEAN UP).  MAE X 4 WITHOUT DIFFICULTY- EQUAL STRENGTH NOTED TO ALL EXTREMITIES.  AFEBRILE.  NO SEIZURE ACTIVITY NOTED.  PERRLA, 3/BRISK.
+
+RR:  RA.  BBS= ESSENTIALLY CLEAR TO ALL LUNG FIELDS.  BILATERAL CHEST EXPANSION NOTED.  NO C/O DIFFICULTY BREATHING OR SOB.  RR 15-20 AND UNLABORED.  NO INCREASED WOB NOTED.  SP02 > OR = TO 95%.
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NSR, HR 60-70'S WITH NO SIGNS OF ECTOPY NOTED.  DENIES ANY CHEST PAIN.  PT HYPERTENSIVE WITH SBP IN THE 170'S.  ANTIHYPERTENISIVE MED REGIMEN.  PALPABLE PULSES NOTED TO BILATERAL DORSALIS AND RADIALS.  
+
+GI:  ABD IS SOFT, NON-DISTENDED AND NON-TENDER.  NO C/O N,V,D.  RENAL DIET.  ABLE TO TOLERATE.  PASSING FLATUS.  NO BM THIS SHIFT.
+
+GU:  ANURIC.
+
+ENDO:  PT HAS HAD INCREASINGLY LABILE BLOOD GLUCOSE LEVELS- AT ONE POINT HIS GLUCOSE WAS 409- RECEIVED COVERAGE AS PER SLIDING SCALE- BOTTOMED OUT TO 41.  RECEIVED 1AMP OF DEXTROSE, MILK AND PEANUT BUTTER.  MONITORING BLOOD SUGARS VERY CLOSELY.
+
+INTEG:  NO SIGNS OF BREAKDOWN NOTED TO BACK OR BUTTOCKS.  W/D DRESSING TO LT HEEL ULCER IS SECURE AND INTACT.  APPEARS TO BE HEALING WELL, MINIMAL DRAINAGE NOTED.
+
+SOCIAL:  NO CONTACT WITH FAMILY THIS SHIFT.
+
+PLAN:  CONTINUE TO MONITOR BLOOD SUGARS.  PT STABLE OTHERWISE.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **]!
+",,
+8734,28191,10867,0,2879-09-26 16:50:00 EST,2879-09-26 17:02:00 EST,5714,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 0700-1900 HOURS:","
+NURSING PROGRESS NOTE 0700-1900 HOURS:
+** FULL CODE
+
+** ALLERGY: LISINOPRIL (ANGIODEDEMA)
+
+** PIV, RIGHT SC QUINTON
+
+* PT IS C/O TO FLOOR-NO TELE, AWAITING MRSA BED ASSIGNMENT
+
+NEURO: A & O X3; NO DEFICITS. AMBULATES AND ABLE TO BE INDEPENDENT FROM BED TO CHAIR.  
+
+CARDIAC: NSR WITH HR 60'S-70'S- BUT HYPERTENSIVE WITH SBP 130 (FOR A LOW) BUT PREDOMINENTLY 150-200/HIGH 80'S-100.  DISCUSSED WITH MD-PT ALREADY ON LABETALOL AND HYDRALAZINE AND IS BASELINE HYPERTENSIVE, HOWEVER, SOME CAUTION WAS USED AT TIMES THIS HOSPITAL COURSE DUE TO COMPLICATIONS WITH HD IN WHICH PT BECAME SEVERELY HYPOTENSIVE.  AT THIS POINT, PT HAS TOLERATED LAST TWO DAYS OF HD WITH 2.5 REMOVED YESTERDAY AND 2.7 TODAY, RESPECTIVELY AND REMAINS WITH HTN-STARTED ON AMLODIPINE 5MG THIS EVENING-WILL ASSESS EFFECTIVENESS AND PLAN TO GIVE ANOTHER 5MG IF NEEDED AS PER DISCUSSED WITH MD. [**First Name (Titles) **] [**Last Name (Titles) 3631**] SQ.  
+
+RESP: NO ISSUE-SATS >96% ON RA-NO SOB.  WAS SOME ? OF RLL INFILTRATE OVER THE WEEKEND-DOES NOT APPEAR TO HAVE ANY RESP DISTRESS AND CXR FROM [**9-25**] WITHOUT INFILTRATE.  
+
+GI/GU: ABD SOFT, NONDISTENDED. NO LONGER HAS DIARRHEA-IF STOOLS-NEED ONE MORE O & P SENT AS ORDERED (LAST TWO NEG AND ALSO NEG FOR C-DIFF). HEALTHY APPETITE-FILLS OUT RENAL MENUS AND SPECIFIC ABOUT DIETARY WANTS-ON-GOING TEACHING REGARDING CARBS AND RENAL DIET AND APPROPRIATE CHOICES. ANURIC.  HD TODAY WITH 2.7 LITERS REMOVED AND UNEVENTFUL. FLUID RESTRICTION NOW AT 1200CC A DAY. 
+
+ENDO: FS QID WITH SLIDE SCALE AND LANTUS AS ORDERED. FS LABILE OVERNIGHT -ENDOCRINE HERE TO REVIEW TODAY WITH SUGGESTIONS/CHANGES FOLLOWED BY MICU TEAM. 
+
+ID: WBC OF 7.4, AFEBRILE. NO RIGORS, CHILLS. DOSING VANCO PER LEVEL AND GIVING FOR LEVEL /< 15 ; DOSE GIVEN TODAY AS LEVEL WAS 12. PT WITH MRSA OSTEO OF LEFT FOOT-DSG CHANGED BID WET TO DRY.  CATH TIP FROM PICC LINE SENT [**9-24**] FOR CX AND PENDING. 
+
+PSYCHOSOCIAL: NO VISITORS TODAY-PT SPOKE WITH FAMILY AND FRIENDS ON PHONE.  PT IN GOOD SPIRITS.  
+
+DISPO: AWAITING FLOOR BED. PLAN FOR HD TOMORROW FOR LONGEST TREATMENT (4 HOUR TX PLAN AS TOL), ATTEMPT AT BETTER HTN CONTROL, MED REGIMEN AND ICU SUPPORTIVE CARE. 
+
+",,
+8734,28191,10867,0,2879-09-27 02:01:00 EST,2879-09-27 02:07:00 EST,2519,"N",69,"Nursing/Other","NURSING PROGRESS NOTE 1900-0700","
+NURSING PROGRESS NOTE 1900-0700
+REPORT RECEIVED FROM AM SHIFT.  ALL ALARMS ON MONITOR ARE FUNCTIONING PROPERLY.  PT'S ENVIRONMENT SECURED FOR SAFETY.
+
+NEURO:  PT ALERT AND ORIENTED X 3.  QUITE INDEPENDENT- ABLE TO AMBULATE WITHOUT DIFFICULTY- STABLE GAIT.  HAS SPENT MOST OF THE EVENING ON THE PHONE- IN VERY GOOD SPIRITS.  PERRLA, 3/BRISK.  AFEBRILE. NO SEIZURE ACTIVITY NOTED.
+
+RR:  RA.  BBS= ESSENTIALLY CLEAR TO ALL LUNG FIELDS.  NO C/O SOB OR DIFFICULTY BREATHING.   RR 15-20.  SP02 > OR = TO 95%.  NO INCREASED WOB NOTED.  BILATERAL CHEST EXPANSION NOTED.
+
+CV:  S1 AND S2 AS PER AUSCULTATION.  NSR, HR 60-80'S WITH NO SIGNS OF ECTOPY NOTED.  PT CONTINUES TO BE HYPERTENSIVE WITH SBP IN THE 160-180'S.  PT HAS RECEIVED EXTREA DOSE OF HYDRALIZINE 10MG IVP, AND 5MG OF NORVASC.  PT DENIES ANY CHEST PAIN.  PALPABLE PULSES NOTED TO BILATERAL DORSALIS AND RADIALS.  RT SCL HD LINE IS SECURE AND INTACT.  
+
+GI:  ABD IS SOFT, NON-DISTENDED AND NON-TENDER TO PALPATION.  BS X 4 QUADRANTS.  RENAL DIET.  ABLE TO TOLERATE PO'S WITH NO C/O N,V,D.  PASSING FLATUS.  NO BM THIS SHIFT.  
+
+ENDO:  BLOOD SUGARS MORE STABLE TONIGHT.  ABLE TO CONTROL HIGH GLUCSE WITH SLIDING SCALE WITHOUT PT'S BOTTOMING OUT.  
+
+SOCIAL:  PT ON THE PHONE WITH FRIENDS AND FAMILY.
+
+INTEG:  W/D DRESSING TO LT HEEL IS SECURE AND INTACT. PT REQUESTED THAT DRESSING CHANGE BE DEFERRED SO HE ""COULD REST"".  NO SIGNS OF BREAKDOWN NOTED TO BACK OR BUTTOCKS.
+
+PLAN:  CALL OUT- AWAITING PRECAUTIONS BED.  CONTINUE TO MONITOR BLOOD SUGARS.  HD TODAY FOR 4 HOURS IF PT CAN TOLERATE.  PLEASE SEE FLOW SHEET AS NEEDED FOR ADDITIONAL INFORMATION.  THANK [**Doctor First Name **].
+",,
+8734,19891,10868,0,2880-01-13 04:50:00 EST,2880-01-13 06:00:00 EST,1267,"N",1,"Nursing/Other","admit note","
+admit note
+48 yo brought to ed today fro [**Hospital **] hospital following n/v increased glucose to 500, in ed some confusion and increased wbc, head ct negative, lp performed which was negative, 2 units ffp given prior to lp, coffee grounds from NGT hct stable.  transferred to unit bed for insulin gtt and q 1 hr fs monitoring.
+
+pt arrived to unit T 98 heart rate 83 bp 174/80, pt had no complaints of pain or discomfort at that time and FS was 344 for which he recieved 12 units sc regular insulin while nursing was waiting for insulin gtt from pharmacy.  
+
+at 2400, while micu resident was at bedside attempting blood gas- pt sudenlly exhibited heart rate 150, EKG was performed and rythm was founf to be SVT, 20 mg iv lopressor was given in total, attending Dr [**First Name8 (NamePattern2) **] [**Name (STitle) **] at bedside pt given 6 mg adensoine ivp by resident while attatched to cardioversio pads with defibrilator in room, pt broke svt for short period of time and was back in svt rate 140s, pt given 10 mg bolus iv dilt and dilt gtt started at 5 mg /hr pt now heart rate in 70s nsr, hydralazine 40 mh iv given for htn SBP 170s-180s
+
+endocrine: fs q 1 hr, insulin gtt [**First Name8 (NamePattern2) 34**] [**Last Name (un) **] diabetes center scale, FS overnight in 200s continuing to increase insulin gtt [**Name8 (MD) 34**] md orders, per Dr [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] hold glargine whiel on insulin gtt
+
+pt currently in bed sleeping with no c/o pain, vss, continuing to moniotr fs q 1 hr, pt is alert oriented X 3 , refusing bath and wants to ""get some [**Doctor Last Name 5**]"", but pleasant, skin appears intact, boot in room for recent foot fracture, low uo at baseline per pt, uo via foley cath 0-10 cc hr, no bm, kexcelate X 1 given overnight no bm, awaiting repleation orders from MICU service for mag repleation?, dilt gtt continues.
+
+plan: continue with insulin gtt follow fs closely, dilt gtt moniotor for svt,                        
+",,
+8734,19891,10868,0,2880-01-13 16:36:00 EST,2880-01-13 16:48:00 EST,600,"N",1,"Nursing/Other","STATUS","
+STATUS
+D: ON INSULIN & CARDIZAM GTT'S..ORIENTED FOLLOWS COMMANDS
+A: CK ISO'S SENT..SM AMT LOOSE BROWN STOOL X2 SENT FOR C-DIFF X1.. INSULIN GTT UP & DOWN OFF AT PRESENT..CARDIZAM GTT DC'D & STARTED ON PO..TOL PO LIQ WELL..FOLEY DC'D..TOL HD WELL..BLD CULT FROM PERMA CATH SENT BY DIALYSIS NURSE 
+R: STABLE
+P: WEAN OFF INSULIN GTT START BACK ON SLIDING SCALE & BED TIME DOSE.. MONITOR FREQ BS'S.. SEND STOOL FOR C-DIFF IF POSSIBLE..INCREASE DIET AS TOL 
+",,
+8734,19891,10868,0,2880-01-14 04:16:00 EST,2880-01-14 04:26:00 EST,7314,"N",1,"Nursing/Other","NPN 1900-0700:","
+NPN 1900-0700:
+Neuro: pt is alert, oriented x3, moving around, sleeps and awakens watching TV, at times dozing.
+
+Resp: Breathing regularly on RA, SPO2 95-100%, coughing, not expectorating, LS clear.
+
+CV: SR HR 60-75, BP 110-150/40-70, with 2 Lt peripheral Ivs and 1 rt peripheral IV and Hickman cath for dialysis. Received 1 unit RBCs for Hct 27.1 with no reaction, insulin drip started because bld glucose increased to 400s, tapered and then stopped and pt given Dextrose according to bld glucose level.
+
+Gi/GU: eating with very good appetite, asking frequently for food and drinks, abd  soft distended, passed Bowel movements, loose stool.
+
+Int: Skin integrity is intact, T max 98.3.
+
+
+",,
+8734,8925,10869,0,2880-03-27 02:56:00 EST,2880-03-27 03:24:00 EST,4200,"N",54,"Nursing/Other",,"
+
+Micu Acceptance Note and ROS
+
+48 yo male with hx of IDDM, ESRD on HD, Addison's disease, HTN, s/p MI who presents to MICU for insulin gtt and close glucose monitoring. Pt admitted [**2880-3-10**] with R ankle pain and was found to have a hairline fx of the R tibia. Ortho placed full leg cast and pt was dcd home with VNA. Readmitted on [**3-22**] after VNA noticed pus under R toes and an area of erythema over R lateral thigh. Ortho removed his cast and placed him on NWB. Also started on vanco for R thigh cellulitus and toe. Went to the OR on [**3-26**] for placement of tibial rod to R tibial fx. Placed on stress dose steroids [**First Name8 (NamePattern2) 34**] [**Last Name (un) 30**] due to the stress of the OR. BS elevated to 195. [**First Name8 (NamePattern2) **] [**Last Name (un) 30**], pt should be managed with an insulin drip to better control BS. 
+
+Neuro - Oriented x 3. Sleepy but easily arousable. Given one percocet for knee discomfort with good pain relief.
+
+Resp - LS clear, diminished at bases. RR 10-15. 02 sat 96-98 on RA. c/o dry cough. Given dextromethorpan guafenesin cough medicine with improvement.
+
+C-V - HR 60-78 NSR. NBP 120-170/60's. Pt with baseline HTN. Managed with diltiazem, labetalol, hydralazine. + Doppler pedal pulses. Feet warm, able to wiggle toes, decreased sensation d/t neuropathy. Non-wt bearing RLE. Knee immobilizer on at all times. Ortho to change dssg. To start hep sq prophylaxis this am. Pneumoboot on LLE.
+
+GI - Abd soft. +BS. Ate low na diet in RR. Vomited ~100ccs undigested food ~ 1 am - ? percocet caused GI upset. Rx with 10 mg compazine iv with relief of n/v. 
+
+F/E - Pt on HD Sat/Tues/Thurs. Voids sm amts of urine occasionally. Voided 100ccs clear yellow urine x 1.
+
+Endo - See careview for FS recordings. Insulin drip held x 3 hrs for BS < 130, currently infusing at 3 units/hr. Also rx with fixed dose of 16 units glargine insulin qhs. Pt on stress dose steroids for Addisons, but plan is to taper to 25 mg iv q8hrs. Hypothyroidism managed with levothyroxine. 
+
+ID - Afeb. R thigh cellulitus rx with vanco which is dosed by level.
+
+Access - Quinton cath RSC, RLA #20, RLP #20.
+
+Social - Pt called sister and left a message on her answering machine that he was admitted to the MICU. Brother reportedly is HCP.  
+
+A+P - Continue to assess efficacy of pain mgt. Keep knee immobilizer on RLE, monitor CSM. Follow BS closely, titrate drip [**First Name8 (NamePattern2) 34**] [**Last Name (un) 6138**] recommendations. 
+
+
+
+",,
+8734,8925,10869,0,2880-03-27 06:25:00 EST,2880-03-27 06:27:00 EST,4200,"N",54,"Nursing/Other",,"
+
+Addendum - K 5.6. MD notified. EKG taken - ? slightly elevated T waves baseline. Will repeat serum K. BS again dropped to 75 - insulin drip held - will not resume drip unless BS > 150.
+",,
+8734,8925,10869,0,2880-03-27 21:08:00 EST,2880-03-27 21:13:00 EST,3269,"N",54,"Nursing/Other","micu npn 7p-9p","
+micu npn 7p-9p
+
+   pt had an uneventful dialysis treatment, finishing at 2040. antihypertensives were held during dialysis while his sbp ranged 110-130's. hr 50's, sb with no noted ectopy. he c/o some slight right knee pain and received tylenol w/the desired effect. he can be oob to the chair as long as he does not bear weight on the right leg. he is able to pivot with the left leg.
+",,

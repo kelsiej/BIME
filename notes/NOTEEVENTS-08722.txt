@@ -1,0 +1,1017 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8722,,,,2557-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-3**] 6:55 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10192**]
+     Reason: r/o pleural effusion
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with CA and recent pleural effusion and thoracentesis last
+      week now with increasing O2 requirement and dyspnea
+     REASON FOR THIS EXAMINATION:
+      r/o pleural effusion
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Cancer and recent pleural effusion with thoracentesis. Now with
+     increasing O2 requirement and dyspnea.
+     
+     COMPARISON: None.
+     
+     FINDINGS: There is a large right pleural effusion which obscures the right
+     hemidiaphragm contour. There may be a small left pleural effusion. There is
+     prominence of the right upper mediastinum. Compressive atelectasis is likely
+     in the right upper lobe.  A patchy density at the left base is nonspecific and
+     may represent a nodule.  Right-sided PICC line is noted with tip in the upper
+     SVC. The bones are grossly unremarkable.
+     
+     IMPRESSION: Moderate-to-large right pleural effusion. Prior studies required
+     for comparison of left base apparent nodular opacity.
+
+",,
+8722,,,,2557-05-03 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-3**] 8:56 PM
+     ABDOMEN (SUPINE & ERECT)                                        Clip # [**Clip Number (Radiology) 10193**]
+     Reason: 46 yo f with metastatic melanoma with abd distension. r/o as
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with above
+     REASON FOR THIS EXAMINATION:
+      46 yo f with metastatic melanoma with abd distension. r/o ascites, ileus,
+      obstruction
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  Metastatic disease with abdominal distension.  ? ascites or
+     obstruction or ileus.
+     
+     SUPINE AND UPRIGHT ABDOMEN without comparisons, demonstrate a non-obstructive
+     bowel gas pattern.  There is stool in the right colon.  There are no
+     abnormal calcifications noted.  There is mild dextroscoliosis of the mid-
+     lumbar spine.  The visualized osseous structures are otherwise, unremarkable.
+     
+     IMPRESSION: No definite evidence of ascites.  Non-specific/non-obstructive
+     bowel gas pattern.
+     
+     
+
+",,
+8722,4874,,,2557-05-04 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2557-5-4**]     Discharge Date:  [**2557-5-9**]
+
+Date of Birth:   [**2511-5-12**]     Sex:  F
+
+Service:  [**Hospital Ward Name **] ICU
+
+HISTORY OF PRESENT ILLNESS:  The patient is a 45 year-old
+female with a past medical history significant for metastatic
+melanoma to the lung, liver, pancreas and bone who presents
+from [**Hospital 436**] Rehab with dyspnea.  She had a pleural tap one
+and a half weeks prior to this admission at [**Hospital3 5473**]
+[**Hospital3 **] when 650 cc of fluid was removed.  On admission here
+the patient denies fever.  However, she did admit to
+increased dyspnea over the past week.  She had also been
+complaining of severe baseline constipation for which she
+uses Fleet enemas every other day.  Her last bowel movement
+was two days ago.  She stated that her abdomen yesterday was
+not as distended as usual.  She admits to fevers, shaking
+chills, which started at 4:00 p.m. on the day of admission.
+She felt that the right side of her chest was tender to
+palpation and that it was difficult to take in a deep breath.
+
+The patient arrived to [**Hospital1 75**]
+Emergency Room on the morning of admission when she had a
+chest x-ray showing a large right sided pleural effusion.
+Her initial vital signs in the Emergency Room were
+temperature 99, blood pressure 104/30, heart rate 125,
+respiratory rate 21, oxygen saturation 95% on 6 liters nasal
+cannula.  A pleurocentesis was performed in the Emergency
+Room, yielding 1000 cc of bloody fluid, with a post procedure
+chest x-ray showing decreased size in the effusion and no
+pneumothorax.  The patient was then transferred to the floor
+on the Oncology Service for further monitoring.  At about
+3:30 p.m. on the day of admission the Intensive Care Unit
+team was called to see the patient secondary to decreased
+oxygen saturations.  (On arrival to the floor the patient was
+sating 96% on 6 liters after which she proceeded to have
+undetectable oxygen saturations).  Her blood pressure was
+undetectable, whereas on arrival to the floor her blood
+pressure is 110/62.  She had increased work of breathing with
+shallow breaths.  The patient was mentating sufficiently to
+answer questions.  Anesthesia was called and the patient was
+electively intubated for airway protection.  An arterial
+blood gas performed prior to intubation with dagging was pH
+7.22, PCO2 54, oxygen saturation PAO2 465.  A neo-synephrine
+drip was started with an increase in her blood pressure to
+systolic in the 70s.  An echocardiogram done at the bedside
+prior to transfer to the unit showed right ventricular
+dilatation with mild to moderate right ventricular free wall
+hypokinesis.  The patient was subsequently transferred to the
+[**Hospital Ward Name 3113**] Intensive Care Unit for further monitoring.
+
+On transfer to the Intensive Care Unit the patient had been
+intubated and on a neo-synephrine drip with intravenous
+normal saline running wide open through a femoral line and a
+PICC line.  The patient remained hypotensive despite
+titrating up the neo-synephrine to 2.45 micrograms per
+kilogram per minute.  An arterial blood gas done after
+intubation on assist control with tidal volume 400,
+respiratory rate of 20, FIO2 of 100% was pH 7.38, PCO2 33,
+PAO2 410.  A hematocrit done on the arterial blood gas was
+18, with a repeat CBC showing a hematocrit of 14 with an INR
+of 1.3.  Her anemia was thought to be secondary to her
+hemothorax given the increased effusion on her chest x-ray
+and recent intervention.  Cardiothoracic surgery was
+consulted and a right sided chest tube was placed, which
+drain 2 liters of dark bloody fluid.  The patient persisted
+to be hypotensive.  During the initial part of her Intensive
+Care Unit stay she received a total of 10 units of packed red
+blood cells, 11 liters of intravenous normal saline.
+
+On her laboratory examinations she was noted to be slightly
+more coagulopathic with her INR rising from 1.3 to 1.9, PTT
+increasing from 27 to 35 and fibrinogen of 93 with a D-dimer
+greater than 2000.  The patient was felt to be in DIC
+secondary to a consumptive coagulopathy secondary to
+............ of her coagulation factor and the large
+collection of blood in her pleural space as well as a
+dilutional coagulopathy secondary to intravenous fluid
+resuscitation with large amounts of intravenous normal
+saline. The patient subsequently received four bags of fresh
+frozen platelets and two bags of platelets.  A repeat
+arterial blood gas after resuscitation with fluid and blood
+products was pH 6.96, PCO2 68, PO2 124.  She was thought to
+have a respiratory acidosis and a dilutional anion gap
+metabolic acidosis secondary to large amounts of intravenous
+normal saline.
+
+Her ventilator settings were changed to increase her
+respiratory rate to 34 to allow increased ventilation after
+which her arterial blood gas improved to a pH of 7.1, PCO2 of
+37, PO2 of 194.  The patient was given two amps of sodium
+bicarb after which her pH increased to 7.27 and then 7.33.
+After receiving 10 units of packed red blood cells, her
+hematocrit increased to 36.  Her blood pressure then improved
+to systolics between 120 and 140.  Her peak inspiratory
+pressures increased to 50 with a plateau pressure of 40 and
+auto PEEP of 12.  A bronchoscopy was performed on the day of
+transfer to the MICU showing some degree of airway edema,
+erythematous and hemorrhagic mucosa.  Her systolic blood
+pressure subsequently increased to 200.  Her sedation was
+subsequently increased along with her paralytics with a
+slight decrease in her blood pressure and peak inspiratory
+pressures.  Lasix 20 mg intravenous was given after which the
+patient diuresed 1 liter and her peak inspiratory pressures
+decreased to 35 to 40 and her systolic blood pressure
+decreased to high 90s.
+
+PAST MEDICAL HISTORY:
+1.  Melanoma diagnosed in [**2545**].  Her melanoma was initially
+located on her left scapula.  In [**2556-11-21**] she had
+hemoptysis.  In [**2557-2-19**] a PET scan showed metastasis to
+the lung, sternum, left humerus, three lumbar vertebra, left
+proximal femur, liver and nodal metastasis.  A chest CT
+performed in [**2557-2-19**] showed a region in the right hilum
+with associated adenopathy.  On [**2557-3-9**] bronchoscopy
+with biopsy revealed malignant melanoma.  On [**2557-3-10**]
+the patient was started on palliative radiation therapy to
+her spine.
+2.  L3 compression fracture.
+3.  Allergic rhinitis.
+4.  Asthma.
+5.  Malignant hypercalcemia treated with Pamidronate.
+
+MEDICATIONS ON ADMISSION:
+1.  Heparin 5000 units subq b.i.d.
+2.  Albuterol and Atrovent meter dose inhalers q.i.d.
+3.  Flovent 110 micrograms two puffs q.d.
+4.  Serevent 25 micrograms two puffs b.i.d.
+5.  Fentanyl patch 125 micrograms q 72 hours.
+6.  Lactulose 30 cc po q.i.d.
+7.  Prevacid 15 mg po q.d.
+8.  Levofloxacin 500 mg po q.d.
+9.  Reglan 10 mg intravenous q.i.d.
+10.  Vioxx 25 mg po q.d.
+11.  Morphine PCA.
+12.  Scopolamine patch.
+13.  Ambien prn.
+14.  Dilaudid 1 to 4 mg intravenous q 3 to 4 hours prn.
+15.  Oxycodone 5 to 20 mg po q 3 hours.
+16.  Ibuprofen 600 mg q 8 hours prn.
+
+ALLERGIES:  Sulfa and Penicillin cause a rash.
+
+FAMILY HISTORY:  Father had prostate cancer.  Uncle had a
+thoracic malignancy.
+
+SOCIAL HISTORY:  The patient is married and has two twin
+children.  One son is autistic.  She is a dietitian in
+[**Hospital1 51**].  She denies tobacco use.
+
+PHYSICAL EXAMINATION ON TRANSFER TO THE INTENSIVE CARE UNIT:
+Temperature 98.  Blood pressure 111/85.  Heart rate 110.
+Respiratory rate 24.  Oxygen saturation 100% on AC with tidal
+volume of 400, respiratory rate of 20, PEEP of 5, FIO2 of
+100%.  General, the patient was intubated and awake
+responding to questions with nodding and shaking her head.
+Head and neck examination pupils are equal, round and
+reactive to light.  Sclera anicteric.  Oropharynx is clear.
+Cardiac examination normal S1 and S2.  Tachycardic.  No
+murmurs, rubs or gallops.  Lungs decreased breath sounds
+throughout the right lung anteriorly, left lung was clear to
+auscultation.  Abdomen slightly tense and distended with mild
+left lower quadrant tenderness.  There were decreased breath
+sounds throughout.  Extremities 2+ edema bilaterally to the
+knees.  Neurological examination full range of motion in all
+four extremities.
+
+LABORATORY EXAMINATIONS ON ADMISSION:  White blood cell count
+4, hematocrit 29.4, platelets 82, sodium 127, potassium 4.1,
+chloride 94, bicarbonate 23, BUN 12, creatinine 0.4, glucose
+110.  PT 14.1, PTT 27.1, INR 1.3, calcium 7.4, magnesium 1.5,
+phosphorus 1.8, erythrocyte sedimentation rate 61, ALT 95,
+AST 160, LD 1220, alkaline phosphatase 556, amylase 16,
+lipase 16, pleural fluid with 325 white blood cells, 737,500
+red blood cells, 65% polys, 3% bands, 21% lymphocytes, 4.1
+protein, glucose 52 and LD 805.  Gram stain of pleural fluid
+without any polys or microorganisms.  Fluid culture pending.
+Arterial blood gas on the above ventilator settings were pH
+7.22, PCO2 54, O2 465.
+
+IMAGING:  Chest x-ray on transfer to the Intensive Care Unit
+showing interval enlargement of right pleural effusion with
+only a small amount of residual aerated right lung.
+Endotracheal tube was at the level of the carina.  There was
+interval improvement in aeration in the left lower lung.
+There were left lower lung nodules consistent with metastatic
+disease.  Electrocardiogram showing sinus tachycardia at 120
+beats per minute, normal axis and intervals, T wave
+flattening in 3, AVL and V2.
+
+HOSPITAL COURSE:  This is a 45 year-old female with a history
+of metastatic melanoma to the spine, lungs, liver, pancrease,
+presenting with increased dyspnea from [**Hospital3 **].  She
+was found to have a recurrent large right pleural effusion
+status post pleurocentesis with removal of 2 liters of fluid
+about one and a half weeks ago.  She is status post recurrent
+pleurocentesis today with removal of 1 liter of bloody fluid.
+The patient was found to be hemodynamically unstable several
+hours after her pleurocentesis with hypotension, shallow and
+labored breathing.  A repeat chest x-ray showed increased
+size of her pleural effusion after her tap, a 14 point drop
+in her hematocrit.  Her hypotension and respiratory distress
+were likely secondary to blood loss and hemothorax as a
+complication of her procedure.  The patient was also found to
+be increasing coagulopathic likely secondary to consumption
+of her coagulation factors by large collection of blood in
+her thorax as well as a dilutional coagulopathy secondary to
+resuscitation with large amounts of bicarbonate free fluid.
+After stabilization in the Intensive Care Unit, the patient
+was hemodynamically stable after chest tube placement and
+resuscitation with blood products and intravenous fluids.
+
+1.  Hypotension:  The patient was initially hypotensive
+secondary to massive blood loss likely secondary to
+distributive shock.  However, septic shock was also a
+contributing factor, given that the patient was
+immunocompromised and reported rigors and chills with fevers
+on admission.  The patient was resuscitated with 10 units of
+packed red blood cells and 11 liters of intravenous normal
+saline.  She was initially placed on a neo-synephrine drip,
+which was quickly titrated off and the patient subsequently
+never needed pressors during her Intensive Care Unit stay.
+She was also placed on broad spectrum antibiotics with
+intravenous Levaquin, Flagyl and Vancomycin to cover for the
+possibility of septic shock.  The patient had intermittent
+episodes of hypotension with systolic blood pressures into
+the 70s, which responded well to intravenous fluid boluses.
+Toward the end of her Intensive Care Unit stay it was decided
+not to administer any more intravenous fluid boluses as the
+patient was becoming increasingly edematous, which was
+decreasing her chest wall compliance and impairing
+ventilation.
+
+2.  Respiratory failure:  The patient was initially
+hypercarbic respiratory failure.  She was placed on AC
+ventilation initially with intermittent increased CO2 levels,
+which corrected with increasing respiratory rate on the
+ventilator settings.  During her hospital stay the patient
+was noted to have increased peak inspiratory pressures.  A
+transesophageal balloon was transduced revealing that her
+increased peak inspiratory pressures were likely secondary to
+extrinsic compression secondary to her increased abdominal
+distention and decreased chest wall compliance secondary to
+chest wall edema from massive fluid resuscitation.  Her PEEP
+was increased to 20 to allow for increased alveolar
+recruitment.  On increasing her PEEP to 25 her systolic blood
+pressure dropped into the 60s.  Therefore her positive end
+expiratory pressure was maintained at 20.  The patient was
+not sent down for a CT angiogram to evaluate for a pulmonary
+embolism as she was deemed to be too unstable to go to the CT
+scanner.  Her FIO2 was weaned from 100% to 40% with stable
+oxygenation.  It was decided not to treat her with Lasix for
+her total body volume overload as she was felt to have leaky
+capillary secondary to an inflammatory response.  She was
+allowed to autodiurese.  Toward the end of her hospital stay
+she started stooling with decreased abdominal distention.
+
+The patient was finally tried on pressure support of 15 with
+a PEEP of 5 and failed.  She was then changed back to assist
+control ventilation.  On [**5-9**] the patient's ventilator
+alarm secondary to high pressures.  Her airways were
+suctioned with removal of blood from her airway.  She was
+bagged without success.  Her vital signs rapidly deteriorated
+over the next one to two minutes.  A respiratory therapist
+was unable to ventilate the patient.  She subsequently became
+asystolic on monitor with no pulse.  She passed away at 12:32
+a.m. on [**5-9**].
+
+3.  Renal:  The patient had stable renal function with good
+urine output throughout her Intensive Care Unit stay.
+
+4.  Infectious disease:  The patient reported fevers and
+chills at rehab with a bandemia on admission.  She
+subsequently had decreased white blood cell count suggestive
+of sepsis versus dilutional secondary to massive fluid
+resuscitation.  She grew out one out of two bottles positive
+for gram positive cocci in pairs and clusters.  Possible
+sources for sepsis included her pleural effusion, a hidden
+infiltrate or pneumonia under her effusion, versus an
+abdominal source given her obstipation and potential feeding
+of bowel.  An abdominal ultrasound was done, which showed no
+ascites.  The patient was covered broadly with antibiotics
+with Vancomycin, Levaquin and Flagyl.  She was followed
+closely for emerging sources of infection.  Toward the end of
+her hospital stay she spiked high temperatures to 103 and
+104.  Potential sources were thought to be her left femoral
+line, which was removed.  It was decided to not further
+broaden her antibiotic coverage and to follow surveillance
+culture results and treat accordingly.  She was given Tylenol
+prn for her fevers.
+
+5.  Gastrointestinal:  The patient had abdominal distention
+and tenderness on admission.  She had no bowel movements in
+two days.  An initial KUB showed a nonspecific bowel gas
+pattern.  She could not be sent for an abdominal CT as she
+was thought to be too unstable.  She was broadly covered with
+Vanco, Levo and Flagyl to cover a possible abdominal sources
+for sepsis.  She was started on a bowel regimen and
+eventually started stooling toward the end of her Intensive
+Care Unit stay.  She was placed on an nasogastric tube to
+suction.
+
+6.  Hematology:  The patient was initial anemic secondary to
+blood loss and coagulopathic secondary to consumption by
+large amount of sequestered blood in her thorax as well as
+dilution secondary to massive fluid resuscitation.  The
+decrease in her white blood cell count was also thought to be
+secondary to sepsis versus dilutional.  The patient's
+hematocrit remained stable after initial resuscitation with
+blood products.  Her coagulopathy improved, but persisted.
+The patient transferred her oncology care from [**Hospital1 84**] to [**Hospital1 184**] secondary to dissatisfaction
+with care.  Her current oncologist was Dr. [**Last Name (STitle) 645**] at the [**Hospital1 184**] who frequently came to visit
+the patient during her Intensive Care Unit stay.
+
+7.  Endocrine:  A.M. Cortisol level was checked and was 29
+ruling out adrenal insufficiency as a cause of her
+hypotension.
+
+8.  Fluids, electrolytes and nutrition:  A Swan-Ganz catheter
+was placed to assess hemodynamics revealing increased
+pulmonary artery pressures to 50/30, pulmonary capillary
+wedge pressure of 22, with a cardiac output of 6 and cardiac
+index of 3 and SVR of 665 indicating that the patient was
+retaining sufficient fluid in her intravascular space, but
+was still demonstrating ............ physiology secondary to
+a systemic inflammatory response.  She initially had a
+nonanion gap metabolic acidosis, which was likely dilutional.
+Her acidosis subsequently improved.  She was initially
+treated with 2 amps of sodium bicarbonate.  She was also
+hypocalcemic initially secondary to massive resuscitation
+with blood products.  Her electrolytes were repleted as
+needed.
+
+9.  Code status:  The patient was initially a full code.
+Frequent family discussions were held with the family, and
+they continued to understand the grave prognosis of the
+patient.  However, they maintained that they wanted at all
+times everything possible to be done for her.  Furthermore
+they suggested that they wished for things to take their
+natural course as well.  Toward the end of her hospital stay
+they decided that they did not want any pressors, CPR or
+defibrillation or ventilator changes.  The patient passed
+away on [**2557-5-9**].
+
+
+
+
+
+
+                    DR.[**Last Name (STitle) **],[**First Name3 (LF) 1601**] 12-761 
+
+Dictated By:[**Name8 (MD) 3417**]
+
+MEDQUIST36
+
+D:  [**2557-8-24**]  06:30
+T:  [**2557-8-25**]  10:28
+JOB#:  [**Job Number 12127**]
+Signed electronically by: DR. [**First Name (STitle) 1601**] [**Doctor Last Name **]
+ on: MON [**2557-8-29**] 9:02 AM
+(End of Report)
+
+
+",,
+8722,4874,,,2557-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-4**] 11:02 PM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 10198**]
+     Reason: Pt with increasing abdominal distension.  Pt unable to sit u
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with metastatic melanoma with hemothorax now intubated and 
+      sedated on pressor support
+     REASON FOR THIS EXAMINATION:
+      Pt with increasing abdominal distension.  Pt unable to sit upright.  Please 
+      evaluate with crosstable lateral KUB
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE FILM:
+     
+     HISTORY: Metastatic melanoma and increasing abdominal distention.
+     
+     Single cross table lateral kub.
+     
+     No evidence of free intraperitoneal gas.
+
+",,
+8722,4874,,,2557-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-4**] 4:08 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10195**]
+     Reason: r/o infiltrate, pneumothorax, worsening effusion            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with malignant effusion s/p thoracentesis (right side) now 
+      with BP 38/24
+     REASON FOR THIS EXAMINATION:
+      r/o infiltrate, pneumothorax, worsening effusion                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Malignant effusion, S/P right thoracentesis.  Now with blood
+     pressure 38/24.  Rule out infiltrate, pneumothorax, or worsening effusion.
+     
+     COMPARISON:  [**2557-5-3**] and [**2557-5-4**] at 10:38AM.
+     
+     SINGLE VIEW CHEST:  An endotracheal tube has been placed in the interval,
+     which terminates at the level of the carina.  This should be withdrawn by [**1-24**]
+     cm.  The right PICC terminates in the SVC. No pneumothorax.  The right pleural
+     effusion has markedly increased in size from the prior exam, with a small
+     amount of aerated right lung remaining.  There has been interval improvement
+     in the aeration of the left lower lobe, with decrease in the size of the left
+     pleural effusion. There remains multiple nodules overlying the left lower
+     lobe, consistent with metastases.
+     
+     IMPRESSION:  Rapid interval enlargement right pleural effusion. Hemothorax
+     cannot be excluded with recent history of thoracentesis. Endotracheal tube is
+     at the level of the carina (low lying). Interval improvement in the aeration
+     of the left lower lobe and probable decrease left effusion. Metastatic lung
+     disease.
+     
+
+",,
+8722,4874,,,2557-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-4**] 10:30 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10194**]
+     Reason: eval for ptx
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with malignant effusion s/p thoracentesis (right side)
+     REASON FOR THIS EXAMINATION:
+      eval for ptx
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Status post thoracentesis.  Assess for pneumothorax.
+     
+     COMPARISON:  [**2557-5-3**].
+     
+     FINDINGS:  Right-sided PICC line is again noted.  There is no pneumothorax.
+     The right-sided pleural effusion has decreased slightly in the interval.
+     Comparessive atelectasis persists in the right middle and lower lobes.
+     Several rounded nodular opacities are more evident at the left base, likely
+     representing metastasis.  There is a small left pleural effusion.  Left lower
+     lobe consolidation and/or collapse is also present.
+     
+     IMPRESSION:  No pneumothorax.
+
+",,
+8722,4874,,,2557-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-4**] 8:49 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10197**]
+     Reason: Pt intubated, s/p R chest tube placement.  Please evaluate s
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       45 year old woman with malignant effusion s/p thoracentesis (right side) now  
+      with BP 38/24
+     REASON FOR THIS EXAMINATION:
+      Pt intubated, s/p R chest tube placement.  Please evaluate size of effusion, 
+      chest tube placement
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     CHEST SINGLE AP FILM
+     
+     HISTORY:  Thoracentesis of right pleural effusion and right chest tube
+     placement.
+     
+     Endotracheal tube is at the carina and too low for optimal position. NG tube
+     is in stomach. PIC line is in brachiocephalic vein. There is a persistent
+     large right pleural effusion with slight shift of the heart to left. The
+     effusion obscures the underlying lung on the supine film. Multiple nodular
+     densities consistent with pulmonary metastases are again demonstrated in the
+     left lung.
+     
+     IMPRESSION:  No pneumothorax. Persistent large right pleural effusion with
+     some shift of heart to left. Endotracheal tube too low for optimal location.
+
+",,
+8722,4874,,,2557-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-4**] 6:56 PM
+     BILAT LOWER EXT VEINS PORT; US ABD LIMIT, SINGLE ORGAN          Clip # [**Clip Number (Radiology) 10196**]
+     Reason: Pt with hypotension, hypoxia intubated on pressors.  Echo wt
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with metastatic melanoma                                      
+     REASON FOR THIS EXAMINATION:
+      Pt with hypotension, hypoxia intubated on pressors.  Echo wtih RV hypokinesis.  
+      High suspicion for PE.  Pt too unstable to go down for CT angio chest.  Please 
+      evaluate b/l LE for DVT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic melanoma, hypotension, hypoxia, on pressors.  High
+     suspicion for PE.  Patient too unstable to go down for CT.  Evaluate for DVT.
+     Also assess for ascites.
+     
+     BILATERAL LOWER EXTREMITY VENOUS ULTRASOUND:  [**Doctor Last Name **] scale and Doppler sonograms
+     of both common femoral, superficial femoral, and popliteal veins were
+     performed.  Normal flow, augmentation, compressibility, and wave forms are
+     demonstrated.  Intraluminal thrombus is not identified.
+     
+     ABDOMINAL ULTRASOUND:  A very limited study was performed due to the patient's
+     poor clinical status.  Evaluation of all four abdominal quadrants reveals no
+     evidence for ascites.  Pleural fluid is identified on the right (labelled
+     SAG RUQ, though this was taken intercostally).
+     
+     IMPRESSION:
+     1.  No evidence for DVT.
+     2.  Very limited evaluation of the abdomen.  No significant ascites.
+     3.  Right pleural effusion.
+
+",,
+8722,4874,,,2557-05-04 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-4**] 6:56 PM
+     BILAT LOWER EXT VEINS PORT; US ABD LIMIT, SINGLE ORGAN          Clip # [**Clip Number (Radiology) 10196**]
+     Reason: Pt with hypotension, hypoxia intubated on pressors.  Echo wt
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 year old woman with metastatic melanoma                                      
+     REASON FOR THIS EXAMINATION:
+      Pt with hypotension, hypoxia intubated on pressors.  Echo wtih RV hypokinesis.  
+      High suspicion for PE.  Pt too unstable to go down for CT angio chest.  Please 
+      evaluate b/l LE for DVT
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic melanoma, hypotension, hypoxia, on pressors.  High
+     suspicion for PE.  Patient too unstable to go down for CT.  Evaluate for DVT.
+     Also assess for ascites.
+     
+     BILATERAL LOWER EXTREMITY VENOUS ULTRASOUND:  [**Doctor Last Name **] scale and Doppler sonograms
+     of both common femoral, superficial femoral, and popliteal veins were
+     performed.  Normal flow, augmentation, compressibility, and wave forms are
+     demonstrated.  Intraluminal thrombus is not identified.
+     
+     ABDOMINAL ULTRASOUND:  A very limited study was performed due to the patient's
+     poor clinical status.  Evaluation of all four abdominal quadrants reveals no
+     evidence for ascites.  Pleural fluid is identified on the right (labelled
+     SAG RUQ, though this was taken intercostally).
+     
+     IMPRESSION:
+     1.  No evidence for DVT.
+     2.  Very limited evaluation of the abdomen.  No significant ascites.
+     3.  Right pleural effusion.
+
+",,
+8722,4874,10851,0,2557-05-04 17:38:00 EST,2557-05-04 17:40:00 EST,102,"N",69,"Nursing/Other",,"
+
+Resp Care
+assisted Anesthesia with intubation on [**Hospital Ward Name **] 5, transported to icu and placed on ac 400x20x100%/5 peep. able to wean fio2 to 40%. briefly attempted psv mode with attending present..pt unable to tolerate without higher levels. pips/plat 31/27. (poor compliance...pl eff's,dist abd.). sxned sm amts bld tinged secretions. pt relatively comfortable on ac mode. awaiting transport to ct. 
+",,
+8722,4874,10851,0,2557-05-04 18:40:00 EST,2557-05-04 18:53:00 EST,959,"N",69,"Nursing/Other","M/SICU NURSING PROGRESS NOTE.","
+M/SICU NURSING PROGRESS NOTE.
+    SEE CAREVIEW FOR OBJECTIVE DATA.
+
+    Opens eyes spontaneously, able to indicate discomfort, reported that she did not want tube in throat, appears alert and able to make needs known.  Reports that she wants tube with husband present in room.  Will follow simple commands, moves extrem. with purpose, restraints applied for safety.  Propofol for sedation at 10 mcg/kg/min.  Temp. max 98.0 rectal.
+    Lung sounds are clear in upper fields, coarse in lower fields bilat.  Ventilator settings per careview.  Suctioned for sm amts thick tan.  O2 sarturation 98-100% on present ventilator settings.
+    Sinus tachycardia with no ectopy noted, rate 100's to 120.  Nbp in 70's to 100's.  Neo at 2 mcg/kg/min. Iv ns fluids wide open.  
+    Abdomen firm with hypoactive bs.  No stool.  OGt placed, good placement by auscultation, draining brown gastrocult + fluid.  Foley catheter patent and draining clear amber urine.
+    Husband in with pt frequently, asking lots of questions, very positive attitude. 
+",,
+8722,4874,10851,,2557-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-5**] 1:40 AM
+     PORTABLE ABDOMEN                                                Clip # [**Clip Number (Radiology) 10199**]
+     Reason: Please evaluate for SBO, free air under diaphragm           
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       45 year old woman with metastatic melanoma with hemothorax now intubated and  
+      sedated on pressor support
+     REASON FOR THIS EXAMINATION:
+      Please evaluate for SBO, free air under diaphragm                               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     ABDOMEN SINGLE FILM:
+     
+     HISTORY: Metastatic melanoma and abdominal distention.
+     
+     NG tube is in body of stomach. There is gas present throughout the colon.
+     Cannot rule out left upper quadrant soft tissue mass on this film.
+
+",,
+8722,4874,10851,,2557-05-05 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-5**] 11:33 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10200**]
+     Reason: 46-y.o.F with hemothorax s/p chest tube placement.  Please r
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        45 year old woman with malignant effusion s/p thoracentesis (right side) now 
+      with hemothorax, chest tube placement
+     REASON FOR THIS EXAMINATION:
+      46-y.o.F with hemothorax s/p chest tube placement.  Please reevaluate size of 
+      effusion, chest tube placemnt
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45 y/o woman with malignant effusions. Status post thoracentesis on
+     the right side. Now with hemothorax and chest tube placement.
+     
+     COMPARISONS: [**2557-5-4**]
+     
+     PORTABLE CHEST:  The endotracheal tube has been drawn back and is located at
+     the thoracic inlet.  There is a right subclavian swan ganz catheter with its
+     tip in the right pulmonary artery.  There is a right sided PICC line in
+     satisfactory position.  There s a right sided chest tube present. There has
+     been decrease in size of a right sided pleural effusion.  There is also a left
+     sided effusion.  There is multiple nodular densities consistent with
+     metastases seen in the left lung.  There is no pneumothorax seen.
+     
+     IMPRESSION:
+     
+     1) No pneumothorax.
+     2) Bilateral pleural effusions greater on the right than left. There has been
+     interval decrease in size of the right effusion.
+
+",,
+8722,4874,10851,0,2557-05-05 04:01:00 EST,2557-05-05 04:59:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NURSING MICU MOTE 7P-7A
+
+PT HAD A POOR NIGHT. AT 1920 PT HAD HCT OF 14. PT WAS FOUND TO BE BLEEDING INTO RIGHT PLEURAL SPACE. CT PLACED IN RIGHT CHEST, IMMEDIATELY DRAINED 2000CC DARK RED BLOOD. PT IN DIC, DILUTIONAL COAGULATION AND ACIDOSIS, HYPOTHERMIA, HEMORRHAGIC SHOCK. PT RESUSCITATED W/ TOTAL 12L NS, 10UNITS PRBC'S, 4UNITS FFP, 2 PLATLETS, AND 1 CRYO. PT WAS SEDATED AND PARALYZED FOR INCREASE IN VENTILATION.
+PT FAMILY UPDATED BY ATTENDING AND SURGERY LAST NIGHT. HUSBAND IS AWARE OF GRAVE SITUATION. 
+
+NEURO: RECEIVED PT SEDATED ON PROPOFOL AT 10MCG. AS PT BECAME MORE UNSTABLE PROPOFOL AS HIGH AS 100MCG, PT GIVEN VEC 10MGX2 FOR VENTILATION PURPOSES. PT WAS WEANED OFF PROPOFOL, STARTED ON FENTANYL GTT AND ATIVAN GTT. PT WAS ALSO STARTED ON CISATRACURIUM 1MG/KG/HR DUE TO DIFFICULTY TO VENTILATE. PT ALSO CURRENTLY ON 250MCG/KG/HR FENTANYL AND ATIVAN 3MG/HR. PUPILS 2MM SLUGGISH. NO MVT, NO RESPONSE. 
+
+RESP: PT CURRENTLY ON AC 400X26 PEEP10, 100%. O2 SATS 92-99%. AT 2200 ETT PULLED BACK 2CM. PT STARTED TO DESAT TO 79%, DIFFICULT TO BAG. PT WAS PARALYZED W/GOOD EFFECT. AFTER ALINE PLACEMENT, ABG 6.96/68/124/-18/17. VENT CHANGES WHERE MADE, PT WAS GIVEN 2AMPS BICARB. DUE TO HIGH PIP'S AND CONT DIFFICULT TO VENTILATE, PT HAD BRONCHOSCOPY. MD WAS CHECKING ETT PLACEMENT AND PATENCE OF AIRWAY. MD DID NOT SCOPE INTO LOBES AT THAT TIME. ETT WAS INPLACE, NO BLOCKAGE. LS COARSE. MINIMAL SECREATION, DARK BLOOD TINGED. PT HAD BIT TONGUE, MOUTH EARLIER IN EVENING. MOUTH AND NOSE BLOODY. 
+
+CV: HR 50-130'S NS, OCCASIONAL PVC'S. PT RECEIVED ON NEO AT 2MCG/KG/HR. 1920 HCT BACK AT 14 FROM 18. SURGERY PLACED RIGHT SUBCLAVIAN CORDUS, RIGHT CHEST TUBE AND LEFT DP ALINE. PT WAS RESUSCITATED W/ TOTAL 12L NS, 10 UNITS PRBC'S, 4 FFP, 2 PLATLETS, 1 CRYO. ALL GIVEN VIA WARMER LEVEL 1. TOTAL 10GM CA, 2GM MAG, 2 AMPS BICARB. CT IN RIGHT CHEST, IMMEDIATLEY DRAINED 2000CC DARK RED BLOOD. OUT PUT DROPPED OFF ADDITIONAL 1500CC OVERNIGHT. CT TO WALL SUCTION, NO LEAK, NO CREPITIS. MODERATE BLOODY DRAININGE FROM CT SITE, ORIGINAL DRESSING REINFORCED. ABLE TO WEAN OFF NEO AT MIDNIGHT. SBP 80'S-200'S. SBP ELEVATED, ?FLUID OVERLOAD, 20IV LASIX GIVEN. OUT PUT FROM LASIX 1300CC. SBP DECREASED TO 120'S, PIP'S TO 40'S. HR ELEVATED TO 110'S FROM 80'S. PT WAS GIVEN TO 500CC NS BOLUSES. HR CONTINUES 120-130'S, SBP 120'S. PT IS WELL SEDATED, NO TEMP. NOT ABLE TO OBTAIN CVP. PT HAS BEEN HYPOTHERMIC,93.7. BEAR HUGGER ON FOR MOST OF NIGHT. CURRENT TEMP 97.8 AX OFF BEAR HUGGER. LAST HCT 33.9 AT 0400. LACTIC ACID 2.3, LAST INR 1.4. PT CURRENTLY RECEIVING 250CC K PHOS. US OF BIL LOWER EXTREMITIES DONE TO RULE OUT CLOTS, US NEGATIVE. + BIL PULSES. 
+
+GI/GU: ABD INCREASING FIRM/DISTENDED, HYPO BS. OGT INPLACE, TO LOW WALL SUCTION. US ABD DONE AT 1900 AT TIME NEG FOR FLUID. FOLEY INTACT DRAINING YELLOW URINE. CULTURE SENT. BLADDER PRESSURE 12. KUB DONE. 
+
+ACCESS: PT HAS A RIGHT SUBCLAVIN CORDUS, RIGHT DOUBLE LUMEN PICC, L DP ALINE 20G, RIGHT FEM TRIPLE LUMEN. 
+
+DISPO: PLAN FOR TODAY CONT W/ FREQUENT LAB
+",,
+8722,4874,10851,0,2557-05-05 04:02:00 EST,2557-05-05 04:59:00 EST,-1,"N",69,"Nursing/Other",,"
+
+(Continued)
+S, MONITOR BLEEDING. CT CHEST AND ABD. HUSBAND CALLED MULTIPLE TIMES OVERNGITH FOR UPDATED. HE IS STAYING AT THE INN AT [**Hospital1 **]. HE WILL BE IN THIS AM. PT IS A FULL CODE. 
+
+
+",,
+8722,4874,10851,0,2557-05-05 05:12:00 EST,2557-05-05 05:19:00 EST,529,"N",69,"Nursing/Other",,"
+
+pt.is currently on vent.settings of 400-ac.26-100%-10peep. abg=7.29,43,82,22,-5,96%. mdi albuterol given q4h. bs with rhonchi and rales bilat. sx for thick bloody clot like secretions. chest tube placed on evenings, had decreased sat and overriding vent with increased pips. sedated by rn/paralyzed. pt has ards, dic, tapped for pleural effusions. was to have ct scan but cancelled for now. used bronchoscope to see if tube was placed correctly. now at 19cm @ lip.pips now at around 40/plateaus 35-37. pt needs to be sedated so she can ventilate effectively and not to override the vent. no RSBI done.
+",,
+8722,4874,10851,0,2557-05-05 15:26:00 EST,2557-05-05 15:35:00 EST,1069,"N",69,"Nursing/Other",,"
+
+Respiratory Care Note:
+   Patient intubated, sedated and paralyzed. #7.5 ET tube secure 19cm at lip. BS bilat, coarse at times but improving. Received albuterol and atrovent MDI Q4 today. Suctioned for small amounts of thick blood tinged secretions. She is on A/C with flow-by on rate of 30, tidal volume of 400, down to 60% FIO2 and 20 of PEEP as determined by placement of esophageal balloon placement this am. Her peak inspiratory pressures are 38-40 with plateau pressures around 36-38, low lung compliance. R chest tube output over 3.5 liters since insertion. No evidence of subcutaneous emphysema noted.
+      Swan placed today with PA means around 44. She is off Neo. Remains on fentanyl, ativan and cistracurium.  Pan cultures sent earlier today. Family at bedside intermittently today. Plan to maintain present level of support as needed. See Carevue for abg results and vent flowsheet.
+",,
+8722,4874,10851,0,2557-05-05 16:01:00 EST,2557-05-05 16:02:00 EST,1069,"N",69,"Nursing/Other",,"
+
+Resp Care: Charting error:   Patient receiving albuterol MDI Q4prn for wheezing. No atrovent given.
+",,
+8722,4874,10851,0,2557-05-05 16:30:00 EST,2557-05-05 17:06:00 EST,959,"N",69,"Nursing/Other","M/SICU NURSING PROGRESS NOTE.","
+M/SICU NURSING PROGRESS NOTE.
+     SEE CAREVIEW FOR OBJECTIVE DATA.
+
+     Neuro:  Paralyzed on cisatricurium at .1 mg/kg/hr, sedated on ativan 5 mg/hr, and fentanyl at 250mcg/hr.  Unresponsive to stimuli, did furrow brow when having et tube retaped.  Pupils 2mm and sluggish.  Temperature 101.9 axillary, medicated with 650mg tylenol pr with good effect.  
+  
+     Respiratory:  Lung sounds are clear in upper fields bilat, diminished in rt base, coarse in lt base.  Ventilator settings are cmv 450/30/20/.60.  O2 saturation on present ventilator settings are 95-97%.  Suctioned several times for blood tinged thick sputum.  Esophageal balloon placed this am, showed the ability to increase the peep without damaging the lungs.  Rt chest tube patent, draining dk red bloody fluid 640cc since this am. + fluctuation, - leak, - crepitus.  Continues to ooze blood from chest tube insertion site.
+
+      CV:  Sinus tachycardia with no ectopy noted, rate 120's to 130's.   Abp site changed from lt foot to rt radial this pm.  Abp low 90's to low 100's systolic throughout day, no pressors required.  Will drop bp for short periods after turning pt.  Abp correlated with nbp well. Vip Swan line placed w/o difficulty this am, at 45 cm.  Cvp 19-22, wedge 22, co 6.26, ci 3.52.  Heparin removed from all invasive lines.  Ivf kvo at present, no blood products today.  Hct 33.6 at 1600, down from 34.1 at 1200.  Plt down to 67 at 1600 from 74 at 12.  Wbc 3.0.
+
+      GI/GU:  Abdomen remains firm and distended, hypoactive bs. Ogt patent and good placement by auscultation, drained scant amt bilious/brown fluid, gastrocult +, ph 4.  Foley catheter patent and draining amber urine with sediment.  Disempacted for very sm amt thick brown stool.  
+
+      Social:  Meeting between family and team this afternoon.  Husband remains very hopeful but did express several times that he realizes that wife may pass away.  Team expressed that we will do everything possible and will follow progress over next several day.  
+
+      Plan:  Continue to monitor labs and abg's while trying to continue weaning from ventilator.
+
+",,
+8722,4874,10851,0,2557-05-05 17:55:00 EST,2557-05-05 17:57:00 EST,959,"N",69,"Nursing/Other","ADDENDUM TO NURSING PROGRESS NOTE 7A-7P 5/15/03","
+ADDENDUM TO NURSING PROGRESS NOTE 7A-7P [**2557-5-5**]
+     ADDENDUM:  Ativan presently running at 3 mg/hr, not 5mg per hr as in previous note.  Wedding ring and and band removed from lt ring finger and given to husband.  
+",,
+8722,4874,10851,,2557-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-6**] 5:59 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10201**]
+     Reason: Please evaluate position of chest tube and ET tube.         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+         45 year old woman with malignant effusion s/p thoracentesis (right side) now 
+       with hemothorax, chest tube placement
+     REASON FOR THIS EXAMINATION:
+      Please evaluate position of chest tube and ET tube.                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Malignant effusion, evaluate chest tube and ET tube position.
+     
+     COMPARISON:  [**2557-5-5**].
+     FINDINGS:  ET tube is at the thoracic inlet, NG tube projects below the
+     diaphragm.  Right sided chest tube and right subclavian Swan-Ganz catheter are
+     unchanged.  The heart is not enlarged.  Moderate sized bilateral pleural
+     effusions are present, possibly loculated.  Patchy densities in the lower lung
+     zones likely represent metastases.  Pulmonary vasculature is prominent, but
+     given the lack of cardiomegaly, this likely represents volume overload.
+     
+     IMPRESSION:  Bilateral, likely loculated effusions.  Fluid overload.
+     
+
+",,
+8722,4874,10851,,2557-05-06 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-6**] 7:13 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10202**]
+     Reason: line placement                                              
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      45 y/o metastatic melanoma with hemothorax, DIC, s/p line change                
+     REASON FOR THIS EXAMINATION:
+      line placement                                                                  
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  45 year old woman with a history of metastatic melanoma and
+     hemothorax status post line change.
+     
+     COMPARISON:  [**2557-5-6**] at 06:09AM.
+     
+     PORTABLE AP SUPINE CHEST RADIOGRAPH:  The previously-seen Swan-Ganz catheter
+     via the right subclavian vein has been removed and in its place a right
+     subclavian line has been inserted, however, its tip is in the left
+     brachiocephalic vein.  The endotracheal tube is at the thoracic inlet.  An NG
+     tube is seen whose tip is in the stomach.  There is a chest tube whose tip is
+     in the right upper lung zone.
+     
+     The heart size is within normal limits.  Again seen are bilateral pleural
+     effusion, right greater than left, not significantly changed from the prior
+     study.  Again seen is a retrocardiac opacity in the left lower lobe with
+     subsegmental collapse/atelectasis.  The pulmonary edema has not significantly
+     changed from the prior study.
+     
+     Dr. [**Last Name (STitle) **] was notified of the position of the right subclavian line at the time
+     of interpretation, on [**2557-5-6**].
+     
+     IMPRESSION:  Right subclavian line tip in the left brachiocephalic vein.
+
+",,
+8722,4874,10851,0,2557-05-06 05:23:00 EST,2557-05-06 05:27:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Resp:  Rec'd pt on [**Last Name (un) 471**] a/c 30/+20/60%.  Ambu/syringe @ hob. Bs auscultated reveal diminished sounds on RS with aeration noted on LS.  MDI's administered Q4 hrs 8P albuterol.  Suctioned x3 small to moderate amount of bloody tinged thick secretions.  Small leak noted in tube during noc.  Fio2 decreased to 50% with no further changes noted.  
+",,
+8722,4874,10851,0,2557-05-06 05:30:00 EST,2557-05-06 05:57:00 EST,-1,"N",69,"Nursing/Other",,"
+
+NURSING MICU NOTE 7P-7A
+
+NEURO: PT REMAINS WELL SEDATED AND PARALYZED ON ATIVAN 3MG/HR, FENTANYL 250MCG/KG/HR AND CISATRACURIUM .1MG/KG/HR. PUPILS 2MM SLUGGISH. 
+
+RESP: PT RECEIVED ON AC 400X30, PEEP20, FIO2 50%. SATS 96-99%. ABG AT 0400 7.38/35/124. FIO2 DECREASED TO 40% AT 0600, SATS 93%, ABG PENDING. PT SUCTIONED FOR SMALL AMT THICK BLOOD TINGED SPUTUM. MODERATE AMT BLOODY ORAL SECREATIONS. PT HAS SLOW AIR LEAK IN CUFF, AIR ADDED MULTIPLE TIMES OVERNIGHT. LS COARSE. 
+
+CV: HR ST 110-130, NO ECTOPY. PT REMAINS OFF NEO 24HRS. MAPS 65-70'S. PT DID HAVE EPISODE MAP IN 50'S IN RESPONSE TO TURNING. PAP 38-49/27-30, WEDGE 17-19, CVP 13-20, 0400 CO PER FICK 7.8. PT RECEIVED 500CC NS FLUID BOLUS X2 FOR ST, DECREASE CVP. PT HAD GOOD RESPONSE TO BOLUSES, HR DECREASED TO 110, CVP INCREASE TO 15. MAX TEMP 38.8, PAN CULTURED AT MIDNIGHT, TYLENOL GIVEN PR. CT TO RIGHT CHEST TO WALL SUCTION. 325CC TOTAL SEROSANG DRAINAGE. NO LEAK, NO CREPITIS. ORIGINAL DRESSING SATURATED, NEW DRESSING D&I. REPLETED CA+ W/2GM. AM IONIZED CA+ 1.21. 250CC BAG KPHOS STARTED AT 0500 TO RUN 6HRS. AM HCT 30.5. PEDAL PULSES INCREASING DIFFICULT TO PALPATE DUE TO EDEMA, ABLE TO DOPPLER. 
+
+GI/GU: ABD FIRM/DISTENDED, HYPO BS, NO BM. LACTULOSE EMEMA GIVEN AT 0500. PT NOT ABLE TO RETAIN, EMEMA UNSUCCESSFUL. OGT CLAMPED, MINIMAL BILE RESIDUAL. FOLEY INTACT DRAINING AMBER CLEAR URINE, ~40CC/HR. UA AND CULTURE SENT AT MIDNIGHT. 
+
+ID: PT REMAINS ON VANCO, FLAGYL, AND LEVO. AM WBC 2.8. PT PAN CULTURED FOR TEMP 38.8. 
+
+DISPO: CONT TO MONITOR HCT, MAP AND ABG'S. PT WILL NEED MORE VOLUME TODAY, ?TRANSFUS RBC FOR HCT LESS THAN 30. ?CT ABD AND CHEST TODAY, NOT ABLE TO PERFORM TEST ON [**5-5**] DUE TO PT'S STABILITY. PT'S HUSBAND IN THE EVENING, WENT HOME LAST NIGHT. HE CALLED MULTIPLE TIMES FOR UPDATES, WILL BE IN TODAY. PT IS A FULL CODE. 
+",,
+8722,4874,10851,0,2557-05-06 14:45:00 EST,2557-05-06 15:17:00 EST,956,"N",69,"Nursing/Other",,"
+
+NURSING NOTE 7A-7P  REVIEW OF SYSTEMS:
+NEURO: Paralysed on Cistracyrium .1mg/Kg/HR, and sedated on Ativan 3mg/hr and Fentanyl at 250mcg/Kg/Hr.  PERLA 3mm react briskly.  Cistracyrium weaned off in afternoon, Pt does not follow commands, does not move extremities, eyebrows moved upward at one point not to command.
+C/V:  HR 110-130's ST rare PVC's noted in AM.  Neo remains off, SBP= 86-140/59-69 Wedge 17-19, CO using FICK method 5.0.  Tmax-103, Tylenol supp given with good results Temp decrease to 101. No cultures repeated last done at MN.  Pulses present lower extremities with doppler continues with generalized body edema. 
+RESP:  Rt Chest tube Dsg CDI, continues on wall suction draining dark red blood, no airleak or crepitis noted. FiO2 continues at 40%, suction scant amts blood tinged secretions.  Lung sounds clear with diminished Rt base.  
+GI/GU:  Abd remains firm and distended, positive flatus no stools noted.  Restarted on MOM and Lactulose via OGT.  OGT patent draining green bile, one point draining dark green fluid guiac neg.  Foley intact draining amber clear urine.
+ID: Remains of Vanco, [**Last Name (un) 1095**], and Levo, awaiting Pan culture results.
+SOCIAL:  Husband friends and other family member visiting frequently, emotional support provided, patient update given frequently, family meeting with physicians in waiting room.  Family deciding on use of pressors now. Pt remains full code.
+
+",,
+8722,4874,10851,0,2557-05-06 17:02:00 EST,2557-05-06 17:06:00 EST,963,"N",69,"Nursing/Other","Resp. Note","
+Resp. Note
+Pt cntinues on vent support. ACV 400/30/+20/40%. BBS fairly clear slight decreased at bases. Paralytic wean in afternoon. No triggered attempts so far. Sx for scant blood tinged.  Will cont course/wean settings as tol.
+",,
+8722,4874,10851,0,2557-05-06 18:41:00 EST,2557-05-06 18:44:00 EST,956,"N",69,"Nursing/Other",,"
+
+ADDENDUM:  1800 Swan removed tip sent for culture, multi-lumen placed over wire.  CXR done, results pending. Family meeting with team, patient made DNR.
+",,
+8722,4874,10851,0,2557-05-06 21:56:00 EST,2557-05-06 22:11:00 EST,980,"N",69,"Nursing/Other",,"
+
+Nursing Note (1900-2300hrs)
+
+Neuro: Remains well sedated on Ativan 3mg/hr and fent 200 mcg/hr  (from 250 mcg/hr).  Slight facial movement w/ position changes. otherwise no spont movement. Pupils 3mm/brisk bilat. 
+
+CV:  Low grade temp. Pan cx from last noc pnd. RSC TLCL d/c'd after unsuccessful rewiring; LF TLCL d/c'd, tip cx. DL 5 FR PICC RA patent, good blood return. No skin issues. Maintaining MAPs of >65.
+
+Resp: LS clear, diminished right base. No secretions w/suctioning. Remains on AC 400/40%/+20/30. 
+
+GI: OGT to LCS. Clamped 11pm after meds. No stool, receiving po laxatives, ? need for disimpaction. Abd mod firm, +BS; mod amt flatus.
+
+GU: Adequate u/o of 30-40cc/hr. Amber, cloudy; urine cx pnd.
+
+Social: Family and friends visiting [**Name2 (NI) 464**] noc; husband voicing appropriate concerns; asking appropriate questions.  Gone home for the night; will call [**Name2 (NI) 464**] noc for updates.  
+
+Plan: Cont to monitor s/s infection; await labs. Monitor temp. IV antibx. MD [**First Name (Titles) **] [**Last Name (Titles) 6130**] tonight, cont w/laxatives. OGT to LCS in 1-2 hrs. Hold on diuretics for now; autodiuresis?. DNR.
+",,
+8722,4874,10851,,2557-05-07 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-7**] 8:23 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10203**]
+     Reason: Please assess placement of swan ganz catheter, ET tube      
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+          45 year old woman with malignant effusion s/p thoracentesis (right side) 
+      now   with hemothorax, chest tube placement
+     REASON FOR THIS EXAMINATION:
+      Please assess placement of swan ganz catheter, ET tube                          
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CHEST, SINGLE AP FILM.
+     
+     HISTORY:  Right malignant pleural effusion with thoracentesis and chest tube
+     placement.
+     
+     A chest tube is present in the right upper hemithorax.  ET tube is 4 cm above
+     carina.   ?stentoverlies right main bronchus.  NG tube is in stomach with
+     distal end not included on the film.  There is a right pneumothorax that is
+     new since the prior study of [**2557-5-6**].  There is thickening the visceral pleura
+     and nodular pleural thickening in the right lower hemithorax.  Nodular
+     densities in left lung and left pleural effusion, as previously demonstrated.
+     
+     IMPRESSION:  New right pneumothorax.
+     
+     
+
+",,
+8722,4874,10851,0,2557-05-07 05:17:00 EST,2557-05-07 05:21:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Resp:  Rec'd pt on [**Last Name (un) 471**] a/c 30/400/40%/+20.  Ambu/syringe @ hob.  Bs auscultated reveal diminished bs on rs with some coarse bs on ls that clear with suctioning.  Suctioned x2 small to monderate amount of yellowish/bloody tinged thick secretions.  MDI's administered Albuterol Q4 hrs.  EET changed to ls (done).  No RSBI performed, not indicated ^peep, and no further changes noted.
+",,
+8722,4874,10851,0,2557-05-07 05:22:00 EST,2557-05-07 05:27:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PT REMAINS INTUBATED.  CURRENT VENT SETTINGS:  A/C 30X400X40% + 20 OF PEEP.  REMAINS VERY WELL SEDATED ON CURRENT LEVELS OF FENTYNL + ATIVAN, NOT OVERBREATHING SET RATE.  SATS IN MID 90'S.  BS'S COURSE, SX;D X2 FOR THICK PLUGS.  TMAX 103, TYLENOL RE-ORDERED AND GIVEN AT 6AM.  HR UP TO 140'S W/ TEMP, BP'S NOW IN 150'S.  CODE STATUS CHANGED TO NO CPR/PRESSORS/SHOCK OR VENT CHANGES.  INC OF COPIOUS AMTS OF LOOSE STOOX X2.  LAXATIVES D/C'D.  ""BUTT BAG""/""BUTT TUBE""  INEFFECTIVE AT CONTAINING STOOL.  UO ADEQUATE.  REMAINS ANASARCIC.  
+",,
+8722,4874,10851,0,2557-05-07 06:43:00 EST,2557-05-07 06:44:00 EST,962,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+No RSBI preformed due to level of peep required, respiratory rate and sedation. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 454**] RRT
+",,
+8722,4874,10851,0,2557-05-07 15:03:00 EST,2557-05-07 15:06:00 EST,962,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt appears [**Last Name (un) **] talerating change in well at this time. Remains febrile, HR 130', no sponateous respiratory efforts noted. Family @ the bedside. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 454**] RRT
+",,
+8722,4874,10851,0,2557-05-07 15:57:00 EST,2557-05-07 16:22:00 EST,959,"N",69,"Nursing/Other","M/SICU NURSING PROGRESS NOTE.","
+M/SICU NURSING PROGRESS NOTE.
+     See careview for objective data.
+
+     Neuro:  Sedated, attemts to open eyes at times to request.  Ativan reduced to 2 mg/hr.  Fentanyl at 200mcg/hr.  Pupils 3 mm and brisk.  Temperature max 103.6 oral, tylenol 650 mg prwith minimal effect.
+     Respiratory:  Lung sounds are coarse throughout.  Ventilator settings unchanged per careview.  Did cut back on peep for temporary trial with no changes in volume or saturation.
+     Cv:  Sinus tachycardia with no ectopy noted, rate in 130's to 140's.  Nbp high 90's to low 100's systolic.  No pressure drop noted during position change.  Appears less edematous, still 2+ generalized edema..
+     Gi/gu:  Abdomen softly disted with + bs.  Scant soft brown stool.  Ogt in good placement by auscultation, clamped.  Foley catheter patent and draining clear amber urine in adequate amts.
+     Social:  Husband, friends and family into see pt throughout day.  
+     Plan:  Continue with present abx regimen, tx temperature and ensure proper pain control.
+",,
+8722,4874,10851,0,2557-05-08 05:29:00 EST,2557-05-08 05:32:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Resp:  Rec'd pt on [**Last Name (un) 471**] a/c30/400/40%/+15. Ambu/Syringe @ hob. Bs auscultated reveal bilater clear apecies with an increase in aeration noted. RS bases diminished.  Suctioned x2 small amount of whitish secretions, with more in oral cavity.  MDI administered Q4hr 6 P albuterol with no adverse side effects.  Vent changes; decrease peep to +10, decrease rate to 20.  02 sats remain 95-97%. No further changes noted. 
+",,
+8722,4874,10851,0,2557-05-08 05:51:00 EST,2557-05-08 05:57:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  TMAX 104.2 PO.  TYLENOL ALT W/ MOTRIN GIVEN ATC.  IN ADDITION, KETAROLAC 30 MG'S IV GIVEN X1.  TEMP EVENTUALLY CAME DOWN TO 98.7.  HR AS HIGH AS 150 W/ STABLE BP.  AS HR CAME DOWN W/ TEMP, SO DID BP TO THE 70'S.  INSTAED OF BOLUSING HER, WE GRADUALLY CAME DOWN ON PEEP TO 10.  INTERESTINGLY, THE MORE WE WENT DOWN ON THE PEEP, THE BETTER HER PO2 BECAME.  (NOTE THAT PT SATS LESS WELL WHEN LYING ON L SIDE)  ALSO, PT GETTTING ALKALOTIC, SO RATE DOWN TO 20.  UO HAS ALSO DROPPED OFF, BUT A LITTLE BETTER W/ LESS PEEP.  BS'S CLEARER THAN YESTERDAY.  SX'D FOR FEW SECRETIONS.  SEDATION UNCHANGED.  PT HAS APPERED COMFORTABLE. 
+",,
+8722,4874,10851,0,2557-05-08 12:12:00 EST,2557-05-08 12:16:00 EST,962,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt weaning to CPAP, 10/+5 and 40%, increasing PSV to 15 for approximately 1/2hr before pt's SAO2 began dropping, heart rate elevated. Placed back on A/C. RSBI attempted and terminated very quickly, VT dropping to less than 75cc, increasing RR. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 454**] RRT
+",,
+8722,4874,10851,0,2557-05-08 15:17:00 EST,2557-05-08 15:18:00 EST,962,"N",69,"Nursing/Other","Respiratory Care","
+Respiratory Care
+Pt resting on A/C mode of mechanical ventilation.
+",,
+8722,4874,10851,0,2557-05-08 16:28:00 EST,2557-05-08 16:51:00 EST,959,"N",69,"Nursing/Other","M/SICU NURSING PROGRESS NOTE.","
+M/SICU NURSING PROGRESS NOTE.
+     See careview for objective data.
+
+     Opened eyes while being turned, attempted to open eyes to commands, attempted to move move feet on commands, shrugged shoulders to commands several times this am.  Pupils are 3mm and brisk.  Remains sedated on ativan now at 1 mg/hr, fentanyl for discomfort reduced to 150 mcg/hr. Temperature maximum 100.7 oral, motrin 600mg per ogt.
+     Lung sounds are clear in upper fields, diminished in lower fields bilat.  Ventilator settings per careview.  Did attempt to wean, ps 5/5 was not tolerated well.  O2 saturation on present ventilator settings are 93-95%, saturation does decrease with position changes.  
+     Sinus tachycardia in 120's to 130's with no ectopy noted.  Abp in low 90's to low 100's systolic.  No fluid boluses or blood products.  Picc line in rt ac patent.  15mmol kphos iv initiated, running at 43cc/hr.  
+     Abdomen softly distended, appears slightly more distended than yesterday, placed ogt to low wall suction for several hrs, bilious brown green fluid out.  Scant stool today, disempaction for scant amt stool.  Foley catheter patent, draining 25-40cc/hr of concentrated urine.
+     Various family and friends in throughout day.  Husband in later today, appears in good spirits.  
+",,
+8722,4874,10851,,2557-05-09 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2557-5-9**] 10:20 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 10204**]
+     Reason: eval for infiltrate                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       45 y/o metastatic melanoma with hemothorax, DIC, with decreased O2 sat.        
+     REASON FOR THIS EXAMINATION:
+      eval for infiltrate                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Metastatic melanoma with hemothorax.
+     
+     AP CHEST:  An ET tube lies 4 cm above the carina.  The right chest tube is in
+     unchanged position overlying the upper right hemithorax.  A NG tube extends
+     off of the film and into the stomach.  There is a right subclavian line, which
+     terminates in the junction of the right brachycephalic vein and SVC.  In
+     comparison to the prior study, there is a persistent right hydropneumothorax.
+     The pneumothorax component does not appear to have increased in size.  Given
+     differences in patient positioning, it is difficult to accurately estimate
+     change in size of moderate bilateral effusions; these may have increased
+     slightly.  There is a persistent left retrocardiac opacity, likely reflecting
+     atelectasis.  Several lung nodules are again identified, consistent with
+     metastases.
+     
+     IMPRESSION:  Persistent right hydropneumothorax.  Moderate-sized pleural
+     effusions.
+
+",,
+8722,4874,10851,0,2557-05-09 05:13:00 EST,2557-05-09 05:17:00 EST,-1,"N",69,"Nursing/Other",,"
+
+Resp:   Rec'd pt on [**Last Name (un) 471**] a/c 20/400/40%+5.  Ambu/Syringe @ hob. Bs auscultated reveal increase aeration in apecies with diminished bases, some coarse sounds which clear with suctioning.  Suctioned x3 small-moderate amount of bloody tinged thick secretions. MDI's administered Q4hrs Albuterol.  02 sats 93-96% @ noc with no significant changes. No further changes noted.
+
+",,
+8722,4874,10851,0,2557-05-09 05:41:00 EST,2557-05-09 05:46:00 EST,252,"N",69,"Nursing/Other",,"
+
+NPN (NOC):  PT REMAINS INTUBATED.  VENT SETTINGS UNCHANGED FROM YESTERDAY.  REMAINS WELL SEDATED, EVEN ON REDUCED DOSES OF FENTYNL/ATIVAN AND NOT OVERBREATHING SET RATE.  SATS IN LOW TO MID 90'S.  BS'S HAD BEEN FAIRLY CLEAR, HOWEVER, ~ MN I SX'D COPIOUS AMTS OF BLOODY SECRETIONS FROM ETT AND BS'S AT THAT TIME WERE VERY COURSE.  BLEEDING STOPPED SPONTANEOUSLY, BUT I HAVE NOT GIVEN HER ANY MORE MOTRIN.  FEVERS UNDER CONTROL.  CT STILL PUTTING OUT RELATIVELY SM AMTS OF BLODY DRAINAGE, DSG CHANGED AGAIN D/T SATUATION W/ BRB.  REMAINS TACHYCARDIC, BUT NOT AS BAD AS YESTERDAY.  SBP'S 70'S TO 90'S, BUT MAPS ABOVE 60.  UO STILL AT LEAST 30 CC'S/HR, TEAM DOES NOT WISH TO GIVE MORE FLUIDS.  ABD IS DISTENDED BUT I THINK THAT THIS IS TAUT EDEMA.  + BS'S, INC OF LOOSE STOOL X1.  
+",,
+8722,4874,10851,0,2557-05-09 15:59:00 EST,2557-05-09 16:07:00 EST,928,"N",69,"Nursing/Other",,"
+
+MSICU Nsg Note 7p -7a
+
+Pt basically unchanged today.  Had family meeting with husband, sister and friend [**Name (NI) 873**].  Very emotional regarding pt's care.  Husband aware that pt is end stage but is not quite ready to let go.  Plan was to allow pt to lighten up and transfuse 1 unit pc's.  
+Pt dc'd from ativan but kept on fentanyl - became more tachycardic and tachypnic but did not become any more responsive.  Pt's family want her to be comfortable so restarted on ativan and increased the fentanyl.
+1 unit pc's transfusing vis picc line.  BP up slightly.  UO continues to be adequate and appearance is more yellow vs. amber.
+CT continues to drain sanguinous output.  Also oozing a sig amt around the insertion site - dsg changed x2 and reinforced x1.
+Vent settings unchanged.   Temp 100.  Continues on antibiotics.
+Pt also oozing loose stool - sm - mod amt.
+Lg amt of family members and friends in to see pt.
+A:  Did not tolerate decrease in sedation - working hard on breathing
+P:  Continue to support pt and family as needed.     
+",,
+8722,4874,10851,0,2557-05-09 23:57:00 EST,2557-05-10 00:02:00 EST,487,"N",69,"Nursing/Other","Respiratory care:","
+Respiratory care:
+Went to check on patient. Upon entering room High pressure on vent went off. Patient suctioned for moderate amounts of bloody secretions. MD Called.  Patient now with agonal respirations. Patient taken off vent and attempted to manually ventilate. Unable to ventilate. HR and blood pressure dropped. Patient pronounced by Dr. [**Last Name (STitle) **] at 12:40pm.
+",,
+8722,,10851,0,2557-05-10 01:07:00 EST,2557-05-10 01:09:00 EST,723,"N",69,"Nursing/Other","nursing death note","
+nursing death note
+please see flowsheet for vs. at 1230am pt vent alarming high pressures. pt suctioned by rt for bloody secretions. chest tube intact and fluctuating no leak present. rt attemtped to bag patient unable to bag. md notified. vs hr and b/p dropped suddenly. pt pronounced by md at 1240am husband contacted. pt taken to morgue at 2am.
+",,

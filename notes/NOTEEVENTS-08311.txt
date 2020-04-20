@@ -1,0 +1,1310 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8311,,,,2741-04-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-4-25**] 10:36 PM
+     TRAUMA #2 (AP CXR & PELVIS PORT)                                Clip # [**Clip Number (Radiology) 6814**]
+     Reason: TRAUMA
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     INDICATION:  51-year-old man with trauma.
+     
+     CHEST AND PELVIC RADIOGRAPH:  There is no comparison.  The evaluation is
+     somewhat limited due to overlying trauma board artifact.  The heart is normal
+     in size.  Mediastinum appears slightly prominent especially on the right,
+     however, this can be due to positioning.  Note is made of increased
+     interstitial markings bilaterally, especially on the right, with increased
+     vascular markings. There is opacity in the right lower lobe continuous from
+     the hilum.
+     
+     The evaluation of pelvis is limited due to trauma board artifact.  Note is
+     made of residual contrast in the bladder.  No gross diastasis or fracture is
+     noted.
+     
+     IMPRESSION:
+     
+     1.  Increased interstitial markings and vascular markings bilaterally,
+     especially on the right, with opacity in the right lower lobe, continuous from
+     the right hilum.  The finding is consistent with the given history of right
+     hilar lung cancer, and interstitial markings may represent lymphangitic spread
+     versus CHF or volume overload.  The presence of contusion cannot be totally
+     excluded in the setting of trauma.  No gross fracture or diastasis.  Faint
+     pleural opacity on the right, which may represent small effusion.  The finding
+     was discussed with the trauma team in person.
+     
+     
+
+",,
+8311,,,,2741-04-25 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-4-25**] 10:56 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6815**]
+     Reason: R/O BLEED
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man s/p mva, left sided weakness                                    
+     REASON FOR THIS EXAMINATION:
+      r/o bleed, basilar skull fx.                                                    
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: MNIa FRI [**2741-4-25**] 11:51 PM
+      1. Hyperdensity in the basilar artery, can be due to artifact or residual
+      contrast, however, thrombosis or dissection is a possibility as well.
+      2. 1.2 cm calcified round lesion right to the cavernous sinus, worrisome for
+      calcified aneurysm.
+      3. No bleed. Subtle diffuse hypodensity in the left temporal lobe, which is
+      equivocal.
+      Clinical correlation and further evaluation by MRI and MRA is recommended.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  51-year-old man status post motor vehicle accident, left-sided
+     weakness.
+     
+     HEAD CT WITHOUT CONTRAST:  There is no acute intracranial hemorrhage.  No mass
+     effect.  No shift of normally midline structures.  Note is made of subtle
+     equivocal hypodensity in the white matter of left temporal lobe, although the
+     location does not match the clinical finding. Basilar artery at the level of
+     skull base is somewhat hyperdense, measuring 70 [**Doctor Last Name **], which can be due to
+     artifact or residual contrast in this patient who received IV contrast at OSH
+     on the same day, however, thrombosis or dissection in this area is another
+     possibility. There is 1.2 x 0.8 cm calcified oval- shaped region right to the
+     cavernous sinus, probably representing calcified aneurysm.
+     
+     Note is made of mucous retention cyst in right maxillary sinus, as well as
+     mucosal thickening in bilateral maxillary and ethmoid sinuses.  No fracture is
+     noted.
+     
+     IMPRESSION:
+     
+     1.  No acute intracranial hemorrhage.
+     
+     2.  Hyperdensity in the basilar artery at the level of skull base, which can
+     be due to artifact or residual contrast, however, thrombosis or dissection
+     cannot be excluded.
+     
+     3.  1.2 cm calcified round lesion right to the cavernous sinus, worrisome for
+     calcified aneurysm.
+     
+     4.  Subtle diffuse hypodensity in the white matter of the left temporal lobe,
+     which is equivocal.
+     
+     5.  Mucous retention cyst and mucosal thickening in paranasal sinuses.
+     
+                                                                 (Over)
+
+     DATE: [**2741-4-25**] 10:56 PM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 6815**]
+     Reason: R/O BLEED
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     Please correlate clinically, and for further evaluation by basilar artery,
+     aneurysm, and possibility of stroke in brain parenchyma, please perform MRI
+     and MRA.
+     
+     The findings were discussed with the trauma team and a neurology resident, Dr.
+     [**Last Name (STitle) 6816**] in person at the completion of the study.
+     
+
+",,
+8311,26921,10335,,2741-04-26 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+ 
+ 
+ 
+Admission Date:  [**2741-4-26**]              Discharge Date:   [**2741-5-1**]
+ 
+Date of Birth:  [**2678-7-26**]             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending:[**First Name3 (LF) 4315**] 
+Chief Complaint:
+Status-post MVA.
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+The pt is a 62 year-old gentleman with stage IV lung cancer with 
+bone metatases who presented after being found wandering at the 
+site of his recent automobile crash.  He was apparently driving 
+and crashed his car.  He was then picked up when passersby saw 
+him wandering.  His wife states that he was normal this morning 
+when he dropped her at work.  He then went to an appointment at 
+[**Hospital3 2353**] for XRT.  His wife talked to him at home at ~3 pm 
+and says he was not acting normally at that time.  He sounded 
+not like himself on the phone.  He was then supposed to be 
+picking her up at ~5 pm.  He left the house at 4:15 and she 
+thinks he must have had the accident at ~4:30.  The location of 
+his accident was strange she reports, as this would not be on 
+his route to pick her up.
+
+He was brought from the scene to [**Hospital 51**] Hospital where he was 
+found to have left facial and left sided weakness arm>leg.  He 
+was awake.  Head CT was read as unremarkable.  CT of the abdomen 
+showed a splenic laceration.  He was then sent here.  These 
+scans were at ~6pm.  He received IV contrast after the head CT 
+for the abdominal CT.  Here, a CT scan was repeated which showed 
+a question of a basilar artery hyperdensity over the pons (but 
+this was post-contrast). On review of prior CT at OSH before 
+contrast, this area is somewhat motion degraded but does appear 
+slightly bright.  At this point, the option of iaTPA was raised, 
+but there were several problems. First of all, we did not have 
+an accurate time of onset. Second, he has a splenic laceration 
+and was recently in a traumatic MVA.  This was the most 
+concerning possible contraindication for lysis.  The admitting 
+trauma team called their attending who told them he did not want 
+to pursue thrombolysis no matter what the concern for basilar 
+thrombosis given the high possibility that he would bleed from 
+his spleen which could be fatal.  Next, the pt had received a CT 
+contrast load several hours earlier and has a Cr=1.2.  In 
+addition, it was discovered that he has a shellfish 
+allergy(although he did fine with first contrast load).  Given 
+the fact that the trauma attending did not want to pursue 
+thrombolysis, the patient was put in for an MRA/I to assess his 
+vessels as the need for hyperacute scanning along with the risks 
+of a CTA in this pt were diminished given the fact that not 
+thrombolysis would be pursued per admitting team.  This was then 
+discussed with the stroke fellow who felt that an acute scan 
+should be performed given the high morbidity from a basilar 
+artery thrombosis.  The surgical team felt differently and 
+strongly that a CTA should not be performed given the risks and 
+lack of thrombolysis to be performed.  A discussion was held and 
+in the end, the pt was slotted to get an urgent partial MRI DWI 
+and MRA to answer the question of whether the basilar was truly 
+occluded.  This would only add ~10 minutes to the process as the 
+CT scanner was in use by a trauma patient.  The patient's exam 
+was suggestive of a right-sided stroke, but he had a significant 
+left neglect.  
+ 
+Past Medical History:
+-Hypothyroidism
+-Stage IV lung CA with mets to spine and pelvis, receiving 
+palliative XRT
+
+ 
+Social History:
+Pt lives with his wife. Son is in the area.  No EtOH. 
+ 
+Family History:
+No neurologic disease.
+ 
+Physical Exam:
+Vitals:AF, HR=90s, BP=120s/50s, RR=16, O2 sat=96% on 4L
+Gen:NAD. 
+HEENT:MM dry. Sclera clear. OP clear. Multiple ecchymoses over 
+face and arms.
+Neck: No Carotid bruits
+CV: RRR, Nl S1 and S2, no murmurs/gallops/rubs
+Lung: Clear to auscultation bilaterally
+Ext:No cyanosis/edema
+
+Neurologic examination:
+Mental status: Awake and alert, somewhat cooperative with exam.
+Orientation: Oriented to person, place, and date(1 day off)
+Attention: Very inattentive
+Registration: Unable
+Language: Fluent with moderate comprehension and repetition. 
+Mild dysarthria. No paraphasic errors
+Appears to neglect left side. Tells me his left arm is my arm 
+when held over his face.
+
+Cranial Nerves:
+I: not tested
+II: Pupils equally round and reactive to light, 3 to 2 mm 
+bilaterally. Visual fields unable to be assessed as pt holds 
+right eye shut and will not cooperate with any testing of this. 
+he says he sees my entire face without cut. Unable to eval fundi 
+as above.
+III, IV, VI: Extraocular movements limited as pt doesn't appear 
+to cross midline when looking to the left with the left eye. 
+Right eye difficult to assess as he refuses to open, but seems 
+to adduct(unable to tell if full adduction as eye is swollen 
+shut and pt holds it even tighter).
+V, VII: Facial sensation intact and symmetric to LT and PP.  He 
+has decreased excursion of lower face on left. Right normal. 
+Forehead wrinkles bilaterally.
+VIII: Hearing intact to finger rub bilaterally.
+IX, X: Palatal elevation symmetrical
+[**Doctor First Name **]: Unable
+XII: Tongue midline without fasciculations. Will not move for 
+me.
+
+Motor:
+Normal bulk and tone on right. Left leg with normal tone. Left 
+arm with variable tone, but seems increased. No tremor
+       D T B WE FiF [**Last Name (un) 725**] IO IP Q H DF PF TE([**Last Name (un) **])
+Left   no mov't of LUE. LLE moves antigravity and against some 
+resistance, but grossly moves less than RLE and seems to be weak 
+in ~UMN pattern.
+
+Sensation: Intact to light touch and pinprick throughout all 
+extremities.
+
+Reflexes: B T Br [**MD Number 8051**]
+Right     1 1  1 t  t
+Left      1 1  1 t  t
+
+Toes were up on left, withdraw on right
+
+Coordination and gait not possible.
+ 
+Pertinent Results:
+[**2741-4-25**] 10:35PM BLOOD WBC-11.6* RBC-4.67 Hgb-14.0 Hct-39.0* 
+MCV-84 MCH-30.0 MCHC-35.9* RDW-13.2 Plt Ct-276
+[**2741-4-25**] 10:35PM BLOOD PT-12.4 PTT-19.8* INR(PT)-1.1
+[**2741-4-25**] 10:35PM BLOOD Fibrino-274
+[**2741-4-25**] 10:35PM BLOOD Glucose-151* UreaN-21* Creat-1.2 Na-137 
+K-3.5 Cl-99 HCO3-22 AnGap-20
+[**2741-4-26**] 07:38PM BLOOD CK(CPK)-139
+[**2741-4-26**] 12:12PM BLOOD CK(CPK)-125
+[**2741-4-26**] 03:24AM BLOOD CK(CPK)-119
+[**2741-4-26**] 07:38PM BLOOD CK-MB-2 cTropnT-<0.01
+[**2741-4-26**] 12:12PM BLOOD CK-MB-3 cTropnT-<0.01
+[**2741-4-26**] 03:24AM BLOOD CK-MB-3 cTropnT-0.01
+[**2741-4-26**] 03:24AM BLOOD Calcium-9.3 Phos-4.0 Mg-2.2
+[**2741-4-27**] 07:10PM BLOOD %HbA1c-6.1* [Hgb]-DONE [A1c]-DONE
+[**2741-4-27**] 07:10PM BLOOD Total Chol 150Triglyc-91 HDL-58 
+CHOL/HD-2.6 LDLcalc-74
+
+BRAIN MRI:
+There is an area of slow diffusion seen in the right basal 
+ganglia extending to the corona radiata. There are also areas of 
+increased signal seen on diffusion images in the right frontal 
+lobe and in the watershed distribution and small areas of 
+hyperintensity are seen in the left occipital lobe and both 
+cerebellar hemispheres. The basal ganglia abnormality 
+demonstrate low signal on ADC map. However, other abnormalities 
+are small and no definite low ADCs identified in these regions 
+which may suggest T2 shine-through. There is no mass effect or 
+midline shift seen. No hemorrhage is identified.
+IMPRESSION: Acute right MCA infarct. Small areas of increased 
+signal in both cerebellar region on diffusion images could be 
+due to T2 shine-through, but given the small size acute infarcts 
+could not be excluded. Increased signal seen on diffusion images 
+in the right frontal lobe appears to be due to chronic infarct. 
+No mass effect is seen.
+
+MRA OF THE HEAD:
+The head MRA demonstrates occlusion of the right middle cerebral 
+artery near the bifurcation. The left ICA shows demonished flow 
+signal with narrowing of the supraclinoid portion indicatinve of 
+intrinsic atherosclerotic disease. The remaining arteries of 
+anterior and posterior circulation are somewhat tortuous but 
+patent. No stenosis is seen. There is hypoplastic A1 segment of 
+the left anterior cerebral artery, which could be a normal 
+variation.
+IMPRESSION: Occlusion of M1 segment of the right middle cerebral 
+artery.
+Narrowing of supraclinoid left ICA.
+
+MRA NECK W&W/O CONTRAST; MR CONTRAST GADOLIN
+FINDINGS: The right carotids show a somewhat tortuous appearance 
+but no evidence of stenosis is seen. Both vertebral arteries 
+demonstrate normal flow signal without stenosis or occlusion.
+The left common carotid artery is small in caliber and 
+demonstrates lower flow signal compared to the right side. There 
+appears to be low position of the left carotid bifurcation. The 
+left internal carotid artery is small in size which could be due 
+to high-grade stenosis the origin. Since the MRA is somewhat 
+limited by motion, further evaluation of the left carotid can be 
+obtained with CT angiography if clinically indicated. The CT 
+angiography can also help for further evaluation of great 
+vessels of the thoracic outlet which are not visualized on the 
+MRA.
+IMPRESSION: Somewhat tortuous but normal vertebrals and right 
+internal carotid arteries. Deminished flow signal caliber of 
+left carotid due to high grade stenosis at the origin. For 
+better assessment, CTA would help. No evidence of acute 
+dissection on the fat-suppressed axial images of the neck and 
+MRA of the neck.
+
+MRI CERVICAL SPINE
+No evidence of ligamentous disruption seen. Subtle increased 
+signal in T1 and possibly in T2 vertebral bodies could be 
+secondary to marrow edema from trauma. Changes of cervical 
+spondylosis are noted with minimal extrinsic indentation on the 
+spinal cord at C3-4 level by disc bulging. No evidence of 
+intraspinal hematoma seen.
+
+CT OF THE THORACIC SPINE WITHOUT IV CONTRAST: T1 through T12 are 
+visualized. There is a wedge deformity of the T12 vertebral body 
+with associated cortical defects suggestive that this is an 
+acute wedge fracture. The T12 ring is intact. No definite 
+metastatic lesions are identified within T12. The remainder of 
+the thoracic vertebral body heights are preserved. The thoracic 
+disc spaces are preserved. There is no evidence of 
+spondylolisthesis. There are moderate degenerative changes with 
+anterior osteophytes at multiple levels. Mild endplate sclerotic 
+change is noted at T11/12 and T7/8. The neural foramina are 
+patent, and there is no evidence of encroachment upon the spinal 
+cord. A 1.5-cm lytic lesion of the T10 vertebral body is 
+consistent with metastatic disease. The visualized portion of 
+the lungs demonstrates [**Hospital1 **]- apical consolidation, worse on the 
+right.
+IMPRESSION:
+1. Wedge compression fracture of T12 may be acute. T12 ring is 
+intact. No definite metastatic lesions identified within T12.
+2. 1.5-cm lytic focus of the T10 vertebral body consistent with 
+metastatic disease.
+3. Incompletely imaged on this spine CT is [**Hospital1 **]-apical 
+consolidation, worse on the right.
+
+CT OF THE LUMBAR SPINE WITHOUT IV CONTRAST: There are six 
+non-rib-bearing lumbar vertebral bodies. There is preservation 
+of the lumbar vertebral body heights and disc spaces. There is 
+no evidence of acute fracture or spondylolisthesis of the lumbar 
+spine. AP alignment is preserved. The neural foramina are patent 
+and there is no encroachment upon the spinal cord. There are 
+multiple aggressive-appearing lytic lesions of the bilateral 
+iliac bones and sacrum. The largest measures 3 x 2 cm and is 
+located within the right ilium along the sacroiliac joint. There 
+is significant destruction of the sacrum. These findings are 
+consistent with metastatic disease. There are calcifications of 
+the abdominal aorta and iliac arteries. The regional soft 
+tissues are unremarkable.
+IMPRESSION:
+1. No acute fracture or spondylolisthesis of the lumbar spine.
+2. Multiple destructive lytic lesions of the sacrum and ilii 
+consistent with metastatic disease.
+
+TTE:
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or color Doppler. Left ventricular wall thickness, 
+cavity size, and systolic function are normal (LVEF>55%). 
+Regional left ventricular wall motion is normal. No masses or 
+thrombi are seen in the left ventricle. Right ventricular 
+chamber size and free wall motion are normal. There is no aortic 
+valve stenosis. No aortic regurgitation is seen. Trivial mitral 
+regurgitation is seen. The tricuspid regurgitation jet is 
+eccentric and may be underestimated. There is a 
+trivial/physiologic pericardial effusion.  
+ 
+Brief Hospital Course:
+1. Stroke: Further history after admission elucidated that the 
+pt actually developed left-sided weakness prior to the 
+automobile accident.  Neurologic examination on admission was 
+notable for left facial droop and left sided hemiplegia. MRI of 
+the brain on admission demonstrated acute right MCA infarct. MRA 
+of the circle of [**Location (un) 345**] showed occlusion of M1 segment of the 
+right middle cerebral artery. MRA of the neck vessels with fat 
+sats demonstrated no evidence of dissection, but did demonstrate 
+somewhat tortuous but normal vertebrals and right internal 
+carotid arteries. Diminished flow signal caliber of left carotid 
+due to high grade stenosis at the origin was also noted. TTE 
+revealed no evidence of thrombus or focal hypokinesis. The pt 
+was started on 325mg of ASA daily.  He was also started on fish 
+oil (for hypercoagulable state due to underlying malignancy) 
+statin for plaque stabilization.  Throughout the hospital stay, 
+the pt remained encephalopathic but gradually improved.  The 
+etiology underlying the encephalopathy was thought to be due to 
+stroke location, pneumonia, and overuse of narcotic analgesics 
+while in the intensive care unit. 
+
+2. T12 compression fracture: Trauma work-up after the MVA 
+demonstrated T12 compression fracture.  Discussion with the pt's 
+oncologist and radiation oncologist revealed that this lesion 
+had actually been receiving palliative radiation therapy, so 
+likely represented a pathologic fracture. Ortho spine was 
+consulted and recommended placing the pt in a TLSO brace when 
+out of bed.
+
+3. Splenic laceration: Noted on trauma work-up. Per trauma 
+surgery, it was a grade I laceration and required no further 
+intervention.  They commented that it was acceptable to use 
+antiplatelet medications.
+
+4. Metastatic lung cancer: Stage IV per the pt's oncologist.  He 
+was in the midst of undergoing palliative XRT to bony metastases 
+in the thoracic spine and sacrum.  This should be continued 
+after transfer to rehab.
+
+5. Right lung pneumonia: The pt was discovered to have right 
+lung infiltrate on CXR. He was started on a ten day course of 
+levofloxacin and metronidazole.  At the time of discharge, he 
+was receiving day 3 of a 10 day course.
+
+ 
+Medications on Admission:
+-Levoxyl
+-MSContin
+-Percocet
+
+ 
+Discharge Medications:
+1. Bisacodyl 10 mg Suppository Sig: One (1) Suppository Rectal 
+HS (at bedtime) as needed.  
+2. Heparin (Porcine) 5,000 unit/mL Solution Sig: One (1)  
+Injection TID (3 times a day).  
+3. Erythromycin 5 mg/g Ointment Sig: One (1)  Ophthalmic  QID (4 
+times a day).  
+4. Acetaminophen 160 mg/5 mL Solution Sig: One (1)  PO Q6H 
+(every 6 hours).  
+5. Aspirin 325 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+6. Levothyroxine 25 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+7. Levofloxacin 500 mg Tablet Sig: One (1) Tablet PO Q24H (every 
+24 hours) for 7 days.  
+8. Atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+9. Metronidazole 500 mg Tablet Sig: One (1) Tablet PO TID (3 
+times a day) for 7 days.  
+10. Lansoprazole 30 mg Tablet,Rapid Dissolve, DR [**Last Name (STitle) 68**]: One (1) 
+Tablet,Rapid Dissolve, DR [**Last Name (STitle) 69**] DAILY (Daily).  
+11. Omega-3 Fatty Acids 550 mg Capsule Sig: Two (2) Capsule PO 
+BID (2 times a day).  
+12. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q6H (every 6 
+hours) as needed.  
+13. Dolasetron Mesylate 12.5 mg IV Q8H:PRN 
+14. Morphine Sulfate 1-2 mg IV Q2H:PRN prn pain 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+[**Hospital3 584**] & Rehab Center - [**Hospital1 486**]
+ 
+Discharge Diagnosis:
+-right MCA territory ischemic stroke
+-grade I splenic laceration
+-presumed aspiration pneumonia
+-T12 wedge compression fracture
+-Asymptomatic high-grade left internal carotid artery stenosis
+ 
+Discharge Condition:
+Stable. Neurologic examination notable for left hemiplegia, 
+neglect of left half of space, anosagnosia, dysphagia.
+
+ 
+Discharge Instructions:
+Please continue to take all of your medications as prescribed.  
+Please attend all follow-up appointments.  If [**Doctor First Name **] experience any 
+concerning symptoms, please call your primary care doctor or 
+come to the emergency department for evaluation.
+ 
+Followup Instructions:
+Please follow-up with your primary care doctor 7-10 days after 
+discharge from rehab.
+
+Neurology: Please call [**Telephone/Fax (1) 5495**] to schedule a follow-up 
+appointment in Neurology Clinic with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **].
+
+Please follow-up with your oncologist and radiation oncologist 
+after discharge.  Please call their respective offices for 
+appointments.
+ 
+                             [**Name6 (MD) 2178**] [**Last Name (NamePattern4) 2179**] MD, [**MD Number 4320**]
+ 
+Completed by: [**First Name11 (Name Pattern1) **] [**Last Name (NamePattern4) 2378**] MD [**MD Number 2379**] [**2741-5-1**] @ 1355
+Signed electronically by: DR. [**First Name8 (NamePattern2) 2178**] [**Name (STitle) **]
+ on: [**Doctor First Name 46**] [**2741-5-8**] 9:53 AM
+(End of Report)
+
+
+",,
+8311,26921,10335,,2741-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-4-26**] 7:53 PM
+     MRA NECK W&W/O CONTRAST; MR CONTRAST GADOLIN                    Clip # [**Clip Number (Radiology) 6821**]
+     Reason: with sats to evaluate for carotid sissection                
+     Admitting Diagnosis: SPLENIC LACERATION
+      Contrast: MAGNEVIST Amt: 20CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with stoke pre trauma                                           
+     REASON FOR THIS EXAMINATION:
+      with sats to evaluate for carotid sissection                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM:  MRA of the neck.
+     
+     CLINICAL INFORMATION:  Patient for further evaluation to exclude carotid
+     dissection.
+     
+     TECHNIQUE:  2D time-of-flight MRA of the neck vessels acquired.  Following
+     this, gadolinium MRA of the neck was obtained.  Gadolinium-enhanced MRA is
+     somewhat limited by motion and venous contamination.
+     
+     FINDINGS:  The right carotids show a somewhat tortuous appearance but no
+     evidence of stenosis is seen.  Both vertebral arteries demonstrate normal flow
+     signal without stenosis or occlusion.
+     
+     The left common carotid artery is small in caliber and demonstrates lower flow
+     signal compared to the right side. There appears to be low position of the
+     left carotid bifurcation.  The left internal carotid artery is small in size
+     which could be due to high-grade stenosis the origin.  Since the MRA is
+     somewhat limited by motion, further evaluation of the left carotid can be
+     obtained with CT angiography if clinically indicated.  The CT angiography can
+     also help for further evaluation of great vessels of the thoracic outlet which
+     are not visualized on the MRA.
+     
+     IMPRESSION:  Somewhat tortuous but normal vertebrals and right internal
+     carotid arteries.   Deminished flow signal caliber of left carotid due to
+     high grade stenosis at the origin. For better assessment, CTA would help. No
+     evidence of acute dissection on the fat-suppressed axial images of the neck
+     and MRA of the neck.
+     
+
+",,
+8311,26921,10335,,2741-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-4-26**] 7:53 PM
+     MRA NECK W&W/O CONTRAST; MR CONTRAST GADOLIN                    Clip # [**Clip Number (Radiology) 6821**]
+     Reason: with sats to evaluate for carotid sissection                
+     Admitting Diagnosis: SPLENIC LACERATION
+      Contrast: MAGNEVIST Amt: 20CC
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with stoke pre trauma                                           
+     REASON FOR THIS EXAMINATION:
+      with sats to evaluate for carotid sissection                                    
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     EXAM:  MRA of the neck.
+     
+     CLINICAL INFORMATION:  Patient for further evaluation to exclude carotid
+     dissection.
+     
+     TECHNIQUE:  2D time-of-flight MRA of the neck vessels acquired.  Following
+     this, gadolinium MRA of the neck was obtained.  Gadolinium-enhanced MRA is
+     somewhat limited by motion and venous contamination.
+     
+     FINDINGS:  The right carotids show a somewhat tortuous appearance but no
+     evidence of stenosis is seen.  Both vertebral arteries demonstrate normal flow
+     signal without stenosis or occlusion.
+     
+     The left common carotid artery is small in caliber and demonstrates lower flow
+     signal compared to the right side. There appears to be low position of the
+     left carotid bifurcation.  The left internal carotid artery is small in size
+     which could be due to high-grade stenosis the origin.  Since the MRA is
+     somewhat limited by motion, further evaluation of the left carotid can be
+     obtained with CT angiography if clinically indicated.  The CT angiography can
+     also help for further evaluation of great vessels of the thoracic outlet which
+     are not visualized on the MRA.
+     
+     IMPRESSION:  Somewhat tortuous but normal vertebrals and right internal
+     carotid arteries.   Deminished flow signal caliber of left carotid due to
+     high grade stenosis at the origin. For better assessment, CTA would help. No
+     evidence of acute dissection on the fat-suppressed axial images of the neck
+     and MRA of the neck.
+     
+
+",,
+8311,26921,10335,,2741-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-4-26**] 10:30 AM
+     CT L-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 6820**]
+     Reason: MVC, PAIN, LUNG CA, ? METS, ? INJURY
+     Admitting Diagnosis: SPLENIC LACERATION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with w/ metastatic lung CA s/p MVC.                             
+     REASON FOR THIS EXAMINATION:
+      TLS injury?                                                                     
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     62-year-old male with metastatic lung cancer, now status post motor vehicle
+     collision and concern for traumatic spinal injury.
+     
+     TECHNIQUE:  MDCT continuously acquired axial images of the lumbar spine were
+     obtained without IV contrast.  Coronal and sagittal reconstructions were
+     performed.
+     
+     CT OF THE LUMBAR SPINE WITHOUT IV CONTRAST:  There are six non-rib-bearing
+     lumbar vertebral bodies.  There is preservation of the lumbar vertebral body
+     heights and disc spaces.  There is no evidence of acute fracture or
+     spondylolisthesis of the lumbar spine.  AP alignment is preserved.  The neural
+     foramina are patent and there is no encroachment upon the spinal cord.  There
+     are multiple aggressive-appearing lytic lesions of the bilateral iliac bones
+     and sacrum.  The largest measures 3 x 2 cm and is located within the right
+     ilium along the sacroiliac joint.  There is significant destruction of the
+     sacrum.  These findings are consistent with metastatic disease.  There are
+     calcifications of the abdominal aorta and iliac arteries. The regional soft
+     tissues are unremarkable.
+     
+     IMPRESSION:
+     1.  No acute fracture or spondylolisthesis of the lumbar spine.
+     2.  Multiple destructive lytic lesions of the sacrum and ilii consistent with
+     metastatic disease.
+     
+
+",,
+8311,26921,10335,,2741-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+",,
+8311,26921,10335,,2741-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-4-26**] 10:14 AM
+     CT T-SPINE W/O CONTRAST                                         Clip # [**Clip Number (Radiology) 6819**]
+     Reason: PAIN, S/P MVC, LUNG CA, ? INJURY, ? METS
+     Admitting Diagnosis: SPLENIC LACERATION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with lung CA w/ mets to bone s/p MVC.                           
+     REASON FOR THIS EXAMINATION:
+      TLS spine injury                                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     62-year-old male with lung cancer and osseous metastases, now status post
+     motor vehicle collision.
+     
+     TECHNIQUE:  MDCT continuously acquired axial images of the thoracic spine were
+     obtained without IV contrast.  Coronal and sagittal reconstructions were
+     performed.
+     
+     CT OF THE THORACIC SPINE WITHOUT IV CONTRAST:  T1 through T12 are visualized.
+     There is a wedge deformity of the T12 vertebral body with associated cortical
+     defects suggestive that this is an acute wedge fracture. The T12 ring is
+     intact. No definite metastatic lesions are identified within T12. The
+     remainder of the thoracic vertebral body heights are preserved.  The thoracic
+     disc spaces are preserved.  There is no evidence of spondylolisthesis.  There
+     are moderate degenerative changes with anterior osteophytes at multiple
+     levels.  Mild endplate sclerotic change is noted at T11/12 and T7/8.  The
+     neural foramina are patent, and there is no evidence of encroachment upon the
+     spinal cord.  A 1.5-cm lytic lesion of the T10 vertebral body is consistent
+     with metastatic disease.  The visualized portion of the lungs demonstrates [**Hospital1 **]-
+     apical consolidation, worse on the right.
+     
+     IMPRESSION:
+     1.  Wedge compression fracture of T12 may be acute.  T12 ring is intact.  No
+     definite metastatic lesions identified within T12.
+     2.  1.5-cm lytic focus of the T10 vertebral body consistent with metastatic
+     disease.
+     3.  Incompletely imaged on this spine CT is [**Hospital1 **]-apical consolidation, worse on
+     the right.
+     
+     The results of this study were discussed with Dr. [**Last Name (STitle) **] at 2 p.m. on [**4-27**], 2006.
+     
+     NOTE ADDED AT ATTENDING REVIEW: the lung disease appears quite extensive, not
+     confined to the apices, and there are bilateral pleural effusions.
+
+",,
+8311,26921,10335,,2741-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-4-26**] 9:23 AM
+     MR CERVICAL SPINE                                               Clip # [**Clip Number (Radiology) 6818**]
+     Reason: RULE OUT C SPINE TRAUMA,51YEAR OLD MAN WITH STROKE AND S/P MVA
+     Admitting Diagnosis: SPLENIC LACERATION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     
+     CLINICAL INFORMATION:  Patient with question of cervical spine trauma for
+     further evaluation.
+     
+     TECHNIQUE:  T1, T2 and inversion recovery sagittal and gradient echo and T2
+     images of the cervical spine were acquired.
+     
+     FINDINGS:  At the craniocervical junction and at C2-3, mild degenerative
+     changes are noted.
+     
+     At C3-4, disc bulging and moderate narrowing of the right neural foramen is
+     seen without spinal stenosis.
+     
+     At C4-5, disc and uncovertebral degenerative changes are seen with mild-to-
+     moderate bilateral foraminal stenosis.  Mild disc bulging is seen.
+     
+     At C5-6, there is disc bulging with moderate left foraminal stenosis.
+     
+     At C6-7, disc bulging and bilateral mild foraminal stenosis is identified.
+     
+     From C7-T1 to T3-4, degenerative disc disease is identified without
+     significant bulge or herniation.
+     
+     The spinal cord shows normal intrinsic signal.  Minimal extrinsic indentation
+     on the spinal cord is seen by disc bulging at C3-4 level.
+     
+     The T1 and T2 vertebrae demonstrates slightly increased signal on inversion
+     recovery images, which could be due to mild marrow edema from trauma.  The
+     patient has fracture in the lower thoracic spine seen on the CT of the same
+     day.
+     
+     IMPRESSION:  No evidence of ligamentous disruption seen.  Subtle increased
+     signal in T1 and possibly in T2 vertebral bodies could be secondary to marrow
+     edema from trauma.  Changes of cervical spondylosis are noted with minimal
+     extrinsic indentation on the spinal cord at C3-4 level by disc bulging.  No
+     evidence of intraspinal hematoma seen.
+     
+
+",,
+8311,26921,10335,,2741-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-4-26**] 1:20 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 6817**]
+     Reason: Please assess for stroke and do MRA to assess for basilar ar
+     Admitting Diagnosis: SPLENIC LACERATION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with question of basilar artery thrombosis. Also may have RMCA 
+      stroke
+     REASON FOR THIS EXAMINATION:
+      Please assess for stroke and do MRA to assess for basilar artery clot.          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI BRAIN AND MRA OF THE HEAD.
+     
+     CLINICAL INFORMATION:  Patient with question of basal artery thrombosis, also
+     may have right MCA stroke.
+     
+     TECHNIQUE:  T1 sagittal and FLAIR, T2 susceptibility and diffusion axial
+     images of the brain were acquired.  3D time-of-flight MRA of the circle of
+     [**Location (un) 220**] was obtained.
+     
+     FINDINGS:  BRAIN MRI:
+     
+     There is an area of slow diffusion seen in the right basal ganglia extending
+     to the corona radiata.  There are also areas of increased signal seen on
+     diffusion images in the right frontal lobe and in the watershed distribution
+     and small areas of hyperintensity are seen in the left occipital lobe and both
+     cerebellar hemispheres.  The basal ganglia abnormality  demonstrate low signal
+     on ADC map.  However, other abnormalities are small and no definite low ADCs
+     identified in these regions which may suggest T2 shine-through.  There is no
+     mass effect or midline shift seen. No hemorrhage is identified.
+     
+     IMPRESSION:  Acute right MCA infarct.  Small areas of increased signal in both
+     cerebellar region on diffusion images could be due to T2 shine-through, but
+     given the small size acute infarcts could not be excluded.  Increased signal
+     seen on diffusion images in the right frontal lobe appears to be due to
+     chronic infarct.  No mass effect is seen.
+     
+     MRA OF THE HEAD:
+     
+     The head MRA demonstrates occlusion of the right middle cerebral artery near
+     the bifurcation.  The left ICA shows demonished flow signal with
+     narrowing of the supraclinoid portion indicatinve of intrinsic
+     atherosclerotic disease. The remaining arteries of anterior and posterior
+     circulation are somewhat tortuous but patent.  No stenosis is seen. There is
+     hypoplastic A1 segment of the left anterior cerebral artery, which could be a
+     normal variation.
+     
+     IMPRESSION:  Occlusion of M1 segment of the right middle cerebral artery.
+     Narrowing of supraclinoid left ICA.
+     
+                                                                 (Over)
+
+     DATE: [**2741-4-26**] 1:20 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 6817**]
+     Reason: Please assess for stroke and do MRA to assess for basilar ar
+     Admitting Diagnosis: SPLENIC LACERATION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8311,26921,10335,,2741-04-26 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-4-26**] 1:20 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 6817**]
+     Reason: Please assess for stroke and do MRA to assess for basilar ar
+     Admitting Diagnosis: SPLENIC LACERATION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      51 year old man with question of basilar artery thrombosis. Also may have RMCA 
+      stroke
+     REASON FOR THIS EXAMINATION:
+      Please assess for stroke and do MRA to assess for basilar artery clot.          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     MRI BRAIN AND MRA OF THE HEAD.
+     
+     CLINICAL INFORMATION:  Patient with question of basal artery thrombosis, also
+     may have right MCA stroke.
+     
+     TECHNIQUE:  T1 sagittal and FLAIR, T2 susceptibility and diffusion axial
+     images of the brain were acquired.  3D time-of-flight MRA of the circle of
+     [**Location (un) 220**] was obtained.
+     
+     FINDINGS:  BRAIN MRI:
+     
+     There is an area of slow diffusion seen in the right basal ganglia extending
+     to the corona radiata.  There are also areas of increased signal seen on
+     diffusion images in the right frontal lobe and in the watershed distribution
+     and small areas of hyperintensity are seen in the left occipital lobe and both
+     cerebellar hemispheres.  The basal ganglia abnormality  demonstrate low signal
+     on ADC map.  However, other abnormalities are small and no definite low ADCs
+     identified in these regions which may suggest T2 shine-through.  There is no
+     mass effect or midline shift seen. No hemorrhage is identified.
+     
+     IMPRESSION:  Acute right MCA infarct.  Small areas of increased signal in both
+     cerebellar region on diffusion images could be due to T2 shine-through, but
+     given the small size acute infarcts could not be excluded.  Increased signal
+     seen on diffusion images in the right frontal lobe appears to be due to
+     chronic infarct.  No mass effect is seen.
+     
+     MRA OF THE HEAD:
+     
+     The head MRA demonstrates occlusion of the right middle cerebral artery near
+     the bifurcation.  The left ICA shows demonished flow signal with
+     narrowing of the supraclinoid portion indicatinve of intrinsic
+     atherosclerotic disease. The remaining arteries of anterior and posterior
+     circulation are somewhat tortuous but patent.  No stenosis is seen. There is
+     hypoplastic A1 segment of the left anterior cerebral artery, which could be a
+     normal variation.
+     
+     IMPRESSION:  Occlusion of M1 segment of the right middle cerebral artery.
+     Narrowing of supraclinoid left ICA.
+     
+                                                                 (Over)
+
+     DATE: [**2741-4-26**] 1:20 AM
+     MR HEAD W/O CONTRAST; MRA BRAIN W/O CONTRAST                    Clip # [**Clip Number (Radiology) 6817**]
+     Reason: Please assess for stroke and do MRA to assess for basilar ar
+     Admitting Diagnosis: SPLENIC LACERATION
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+
+",,
+8311,26921,10335,0,2741-04-26 05:34:00 EST,2741-04-26 05:57:00 EST,495,"N",74,"Nursing/Other","TSICU NSG ADMISSION NOTE","
+TSICU NSG ADMISSION NOTE
+O: 62 Y/O MALE W/ RECENT DIAGNOSIS OF STAGE IV LUNG CA W/ METS TO PELVIS AND SPINE. PT WAS DRIVING HOME FROM 2ND RADIATION TX WHEN HE APPARRENTLY HAD UNWITNESSED MVC. PASSERBY NOTICED PT WANDERING OUTSIDE HIS CAR. HE WAS TAKEN TO [**Hospital 322**] HOSPITAL WHERE THEY NOTED L SIDED WEAKNESS AND FACIAL DROOP. HEAD CT WAS NEGATIVE BUT ABD CT SHOWED GRADE 1 SPLENIC LAC AND PT WAS TRANSFERRED TO [**Hospital1 22**] FOR FURTHER MANAGEMENT. HEAD CT HERE SHOWED EVIDENCE OF R SIDED MCA STROKE AND THERE WAS A QUESTION OF BASILAR ARTERY INFARCT. MRI/MRA DONE AND PRELIMINARY RESULTS SHOW R MCA STROKE W/ BILAT INFARCTS AND EVIDENCE OF WATERSHED INFARCTS. PT WAS TRANSFERRED TO TSICU ABT 0300 IN STABLE CONDITION.
+
+ROS:
+
+NEURO: PT HAS SL SLURRED SPEECH BUT ABLE TO ANSWER QUESTIONS APPROPRIATELY. LETHARGIC, ORIENTED X3, PEARL. PT SL RESTLESS BUT CALMS W/ CONVERSATION. MOVING R SIDE W/ NORMAL STRENGTH AND CONT W/ NO LEFT SIDED MOVEMENT (SL MOVEMENT OF LLE BUT DIFFICULT TO ASSESS.) FACIAL DROOP DIFFICULT TO SEE W/ C-COLLAR IN PLACE. PT REMAINS ON LOGROLL AND LYING FLAT. C/O PAIN IN PELVIS AND HIP. TXED W/ 10MG IVP MS04 W/ GD EFFECT.
+
+CV: STABLE W/ HR 80'S -90'S NSR, RARE PVC. TACHY TO 110 WHEN RESTLESS. 
+STABLE BP. CARDIAC ENZYMES SENT X1 AND PND.
+
+RESP: PT STABLE ON RM AIR 96%. OCCASIONALLY NEEDED 4LNP D/T DIP IN O2SATS < 90%. LS W/ AUDIBLE INSP/EXP WHEEZES AND CRACKLES. DENIES SOB. SRR 16-20.
+
+RENAL: ADEQUATE U/O VIA FOLEY. IVF LR AT 125CC/HR. K REPLETED, LYTES WNL.
+
+GI: REMAINS NPO. C/O NAUSEA X1 BUT NO VOMITING. ABD SOFT.
+
+HEME: HCT STABLE 36.5, INR 1.1. 
+
+ID: AFEBRILE. WBC 10.
+
+SKIN: ECHYMOSIS AROUND EYES BILAT AND SCATTERED BRUISING ON BODY BUT NO SKIN BREAKDOWN NOTED.
+
+SH: PT WAS ACCOMPANIED BY WIFE AND BROTHER-IN-LAW. PT'S WIFE IS THE SPOKESPERSON. SHE STATES THINGS HAVE NOT GONE WELL WITH NEW DIAGNOSIS OF LUNG CA. FEELING VERY ANXIOUS BUT AWARE THAT SHE NEEDED [**Doctor Last Name **].
+FAMILY WENT HOME AFTER PT WAS SETTLED AND WILL RETURN LATER TODAY. 
+
+A: NEURO STATUS UNCHANGED S/P NEW CVA. HCT STABLE W/ GR 1 SPLENIC LAC. 
+STABLE RESP STATUS W/ LUNG CA. 
+
+P: CONT TO MONITOR AND SUPPORT SYSTEMS. PAIN CONTROL W/ MS04 AS NEEDED. CONT TO MONITOR NVS FOR CHANGES. PULM TOILET.  NPO FOR NOW AMND EVALUATE SWALLOWING PRIOR TO INTAKE. CONTACT CA MD RE: RADIATION THERAPY. PT AND FAMILY SUPPORT. SS CONSULT. 
+",,
+8311,26921,10335,0,2741-04-26 16:31:00 EST,2741-04-26 16:59:00 EST,7632,"N",74,"Nursing/Other","TSICU Nursing Progress Note","
+TSICU Nursing Progress Note
+Neuro - Continues with Q1H neuro checks.  This am went for MRI c-spine, and CT T and L spine.  No results for either yet, waiting to go for MRA of neck to rule out arterial dissection.  Neuro stable throughout day.  Continually is A&O x3.  Follows commands, has begun to have some small movement of left side.  Right is normal strength, Left hand small hand movements, and left foot withdraws to stimulation.  Pupils PERRLA, resists opening Right eye, but not left.  Notable left sided weakness.  INtact cough and gag.  Continues on logroll precautions with c-collar in place, until final reads are back on scans.  [**Name8 (MD) **] MD's pt is to lay flat and not be in reverse T, for better blood flow and blood pressure in brain.  Chronic pain due to lung CA.  Medicated with 10mg morphine frequently for pain, with + results.
+
+CV - HR 70-110 sinus rhythm, no ectopy noted.  BP by cuff 100-120 systolic.  + strong peripheral pulses, skin pink, warm, and dry.  Cycling cardiac enzymes and hematocrits.  Next due for both at 2000.  
+
+Resp - Pt. recently diagnosed with stage IV lung cancer with mets to the bones.  Lungs with in/ex wheezes consistently.  Currently on 4lpm NC, needs frequent reminders to leave in place.  With o2, sats are 96-100%, on room air sats are 92-96%.  Denies shortness of breath.
+
+GI - Abdomen soft, nt, nd.  + bowel sounds throughout.  Currently is written for sips, however TLS not cleared and pt cannot sit upright, and so remains NPO.  no BM.
+
+GU - Foley draining clear yellow urine.  Dipped off in afternoon, currently receiving 500cc NS bolus for low urine output.
+
+Endo - No order for finger sticks, however one checked was 110.
+ 
+Id - Tmax 98.3 axillary, climbing through day.  Not currently on antibiotics.
+
+Skin - Bilateral eyes with contusions, red/purple in color, no drainage.  Few small bumps and scrapes here and there.  Posterior WNL, not reddened.
+
+Psych/social - Wife in for most of the day.  Other family here briefly.  Wife appropriate however glum.  Said it has been a hard time since he was diagnosed, only ~1 month ago.  At times when pt was anxious and fidgity wife had difficulty staying in the room and easily  became anxious herself.  However very supportive and concerned.  She spoke with neuromed team today.
+
+A - s/p CVA with left hemiparesis.  Impaired physical mobility.  Acute on chronic pain.  Impaired skin integrity.  Impaired coping.
+
+Plan - Continue to monitor per routine.  Awaiting final reads on TL scans to clear TLS spine.  When cleared may have sips and discontinue IV fluids.  Continue Q1H neuro checks.  3rd set cardiac enzymes due 2000, along with hematocrit.  Monitor urine output.  Continue to update pt and family of current plan of care.  Get social work involved to help both pt and wife deal with current diagnosis of stage IV lung CA.  Continue to monitor and treat for pain PRN.
+",,
+8311,26921,10335,0,2741-04-27 04:15:00 EST,2741-04-27 04:48:00 EST,6158,"N",74,"Nursing/Other","TSICU NPN 1900-0700","
+TSICU NPN 1900-0700
+EVENTS:
+
+-MRA of neck - offical read pending at this time
+
+
+REVIEW OF SYSTEMS:
+
+NEURO: Pt alert, sleeping on and off throughout night. Orientated X 3 for most of shift, yet confused this am to place, easily re-orientated. Pupils 3-4mm, briskly reactive. Right pupil difficult to assess due to swelling. Slight movement noted to LUE, no movement noted LLE. Normal strength to RUE and RLE. Agitated at times, pulling off oxygen and attempting to pull of [**Location (un) 204**] J collar. ""I just want to turn"". Morphine given for pain. Logroll precautions maintained. [**Location (un) 204**] J collar intact.
+
+RESP: 2L NC with SATS ranging 93-98%. LS coarse with insp/exp wheezes noted. Strong cough. 
+
+CV: SR 70-90's, no ectopy noted. SBP ranging 90-110's with MAPS >60. LR infusing at 60cc/hr. Afebrile. Magnesium and Potassium repleted.
+
+HEME: HCT trending down to 30.6 (this am) from 36.4 (last evening). TSICU HO aware. P-boots intact.
+
+GI: Abd soft, non-distended. NPO. Positive BS. Pepcid for GI prophylaxis.
+
+GU: Foley draining adequate amts clear yellow urine.
+
+SKIN: Bilateral eyes swollen with brusing. R>L. Difficult to open right eye due to swelling and pain. Backside intact.
+
+SOCIAL: Pt's wife, son, and other family members into visit last evening. Plan of care given.
+
+PLAN: Monitor neuro status, montior HCT's. Awaiting read of TLS films to clear back. ? transfer to floor today.
+
+
+",,
+8311,26921,,,2741-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-4-29**] 8:56 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 6823**]
+     Reason: Please eval for NGT positioning                             
+     Admitting Diagnosis: SPLENIC LACERATION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       62 year old man with NGT removed by pt, replaced                               
+                       
+     REASON FOR THIS EXAMINATION:
+      Please eval for NGT positioning                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Nasogastric tube removed by patient and replaced.
+     
+     COMPARISON:  [**2741-4-29**] at 15:09.
+     
+     Nasogastric tube tip is seen within the stomach.  Heart and mediastinal
+     contours are unchanged.  Worsening right lung and left upper lobe airspace
+     opacities are present with a somewhat nodular appearance, findings likely
+     representing worsening aspiration pneumonia.  There are no effusions or
+     pneumothorax.  The pulmonary vascularity is within normal limits.
+     
+     IMPRESSION:  Nasogastric tube tip within the stomach.  Worsening multifocal
+     opacities with nodularity, likely representing aspiration pneumonia.  Continue
+     to follow until resolution is recommended.
+                                                                           DFDdp
+
+",,
+8311,26921,,,2741-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-4-29**] 2:48 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6822**]
+     Reason: Is NGT in place?                                            
+     Admitting Diagnosis: SPLENIC LACERATION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with NGT placed.                                                
+     REASON FOR THIS EXAMINATION:
+      Is NGT in place?                                                                
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Evaluation of the NG tube placement.
+     
+     Portable AP chest radiograph was reviewed without benefit of comparison to the
+     prior films.
+     
+     FINDINGS:  The NG tube tip is in the stomach in standard position.  The heart
+     size is normal.  Mediastinum has normal position, width and shape.
+     
+     There is entire right lung consolidation and left upper lobe consolidation,
+     which might represent pneumonia.  Some other possibilities such as hemorrhage
+     or asymmetric edema should also be considered, but in the absence of the
+     enlarged heart and pleural effusion, the pulmonary edema is less likely.  For
+     precise evaluation, additional clinical history and previous exams are
+     necessary.
+     
+     IMPRESSION:
+     Bilateral lung consolidatons as described most probably representing
+     pneumonia.
+
+",,
+8311,26921,,,2741-04-29 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-4-29**] 8:56 PM
+     CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 17**] # [**Clip Number (Radiology) 6823**]
+     Reason: Please eval for NGT positioning                             
+     Admitting Diagnosis: SPLENIC LACERATION
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       62 year old man with NGT removed by pt, replaced                               
+                       
+     REASON FOR THIS EXAMINATION:
+      Please eval for NGT positioning                                                 
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  Nasogastric tube removed by patient and replaced.
+     
+     COMPARISON:  [**2741-4-29**] at 15:09.
+     
+     Nasogastric tube tip is seen within the stomach.  Heart and mediastinal
+     contours are unchanged.  Worsening right lung and left upper lobe airspace
+     opacities are present with a somewhat nodular appearance, findings likely
+     representing worsening aspiration pneumonia.  There are no effusions or
+     pneumothorax.  The pulmonary vascularity is within normal limits.
+     
+     IMPRESSION:  Nasogastric tube tip within the stomach.  Worsening multifocal
+     opacities with nodularity, likely representing aspiration pneumonia.  Continue
+     to follow until resolution is recommended.
+                                                                           DFDdp
+
+",,
+8311,9245,,,2741-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-5-16**] 1:46 PM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6824**]
+     Reason: please eval; thanks                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+        62 year old man with lung ca now w/ sob.                                      
+     REASON FOR THIS EXAMINATION:
+      please eval; thanks                                                             
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     REASON FOR EXAMINATION:  Shortness of breath in a patient with known lung
+     cancer.
+     
+     Portable AP chest radiograph was compared to [**2741-4-29**].
+     
+     The patient's mediastinum has shifted markedly to the right.  On the current
+     chest x-rays the right hemithorax is almost completely opacified with more
+     prominent density in the lower portion of the right lung. Right pleural
+     effusion has been enlarged and is loculated.  Giving the new history of the
+     lung cancer, the above finding most probably represents almost complete
+     atelectasis of the lung due to obstructing mass with pleural effusion.  The
+     interstitial markings on the right are most probably related to the
+     lymphangitic spread of the tumor. This information was discussed with Dr. [**Last Name (STitle) 354**]
+     and further evaluation with chest CT was recommended.
+     
+     IMPRESSION: Complete opacification of right hemithorax  most probably
+     represents  atelectasis of the lung due to obstructing mass with
+     accompaning pleural effusion.
+
+",,
+8311,9245,,,2741-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-5-16**] 3:58 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 6825**]
+     Reason: r/o pe                                                      
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with lung ca now w/ sob.                                        
+     REASON FOR THIS EXAMINATION:
+      r/o pe                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JWK FRI [**2741-5-16**] 5:24 PM
+      Findings consistent multiple pulmonary emboli predominantly in the left
+      pulmonary arteries.
+      
+      Large right sided pleural effusion.
+      
+      Ill defined right hilar mass resulting in post-obstructive atelectasis.
+      
+      See report for details.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  62-year-old man with known lung cancer, now with shortness of
+     breath.  Evaluate for PE.
+     
+     No prior studies for comparison.
+     
+     TECHNIQUE:  Continuous axial images of the chest were obtained before and
+     after the administration of IV Optiray contrast.  Multiplanar reformatted
+     images were also performed.
+     
+     CTA CHEST:  Multiple filling defects are seen in the left main as well as left
+     upper and left lower lobe segmental and subsegmental pulmonary arteries. These
+     are consistent with extensive pulmonary emboli. The aorta is unremarkable.
+     There is a small pericardial effusion.  There are multiple pathologically
+     enlarged mediastinal lymph nodes.  For example, a large precarinal lymph node
+     measures 14 mm, best seen on series 3, image 27.  An ill- defined right hilar
+     mass compresses the upper lobe bronchus and nearly obliterates the right
+     middle and right lower lobe bronchi, resulting in postobstructive atelectasis.
+      There is a smaller poorly defined left hilar mass.  There is a large right
+     sided pleural effusion. Parenchymal opacities are seen in the right lung.
+     Multiple ill- defined nodular opacities are seen in the left upper and left
+     lower lobes which may represent metastasis or infection.
+     
+     The visualized portions of the upper abdomen are unremarkable.
+     
+     The osseous structures are unremarkable.
+     
+     Multiplanar reformatted images confirm the finding of multiple pulmonary
+     emboli.
+     
+     IMPRESSION:
+     1.  Extensive left segmental and subsegmental pulmonary emboli.
+                                                                 (Over)
+
+     DATE: [**2741-5-16**] 3:58 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 6825**]
+     Reason: r/o pe                                                      
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     2.  Right hilar mass resulting in postobstructive atelectasis.  The mass
+     encompasses multiple right pulmonary arteries.
+     
+     3.  Large right-sided pleural effusion.
+     
+     4.  Right parenchymal atelectasis/consolidation.
+     
+     5.  Scattered ill-defined left pulmonary nodules likely represent infection
+     although metastatic disease cannot be entirely excluded.
+     
+     The findings were conveyed to the ER via electronic dashboard.
+     
+     
+     
+     
+     
+     
+     
+
+",,
+8311,9245,,,2741-05-16 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-5-16**] 3:58 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 6825**]
+     Reason: r/o pe                                                      
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with lung ca now w/ sob.                                        
+     REASON FOR THIS EXAMINATION:
+      r/o pe                                                                          
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+     WET READ: JWK FRI [**2741-5-16**] 5:24 PM
+      Findings consistent multiple pulmonary emboli predominantly in the left
+      pulmonary arteries.
+      
+      Large right sided pleural effusion.
+      
+      Ill defined right hilar mass resulting in post-obstructive atelectasis.
+      
+      See report for details.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  62-year-old man with known lung cancer, now with shortness of
+     breath.  Evaluate for PE.
+     
+     No prior studies for comparison.
+     
+     TECHNIQUE:  Continuous axial images of the chest were obtained before and
+     after the administration of IV Optiray contrast.  Multiplanar reformatted
+     images were also performed.
+     
+     CTA CHEST:  Multiple filling defects are seen in the left main as well as left
+     upper and left lower lobe segmental and subsegmental pulmonary arteries. These
+     are consistent with extensive pulmonary emboli. The aorta is unremarkable.
+     There is a small pericardial effusion.  There are multiple pathologically
+     enlarged mediastinal lymph nodes.  For example, a large precarinal lymph node
+     measures 14 mm, best seen on series 3, image 27.  An ill- defined right hilar
+     mass compresses the upper lobe bronchus and nearly obliterates the right
+     middle and right lower lobe bronchi, resulting in postobstructive atelectasis.
+      There is a smaller poorly defined left hilar mass.  There is a large right
+     sided pleural effusion. Parenchymal opacities are seen in the right lung.
+     Multiple ill- defined nodular opacities are seen in the left upper and left
+     lower lobes which may represent metastasis or infection.
+     
+     The visualized portions of the upper abdomen are unremarkable.
+     
+     The osseous structures are unremarkable.
+     
+     Multiplanar reformatted images confirm the finding of multiple pulmonary
+     emboli.
+     
+     IMPRESSION:
+     1.  Extensive left segmental and subsegmental pulmonary emboli.
+                                                                 (Over)
+
+     DATE: [**2741-5-16**] 3:58 PM
+     CTA CHEST W&W/O C &RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 6825**]
+     Reason: r/o pe                                                      
+      Contrast: OPTIRAY Amt: 100
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     
+     2.  Right hilar mass resulting in postobstructive atelectasis.  The mass
+     encompasses multiple right pulmonary arteries.
+     
+     3.  Large right-sided pleural effusion.
+     
+     4.  Right parenchymal atelectasis/consolidation.
+     
+     5.  Scattered ill-defined left pulmonary nodules likely represent infection
+     although metastatic disease cannot be entirely excluded.
+     
+     The findings were conveyed to the ER via electronic dashboard.
+     
+     
+     
+     
+     
+     
+     
+
+",,
+8311,9245,10336,,2741-05-17 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2741-5-17**] 6:29 AM
+     CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 6826**]
+     Reason: Evaluate evolution of pneumonia and right sided pleural effu
+     Admitting Diagnosis: PULMONARY EMBOLIS
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      62 year old man with lung ca now with B/L PE and right-sided pleural effusion. 
+      w/sob.                                      
+     REASON FOR THIS EXAMINATION:
+      Evaluate evolution of pneumonia and right sided pleural effusion.               
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     HISTORY:  Lung cancer.  Shortness of breath.
+     
+     Single portable radiograph of the chest again demonstrates a large right-sided
+     pleural effusion, worse when compared to [**2741-5-16**].  No left-sided effusion. 
+     The trachea is midline.  Cardiomediastinal contours are within normal limits. 
+     Assessment of the position of the nasogastric tube is limited by technique. 
+     Patient motion artifact further degrades diagnostic quality.
+     
+     IMPRESSION:
+     
+     Worsening right-sided pleural effusion and right-sided atelectasis.
+     
+     Assessment of positioning of the patient's nasogastric tube is limited by
+     technique and patient motion.
+                                                                           
+
+",,
+8311,9245,10336,0,2741-05-17 02:26:00 EST,2741-05-17 02:44:00 EST,5197,"N",69,"Nursing/Other",,"
+
+NARRATIVE NOTE:
+
+PT WAS AT [**Hospital1 14**] AFTER RECENT D/C FROM [**Hospital1 22**] ON [**2741-5-1**]. PT HAD BEEN INVOLVED IN A MVA ON [**2741-4-26**], SUFFERED A LACERATED SPLEEN AND THE MVA WAS BELIEVED TO BE CAUSED BY A R SIDED STROKE. PT WAS IN PHYSICAL THERAPY AT [**Hospital1 14**] AND BECAME SOB WITH A SAO2 OF 92%. PT ALSO HAS A T-12 COMPRESSION FX OF THE SPINE. CXR SHOWED A COMPLETE ""WHITE OUT"" OF THE RIGHT LUNG. PE PLACED ON HEPARIN.
+
+CV: B/P HAS RANGED FROM 92/41-115/54. ST WITH HR RANGING 121-134, NO ECTOPY NOTED. PPP BILAT. PT ARRIVED TO MICU WITH HEPARIN GTT INFUSING AT 1150 UNITS/HR. PTT DRAWN AT 2230 42.2 A 1300 UNIT BOLUS WAS GIVEN AND GTT INCREASED TO 1300 UNITS/HR. WILL REDRAW AM PTT WITH AM LABS. PT ALSO RECIEVED 2 NS BOLUS OF 250CC FOR BORDERLINE B/P. 
+
+NEURO: PT IS A&O. HAS C/O C/P ON THE LEFT WHICH PT STATES IS NOT NEW. ENZIMES IN EW NEG. WILL RECHECK IN AM. EKG IN EW UNREMARKABLE. MED X2 WITH MORPHINE 4MG WITH RELIEF NOTED. PT ALSO STATED HE WAS ABLE TO BREATH BETTER AND RELAX. PT HAS HAD CVA ON THE RIGHT SIDE AND HAS RESIDUAL L SIDED WEAKNESS. NOT MOVING UPPER EXTREMITY BUT IS ABLE TO FLEX AND EXTEND THE ANKLE ON THE LEFT. PEARL. 
+
+RESP: HAS REMAINED ON N/C 2L. SAO2 HAS RANGED FROM 92-100%. RIGHT LUNG WITH MINIMAL AIR MOVEMENT. LEFT LUNG CLEAR WITH OCC EXP WHEEZES. NEBS GIVEN Q4HR.  7.44/35/84/25/0 ON 2L.
+
+ID: T MAX 101.4 RECTAL ON ADM. PT IN ON FLAGYL AND LEVOFLOXACIN. 
+
+GU/GI:FOLEY CATH PATENT, DRAINING DARK YELLOW URINE IN ADEQUATE AMTS. ABD SOFT WITH + BS. PT HAS A NG TUBE FROM [**Hospital1 14**], NPO EXCEPT MEDS.
+
+
+PLAN: TEAM SPOKE WITH FAMILY AND PT IS A DNR/DNI. PROVIDE EMOTIONAL SUPPORT TO PT AND FIMILY. PT HAS A SON WHO IS IN [**First Name8 (NamePattern2) **] [**Last Name (un) 5608**] AND ONE SON HERE. 
+",,

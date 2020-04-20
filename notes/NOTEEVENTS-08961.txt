@@ -1,0 +1,218 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8961,13052,,,2660-02-26 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2660-2-26**]       Discharge Date:  [**2660-3-1**]
+
+Date of Birth:   [**2588-10-22**]       Sex:  F
+
+Service:
+
+HISTORY OF THE PRESENT ILLNESS:  The patient is a 71-year-old
+woman who presents to an outside hospital status post a fall,
+transferred for evaluation of a subdural hematoma.
+
+PAST MEDICAL HISTORY:  The patient has a past medical history
+of breast cancer times 22 years with metastasis to the liver,
+bone, and the GI system.  She is status post a right
+mastectomy.
+
+REVIEW OF SYSTEMS:  The patient reports feeling more tired
+than usual a few days prior to the fall.  She was at home in
+bed and remembers getting up out of bed to the bathroom,
+unsure if sitting on the bed or walking. No symptoms prior to
+the fall.  No dizziness.  No headache, chest pain, or
+shortness of breath.  The next thing she remembers is that
+she had fallen with loss of consciousness and found by her
+husband.  The patient noted some dizziness a few days prior
+to a fall.  She described the room spinning.  Possibly she
+had weakness in her legs.
+
+STUDIES:  A head CT showed bilateral acute subdural
+hematomas, right greater than left and with a ribbon of
+subarachnoid hemorrhage on the right side.
+
+LABORATORY DATA FROM THE OUTSIDE HOSPITAL:  INR 1.2.
+Hematocrit 29.9, platelets 105,000.  Sodium 127, K 4.2,
+chloride 97, C02 21, BUN 29, creatinine 1.1.  The patient was
+admitted to the Neurosurgical Intensive Care Unit for close
+monitoring.  A Medicine consultation was obtained secondary
+to a history of syncope.  It was felt that it was most likely
+related to dehydration and also a low sodium.  The patient's
+baseline sodium of 131-133.  It was 127 on admission.  The
+medical recommendation was to keep the patient on telemetry
+for 48 hours which was done.  There were no episodes of any
+cardiac events in that 48 hour period.
+
+Therefore, telemetry was discontinued and the patient was
+transferred to the floor.  She was awake, alert, and oriented
+times three, moving all extremities with good strength with
+slight left-sided drift.  The patient was monitored in the
+Surgical Intensive Care Unit for 48 hours and then
+transferred to the regular floor.
+
+She was seen by Physical Therapy and Occupational Therapy and
+found to require rehabilitation.  Discussion with her primary
+care physician recommended transfer to [**Location (un) **]
+Rehabilitation where he could monitor her.  A Cortisol level
+was sent to check for addisonism as possible cause for
+hyponatremia.  The results are still pending.  The hematocrit
+on [**2660-3-1**] was 25.7.  The patient was transfused with 1 unit
+of packed cells.  The vital signs otherwise have been stable.
+The patient has been neurologically intact with a slight left
+drift and ecchymosis of the left eye.
+
+CONDITION AT THE TIME OF DISCHARGE:  Stable.
+
+DISCHARGE MEDICATIONS:
+1.  Calcium carbonate 1,000 mg p.o. q.i.d.
+2.  Lactulose 30 cc p.o. q. six hours p.r.n.
+3.  Percocet one to two tablets p.o. q. four hours p.r.n.
+4.  Spironolactone 25 mg p.o. q.d.
+5.  Colace 100 mg p.o. t.i.d.
+6.  Protonix 40 mg p.o. q. 24 hours.
+
+
+
+
+                            [**First Name11 (Name Pattern1) 470**] [**Last Name (NamePattern4) 471**], M.D.  [**MD Number 472**]
+
+Dictated By:[**Last Name (NamePattern1) 285**]
+MEDQUIST36
+
+D:  [**2660-3-1**]  08:39
+T:  [**2660-3-1**]  07:32
+JOB#:  [**Job Number 12523**]
+Signed electronically by: DR. [**First Name8 (NamePattern2) 470**] [**Last Name (NamePattern1) **]
+ on: FRI [**2660-4-6**] 4:40 PM
+(End of Report)
+
+
+",,
+8961,13052,11144,0,2660-02-26 18:34:00 EST,2660-02-26 18:49:00 EST,-1,"N",54,"Nursing/Other","ADMISSION NPN","
+ADMISSION NPN
+NEURO:  PT A&OX2 MAE'S W/OUT DIFFICULTY. NO PRONATOR DRIFT NOTED. TONGUE MIDLINE. SMILE SYMMETRICAL. PERRLA 3MM/BILAT/BRISK. STRENGTH 5/5 IN ALL EXTREMITIES. NO REPORTS OF VISUAL DIFFICULTY. NO REPORTS OF HA DISCOMFORT. PT NOTED TO HAVE SOME STM IMPAIRMENT & FORGETFUL OF SURROUNDINGS BUT REORIENTS EASILY. NON CONTRAST HEAD CT TO BE REPEATED IN AM OF 1/27 PER NEUROSURG. 
+
+RESP: LSCTA. 100% SPO2 ON 2L VIA N/C. CXR ORDERED.
+
+CV: AFEBRILE. NSR. HR REGULAR & IN 70'S. NO MURMURS AUSCULTATED. SBP 110-120'S. SBP < 140 PER NEUROSURG. NIPRIDE GTT ORDERED IF NEEDED. SKIN WARM & DRY. NO EDEMA. PALPABLE PERIPHERAL PULSES THROUGHOUT. #20 PIV IN LFA W/ NS @ 25CC/HR FOR GOAL OF TOTAL INTAKE NOT TO EXCEED 750CC. 
+ 
+GI: NPO X MEDS. ABD SLIGHTLY FIRM & DISTENDED W/ + BS. STATES LAST BM [**2-25**] & REPORTS BOWEL ROUTINE IS QD. COLACE & PRN LAXATIVES ORDERED.
+
+GU: FOLEY DRAINING SL HAZY YELLOW URINE. UA & CS SENT IN AM FROM EW. PT REPORTED URGENCY & STINGING W/ VOIDS  WHEN @ HOME. 
+
+PSYCHOSOCIAL: LIVES W/ HUSBAND. FAMILY UP TO VISIT & SPOKE W/ SICU RESIDENT @ PLAN OF CARE. PT IS A DNR/DNI. NEEDS SICU ATTENDING COSIGN.
+
+PLAN: Q1HR NEURO CHECKS. REPEAT HEAD CT IN AM.  
+",,
+8961,13052,11144,,2660-02-27 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2660-2-27**] 10:08 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12076**]
+     Reason: Evaluate progression of SDH, SAH                            
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      71 year old woman s/p fall SDH / Small SAH                                      
+     REASON FOR THIS EXAMINATION:
+      Evaluate progression of SDH, SAH                                                
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATIONS:  71 y/o female status post fall with subdural and subarachnoid
+     hemorrhages.
+     
+     TECHNIQUE:   CT of the brain without IV contrast.
+     
+     No prior studies are available for comparison.
+     
+     FINDINGS:  There is a moderate sized right frontal subdural hematoma which
+     measures 1.5 cm in maximum extent.  It is associated with minimal mass effect.
+     There is a small right parafalcine subdural hematoma as well as In a small
+     left frontal subdural hematoma. Subarachnoid blood is present along the
+     farthest extent of the right Sylvian fissure. There is mild effacement of the
+     sulci adjacent to the right frontal subdural collection. The ventricles and
+     cisterns are not effaced. The [**Doctor Last Name 30**]/white matter differentiation is grossly
+     preserved.
+     
+     The visualized osseous structures and paranasal sinuses are unremarkable.
+     
+     IMPRESSION:   Bilateral frontal subdural hematomas and small subararchnoid
+     hemorrhage as described above.
+
+",,
+8961,13052,11144,0,2660-02-27 07:12:00 EST,2660-02-27 07:18:00 EST,-1,"N",54,"Nursing/Other",,"
+
+7p-7a; Full assessment in flow sheet.
+
+Pt slept on and off most of the night. neurologically intact. a+OX3. MAE. clear speech. answer appropriately. no arms drift. equal smile. midline tongue. intact vision. HOH. no headache. 1 espisode of nausea - relief with zofran. no vomit. VSS, afebrile. warm, dry, no edema. clear lung sound. c/o abd pain - soft distended abd, +BSX4. no bm since [**2-25**] - ducolax, colax enema given - not successful. Pt very uncomfortable - reposition and backrub for comfort.. MD notify - no new order. foley patent - >20 cc/hr. skin intact - except ecchymotic L. eye. glucose 67 - no new order [**Name8 (MD) 34**] MD. 
+
+Plan; Continue to monitor. d/c to floor. 
+",,
+8961,13052,11144,0,2660-02-27 19:03:00 EST,2660-02-27 19:13:00 EST,-1,"N",54,"Nursing/Other",,"
+
+
+Neuro:  AAOX3, MAEx4, follows commands, neuro intact - no deficits.  OOB to commode several times today w/ assistance.  Occ unsteady, but for the most part, she does well w/ 1 assist.
+
+Cardiac:  HR=80s, NSR, no ectopy.  +periph pulses, extrems warm, no edema.  BP=110-130/30-40s. 
+
+Resp: Pt was on 2L N/C this am, and is currently on R/A w/ 02 sat=99-100%.  Lungs clear, but decreased.  No cough.
+
+GI:  Abd firm, round, +BS, taking small amt po-fluids, jello, pudding.  several BMs today - small, soft-formed.
+
+GU:  foley cath fell out at 1600.  It had pulled during OOB, and urine had beome bloody, then foley was out.  Pt OOB to commode at 1900 w/ 75cc amber urine.  Dr. [**Last Name (STitle) **] aware.
+
+Skin:  L eye very ecchymotic, much less edematous than in am as pt ia able to open her eye now.  Bloody drainage noted under tegaderm.
+
+ID: afebrile, no antibx.
+
+Procedures:  Head CT this am showed small increase in bleed.  Neuro's remain intact.
+
+Labs:  Plt given for 92 - up to 173 after infusion.
+
+Plan: continue to monitor nuero status, monitor u/o.  Repeat CT in am.
+",,
+8961,13052,11144,,2660-02-28 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2660-2-28**] 10:26 AM
+     CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 12077**]
+     Reason: Please eval for ICH                                         
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+       71 year old woman s/p fall SDH / Small SAH                                     
+       
+     REASON FOR THIS EXAMINATION:
+      Please eval for ICH                                                             
+     No contraindications for IV contrast
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  71 y/o female status post fall with subdural and subarachnoid
+     hemorrhages. Evaluate for interval change.
+     
+     TECHNIQUE:  CT of the brain without IV contrast.
+     
+     Comparison is made to prior exam from one day earlier.
+     
+     FINDINGS:  There has been no significant interval change in the appearance of
+     the patient's brain. Once again, there is a moderate sized right
+     frontoparietal subdural hematoma which is stable in size.  It is associated
+     with mild mass effect and effacement of the adjacent sulci. Also noted are a
+     small right parafalcine and small left frontal subdural hematoma, both of
+     which are unchanged in the interval. There is a minimal amount of subarachnoid
+     blood which appears stable in the interval.  The ventricles and cisterns are
+     not effaced. The [**Doctor Last Name 30**]-white matter differentiation is grossly preserved. There
+     is no shift of normally midline structures.
+     
+     The visualized osseous structures and paranasal sinuses are unremarkable.
+     
+     IMPRESSION:  Stable appearance of bilateral frontal subdural hematomas and
+     small subarachnoid hemorrhage as described above.
+
+",,
+8961,13052,11144,0,2660-02-28 04:16:00 EST,2660-02-28 04:24:00 EST,3214,"N",54,"Nursing/Other","NURSING UPDATE","
+NURSING UPDATE
+   SOME DISORIENTATION DURING NOC, CALLING OUT FOR HUSBAND, REMAINS EASILY REORIENTED.  OTHERWISE DISPLAYS NO NEUROLOGICAL CHANGES. 
+   DENIED PAIN OR NEED FOR SLEEPING MED EARLY NOC. AT 0300 AWOKE C/O LOWER ABDOMINAL DISCOMFORT. VOIDED 50CC ON BEDPAN, SO DUE TO MINIMAL URINE VOIDS, #16 FOLEY CATH INSERTED WITHOUT DIFFICULTY, INITIAL RETURN 100CC POST VOID RESIDUAL.  PERCOCET 2TABS GIVEN PO FOR DISCOMFORT WITH GOOD EFFECT, PT SETTLED AND SLEPT.
+   PLAN: REPEAT HEAD CT THIS AM.
+ 
+",,

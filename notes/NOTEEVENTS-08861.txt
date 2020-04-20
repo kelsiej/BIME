@@ -1,0 +1,589 @@
+SUBJECT_ID,HADM_ID,ICUSTAY_ID,ELEMID,CHARTTIME,REALTIME,CGID,CORRECTION,CUID,CATEGORY,TITLE,TEXT,EXAM_NAME,PATIENT_INFO
+8861,,,,2774-12-19 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2774-12-19**] 3:05 PM
+     CHEST (PA & LAT)                                                Clip # [**Clip Number (Radiology) 11069**]
+     Reason: 78 yo with limited small cell lung cancer. Follow-up chest x
+     ______________________________________________________________________________
+     UNDERLYING MEDICAL CONDITION:
+      82 year old woman with h/o limited small cell.
+     REASON FOR THIS EXAMINATION:
+      78 yo with limited small cell lung cancer. Follow-up chest x-ray.
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION:  82 y/o female with history of small cell lung cancer.
+     
+     FINDINGS: Comparison is made to prior radiograph of [**2774-8-31**].
+     
+     The heart size is stable. There is evidence of left ventricular enlargement
+     and an unfolded aorta.  There is evidence of decreased right sided pleural
+     effusion and interval improvement of the right lower lobe infiltrate. There is
+     a stable appearance of pulmonary parenchymal opacification in the region of
+     the right middle lobe and a prominent region of opacity in the right perihilar
+     region. There is evidence of atelectasis in the lingula.  The pulmonary
+     vascularity is normal with no evidence of failure.  There is no pneumothorax.
+     The soft tissues and osseous structures are unremarkable.
+     
+     IMPRESSION: Interval improvement with significant decreased size of right
+     sided pleural effusion and improvement of right lower lobe infiltrate. Stable
+     appearance of right middle lobe opacification and prominent opacity in the
+     right perihilar region. Evidence of linear atelectasis in the lingula.
+
+",,
+8861,,,,2774-12-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2774-12-24**] 2:56 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11070**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: SMALL CELL LUNG CANCER
+     Field of view: 27 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Reevaluation of small cell lung cancer.
+     
+     COMPARISON: [**2774-8-19**]
+     
+     TECHNIQUE: Contiguous axial images of the chest, abdomen and pelvis were
+     obtained without and with IV contrast.  150 cc of nonionic IV contrast were
+     administered. Nonionic IV contrast was used at patient's request.
+     
+     CHEST CT WITH IV CONTRAST: Soft tissue windows show interval resolution of
+     mediastinal lymphadenopathy.  No axillary or hilar lymph node enlargement is
+     seen.  Intrathoracic aorta has a normal caliber and exhibits extensive mural
+     calcifications.  New enhancing epicardial mass is seen within the pericardial
+     space.  In addition there is a very large pericardial effusion.  There is
+     reflux of contrast into the IVC and hepatic veins on the arterial phase of
+     contrast, suggestive of right heart failure.  New small bilateral pleural
+     effusions are also seen.  Lung windows show collapse of the lingula, possibly
+     compressive in nature from the enlarged cardiac contour.  Linear and patchy
+     opacities in a paramedial geographic distribution are new.  No pulmonary
+     nodules or masses are seen.  Airways appear patent to the level of the
+     segmental bronchi bilaterally.
+     
+     ABDOMEN CT W/O&W IV CONTRAST: Liver has a homogeneous enhancement pattern,
+     with no focal lesions.  There is no intrahepatic biliary tree dilatation.
+     Gallbladder has a very edematous wall in the absence of full distention.
+     Pancreas is unremarkable, with no ductal dilatation.  Spleen, stomach, small
+     and large bowel, kidneys, ureters and adrenal glands are within normal limits.
+     Intraabdominal aorta has a normal caliber and exhibits extensive mural
+     calcifications.  There is a small amount of ascites around the liver and
+     spleen.  No free air or lymphadenopathy are seen in the abdomen.
+     
+     PELVIC CT WITH IV CONTRAST:  There is a small amount of ascites extending into
+     the pelvis.  Rectum, pelvic loops of bowel, urinary bladder, distal ureters
+     and uterus are within normal limits.  No adnexal masses or pelvic
+     lymphadenopathy are seen.
+     
+     Osseous structures show stable Paget's disease in the pelvis.
+     
+     IMPRESSION:
+     1) New enhancing epicardial mass concerning for metastatic disease. Associated
+     very large new pericardial effusion.
+     
+     2) Findings suggestive of right heart failure, possibly secondary to
+     constrictive pericardial fluid, could explain the small bilateral pleural
+     effusions, edematous gallbladder wall, intraabdominal ascites and soft tissues
+     anasarca.
+     
+                                                                 (Over)
+
+     DATE: [**2774-12-24**] 2:56 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11070**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: SMALL CELL LUNG CANCER
+     Field of view: 27 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3) Compressive lingular atelectasis.
+     
+     4) Bilateral paramediastinal pulmonary opacities appear to have a geographic
+     distribution and could represent  post XRT changes.  Correlation with any
+     history of radiation therapy is necessary.  Given the appearance of these
+     opacities, tumor involvement is unlikely.  In the absence of prior history of
+     XRT, these findings could represent an infectious/inflammatory process.
+     
+     5) Heavily calcified aorta with normal caliber.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) **].
+
+",,
+8861,,,,2774-12-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2774-12-24**] 2:56 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11070**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: SMALL CELL LUNG CANCER
+     Field of view: 27 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Reevaluation of small cell lung cancer.
+     
+     COMPARISON: [**2774-8-19**]
+     
+     TECHNIQUE: Contiguous axial images of the chest, abdomen and pelvis were
+     obtained without and with IV contrast.  150 cc of nonionic IV contrast were
+     administered. Nonionic IV contrast was used at patient's request.
+     
+     CHEST CT WITH IV CONTRAST: Soft tissue windows show interval resolution of
+     mediastinal lymphadenopathy.  No axillary or hilar lymph node enlargement is
+     seen.  Intrathoracic aorta has a normal caliber and exhibits extensive mural
+     calcifications.  New enhancing epicardial mass is seen within the pericardial
+     space.  In addition there is a very large pericardial effusion.  There is
+     reflux of contrast into the IVC and hepatic veins on the arterial phase of
+     contrast, suggestive of right heart failure.  New small bilateral pleural
+     effusions are also seen.  Lung windows show collapse of the lingula, possibly
+     compressive in nature from the enlarged cardiac contour.  Linear and patchy
+     opacities in a paramedial geographic distribution are new.  No pulmonary
+     nodules or masses are seen.  Airways appear patent to the level of the
+     segmental bronchi bilaterally.
+     
+     ABDOMEN CT W/O&W IV CONTRAST: Liver has a homogeneous enhancement pattern,
+     with no focal lesions.  There is no intrahepatic biliary tree dilatation.
+     Gallbladder has a very edematous wall in the absence of full distention.
+     Pancreas is unremarkable, with no ductal dilatation.  Spleen, stomach, small
+     and large bowel, kidneys, ureters and adrenal glands are within normal limits.
+     Intraabdominal aorta has a normal caliber and exhibits extensive mural
+     calcifications.  There is a small amount of ascites around the liver and
+     spleen.  No free air or lymphadenopathy are seen in the abdomen.
+     
+     PELVIC CT WITH IV CONTRAST:  There is a small amount of ascites extending into
+     the pelvis.  Rectum, pelvic loops of bowel, urinary bladder, distal ureters
+     and uterus are within normal limits.  No adnexal masses or pelvic
+     lymphadenopathy are seen.
+     
+     Osseous structures show stable Paget's disease in the pelvis.
+     
+     IMPRESSION:
+     1) New enhancing epicardial mass concerning for metastatic disease. Associated
+     very large new pericardial effusion.
+     
+     2) Findings suggestive of right heart failure, possibly secondary to
+     constrictive pericardial fluid, could explain the small bilateral pleural
+     effusions, edematous gallbladder wall, intraabdominal ascites and soft tissues
+     anasarca.
+     
+                                                                 (Over)
+
+     DATE: [**2774-12-24**] 2:56 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11070**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: SMALL CELL LUNG CANCER
+     Field of view: 27 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3) Compressive lingular atelectasis.
+     
+     4) Bilateral paramediastinal pulmonary opacities appear to have a geographic
+     distribution and could represent  post XRT changes.  Correlation with any
+     history of radiation therapy is necessary.  Given the appearance of these
+     opacities, tumor involvement is unlikely.  In the absence of prior history of
+     XRT, these findings could represent an infectious/inflammatory process.
+     
+     5) Heavily calcified aorta with normal caliber.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) **].
+
+",,
+8861,,,,2774-12-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2774-12-24**] 2:56 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11070**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: SMALL CELL LUNG CANCER
+     Field of view: 27 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Reevaluation of small cell lung cancer.
+     
+     COMPARISON: [**2774-8-19**]
+     
+     TECHNIQUE: Contiguous axial images of the chest, abdomen and pelvis were
+     obtained without and with IV contrast.  150 cc of nonionic IV contrast were
+     administered. Nonionic IV contrast was used at patient's request.
+     
+     CHEST CT WITH IV CONTRAST: Soft tissue windows show interval resolution of
+     mediastinal lymphadenopathy.  No axillary or hilar lymph node enlargement is
+     seen.  Intrathoracic aorta has a normal caliber and exhibits extensive mural
+     calcifications.  New enhancing epicardial mass is seen within the pericardial
+     space.  In addition there is a very large pericardial effusion.  There is
+     reflux of contrast into the IVC and hepatic veins on the arterial phase of
+     contrast, suggestive of right heart failure.  New small bilateral pleural
+     effusions are also seen.  Lung windows show collapse of the lingula, possibly
+     compressive in nature from the enlarged cardiac contour.  Linear and patchy
+     opacities in a paramedial geographic distribution are new.  No pulmonary
+     nodules or masses are seen.  Airways appear patent to the level of the
+     segmental bronchi bilaterally.
+     
+     ABDOMEN CT W/O&W IV CONTRAST: Liver has a homogeneous enhancement pattern,
+     with no focal lesions.  There is no intrahepatic biliary tree dilatation.
+     Gallbladder has a very edematous wall in the absence of full distention.
+     Pancreas is unremarkable, with no ductal dilatation.  Spleen, stomach, small
+     and large bowel, kidneys, ureters and adrenal glands are within normal limits.
+     Intraabdominal aorta has a normal caliber and exhibits extensive mural
+     calcifications.  There is a small amount of ascites around the liver and
+     spleen.  No free air or lymphadenopathy are seen in the abdomen.
+     
+     PELVIC CT WITH IV CONTRAST:  There is a small amount of ascites extending into
+     the pelvis.  Rectum, pelvic loops of bowel, urinary bladder, distal ureters
+     and uterus are within normal limits.  No adnexal masses or pelvic
+     lymphadenopathy are seen.
+     
+     Osseous structures show stable Paget's disease in the pelvis.
+     
+     IMPRESSION:
+     1) New enhancing epicardial mass concerning for metastatic disease. Associated
+     very large new pericardial effusion.
+     
+     2) Findings suggestive of right heart failure, possibly secondary to
+     constrictive pericardial fluid, could explain the small bilateral pleural
+     effusions, edematous gallbladder wall, intraabdominal ascites and soft tissues
+     anasarca.
+     
+                                                                 (Over)
+
+     DATE: [**2774-12-24**] 2:56 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11070**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: SMALL CELL LUNG CANCER
+     Field of view: 27 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3) Compressive lingular atelectasis.
+     
+     4) Bilateral paramediastinal pulmonary opacities appear to have a geographic
+     distribution and could represent  post XRT changes.  Correlation with any
+     history of radiation therapy is necessary.  Given the appearance of these
+     opacities, tumor involvement is unlikely.  In the absence of prior history of
+     XRT, these findings could represent an infectious/inflammatory process.
+     
+     5) Heavily calcified aorta with normal caliber.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) **].
+
+",,
+8861,,,,2774-12-24 00:00:00 EST,,,,,"RADIOLOGY_REPORT",,"
+
+
+     DATE: [**2774-12-24**] 2:56 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11070**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: SMALL CELL LUNG CANCER
+     Field of view: 27 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     INDICATION: Reevaluation of small cell lung cancer.
+     
+     COMPARISON: [**2774-8-19**]
+     
+     TECHNIQUE: Contiguous axial images of the chest, abdomen and pelvis were
+     obtained without and with IV contrast.  150 cc of nonionic IV contrast were
+     administered. Nonionic IV contrast was used at patient's request.
+     
+     CHEST CT WITH IV CONTRAST: Soft tissue windows show interval resolution of
+     mediastinal lymphadenopathy.  No axillary or hilar lymph node enlargement is
+     seen.  Intrathoracic aorta has a normal caliber and exhibits extensive mural
+     calcifications.  New enhancing epicardial mass is seen within the pericardial
+     space.  In addition there is a very large pericardial effusion.  There is
+     reflux of contrast into the IVC and hepatic veins on the arterial phase of
+     contrast, suggestive of right heart failure.  New small bilateral pleural
+     effusions are also seen.  Lung windows show collapse of the lingula, possibly
+     compressive in nature from the enlarged cardiac contour.  Linear and patchy
+     opacities in a paramedial geographic distribution are new.  No pulmonary
+     nodules or masses are seen.  Airways appear patent to the level of the
+     segmental bronchi bilaterally.
+     
+     ABDOMEN CT W/O&W IV CONTRAST: Liver has a homogeneous enhancement pattern,
+     with no focal lesions.  There is no intrahepatic biliary tree dilatation.
+     Gallbladder has a very edematous wall in the absence of full distention.
+     Pancreas is unremarkable, with no ductal dilatation.  Spleen, stomach, small
+     and large bowel, kidneys, ureters and adrenal glands are within normal limits.
+     Intraabdominal aorta has a normal caliber and exhibits extensive mural
+     calcifications.  There is a small amount of ascites around the liver and
+     spleen.  No free air or lymphadenopathy are seen in the abdomen.
+     
+     PELVIC CT WITH IV CONTRAST:  There is a small amount of ascites extending into
+     the pelvis.  Rectum, pelvic loops of bowel, urinary bladder, distal ureters
+     and uterus are within normal limits.  No adnexal masses or pelvic
+     lymphadenopathy are seen.
+     
+     Osseous structures show stable Paget's disease in the pelvis.
+     
+     IMPRESSION:
+     1) New enhancing epicardial mass concerning for metastatic disease. Associated
+     very large new pericardial effusion.
+     
+     2) Findings suggestive of right heart failure, possibly secondary to
+     constrictive pericardial fluid, could explain the small bilateral pleural
+     effusions, edematous gallbladder wall, intraabdominal ascites and soft tissues
+     anasarca.
+     
+                                                                 (Over)
+
+     DATE: [**2774-12-24**] 2:56 PM
+     CT CHEST W/CONTRAST; CT ABD W&W/O C                             Clip # [**Clip Number (Radiology) 11070**]
+     CT PELVIS W/CONTRAST; CT 150CC NONIONIC CONTRAST
+     Reason: SMALL CELL LUNG CANCER
+     Field of view: 27 Contrast: OPTIRAY Amt: 150
+     ______________________________________________________________________________
+                                     FINAL REPORT
+     (Cont)
+     3) Compressive lingular atelectasis.
+     
+     4) Bilateral paramediastinal pulmonary opacities appear to have a geographic
+     distribution and could represent  post XRT changes.  Correlation with any
+     history of radiation therapy is necessary.  Given the appearance of these
+     opacities, tumor involvement is unlikely.  In the absence of prior history of
+     XRT, these findings could represent an infectious/inflammatory process.
+     
+     5) Heavily calcified aorta with normal caliber.
+     
+     Findings were discussed with Dr. [**Last Name (STitle) **].
+
+",,
+8861,1924,,,2774-12-25 00:00:00 EST,,,,,"DISCHARGE_SUMMARY",,"
+
+Admission Date:  [**2774-12-25**]     Discharge Date:  [**2774-12-29**]
+
+Date of Birth:   [**2692-7-12**]     Sex:  F
+
+Service:
+
+CHIEF COMPLAINT:  Shortness of breath.
+
+HISTORY OF PRESENT ILLNESS:  The patient is an 82-year-old
+female with limited stage small cell lung cancer who was
+treated with three cycles of carboplatin/etoposide and
+concurrent radiation therapy completed in 10/02.  Treatment
+course was complicated by pneumonia and her fourth course of
+chemotherapy was held.  She did relatively well until [**10-28**]
+when she complained of headache.  Temporal artery biopsy was
+performed and was negative, so she was put on prednisone
+taper.
+
+More recently, she has been complaining of decreased
+appetite, increased shortness of breath, nausea, and
+vomiting.  Laboratory work included increased LFTs.  CT scan
+torso yesterday revealed a large pericardial effusion from an
+epi-pericardial mass resulting in right heart failure.  She
+was electively admitted for management of pericardial
+effusion.
+
+PAST MEDICAL HISTORY:
+1. Congestive obstructive pulmonary disease.
+2. Coronary artery disease status post myocardial infarction
+and PTCA with stent placement.
+3. Chronic lower back pain.
+4. Small cell lung cancer.
+
+ALLERGIES:  She has no known drug allergies.
+
+MEDICATIONS ON ADMISSION:
+1. Levoxyl 75 mg po q day.
+2. Paxil 30 mg po q day.
+3. Enalapril 5 mg po q day.
+4. Diazepam 3 mg po q day.
+5. Zocor 40 mg po q day.
+6. Trazodone 50 mg po q day.
+7. Roxicet one teaspoon prn.
+8. Megace 400 mg po q day.
+
+PHYSICAL EXAM ON ADMISSION:  Temperature 96.9, blood pressure
+of 86/palp, heart rate in the 90s, respiratory rate 16,
+sating well on room air.  In general, she is a thin female in
+bed.  HEENT:  Oropharynx is clear.  Neck is supple.
+Cardiovascular:  Sinus tachycardia, faint S1, S2.  Lungs:
+Coarse breath sounds, otherwise clear.  Abdomen is soft with
+mild tenderness.  Extremities:  No lower extremity edema.
+
+LABORATORY VALUES ON ADMISSION:  White blood cell count of
+10.6, hematocrit of 38.1, platelets of 310.  Sodium of 132,
+potassium of 4.6, chloride 96, CO2 22, BUN of 27, creatinine
+1.1.  Glucose 142, INR of 1.4.
+
+HOSPITAL COURSE BY SYSTEM:  The patient was transferred to
+the CCU from OMED for elective pericardial centesis.  A
+pericardial centesis was performed by under normal
+procedures, which removed immediately 600 mL of
+serosanguinous fluid followed by an additional 4-500 cc over
+the next 48 hours.
+
+The pericardial drain was left in place until drainage was
+less than 100 cc per day.  It was removed, and the patient
+was transferred to the Medicine Service in good condition.
+The patient's symptoms improved markedly with drainage of
+pericardial effusion.  She remained in chronic asymptomatic
+tachycardia, however, even after drainage of the effusion.
+
+Oncology:  Patient and family decided at this time they did
+not wish to undergo further chemotherapy and that she would
+be made DNR/DNI, and brought home as a bridge to hospice.
+
+DISCHARGE DIAGNOSES:
+1. Small cell lung cancer.
+2. Pericardial effusion.
+3. Pericardial tamponade.
+4. Coronary artery disease.
+
+DISCHARGE MEDICATIONS:
+1. Diazepam 1 mg po q day.
+2. Vitamin D 400 units po q day.
+3. Calcium carbonate 500 mg po tid.
+4. Prednisone 5 mg po q day.
+5. Senna two tablets po q hs.
+6. Docusate 100 mg po bid.
+7. Lactulose 30 mg po q6 prn.
+8. Protonix 40 mg po q day.
+9. Aspirin 81 mg po q day.
+10. Percocet 1-2 tablets q4-6h prn.
+11. Trazodone 50 mg po q hs.
+12. Simvastatin 40 mg po q day.
+13. Peroxitine 30 mg po q day.
+14. Levothyroxine 75 mcg po q day.
+
+DISPOSITION:  She was discharged in stable condition to home.
+
+
+                          [**Name6 (MD) **] [**Name8 (MD) **], M.D.  [**MD Number 12350**]
+
+Dictated By:[**Last Name (NamePattern1) 3761**]
+
+MEDQUIST36
+
+D:  [**2774-12-29**]  10:47
+T:  [**2774-12-30**]  13:30
+JOB#:  [**Job Number 12351**]
+Signed electronically by: DR. [**First Name (STitle) **] [**Name (STitle) **]
+ on: WED [**2775-1-1**] 9:49 AM
+(End of Report)
+
+
+",,
+8861,1924,11016,1,2774-12-25 22:00:00 EST,2774-12-26 02:37:00 EST,-1,"Y",1,"Nursing/Other",,"
+
+PLAN: ECHO in AM to determine if pericardial effusion has significantly changed. Will DC catheter in AM if results are improved.
+",,
+8861,1924,11016,0,2774-12-25 22:00:00 EST,2774-12-26 01:07:00 EST,-1,"N",1,"Nursing/Other",,"
+
+pt received in bed side rails up x 2. Monitor checked alarms set. Assessment complete.
+
+Neuro: Pt awake, follows commands, English second language. C/O pain at pericardial drain site. PEARL, cough intact.
+
+CV: sinus tach 115-125, SBP 88-112, radial pulses palpable, pedal pulses dopplerable, temp 97.0 oral. good cap refills. Substernal pericardial drain, with serosang drainage (minimal). Dressing CDI>
+
+Resp: 5L NC with sats 95-100%. Left lung with fine crackles in lower lobe. Right lung clear but diminished. 
+
+GI: Cadiac diet, bowel sounds present in all 4 quads. No BM.
+
+GU: Foley, clear yellow with poor output. MD aware.
+
+skin: Bilateral arm bruising, small skin tears on right buttock. Duoderm applied to site. 
+
+IV's: PIV in Left forearm.
+",,
+8861,1924,11016,0,2774-12-26 01:09:00 EST,2774-12-26 01:14:00 EST,-1,"N",1,"Nursing/Other",,"
+
+Pt given percocet at 8pm for moderate incisional pain with good relief. Pt sleeping on and off, but appears confused when awake. Pericardial cath. draining minimal fluid. Urine output dropped off, 500 cc NS bolus given x 2.
+",,
+8861,1924,11016,0,2774-12-26 02:32:00 EST,2774-12-26 02:34:00 EST,-1,"N",1,"Nursing/Other",,"
+
+Urine output continues to be low. Foley catheter flushed with 30 cc sterile H2o, no clots detected, flushes easily. 30cc aspirated. 
+",,
+8861,1924,11016,0,2774-12-26 16:46:00 EST,2774-12-26 17:07:00 EST,96,"N",1,"Nursing/Other","pericadial effusion, drain","
+pericadial effusion, drain
+ccu npn
+o- afebrile. cv- hr 114-120 st, no vea. bp 90s-100/. na 128. urine lytes sent. avoid free water. k-4.2. hct 31.5. inr 1.4. ca 7.5, starting tums/vit d. pericardial drain aspirated q2-4hrs with no aspirate obtained, flushed easily x1, but flush not returned. has sero-sang in tubing with appr. 225cc more in bag than recorded when 1st arrived in ccu for total of 325cc so far. groin d+i, no hematoma pulses dps 1+, pts dopp. bilat. 
+resp- on 3l weaned to r/a, sat 95-96. denies sob. l/s dim, ess. clear. no cough. u/o low 0-39cc/hr, ho aware. 
+gi- no n/v. app. fair. needs assist with set up, minimal assist with feeding. no bm. on colace. 
+ms- knows own name, recognizes fx members. knows in hospital, not which one. does not know date. does not recall after reoriented. cooperative, pleasant, follows commands. confused. not touching iv, drain. 
+skin- repos side to side to back q2-3hrs with skin care. has skin tear on coccyx area, duoderm on. 
+social- fx in, supportive to pt. dtr, [**Location (un) **] is caretaker and reports pt more confused at home all time (previously just at noct) since felt ill last 10days, also very difficult to walk lately and was unsteady before that. only walking to br since became ill. pt had vna through [**Hospital3 **] home care (nurse, hha 2 days week) but was stopped prior to admission. dtr, [**Location (un) 3665**], has been caring for mother since [**Name2 (NI) **]. other dtr and son in to visit. 
+",,
+8861,1924,11016,0,2774-12-26 19:31:00 EST,2774-12-26 19:41:00 EST,96,"N",1,"Nursing/Other","afib","
+afib
+ccu npn addendum
+o- pt started eating dinner and went into rapid afib at 1730 rate 130-160, ho aware. bp 91-93. denied cpain, sob, palpitations. o2 on 2l. sat 98-99. ekg done and re'd 5mg lopressor iv. converted to sr-st at 1800 rate 60s up to 100s. ekg repeated. bp then 70s-80s, asymptomatic. re'd 2 ivf boluses 250cc n/s, bp 80s, occ to 70s, occ to 90s. 
+",,
+8861,1924,11016,0,2774-12-27 04:17:00 EST,2774-12-27 04:34:00 EST,-1,"N",1,"Nursing/Other",,"
+
+Pt received in bed with side rails up x 2. Monitor checked, alarms set. Family at bedside. Assessment complete. Pt denies pain.
+
+Neuro: pt awake, picking at EKG leads, denies pain. Oriented to self, place (hospital, but unsure of specifics),oriented to family. MAE. swallow and cough intact. follow commands.
+
+CV: sinus tach 99-120's. SBP remains low in the 80's-90's. pulses palpable in all 4 ext. Pedal pulses weak but warm with good cap refills. Pt remains afebrile. Two episodes of non-sustained VT x 6 beats, with self termination. Lytes sent and Dr. [**Last Name (STitle) 3189**] aware. pericardial drain intact, dressing changed. Pericardial bag emptied [**Name8 (MD) 34**] MD request with sterile technique. 325cc sersang drainage recorded. Unable to aspirate any fluid from catheter, open to gravity.
+
+Resp: 2 litres NC, sats >98%. O2 weaned to off, sats stable at 94%. Lungs initially have exp. wheezes in upper fields bilateral. Currently right lung clear with diminished breath sounds in lower lobe, left lung with crackles throughout. Pt denies SOB when awake, appears comfortable.
+
+GI: cardiac diet. Eats snack prior to bed, swallow intact. BS present, belly slightly firm upon palpatation, no BM.
+
+GU: foley. Dark yellow clear urine. very low output. Dr. [**Last Name (STitle) 6235**] aware throughout night shift of low output.
+
+IV's: Left forearm PIV. heplocked. WNL.
+
+Skin: Duoderm on right buttock for small skin tears. multiple bruises on bilateral arms, papery skin.
+
+Plan: Remove pericardial drain today.
+
+
+",,
+8861,1924,11016,1,2774-12-27 04:17:00 EST,2774-12-27 06:03:00 EST,-1,"Y",1,"Nursing/Other",,"
+
+Clarify pt is DNR/DNI. Order in front of blue chart.
+",,
+8861,1924,11016,0,2774-12-27 19:40:00 EST,2774-12-27 19:57:00 EST,96,"N",1,"Nursing/Other","pericardial effusion","
+pericardial effusion
+ccu npn
+o- afebrile. cv- hr st 105-113 st, no vea, af. bp 80s-90s. k-3.7, re'd 40meq po x1, re'd mgso4 2amps iv x1. na up to 131. pericardial drain with about 90cc out sero-sang since 12am. drain d/c'd by fellow at 6:15pm, re'd fentanyl 25mic total. site dry with bandaid. r groin d+i, dsd off, open to air. 
+resp- on r/a sats 94-97. l/s sl. coarse lower, dim thruout, rare [**Last Name (un) **]. wheeze. 
+gi- app. poor, taking few bites, took some shake also, boost plus and boost pudding ordered. takes fluids fair po. avoid free water with low na. no bm. 
+ms- somewhat more oriented this pm and was oriented to self, fx. knows in hospital, not which one, knows year, not month. occ. confused statements. cooperative. 
+skin- has skin tears on buttocks, duoderm reapplied. repos side to side with skin care q2hrs. 
+a- peri. effusion, s/p tap/drain.
+p- follow for pericadial fluid reaccumulation, watch for increased tachycardia, sob, hypotension. follow ms, enc. po esp. supplements.   
+",,
+8861,1924,11016,0,2774-12-28 06:42:00 EST,2774-12-28 06:51:00 EST,342,"N",1,"Nursing/Other",,"
+
+NEURO: ORIENTED TO PERSON ONLY. SOMETIMES SHE IS AWARE THAT SHE IS IN
+       THE HOSPITAL, BUT MOST TIMES SHE THINKS SHE IS AT HOME OR IN 
+       [**Location (un) **]. 
+RESP: O2->95-97% ON RM. AIR. RR 12-22. BS WITH CRACKLES IN UPPER AIR-
+      WAYS & DIMINISHED AT BASES.
+CARDIAC: HR 120->111 ST, NO ECTOPY. BP 92-104/56-68. SOME SOB WITH
+         EXERTION. DENIES C/O CP. PERICARDIAL DRAIN SITE C&D.
+GI: ABD. SL. DISTENDED. BS+. NO STOOL. APPETITE POOR.
+GU: FOLEY->CD PATENT & DRAINING CLEAR AMBER-YELLOW URINE. U/O IMPROVED
+    15-105CC/HR.
+ID: AFEBRILE.
+AM LABS: WBC 10.2, HCT 34.8, PLAT CT 286K. CHEMISTRIES & COAGS PEND-
+         ING.
+PLAN: TRANSFER TO FLOOR. 
+",,
+8861,1924,11016,0,2774-12-28 16:57:00 EST,2774-12-28 17:13:00 EST,492,"N",1,"Nursing/Other","CCU NURSING S/P PERICARDIAL DRAIN","
+CCU NURSING S/P PERICARDIAL DRAIN
+S.  ""I'M GOING TO PACK MY BAGS AND LEAVE THIS HOSPITAL FOREVER!""\
+
+O.  NEURO:  ALERT, VARYING ORIENTATION X [**11-28**], VERY ORNERY, WANTS TO LEAVE HOSPITAL, REFUSING HEPARIN SHOTS, ETC; VALIUM 1MG PO THIS AM
+
+ALT COMFORT:  AT TIMES C/O PAIN ALL OVER, AT OTHER TIMES WHEN ASKED, PT SAYS SHE HAS NO PAIN, DIFFICULT TO ASSESS IF RELIABLE; RECEIVED PERCOCET 1 TAB PO X 2 TODAY W/FAIR RELIEF
+
+CV:  HR 102-119 ST, 1 BRIEF BURST SVT TO 170'S THIA AM, BROKE SPONTANEOUSLY, 1600 SVT AGAIN W/RATES 160-200'S, CP HIGHER THAN NORM AT 100-114/ RECEIVED LOPRESSOR 5MG IV X1 W/DECREASE IN RATE TO 140-160'S, FINALLY BROKE SPONTANEOUSLY ~ 1700 TO RATE 101
+BP RANGE TODAY 85-114/50-60'S
+
+RESP:  LUNGS CLEAR BUT DIMINISHED, SATS 93-97% ON ROOM AIR
+
+GI:  TOLERATING DIET IN SM AMOUNTS - MOSTLY BOOST SHAKES AND PUDDING, NO STOOL, NO C/O N/V
+
+GU:  FOLEY DRAINING V. SM. AMOUNTS AMBER URINE, + 4 L SINCE ADMISSION
+
+SOCIAL:  DAUGHTER IN TO VISIT IN AM - SPOKE W/CASE MANAGER ON CALL - ARRANGING TO RETURN PT TO HOME TOMORROW W/SERVICES AND EQUIPTMENT, PT CONSULTED - WILL COME BACK IN TO WORK W/PT IN AM SINCE PT WAS TACHYCARDIC DURING TODAY'S VISIT; CALLED OUT TO MEDICINE - NO BEDS AVAILABLE
+
+A:  S/P PERICARDIAL DRAIN, AWAITING D/C FOR AM
+
+P:  MONITOR HR/RHYTHM, EVALUATE PAIN - PERCOCET, PRN, PT EVAL IN AM, ? HOME IN AM W/SERVICES; CONTINUE SUPPORTIVE CARE FOR PT/FAMILY, DISCHARGE PLANNING.
+",,
